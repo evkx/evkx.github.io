@@ -33,7 +33,7 @@ The Nio ET9 packs an impressive punch with a maximum power of 520 kW (707 hp / 6
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 120 kWh and a net usable capacity of 112 kWh, providing an 8 kWh buffer (6.7%) for battery protection.
+The high-capacity battery has a gross capacity of 120 kWh and a net usable capacity of 112 kWh, providing an 8 kWh buffer (6.7%) for battery protection. Operating at a nominal voltage of 925 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 720 km (448 miles), with an energy consumption rate of 15.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

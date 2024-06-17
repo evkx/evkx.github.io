@@ -33,7 +33,7 @@ El Audi Q6L e-tron quattro ofrece un rendimiento sólido con una potencia máxim
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 107 kWh y una capacidad neta utilizable de 101,5 kWh, proporcionando un buffer de 5,5 kWh (5,1%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 107 kWh y una capacidad neta utilizable de 101,5 kWh, proporcionando un buffer de 5,5 kWh (5,1%) para la protección de la batería. Operando a un voltaje nominal de 706 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 625 y 540 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 16,2 kWh/100 km para el modelo base y 18,8 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

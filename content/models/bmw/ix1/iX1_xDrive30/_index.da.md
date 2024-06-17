@@ -33,7 +33,7 @@ BMW iX1 xDrive30 tilbyder beskedne præstationer med en maksimal effekt på 230 
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 68 kWh og en nettoanvendelig kapacitet på 64,7 kWh, hvilket giver en buffer på 3,3 kWh (3%) til batteribeskyttelse.
+Det højkapacitetsbatteri har en bruttokapacitet på 68 kWh og en nettoanvendelig kapacitet på 64,7 kWh, hvilket giver en buffer på 3,3 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 286 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
 Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 440 og 417 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 14,7 kWh/100 km for basismodellen og 15,5 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

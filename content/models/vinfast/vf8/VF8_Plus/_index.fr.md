@@ -33,7 +33,7 @@ La VinFast VF8 Plus offre des performances solides avec une puissance maximale d
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 94 kWh et une capacité nette utilisable de 87,7 kWh, offrant une réserve de 6,3 kWh (6,7%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 94 kWh et une capacité nette utilisable de 87,7 kWh, offrant une réserve de 6,3 kWh (6,7%) pour la protection de la batterie. Avec une tension nominale de 403 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 447 km, avec une consommation d'énergie de 19,6 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

@@ -33,7 +33,7 @@ Kia EV6 GT imponerer med en imponerende kraft på 430 kW (585 hk) og et betydeli
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 77,4 kWh og en netto brukbar kapasitet på 74 kWh, som gir en buffer på 3,4 kWh (4,4%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 77,4 kWh og en netto brukbar kapasitet på 74 kWh, som gir en buffer på 3,4 kWh (4,4%) for batteribeskyttelse. Ved å operere med en nominell spenning på 697 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 424 km, med et energiforbruk på 17,5 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

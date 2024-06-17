@@ -33,7 +33,7 @@ El BYD Tang EV600 ofrece un rendimiento sólido con una potencia máxima de 380 
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 90 kWh y una capacidad neta utilizable de 86,4 kWh, proporcionando un buffer de 3,6 kWh (4,0%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 90 kWh y una capacidad neta utilizable de 86,4 kWh, proporcionando un buffer de 3,6 kWh (4,0%) para la protección de la batería. Operando a un voltaje nominal de 640 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 400 km, con una tasa de consumo de energía de 21,6 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

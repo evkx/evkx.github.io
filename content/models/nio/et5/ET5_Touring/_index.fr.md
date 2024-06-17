@@ -36,7 +36,7 @@ La Nio ET5 Touring impressionne avec une puissance maximale de 480 kW (653 ch) e
 Nio ET5 Touring propose deux options de batterie avec des spécifications différentes. Vous voyez ci-dessous comment cela affecte l'autonomie et la charge.
 ### 100kWh
 
-La batterie haute capacité a une capacité brute de 100 kWh et une capacité nette utilisable de 90 kWh, offrant une réserve de 10 kWh (10,0%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 100 kWh et une capacité nette utilisable de 90 kWh, offrant une réserve de 10 kWh (10,0%) pour la protection de la batterie. Avec une tension nominale de 358 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 560 et 540 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 16,1 kWh/100 km pour le modèle de base et à 16,7 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
@@ -45,7 +45,7 @@ La vitesse de charge DC maximale est de 180kW. Une charge complète de 0 à 100 
 Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 23 kWh/100 km, le voyage prendrait environ 9 heures et 58 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 40%, avec un temps de recharge total de 98 minutes.
 ### 75kWh
 
-La batterie haute capacité a une capacité brute de 75 kWh et une capacité nette utilisable de 70,5 kWh, offrant une réserve de 4,5 kWh (6,0%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 75 kWh et une capacité nette utilisable de 70,5 kWh, offrant une réserve de 4,5 kWh (6,0%) pour la protection de la batterie. Avec une tension nominale de 386 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 456 et 419 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 16,1 kWh/100 km pour le modèle de base et à 16,7 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

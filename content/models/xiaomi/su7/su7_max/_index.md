@@ -33,7 +33,7 @@ The Xiaomi SU7 Max packs an impressive punch with a maximum power of 495 kW (673
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 101 kWh and a net usable capacity of 99 kWh, providing an 2 kWh buffer (2.0%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 101 kWh and a net usable capacity of 99 kWh, providing an 2 kWh buffer (2.0%) for battery protection. Operating at a nominal voltage of 871 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 800 km ( miles). he energy consumption is 12.4 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

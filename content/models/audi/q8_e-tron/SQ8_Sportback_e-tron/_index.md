@@ -33,7 +33,7 @@ With overboost, the Audi SQ8 Sportback e-tron reaches a maximum power of 370 kW 
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 114 kWh and a net usable capacity of 106 kWh, providing an 8 kWh buffer (7.0%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 114 kWh and a net usable capacity of 106 kWh, providing an 8 kWh buffer (7.0%) for battery protection. With a nominal voltage of 396 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 513 to 469 km (319-292 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 20.7 kWh/100 km for the base model and 22.6 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

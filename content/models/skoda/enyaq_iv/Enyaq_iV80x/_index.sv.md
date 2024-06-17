@@ -33,7 +33,7 @@ SKODA Enyaq iV80x erbjuder blygsamma prestanda med en maximal effekt på 195 kW 
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 82 kWh och en nettoanvändbar kapacitet på 77 kWh, vilket ger en buffert på 5 kWh (6,1%) för batteriskydd.
+Högkapacitetsbatteriet har en bruttokapacitet på 82 kWh och en nettoanvändbar kapacitet på 77 kWh, vilket ger en buffert på 5 kWh (6,1%) för batteriskydd. Med en nominell spänning på 350 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 504 km (199 miles), med en energiförbrukningshastighet på 15,3 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

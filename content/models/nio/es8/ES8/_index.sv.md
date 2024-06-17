@@ -36,7 +36,7 @@ Nio ES8 imponerar med en imponerande kraft på 400 kW (544 hk) och ett imponeran
 Nio ES8 har två batterialternativ med olika specifikationer. Nedan kan du se hur detta påverkar räckvidd och laddning.
 ### 100kWh
 
-Högkapacitetsbatteriet har en bruttokapacitet på 100 kWh och en nettoanvändbar kapacitet på 90 kWh, vilket ger en buffert på 10 kWh (10,0%) för batteriskydd.
+Högkapacitetsbatteriet har en bruttokapacitet på 100 kWh och en nettoanvändbar kapacitet på 90 kWh, vilket ger en buffert på 10 kWh (10,0%) för batteriskydd. Med en nominell spänning på 358 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 460 km (199 miles), med en energiförbrukningshastighet på 19,6 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -45,7 +45,7 @@ Maximal DC-laddningshastighet är 126 kW. En full laddning från 0 - 100 % tar 8
 I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 30 kWh/100 km, skulle resan ta ungefär 11 timmar och 1 minuter. Denna resa skulle kräva två laddningsstopp från 11% till 67%, med en total laddningstid på 162 minuter.
 ### 75kWh
 
-Högkapacitetsbatteriet har en bruttokapacitet på 75 kWh och en nettoanvändbar kapacitet på 70,5 kWh, vilket ger en buffert på 4,5 kWh (6,0%) för batteriskydd.
+Högkapacitetsbatteriet har en bruttokapacitet på 75 kWh och en nettoanvändbar kapacitet på 70,5 kWh, vilket ger en buffert på 4,5 kWh (6,0%) för batteriskydd. Med en nominell spänning på 386 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 350 km (199 miles), med en energiförbrukningshastighet på 19,6 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

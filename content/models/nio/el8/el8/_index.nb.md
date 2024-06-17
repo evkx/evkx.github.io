@@ -36,7 +36,7 @@ Nio EL8 imponerer med en imponerende kraft på 480 kW (653 hk) og et betydelig d
 Nio EL8 har to batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading.
 ### 100kWh
 
-Høykapasitetsbatteriet har en brutto kapasitet på 100 kWh og en netto brukbar kapasitet på 90 kWh, som gir en buffer på 10 kWh (10,0%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 100 kWh og en netto brukbar kapasitet på 90 kWh, som gir en buffer på 10 kWh (10,0%) for batteribeskyttelse. Med en nominell spenning på 358 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 510 og 493 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 17,6 kWh/100 km for basismodellen og 18,3 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
@@ -45,7 +45,7 @@ Maksimal DC-ladehastighet er 240 kW. En full lading fra 0 - 100 % vil ta 75 minu
 I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 30 kWh/100 km, ville turen ta omtrent 10 timer og 47 minutter. Denne reisen ville kreve to ladestopp fra 1% til 40%, med en total ladetid på 147 minutter.
 ### 75kWh
 
-Høykapasitetsbatteriet har en brutto kapasitet på 75 kWh og en netto brukbar kapasitet på 70,5 kWh, som gir en buffer på 4,5 kWh (6,0%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 75 kWh og en netto brukbar kapasitet på 70,5 kWh, som gir en buffer på 4,5 kWh (6,0%) for batteribeskyttelse. Med en nominell spenning på 386 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 390 og 379 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 17,6 kWh/100 km for basismodellen og 18,3 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

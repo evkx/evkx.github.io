@@ -33,7 +33,7 @@ The Lucid Air Dream Edition Performance delivers a jaw-dropping maximum power of
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 118 kWh and a net usable capacity of 117 kWh, providing an 1 kWh buffer (0.8%) for battery protection.
+The high-capacity battery has a gross capacity of 118 kWh and a net usable capacity of 117 kWh, providing an 1 kWh buffer (0.8%) for battery protection. Operating at a nominal voltage of 800 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 861 to 828 km (535-515 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.6 kWh/100 km for the base model and 14.1 kWh/100 km for the top-tier model under the WLTP test cycle. This range is amongst the longest in its class, and the high efficiency makes it one of the most economical vehicles in its category. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

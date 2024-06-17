@@ -33,7 +33,7 @@ La Genesis Electrified GV70 offre des performances solides avec une puissance ma
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 77,4 kWh et une capacité nette utilisable de 74 kWh, offrant une réserve de 3,4 kWh (4,4%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 77,4 kWh et une capacité nette utilisable de 74 kWh, offrant une réserve de 3,4 kWh (4,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 697 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 470 km, avec une consommation d'énergie de 15,7 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

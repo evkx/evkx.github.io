@@ -33,7 +33,7 @@ Xiaomi SU7 Max imponerar med en imponerande kraft på 495 kW (673 hk) och ett im
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 101 kWh och en nettoanvändbar kapacitet på 99 kWh, vilket ger en buffert på 2 kWh (2,0%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 101 kWh och en nettoanvändbar kapacitet på 99 kWh, vilket ger en buffert på 2 kWh (2,0%) för batteriskydd. Vid en nominell spänning på 871 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 [CLTC-räckvidd](../../../../guides/understandingrange/cltc/) är 800 km ( miles). Förbrukningen är 12,4kw/100km för CLTC-standardtestet. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

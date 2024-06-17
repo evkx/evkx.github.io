@@ -33,7 +33,7 @@ El Peugot E-208 ofrece un rendimiento modesto con una potencia máxima de 115 kW
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 51 kWh y una capacidad neta utilizable de 48,1 kWh, proporcionando un buffer de 2,9 kWh (5,7%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 51 kWh y una capacidad neta utilizable de 48,1 kWh, proporcionando un buffer de 2,9 kWh (5,7%) para la protección de la batería. Con un voltaje nominal de 377 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 400 km, con una tasa de consumo de energía de 12,0 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

@@ -33,7 +33,7 @@ The BYD Tang EV600 delivers a solid performance with a maximum power of 380 kW (
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 90 kWh and a net usable capacity of 86,4 kWh, providing an 3,6 kWh buffer (4.0%) for battery protection.
+The high-capacity battery has a gross capacity of 90 kWh and a net usable capacity of 86,4 kWh, providing an 3,6 kWh buffer (4.0%) for battery protection. Operating at a nominal voltage of 640 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 400 km (249 miles), with an energy consumption rate of 21.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

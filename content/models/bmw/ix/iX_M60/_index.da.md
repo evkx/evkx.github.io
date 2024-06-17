@@ -33,7 +33,7 @@ BMW iX M60 imponerer med en maksimal effekt på 455 kW (619 hk) og et imponerend
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 111 kWh og en nettoanvendelig kapacitet på 105,2 kWh, hvilket giver en buffer på 5,8 kWh (3%) til batteribeskyttelse.
+Det højkapacitetsbatteri har en bruttokapacitet på 111 kWh og en nettoanvendelig kapacitet på 105,2 kWh, hvilket giver en buffer på 5,8 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 369 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
 Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 561 og 502 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 18,8 kWh/100 km for basismodellen og 21,0 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

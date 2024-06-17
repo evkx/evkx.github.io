@@ -33,7 +33,7 @@ Subaru Solterra AWD tilbyder beskedne præstationer med en maksimal effekt på 1
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 71,4 kWh og en nettoanvendelig kapacitet på 58 kWh, hvilket giver en buffer på 13,4 kWh (3%) til batteribeskyttelse.
+Det højkapacitetsbatteri har en bruttokapacitet på 71,4 kWh og en nettoanvendelig kapacitet på 58 kWh, hvilket giver en buffer på 13,4 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 355,2 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
 Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 466 og 416 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 12,4 kWh/100 km for basismodellen og 13,9 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

@@ -33,7 +33,7 @@ BMW i4 eDrive40 leverer solid ytelse med en maksimal effekt på 250 kW (340 hk) 
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 83,9 kWh og en netto brukbar kapasitet på 80,7 kWh, som gir en buffer på 3,2 kWh (3,8%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 83,9 kWh og en netto brukbar kapasitet på 80,7 kWh, som gir en buffer på 3,2 kWh (3,8%) for batteribeskyttelse. Med en nominell spenning på 399 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 590 og 493 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 13,7 kWh/100 km for basismodellen og 16,4 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

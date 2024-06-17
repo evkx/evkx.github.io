@@ -33,7 +33,7 @@ El Mercedes-EQ EQB 300 4MATIC ofrece un rendimiento modesto con una potencia má
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 69,7 kWh y una capacidad neta utilizable de 66,5 kWh, proporcionando un buffer de 3,2 kWh (4,6%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 69,7 kWh y una capacidad neta utilizable de 66,5 kWh, proporcionando un buffer de 3,2 kWh (4,6%) para la protección de la batería. Con un voltaje nominal de 367 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 423 y 388 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 15,7 kWh/100 km para el modelo base y 17,1 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

@@ -33,7 +33,7 @@ The Tesla Model Y Long Range delivers a solid performance with a maximum power o
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 79 kWh, providing an 3 kWh buffer (3.7%) for battery protection.
+The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 79 kWh, providing an 3 kWh buffer (3.7%) for battery protection. With a nominal voltage of 357 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 542 to 533 km (337-331 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.6 kWh/100 km for the base model and 14.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

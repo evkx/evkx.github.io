@@ -33,7 +33,7 @@ La Hongqi E-HS9 Premium impressionne avec une puissance maximale de 405 kW (551 
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 99 kWh et une capacité nette utilisable de 95,3 kWh, offrant une réserve de 3,7 kWh (3,7%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 99 kWh et une capacité nette utilisable de 95,3 kWh, offrant une réserve de 3,7 kWh (3,7%) pour la protection de la batterie. Avec une tension nominale de 410 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 465 km, avec une consommation d'énergie de 20,5 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

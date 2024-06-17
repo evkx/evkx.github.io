@@ -33,7 +33,7 @@ Nio ET9 imponerer med en imponerende kraft på 520 kW (707 hk) og et betydelig d
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 120 kWh og en netto brukbar kapasitet på 112 kWh, som gir en buffer på 8 kWh (6,7%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 120 kWh og en netto brukbar kapasitet på 112 kWh, som gir en buffer på 8 kWh (6,7%) for batteribeskyttelse. Ved å operere med en nominell spenning på 925 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 720 km, med et energiforbruk på 15,6 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

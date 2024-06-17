@@ -33,7 +33,7 @@ BYD Seagull 38kWh kWh leverer grundlæggende ydeevne med en maksimal effekt på 
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 38,8 kWh og en nettoanvendelig kapacitet på 37 kWh, hvilket giver en buffer på 1,8 kWh (3%) til batteribeskyttelse. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Det højkapacitetsbatteri har en bruttokapacitet på 38,8 kWh og en nettoanvendelig kapacitet på 37 kWh, hvilket giver en buffer på 1,8 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 403 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
 [CLTC-rækkevidde](../../../../guides/understandingrange/cltc/) er 405 km ( miles). Forbruget er 9,1kWh/100 km for CLTC-standardtesten. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

@@ -33,7 +33,7 @@ El Lucid Air Dream Edition Performance entrega una impresionante potencia máxim
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 118 kWh y una capacidad neta utilizable de 117 kWh, proporcionando un buffer de 1 kWh (0,8%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 118 kWh y una capacidad neta utilizable de 117 kWh, proporcionando un buffer de 1 kWh (0,8%) para la protección de la batería. Operando a un voltaje nominal de 800 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 861 y 828 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 13,6 kWh/100 km para el modelo base y 14,1 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Esta autonomía está entre las más largas de su clase y la alta eficiencia lo convierte en uno de los vehículos más económicos de su categoría. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

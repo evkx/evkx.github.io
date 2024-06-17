@@ -33,7 +33,7 @@ The BYD Atto 3 offers modest performance with a maximum power of 150 kW (204 hp 
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 60,5 kWh and a net usable capacity of 58 kWh, providing an 2,5 kWh buffer (4.1%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 60,5 kWh and a net usable capacity of 58 kWh, providing an 2,5 kWh buffer (4.1%) for battery protection. With a nominal voltage of 403 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 420 km (261 miles), with an energy consumption rate of 13.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

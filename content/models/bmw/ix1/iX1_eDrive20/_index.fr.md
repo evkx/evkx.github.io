@@ -33,7 +33,7 @@ L'BMW iX1 eDrive20 offre des performances modestes avec une puissance maximale d
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 68 kWh et une capacité nette utilisable de 64,7 kWh, offrant une réserve de 3,3 kWh (4,9%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 68 kWh et une capacité nette utilisable de 64,7 kWh, offrant une réserve de 3,3 kWh (4,9%) pour la protection de la batterie. Avec une tension nominale de 286 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 475 et 430 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 13,6 kWh/100 km pour le modèle de base et à 15,0 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

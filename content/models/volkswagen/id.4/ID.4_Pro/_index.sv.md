@@ -33,7 +33,7 @@ Volkswagen ID.4 Pro erbjuder blygsamma prestanda med en maximal effekt på 210 k
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 82 kWh och en nettoanvändbar kapacitet på 77 kWh, vilket ger en buffert på 5 kWh (6,1%) för batteriskydd.
+Högkapacitetsbatteriet har en bruttokapacitet på 82 kWh och en nettoanvändbar kapacitet på 77 kWh, vilket ger en buffert på 5 kWh (6,1%) för batteriskydd. Med en nominell spänning på 350 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 529 km (199 miles), med en energiförbrukningshastighet på 14,6 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

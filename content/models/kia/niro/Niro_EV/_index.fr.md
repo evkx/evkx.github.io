@@ -33,7 +33,7 @@ L'Kia Niro EV offre des performances modestes avec une puissance maximale de 150
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 68 kWh et une capacité nette utilisable de 64,8 kWh, offrant une réserve de 3,2 kWh (4,7%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 68 kWh et une capacité nette utilisable de 64,8 kWh, offrant une réserve de 3,2 kWh (4,7%) pour la protection de la batterie. Avec une tension nominale de 358 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 463 km, avec une consommation d'énergie de 14,0 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

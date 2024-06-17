@@ -33,7 +33,7 @@ Volkswagen ID.4 Pure tilbyr beskjedne ytelser med en maksimal effekt på 210 kW 
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 58 kWh og en netto brukbar kapasitet på 52 kWh, som gir en buffer på 6 kWh (10,3%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 58 kWh og en netto brukbar kapasitet på 52 kWh, som gir en buffer på 6 kWh (10,3%) for batteribeskyttelse. Med en nominell spenning på 350 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 363 km, med et energiforbruk på 14,3 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

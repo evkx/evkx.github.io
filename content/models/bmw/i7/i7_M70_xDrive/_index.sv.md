@@ -33,7 +33,7 @@ BMW i7 M70 xDrive imponerar med en imponerande kraft på 485 kW (659 hk) och ett
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 105,7 kWh och en nettoanvändbar kapacitet på 101,7 kWh, vilket ger en buffert på 4,0 kWh (3,8%) för batteriskydd.
+Högkapacitetsbatteriet har en bruttokapacitet på 105,7 kWh och en nettoanvändbar kapacitet på 101,7 kWh, vilket ger en buffert på 4,0 kWh (3,8%) för batteriskydd. Med en nominell spänning på 376,4 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 560 och 488 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 18,2 kWh/100 km för basmodellen och 20,8 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

@@ -33,7 +33,7 @@ La BYD Han offre des performances solides avec une puissance maximale de 380 kW 
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 85,4 kWh et une capacité nette utilisable de 83 kWh, offrant une réserve de 2,4 kWh (2,8%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie haute capacité a une capacité brute de 85,4 kWh et une capacité nette utilisable de 83 kWh, offrant une réserve de 2,4 kWh (2,8%) pour la protection de la batterie. Fonctionnant à une tension nominale de 569 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 521 km, avec une consommation d'énergie de 15,9 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

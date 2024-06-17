@@ -33,7 +33,7 @@ El Xiaomi SU7 Max impresiona con una potencia máxima de 495 kW (673 hp) y un im
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 101 kWh y una capacidad neta utilizable de 99 kWh, proporcionando un buffer de 2 kWh (2,0%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 101 kWh y una capacidad neta utilizable de 99 kWh, proporcionando un buffer de 2 kWh (2,0%) para la protección de la batería. Operando a un voltaje nominal de 871 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
 El [rango CLTC](../../../../guides/understandingrange/cltc/) es 800 km ( millas). El consumo es de 12,4kWh/100 km para la prueba estándar CLTC. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

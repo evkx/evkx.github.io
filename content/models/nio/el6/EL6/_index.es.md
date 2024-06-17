@@ -36,7 +36,7 @@ El Nio EL6 impresiona con una potencia máxima de 480 kW (653 hp) y un impresion
 Nio EL6 tiene dos opciones de batería con diferentes especificaciones. A continuación verás cómo esto afecta el alcance y la carga.
 ### 100kWh
 
-La batería de alta capacidad tiene una capacidad bruta de 100 kWh y una capacidad neta utilizable de 90 kWh, proporcionando un buffer de 10 kWh (10,0%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 100 kWh y una capacidad neta utilizable de 90 kWh, proporcionando un buffer de 10 kWh (10,0%) para la protección de la batería. Con un voltaje nominal de 358 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 513 y 486 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 17,5 kWh/100 km para el modelo base y 18,5 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
@@ -45,7 +45,7 @@ La velocidad máxima de carga de CC es 126kW. Una carga completa del 0 al 100 % 
 En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 28 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 34 minutos. Este viaje requeriría dos paradas de carga del 1% al 54%, con un tiempo total de carga de 134 minutos.
 ### 75kWh
 
-La batería de alta capacidad tiene una capacidad bruta de 75 kWh y una capacidad neta utilizable de 70,5 kWh, proporcionando un buffer de 4,5 kWh (6,0%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 75 kWh y una capacidad neta utilizable de 70,5 kWh, proporcionando un buffer de 4,5 kWh (6,0%) para la protección de la batería. Con un voltaje nominal de 386 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 394 y 372 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 17,5 kWh/100 km para el modelo base y 18,5 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

@@ -33,7 +33,7 @@ The Ford Mustang Mach-E Standard Range RWD delivers a solid performance with a m
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 75,7 kWh and a net usable capacity of 70 kWh, providing an 5,7 kWh buffer (7.5%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 75,7 kWh and a net usable capacity of 70 kWh, providing an 5,7 kWh buffer (7.5%) for battery protection. With a nominal voltage of 360 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 440 km (274 miles), with an energy consumption rate of 15.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -33,7 +33,7 @@ Mercedes-EQ EQB 350 4MATIC tilbyder beskedne præstationer med en maksimal effek
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 69,7 kWh og en nettoanvendelig kapacitet på 66,5 kWh, hvilket giver en buffer på 3,2 kWh (3%) til batteribeskyttelse.
+Det højkapacitetsbatteri har en bruttokapacitet på 69,7 kWh og en nettoanvendelig kapacitet på 66,5 kWh, hvilket giver en buffer på 3,2 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 367 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
 Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 423 og 388 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 15,7 kWh/100 km for basismodellen og 17,1 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

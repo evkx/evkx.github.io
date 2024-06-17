@@ -33,7 +33,7 @@ L'BYD Dolphin 60.4kWh offre des performances modestes avec une puissance maximal
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 60,4 kWh et une capacité nette utilisable de 62 kWh, offrant une réserve de -1,6 kWh (-2,6%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie haute capacité a une capacité brute de 60,4 kWh et une capacité nette utilisable de 62 kWh, offrant une réserve de -1,6 kWh (-2,6%) pour la protection de la batterie. Avec une tension nominale de 403 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 427 km, avec une consommation d'énergie de 14,5 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

@@ -33,7 +33,7 @@ Kia Niro EV erbjuder blygsamma prestanda med en maximal effekt på 150 kW (204 h
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 68 kWh och en nettoanvändbar kapacitet på 64,8 kWh, vilket ger en buffert på 3,2 kWh (4,7%) för batteriskydd.
+Högkapacitetsbatteriet har en bruttokapacitet på 68 kWh och en nettoanvändbar kapacitet på 64,8 kWh, vilket ger en buffert på 3,2 kWh (4,7%) för batteriskydd. Med en nominell spänning på 358 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 463 km (199 miles), med en energiförbrukningshastighet på 14,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

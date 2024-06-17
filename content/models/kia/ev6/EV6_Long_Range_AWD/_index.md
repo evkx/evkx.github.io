@@ -33,7 +33,7 @@ The Kia EV6 Long Range AWD offers modest performance with a maximum power of 239
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 77,4 kWh and a net usable capacity of 74 kWh, providing an 3,4 kWh buffer (4.4%) for battery protection.
+The high-capacity battery has a gross capacity of 77,4 kWh and a net usable capacity of 74 kWh, providing an 3,4 kWh buffer (4.4%) for battery protection. Operating at a nominal voltage of 697 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 506 to 484 km (315-301 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.6 kWh/100 km for the base model and 15.3 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

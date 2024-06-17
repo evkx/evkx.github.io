@@ -36,7 +36,7 @@ Tesla Model Y Standard Range leverer solid ytelse med en maksimal effekt på 255
 Tesla Model Y Standard Range har fire batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading.
 ### CATL LFP Europa/China market
 
-Høykapasitetsbatteriet har en brutto kapasitet på 60 kWh og en netto brukbar kapasitet på 55 kWh, som gir en buffer på 5 kWh (8,3%) for batteribeskyttelse. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Høykapasitetsbatteriet har en brutto kapasitet på 60 kWh og en netto brukbar kapasitet på 55 kWh, som gir en buffer på 5 kWh (8,3%) for batteribeskyttelse. Med en nominell spenning på 340 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 430 km, med et energiforbruk på 12,8 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
@@ -45,7 +45,7 @@ Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 52 minu
 I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19,5 kWh/100 km, ville turen ta omtrent 9 timer og 55 minutter. Denne reisen ville kreve to ladestopp fra 0% til 51%, med en total ladetid på 95 minutter.
 ### BYD LFP Europa/China market
 
-Høykapasitetsbatteriet har en brutto kapasitet på 60 kWh og en netto brukbar kapasitet på 55 kWh, som gir en buffer på 5 kWh (8,3%) for batteribeskyttelse. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
+Høykapasitetsbatteriet har en brutto kapasitet på 60 kWh og en netto brukbar kapasitet på 55 kWh, som gir en buffer på 5 kWh (8,3%) for batteribeskyttelse. Med en nominell spenning på 340 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 430 km, med et energiforbruk på 12,8 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
@@ -54,7 +54,7 @@ Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 37 minu
 I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19,5 kWh/100 km, ville turen ta omtrent 9 timer og 35 minutter. Denne reisen ville kreve to ladestopp fra 0% til 64%, med en total ladetid på 75 minutter.
 ### NMC 4850 US Market
 
-Høykapasitetsbatteriet har en brutto kapasitet på 70 kWh og en netto brukbar kapasitet på 68,5 kWh, som gir en buffer på 1,5 kWh (2,1%) for batteribeskyttelse. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 70 kWh og en netto brukbar kapasitet på 68,5 kWh, som gir en buffer på 1,5 kWh (2,1%) for batteribeskyttelse. Med en nominell spenning på 340 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 430 km, med et energiforbruk på 12,8 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
@@ -63,7 +63,7 @@ Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 84 minu
 I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19,5 kWh/100 km, ville turen ta omtrent 9 timer og 52 minutter. Denne reisen ville kreve to ladestopp fra 0% til 37%, med en total ladetid på 93 minutter.
 ### NMC 21700 US Market Software locked
 
-Høykapasitetsbatteriet har en brutto kapasitet på 70 kWh og en netto brukbar kapasitet på 68,5 kWh, som gir en buffer på 1,5 kWh (2,1%) for batteribeskyttelse. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
+Høykapasitetsbatteriet har en brutto kapasitet på 70 kWh og en netto brukbar kapasitet på 68,5 kWh, som gir en buffer på 1,5 kWh (2,1%) for batteribeskyttelse. Med en nominell spenning på 340 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 430 km, med et energiforbruk på 12,8 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

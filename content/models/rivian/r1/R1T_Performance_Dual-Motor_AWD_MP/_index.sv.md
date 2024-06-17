@@ -33,7 +33,7 @@ Rivian R1T Performance Dual-Motor AWD MP imponerar med en imponerande kraft på 
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 149 kWh och en nettoanvändbar kapacitet på 143 kWh, vilket ger en buffert på 6 kWh (4,0%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 149 kWh och en nettoanvändbar kapacitet på 143 kWh, vilket ger en buffert på 6 kWh (4,0%) för batteriskydd. Med en nominell spänning på 392 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 660 km med en energiförbrukning på 21,7 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

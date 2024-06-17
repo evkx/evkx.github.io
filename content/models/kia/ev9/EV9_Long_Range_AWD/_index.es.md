@@ -33,7 +33,7 @@ El Kia EV9 Long Range AWD ofrece un rendimiento sólido con una potencia máxima
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 99,8 kWh y una capacidad neta utilizable de 98 kWh, proporcionando un buffer de 1,8 kWh (1,8%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 99,8 kWh y una capacidad neta utilizable de 98 kWh, proporcionando un buffer de 1,8 kWh (1,8%) para la protección de la batería. Operando a un voltaje nominal de 552 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema.
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 512 y 505 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 19,1 kWh/100 km para el modelo base y 19,4 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

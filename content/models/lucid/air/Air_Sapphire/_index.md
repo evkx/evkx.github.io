@@ -33,7 +33,7 @@ The Lucid Air Sapphire delivers a jaw-dropping maximum power of 920 KW (1251 hp/
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 118 kWh and a net usable capacity of 117 kWh, providing an 1 kWh buffer (0.8%) for battery protection.
+The high-capacity battery has a gross capacity of 118 kWh and a net usable capacity of 117 kWh, providing an 1 kWh buffer (0.8%) for battery protection. Operating at a nominal voltage of 800 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 427 miles (687 km) with an energy consumption rate of 3.6 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

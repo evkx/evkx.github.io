@@ -33,7 +33,7 @@ The Hongqi E-HS9 Comfort offers modest performance with a maximum power of 320 k
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 84 kWh and a net usable capacity of 81,7 kWh, providing an 2,3 kWh buffer (2.7%) for battery protection.
+The high-capacity battery has a gross capacity of 84 kWh and a net usable capacity of 81,7 kWh, providing an 2,3 kWh buffer (2.7%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 396 km (246 miles), with an energy consumption rate of 20.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

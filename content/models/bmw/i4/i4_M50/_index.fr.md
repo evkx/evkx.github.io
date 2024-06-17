@@ -33,7 +33,7 @@ La BMW i4 M50 impressionne avec une puissance maximale de 400 kW (544 ch) et un 
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 83,9 kWh et une capacité nette utilisable de 80,7 kWh, offrant une réserve de 3,2 kWh (3,8%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 83,9 kWh et une capacité nette utilisable de 80,7 kWh, offrant une réserve de 3,2 kWh (3,8%) pour la protection de la batterie. Avec une tension nominale de 399 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 521 et 416 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 15,5 kWh/100 km pour le modèle de base et à 19,4 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

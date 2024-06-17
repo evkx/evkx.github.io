@@ -33,7 +33,7 @@ Mercedes-EQ EQB 250 erbjuder blygsamma prestanda med en maximal effekt på 140 k
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 69,7 kWh och en nettoanvändbar kapacitet på 66,5 kWh, vilket ger en buffert på 3,2 kWh (4,6%) för batteriskydd.
+Högkapacitetsbatteriet har en bruttokapacitet på 69,7 kWh och en nettoanvändbar kapacitet på 66,5 kWh, vilket ger en buffert på 3,2 kWh (4,6%) för batteriskydd. Med en nominell spänning på 367 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 474 och 423 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,0 kWh/100 km för basmodellen och 15,7 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

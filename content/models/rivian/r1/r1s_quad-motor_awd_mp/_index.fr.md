@@ -33,7 +33,7 @@ La Rivian R1S Quad-Motor AWD MP délivre une puissance maximale impressionnante 
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 149 kWh et une capacité nette utilisable de 141,5 kWh, offrant une réserve de 7,5 kWh (5,0%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 149 kWh et une capacité nette utilisable de 141,5 kWh, offrant une réserve de 7,5 kWh (5,0%) pour la protection de la batterie. Avec une tension nominale de 392 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 L'autonomie estimée par l'EPA (Environmental Protection Agency) varie entre 321 et 340 miles (516-547 km), selon la configuration et les options du véhicule. Par exemple, des roues plus grandes peuvent augmenter la consommation d'énergie et réduire l'autonomie globale.
 Les taux de consommation d'énergie sont de 2,3 mi/kWh pour le modèle de base et de 2,4 mi/kWh pour la version haut de gamme, selon le test standard de l'EPA. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)

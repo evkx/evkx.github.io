@@ -33,7 +33,7 @@ El Kia EV3 Long Range ofrece un rendimiento modesto con una potencia máxima de 
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 81,4 kWh y una capacidad neta utilizable de 77 kWh, proporcionando un buffer de 4,4 kWh (5,4%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 81,4 kWh y una capacidad neta utilizable de 77 kWh, proporcionando un buffer de 4,4 kWh (5,4%) para la protección de la batería. Con un voltaje nominal de 358 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 600 km, con una tasa de consumo de energía de 12,8 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

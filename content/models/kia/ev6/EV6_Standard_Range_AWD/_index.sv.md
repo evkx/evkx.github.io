@@ -33,7 +33,7 @@ Kia EV6 Standard Range AWD erbjuder blygsamma prestanda med en maximal effekt p�
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 58 kWh och en nettoanvändbar kapacitet på 54 kWh, vilket ger en buffert på 4 kWh (6,9%) för batteriskydd.
+Högkapacitetsbatteriet har en bruttokapacitet på 58 kWh och en nettoanvändbar kapacitet på 54 kWh, vilket ger en buffert på 4 kWh (6,9%) för batteriskydd. Vid en nominell spänning på 523 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 371 km (199 miles), med en energiförbrukningshastighet på 14,6 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

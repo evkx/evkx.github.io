@@ -33,7 +33,7 @@ Ford Explorer Standard Range RWD tilbyr beskjedne ytelser med en maksimal effekt
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 55 kWh og en netto brukbar kapasitet på 52 kWh, som gir en buffer på 3 kWh (5,5%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 55 kWh og en netto brukbar kapasitet på 52 kWh, som gir en buffer på 3 kWh (5,5%) for batteribeskyttelse. Med en nominell spenning på 350 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 380 km, med et energiforbruk på 13,7 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

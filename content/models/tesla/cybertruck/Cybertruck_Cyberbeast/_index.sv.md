@@ -33,7 +33,7 @@ Tesla Cybertruck Cyberbeast levererar en häpnadsväckande maximal effekt på 63
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 123 kWh och en nettoanvändbar kapacitet på 122,5 kWh, vilket ger en buffert på 0,5 kWh (0,4%) för batteriskydd.
+Högkapacitetsbatteriet har en bruttokapacitet på 123 kWh och en nettoanvändbar kapacitet på 122,5 kWh, vilket ger en buffert på 0,5 kWh (0,4%) för batteriskydd. Vid en nominell spänning på 710 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
 
 Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 515 km med en energiförbrukning på 23,8 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

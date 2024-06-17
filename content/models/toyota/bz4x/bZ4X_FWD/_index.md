@@ -33,7 +33,7 @@ The Toyota bZ4X FWD offers modest performance with a maximum power of 160 kW (21
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 71,4 kWh and a net usable capacity of 58 kWh, providing an 13,4 kWh buffer (18.8%) for battery protection.
+The high-capacity battery has a gross capacity of 71,4 kWh and a net usable capacity of 58 kWh, providing an 13,4 kWh buffer (18.8%) for battery protection. With a nominal voltage of 355.2 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 516 to 442 km (321-275 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 11.2 kWh/100 km for the base model and 13.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

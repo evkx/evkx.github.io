@@ -36,7 +36,7 @@ The Nio ES8 packs an impressive punch with a maximum power of 400 kW (544 hp / 5
 Nio ES8 has two battery options with different specifications. Below you see how this affects range and charging.
 ### 100kWh
 
-The high-capacity battery has a gross capacity of 100 kWh and a net usable capacity of 90 kWh, providing an 10 kWh buffer (10.0%) for battery protection.
+The high-capacity battery has a gross capacity of 100 kWh and a net usable capacity of 90 kWh, providing an 10 kWh buffer (10.0%) for battery protection. With a nominal voltage of 358 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 460 km (286 miles), with an energy consumption rate of 19.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -45,7 +45,7 @@ The vehicle supports fast DC charging with a maximum power of 126 kW. Charging f
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 30 kWh/100 km, the trip would take approximately 11 hours and 1 minutes. This journey would require four charging stops from 8% to 67%, with a total charging time of 162 minutes.
 ### 75kWh
 
-The high-capacity battery has a gross capacity of 75 kWh and a net usable capacity of 70,5 kWh, providing an 4,5 kWh buffer (6.0%) for battery protection.
+The high-capacity battery has a gross capacity of 75 kWh and a net usable capacity of 70,5 kWh, providing an 4,5 kWh buffer (6.0%) for battery protection. With a nominal voltage of 386 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 350 km (218 miles), with an energy consumption rate of 19.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

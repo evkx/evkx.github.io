@@ -33,7 +33,7 @@ La Lucid Air Sapphire délivre une puissance maximale impressionnante de 920 kW 
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 118 kWh et une capacité nette utilisable de 117 kWh, offrant une réserve de 1 kWh (0,8%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 118 kWh et une capacité nette utilisable de 117 kWh, offrant une réserve de 1 kWh (0,8%) pour la protection de la batterie. Fonctionnant à une tension nominale de 800 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
 
 Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 687 km avec un taux de consommation d'énergie de 17,0 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

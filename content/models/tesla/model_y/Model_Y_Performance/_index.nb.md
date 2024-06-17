@@ -33,7 +33,7 @@ Tesla Model Y Performance leverer solid ytelse med en maksimal effekt på 393 kW
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 82 kWh og en netto brukbar kapasitet på 75 kWh, som gir en buffer på 7 kWh (8,5%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 82 kWh og en netto brukbar kapasitet på 75 kWh, som gir en buffer på 7 kWh (8,5%) for batteribeskyttelse. Med en nominell spenning på 357 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 514 km, med et energiforbruk på 14,6 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

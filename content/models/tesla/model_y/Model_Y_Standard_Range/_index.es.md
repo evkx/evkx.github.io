@@ -36,7 +36,7 @@ El Tesla Model Y Standard Range ofrece un rendimiento sólido con una potencia m
 Tesla Model Y Standard Range tiene cuatro opciones de batería con diferentes especificaciones. A continuación verás cómo esto afecta el alcance y la carga.
 ### CATL LFP Europa/China market
 
-La batería de alta capacidad tiene una capacidad bruta de 60 kWh y una capacidad neta utilizable de 55 kWh, proporcionando un buffer de 5 kWh (8,3%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería de alta capacidad tiene una capacidad bruta de 60 kWh y una capacidad neta utilizable de 55 kWh, proporcionando un buffer de 5 kWh (8,3%) para la protección de la batería. Con un voltaje nominal de 340 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 430 km, con una tasa de consumo de energía de 12,8 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
@@ -45,7 +45,7 @@ La velocidad máxima de carga de CC es 250kW. Una carga completa del 0 al 100 % 
 En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 19,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 55 minutos. Este viaje requeriría dos paradas de carga del 0% al 51%, con un tiempo total de carga de 95 minutos.
 ### BYD LFP Europa/China market
 
-La batería de alta capacidad tiene una capacidad bruta de 60 kWh y una capacidad neta utilizable de 55 kWh, proporcionando un buffer de 5 kWh (8,3%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería de alta capacidad tiene una capacidad bruta de 60 kWh y una capacidad neta utilizable de 55 kWh, proporcionando un buffer de 5 kWh (8,3%) para la protección de la batería. Con un voltaje nominal de 340 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 430 km, con una tasa de consumo de energía de 12,8 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
@@ -54,7 +54,7 @@ La velocidad máxima de carga de CC es 250kW. Una carga completa del 0 al 100 % 
 En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 19,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 35 minutos. Este viaje requeriría dos paradas de carga del 0% al 64%, con un tiempo total de carga de 75 minutos.
 ### NMC 4850 US Market
 
-La batería de alta capacidad tiene una capacidad bruta de 70 kWh y una capacidad neta utilizable de 68,5 kWh, proporcionando un buffer de 1,5 kWh (2,1%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 70 kWh y una capacidad neta utilizable de 68,5 kWh, proporcionando un buffer de 1,5 kWh (2,1%) para la protección de la batería. Con un voltaje nominal de 340 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 430 km, con una tasa de consumo de energía de 12,8 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
@@ -63,7 +63,7 @@ La velocidad máxima de carga de CC es 250kW. Una carga completa del 0 al 100 % 
 En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 19,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 52 minutos. Este viaje requeriría dos paradas de carga del 0% al 37%, con un tiempo total de carga de 93 minutos.
 ### NMC 21700 US Market Software locked
 
-La batería de alta capacidad tiene una capacidad bruta de 70 kWh y una capacidad neta utilizable de 68,5 kWh, proporcionando un buffer de 1,5 kWh (2,1%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 70 kWh y una capacidad neta utilizable de 68,5 kWh, proporcionando un buffer de 1,5 kWh (2,1%) para la protección de la batería. Con un voltaje nominal de 340 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 430 km, con una tasa de consumo de energía de 12,8 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

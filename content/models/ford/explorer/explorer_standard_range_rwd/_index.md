@@ -33,7 +33,7 @@ The Ford Explorer Standard Range RWD offers modest performance with a maximum po
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 55 kWh and a net usable capacity of 52 kWh, providing an 3 kWh buffer (5.5%) for battery protection.
+The high-capacity battery has a gross capacity of 55 kWh and a net usable capacity of 52 kWh, providing an 3 kWh buffer (5.5%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 380 km (236 miles), with an energy consumption rate of 13.7 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

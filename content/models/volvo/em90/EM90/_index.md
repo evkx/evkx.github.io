@@ -33,7 +33,7 @@ The Volvo EM90 offers modest performance with a maximum power of 200 kW (272 hp 
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 116 kWh and a net usable capacity of 110 kWh, providing an 6 kWh buffer (5.2%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 116 kWh and a net usable capacity of 110 kWh, providing an 6 kWh buffer (5.2%) for battery protection. With a nominal voltage of 370 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The vehicle's range, according to the [CLTC](../../../../guides/understandingrange/cltc/) (China Light-Duty Vehicle Test Cycle) standard, is 738 km ( miles). he energy consumption is 14.9 kWh/100 km based on the CLTC standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -33,7 +33,7 @@ Med överboost når Hyundai Ioniq 5 N en maximal effekt på 478 kW (650 hk). Uta
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 84 kWh och en nettoanvändbar kapacitet på 80 kWh, vilket ger en buffert på 4 kWh (4,8%) för batteriskydd.
+Högkapacitetsbatteriet har en bruttokapacitet på 84 kWh och en nettoanvändbar kapacitet på 80 kWh, vilket ger en buffert på 4 kWh (4,8%) för batteriskydd. Vid en nominell spänning på 697 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 450 km (199 miles), med en energiförbrukningshastighet på 17,8 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

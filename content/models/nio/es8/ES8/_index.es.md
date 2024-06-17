@@ -36,7 +36,7 @@ El Nio ES8 impresiona con una potencia máxima de 400 kW (544 hp) y un impresion
 Nio ES8 tiene dos opciones de batería con diferentes especificaciones. A continuación verás cómo esto afecta el alcance y la carga.
 ### 100kWh
 
-La batería de alta capacidad tiene una capacidad bruta de 100 kWh y una capacidad neta utilizable de 90 kWh, proporcionando un buffer de 10 kWh (10,0%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 100 kWh y una capacidad neta utilizable de 90 kWh, proporcionando un buffer de 10 kWh (10,0%) para la protección de la batería. Con un voltaje nominal de 358 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 460 km, con una tasa de consumo de energía de 19,6 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
@@ -45,7 +45,7 @@ La velocidad máxima de carga de CC es 126kW. Una carga completa del 0 al 100 % 
 En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 30 kWh/100 km, el viaje tomaría aproximadamente 11 horas y 1 minutos. Este viaje requeriría dos paradas de carga del 8% al 67%, con un tiempo total de carga de 162 minutos.
 ### 75kWh
 
-La batería de alta capacidad tiene una capacidad bruta de 75 kWh y una capacidad neta utilizable de 70,5 kWh, proporcionando un buffer de 4,5 kWh (6,0%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 75 kWh y una capacidad neta utilizable de 70,5 kWh, proporcionando un buffer de 4,5 kWh (6,0%) para la protección de la batería. Con un voltaje nominal de 386 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 350 km, con una tasa de consumo de energía de 19,6 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

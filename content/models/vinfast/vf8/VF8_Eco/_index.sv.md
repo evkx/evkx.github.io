@@ -33,7 +33,7 @@ VinFast VF8 Eco levererar en solid prestanda med en maximal effekt på 260 kW (3
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 94 kWh och en nettoanvändbar kapacitet på 87,7 kWh, vilket ger en buffert på 6,3 kWh (6,7%) för batteriskydd.
+Högkapacitetsbatteriet har en bruttokapacitet på 94 kWh och en nettoanvändbar kapacitet på 87,7 kWh, vilket ger en buffert på 6,3 kWh (6,7%) för batteriskydd. Med en nominell spänning på 403 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 471 km (199 miles), med en energiförbrukningshastighet på 18,6 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

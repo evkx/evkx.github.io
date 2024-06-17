@@ -33,7 +33,7 @@ Lucid Air Sapphire levererar en häpnadsväckande maximal effekt på 920 KW (125
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 118 kWh och en nettoanvändbar kapacitet på 117 kWh, vilket ger en buffert på 1 kWh (0,8%) för batteriskydd.
+Högkapacitetsbatteriet har en bruttokapacitet på 118 kWh och en nettoanvändbar kapacitet på 117 kWh, vilket ger en buffert på 1 kWh (0,8%) för batteriskydd. Vid en nominell spänning på 800 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga.
 
 Enligt [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard har fordonet en räckvidd på 687 km med en energiförbrukning på 17,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

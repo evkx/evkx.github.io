@@ -33,7 +33,7 @@ Kia EV9 RWD tilbyr beskjedne ytelser med en maksimal effekt på 160 kW (218 hk) 
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 76,1 kWh og en netto brukbar kapasitet på 75 kWh, som gir en buffer på 1,1 kWh (1,4%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 76,1 kWh og en netto brukbar kapasitet på 75 kWh, som gir en buffer på 1,1 kWh (1,4%) for batteribeskyttelse. Ved å operere med en nominell spenning på 552 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 443 km, med et energiforbruk på 16,9 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

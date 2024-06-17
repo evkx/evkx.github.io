@@ -33,7 +33,7 @@ La Kia EV9 GT-Line AWD offre des performances solides avec une puissance maximal
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 99,8 kWh et une capacité nette utilisable de 98 kWh, offrant une réserve de 1,8 kWh (1,8%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 99,8 kWh et une capacité nette utilisable de 98 kWh, offrant une réserve de 1,8 kWh (1,8%) pour la protection de la batterie. Fonctionnant à une tension nominale de 552 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
 
 Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 512 et 505 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 19,1 kWh/100 km pour le modèle de base et à 19,4 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

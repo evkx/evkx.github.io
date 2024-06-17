@@ -36,7 +36,7 @@ Nio ES8 imponerer med en imponerende kraft på 400 kW (544 hk) og et betydelig d
 Nio ES8 har to batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading.
 ### 100kWh
 
-Høykapasitetsbatteriet har en brutto kapasitet på 100 kWh og en netto brukbar kapasitet på 90 kWh, som gir en buffer på 10 kWh (10,0%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 100 kWh og en netto brukbar kapasitet på 90 kWh, som gir en buffer på 10 kWh (10,0%) for batteribeskyttelse. Med en nominell spenning på 358 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 460 km, med et energiforbruk på 19,6 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
@@ -45,7 +45,7 @@ Maksimal DC-ladehastighet er 126 kW. En full lading fra 0 - 100 % vil ta 83 minu
 I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 30 kWh/100 km, ville turen ta omtrent 11 timer og 1 minutter. Denne reisen ville kreve to ladestopp fra 8% til 67%, med en total ladetid på 162 minutter.
 ### 75kWh
 
-Høykapasitetsbatteriet har en brutto kapasitet på 75 kWh og en netto brukbar kapasitet på 70,5 kWh, som gir en buffer på 4,5 kWh (6,0%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 75 kWh og en netto brukbar kapasitet på 70,5 kWh, som gir en buffer på 4,5 kWh (6,0%) for batteribeskyttelse. Med en nominell spenning på 386 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 350 km, med et energiforbruk på 19,6 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

@@ -33,7 +33,7 @@ The Volkswagen ID.4 Pro 4MOTION offers modest performance with a maximum power o
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 77 kWh, providing an 5 kWh buffer (6.1%) for battery protection.
+The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 77 kWh, providing an 5 kWh buffer (6.1%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 527 km (328 miles), with an energy consumption rate of 14.6 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

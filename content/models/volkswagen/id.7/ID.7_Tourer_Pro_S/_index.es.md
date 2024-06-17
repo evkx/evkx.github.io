@@ -33,7 +33,7 @@ El Volkswagen ID.7 Tourer Pro S ofrece un rendimiento modesto con una potencia m
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 91 kWh y una capacidad neta utilizable de 86 kWh, proporcionando un buffer de 5 kWh (5,5%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 91 kWh y una capacidad neta utilizable de 86 kWh, proporcionando un buffer de 5 kWh (5,5%) para la protección de la batería. Con un voltaje nominal de 350 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 685 y 622 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 12,6 kWh/100 km para el modelo base y 13,8 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

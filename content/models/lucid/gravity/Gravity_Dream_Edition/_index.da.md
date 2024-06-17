@@ -33,7 +33,7 @@ Lucid Gravity Dream Edition imponerer med en maksimal effekt på 600 kW (816 hk)
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 124 kWh og en nettoanvendelig kapacitet på 122 kWh, hvilket giver en buffer på 2 kWh (3%) til batteribeskyttelse.
+Det højkapacitetsbatteri har en bruttokapacitet på 124 kWh og en nettoanvendelig kapacitet på 122 kWh, hvilket giver en buffer på 2 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 800 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber.
 
 Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 708 km med en energiforbrugsrate på 17,2 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

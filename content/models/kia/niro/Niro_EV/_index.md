@@ -33,7 +33,7 @@ The Kia Niro EV offers modest performance with a maximum power of 150 kW (204 hp
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 68 kWh and a net usable capacity of 64,8 kWh, providing an 3,2 kWh buffer (4.7%) for battery protection.
+The high-capacity battery has a gross capacity of 68 kWh and a net usable capacity of 64,8 kWh, providing an 3,2 kWh buffer (4.7%) for battery protection. With a nominal voltage of 358 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 463 km (288 miles), with an energy consumption rate of 14.0 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

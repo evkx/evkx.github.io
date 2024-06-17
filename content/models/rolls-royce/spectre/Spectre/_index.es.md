@@ -33,7 +33,7 @@ El Rolls-Royce Spectre impresiona con una potencia máxima de 430 kW (585 hp) y 
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 105,7 kWh y una capacidad neta utilizable de 102 kWh, proporcionando un buffer de 3,7 kWh (3,5%) para la protección de la batería.
+La batería de alta capacidad tiene una capacidad bruta de 105,7 kWh y una capacidad neta utilizable de 102 kWh, proporcionando un buffer de 3,7 kWh (3,5%) para la protección de la batería. Con un voltaje nominal de 376,4 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 530 km, con una tasa de consumo de energía de 19,2 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 

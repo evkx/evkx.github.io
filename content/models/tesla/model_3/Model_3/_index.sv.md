@@ -33,7 +33,7 @@ Tesla Model 3 erbjuder blygsamma prestanda med en maximal effekt på 208 kW (283
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 60 kWh och en nettoanvändbar kapacitet på 59 kWh, vilket ger en buffert på 1 kWh (1,7%) för batteriskydd. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
+Högkapacitetsbatteriet har en bruttokapacitet på 60 kWh och en nettoanvändbar kapacitet på 59 kWh, vilket ger en buffert på 1 kWh (1,7%) för batteriskydd. Med en nominell spänning på 340 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Litiumjonbatteriet använder [LFP-teknik.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Detta har vissa fördelar och nackdelar från de typiska NCA/NCM-batterierna.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 513 km (199 miles), med en energiförbrukningshastighet på 11,5 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

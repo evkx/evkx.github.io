@@ -33,7 +33,7 @@ The GMC Hummer EV Edition 1 Pickup delivers a jaw-dropping maximum power of 746 
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 220 kWh and a net usable capacity of 213 kWh, providing an 7 kWh buffer (3.2%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 220 kWh and a net usable capacity of 213 kWh, providing an 7 kWh buffer (3.2%) for battery protection. Operating at a nominal voltage of 650 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 329 miles (529 km) with an energy consumption rate of 1.5 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

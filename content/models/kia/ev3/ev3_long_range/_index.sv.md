@@ -33,7 +33,7 @@ Kia EV3 Long Range erbjuder blygsamma prestanda med en maximal effekt på 150 kW
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 81,4 kWh och en nettoanvändbar kapacitet på 77 kWh, vilket ger en buffert på 4,4 kWh (5,4%) för batteriskydd.
+Högkapacitetsbatteriet har en bruttokapacitet på 81,4 kWh och en nettoanvändbar kapacitet på 77 kWh, vilket ger en buffert på 4,4 kWh (5,4%) för batteriskydd. Med en nominell spänning på 358 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 600 km (199 miles), med en energiförbrukningshastighet på 12,8 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 

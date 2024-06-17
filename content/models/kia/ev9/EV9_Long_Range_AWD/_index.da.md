@@ -33,7 +33,7 @@ Kia EV9 Long Range AWD leverer en solid præstation med en maksimal effekt på 2
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 99,8 kWh og en nettoanvendelig kapacitet på 98 kWh, hvilket giver en buffer på 1,8 kWh (3%) til batteribeskyttelse.
+Det højkapacitetsbatteri har en bruttokapacitet på 99,8 kWh og en nettoanvendelig kapacitet på 98 kWh, hvilket giver en buffer på 1,8 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 552 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber.
 
 Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 512 og 505 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 19,1 kWh/100 km for basismodellen og 19,4 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

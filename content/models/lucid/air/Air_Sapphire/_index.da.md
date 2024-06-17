@@ -33,7 +33,7 @@ Lucid Air Sapphire leverer en imponerende maksimal effekt på 920 KW (1251 hk) o
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 118 kWh og en nettoanvendelig kapacitet på 117 kWh, hvilket giver en buffer på 1 kWh (3%) til batteribeskyttelse.
+Det højkapacitetsbatteri har en bruttokapacitet på 118 kWh og en nettoanvendelig kapacitet på 117 kWh, hvilket giver en buffer på 1 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 800 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber.
 
 Ifølge [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standarden har køretøjet en imponerende rækkevidde på 687 km med en energiforbrugsrate på 17,0 kWh/100km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 

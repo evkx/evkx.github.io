@@ -33,7 +33,7 @@ The BYD Seal RWD offers modest performance with a maximum power of 230 kW (313 h
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 85,4 kWh and a net usable capacity of 82,5 kWh, providing an 2,9 kWh buffer (3.4%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 85,4 kWh and a net usable capacity of 82,5 kWh, providing an 2,9 kWh buffer (3.4%) for battery protection. Operating at a nominal voltage of 569 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 520 km (323 miles), with an energy consumption rate of 15.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

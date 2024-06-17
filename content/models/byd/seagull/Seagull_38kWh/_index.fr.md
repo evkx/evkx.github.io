@@ -33,7 +33,7 @@ La BYD Seagull 38kWh kWh offre des performances de base avec une puissance maxim
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 38,8 kWh et une capacité nette utilisable de 37 kWh, offrant une réserve de 1,8 kWh (4,6%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie haute capacité a une capacité brute de 38,8 kWh et une capacité nette utilisable de 37 kWh, offrant une réserve de 1,8 kWh (4,6%) pour la protection de la batterie. Avec une tension nominale de 403 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 La [plage CLTC](../../../../guides/understandingrange/cltc/) est de 405 km ( miles). La consommation est de 9,1kWh/100km pour le test standard CLTC. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

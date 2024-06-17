@@ -33,7 +33,7 @@ The Rivian R1S Quad-Motor AWD MP delivers a jaw-dropping maximum power of 764 KW
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 149 kWh and a net usable capacity of 141,5 kWh, providing an 7,5 kWh buffer (5.0%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 149 kWh and a net usable capacity of 141,5 kWh, providing an 7,5 kWh buffer (5.0%) for battery protection. With a nominal voltage of 392 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 The [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) estimated range varies between 321 to 340 miles (516-547 km), depending on the vehicle's configuration and options. For instance, larger wheels can increase energy consumption and reduce the overall range.
 The energy consumption rates are 2.3 mi/kWh for the base model and 2.4 mi/kWh for the top-tier version, according to the EPA standard test. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
