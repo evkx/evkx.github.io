@@ -1,7 +1,7 @@
 ---
 title: Audi RS e-tron GT performance
 linktitle: "RS e-tron GT performance"
-description: "Audi RS e-tron GT performance est une berline de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 495 km (308 miles). EVKX.net a tous les détails."
+description: "Audi RS e-tron GT performance est une berline de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 594 km (369 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Grâce à l'overboost, la Audi RS e-tron GT performance délivre une puissance m
 
 La batterie haute capacité a une capacité brute de 105 kWh et une capacité nette utilisable de 97 kWh, offrant une réserve de 8 kWh (7,6%) pour la protection de la batterie. Fonctionnant à une tension nominale de 725 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 495 et 447 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 19,6 kWh/100 km pour le modèle de base et à 21,7 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 594 et 550 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 16,3 kWh/100 km pour le modèle de base et à 17,6 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 320kW. Une charge complète de 0 à 100 % prendrait 46 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 15 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 65 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 212kW. Chaque session de charge prendrait 18 minutes et 32 secondes. Cette capacité de charge exceptionnellement rapide fait de la Audi RS e-tron GT performance l'un des véhicules électriques les plus efficaces et pratiques pour les longs trajets.
 
@@ -82,7 +82,7 @@ De plus, vous pouvez choisir entre 7 roues avec des tailles allant de 19 à 21 p
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 
-Le toit standard a un grand toit panoramique s'étendant de l'avant vers l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance et le confort. de l'occupant. Les vitres sont teintées pour protéger de la chaleur du soleil. exterior.roof.optional.standardispanoramic.panoramic.FullFixed.ElectrochromicPattern
+Le toit standard a un grand toit panoramique s'étendant de l'avant vers l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance et le confort. de l'occupant. Les vitres sont teintées pour protéger de la chaleur du soleil. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Cette vitre rend l'intérieur de la voiture plus agréable. spacieux et lumineux, ce qui peut améliorer l'ambiance et le confort de l'occupant. Le verre a une fonction électrochrome qui permet de mélanger le verre pour se protéger du soleil.
 
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/exterior_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}

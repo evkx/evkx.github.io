@@ -1,7 +1,7 @@
 ---
 title: Audi RS e-tron GT performance
 linktitle: "RS e-tron GT performance"
-description: "Audi RS e-tron GT performance er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 495 km. EVKX.net har alle detaljene."
+description: "Audi RS e-tron GT performance er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 594 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Med overboost leverer Audi RS e-tron GT performance en forbløffende maksimal ef
 
 Høykapasitetsbatteriet har en brutto kapasitet på 105 kWh og en netto brukbar kapasitet på 97 kWh, som gir en buffer på 8 kWh (7,6%) for batteribeskyttelse. Ved å operere med en nominell spenning på 725 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
-I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 495 og 447 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 19,6 kWh/100 km for basismodellen og 21,7 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 594 og 550 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 16,3 kWh/100 km for basismodellen og 17,6 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 320 kW. En full lading fra 0 - 100 % vil ta 46 minutter, mens et mer vanlig scenario på 10-80 % vil ta 15 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 212kW. Hver ladeøkt vil ta 18 minutter og 32 sekunder. Denne eksepsjonelt raske ladeevnen gjør Audi RS e-tron GT performance til en av de mest effektive og praktiske elbilene for langdistansereiser.
 
