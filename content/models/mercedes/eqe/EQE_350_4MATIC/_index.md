@@ -43,7 +43,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 7 minutes.
+The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 7 minutes using a home charging setup.
 
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_350_4matic/charging_1_st.jpg" title="Mercedes-EQ EQE 350 4MATIC" width="3000" height="2000"  >}}

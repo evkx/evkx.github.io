@@ -43,7 +43,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 7.2 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 13 minutes.
+The standard onboard charger supports up to 7.2 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 13 minutes using a home charging setup.
 
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/charging_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1688"  >}}

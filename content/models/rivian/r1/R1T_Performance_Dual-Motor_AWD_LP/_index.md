@@ -43,7 +43,7 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11.5 KW charging. As a result, you can charge the battery 0-100% from home in about 11 hours and 44 minutes.
+The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 11 hours and 44 minutes using a home charging setup.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/charging_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2048" height="1280"  >}}

@@ -41,7 +41,7 @@ The vehicle supports fast DC charging with a maximum power of 30 kW. Charging fr
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 7 KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 34 minutes.
+The  onboard charger supports up to 7 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 3 hours and 34 minutes using a home charging setup.
 
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/charging_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1702"  >}}

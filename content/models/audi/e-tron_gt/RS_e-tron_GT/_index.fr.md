@@ -1,7 +1,7 @@
 ---
 title: Audi RS e-tron GT
 linktitle: "RS e-tron GT"
-description: "Audi RS e-tron GT est une berline de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 601 km (374 miles). EVKX.net a tous les détails."
+description: "Audi RS e-tron GT est une berline de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 598 km (372 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Grâce à l'overboost, la Audi RS e-tron GT délivre une puissance maximale épo
 
 La batterie haute capacité a une capacité brute de 105 kWh et une capacité nette utilisable de 97 kWh, offrant une réserve de 8 kWh (7,6%) pour la protection de la batterie. Fonctionnant à une tension nominale de 725 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 601 et 550 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 16,1 kWh/100 km pour le modèle de base et à 17,6 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 598 et 527 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 16,2 kWh/100 km pour le modèle de base et à 18,4 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 320kW. Une charge complète de 0 à 100 % prendrait 46 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 15 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 65 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 212kW. Chaque session de charge prendrait 18 minutes et 32 secondes. Cette capacité de charge exceptionnellement rapide fait de la Audi RS e-tron GT l'un des véhicules électriques les plus efficaces et pratiques pour les longs trajets.
 

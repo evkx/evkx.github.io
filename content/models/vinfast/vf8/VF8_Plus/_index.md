@@ -41,7 +41,7 @@ The vehicle supports fast DC charging with a maximum power of 110 kW. Charging f
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 58 minutes.
+The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 58 minutes using a home charging setup.
 
 ### Charge port
 

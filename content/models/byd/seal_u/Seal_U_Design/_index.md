@@ -39,11 +39,11 @@ According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide 
 
 The vehicle supports fast DC charging with a maximum power of 140 kW. Charging from 0% to 100% takes approximately 76 minutes, while a more typical charging scenario from 10% to 80% takes 42 minutes with an average charging speed at 87 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 36%. This results in an effective charging speed, including time lost, of 91 kW, with each charging session taking about 18 minutes and 18 seconds..
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 10 hours and 9 minutes. This journey would require six charging stops from 4% to 36%, with a total charging time of 110 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 26 kWh/100 km, the trip would take approximately 10 hours and 17 minutes. This journey would require six charging stops from 3% to 37%, with a total charging time of 117 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the  onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 54 minutes.
+The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 54 minutes using a home charging setup.
 
 ### Charge port
 

@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Zeekr 009 Review - The Toyota Alphard Is Cooked</h3>
+<p>Inside China Auto: 18.06.2024</p>
+
+{{< youtube o4vF3b_t5gY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>You won't believe this Luxury EV MPV! - Zeekr 009 </h3>
 <p>ChinaDriven: 17.05.2023</p>
 

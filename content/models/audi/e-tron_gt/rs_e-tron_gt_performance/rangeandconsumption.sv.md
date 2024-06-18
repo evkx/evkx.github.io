@@ -40,10 +40,10 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 				</a>
 			</td>
 			<td>
-				594 km / 369 mi
+				598 km / 372 mi
 			</td>
 			<td>
-				16,33kWh/100km / 3,8 mi/kWh
+				16,22kWh/100km / 3,8 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -53,10 +53,10 @@ Nedan är de officiellt klassade räckviddene. Testerna utförs med värme/AC av
 				</a>
 			</td>
 			<td>
-				550 km / 342 mi
+				527 km / 327 mi
 			</td>
 			<td>
-				17,64 kWh/100km / 3,5 mi/kWh
+				18,41 kWh/100km / 3,4 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -87,7 +87,7 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 				WLTP-seriens grundutrustningsnivå med 2KW AC
 			</td>
 			<td>
-				 470km / 292 mi 
+				 473km / 294 mi 
 			</td>
 			<td>
 				-20,9%
@@ -98,10 +98,10 @@ Tabellen nedan visar hur det officiella räckvidden påverkas av att slå på v�
 				WLTP-räckvidd max trimnivå med 2KW AC
 			</td>
 			<td>
-				442 km / 275 mi
+				427 km / 265 mi
 			</td>
 			<td>
-				-19,6%
+				-19,0%
 			</td>
 		</tr>
 	</tbody>
