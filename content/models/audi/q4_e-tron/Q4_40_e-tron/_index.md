@@ -53,7 +53,7 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 ### Charge port
 
-The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
+The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_40_e-tron/battery_1_st.jpg" title="Audi Q4 40 e-tron" width="3000" height="1766"  >}}

@@ -51,7 +51,7 @@ The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging.
 
 ### Charge port
 
-The location of the charge port is on the [left front corner](../../../../technology/charging/connectors/#front-corner). This location makes it easy to use charge stations where you need to park with the front in. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
+The location of the charge port is on the [left front corner](../../../../technology/charging/connectors/#front-corner). This location makes it easy to use charge stations where you need to park with the front in. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -59,7 +59,7 @@ The location of the charge port is on the [left front corner](../../../../techno
 
 ## Drivetrain
 
-Rivian R1T Performance Dual-Motor AWD LP has an all-wheel drive system supported by two motors, one on each axle.
+Rivian R1T Performance Dual-Motor AWD LP features an all-wheel drive system powered by two motors, one on each axle.
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 205 mm, and the maximum is 378 mm.
 

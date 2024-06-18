@@ -59,7 +59,7 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 ### Charge port
 
-The location of the charge port is on the [right front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to use charge stations where you park side into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
+The charge port is conveniently located on the [right front side](../../../../technology/charging/connectors/#front-side), facilitating easy access at charging stations where you park parallel to the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 ### Battery swap
 
 This model support battery swap. Battery swap means you can drive to a unique battery swap station and get the battery replaced with a new battery with 90% SOC. The battery swap takes 7 minutes.
@@ -70,7 +70,7 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 ## Drivetrain
 
-Nio EL6 has an all-wheel drive system supported by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
+Nio EL6 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 170 mm.
 

@@ -47,7 +47,7 @@ The standard onboard charger supports up to 7.2 kW for Level 1 and Level 2 AC ch
 
 ### Charge port
 
-The location of the charge port is on the [right front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to use charge stations where you park side into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
+The charge port is conveniently located on the [right front side](../../../../technology/charging/connectors/#front-side), facilitating easy access at charging stations where you park parallel to the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -55,7 +55,7 @@ The location of the charge port is on the [right front side](../../../../technol
 
 ## Drivetrain
 
-Nissan Ariya 87kWh e-4ORCE+ has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+Nissan Ariya 87kWh e-4ORCE+ features an all-wheel drive system powered by two motors, one on each axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
 
 The standard suspension has a fixed height and damping. The ground clearance with this suspension is 170 mm.
 

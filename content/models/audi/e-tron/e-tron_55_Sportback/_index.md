@@ -53,7 +53,7 @@ The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC cha
 
 ### Charge port
 
-The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets. A second port is on the [right front side](../../../../technology/charging/connectors/#front-side). This extra port gives you more parking options for AC charging. The connector types vary between the different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). See full specifications for all markets.
+The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. A second port is on the [right front side](../../../../technology/charging/connectors/#front-side). This extra port gives you more parking options for AC charging. The connector types vary between the different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). See full specifications for all markets.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -61,7 +61,7 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 ## Drivetrain
 
-Audi e-tron 55 Sportback has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/).
+Audi e-tron 55 Sportback features an all-wheel drive system powered by two motors, one on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/).
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 152 mm, and the maximum is 248 mm.
 

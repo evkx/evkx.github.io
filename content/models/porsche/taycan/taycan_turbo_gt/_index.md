@@ -55,7 +55,7 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 ## Drivetrain
 
-Porsche Taycan Turbo GT has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Porsche Taycan Turbo GT features an all-wheel drive system powered by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 
 

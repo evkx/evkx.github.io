@@ -47,7 +47,7 @@ The  onboard charger supports up to 6.6 kW for Level 1 and Level 2 AC charging. 
 
 ### Charge port
 
-The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
+Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -52,7 +52,7 @@ The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging.
 
 ### Charge port
 
-The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. The connector types vary between the different markets. This model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for North America and for Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). See full specifications for all markets.
+The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -60,7 +60,7 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 ## Drivetrain
 
-Honda Prologue AWD has an all-wheel drive system supported by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Honda Prologue AWD features an all-wheel drive system powered by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 178 mm.
 
