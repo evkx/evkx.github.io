@@ -68,7 +68,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="s_e-tron_gt/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="S e-tron GT" ></a>
-<i class="bi bi-battery-full"></i> 93,4 kWh <i class="bi bi-ev-station"></i> 270 kW 
+<i class="bi bi-battery-full"></i> 105 kWh <i class="bi bi-ev-station"></i> 320 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
