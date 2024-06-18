@@ -41,7 +41,7 @@ Audi e-tron est un SUV/SUV Coupé de luxe disponible en 6 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi e-tron GT est une berline de luxe disponible en 2 variantes.
+Audi e-tron GT est une berline de luxe disponible en 3 variantes.
 </p>
 	<a href="e-tron_gt/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

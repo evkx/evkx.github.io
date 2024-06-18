@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-b8f3319f
+  translation: Audi RS e-tron GT performance es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 495 km (308 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-808290c2
   translation: Porsche Taycan Turbo GT Weissach es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 558 km (347 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-41246fd3
   translation: Volkswagen ID.3 Pro S es un hatchback totalmente eléctrico con un WLTP alcance de hasta 553 km (344 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-0ad41fc5
-  translation: Maserati GranCabrio Folgore es un convertible de lujo totalmente eléctrico con un WLTP alcance de hasta 501 km (311 millas). EVKX.net tiene todos los detalles.
 
