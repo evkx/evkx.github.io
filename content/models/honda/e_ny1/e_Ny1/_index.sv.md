@@ -41,7 +41,7 @@ Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 59 m
 
 I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 24,5 kWh/100 km, skulle resan ta ungefär 11 timmar och 18 minuter. Denna resa skulle kräva två laddningsstopp från 11% till 90%, med en total laddningstid på 179 minuter.
 
-### Inbyggd laddare
+### Ombordladdare
 
 
 

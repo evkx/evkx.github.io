@@ -43,7 +43,7 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 6 timer og 43 minutter.
+Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 6 timer og 43 minutter med en hjemmelader.
 
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/charging_1_st.jpg" title="BMW iX3" width="3000" height="2070"  >}}

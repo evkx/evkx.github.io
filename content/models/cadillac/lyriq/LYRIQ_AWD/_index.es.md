@@ -43,7 +43,7 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado standard admite una carga de hasta 11,5 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 8 horas y 52 minutos. También puedes seleccionar un cargador integrado opcional que admita una carga de hasta 19,2 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 5 horas y 18 minutos.
+El cargador a bordo estándar soporta hasta 11,5 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 52 minutos usando un cargador en casa. Para una carga más rápida, puedes optar por un cargador a bordo opcional que soporta hasta 19,2 kW. Con esta mejora, puedes lograr una carga completa del 0 al 100% en solo unas 5 horas y 18 minutos en casa.
 
 ### Puerto de carga
 

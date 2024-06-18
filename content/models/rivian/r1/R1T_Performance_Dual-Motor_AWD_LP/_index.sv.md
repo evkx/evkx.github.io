@@ -41,9 +41,9 @@ Maximal DC-laddningshastighet är  kW. En full laddning från 0 - 100 % tar 113 
 
 I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 30 kWh/100 km, skulle resan ta ungefär 9 timmar och 31 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 41%, med en total laddningstid på 72 minuter.
 
-### Inbyggd laddare
+### Ombordladdare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11,5KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 11 timmar och 44 minuter.
+Den standard ombordladdaren stöder upp till 11,5 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 11 timmar och 44 minuter med en hemmaladdare.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/charging_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2048" height="1280"  >}}

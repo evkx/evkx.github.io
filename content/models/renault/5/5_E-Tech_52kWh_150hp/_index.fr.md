@@ -43,7 +43,7 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 ### Chargeur embarqué
 
-Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué standard prend en charge jusqu'à 7,2 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 7 heures et 13 minutes.
+Le chargeur embarqué standard prend en charge jusqu'à 7,2 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 7 heures et 13 minutes à domicile.
 
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/charging_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1688"  >}}

@@ -43,7 +43,7 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 19 horas y 32 minutos.
+El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 19 horas y 32 minutos usando un cargador en casa.
 
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/charging_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1728"  >}}

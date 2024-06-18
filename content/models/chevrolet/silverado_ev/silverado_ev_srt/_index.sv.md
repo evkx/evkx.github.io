@@ -41,9 +41,9 @@ Maximal DC-laddningshastighet är 350 kW. En full laddning från 0 - 100 % tar 1
 
 I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 38 kWh/100 km, skulle resan ta ungefär 9 timmar och 1 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 40%, med en total laddningstid på 42 minuter.
 
-### Inbyggd laddare
+### Ombordladdare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 19 timmar och 32 minuter.
+Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 19 timmar och 32 minuter med en hemmaladdare.
 
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/charging_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1728"  >}}

@@ -41,9 +41,9 @@ Den maksimale DC-opladningshastighed er 94kW. En fuld opladning fra 0 - 100 % vi
 
 I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 24,5 kWh/100 km, ville turen tage cirka 11 timer og 6 minutter. Denne rejse ville kræve to opladningsstop fra 9% til 59%, med en samlet opladningstid på 166 minutter
 
-### Indbygget oplader
+### Ombordlader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 6 timer og 21 minutter.
+Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 6 timer og 21 minutter ved brug af en hjemmeoplader.
 
 ### Ladeport
 

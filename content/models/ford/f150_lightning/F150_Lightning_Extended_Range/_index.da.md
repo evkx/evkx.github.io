@@ -42,9 +42,9 @@ Den maksimale DC-opladningshastighed er 155kW. En fuld opladning fra 0 - 100 % v
 
 I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 33 kWh/100 km, ville turen tage cirka 10 timer og 13 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 77%, med en samlet opladningstid på 114 minutter
 
-### Indbygget oplader
+### Ombordlader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 19,2 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 6 timer og 46 minutter.
+Den standard ombordlader understøtter op til 19,2 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 6 timer og 46 minutter ved brug af en hjemmeoplader.
 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/charging_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1506"  >}}

@@ -41,7 +41,7 @@ La velocidad máxima de carga de CC es 95kW. Una carga completa del 0 al 100 % t
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 4 horas y 27 minutos.
+El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 4 horas y 27 minutos usando un cargador en casa.
 
 ### Puerto de carga
 

@@ -41,9 +41,9 @@ Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 6
 
 I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 19,9 kWh/100 km, skulle resan ta ungefär 10 timmar och 29 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 61%, med en total laddningstid på 130 minuter.
 
-### Inbyggd laddare
+### Ombordladdare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 7,2KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 7 timmar och 13 minuter.
+Den standard ombordladdaren stöder upp till 7,2 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 7 timmar och 13 minuter med en hemmaladdare.
 
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/charging_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1688"  >}}

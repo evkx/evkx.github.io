@@ -43,7 +43,7 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 8 timer og 21 minutter.
+Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 8 timer og 21 minutter med en hjemmelader.
 
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/charging_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="1736"  >}}

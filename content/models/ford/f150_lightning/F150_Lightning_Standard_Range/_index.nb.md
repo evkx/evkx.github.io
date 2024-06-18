@@ -43,7 +43,7 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 19,2KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 5 timer og 6 minutter.
+Den standard ombordladeren støtter opptil 19,2 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 5 timer og 6 minutter med en hjemmelader.
 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/charging_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1506"  >}}

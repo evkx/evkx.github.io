@@ -41,9 +41,9 @@ Maximal DC-laddningshastighet är 50 kW. En full laddning från 0 - 100 % tar 20
 
 I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 13 timmar och 54 minuter. Denna resa skulle kräva två laddningsstopp från 13% till 45%, med en total laddningstid på 334 minuter.
 
-### Inbyggd laddare
+### Ombordladdare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 7KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 9 timmar och 8 minuter.
+Den standard ombordladdaren stöder upp till 7 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 9 timmar och 8 minuter med en hemmaladdare.
 
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/charging_1_st.jpg" title="Lexus UX 300e" width="3000" height="1687"  >}}

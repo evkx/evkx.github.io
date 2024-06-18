@@ -43,7 +43,7 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 22KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 4 timer og 7 minutter.
+Den standard ombordladeren støtter opptil 22 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 4 timer og 7 minutter med en hjemmelader.
 
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/charging_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="2000"  >}}

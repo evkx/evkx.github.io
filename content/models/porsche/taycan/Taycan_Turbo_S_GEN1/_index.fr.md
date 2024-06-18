@@ -49,7 +49,7 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 ### Chargeur embarqué
 
-Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué standard prend en charge jusqu'à 11 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 7 heures et 36 minutes. Vous pouvez également sélectionner un chargeur intégré en option qui prend en charge une charge jusqu'à 22 KW. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en 3 heures et 48 minutes.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 7 heures et 36 minutes à domicile. our une charge plus rapide, vous pouvez opter pour un chargeur embarqué optionnel prenant en charge jusqu'à 22 kW. Avec cette mise à niveau, vous pouvez atteindre une charge complète de 0 à 100% en seulement environ 3 heures et 48 minutes à domicile.
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/charging_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2242"  >}}

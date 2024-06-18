@@ -43,7 +43,7 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter standard-ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 36 minutter. Du kan også velge en valgfri innebygd lader som støtter opptil 22 KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 3 timer og 48 minutter.
+Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 36 minutter med en hjemmelader. For raskere lading kan du velge en valgfri ombordlader som støtter opptil 22 kW. Med denne oppgraderingen kan du oppnå full lading fra 0 til 100% på bare omtrent 3 timer og 48 minutter hjemme.
 
 ### Ladeport
 

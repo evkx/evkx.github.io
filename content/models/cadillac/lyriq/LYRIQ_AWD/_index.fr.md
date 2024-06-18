@@ -43,7 +43,7 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 ### Chargeur embarqué
 
-Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué standard prend en charge jusqu'à 11,5 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 8 heures et 52 minutes. Vous pouvez également sélectionner un chargeur intégré en option qui prend en charge une charge jusqu'à 19,2 KW. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en 5 heures et 18 minutes.
+Le chargeur embarqué standard prend en charge jusqu'à 11,5 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 52 minutes à domicile. our une charge plus rapide, vous pouvez opter pour un chargeur embarqué optionnel prenant en charge jusqu'à 19,2 kW. Avec cette mise à niveau, vous pouvez atteindre une charge complète de 0 à 100% en seulement environ 5 heures et 18 minutes à domicile.
 
 ### Port de recharge
 

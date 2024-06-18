@@ -39,9 +39,9 @@ Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized 
 
 Maximal DC-laddningshastighet är 30 kW. En full laddning från 0 - 100 % tar 80 minuter, medan ett vanligare scenario på 10-80 % tar 40 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 67%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 25kW. Varje laddningssession tar 39 minuter och 30 sekunder.
 
-### Inbyggd laddare
+### Ombordladdare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 7KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 3 timmar och 34 minuter.
+Den standard ombordladdaren stöder upp till 7 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 3 timmar och 34 minuter med en hemmaladdare.
 
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/charging_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1702"  >}}

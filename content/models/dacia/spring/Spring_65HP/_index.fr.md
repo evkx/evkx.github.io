@@ -41,7 +41,7 @@ La vitesse de charge DC maximale est de 30kW. Une charge complète de 0 à 100 %
 
 ### Chargeur embarqué
 
-Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en charge jusqu'à 7 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 3 heures et 34 minutes.
+Le chargeur embarqué standard prend en charge jusqu'à 7 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 3 heures et 34 minutes à domicile.
 
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/charging_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1702"  >}}

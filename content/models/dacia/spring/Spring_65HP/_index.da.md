@@ -39,9 +39,9 @@ Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonize
 
 Den maksimale DC-opladningshastighed er 30kW. En fuld opladning fra 0 - 100 % ville tage 80 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 40 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 67%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 25kW. Hver opladningssession ville tage 39 minutter og 30 sekunder.
 
-### Indbygget oplader
+### Ombordlader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 7 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 3 timer og 34 minutter.
+Den standard ombordlader understøtter op til 7 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 3 timer og 34 minutter ved brug af en hjemmeoplader.
 
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/charging_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1702"  >}}

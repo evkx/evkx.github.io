@@ -44,7 +44,7 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11,5KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 7 timer og 23 minutter.
+Den standard ombordladeren støtter opptil 11,5 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 23 minutter med en hjemmelader.
 
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/charging_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}

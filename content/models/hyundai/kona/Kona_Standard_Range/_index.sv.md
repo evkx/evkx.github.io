@@ -41,9 +41,9 @@ Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 5
 
 I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 11 timmar och 9 minuter. Denna resa skulle kräva två laddningsstopp från 11% till 67%, med en total laddningstid på 170 minuter.
 
-### Inbyggd laddare
+### Ombordladdare
 
-För nivå 1 och nivå 2 AC-laddning stöder  inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 4 timmar och 23 minuter.
+Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 4 timmar och 23 minuter med en hemmaladdare.
 
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/charging_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2054"  >}}

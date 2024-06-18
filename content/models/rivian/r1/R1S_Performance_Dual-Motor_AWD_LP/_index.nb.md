@@ -43,7 +43,7 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11,5KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 10 timer og 52 minutter.
+Den standard ombordladeren støtter opptil 11,5 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 10 timer og 52 minutter med en hjemmelader.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/charging_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="2880" height="1920"  >}}

@@ -47,9 +47,9 @@ Maximal DC-laddningshastighet är 120 kW. En full laddning från 0 - 100 % tar 4
 
 I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 26,5 kWh/100 km, skulle resan ta ungefär 10 timmar och 32 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 68%, med en total laddningstid på 133 minuter.
 
-### Inbyggd laddare
+### Ombordladdare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 11KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 5 timmar och 49 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 22 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 2 timmar och 54 minuter.
+Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 5 timmar och 49 minuter med en hemmaladdare. För snabbare laddning kan du välja en valfri ombordladdare som stöder upp till 22 kW. Med denna uppgradering kan du uppnå en full laddning från 0 till 100% på bara cirka 2 timmar och 54 minuter hemma.
 
 ### Laddningsport
 

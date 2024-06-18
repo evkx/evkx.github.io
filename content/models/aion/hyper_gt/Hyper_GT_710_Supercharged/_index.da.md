@@ -41,7 +41,7 @@ Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % v
 
 I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 20 kWh/100 km, ville turen tage cirka 9 timer og 9 minutter. Denne rejse ville kræve to opladningsstop fra 2% til 56%, med en samlet opladningstid på 49 minutter
 
-### Indbygget oplader
+### Ombordlader
 
 
 

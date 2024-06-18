@@ -41,9 +41,9 @@ Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % v
 
 I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 24 kWh/100 km, ville turen tage cirka 11 timer og 25 minutter. Denne rejse ville kræve to opladningsstop fra 15% til 66%, med en samlet opladningstid på 186 minutter
 
-### Indbygget oplader
+### Ombordlader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 3 timer og 54 minutter.
+Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 3 timer og 54 minutter ved brug af en hjemmeoplader.
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/charging_1_st.jpg" title="Citroën ë-C3" width="2894" height="2170"  >}}

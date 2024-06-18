@@ -41,9 +41,9 @@ Maximal DC-laddningshastighet är 147 kW. En full laddning från 0 - 100 % tar 1
 
 I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 25 kWh/100 km, skulle resan ta ungefär 10 timmar och 28 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 46%, med en total laddningstid på 128 minuter.
 
-### Inbyggd laddare
+### Ombordladdare
 
-För nivå 1 och nivå 2 AC-laddning stöder standard inbyggd laddare upp till 6,6KW-laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på ca. 9 timmar och 41 minuter. Du kan också välja en valfri inbyggd laddare som stöder upp till 11 KW laddning. Som ett resultat kan du ladda batteriet 0-100 % hemifrån på cirka 5 timmar och 49 minuter.
+Den standard ombordladdaren stöder upp till 6,6 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 9 timmar och 41 minuter med en hemmaladdare. För snabbare laddning kan du välja en valfri ombordladdare som stöder upp till 11 kW. Med denna uppgradering kan du uppnå en full laddning från 0 till 100% på bara cirka 5 timmar och 49 minuter hemma.
 
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/charging_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}

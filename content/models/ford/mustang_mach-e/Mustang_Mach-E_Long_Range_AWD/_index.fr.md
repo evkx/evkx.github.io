@@ -43,7 +43,7 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 ### Chargeur embarqué
 
-Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué  prend en charge jusqu'à 11 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 8 heures et 21 minutes.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 21 minutes à domicile.
 
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/charging_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="1736"  >}}

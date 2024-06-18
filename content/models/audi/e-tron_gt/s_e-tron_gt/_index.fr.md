@@ -43,7 +43,7 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 ### Chargeur embarqué
 
-Pour la recharge CA de niveau 1 et de niveau 2, le chargeur embarqué standard prend en charge jusqu'à 11 KW de charge. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en environ 8 heures et 49 minutes. Vous pouvez également sélectionner un chargeur intégré en option qui prend en charge une charge jusqu'à 22 KW. Par conséquent, vous pouvez charger la batterie de 0 à 100 % depuis chez vous en 4 heures et 24 minutes.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 49 minutes à domicile. our une charge plus rapide, vous pouvez opter pour un chargeur embarqué optionnel prenant en charge jusqu'à 22 kW. Avec cette mise à niveau, vous pouvez atteindre une charge complète de 0 à 100% en seulement environ 4 heures et 24 minutes à domicile.
 
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/charging_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}

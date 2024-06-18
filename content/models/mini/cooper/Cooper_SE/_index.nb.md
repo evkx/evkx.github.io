@@ -41,7 +41,7 @@ Maksimal DC-ladehastighet er 95 kW. En full lading fra 0 - 100 % vil ta 61 minut
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 11KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 4 timer og 27 minutter.
+Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 4 timer og 27 minutter med en hjemmelader.
 
 ### Ladeport
 

@@ -41,9 +41,9 @@ Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % v
 
 I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 17,5 kWh/100 km, ville turen tage cirka 9 timer og 12 minutter. Denne rejse ville kræve to opladningsstop fra 5% til 39%, med en samlet opladningstid på 52 minutter
 
-### Indbygget oplader
+### Ombordlader
 
-Til niveau 1 og niveau 2 AC-opladning understøtter den indbyggede -oplader op til 11 KW opladning. Som et resultat kan du oplade batteriet 0-100 % hjemmefra på ca. 6 timer og 49 minutter.
+Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 6 timer og 49 minutter ved brug af en hjemmeoplader.
 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/charging_1_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="2000"  >}}

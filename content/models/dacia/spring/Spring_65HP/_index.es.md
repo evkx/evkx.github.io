@@ -41,7 +41,7 @@ La velocidad máxima de carga de CC es 30kW. Una carga completa del 0 al 100 % t
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 7 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 3 horas y 34 minutos.
+El cargador a bordo estándar soporta hasta 7 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 3 horas y 34 minutos usando un cargador en casa.
 
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/charging_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1702"  >}}

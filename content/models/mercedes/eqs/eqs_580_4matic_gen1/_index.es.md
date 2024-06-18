@@ -49,7 +49,7 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado  admite una carga de hasta 22 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 4 horas y 55 minutos.
+El cargador a bordo estándar soporta hasta 22 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 4 horas y 55 minutos usando un cargador en casa.
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic_gen1/charging_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000"  >}}

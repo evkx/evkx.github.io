@@ -43,7 +43,7 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado standard admite una carga de hasta 7,2 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 7 horas y 13 minutos.
+El cargador a bordo estándar soporta hasta 7,2 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 13 minutos usando un cargador en casa.
 
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/charging_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1688"  >}}

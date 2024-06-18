@@ -41,7 +41,7 @@ Maksimal DC-ladehastighet er 30 kW. En full lading fra 0 - 100 % vil ta 80 minut
 
 ### Ombordlader
 
-For AC-lading på nivå 1 og nivå 2 støtter -ombordladeren opptil 7KW-lading. Som et resultat kan du lade batteriet 0-100 % hjemmefra på ca. 3 timer og 34 minutter.
+Den standard ombordladeren støtter opptil 7 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 3 timer og 34 minutter med en hjemmelader.
 
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/charging_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1702"  >}}
