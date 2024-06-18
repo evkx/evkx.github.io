@@ -57,9 +57,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 Volkswagen ID.4 Pro 4MOTION features an all-wheel drive system powered by two motors, one on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/).
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 180 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 180 mm.
 
-You can order Volkswagen ID.4 Pro 4MOTION with an alternative sport suspension. The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 163 mm.
+You can order Volkswagen ID.4 Pro 4MOTION with an alternative sport suspension. The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 163 mm.
 
 ### Steering
 

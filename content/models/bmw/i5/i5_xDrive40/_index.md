@@ -63,9 +63,9 @@ BMW i5 xDrive40 features an all-wheel drive system powered by two motors, one on
 
 The Adaptive M Suspension suspension has a fixed height and damping. The ground clearance with this suspension is 144 mm.
 
-You can order BMW i5 xDrive40 with an alternative M Sport Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers.
+You can order BMW i5 xDrive40 with an alternative M Sport Suspension suspension. The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers.
 
-You can order BMW i5 xDrive40 with an alternative Adaptives suspension professional suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses steel springs and hydraulic dampers. The  suspension has adaptive damping on the front and rear axle and air suspension on the rear axle that automatically keeps the car leveled depending on cargo weight. The ground clearance with this suspension is 140 mm.
+You can order BMW i5 xDrive40 with an alternative Adaptives suspension professional suspension. The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The  suspension has adaptive damping on the front and rear axle and air suspension on the rear axle that automatically keeps the car leveled depending on cargo weight. The ground clearance with this suspension is 140 mm.
 
 ### Steering
 
