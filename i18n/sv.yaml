@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-8a37b11c
+  translation: Audi RS e-tron GT är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 601 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-5993d701
   translation: Audi S e-tron GT är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 611 km. EVKX.net har alla detaljer.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-0a5db8ad
   translation: Volkswagen ID.4 Pro 4MOTION är en helelektrisk SUV med en WLTP räckvidd på upp till 527 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-2009d566
-  translation: Porsche Taycan 4S Sport Turismo är en helelektrisk lyxkombi med en WLTP räckvidd på upp till 616 km. EVKX.net har alla detaljer.
 

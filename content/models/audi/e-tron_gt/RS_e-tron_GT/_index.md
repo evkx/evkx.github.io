@@ -1,7 +1,7 @@
 ---
 title: Audi RS e-tron GT
 linktitle: "RS e-tron GT"
-description: "Audi RS e-tron GT is an all-electric luxury sedan with a WLTP range of up to 495 km (308 miles). EVKX.net has all the details."
+description: "Audi RS e-tron GT is an all-electric luxury sedan with a WLTP range of up to 601 km (374 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/main_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2249"  >}}
+{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/main_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
@@ -29,24 +29,24 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-With overboost, the Audi RS e-tron GT reaches a maximum power of 475 kW (646 hp / 637 bhp). Without overboost, it provides a strong 440 kW (598 hp / 590 bhp). The maxium torque is at 830 Nm (613 lb-ft). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.3 seconds and reaches a top speed of 250 km/h (155 mph), showcasing its impressive performance.
+With overboost, the Audi RS e-tron GT delivers an astonishing maximum power of 630 kW (857 hp / 845 bhp). Even without overboost, it boasts a formidable 560 kW (761 hp / 751 bhp). The maximum torque reaches an incredible 865 Nm (638 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in a mere 2.8 seconds and achieves a top speed of 250 km/h (155 mph), underscoring its breathtaking performance.
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 93,4 kWh and a net usable capacity of 83,7 kWh, providing an 9,7 kWh buffer (10.4%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 105 kWh and a net usable capacity of 97 kWh, providing an 8 kWh buffer (7.6%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 495 to 447 km (308-278 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.9 kWh/100 km for the base model and 18.7 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 601 to 550 km (374-342 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.1 kWh/100 km for the base model and 17.6 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 50 minutes, while a more typical charging scenario from 10% to 80% takes 18 minutes with an average charging speed at 196 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 65%. This results in an effective charging speed, including time lost, of 165 kW, with each charging session taking about 19 minutes and 53 seconds.. This efficient charging capability makes the Audi RS e-tron GT a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of 320 kW. Charging from 0% to 100% takes approximately 46 minutes, while a more typical charging scenario from 10% to 80% takes 15 minutes with an average charging speed at 265 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 65%. This results in an effective charging speed, including time lost, of 212 kW, with each charging session taking about 18 minutes and 32 seconds.. This exceptionally fast charging capability makes the Audi RS e-tron GT one of the most efficient and convenient EVs for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 9 hours and 10 minutes. This journey would require three charging stops from 3% to 58%, with a total charging time of 51 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 8 hours and 55 minutes. This journey would require two charging stops from 1% to 65%, with a total charging time of 35 minutes.
 
 ### Onboard charger
 
-For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 7 hours and 36 minutes. You can also select an optional onboard charger that supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 3 hours and 48 minutes.
+For level 1 and level 2 AC charging, the standard onboard charger supports up to 11 KW charging. As a result, you can charge the battery 0-100% from home in about 8 hours and 49 minutes. You can also select an optional onboard charger that supports up to 22 KW charging. As a result, you can charge the battery 0-100% from home in about 4 hours and 24 minutes.
 
 
-{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/charging_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2249"  >}}
+{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/charging_2_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 
 ### Charge port
@@ -78,11 +78,6 @@ You can choose between different brake systems. The standard option brakes use r
 ## Exterior
 
 You can choose between 54 different paint colors when ordering this model.
-
-You can also choose several styling options to make your car more unique.
- In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 
-
-
 The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
 
 
@@ -90,10 +85,10 @@ Additionally, you can choose between 7 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
-You can choose between two types of roofs on this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
+The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.
 
 
-{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/exterior_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/exterior_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -182,7 +177,7 @@ The Audi RS e-tron GT has multiple integrated screens. Behind the steering wheel
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 
-{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/screens_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/screens_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 
 ## Infotainment
@@ -197,7 +192,7 @@ In addition, with the standard in-car navigation system, you get the help you ne
 You can choose between three types of headlights for the Audi RS e-tron GT. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. Headlights based on LED Matrix with Laser technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
 
 
-{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/headlights_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/headlights_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="1999"  >}}
 
 ## Advanced driver assistance systems
 
@@ -248,13 +243,9 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 405 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 85 liters (3.0 CU FT). The maxium weight of the car is 2860 kg (6305 lbs), and with the base weight of 2340 kg (5159 lbs), you can max load 520 kg (1146 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
-
-{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/trunk_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2249"  >}}
-
 ### Availability & Pricing
 
-This model had a world premiere on 09.02.2021, and deliveries started in May 2021.<div class="mt-3 mb-3">
+This model had a world premiere on 18.06.2024, and deliveries started in September 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron GT </strong>
 </a>

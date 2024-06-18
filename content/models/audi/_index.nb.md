@@ -41,7 +41,7 @@ Audi e-tron er en luksus SUV/Coupe SUV tilgjengelig i 6 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi e-tron GT er en luksus sedan tilgjengelig i 4 varianter.
+Audi e-tron GT er en luksus sedan tilgjengelig i 5 varianter.
 </p>
 	<a href="e-tron_gt/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

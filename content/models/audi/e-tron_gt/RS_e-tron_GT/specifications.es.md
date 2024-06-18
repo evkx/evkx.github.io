@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/main_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2249" >}}
+{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/main_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250" >}}
 EVKX.net busca tener las especificaciones más completas para Audi RS e-tron GT. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Audi RS e-tron GT, visite [chargeinfo](../chargecurve/) para Audi RS e-tron GT con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Audi RS e-tron GT.
 				Potencia máxima
 			</td>
 			<td>
-				440 KW (598 hp /590 bhp)
+				560 KW (761 hp /751 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Audi RS e-tron GT.
 				Potencia máxima con impulso
 			</td>
 			<td>
-				475 Kw
+				630 Kw
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Audi RS e-tron GT.
 				Salida de par eléctrico
 			</td>
 			<td>
-				830 nm (613 pies-libra)
+				865 nm (638 pies-libra)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Audi RS e-tron GT.
 				Aumento de la salida de par eléctrico
 			</td>
 			<td>
-				830 Nm
+				865 Nm
 			</td>
 		</tr>
 		<tr>
@@ -68,18 +68,10 @@ EVKX.net busca tener las especificaciones más completas para Audi RS e-tron GT.
 		</tr>
 		<tr>
 			<td>
-				0-100 km/h (0-62 mph)
-			</td>
-			<td>
-				4,5 s
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Aumento de 0-100 km/h (0-62 mph)
 			</td>
 			<td>
-				3,3 s
+				2,8 s
 			</td>
 		</tr>
 	</tbody>
@@ -107,7 +99,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de equipamiento básico
 			</td>
 			<td>
-				495 km
+				601 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +107,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico
 			</td>
 			<td>
-				16,9 kWh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +115,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico con pérdida de carga
 			</td>
 			<td>
-				19,8 kWh/100km
+				18,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +123,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de acabado superior
 			</td>
 			<td>
-				447 km
+				550 km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +131,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				18,7 kWh/100km
+				17,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -147,7 +139,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior con pérdida de carga
 			</td>
 			<td>
-				22,1 kwh/100km
+				20,8 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -174,7 +166,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				93,4 kWh
+				105 kWh
 			</td>
 		</tr>
 		<tr>
@@ -182,7 +174,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				83,7 kWh
+				97 kWh
 			</td>
 		</tr>
 		<tr>
@@ -190,7 +182,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga CC máxima
 			</td>
 			<td>
-				270 kW
+				320 kW
 			</td>
 		</tr>
 		<tr>

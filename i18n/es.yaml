@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-8a37b11c
+  translation: Audi RS e-tron GT es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 601 km (374 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-5993d701
   translation: Audi S e-tron GT es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 611 km (380 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-0a5db8ad
   translation: Volkswagen ID.4 Pro 4MOTION es un SUV totalmente eléctrico con una autonomía WLTP de hasta 527 km (328 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-2009d566
-  translation: Porsche Taycan 4S Sport Turismo es una camioneta de lujo totalmente eléctrica con una WLTP autonomía de hasta 616 km (383 millas). EVKX.net tiene todos los detalles.
 

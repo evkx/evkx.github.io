@@ -1,7 +1,7 @@
 ---
 title: Audi RS e-tron GT
 linktitle: "RS e-tron GT"
-description: "Audi RS e-tron GT es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 495 km (308 millas). EVKX.net tiene todos los detalles."
+description: "Audi RS e-tron GT es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 601 km (374 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/main_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2249"  >}}
+{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/main_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 Hemos separado nuestro artículo Audi RS e-tron GT en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
@@ -29,24 +29,24 @@ Hemos separado nuestro artículo Audi RS e-tron GT en secciones. Si desea espera
 
 ## Rendimiento
 
-Con overboost, el Audi RS e-tron GT alcanza una potencia máxima de 475 kW (646 hp). Sin overboost, proporciona una sólida potencia de 440 kW (598 hp). El par máximo es de 830 Nm. Este motor de alta potencia puede acelerar de 0 a 100 km/h en solo 3,3 segundos y alcanza una velocidad máxima de 250 km/h, mostrando su impresionante rendimiento.
+Con el overboost, el Audi RS e-tron GT ofrece una asombrosa potencia máxima de 630 kW (857 hp). Incluso sin overboost, cuenta con una formidable potencia de 560 kW (761 hp). El par máximo alcanza unos increíbles 865 Nm. Esta máquina puede acelerar de 0 a 100 km/h en solo 2,8 segundos y alcanza una velocidad máxima de 250 km/h, lo que subraya su impresionante rendimiento.
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 93,4 kWh y una capacidad neta utilizable de 83,7 kWh, proporcionando un buffer de 9,7 kWh (10,4%) para la protección de la batería. Operando a un voltaje nominal de 725 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 105 kWh y una capacidad neta utilizable de 97 kWh, proporcionando un buffer de 8 kWh (7,6%) para la protección de la batería. Operando a un voltaje nominal de 725 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 495 y 447 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 16,9 kWh/100 km para el modelo base y 18,7 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 601 y 550 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 16,1 kWh/100 km para el modelo base y 17,6 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 270kW. Una carga completa del 0 al 100 % tardaría 50 minutos, mientras que un escenario más común del 10 al 80 % tardaría 18 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 65%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 165kW. Cada sesión de carga tardaría 19 minutos y 53 segundos. Esta capacidad de carga eficiente hace que el Audi RS e-tron GT sea una opción conveniente para viajes de larga distancia.
+La velocidad máxima de carga de CC es 320kW. Una carga completa del 0 al 100 % tardaría 46 minutos, mientras que un escenario más común del 10 al 80 % tardaría 15 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 65%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 212kW. Cada sesión de carga tardaría 18 minutos y 32 segundos. Esta capacidad de carga excepcionalmente rápida hace que el Audi RS e-tron GT sea uno de los vehículos eléctricos más eficientes y convenientes para viajes de larga distancia.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 10 minutos. Este viaje requeriría dos paradas de carga del 3% al 58%, con un tiempo total de carga de 51 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 22 kWh/100 km, el viaje tomaría aproximadamente 8 horas y 55 minutos. Este viaje requeriría dos paradas de carga del 1% al 65%, con un tiempo total de carga de 35 minutos.
 
 ### Cargador a bordo
 
-Para carga de CA de nivel 1 y 2, el cargador integrado standard admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 7 horas y 36 minutos. También puedes seleccionar un cargador integrado opcional que admita una carga de hasta 22 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 3 horas y 48 minutos.
+Para carga de CA de nivel 1 y 2, el cargador integrado standard admite una carga de hasta 11 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 8 horas y 49 minutos. También puedes seleccionar un cargador integrado opcional que admita una carga de hasta 22 KW. Como resultado, puedes cargar la batería del 0 al 100 % desde casa en aproximadamente 4 horas y 24 minutos.
 
 
-{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/charging_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2249"  >}}
+{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/charging_2_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 
 ### Puerto de carga
@@ -78,16 +78,14 @@ Puedes elegir entre diferentes sistemas de frenos. Los frenos de opción standar
 ## Exterior
 
 Puedes elegir entre 54 colores de pintura diferentes al pedir este modelo.
-
-También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
 Adicionalmente, puedes elegir entre 7 ruedas con tamaños de 19 a 21 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
-Puedes elegir entre dos tipos de techos en este modelo. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
+El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. El vidrio está tonificado para proteger contra el calor del sol. exterior.roof.optional.standardispanoramic.panoramic.FullFixed.ElectrochromicPattern
 
 
-{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/exterior_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="1999"  >}}
+{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/exterior_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -176,7 +174,7 @@ El Audi RS e-tron GT tiene múltiples pantallas integradas. Detrás del volante 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 
-{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/screens_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/screens_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 
 ## Infoentretenimiento
@@ -191,7 +189,7 @@ Además, con el sistema de navegación para automóvil estándar, obtienes la ay
 Puedes elegir entre tres tipos de faros para el Audi RS e-tron GT. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente. Los faros basados en LED Matrix con tecnología láser están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apague individualmente para apagar las áreas pequeñas en el frente. Además, las luces traseras estándar utilizan tecnología LED.
 
 
-{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/headlights_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2001"  >}}
+{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/headlights_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="1999"  >}}
 
 ## Sistemas avanzados de asistencia al conductor
 
@@ -242,13 +240,9 @@ Con el sistema Assistantpackage Tour  nivel 2, obtienes funciones de automatizac
 La capacidad de carga en el maletero es de 405 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 85 litros (3,0 CU FT). El peso máximo del automóvil es 2860 kg (6305 lbs), y con el peso base de 2340 kg (5159 lbs), puedes cargar como máximo 520 kg (1146 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
-
-
-{{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/trunk_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2249"  >}}
-
 ### Disponibilidad y precios
 
-Este modelo tuvo un estreno mundial el 09.02.2021 y las entregas comenzaron en May 2021.<div class="mt-3 mb-3">
+Este modelo tuvo un estreno mundial el 18.06.2024 y las entregas comenzaron en September 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron GT </strong>
 </a>

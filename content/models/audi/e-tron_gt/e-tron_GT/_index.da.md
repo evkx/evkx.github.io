@@ -244,7 +244,7 @@ Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du 
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 09.02.2021, og leveringerne startede i May 2021.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 09.02.2021, og leveringerne startede i May 2021. Denne model er nu udgået.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron GT </strong>
 </a>

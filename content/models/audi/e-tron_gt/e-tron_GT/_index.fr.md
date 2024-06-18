@@ -244,7 +244,7 @@ Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque,
 
 ### Disponibilité et prix
 
-Ce modèle a été présenté en première mondiale le 09.02.2021 et les livraisons ont commencé en May 2021.<div class="mt-3 mb-3">
+Ce modèle a été présenté en première mondiale le 09.02.2021 et les livraisons ont commencé en May 2021. Ce modèle a maintenant été abandonné.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi e-tron GT </strong>
 </a>
