@@ -585,6 +585,14 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Ajuste eléctrico de altura, reclinación y ángulo
 			</td>
 			<td>
@@ -676,7 +684,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Función estándar
+				No disponible
 			</td>
 		</tr>
 		<tr>

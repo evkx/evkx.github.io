@@ -513,7 +513,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 
 ## Suspension
 
-Le modèle propose 2 variantes de suspension
+Le modèle propose 3 variantes de suspension
 
 ### Standard
 
@@ -720,6 +720,127 @@ Le modèle propose 2 variantes de suspension
 			</td>
 			<td>
 				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Avant à ressort
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type à ressort arrière
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension avant
+			</td>
+			<td>
+				Suspension à double triangulation
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension arrière
+			</td>
+			<td>
+				Multi-liens
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Active
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Suspension adaptative
+			</td>
+			<td>
+				Oui, équipement standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Amortissement réglable avant
+			</td>
+			<td>
+				Oui, équipement standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Amortissement arrière réglable
+			</td>
+			<td>
+				Oui, équipement standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Avant réglable en hauteur
+			</td>
+			<td>
+				Oui, équipement standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hauteur arrière réglable
+			</td>
+			<td>
+				Oui, équipement standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Garde au sol maximale
+			</td>
+			<td>
+				165 mm (6,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Garde au sol minimale
+			</td>
+			<td>
+				125 mm (4,9")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type d'amortisseur avant
+			</td>
+			<td>
+				ActiveHydraulic
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type d'amortisseur arrière
+			</td>
+			<td>
+				ActiveHydraulic
 			</td>
 		</tr>
 		<tr>

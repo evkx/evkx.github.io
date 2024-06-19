@@ -513,7 +513,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Hjuloppheng
 
-Modellen tilbyr 2 fjæringsvarianter
+Modellen tilbyr 3 fjæringsvarianter
 
 ### Standard
 
@@ -720,6 +720,127 @@ Modellen tilbyr 2 fjæringsvarianter
 			</td>
 			<td>
 				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type fjæring foran
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type fjæring bak
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng foran
+			</td>
+			<td>
+				Dobbelt bærearmsoppheng
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng bak
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Active
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Adaptiv fjæring
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar demping foran
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar demping bak
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar høyde foran
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar høyde bak
+			</td>
+			<td>
+				Ja, standardutstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks bakkeklaring
+			</td>
+			<td>
+				165 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minimum bakkeklaring
+			</td>
+			<td>
+				125 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type demper foran
+			</td>
+			<td>
+				ActiveHydraulic
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type demper bak
+			</td>
+			<td>
+				ActiveHydraulic
 			</td>
 		</tr>
 		<tr>

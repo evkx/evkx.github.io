@@ -529,7 +529,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Hjulupphängning
 
-Modellen erbjuder 2 fjädringsvarianter
+Modellen erbjuder 3 fjädringsvarianter
 
 ### Standard
 
@@ -736,6 +736,127 @@ Modellen erbjuder 2 fjädringsvarianter
 			</td>
 			<td>
 				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Främre fjädring
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bakre fjädring
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjulupphängning foran
+			</td>
+			<td>
+				Dubbel länkarmsfjädring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjulupphängning bak
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Active
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Adaptive Suspension
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar dämpning fram
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar dämpning bak
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar höjd fram
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar höjd bak
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Max markfrigång
+			</td>
+			<td>
+				165 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minsta markfrigång
+			</td>
+			<td>
+				125 mm
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Främre stötdämpare
+			</td>
+			<td>
+				ActiveHydraulic
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bakre stötdämpare
+			</td>
+			<td>
+				ActiveHydraulic
 			</td>
 		</tr>
 		<tr>

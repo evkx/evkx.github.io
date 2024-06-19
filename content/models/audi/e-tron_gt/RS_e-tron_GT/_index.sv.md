@@ -65,6 +65,8 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 
 Du kan beställa Audi RS e-tron GT med en alternativ Adaptive Air Suspension-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 125 mm, och maximal är 165 mm.
 
+Du kan beställa Audi RS e-tron GT med en alternativ Active-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och aktiva hydrauliska dämpare. Dämparen undertrycker aktivt oönskade rörelser av luftfjädringen. Detta gör att hjulen aktivt kan tryckas in i vägen eller dras in i karossen när som helst. Med en jämn körning absorberar systemet nästan fullständigt stötar. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 125 mm, och maximal är 165 mm.
+
 ### Styrning
 
 Dynamisk styrning är standard-funktionen för Audi RS e-tron GT. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten. Dessutom är bakhjulsstyrning tillgänglig som en standard-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.

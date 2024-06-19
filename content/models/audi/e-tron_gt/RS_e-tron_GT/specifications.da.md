@@ -529,7 +529,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 
 ## Suspension
 
-Modellen tilbyder 2 affjedringsvarianter
+Modellen tilbyder 3 affjedringsvarianter
 
 ### Standard
 
@@ -736,6 +736,127 @@ Modellen tilbyder 2 affjedringsvarianter
 			</td>
 			<td>
 				ElectronicallyControlled
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fjedertype foran
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fjedertype bagtil
+			</td>
+			<td>
+				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ophængstype foran
+			</td>
+			<td>
+				Dobbelt wishbone suspension
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type bag
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Active
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Adaptiv suspension
+			</td>
+			<td>
+				Ja, standardudstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar dæmpning foran
+			</td>
+			<td>
+				Ja, standardudstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar dæmpning bagtil
+			</td>
+			<td>
+				Ja, standardudstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar højde foran
+			</td>
+			<td>
+				Ja, standardudstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar højde bag
+			</td>
+			<td>
+				Ja, standardudstyr
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Maks frihøjde
+			</td>
+			<td>
+				165 mm (6,5")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minimum frihøjde
+			</td>
+			<td>
+				125 mm (4,9")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Spjældtype foran
+			</td>
+			<td>
+				ActiveHydraulic
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Dæmper type bag
+			</td>
+			<td>
+				ActiveHydraulic
 			</td>
 		</tr>
 		<tr>

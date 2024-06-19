@@ -65,6 +65,8 @@ Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double
 
 Du kan bestille Audi RS e-tron GT performance med en alternativ Adaptive Air Suspension hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 125 mm, og maksimum er 165 mm.
 
+Du kan bestille Audi RS e-tron GT performance med en alternativ Active suspension hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og aktive hydrauliske dæmpere. Dæmperen undertrykker aktivt uønskede bevægelser af luftaffjedringen. Dette gør det muligt for hjulene at blive aktivt presset ind i vejen eller trukket ind i karosseriet til enhver tid. Med en glat kørsel absorberer systemet næsten fuldstændig bump. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 125 mm, og maksimum er 165 mm.
+
 ### Styring
 
 Dynamisk styring er en standard-funktion på Audi RS e-tron GT performance. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden. Derudover er baghjulsstyring tilgængelig som en standard-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.

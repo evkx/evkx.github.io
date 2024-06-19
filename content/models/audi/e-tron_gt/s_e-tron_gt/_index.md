@@ -65,6 +65,8 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 You can order Audi S e-tron GT with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 125 mm, and the maximum is 165 mm.
 
+You can order Audi S e-tron GT with an alternative Active suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and active hydraulic dampers. The damper actively suppresses undesired motion of the air suspension. This allows the wheels to be actively pushed into the road or pulled into the body at any time. With a smooth ride, the system absorbs bumps almost completely. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 125 mm, and the maximum is 165 mm.
+
 ### Steering
 
 Dynamic steering is a standard feature on the Audi S e-tron GT. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.

@@ -100,7 +100,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - elektrisk justering
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
-- [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
