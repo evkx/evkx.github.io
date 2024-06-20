@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 ## Drivetrain
 
-Volkswagen ID. Buzz GTX har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den(e) anvendte motor(er) er [induktionsmotorer](../../../../technology/motors/asm/).
+Volkswagen ID. Buzz GTX har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [induktionsmotorer](../../../../technology/motors/asm/).
+
+
+### Hjulophæng
 
 
 

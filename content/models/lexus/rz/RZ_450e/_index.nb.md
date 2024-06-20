@@ -61,6 +61,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Lexus RZ 450e har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
 
+
+### Hjuloppheng
+
 -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 177 mm.
 
 ### Bremser

@@ -61,6 +61,9 @@ La ubicación del puerto de carga está en el [lado frontal derecho](../../../..
 
 Ford F150 Lightning Standard Range tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
 
+
+### Suspensión
+
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 226 mm.
 
 ### Frenos

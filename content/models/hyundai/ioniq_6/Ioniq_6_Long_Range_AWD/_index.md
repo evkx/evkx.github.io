@@ -57,6 +57,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 Hyundai Ioniq 6 Long Range AWD features an all-wheel drive system powered by two motors, one on each axle.
 
+
+### Suspension
+
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 141 mm.
 
 ### Brakes

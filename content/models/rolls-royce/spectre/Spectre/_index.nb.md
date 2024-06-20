@@ -57,6 +57,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Rolls-Royce Spectre har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
 
+
+### Hjuloppheng
+
 Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 193 mm, og maksimum er 223 mm.
 
 ### Styring

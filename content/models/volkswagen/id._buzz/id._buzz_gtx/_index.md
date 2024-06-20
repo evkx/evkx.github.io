@@ -55,7 +55,10 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-Volkswagen ID. Buzz GTX has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/).
+Volkswagen ID. Buzz GTX has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Induction Motors](../../../../technology/motors/asm/).
+
+
+### Suspension
 
 
 

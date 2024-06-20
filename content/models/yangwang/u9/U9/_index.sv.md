@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 YangWang U9 har ett fyrhjulsdriftsystem som stöds av fyra motorer. En för varje hjul. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjulupphängning
+
 Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 120 mm, och maximal är 120 mm.
 
 ### Styrning

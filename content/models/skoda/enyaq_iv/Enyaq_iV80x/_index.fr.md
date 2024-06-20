@@ -61,6 +61,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 SKODA Enyaq iV80x dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
 
+
+### Suspension
+
 La suspension standard a des ressorts en acier avec une hauteur fixe mais un réglage de l'amortissement en option. La garde au sol avec cette suspension est de 187 mm.
 
 Vous pouvez commander SKODA Enyaq iV80x avec une suspension alternative sport. La suspension sport a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 171 mm.

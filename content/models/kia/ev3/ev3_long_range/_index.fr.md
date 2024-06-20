@@ -57,6 +57,9 @@ L'emplacement du port de charge est sur [avant](../../../../technology/charging/
 
 Kia EV3 Long Range dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant.
 
+
+### Suspension
+
 La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 160 mm.
 
 ### Freins

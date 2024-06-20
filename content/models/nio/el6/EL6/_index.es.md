@@ -72,6 +72,9 @@ Este modelo admite el cambio de batería. El cambio de batería significa que pu
 
 Nio EL6 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
 
+
+### Suspensión
+
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 170 mm.
 
 ### Dirección

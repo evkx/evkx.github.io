@@ -57,6 +57,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 VOYAH FREE har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
 
+
+### Hjulophæng
+
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 118 mm, og maksimum er 213 mm.
 
 ### Bremser

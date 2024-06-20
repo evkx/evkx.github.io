@@ -57,6 +57,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 MG Cyberster AWD Long Range har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
 
+
+### Hjuloppheng
+
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 120 mm.
 
 ### Bremser

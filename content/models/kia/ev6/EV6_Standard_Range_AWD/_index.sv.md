@@ -61,6 +61,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 Kia EV6 Standard Range AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
 
+
+### Hjulupphängning
+
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 178 mm.
 
 ### Bromsar

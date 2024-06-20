@@ -59,7 +59,10 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 ## Drivetrain
 
-Volkswagen ID. Buzz Pro LWB har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Volkswagen ID. Buzz Pro LWB har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Hjulophæng
 
 
 

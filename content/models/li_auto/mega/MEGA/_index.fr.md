@@ -63,7 +63,10 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 ## Transmission
 
-Li Auto MEGA dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Li Auto MEGA dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 162 mm et la garde au sol maximale est de 192 mm.
 

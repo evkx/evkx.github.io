@@ -55,7 +55,10 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-BYD Seal RWD has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+BYD Seal RWD has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers.
 

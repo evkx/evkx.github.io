@@ -57,6 +57,9 @@ La ubicación del puerto de carga está en la [esquina trasera izquierda](../../
 
 Tesla Model X Plaid tiene un sistema de tracción total sostenido por tres motores. Uno en el eje delantero y dos en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
+
+### Suspensión
+
 La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 117 mm y la máxima es 158 mm.
 
 ### Dirección

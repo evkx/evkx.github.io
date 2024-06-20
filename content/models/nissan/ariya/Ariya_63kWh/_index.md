@@ -55,7 +55,10 @@ The charge port is conveniently located on the [right front side](../../../../te
 
 ## Drivetrain
 
-Nissan Ariya 63kWh has a front-wheel drive system supported by one motor on the front axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+Nissan Ariya 63kWh has a front-wheel drive system supported by one motor on the front axle. The motor used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+
+
+### Suspension
 
 The standard suspension has a fixed height and damping. The ground clearance with this suspension is 185 mm.
 

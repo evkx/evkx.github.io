@@ -55,7 +55,10 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-BYD Seal U Design has a front-wheel drive system supported by one motor on the front axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+BYD Seal U Design has a front-wheel drive system supported by one motor on the front axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers.
 

@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 ## Drivetrain
 
-XPENG G6 RWD Long Range har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+XPENG G6 RWD Long Range har et baghjulstræksystem, der understøttes af en motor på bagakslen. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Hjulophæng
 
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 160 mm.
 

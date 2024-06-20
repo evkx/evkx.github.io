@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 ## Drivetrain
 
-Audi Q4 Sportback 40 e-tron har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Audi Q4 Sportback 40 e-tron har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Hjulophæng
 
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 180 mm.
 

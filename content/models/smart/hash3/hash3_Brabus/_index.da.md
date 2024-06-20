@@ -61,6 +61,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 Smart #3 Brabus har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
 
+
+### Hjulophæng
+
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 175 mm.
 
 ### Bremser

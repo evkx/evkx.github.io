@@ -57,6 +57,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 XPENG X9 AWD Performance tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
+
+### Suspensión
+
 La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 130 mm y la máxima es 220 mm. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
 
 ### Frenos

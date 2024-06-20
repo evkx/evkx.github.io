@@ -61,6 +61,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 Mercedes-EQ EQE 350+ SUV har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjulupphängning
+
 Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 154 mm, och maximal är 204 mm.
 
 ### Styrning

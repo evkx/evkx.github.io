@@ -61,6 +61,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 SKODA Enyaq iV80x har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
 
+
+### Hjulophæng
+
 standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 187 mm.
 
 Du kan bestille SKODA Enyaq iV80x med en alternativ sport hjulophæng. sport-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 171 mm.

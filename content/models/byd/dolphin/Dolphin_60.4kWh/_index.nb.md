@@ -55,7 +55,10 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 
 ## Drivverk
 
-BYD Dolphin 60.4kWh har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren(e) som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+BYD Dolphin 60.4kWh har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+
+
+### Hjuloppheng
 
 -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 175 mm.
 

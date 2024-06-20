@@ -61,6 +61,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Honda Prologue FWD har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjuloppheng
+
 -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 178 mm.
 
 ### Bremser

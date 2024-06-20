@@ -61,6 +61,9 @@ Platsen för laddningsporten är i [vänster bakre hörnet](../../../../technolo
 
 Tesla Cybertruck Cyberbeast har ett fyrhjulsdriftssystem som stöds av tre motorer. En på framaxeln och två på bakaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på framaxeln och [induktionsmotorer] (../../../../technology/motors/asm/) på bakaxeln.
 
+
+### Hjulupphängning
+
 Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 138 mm, och maximal är 442 mm.
 
 ### Styrning

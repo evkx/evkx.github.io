@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 ## Drivetrain
 
-Kia EV9 Long Range AWD har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Kia EV9 Long Range AWD har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Hjulophæng
 
 
 

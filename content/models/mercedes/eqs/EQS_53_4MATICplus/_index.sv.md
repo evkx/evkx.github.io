@@ -63,6 +63,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 Mercedes-AMG EQS 53 4MATIC+ har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjulupphängning
+
 Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 82 mm, och maximal är 127 mm.
 
 ### Styrning

@@ -57,6 +57,9 @@ The charge port is conveniently located at the [left rear corner](../../../../te
 
 Tesla Model S Standard Range features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
+
+### Suspension
+
 The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 117 mm, and the maximum is 158 mm.
 
 ### Steering

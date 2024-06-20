@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Hongqi E HS9 Exclusive+ autoparking test</h3>
+<p>Bjørn Nyland: 20.06.2024</p>
+
+{{< youtube EfOxxDGMw6w >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Trying to drive 500km across a SNOW COVERED mountain without charging in NEW Hongqi E-HS9 120kWh</h3>
 <p>Kris Rifa: 21.10.2023</p>
 

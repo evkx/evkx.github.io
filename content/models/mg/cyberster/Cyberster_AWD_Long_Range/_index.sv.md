@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 MG Cyberster AWD Long Range har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
 
+
+### Hjulupphängning
+
 Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 120 mm.
 
 ### Bromsar

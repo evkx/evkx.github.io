@@ -69,7 +69,10 @@ L'emplacement du port de charge est sur le [côté avant droit](../../../../tech
 
 ## Transmission
 
-Porsche Taycan 4S Sport Turismo dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Porsche Taycan 4S Sport Turismo dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 
 

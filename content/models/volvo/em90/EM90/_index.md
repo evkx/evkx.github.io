@@ -55,7 +55,10 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-Volvo EM90 has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Volvo EM90 has a rear-wheel drive system supported by one motor on the rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 162 mm, and the maximum is 192 mm.
 

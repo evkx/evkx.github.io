@@ -61,6 +61,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 Citroën ë-C3 har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
 
+
+### Hjulupphängning
+
 Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 163 mm.
 
 ### Bromsar

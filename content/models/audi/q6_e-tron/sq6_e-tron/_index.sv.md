@@ -61,6 +61,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 Audi SQ6 e-tron har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
 
+
+### Hjulupphängning
+
 Standard-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 184 mm.
 
 Du kan beställa Audi SQ6 e-tron med en alternativ Sport-upphängning. Sport-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 164 mm.

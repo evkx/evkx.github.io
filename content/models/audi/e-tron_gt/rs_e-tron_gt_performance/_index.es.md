@@ -61,11 +61,18 @@ La ubicación del puerto de carga está en el [lado frontal derecho](../../../..
 
 Audi RS e-tron GT performance tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
-La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión Standard tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 145 mm.
 
-Puedes pedir Audi RS e-tron GT performance con una suspensión alternativa Adaptive Air Suspension. La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 125 mm y la máxima es 165 mm.
+### Suspensión
 
-Puedes pedir Audi RS e-tron GT performance con una suspensión alternativa Active suspension. La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos activos. El amortiguador suprime activamente los movimientos indeseados de la suspensión neumática. Esto permite que las ruedas se empujen activamente hacia la carretera o se retraigan hacia el cuerpo en cualquier momento. Con un viaje suave, el sistema absorbe los baches casi por completo. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 125 mm y la máxima es 165 mm.
+La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 125 mm y la máxima es 165 mm.
+
+Puedes pedir Audi RS e-tron GT performance con una suspensión alternativa Active. La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos activos. El amortiguador suprime activamente los movimientos indeseados de la suspensión neumática. Esto permite que las ruedas se empujen activamente hacia la carretera o se retraigan hacia el cuerpo en cualquier momento. Con un viaje suave, el sistema absorbe los baches casi por completo. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 125 mm y la máxima es 165 mm.
+
+La suspensión activa mantiene la carrocería del coche casi horizontal durante el frenado dinámico, la dirección y la aceleración, mejorando la respuesta de dirección precisa y el control del conductor.
+
+Normalmente, los coches se inclinan hacia afuera en las curvas. Sin embargo, la dinámica de curvas activa puede contrarrestar esta inclinación o incluso sobrecompensarla, haciendo que el coche se incline hacia las curvas como una motocicleta.
+
+La función Easy Entry eleva automáticamente la carrocería del coche cuando se abre una puerta, facilitando la entrada y salida. Una vez que se cierra la puerta, la carrocería vuelve a su nivel anterior.
 
 ### Dirección
 

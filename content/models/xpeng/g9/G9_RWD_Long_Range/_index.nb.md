@@ -59,7 +59,10 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-XPENG G9 RWD Long Range har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+XPENG G9 RWD Long Range har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+
+
+### Hjuloppheng
 
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 95 mm, og maksimum er 195 mm.
 

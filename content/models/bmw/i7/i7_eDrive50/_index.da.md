@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 ## Drivetrain
 
-BMW i7 eDrive50 har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den(e) anvendte motor(er) er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
+BMW i7 eDrive50 har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
+
+
+### Hjulophæng
 
 Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 193 mm, og maksimum er 223 mm.
 

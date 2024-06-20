@@ -55,7 +55,10 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-Volkswagen ID.4 GTX 4MOTION har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+Volkswagen ID.4 GTX 4MOTION har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+
+
+### Hjuloppheng
 
 Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 163 mm.
 

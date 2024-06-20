@@ -57,6 +57,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 BYD Tang EV600 dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
 
+
+### Suspension
+
 La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 190 mm.
 
 ### Pilotage

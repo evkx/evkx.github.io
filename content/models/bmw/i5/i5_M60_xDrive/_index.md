@@ -59,7 +59,10 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-BMW i5 M60 xDrive features an all-wheel drive system powered by two motors, one on each axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+BMW i5 M60 xDrive features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+
+
+### Suspension
 
 The  suspension has adaptive damping on the front and rear axle and air suspension on the rear axle that automatically keeps the car leveled depending on cargo weight. The ground clearance with this suspension is 136 mm.
 

@@ -59,7 +59,10 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 ## Transmission
 
-Renault 5 E-Tech 52kWh 150hp dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à rotor bobiné](../../../../technology/motors/wrsm/).
+Renault 5 E-Tech 52kWh 150hp dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs synchrones à rotor bobiné](../../../../technology/motors/wrsm/).
+
+
+### Suspension
 
 La suspension standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 145 mm.
 

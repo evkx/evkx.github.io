@@ -59,7 +59,10 @@ Platsen för laddningsporten är på [fronten](../../../../technology/charging/c
 
 ## Drivlina
 
-MG MG5 Electric Standard Range har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+MG MG5 Electric Standard Range har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+
+
+### Hjulupphängning
 
 Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 115 mm.
 

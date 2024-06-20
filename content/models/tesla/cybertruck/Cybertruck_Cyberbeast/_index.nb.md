@@ -61,6 +61,9 @@ Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/c
 
 Tesla Cybertruck Cyberbeast har et firehjulsdriftssystem støttet av tre motorer. En på forakselen og to på bakakselen. Motorene som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på forakselen og [induksjonsmotorer](../../../../technology/motors/asm/) på bakakselen.
 
+
+### Hjuloppheng
+
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 138 mm, og maksimum er 442 mm.
 
 ### Styring

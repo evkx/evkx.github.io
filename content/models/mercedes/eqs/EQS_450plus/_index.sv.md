@@ -55,7 +55,10 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-Mercedes-EQ EQS 450+ har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Mercedes-EQ EQS 450+ har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+
+
+### Hjulupphängning
 
 Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 82 mm, och maximal är 127 mm.
 

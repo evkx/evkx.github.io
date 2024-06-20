@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 Toyota bZ4X FWD har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
 
+
+### Hjulupphängning
+
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 177 mm.
 
 ### Bromsar

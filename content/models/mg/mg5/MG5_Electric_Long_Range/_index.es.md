@@ -59,7 +59,10 @@ La ubicación del puerto de carga está en el [frente](../../../../technology/ch
 
 ## Tren de transmisión
 
-MG MG5 Electric Long Range tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+MG MG5 Electric Long Range tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+
+
+### Suspensión
 
 La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 115 mm.
 

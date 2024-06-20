@@ -62,6 +62,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 BYD Han tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
 
+### Suspensión
+
+
 
 ### Dirección
 

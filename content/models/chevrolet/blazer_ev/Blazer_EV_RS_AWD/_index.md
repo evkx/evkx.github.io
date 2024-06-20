@@ -55,7 +55,10 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 ## Drivetrain
 
-Chevrolet Blazer EV RS AWD features an all-wheel drive system powered by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Chevrolet Blazer EV RS AWD features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 178 mm.
 

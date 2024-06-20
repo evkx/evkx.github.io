@@ -55,7 +55,10 @@ L'emplacement du port de charge est sur le [côté avant droit](../../../../tech
 
 ## Transmission
 
-BYD Seagull 38kWh dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le(s) moteur(s) utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
+BYD Seagull 38kWh dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
+
+
+### Suspension
 
 La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 150 mm.
 

@@ -61,7 +61,10 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 ## Drivetrain
 
-Audi e-tron 50 Sportback features an all-wheel drive system powered by two motors, one on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/).
+Audi e-tron 50 Sportback features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/).
+
+
+### Suspension
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 152 mm, and the maximum is 248 mm.
 

@@ -58,6 +58,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 Kia EV9 Long Range RWD tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
 
+### Suspensión
+
+
 
 ### Frenos
 

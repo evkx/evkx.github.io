@@ -57,6 +57,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Mercedes-AMG EQE 43 4MATIC SUV har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjuloppheng
+
 Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 154 mm, og maksimum er 204 mm.
 
 ### Styring

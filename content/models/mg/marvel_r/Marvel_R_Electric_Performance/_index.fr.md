@@ -57,6 +57,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 MG Marvel R Electric Performance dispose d'un système de transmission intégrale pris en charge par trois moteurs. Un sur l'essieu avant et deux sur l'essieu arrière.
 
+
+### Suspension
+
 La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 150 mm.
 
 ### Freins

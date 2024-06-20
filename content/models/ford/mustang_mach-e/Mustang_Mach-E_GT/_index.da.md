@@ -61,6 +61,9 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 Ford Mustang Mach-E GT har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
 
+
+### Hjulophæng
+
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 147 mm.
 
 ### Bremser

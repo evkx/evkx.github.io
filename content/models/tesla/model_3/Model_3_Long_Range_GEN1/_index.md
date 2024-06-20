@@ -67,6 +67,9 @@ The charge port is conveniently located at the [left rear corner](../../../../te
 
 Tesla Model 3 Long Range (GEN1) features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
+
+### Suspension
+
 The standard suspension has a fixed height and damping. The ground clearance with this suspension is 133 mm.
 
 ### Steering

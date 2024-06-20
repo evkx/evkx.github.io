@@ -61,7 +61,10 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 ## Drivetrain
 
-Mercedes-AMG EQE 53 4MATIC+ har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Mercedes-AMG EQE 53 4MATIC+ har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Hjulophæng
 
 Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 82 mm, og maksimum er 127 mm.
 

@@ -57,7 +57,10 @@ L'emplacement du port de charge est sur le [côté avant droit](../../../../tech
 
 ## Transmission
 
-Porsche Taycan GTS Sport Turismo dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Porsche Taycan GTS Sport Turismo dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 
 

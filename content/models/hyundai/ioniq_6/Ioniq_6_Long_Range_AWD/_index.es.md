@@ -57,6 +57,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 Hyundai Ioniq 6 Long Range AWD tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
 
+
+### Suspensión
+
 La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 141 mm.
 
 ### Frenos

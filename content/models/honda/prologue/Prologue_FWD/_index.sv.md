@@ -61,6 +61,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 Honda Prologue FWD har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjulupphängning
+
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 178 mm.
 
 ### Bromsar

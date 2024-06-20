@@ -59,7 +59,10 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 ## Transmission
 
-Honda Prologue FWD dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Honda Prologue FWD dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 178 mm.
 

@@ -62,6 +62,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 Kia EV6 GT har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
 
 
+### Hjulupphängning
+
+
 
 ### Bromsar
 

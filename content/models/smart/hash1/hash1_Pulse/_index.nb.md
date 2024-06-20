@@ -61,6 +61,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Smart #1 Pulse har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
 
+
+### Hjuloppheng
+
 Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 175 mm.
 
 ### Bremser

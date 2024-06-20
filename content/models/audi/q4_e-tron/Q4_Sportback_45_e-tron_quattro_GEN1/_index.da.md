@@ -63,6 +63,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 Audi Q4 Sportback 45 e-tron quattro (GEN1) har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
 
+
+### Hjulophæng
+
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 180 mm.
 
 Du kan bestille Audi Q4 Sportback 45 e-tron quattro (GEN1) med en alternativ sport hjulophæng. Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. sport-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 165 mm.

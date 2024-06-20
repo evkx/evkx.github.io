@@ -57,6 +57,9 @@ Les types de connecteurs varient selon les différents marchés. Ce modèle util
 
 Aion Hyper GT 710 Supercharged dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière.
 
+
+### Suspension
+
 La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 130 mm.
 
 ### Freins

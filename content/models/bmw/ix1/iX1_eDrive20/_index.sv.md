@@ -55,7 +55,10 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-BMW iX1 eDrive20 har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+BMW iX1 eDrive20 har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+
+
+### Hjulupphängning
 
 Adaptive M Suspension-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 170 mm.
 

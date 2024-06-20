@@ -59,7 +59,10 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 ## Tren de transmisión
 
-BMW iX3 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/).
+BMW iX3 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motor utilizados son [Motores de inducción](../../../../technology/motors/asm/).
+
+
+### Suspensión
 
 La suspensión Standard tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 179 mm. La suspensión Adaptive M Suspension tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 179 mm.
 

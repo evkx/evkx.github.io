@@ -57,6 +57,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Seres 5 4WD Premium har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
 
+
+### Hjuloppheng
+
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 185 mm.
 
 ### Bremser

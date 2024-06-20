@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 
 Audi e-tron GT har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjulupphängning
+
 Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Standard-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 145 mm.
 
 Du kan beställa Audi e-tron GT med en alternativ Adaptive Air Suspension-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 125 mm, och maximal är 165 mm.

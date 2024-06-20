@@ -55,7 +55,10 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 ## Drivverk
 
-Cadillac LYRIQ RWD har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Cadillac LYRIQ RWD har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+
+
+### Hjuloppheng
 
 -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 178 mm.
 

@@ -55,7 +55,10 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 ## Drivetrain
 
-Chevrolet Equinox EV FWD has a front-wheel drive system supported by one motor on the front axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Chevrolet Equinox EV FWD has a front-wheel drive system supported by one motor on the front axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 193 mm.
 

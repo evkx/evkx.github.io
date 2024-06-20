@@ -61,6 +61,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 Lexus RZ 450e features an all-wheel drive system powered by two motors, one on each axle.
 
+
+### Suspension
+
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 177 mm.
 
 ### Brakes

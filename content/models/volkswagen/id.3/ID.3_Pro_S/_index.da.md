@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 ## Drivetrain
 
-Volkswagen ID.3 Pro S har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den(e) anvendte motor(er) er [induktionsmotorer](../../../../technology/motors/asm/).
+Volkswagen ID.3 Pro S har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [induktionsmotorer](../../../../technology/motors/asm/).
+
+
+### Hjulophæng
 
 standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 150 mm.
 

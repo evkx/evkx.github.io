@@ -61,6 +61,9 @@ Placeringen af ladeporten er på [forsiden](../../../../technology/charging/conn
 
 Kia Niro EV har et baghjulstræksystem, der understøttes af en motor på bagakslen.
 
+
+### Hjulophæng
+
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 160 mm.
 
 ### Bremser

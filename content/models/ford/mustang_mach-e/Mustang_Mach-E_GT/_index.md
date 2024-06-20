@@ -61,6 +61,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 Ford Mustang Mach-E GT features an all-wheel drive system powered by two motors, one on each axle.
 
+
+### Suspension
+
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 147 mm.
 
 ### Brakes

@@ -61,6 +61,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Citroën ë-C3 har et forhjulsdriftssystem støttet av én motor på forakselen.
 
+
+### Hjuloppheng
+
 Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 163 mm.
 
 ### Bremser

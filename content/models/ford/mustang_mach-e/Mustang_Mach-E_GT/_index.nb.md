@@ -61,6 +61,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Ford Mustang Mach-E GT har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
 
+
+### Hjuloppheng
+
 Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 147 mm.
 
 ### Bremser

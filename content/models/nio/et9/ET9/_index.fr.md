@@ -60,6 +60,9 @@ Ce modèle prend en charge l'échange de batterie. L'échange de batterie signif
 
 Nio ET9 dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
 
+
+### Suspension
+
 La suspension avant et la suspension arrière sont [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 150 mm et la garde au sol maximale est de 200 mm.
 
 ### Pilotage

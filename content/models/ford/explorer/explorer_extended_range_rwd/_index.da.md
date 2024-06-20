@@ -59,7 +59,10 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 ## Drivetrain
 
-Ford Explorer Extended Range RWD har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den(e) anvendte motor(er) er [induktionsmotorer](../../../../technology/motors/asm/).
+Ford Explorer Extended Range RWD har et baghjulstræksystem, der understøttes af en motor på bagakslen. Dene anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/).
+
+
+### Hjulophæng
 
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 202 mm.
 

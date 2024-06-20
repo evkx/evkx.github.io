@@ -59,7 +59,10 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 ## Transmission
 
-SKODA Enyaq iV80 dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+SKODA Enyaq iV80 dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 La suspension standard a des ressorts en acier avec une hauteur fixe mais un réglage de l'amortissement en option. La garde au sol avec cette suspension est de 187 mm.
 

@@ -57,6 +57,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 MG Cyberster AWD Long Range dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
 
+
+### Suspension
+
 La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 120 mm.
 
 ### Freins

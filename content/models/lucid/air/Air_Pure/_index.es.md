@@ -55,7 +55,10 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 
 ## Tren de transmisión
 
-Lucid Air Pure tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+Lucid Air Pure tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+
+
+### Suspensión
 
 La suspensión  tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 126 mm.
 

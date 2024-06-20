@@ -57,6 +57,9 @@ L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../.
 
 Tesla Model 3 Long Range dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
 
+
+### Suspension
+
 La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques.
 
 ### Pilotage

@@ -60,6 +60,9 @@ Este modelo admite el cambio de batería. El cambio de batería significa que pu
 
 Nio ET9 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
 
+
+### Suspensión
+
 La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 150 mm y la máxima es 200 mm.
 
 ### Dirección

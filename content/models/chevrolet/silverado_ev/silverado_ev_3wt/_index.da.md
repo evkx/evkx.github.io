@@ -59,7 +59,10 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 ## Drivetrain
 
-Chevrolet Silverado EV 3WT har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Chevrolet Silverado EV 3WT har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Hjulophæng
 
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 227 mm.
 

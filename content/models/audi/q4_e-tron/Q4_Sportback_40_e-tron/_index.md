@@ -55,7 +55,10 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-Audi Q4 Sportback 40 e-tron has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Audi Q4 Sportback 40 e-tron has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 180 mm.
 

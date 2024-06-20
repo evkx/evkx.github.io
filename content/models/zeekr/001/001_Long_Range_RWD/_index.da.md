@@ -61,6 +61,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 Zeekr 001 Long Range RWD har et baghjulstræksystem, der understøttes af en motor på bagakslen.
 
+
+### Hjulophæng
+
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 174 mm.
 
 ### Bremser

@@ -61,6 +61,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 Hyundai Ioniq 5 Long Range AWD har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
 
+
+### Hjulophæng
+
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 178 mm.
 
 ### Bremser

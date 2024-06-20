@@ -62,6 +62,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 BYD Han har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 
+### Hjulupphängning
+
+
 
 ### Styrning
 

@@ -57,6 +57,9 @@ La ubicación del puerto de carga está en el [lado frontal derecho](../../../..
 
 Nissan Ariya 87kWh e-4ORCE+ tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
 
+
+### Suspensión
+
 La suspensión standard tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 170 mm.
 
 ### Dirección

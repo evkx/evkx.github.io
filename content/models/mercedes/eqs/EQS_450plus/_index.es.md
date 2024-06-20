@@ -55,7 +55,10 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 ## Tren de transmisión
 
-Mercedes-EQ EQS 450+ tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+Mercedes-EQ EQS 450+ tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+
+
+### Suspensión
 
 La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 82 mm y la máxima es 127 mm.
 

@@ -55,7 +55,10 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 ## Transmission
 
-Porsche Macan 4 dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Porsche Macan 4 dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension Standard a des ressorts en acier avec une hauteur fixe mais un réglage de l'amortissement en option. La garde au sol avec cette suspension est de 184 mm. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 185 mm et la garde au sol maximale est de 224 mm.
 

@@ -59,7 +59,10 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 ## Drivetrain
 
-SKODA Enyaq iV80 har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+SKODA Enyaq iV80 har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Hjulophæng
 
 standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 187 mm.
 

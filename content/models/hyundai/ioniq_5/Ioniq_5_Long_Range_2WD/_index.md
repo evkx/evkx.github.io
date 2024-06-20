@@ -61,6 +61,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 Hyundai Ioniq 5 Long Range 2WD has a rear-wheel drive system supported by one motor on the rear axle.
 
+
+### Suspension
+
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 178 mm.
 
 ### Brakes

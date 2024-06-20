@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 Hongqi E-HS9 Premium har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjulupphängning
+
 -Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 200 mm.
 
 ### Styrning

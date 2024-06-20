@@ -61,6 +61,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 MG MG4 Electric Extended Range has a rear-wheel drive system supported by one motor on the rear axle.
 
+
+### Suspension
+
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 150 mm.
 
 ### Brakes

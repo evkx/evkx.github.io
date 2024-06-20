@@ -55,7 +55,10 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-Genesis GV60 2WD har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Genesis GV60 2WD har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+
+
+### Hjulupphängning
 
 Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 161 mm.
 

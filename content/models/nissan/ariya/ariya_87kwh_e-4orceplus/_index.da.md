@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 
 ## Drivetrain
 
-Nissan Ariya 87kWh e-4ORCE+ har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
+Nissan Ariya 87kWh e-4ORCE+ har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
+
+
+### Hjulophæng
 
 standard-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 170 mm.
 

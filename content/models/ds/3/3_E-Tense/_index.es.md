@@ -61,6 +61,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 DS 3 E-Tense tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
 
+
+### Suspensión
+
 La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Torsion Beam](../../../../technology/suspension/#torsion-beam). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 170 mm.
 
 ### Frenos

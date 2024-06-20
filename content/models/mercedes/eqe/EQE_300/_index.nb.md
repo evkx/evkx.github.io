@@ -59,7 +59,10 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-Mercedes-EQ EQE 300 har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Mercedes-EQ EQE 300 har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+
+
+### Hjuloppheng
 
 standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 107 mm. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 82 mm, og maksimum er 127 mm.
 

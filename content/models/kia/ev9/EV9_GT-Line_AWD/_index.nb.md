@@ -58,6 +58,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 Kia EV9 GT-Line AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 
+### Hjuloppheng
+
+
 
 ### Bremser
 

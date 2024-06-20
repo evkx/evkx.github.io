@@ -59,13 +59,20 @@ L'emplacement du port de charge est sur le [côté avant droit](../../../../tech
 
 ## Transmission
 
-Audi RS e-tron GT performance dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Audi RS e-tron GT performance dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
-La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension Standard est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 145 mm.
 
-Vous pouvez commander Audi RS e-tron GT performance avec une suspension alternative Adaptive Air Suspension. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 125 mm et la garde au sol maximale est de 165 mm.
+### Suspension
 
-Vous pouvez commander Audi RS e-tron GT performance avec une suspension alternative Active suspension. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques actifs. L'amortisseur supprime activement les mouvements indésirables de la suspension pneumatique. Cela permet aux roues d'être activement poussées sur la route ou rentrées dans la carrosserie à tout moment. Avec une conduite en douceur, le système absorbe presque complètement les bosses. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 125 mm et la garde au sol maximale est de 165 mm.
+La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 125 mm et la garde au sol maximale est de 165 mm.
+
+Vous pouvez commander Audi RS e-tron GT performance avec une suspension alternative Active. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques actifs. L'amortisseur supprime activement les mouvements indésirables de la suspension pneumatique. Cela permet aux roues d'être activement poussées sur la route ou rentrées dans la carrosserie à tout moment. Avec une conduite en douceur, le système absorbe presque complètement les bosses. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 125 mm et la garde au sol maximale est de 165 mm.
+
+La suspension active maintient la carrosserie de la voiture presque horizontale lors du freinage dynamique, de la direction et de l'accélération, améliorant ainsi la réponse précise de la direction et le contrôle du conducteur.
+
+Normalement, les voitures s'inclinent vers l'extérieur dans les virages. Cependant, la dynamique de virage active peut contrer cette inclinaison ou même la surcompenser, faisant en sorte que la voiture s'incline dans les virages comme une moto.
+
+La fonction Easy Entry élève automatiquement la carrosserie de la voiture lorsqu'une porte est ouverte, facilitant ainsi l'entrée et la sortie. Une fois la porte fermée, la carrosserie revient à son niveau précédent.
 
 ### Pilotage
 

@@ -58,6 +58,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 Mercedes-EQ EQA 300 4MATIC har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
 
 
+### Hjulophæng
+
+
 
 ### Styring
 

@@ -57,6 +57,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 Seres 5 4WD Premium har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
 
+
+### Hjulophæng
+
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 185 mm.
 
 ### Bremser

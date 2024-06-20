@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 Acura ZDX Type S har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjulupphängning
+
 Fjädringen fram och bak är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare.
 
 ### Bromsar

@@ -55,6 +55,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 Mini Cooper SE dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant.
 
+
+### Suspension
+
 La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 128 mm.
 
 ### Freins

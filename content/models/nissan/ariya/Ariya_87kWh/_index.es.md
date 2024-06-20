@@ -55,7 +55,10 @@ La ubicación del puerto de carga está en el [lado frontal derecho](../../../..
 
 ## Tren de transmisión
 
-Nissan Ariya 87kWh tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motores utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
+Nissan Ariya 87kWh tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motor utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
+
+
+### Suspensión
 
 La suspensión standard tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 180 mm.
 

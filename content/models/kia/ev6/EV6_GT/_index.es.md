@@ -62,6 +62,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 Kia EV6 GT tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
 
 
+### Suspensión
+
+
 
 ### Frenos
 

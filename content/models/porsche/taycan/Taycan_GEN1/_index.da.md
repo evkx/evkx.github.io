@@ -75,7 +75,10 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 
 ## Drivetrain
 
-Porsche Taycan (GEN1) har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Porsche Taycan (GEN1) har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Hjulophæng
 
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. Standard affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 127 mm.
 

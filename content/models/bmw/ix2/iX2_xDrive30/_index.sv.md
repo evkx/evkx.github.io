@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 BMW iX2 xDrive30 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
 
+
+### Hjulupphängning
+
 Adaptive M Suspension-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 170 mm.
 
 ### Styrning

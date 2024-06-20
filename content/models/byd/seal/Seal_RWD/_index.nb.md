@@ -55,7 +55,10 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-BYD Seal RWD har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+BYD Seal RWD har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+
+
+### Hjuloppheng
 
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere.
 

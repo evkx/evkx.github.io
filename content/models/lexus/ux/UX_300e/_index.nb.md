@@ -61,6 +61,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Lexus UX 300e har et forhjulsdriftssystem støttet av én motor på forakselen.
 
+
+### Hjuloppheng
+
 -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 177 mm.
 
 ### Bremser

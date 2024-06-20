@@ -59,7 +59,10 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-SKODA Enyaq iV80 har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+SKODA Enyaq iV80 har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+
+
+### Hjulupphängning
 
 standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 187 mm.
 

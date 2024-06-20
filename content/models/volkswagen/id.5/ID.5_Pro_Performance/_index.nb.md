@@ -65,7 +65,10 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-Volkswagen ID.5 Pro Performance har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+Volkswagen ID.5 Pro Performance har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+
+
+### Hjuloppheng
 
 Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 170 mm.
 

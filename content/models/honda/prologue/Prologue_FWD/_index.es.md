@@ -61,6 +61,9 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 
 Honda Prologue FWD tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
+
+### Suspensión
+
 La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 178 mm.
 
 ### Frenos

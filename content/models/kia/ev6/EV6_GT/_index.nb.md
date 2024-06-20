@@ -62,6 +62,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 Kia EV6 GT har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
 
 
+### Hjuloppheng
+
+
 
 ### Bremser
 

@@ -61,6 +61,9 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 
 Audi Q8 e-tron edition Dakar tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/).
 
+
+### Suspensión
+
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 174 mm y la máxima es 271 mm.
 
 Puedes pedir Audi Q8 e-tron edition Dakar con una suspensión alternativa Adaptive Air Suspension Sport. La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 152 mm y la máxima es 248 mm.

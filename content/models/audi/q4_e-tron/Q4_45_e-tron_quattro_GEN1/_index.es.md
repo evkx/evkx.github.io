@@ -67,6 +67,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 Audi Q4 45 e-tron quattro (GEN1) tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
 
+
+### Suspensión
+
 La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión standard tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 180 mm.
 
 Puedes pedir Audi Q4 45 e-tron quattro (GEN1) con una suspensión alternativa sport. La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión sport tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 165 mm.

@@ -55,7 +55,10 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 ## Drivverk
 
-Xiaomi SU7 Pro har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Xiaomi SU7 Pro har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+
+
+### Hjuloppheng
 
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 150 mm.
 

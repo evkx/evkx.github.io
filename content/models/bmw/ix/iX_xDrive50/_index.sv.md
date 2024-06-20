@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 BMW iX xDrive50 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
 
+
+### Hjulupphängning
+
 Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 193 mm, och maximal är 223 mm.
 
 ### Styrning

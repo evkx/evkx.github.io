@@ -55,7 +55,10 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 ## Transmission
 
-XPENG X9 AWD Performance dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+XPENG X9 AWD Performance dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 130 mm et la garde au sol maximale est de 220 mm. De plus, la direction des roues arrière est disponible en tant que fonctionnalité un standard. La direction des roues arrière réduit le rayon de braquage lorsque vous roulez lentement.
 

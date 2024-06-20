@@ -57,6 +57,9 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 
 Lotus Eletre S tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
+
+### Suspensión
+
 La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 162 mm y la máxima es 212 mm.
 
 ### Dirección

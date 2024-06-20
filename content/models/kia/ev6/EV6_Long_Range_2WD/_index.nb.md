@@ -61,6 +61,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Kia EV6 Long Range 2WD har et bakhjulsdriftssystem støttet av en motor på bakakselen.
 
+
+### Hjuloppheng
+
 -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 178 mm.
 
 ### Bremser

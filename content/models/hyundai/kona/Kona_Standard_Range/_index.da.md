@@ -61,6 +61,9 @@ Placeringen af ladeporten er på [forsiden](../../../../technology/charging/conn
 
 Hyundai Kona Standard Range har et forhjulstræksystem understøttet af en motor på forakslen.
 
+
+### Hjulophæng
+
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 178 mm.
 
 ### Bremser

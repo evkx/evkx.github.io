@@ -55,7 +55,10 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-Mercedes-EQ EQC 400 4MATIC har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+Mercedes-EQ EQC 400 4MATIC har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+
+
+### Hjuloppheng
 
 Adaptive Air Suspension-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 97 mm.
 

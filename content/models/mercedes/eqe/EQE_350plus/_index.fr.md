@@ -59,7 +59,10 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 ## Transmission
 
-Mercedes-EQ EQE 350+ dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Mercedes-EQ EQE 350+ dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 La suspension standard a des ressorts en acier avec une hauteur fixe mais un réglage de l'amortissement en option. La garde au sol avec cette suspension est de 107 mm. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 82 mm et la garde au sol maximale est de 127 mm.
 

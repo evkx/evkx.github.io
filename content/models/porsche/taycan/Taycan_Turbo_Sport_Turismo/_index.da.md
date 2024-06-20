@@ -61,7 +61,10 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 
 ## Drivetrain
 
-Porsche Taycan Turbo Sport Turismo har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Porsche Taycan Turbo Sport Turismo har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Hjulophæng
 
 
 

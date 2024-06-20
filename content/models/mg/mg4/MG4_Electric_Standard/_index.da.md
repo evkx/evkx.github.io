@@ -61,6 +61,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 MG MG4 Electric Standard har et baghjulstræksystem, der understøttes af en motor på bagakslen.
 
+
+### Hjulophæng
+
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 150 mm.
 
 ### Bremser

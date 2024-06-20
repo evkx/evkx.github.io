@@ -59,7 +59,10 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-BMW i5 xDrive40 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+BMW i5 xDrive40 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren som brukes er [Wound-Rotor Synchronous Motor](../../../../technology/motors/wrsm/).
+
+
+### Hjuloppheng
 
 Adaptive M Suspension-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 144 mm.
 

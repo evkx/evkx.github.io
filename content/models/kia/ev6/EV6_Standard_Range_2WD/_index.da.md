@@ -61,6 +61,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 Kia EV6 Standard Range 2WD har et baghjulstræksystem, der understøttes af en motor på bagakslen.
 
+
+### Hjulophæng
+
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 178 mm.
 
 ### Bremser

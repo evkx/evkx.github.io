@@ -63,7 +63,10 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 ## Drivetrain
 
-Li Auto MEGA har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Li Auto MEGA har et baghjulstræksystem, der understøttes af en motor på bagakslen. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Hjulophæng
 
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 162 mm, og maksimum er 192 mm.
 

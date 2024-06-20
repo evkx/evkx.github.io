@@ -59,13 +59,20 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 
 ## Drivetrain
 
-Audi RS e-tron GT performance har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Audi RS e-tron GT performance har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. Standard affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 145 mm.
 
-Du kan bestille Audi RS e-tron GT performance med en alternativ Adaptive Air Suspension hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 125 mm, og maksimum er 165 mm.
+### Hjulophæng
 
-Du kan bestille Audi RS e-tron GT performance med en alternativ Active suspension hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og aktive hydrauliske dæmpere. Dæmperen undertrykker aktivt uønskede bevægelser af luftaffjedringen. Dette gør det muligt for hjulene at blive aktivt presset ind i vejen eller trukket ind i karosseriet til enhver tid. Med en glat kørsel absorberer systemet næsten fuldstændig bump. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 125 mm, og maksimum er 165 mm.
+Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 125 mm, og maksimum er 165 mm.
+
+Du kan bestille Audi RS e-tron GT performance med en alternativ Active hjulophæng. Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og aktive hydrauliske dæmpere. Dæmperen undertrykker aktivt uønskede bevægelser af luftaffjedringen. Dette gør det muligt for hjulene at blive aktivt presset ind i vejen eller trukket ind i karosseriet til enhver tid. Med en glat kørsel absorberer systemet næsten fuldstændig bump. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 125 mm, og maksimum er 165 mm.
+
+Den aktive affjedring holder bilens karrosseri næsten vandret under dynamisk bremsning, styring og acceleration, hvilket forbedrer præcis styrerespons og kontrol for føreren.
+
+Normalt læner biler sig udad i sving. Men de aktive kurvedynamikker kan modvirke denne krængning eller endda overkompensere, så bilen læner sig ind i svinget som en motorcykel.
+
+Easy Entry-funktionen hæver bilens karrosseri automatisk, når en dør åbnes, hvilket letter ind- og udstigning. Når døren lukkes, vender karrosseriet tilbage til det forrige niveau.
 
 ### Styring
 

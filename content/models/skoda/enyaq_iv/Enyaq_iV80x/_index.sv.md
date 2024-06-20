@@ -61,6 +61,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 SKODA Enyaq iV80x har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
 
+
+### Hjulupphängning
+
 standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 187 mm.
 
 Du kan beställa SKODA Enyaq iV80x med en alternativ sport-upphängning. Fjädringen sport har en fast höjd och dämpning. Markfrigången med denna fjädring är 171 mm.

@@ -57,6 +57,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 Mercedes-EQ EQC 400 4MATIC tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/).
 
+
+### Suspensión
+
 La suspensión Adaptive Air Suspension tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 97 mm.
 
 ### Dirección

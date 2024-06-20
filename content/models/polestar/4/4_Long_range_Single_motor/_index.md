@@ -57,6 +57,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 Polestar 4 Long range Single motor has a rear-wheel drive system supported by one motor on the rear axle.
 
+
+### Suspension
+
 The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 166 mm.
 
 ### Brakes

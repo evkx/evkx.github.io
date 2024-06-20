@@ -59,7 +59,10 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 ## Tren de transmisión
 
-Volkswagen ID. Buzz Pro LWB tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+Volkswagen ID. Buzz Pro LWB tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+
+
+### Suspensión
 
 
 

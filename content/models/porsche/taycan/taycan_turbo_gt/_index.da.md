@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 ## Drivetrain
 
-Porsche Taycan Turbo GT har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Porsche Taycan Turbo GT har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Hjulophæng
 
 
 

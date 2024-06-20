@@ -61,6 +61,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 SKODA Enyaq iV80x har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
 
+
+### Hjuloppheng
+
 standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 187 mm.
 
 Du kan bestille SKODA Enyaq iV80x med en alternativ sport hjuloppheng. sport-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 171 mm.

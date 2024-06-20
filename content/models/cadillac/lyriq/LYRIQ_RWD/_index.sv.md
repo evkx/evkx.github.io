@@ -55,7 +55,10 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 ## Drivlina
 
-Cadillac LYRIQ RWD har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Cadillac LYRIQ RWD har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+
+
+### Hjulupphängning
 
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 178 mm.
 

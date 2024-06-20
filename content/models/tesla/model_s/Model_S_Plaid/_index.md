@@ -55,7 +55,10 @@ The charge port is conveniently located at the [left rear corner](../../../../te
 
 ## Drivetrain
 
-Tesla Model S Plaid has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Tesla Model S Plaid has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 117 mm, and the maximum is 158 mm.
 

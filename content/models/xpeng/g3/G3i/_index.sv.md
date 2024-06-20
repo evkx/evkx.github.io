@@ -57,6 +57,9 @@ Anslutningstyper varierar mellan olika marknader. Den här modellen använder [*
 
 XPENG G3i har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
 
+
+### Hjulupphängning
+
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 130 mm.
 
 ### Bromsar

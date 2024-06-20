@@ -72,6 +72,9 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 Nio EL6 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
+
+### Suspension
+
 The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 170 mm.
 
 ### Steering

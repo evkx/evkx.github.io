@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 ## Drivetrain
 
-BMW iX1 eDrive20 har et forhjulstræksystem understøttet af en motor på forakslen. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+BMW iX1 eDrive20 har et forhjulstræksystem understøttet af en motor på forakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Hjulophæng
 
 Adaptive M Suspension affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 170 mm.
 

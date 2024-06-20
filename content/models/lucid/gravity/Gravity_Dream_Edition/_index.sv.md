@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 Lucid Gravity Dream Edition har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjulupphängning
+
 Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. -fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 155 mm.
 
 Du kan beställa Lucid Gravity Dream Edition med en alternativ -upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 155 mm, och maximal är 220 mm.

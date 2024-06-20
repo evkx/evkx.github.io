@@ -60,6 +60,9 @@ Denne model understøtter batteriskift. Batteriskift betyder, at du kan køre ti
 
 Nio ET9 har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
 
+
+### Hjulophæng
+
 Forhjulsophænget og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 150 mm, og maksimum er 200 mm.
 
 ### Styring

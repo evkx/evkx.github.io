@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 ## Drivetrain
 
-Mercedes-EQ EQC 400 4MATIC har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [induktionsmotorer](../../../../technology/motors/asm/).
+Mercedes-EQ EQC 400 4MATIC har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/).
+
+
+### Hjulophæng
 
 Adaptive Air Suspension affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 97 mm.
 

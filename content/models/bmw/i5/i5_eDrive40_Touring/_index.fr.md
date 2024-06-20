@@ -59,7 +59,10 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 ## Transmission
 
-BMW i5 eDrive40 Touring dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à rotor bobiné](../../../../technology/motors/wrsm/).
+BMW i5 eDrive40 Touring dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs synchrones à rotor bobiné](../../../../technology/motors/wrsm/).
+
+
+### Suspension
 
 La suspension Adaptive M Suspension a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 144 mm.
 

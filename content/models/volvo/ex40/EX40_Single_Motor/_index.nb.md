@@ -57,6 +57,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Volvo EX40 Single Motor har et bakhjulsdriftssystem støttet av en motor på bakakselen.
 
+
+### Hjuloppheng
+
 -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 175 mm.
 
 ### Bremser

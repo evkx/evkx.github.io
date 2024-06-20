@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 Polestar 3 Long Range Dual Motor Performance har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
 
+
+### Hjulupphängning
+
 Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 181 mm, och maximal är 241 mm.
 
 ### Bromsar

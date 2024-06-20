@@ -61,6 +61,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 Peugot E-5008 Long Range har et forhjulstræksystem understøttet af en motor på forakslen.
 
+
+### Hjulophæng
+
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 198 mm.
 
 ### Bremser

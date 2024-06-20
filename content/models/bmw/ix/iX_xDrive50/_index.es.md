@@ -57,6 +57,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 BMW iX xDrive50 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
 
+
+### Suspensión
+
 La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 193 mm y la máxima es 223 mm.
 
 ### Dirección

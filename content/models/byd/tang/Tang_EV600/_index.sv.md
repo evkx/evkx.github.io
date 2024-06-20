@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 BYD Tang EV600 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
 
+
+### Hjulupphängning
+
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 190 mm.
 
 ### Styrning

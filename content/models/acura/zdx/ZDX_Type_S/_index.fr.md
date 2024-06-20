@@ -55,7 +55,10 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 ## Transmission
 
-Acura ZDX Type S dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Acura ZDX Type S dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 La suspension avant et la suspension arrière sont [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques.
 

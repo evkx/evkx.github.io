@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 BMW iX xDrive40 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
 
+
+### Hjulupphängning
+
 Standard-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 202 mm.
 
 Du kan beställa BMW iX xDrive40 med en alternativ Adaptive Air Suspension-upphängning. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 193 mm, och maximal är 223 mm.

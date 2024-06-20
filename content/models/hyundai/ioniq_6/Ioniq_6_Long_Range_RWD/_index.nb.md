@@ -57,6 +57,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Hyundai Ioniq 6 Long Range RWD har et bakhjulsdriftssystem støttet av en motor på bakakselen.
 
+
+### Hjuloppheng
+
 -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 141 mm.
 
 ### Bremser

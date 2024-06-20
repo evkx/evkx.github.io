@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 GMC Hummer EV Edition 1 Pickup har ett fyrhjulsdriftssystem som stöds av tre motorer. En på framaxeln och två på bakaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjulupphängning
+
 Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 257 mm, och maximal är 406 mm. Dessutom är bakhjulsstyrning tillgänglig som en standard-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
 
 ### Bromsar

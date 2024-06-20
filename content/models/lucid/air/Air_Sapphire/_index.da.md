@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 ## Drivetrain
 
-Lucid Air Sapphire har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Lucid Air Sapphire har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Hjulophæng
 
 affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 126 mm.
 

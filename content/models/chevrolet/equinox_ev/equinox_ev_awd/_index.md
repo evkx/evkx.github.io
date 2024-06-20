@@ -57,6 +57,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 Chevrolet Equinox EV AWD features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the front axle and [Induction Motors](../../../../technology/motors/asm/) at the rear axle.
 
+
+### Suspension
+
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 193 mm.
 
 ### Brakes

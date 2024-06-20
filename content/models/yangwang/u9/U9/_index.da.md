@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 ## Drivetrain
 
-YangWang U9 har et firehjulstræksystem understøttet af fire motorer. En til hvert hjul. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+YangWang U9 har et firehjulstræksystem understøttet af fire motorer. En til hvert hjul. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Hjulophæng
 
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 120 mm, og maksimum er 120 mm.
 

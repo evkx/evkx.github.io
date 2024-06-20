@@ -59,7 +59,10 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 ## Transmission
 
-BMW i4 M50 dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à rotor bobiné](../../../../technology/motors/wrsm/).
+BMW i4 M50 dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à rotor bobiné](../../../../technology/motors/wrsm/).
+
+
+### Suspension
 
 La suspension  est dotée d'un amortissement adaptatif sur les essieux avant et arrière et d'une suspension pneumatique sur l'essieu arrière qui maintient automatiquement la voiture à niveau en fonction du poids du chargement. La garde au sol avec cette suspension est de 125 mm.
 

@@ -59,6 +59,9 @@ Platsen för laddningsporten är på [fronten](../../../../technology/charging/c
 
 Dacia Spring 65HP har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
 
+
+### Hjulupphängning
+
 Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 150 mm.
 
 ### Bromsar

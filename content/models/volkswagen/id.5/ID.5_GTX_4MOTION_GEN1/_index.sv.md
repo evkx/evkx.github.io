@@ -63,6 +63,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 Volkswagen ID.5 GTX 4MOTION (GEN1) har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/).
 
+
+### Hjulupphängning
+
 Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 170 mm.
 
 Du kan beställa Volkswagen ID.5 GTX 4MOTION (GEN1) med en alternativ sport-upphängning. Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen sport har en fast höjd och dämpning. Markfrigången med denna fjädring är 153 mm.

@@ -55,7 +55,10 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-BMW iX2 eDrive20 har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
+BMW iX2 eDrive20 har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Synkronmotor med lindad rotor](../../../../technology/motors/wrsm/).
+
+
+### Hjulupphängning
 
 Adaptive M Suspension-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 170 mm.
 

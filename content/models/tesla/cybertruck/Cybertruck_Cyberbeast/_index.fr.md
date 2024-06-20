@@ -61,6 +61,9 @@ L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../.
 
 Tesla Cybertruck Cyberbeast dispose d'un système de transmission intégrale pris en charge par trois moteurs. Un sur l'essieu avant et deux sur l'essieu arrière. Les moteurs utilisés sont des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) au niveau de l'essieu avant et des [Moteurs à induction](../../../../technology/motors/asm/) sur l'essieu arrière.
 
+
+### Suspension
+
 La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 138 mm et la garde au sol maximale est de 442 mm.
 
 ### Pilotage

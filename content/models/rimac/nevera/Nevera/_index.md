@@ -55,7 +55,10 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-Rimac Nevera has an all-wheel drive system supported by four motors. One for each wheel. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Rimac Nevera has an all-wheel drive system supported by four motors. One for each wheel. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 120 mm, and the maximum is 135 mm.
 

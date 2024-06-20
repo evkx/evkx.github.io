@@ -57,6 +57,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Mercedes-EQ G 580 EQ har et firehjulsdriftssystem som støttes av fire motorer. En for hvert hjul. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjuloppheng
+
 standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 250 mm.
 
 ### Styring

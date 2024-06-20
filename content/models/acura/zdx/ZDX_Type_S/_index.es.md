@@ -57,6 +57,9 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 
 Acura ZDX Type S tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
+
+### Suspensión
+
 La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos.
 
 ### Frenos

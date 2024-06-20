@@ -59,7 +59,10 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 ## Transmission
 
-Mercedes-EQ EQA 250+ dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le(s) moteur(s) utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
+Mercedes-EQ EQA 250+ dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
+
+
+### Suspension
 
 
 

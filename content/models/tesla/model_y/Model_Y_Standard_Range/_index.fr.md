@@ -85,7 +85,10 @@ L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../.
 
 ## Transmission
 
-Tesla Model Y Standard Range dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Tesla Model Y Standard Range dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 167 mm.
 

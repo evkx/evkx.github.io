@@ -55,7 +55,10 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-XPENG P7 AWD Performance features an all-wheel drive system powered by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+XPENG P7 AWD Performance features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 113 mm.
 

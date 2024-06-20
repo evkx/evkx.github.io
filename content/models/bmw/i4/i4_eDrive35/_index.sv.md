@@ -59,7 +59,10 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-BMW i4 eDrive35 har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
+BMW i4 eDrive35 har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [Synkronmotor med lindad rotor](../../../../technology/motors/wrsm/).
+
+
+### Hjulupphängning
 
 Standard-fjädringen har luftfjädring på bakaxeln som automatiskt håller bilen nivå beroende på lastens vikt. Markfrigången med denna fjädring är 125 mm. Fjädringen  har adaptiv dämpning på fram- och bakaxeln och luftfjädring på bakaxeln som automatiskt håller bilen i nivå beroende på lastvikten. Markfrigången med denna fjädring är 125 mm.
 

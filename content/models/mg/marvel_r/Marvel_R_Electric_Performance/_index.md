@@ -57,6 +57,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 MG Marvel R Electric Performance has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle.
 
+
+### Suspension
+
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 150 mm.
 
 ### Brakes

@@ -57,7 +57,10 @@ The charge port is conveniently located on the [right front side](../../../../te
 
 ## Drivetrain
 
-Porsche Taycan GTS Sport Turismo has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Porsche Taycan GTS Sport Turismo has a rear-wheel drive system supported by one motor on the rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 
 

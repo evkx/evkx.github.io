@@ -62,6 +62,9 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 Porsche Taycan Turbo S Sport Turismo har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 
+### Hjuloppheng
+
+
 
 Du kan bestille Porsche Taycan Turbo S Sport Turismo med en alternativ Adaptive Air Suspension hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 103 mm, og maksimum er 126 mm.
 

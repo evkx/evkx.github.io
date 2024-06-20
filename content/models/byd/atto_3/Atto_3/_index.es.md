@@ -55,7 +55,10 @@ La ubicación del puerto de carga está en el [lado frontal derecho](../../../..
 
 ## Tren de transmisión
 
-BYD Atto 3 tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/).
+BYD Atto 3 tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motor utilizados son [Motores de inducción](../../../../technology/motors/asm/).
+
+
+### Suspensión
 
 La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 175 mm.
 

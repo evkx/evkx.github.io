@@ -55,7 +55,10 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-BMW i7 eDrive50 has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+BMW i7 eDrive50 has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+
+
+### Suspension
 
 The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 193 mm, and the maximum is 223 mm.
 

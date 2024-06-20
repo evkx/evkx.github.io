@@ -57,6 +57,9 @@ Placeringen af ladeporten er på [forsiden](../../../../technology/charging/conn
 
 Honda e:Ny1 har et forhjulstræksystem understøttet af en motor på forakslen.
 
+
+### Hjulophæng
+
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 140 mm.
 
 ### Bremser

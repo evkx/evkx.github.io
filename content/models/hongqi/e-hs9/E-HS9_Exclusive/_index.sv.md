@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 Hongqi E-HS9 Exclusive har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjulupphängning
+
 Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 170 mm, och maximal är 260 mm.
 
 ### Styrning

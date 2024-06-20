@@ -55,7 +55,10 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-BMW iX2 eDrive20 har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+BMW iX2 eDrive20 har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren som brukes er [Wound-Rotor Synchronous Motor](../../../../technology/motors/wrsm/).
+
+
+### Hjuloppheng
 
 Adaptive M Suspension-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 170 mm.
 

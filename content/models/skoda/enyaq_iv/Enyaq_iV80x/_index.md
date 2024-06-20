@@ -61,6 +61,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 SKODA Enyaq iV80x features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
+
+### Suspension
+
 The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 187 mm.
 
 You can order SKODA Enyaq iV80x with an alternative sport suspension. The sport suspension has a fixed height and damping. The ground clearance with this suspension is 171 mm.

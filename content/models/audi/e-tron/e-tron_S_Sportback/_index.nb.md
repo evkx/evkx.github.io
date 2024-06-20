@@ -61,7 +61,10 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 ## Drivverk
 
-Audi e-tron S Sportback har et firehjulsdriftssystem støttet av tre motorer. En på forakselen og to på bakakselen. Motoren(e) som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+Audi e-tron S Sportback har et firehjulsdriftssystem støttet av tre motorer. En på forakselen og to på bakakselen. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+
+
+### Hjuloppheng
 
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 152 mm, og maksimum er 248 mm.
 

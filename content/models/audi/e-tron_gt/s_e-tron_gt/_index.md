@@ -59,13 +59,20 @@ The charge port is conveniently located on the [right front side](../../../../te
 
 ## Drivetrain
 
-Audi S e-tron GT features an all-wheel drive system powered by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Audi S e-tron GT features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The Standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 145 mm.
 
-You can order Audi S e-tron GT with an alternative Adaptive Air Suspension suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 125 mm, and the maximum is 165 mm.
+### Suspension
+
+The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 125 mm, and the maximum is 165 mm.
 
 You can order Audi S e-tron GT with an alternative Active suspension. The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and active hydraulic dampers. The damper actively suppresses undesired motion of the air suspension. This allows the wheels to be actively pushed into the road or pulled into the body at any time. With a smooth ride, the system absorbs bumps almost completely. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 125 mm, and the maximum is 165 mm.
+
+The Active Suspension maintains the car's body nearly horizontal during dynamic braking, steering, and acceleration, enhancing precise steering response and driver control..
+
+Normally, cars lean outward in corners. However, the active cornering dynamics can counteract this roll, or even overcompensate, making the car lean into bends like a motorcycle.
+
+The Easy Entry function raises the car's body automatically when a door is opened, facilitating easier entry and exit. Once the door closes, the body returns to its previous level.
 
 ### Steering
 

@@ -69,6 +69,9 @@ This model supports V2L (Vehicle 2 Load), which means you can power electrical e
 
 Tesla Cybertruck AWD features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
+
+### Suspension
+
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 138 mm, and the maximum is 442 mm.
 
 ### Steering

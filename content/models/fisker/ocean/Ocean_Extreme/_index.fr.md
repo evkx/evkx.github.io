@@ -61,6 +61,9 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 Fisker Ocean Extreme dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
 
+
+### Suspension
+
 La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension standard a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 165 mm.
 
 ### Modes de conduite

@@ -59,7 +59,10 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 ## Drivetrain
 
-BMW i4 eDrive35 har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den(e) anvendte motor(er) er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
+BMW i4 eDrive35 har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
+
+
+### Hjulophæng
 
 Standard affjedringen har luftaffjedring på bagakslen, der automatisk holder bilen i vater afhængigt af lastens vægt. Mindste frihøjde med denne affjedring er 125 mm. -affjedringen har adaptiv dæmpning på for- og bagakslen og luftaffjedring på bagakslen, der automatisk holder bilen i vater afhængigt af lastens vægt. Mindste frihøjde med denne affjedring er 125 mm.
 

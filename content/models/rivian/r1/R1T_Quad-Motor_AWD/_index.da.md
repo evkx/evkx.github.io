@@ -62,6 +62,9 @@ Placeringen af ladeporten er i [forreste venstre hjørne](../../../../technology
 
 Rivian R1T Quad-Motor AWD har et firehjulstræksystem understøttet af fire motorer. En til hvert hjul.
 
+
+### Hjulophæng
+
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 205 mm, og maksimum er 378 mm.
 
 ### Bremser

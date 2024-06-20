@@ -55,7 +55,10 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 ## Drivlina
 
-Lucid Air Pure har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Lucid Air Pure har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+
+
+### Hjulupphängning
 
 -fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 126 mm.
 

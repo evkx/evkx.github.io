@@ -61,6 +61,9 @@ La ubicación del puerto de carga está en el [frente](../../../../technology/ch
 
 Kia Niro EV tiene un sistema de tracción trasera sostenido por un motor en el eje trasero.
 
+
+### Suspensión
+
 La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 160 mm.
 
 ### Frenos

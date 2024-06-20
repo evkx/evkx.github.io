@@ -57,6 +57,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 Polestar 2 Long Range Dual Motor tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
 
+
+### Suspensión
+
 La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 151 mm.
 
 ### Frenos

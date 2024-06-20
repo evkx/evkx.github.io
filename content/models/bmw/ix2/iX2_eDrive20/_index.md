@@ -55,7 +55,10 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-BMW iX2 eDrive20 has a front-wheel drive system supported by one motor on the front axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+BMW iX2 eDrive20 has a front-wheel drive system supported by one motor on the front axle. The motor used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+
+
+### Suspension
 
 The Adaptive M Suspension suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 170 mm.
 

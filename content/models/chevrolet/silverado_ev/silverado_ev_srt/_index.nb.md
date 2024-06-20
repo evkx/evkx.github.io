@@ -61,6 +61,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Chevrolet Silverado EV SRT har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjuloppheng
+
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 176 mm, og maksimum er 278 mm. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
 
 ### Bremser

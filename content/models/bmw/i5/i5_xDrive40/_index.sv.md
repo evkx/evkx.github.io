@@ -59,7 +59,10 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-BMW i5 xDrive40 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
+BMW i5 xDrive40 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn som används är [Synkronmotor med lindad rotor](../../../../technology/motors/wrsm/).
+
+
+### Hjulupphängning
 
 Fjädringen Adaptive M Suspension har en fast höjd och dämpning. Markfrigången med denna fjädring är 144 mm.
 

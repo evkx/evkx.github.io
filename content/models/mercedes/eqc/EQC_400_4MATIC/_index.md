@@ -55,7 +55,10 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-Mercedes-EQ EQC 400 4MATIC features an all-wheel drive system powered by two motors, one on each axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/).
+Mercedes-EQ EQC 400 4MATIC features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/).
+
+
+### Suspension
 
 The Adaptive Air Suspension suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 97 mm.
 

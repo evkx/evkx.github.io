@@ -57,6 +57,9 @@ Connector types vary by market: this model uses [**CCS Combo 1**](../../../../te
 
 XPENG G3i has a front-wheel drive system supported by one motor on the front axle.
 
+
+### Suspension
+
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 130 mm.
 
 ### Brakes

@@ -55,7 +55,10 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 ## Transmission
 
-Lotus Eletre dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Lotus Eletre dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 La suspension avant et la suspension arrière sont [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 162 mm et la garde au sol maximale est de 212 mm.
 

@@ -55,7 +55,10 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 ## Transmission
 
-Mercedes-EQ G 580 EQ dispose d'un système de transmission intégrale pris en charge par quatre moteurs. Un pour chaque roue. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Mercedes-EQ G 580 EQ dispose d'un système de transmission intégrale pris en charge par quatre moteurs. Un pour chaque roue. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 La suspension standard a des ressorts en acier avec une hauteur fixe mais un réglage de l'amortissement en option. La garde au sol avec cette suspension est de 250 mm.
 

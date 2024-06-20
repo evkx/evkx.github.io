@@ -58,6 +58,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 Porsche Taycan Turbo GT har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 
+### Hjulupphängning
+
+
 
 Du kan beställa Porsche Taycan Turbo GT med en alternativ Adaptive Air Suspension-upphängning. Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 103 mm, och maximal är 126 mm.
 

@@ -61,6 +61,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 Audi SQ6 e-tron tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
 
+
+### Suspensión
+
 La suspensión Standard tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 184 mm.
 
 Puedes pedir Audi SQ6 e-tron con una suspensión alternativa Sport. La suspensión Sport tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 164 mm.

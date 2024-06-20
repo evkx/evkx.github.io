@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 Hyundai Ioniq 6 Long Range RWD har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
 
+
+### Hjulupphängning
+
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 141 mm.
 
 ### Bromsar

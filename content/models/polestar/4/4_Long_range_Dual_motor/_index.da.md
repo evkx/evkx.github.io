@@ -57,6 +57,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 Polestar 4 Long range Dual motor har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
 
+
+### Hjulophæng
+
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 166 mm.
 
 ### Bremser

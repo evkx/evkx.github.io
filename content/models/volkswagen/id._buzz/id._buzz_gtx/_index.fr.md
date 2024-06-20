@@ -55,7 +55,10 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 ## Transmission
 
-Volkswagen ID. Buzz GTX dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le(s) moteur(s) utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
+Volkswagen ID. Buzz GTX dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
+
+
+### Suspension
 
 
 

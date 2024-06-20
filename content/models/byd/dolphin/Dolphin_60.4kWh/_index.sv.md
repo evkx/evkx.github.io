@@ -55,7 +55,10 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 
 ## Drivlina
 
-BYD Dolphin 60.4kWh har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/).
+BYD Dolphin 60.4kWh har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [induktionsmotor](../../../../technology/motors/asm/).
+
+
+### Hjulupphängning
 
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 175 mm.
 

@@ -61,6 +61,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 Volvo EC40 Twin Motor dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
 
+
+### Suspension
+
 La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 175 mm.
 
 ### Freins

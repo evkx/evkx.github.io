@@ -55,7 +55,10 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 ## Drivetrain
 
-Lucid Air Pure has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Lucid Air Pure has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 126 mm.
 

@@ -59,7 +59,10 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 ## Tren de transmisión
 
-Audi Q4 45 e-tron tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+Audi Q4 45 e-tron tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+
+
+### Suspensión
 
 La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión standard tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 180 mm.
 

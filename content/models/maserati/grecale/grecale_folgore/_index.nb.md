@@ -61,6 +61,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Maserati Grecale Folgore har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
 
+
+### Hjuloppheng
+
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 145 mm, og maksimum er 205 mm.
 
 ### Kjøremoduser

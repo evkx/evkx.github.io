@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 Volvo EX40 Single Motor har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
 
+
+### Hjulupphängning
+
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 175 mm.
 
 ### Bromsar

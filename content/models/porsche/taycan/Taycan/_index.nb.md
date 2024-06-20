@@ -69,7 +69,10 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 
 ## Drivverk
 
-Porsche Taycan har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Porsche Taycan har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+
+
+### Hjuloppheng
 
 
 

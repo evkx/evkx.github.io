@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 
 ## Drivetrain
 
-BYD Dolphin 60.4kWh har et forhjulstræksystem understøttet af en motor på forakslen. Den(e) anvendte motor(er) er [induktionsmotorer](../../../../technology/motors/asm/).
+BYD Dolphin 60.4kWh har et forhjulstræksystem understøttet af en motor på forakslen. Den anvendte motor er [induktionsmotorer](../../../../technology/motors/asm/).
+
+
+### Hjulophæng
 
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 175 mm.
 

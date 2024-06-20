@@ -58,6 +58,9 @@ The location of the charge port is on the [left front corner](../../../../techno
 
 Rivian R1S Quad-Motor AWD MP has an all-wheel drive system supported by four motors. One for each wheel.
 
+
+### Suspension
+
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 205 mm, and the maximum is 365 mm.
 
 ### Steering

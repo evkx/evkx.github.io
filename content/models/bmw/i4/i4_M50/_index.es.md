@@ -61,6 +61,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 BMW i4 M50 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
 
+
+### Suspensión
+
 La suspensión  tiene amortiguación adaptativa en los ejes delantero y trasero y suspensión neumática en el eje trasero que mantiene automáticamente el nivel del automóvil dependiendo del peso de la carga. La distancia al suelo con esta suspensión es 125 mm.
 
 ### Dirección

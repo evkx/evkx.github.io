@@ -57,6 +57,9 @@ Les types de connecteurs varient selon les différents marchés. Ce modèle util
 
 XPENG G3i dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant.
 
+
+### Suspension
+
 La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 130 mm.
 
 ### Freins

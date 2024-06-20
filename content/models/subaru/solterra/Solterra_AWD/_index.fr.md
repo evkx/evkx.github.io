@@ -57,6 +57,9 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 Subaru Solterra AWD dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
 
+
+### Suspension
+
 La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 177 mm.
 
 ### Freins

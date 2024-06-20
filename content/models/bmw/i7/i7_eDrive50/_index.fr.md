@@ -55,7 +55,10 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 ## Transmission
 
-BMW i7 eDrive50 dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à rotor bobiné](../../../../technology/motors/wrsm/).
+BMW i7 eDrive50 dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs synchrones à rotor bobiné](../../../../technology/motors/wrsm/).
+
+
+### Suspension
 
 La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 193 mm et la garde au sol maximale est de 223 mm.
 

@@ -55,7 +55,10 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-Xiaomi SU7 has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Xiaomi SU7 has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 150 mm.
 

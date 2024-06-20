@@ -57,6 +57,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 Seres 5 4WD Premium tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
 
+
+### Suspensión
+
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 185 mm.
 
 ### Frenos

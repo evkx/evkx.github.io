@@ -61,6 +61,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 Fisker Ocean Extreme har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
 
+
+### Hjulupphängning
+
 Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen standard har en fast höjd och dämpning. Markfrigången med denna fjädring är 165 mm.
 
 ### Körlägen

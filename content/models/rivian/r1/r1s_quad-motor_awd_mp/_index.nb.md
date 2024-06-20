@@ -58,6 +58,9 @@ Plasseringen av ladeporten er i [fremre venstre hjørne](../../../../technology/
 
 Rivian R1S Quad-Motor AWD MP har et firehjulsdriftssystem som støttes av fire motorer. En for hvert hjul.
 
+
+### Hjuloppheng
+
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 205 mm, og maksimum er 365 mm.
 
 ### Styring

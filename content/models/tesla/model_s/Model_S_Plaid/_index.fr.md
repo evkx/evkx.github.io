@@ -55,7 +55,10 @@ L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../.
 
 ## Transmission
 
-Tesla Model S Plaid dispose d'un système de transmission intégrale pris en charge par trois moteurs. Un sur l'essieu avant et deux sur l'essieu arrière. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Tesla Model S Plaid dispose d'un système de transmission intégrale pris en charge par trois moteurs. Un sur l'essieu avant et deux sur l'essieu arrière. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 117 mm et la garde au sol maximale est de 158 mm.
 

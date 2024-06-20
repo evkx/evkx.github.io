@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 Polestar 2 Long Range Single Motor har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
 
+
+### Hjulupphängning
+
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 151 mm.
 
 ### Bromsar

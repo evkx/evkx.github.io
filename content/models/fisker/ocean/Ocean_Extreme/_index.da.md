@@ -61,6 +61,9 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 Fisker Ocean Extreme har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
 
+
+### Hjulophæng
+
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 165 mm.
 
 ### Køretilstande

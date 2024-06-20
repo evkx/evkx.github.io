@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 Subaru Solterra AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
 
+
+### Hjulupphängning
+
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 177 mm.
 
 ### Bromsar

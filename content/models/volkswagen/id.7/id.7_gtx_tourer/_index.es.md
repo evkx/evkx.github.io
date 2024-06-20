@@ -55,7 +55,10 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 ## Tren de transmisión
 
-Volkswagen ID.7 GTX Tourer tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+Volkswagen ID.7 GTX Tourer tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+
+
+### Suspensión
 
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión standard tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 149 mm.
 

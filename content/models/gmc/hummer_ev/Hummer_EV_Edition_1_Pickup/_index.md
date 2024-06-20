@@ -55,7 +55,10 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 ## Drivetrain
 
-GMC Hummer EV Edition 1 Pickup has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+GMC Hummer EV Edition 1 Pickup has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 257 mm, and the maximum is 406 mm. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 

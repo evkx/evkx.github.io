@@ -55,7 +55,10 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 
 ## Drivlina
 
-BYD Seagull 38kWh har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/).
+BYD Seagull 38kWh har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [induktionsmotor](../../../../technology/motors/asm/).
+
+
+### Hjulupphängning
 
 Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 150 mm.
 

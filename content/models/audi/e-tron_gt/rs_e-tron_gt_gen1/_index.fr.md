@@ -59,7 +59,10 @@ L'emplacement du port de charge est sur le [côté avant droit](../../../../tech
 
 ## Transmission
 
-Audi RS e-tron GT (GEN1) dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Audi RS e-tron GT (GEN1) dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension Standard est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 145 mm.
 

@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 ## Drivetrain
 
-BMW iX2 xDrive30 har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
+BMW iX2 xDrive30 har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
+
+
+### Hjulophæng
 
 Adaptive M Suspension affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 170 mm.
 

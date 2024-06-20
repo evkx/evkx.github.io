@@ -67,6 +67,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 Volvo C40 Recharge Single Motor tiene un sistema de tracción trasera sostenido por un motor en el eje trasero.
 
+
+### Suspensión
+
 La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 175 mm.
 
 ### Frenos

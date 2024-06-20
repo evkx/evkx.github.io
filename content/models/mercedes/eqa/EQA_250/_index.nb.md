@@ -55,7 +55,10 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-Mercedes-EQ EQA 250 har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren(e) som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+Mercedes-EQ EQA 250 har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+
+
+### Hjuloppheng
 
 
 

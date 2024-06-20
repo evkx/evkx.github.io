@@ -55,7 +55,10 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 ## Transmission
 
-GMC Hummer EV Edition 1 Pickup dispose d'un système de transmission intégrale pris en charge par trois moteurs. Un sur l'essieu avant et deux sur l'essieu arrière. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+GMC Hummer EV Edition 1 Pickup dispose d'un système de transmission intégrale pris en charge par trois moteurs. Un sur l'essieu avant et deux sur l'essieu arrière. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 257 mm et la garde au sol maximale est de 406 mm. De plus, la direction des roues arrière est disponible en tant que fonctionnalité un standard. La direction des roues arrière réduit le rayon de braquage lorsque vous roulez lentement.
 

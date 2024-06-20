@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 ## Drivetrain
 
-Chevrolet Blazer EV RS AWD har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Chevrolet Blazer EV RS AWD har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Hjulophæng
 
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 178 mm.
 

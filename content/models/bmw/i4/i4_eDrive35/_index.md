@@ -59,7 +59,10 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-BMW i4 eDrive35 has a rear-wheel drive system supported by one motor on the rear axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+BMW i4 eDrive35 has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+
+
+### Suspension
 
 The Standard suspension has air suspension on the rear axle that automaticly keep the car leveled depending on cargo weight. The ground clearance with this suspension is 125 mm. The  suspension has adaptive damping on the front and rear axle and air suspension on the rear axle that automatically keeps the car leveled depending on cargo weight. The ground clearance with this suspension is 125 mm.
 

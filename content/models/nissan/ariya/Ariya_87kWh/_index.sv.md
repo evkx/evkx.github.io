@@ -55,7 +55,10 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 
 ## Drivlina
 
-Nissan Ariya 87kWh har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
+Nissan Ariya 87kWh har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Synkronmotor med lindad rotor](../../../../technology/motors/wrsm/).
+
+
+### Hjulupphängning
 
 Fjädringen standard har en fast höjd och dämpning. Markfrigången med denna fjädring är 180 mm.
 

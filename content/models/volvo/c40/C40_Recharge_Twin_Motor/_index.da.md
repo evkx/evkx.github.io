@@ -67,6 +67,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 Volvo C40 Recharge Twin Motor har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
 
+
+### Hjulophæng
+
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 175 mm.
 
 ### Bremser

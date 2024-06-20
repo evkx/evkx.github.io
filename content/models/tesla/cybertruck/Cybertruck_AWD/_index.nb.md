@@ -69,6 +69,9 @@ Denne modellen støtter V2L (Vehicle 2 Load) som betyr at du drive elektriske ap
 
 Tesla Cybertruck AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
 
+
+### Hjuloppheng
+
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 138 mm, og maksimum er 442 mm.
 
 ### Styring

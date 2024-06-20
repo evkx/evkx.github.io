@@ -55,7 +55,10 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-BMW iX2 xDrive30 features an all-wheel drive system powered by two motors, one on each axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+BMW iX2 xDrive30 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+
+
+### Suspension
 
 The Adaptive M Suspension suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 170 mm.
 

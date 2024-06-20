@@ -55,7 +55,10 @@ The charge port is conveniently located on the [right front side](../../../../te
 
 ## Drivetrain
 
-BYD Seagull 38kWh has a front-wheel drive system supported by one motor on the front axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/).
+BYD Seagull 38kWh has a front-wheel drive system supported by one motor on the front axle. The motor used are [Induction Motors](../../../../technology/motors/asm/).
+
+
+### Suspension
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 150 mm.
 

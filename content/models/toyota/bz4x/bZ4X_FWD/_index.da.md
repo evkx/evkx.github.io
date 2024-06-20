@@ -57,6 +57,9 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 Toyota bZ4X FWD har et forhjulstræksystem understøttet af en motor på forakslen.
 
+
+### Hjulophæng
+
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 177 mm.
 
 ### Bremser

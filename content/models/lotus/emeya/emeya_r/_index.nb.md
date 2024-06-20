@@ -57,6 +57,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Lotus Emeya R har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjuloppheng
+
 Hjulopphenget foran og bak er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 162 mm, og maksimum er 212 mm.
 
 ### Styring

@@ -57,6 +57,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 Hyundai Ioniq 5 N har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
 
+
+### Hjulophæng
+
 affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 158 mm.
 
 ### Bremser

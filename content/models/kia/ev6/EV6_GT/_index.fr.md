@@ -62,6 +62,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 Kia EV6 GT dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
 
 
+### Suspension
+
+
 
 ### Freins
 

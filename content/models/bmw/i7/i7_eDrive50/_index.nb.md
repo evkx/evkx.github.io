@@ -55,7 +55,10 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-BMW i7 eDrive50 har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+BMW i7 eDrive50 har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Wound-Rotor Synchronous Motor](../../../../technology/motors/wrsm/).
+
+
+### Hjuloppheng
 
 Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 193 mm, og maksimum er 223 mm.
 

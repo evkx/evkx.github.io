@@ -59,7 +59,10 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-Ford Explorer Standard Range RWD har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+Ford Explorer Standard Range RWD har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+
+
+### Hjuloppheng
 
 Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. standard-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 202 mm.
 

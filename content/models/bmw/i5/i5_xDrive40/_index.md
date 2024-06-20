@@ -59,7 +59,10 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-BMW i5 xDrive40 features an all-wheel drive system powered by two motors, one on each axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+BMW i5 xDrive40 features an all-wheel drive system powered by two motors, one on each axle. The motor used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+
+
+### Suspension
 
 The Adaptive M Suspension suspension has a fixed height and damping. The ground clearance with this suspension is 144 mm.
 

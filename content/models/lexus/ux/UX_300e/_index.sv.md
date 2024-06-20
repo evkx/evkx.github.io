@@ -61,6 +61,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 
 Lexus UX 300e har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
 
+
+### Hjulupphängning
+
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 177 mm.
 
 ### Bromsar

@@ -57,6 +57,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 Hyundai Ioniq 6 Long Range RWD har et baghjulstræksystem, der understøttes af en motor på bagakslen.
 
+
+### Hjulophæng
+
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 141 mm.
 
 ### Bremser

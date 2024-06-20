@@ -61,6 +61,9 @@ La ubicación del puerto de carga está en el [frente](../../../../technology/ch
 
 Hyundai Kona Standard Range tiene un sistema de tracción delantera sostenido por un motor en el eje delantero.
 
+
+### Suspensión
+
 La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 178 mm.
 
 ### Frenos

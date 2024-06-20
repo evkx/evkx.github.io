@@ -57,6 +57,9 @@ Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/c
 
 Tesla Model 3 Performance har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
 
+
+### Hjuloppheng
+
 standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 133 mm.
 
 ### Styring

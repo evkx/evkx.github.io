@@ -55,7 +55,10 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-CUPRA BORN 58 e-BOOST har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/).
+CUPRA BORN 58 e-BOOST har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [induktionsmotor](../../../../technology/motors/asm/).
+
+
+### Hjulupphängning
 
 standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 131 mm.
 

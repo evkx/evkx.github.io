@@ -59,7 +59,10 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 ## Tren de transmisión
 
-BMW i4 eDrive35 tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
+BMW i4 eDrive35 tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
+
+
+### Suspensión
 
 La suspensión Standard tiene suspensión neumática en el eje trasero que mantiene automáticamente el auto nivelado dependiendo del peso de la carga. La distancia al suelo con esta suspensión es 125 mm. La suspensión  tiene amortiguación adaptativa en los ejes delantero y trasero y suspensión neumática en el eje trasero que mantiene automáticamente el nivel del automóvil dependiendo del peso de la carga. La distancia al suelo con esta suspensión es 125 mm.
 

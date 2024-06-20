@@ -61,6 +61,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Volvo EC40 Single Motor ER har et bakhjulsdriftssystem støttet av en motor på bakakselen.
 
+
+### Hjuloppheng
+
 -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 175 mm.
 
 ### Bremser

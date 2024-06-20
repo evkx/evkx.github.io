@@ -57,6 +57,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 BMW iX xDrive40 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
 
+
+### Suspensión
+
 La suspensión Standard tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 202 mm.
 
 Puedes pedir BMW iX xDrive40 con una suspensión alternativa Adaptive Air Suspension. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 193 mm y la máxima es 223 mm.

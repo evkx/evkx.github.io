@@ -57,6 +57,9 @@ Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS C
 
 XPENG G3i har et forhjulstræksystem understøttet af en motor på forakslen.
 
+
+### Hjulophæng
+
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 130 mm.
 
 ### Bremser

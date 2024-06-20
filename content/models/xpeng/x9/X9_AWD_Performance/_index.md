@@ -55,7 +55,10 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-XPENG X9 AWD Performance features an all-wheel drive system powered by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+XPENG X9 AWD Performance features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 130 mm, and the maximum is 220 mm. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 

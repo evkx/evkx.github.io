@@ -61,6 +61,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 Audi SQ6 e-tron features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
+
+### Suspension
+
 The Standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 184 mm.
 
 You can order Audi SQ6 e-tron with an alternative Sport suspension. The Sport suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 164 mm.

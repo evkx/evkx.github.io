@@ -61,6 +61,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 Ford Mustang Mach-E Long Range AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
 
+
+### Hjulupphängning
+
 Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 147 mm.
 
 ### Bromsar

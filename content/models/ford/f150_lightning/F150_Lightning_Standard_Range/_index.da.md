@@ -61,6 +61,9 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 
 Ford F150 Lightning Standard Range har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
 
+
+### Hjulophæng
+
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 226 mm.
 
 ### Bremser

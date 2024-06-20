@@ -55,7 +55,10 @@ The charge port is conveniently located on the [right front side](../../../../te
 
 ## Drivetrain
 
-BYD Dolphin 60.4kWh has a front-wheel drive system supported by one motor on the front axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/).
+BYD Dolphin 60.4kWh has a front-wheel drive system supported by one motor on the front axle. The motor used are [Induction Motors](../../../../technology/motors/asm/).
+
+
+### Suspension
 
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 175 mm.
 

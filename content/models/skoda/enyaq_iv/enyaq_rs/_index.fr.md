@@ -57,6 +57,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 SKODA ENYAQ RS dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
 
+
+### Suspension
+
 La suspension Sport a des ressorts en acier avec une hauteur fixe mais un réglage de l'amortissement en option. La garde au sol avec cette suspension est de 173 mm.
 
 ### Pilotage

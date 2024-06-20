@@ -58,6 +58,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 Kia EV9 RWD har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 
+### Hjuloppheng
+
+
 
 ### Bremser
 

@@ -59,7 +59,10 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 ## Drivverk
 
-Renault 5 E-Tech 52kWh 150hp har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+Renault 5 E-Tech 52kWh 150hp har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren som brukes er [Wound-Rotor Synchronous Motor](../../../../technology/motors/wrsm/).
+
+
+### Hjuloppheng
 
 standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 145 mm.
 

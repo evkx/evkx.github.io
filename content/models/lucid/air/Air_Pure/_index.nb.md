@@ -55,7 +55,10 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 ## Drivverk
 
-Lucid Air Pure har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Lucid Air Pure har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+
+
+### Hjuloppheng
 
 -fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 126 mm.
 

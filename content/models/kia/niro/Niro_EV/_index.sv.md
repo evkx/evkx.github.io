@@ -61,6 +61,9 @@ Platsen för laddningsporten är på [fronten](../../../../technology/charging/c
 
 Kia Niro EV har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
 
+
+### Hjulupphängning
+
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 160 mm.
 
 ### Bromsar

@@ -57,6 +57,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Toyota bZ4X FWD har et forhjulsdriftssystem støttet av én motor på forakselen.
 
+
+### Hjuloppheng
+
 -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 177 mm.
 
 ### Bremser

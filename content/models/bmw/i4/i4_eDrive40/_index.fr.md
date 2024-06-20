@@ -59,7 +59,10 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 ## Transmission
 
-BMW i4 eDrive40 dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à rotor bobiné](../../../../technology/motors/wrsm/).
+BMW i4 eDrive40 dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs synchrones à rotor bobiné](../../../../technology/motors/wrsm/).
+
+
+### Suspension
 
 La suspension Standard est dotée d'une suspension pneumatique sur l'essieu arrière qui maintient automatiquement la voiture à niveau en fonction du poids du chargement. La garde au sol avec cette suspension est de 125 mm. La suspension  est dotée d'un amortissement adaptatif sur les essieux avant et arrière et d'une suspension pneumatique sur l'essieu arrière qui maintient automatiquement la voiture à niveau en fonction du poids du chargement. La garde au sol avec cette suspension est de 125 mm.
 

@@ -57,6 +57,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Acura ZDX Type S har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjuloppheng
+
 Hjulopphenget foran og bak er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere.
 
 ### Bremser

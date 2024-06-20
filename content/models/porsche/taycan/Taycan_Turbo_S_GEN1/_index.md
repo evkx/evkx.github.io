@@ -65,7 +65,10 @@ The charge port is conveniently located on the [right front side](../../../../te
 
 ## Drivetrain
 
-Porsche Taycan Turbo S (GEN1) features an all-wheel drive system powered by two motors, one on each axle. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Porsche Taycan Turbo S (GEN1) features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 
 

@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 ## Drivetrain
 
-Hongqi E-HS9 Comfort har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Hongqi E-HS9 Comfort har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Hjulophæng
 
 -ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 200 mm.
 

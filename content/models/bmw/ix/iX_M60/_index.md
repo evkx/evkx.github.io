@@ -59,7 +59,10 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-BMW iX M60 features an all-wheel drive system powered by two motors, one on each axle. The motor(s) used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+BMW iX M60 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+
+
+### Suspension
 
 The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 193 mm, and the maximum is 223 mm.
 

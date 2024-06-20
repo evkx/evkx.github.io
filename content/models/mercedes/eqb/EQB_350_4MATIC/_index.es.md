@@ -58,6 +58,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 Mercedes-EQ EQB 350 4MATIC tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
 
 
+### Suspensión
+
+
 
 ### Dirección
 

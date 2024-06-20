@@ -61,6 +61,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 Hyundai Ioniq 5 Long Range AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
 
+
+### Hjuloppheng
+
 -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 178 mm.
 
 ### Bremser

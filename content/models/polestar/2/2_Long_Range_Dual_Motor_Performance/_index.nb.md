@@ -57,6 +57,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Polestar 2 Long Range Dual Motor Performance har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
 
+
+### Hjuloppheng
+
 -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 151 mm.
 
 ### Bremser

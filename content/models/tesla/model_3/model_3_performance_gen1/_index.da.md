@@ -61,6 +61,9 @@ Placeringen af ladeporten er i [venstre bageste hjørne](../../../../technology/
 
 Tesla Model 3 Performance (GEN1) har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
 
+
+### Hjulophæng
+
 standard-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 133 mm.
 
 ### Styring

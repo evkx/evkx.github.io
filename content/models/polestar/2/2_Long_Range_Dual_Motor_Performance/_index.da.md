@@ -57,6 +57,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 Polestar 2 Long Range Dual Motor Performance har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
 
+
+### Hjulophæng
+
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 151 mm.
 
 ### Bremser

@@ -57,6 +57,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 BYD Tang EV600 har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
 
+
+### Hjulophæng
+
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 190 mm.
 
 ### Styring

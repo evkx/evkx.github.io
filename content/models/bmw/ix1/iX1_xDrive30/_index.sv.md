@@ -55,7 +55,10 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-BMW iX1 xDrive30 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/).
+BMW iX1 xDrive30 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn som används är [induktionsmotor](../../../../technology/motors/asm/).
+
+
+### Hjulupphängning
 
 Adaptive M Suspension-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 170 mm.
 

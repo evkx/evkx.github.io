@@ -75,7 +75,10 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 
 ## Drivverk
 
-Porsche Taycan (GEN1) har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Porsche Taycan (GEN1) har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+
+
+### Hjuloppheng
 
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. Standard-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 127 mm.
 

@@ -61,6 +61,9 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 
 Ford Mustang Mach-E GT tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
 
+
+### Suspensión
+
 La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 147 mm.
 
 ### Frenos

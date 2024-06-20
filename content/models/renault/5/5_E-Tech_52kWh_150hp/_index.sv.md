@@ -59,7 +59,10 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 ## Drivlina
 
-Renault 5 E-Tech 52kWh 150hp har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
+Renault 5 E-Tech 52kWh 150hp har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Synkronmotor med lindad rotor](../../../../technology/motors/wrsm/).
+
+
+### Hjulupphängning
 
 Fjädringen standard har en fast höjd och dämpning. Markfrigången med denna fjädring är 145 mm.
 

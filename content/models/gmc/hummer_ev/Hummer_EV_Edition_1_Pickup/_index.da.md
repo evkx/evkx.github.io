@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 ## Drivetrain
 
-GMC Hummer EV Edition 1 Pickup har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+GMC Hummer EV Edition 1 Pickup har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Hjulophæng
 
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 257 mm, og maksimum er 406 mm. Derudover er baghjulsstyring tilgængelig som en standard-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
 

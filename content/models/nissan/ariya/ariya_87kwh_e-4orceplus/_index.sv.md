@@ -57,6 +57,9 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 
 Nissan Ariya 87kWh e-4ORCE+ har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
 
+
+### Hjulupphängning
+
 Fjädringen standard har en fast höjd och dämpning. Markfrigången med denna fjädring är 170 mm.
 
 ### Styrning

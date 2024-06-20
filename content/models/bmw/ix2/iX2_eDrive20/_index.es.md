@@ -55,7 +55,10 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 ## Tren de transmisión
 
-BMW iX2 eDrive20 tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motores utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
+BMW iX2 eDrive20 tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motor utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
+
+
+### Suspensión
 
 La suspensión Adaptive M Suspension tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 170 mm.
 

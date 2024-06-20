@@ -58,6 +58,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 Volkswagen ID. Buzz GTX LWB dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
 
 
+### Suspension
+
+
 
 ### Pilotage
 

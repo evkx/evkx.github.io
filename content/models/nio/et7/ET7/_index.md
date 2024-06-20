@@ -72,6 +72,9 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 
 Nio ET7 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
+
+### Suspension
+
 The front suspension and rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The  suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 88 mm.
 
 ### Steering

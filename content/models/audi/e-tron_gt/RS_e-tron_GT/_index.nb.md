@@ -61,11 +61,18 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 
 Audi RS e-tron GT har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. Standard-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 145 mm.
 
-Du kan bestille Audi RS e-tron GT med en alternativ Adaptive Air Suspension hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 125 mm, og maksimum er 165 mm.
+### Hjuloppheng
+
+Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 125 mm, og maksimum er 165 mm.
 
 Du kan bestille Audi RS e-tron GT med en alternativ Active hjuloppheng. Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og aktive hydrauliske dempere. Demperen undertrykker aktivt uønskede bevegelser av luftfjæringen. Dette gjør det mulig for hjulene å bli aktivt presset ned i veien eller trukket inn i karosseriet når som helst. Med en jevn kjøring absorberer systemet nesten fullstendig støt. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 125 mm, og maksimum er 165 mm.
+
+Den aktive fjæringen holder bilens karosseri nesten horisontalt under dynamisk bremsing, styring og akselerasjon, og forbedrer presis styrerespons og førerkontroll.
+
+Vanligvis lener biler seg utover i svinger. Men den aktive svingdynamikken kan motvirke denne kreningen, eller til og med overkompensere, slik at bilen lener seg inn i svingen som en motorsykkel.
+
+Easy Entry-funksjonen hever automatisk bilens karosseri når en dør åpnes, noe som letter inn- og utstigning. Når døren lukkes, senkes karosseriet tilbake til forrige nivå.
 
 ### Styring
 

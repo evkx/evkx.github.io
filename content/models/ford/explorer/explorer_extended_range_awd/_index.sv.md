@@ -61,6 +61,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 Ford Explorer Extended Range AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/).
 
+
+### Hjulupphängning
+
 Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 202 mm.
 
 Du kan beställa Ford Explorer Extended Range AWD med en alternativ sport-upphängning. Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen sport har en fast höjd och dämpning. Markfrigången med denna fjädring är 163 mm.

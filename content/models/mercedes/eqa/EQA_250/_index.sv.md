@@ -55,7 +55,10 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-Mercedes-EQ EQA 250 har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/).
+Mercedes-EQ EQA 250 har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [induktionsmotor](../../../../technology/motors/asm/).
+
+
+### Hjulupphängning
 
 
 

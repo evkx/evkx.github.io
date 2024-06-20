@@ -59,7 +59,10 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-BMW iX3 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+BMW iX3 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+
+
+### Hjuloppheng
 
 Standard-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 179 mm. Adaptive M Suspension-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 179 mm.
 

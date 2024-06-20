@@ -58,6 +58,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 Kia EV9 Long Range AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 
+### Hjulupphängning
+
+
 
 ### Bromsar
 

@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 
 ## Drivetrain
 
-Nissan Ariya 87kWh har et forhjulstræksystem understøttet af en motor på forakslen. Den(e) anvendte motor(er) er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
+Nissan Ariya 87kWh har et forhjulstræksystem understøttet af en motor på forakslen. Den anvendte motor er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
+
+
+### Hjulophæng
 
 standard-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 180 mm.
 

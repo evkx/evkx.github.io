@@ -57,6 +57,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 
 Polestar 2 Long Range Single Motor har et bakhjulsdriftssystem støttet av en motor på bakakselen.
 
+
+### Hjuloppheng
+
 -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 151 mm.
 
 ### Bremser

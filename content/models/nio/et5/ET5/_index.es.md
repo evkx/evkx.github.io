@@ -73,6 +73,9 @@ Este modelo admite el cambio de batería. El cambio de batería significa que pu
 Nio ET5 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
 
 
+### Suspensión
+
+
 
 ### Dirección
 

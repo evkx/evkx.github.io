@@ -61,6 +61,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 Kia EV6 Standard Range 2WD tiene un sistema de tracción trasera sostenido por un motor en el eje trasero.
 
+
+### Suspensión
+
 La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 178 mm.
 
 ### Frenos

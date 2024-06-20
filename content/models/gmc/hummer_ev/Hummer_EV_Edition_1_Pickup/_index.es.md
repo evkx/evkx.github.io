@@ -57,6 +57,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 GMC Hummer EV Edition 1 Pickup tiene un sistema de tracción total sostenido por tres motores. Uno en el eje delantero y dos en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
+
+### Suspensión
+
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 257 mm y la máxima es 406 mm. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
 
 ### Frenos

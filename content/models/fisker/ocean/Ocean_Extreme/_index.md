@@ -61,6 +61,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 Fisker Ocean Extreme features an all-wheel drive system powered by two motors, one on each axle.
 
+
+### Suspension
+
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The standard suspension has a fixed height and damping. The ground clearance with this suspension is 165 mm.
 
 ### Drive modes

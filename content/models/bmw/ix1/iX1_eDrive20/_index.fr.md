@@ -55,7 +55,10 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 ## Transmission
 
-BMW iX1 eDrive20 dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+BMW iX1 eDrive20 dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 La suspension Adaptive M Suspension est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 170 mm.
 

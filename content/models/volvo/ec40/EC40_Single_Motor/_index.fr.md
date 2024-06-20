@@ -61,6 +61,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 Volvo EC40 Single Motor dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière.
 
+
+### Suspension
+
 La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 175 mm.
 
 ### Freins

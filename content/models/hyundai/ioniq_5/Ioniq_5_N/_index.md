@@ -57,6 +57,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 Hyundai Ioniq 5 N features an all-wheel drive system powered by two motors, one on each axle.
 
+
+### Suspension
+
 The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 158 mm.
 
 ### Brakes

@@ -72,6 +72,9 @@ Este modelo admite el cambio de batería. El cambio de batería significa que pu
 
 Nio ET7 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
 
+
+### Suspensión
+
 La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión  tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 88 mm.
 
 ### Dirección

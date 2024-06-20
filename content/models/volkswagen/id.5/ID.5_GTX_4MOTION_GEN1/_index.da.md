@@ -61,7 +61,10 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 ## Drivetrain
 
-Volkswagen ID.5 GTX 4MOTION (GEN1) har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den(e) anvendte motor(er) er [induktionsmotorer](../../../../technology/motors/asm/).
+Volkswagen ID.5 GTX 4MOTION (GEN1) har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/).
+
+
+### Hjulophæng
 
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 170 mm.
 

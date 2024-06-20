@@ -57,6 +57,9 @@ Placeringen af ladeporten er på [forsiden](../../../../technology/charging/conn
 
 Kia EV3 Long Range har et forhjulstræksystem understøttet af en motor på forakslen.
 
+
+### Hjulophæng
+
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 160 mm.
 
 ### Bremser

@@ -61,6 +61,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 Volvo EC40 Single Motor har et baghjulstræksystem, der understøttes af en motor på bagakslen.
 
+
+### Hjulophæng
+
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 175 mm.
 
 ### Bremser

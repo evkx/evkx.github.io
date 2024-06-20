@@ -55,7 +55,10 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 
 ## Transmission
 
-Lucid Air Sapphire dispose d'un système de transmission intégrale pris en charge par trois moteurs. Un sur l'essieu avant et deux sur l'essieu arrière. Le(s) moteur(s) utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+Lucid Air Sapphire dispose d'un système de transmission intégrale pris en charge par trois moteurs. Un sur l'essieu avant et deux sur l'essieu arrière. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 La suspension  est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 126 mm.
 

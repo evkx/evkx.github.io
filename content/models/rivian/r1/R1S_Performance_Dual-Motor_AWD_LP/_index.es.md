@@ -61,6 +61,9 @@ La ubicación del puerto de carga está en la [esquina frontal izquierda](../../
 
 Rivian R1S Performance Dual-Motor AWD LP tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
 
+
+### Suspensión
+
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 205 mm y la máxima es 365 mm.
 
 ### Frenos

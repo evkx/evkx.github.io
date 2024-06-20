@@ -73,6 +73,9 @@ Denna modell stöder batteribyte. Batteribyte innebär att du kan köra till en 
 Nio ET5 Touring har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
 
 
+### Hjulupphängning
+
+
 
 ### Styrning
 

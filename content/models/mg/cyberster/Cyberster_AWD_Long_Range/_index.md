@@ -57,6 +57,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 
 MG Cyberster AWD Long Range features an all-wheel drive system powered by two motors, one on each axle.
 
+
+### Suspension
+
 The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 120 mm.
 
 ### Brakes

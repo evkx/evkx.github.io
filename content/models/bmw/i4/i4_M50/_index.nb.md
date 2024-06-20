@@ -61,6 +61,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 BMW i4 M50 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
 
+
+### Hjuloppheng
+
 -fjæringen har adaptiv demping på for- og bakakselen og luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastevekt. Bakkeklaringen med dette hjulopphenget er 125 mm.
 
 ### Styring

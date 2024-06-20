@@ -57,6 +57,9 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 
 Nissan Ariya 87kWh e-4ORCE+ har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
 
+
+### Hjuloppheng
+
 standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 170 mm.
 
 ### Styring

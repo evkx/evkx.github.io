@@ -55,7 +55,10 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 
 ## Drivverk
 
-Nissan Ariya 63kWh har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+Nissan Ariya 63kWh har et forhjulsdriftssystem støttet av én motor på forakselen. Motoren som brukes er [Wound-Rotor Synchronous Motor](../../../../technology/motors/wrsm/).
+
+
+### Hjuloppheng
 
 standard-opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 185 mm.
 

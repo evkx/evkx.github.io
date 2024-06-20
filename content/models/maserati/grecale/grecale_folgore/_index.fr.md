@@ -61,6 +61,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 Maserati Grecale Folgore dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
 
+
+### Suspension
+
 La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 145 mm et la garde au sol maximale est de 205 mm.
 
 ### Modes de conduite

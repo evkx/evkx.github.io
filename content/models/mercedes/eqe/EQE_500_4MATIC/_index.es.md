@@ -61,6 +61,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 Mercedes-EQ EQE 500 4MATIC tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
+
+### Suspensión
+
 La suspensión standard tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 107 mm. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 82 mm y la máxima es 127 mm.
 
 ### Dirección

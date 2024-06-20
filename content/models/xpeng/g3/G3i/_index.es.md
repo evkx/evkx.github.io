@@ -57,6 +57,9 @@ Los tipos de conectores varían entre los diferentes mercados. Este modelo utili
 
 XPENG G3i tiene un sistema de tracción delantera sostenido por un motor en el eje delantero.
 
+
+### Suspensión
+
 La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 130 mm.
 
 ### Frenos

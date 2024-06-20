@@ -61,6 +61,9 @@ The charge port is conveniently located at the [left rear corner](../../../../te
 
 Tesla Cybertruck Cyberbeast has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the front axle and [Induction Motors](../../../../technology/motors/asm/) at the rear axle.
 
+
+### Suspension
+
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 138 mm, and the maximum is 442 mm.
 
 ### Steering

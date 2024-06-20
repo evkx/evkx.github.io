@@ -72,6 +72,9 @@ Denne model understøtter batteriskift. Batteriskift betyder, at du kan køre ti
 
 Nio EL8 har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på forakslen og [induktionsmotorer] (../../../../technology/motors/asm/) på bagakslen.
 
+
+### Hjulophæng
+
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 110 mm, og maksimum er 200 mm.
 
 ### Styring

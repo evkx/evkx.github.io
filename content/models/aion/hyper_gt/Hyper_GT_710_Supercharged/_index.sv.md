@@ -57,6 +57,9 @@ Anslutningstyper varierar mellan olika marknader. Den här modellen använder [*
 
 Aion Hyper GT 710 Supercharged har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
 
+
+### Hjulupphängning
+
 Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 130 mm.
 
 ### Bromsar

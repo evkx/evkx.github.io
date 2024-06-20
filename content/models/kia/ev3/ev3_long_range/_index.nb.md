@@ -57,6 +57,9 @@ Plasseringen av ladeporten er på [fronten](../../../../technology/charging/conn
 
 Kia EV3 Long Range har et forhjulsdriftssystem støttet av én motor på forakselen.
 
+
+### Hjuloppheng
+
 -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 160 mm.
 
 ### Bremser

@@ -62,6 +62,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 BYD Han har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
 
+### Hjuloppheng
+
+
 
 ### Styring
 

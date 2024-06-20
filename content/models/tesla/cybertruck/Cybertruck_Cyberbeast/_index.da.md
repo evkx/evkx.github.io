@@ -61,6 +61,9 @@ Placeringen af ladeporten er i [venstre bageste hjørne](../../../../technology/
 
 Tesla Cybertruck Cyberbeast har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel. De anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på forakslen og [induktionsmotorer] (../../../../technology/motors/asm/) på bagakslen.
 
+
+### Hjulophæng
+
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 138 mm, og maksimum er 442 mm.
 
 ### Styring

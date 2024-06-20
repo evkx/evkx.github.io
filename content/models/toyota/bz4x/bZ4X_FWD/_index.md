@@ -57,6 +57,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 
 Toyota bZ4X FWD has a front-wheel drive system supported by one motor on the front axle.
 
+
+### Suspension
+
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 177 mm.
 
 ### Brakes

@@ -55,7 +55,10 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 ## Drivetrain
 
-Audi SQ8 e-tron har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel. Den(e) anvendte motor(er) er [induktionsmotorer](../../../../technology/motors/asm/).
+Audi SQ8 e-tron har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel. Dene anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/).
+
+
+### Hjulophæng
 
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 152 mm, og maksimum er 248 mm.
 

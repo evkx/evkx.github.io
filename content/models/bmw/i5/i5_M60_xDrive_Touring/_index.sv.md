@@ -61,6 +61,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 BMW i5 M60 xDrive Touring har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
 
+
+### Hjulupphängning
+
 Fjädringen  har adaptiv dämpning på fram- och bakaxeln och luftfjädring på bakaxeln som automatiskt håller bilen i nivå beroende på lastvikten. Markfrigången med denna fjädring är 136 mm.
 
 ### Styrning

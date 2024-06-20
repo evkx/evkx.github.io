@@ -57,6 +57,9 @@ Placeringen af ladeporten er i [venstre bageste hjørne](../../../../technology/
 
 Tesla Model Y Performance har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
 
+
+### Hjulophæng
+
 Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double-wishbone), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 167 mm.
 
 ### Styring

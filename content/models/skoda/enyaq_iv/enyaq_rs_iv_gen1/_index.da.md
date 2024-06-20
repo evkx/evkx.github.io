@@ -57,6 +57,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 SKODA ENYAQ RS iV (GEN1) har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
 
+
+### Hjulophæng
+
 Sport-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 173 mm.
 
 ### Styring

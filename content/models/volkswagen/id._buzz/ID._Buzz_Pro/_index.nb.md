@@ -59,7 +59,10 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-Volkswagen ID. Buzz Pro har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+Volkswagen ID. Buzz Pro har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
+
+
+### Hjuloppheng
 
 
 

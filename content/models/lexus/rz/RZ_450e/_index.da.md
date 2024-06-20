@@ -61,6 +61,9 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 Lexus RZ 450e har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
 
+
+### Hjulophæng
+
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 177 mm.
 
 ### Bremser

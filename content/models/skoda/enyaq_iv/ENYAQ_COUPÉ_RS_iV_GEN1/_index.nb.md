@@ -67,6 +67,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 SKODA ENYAQ COUPÉ RS iV (GEN1) har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
 
+
+### Hjuloppheng
+
 Sport-Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 173 mm.
 
 ### Styring

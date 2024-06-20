@@ -62,6 +62,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 Kia EV6 GT features an all-wheel drive system powered by two motors, one on each axle.
 
 
+### Suspension
+
+
 
 ### Brakes
 

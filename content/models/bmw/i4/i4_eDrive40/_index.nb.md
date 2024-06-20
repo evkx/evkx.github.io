@@ -59,7 +59,10 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 
 ## Drivverk
 
-BMW i4 eDrive40 har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
+BMW i4 eDrive40 har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Wound-Rotor Synchronous Motor](../../../../technology/motors/wrsm/).
+
+
+### Hjuloppheng
 
 Standard-opphenget har luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastens vekt. Bakkeklaringen med dette hjulopphenget er 125 mm. -fjæringen har adaptiv demping på for- og bakakselen og luftfjæring på bakakselen som automatisk holder bilen vannrett avhengig av lastevekt. Bakkeklaringen med dette hjulopphenget er 125 mm.
 

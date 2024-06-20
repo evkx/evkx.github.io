@@ -55,7 +55,10 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-Mercedes-EQ G 580 EQ has an all-wheel drive system supported by four motors. One for each wheel. The motor(s) used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Mercedes-EQ G 580 EQ has an all-wheel drive system supported by four motors. One for each wheel. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Suspension
 
 The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 250 mm.
 

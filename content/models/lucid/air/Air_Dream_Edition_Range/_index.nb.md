@@ -57,6 +57,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Lucid Air Dream Edition Range har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjuloppheng
+
 -fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 126 mm.
 
 ### Styring

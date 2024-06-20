@@ -61,6 +61,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 SKODA Enyaq iV80x tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
 
+
+### Suspensión
+
 La suspensión standard tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 187 mm.
 
 Puedes pedir SKODA Enyaq iV80x con una suspensión alternativa sport. La suspensión sport tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 171 mm.

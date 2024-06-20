@@ -59,7 +59,10 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 
 ## Drivetrain
 
-BMW i5 eDrive40 har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den(e) anvendte motor(er) er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
+BMW i5 eDrive40 har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
+
+
+### Hjulophæng
 
 Adaptive M Suspension-ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 144 mm.
 

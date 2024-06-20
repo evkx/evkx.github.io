@@ -73,6 +73,9 @@ Denne model understøtter batteriskift. Batteriskift betyder, at du kan køre ti
 Nio ET5 Touring har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
 
 
+### Hjulophæng
+
+
 
 ### Styring
 

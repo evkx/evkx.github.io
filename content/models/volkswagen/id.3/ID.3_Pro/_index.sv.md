@@ -55,7 +55,10 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 
 ## Drivlina
 
-Volkswagen ID.3 Pro har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/).
+Volkswagen ID.3 Pro har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [induktionsmotor](../../../../technology/motors/asm/).
+
+
+### Hjulupphängning
 
 standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 150 mm.
 

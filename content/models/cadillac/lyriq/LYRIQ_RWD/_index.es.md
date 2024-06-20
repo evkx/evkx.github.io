@@ -55,7 +55,10 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 
 ## Tren de transmisión
 
-Cadillac LYRIQ RWD tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+Cadillac LYRIQ RWD tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+
+
+### Suspensión
 
 La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 178 mm.
 

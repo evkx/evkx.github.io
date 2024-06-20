@@ -59,7 +59,10 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 
 ## Tren de transmisión
 
-BMW i5 xDrive40 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
+BMW i5 xDrive40 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motor utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
+
+
+### Suspensión
 
 La suspensión Adaptive M Suspension tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 144 mm.
 

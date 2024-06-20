@@ -57,6 +57,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 
 Opel Astra Sports Tourer Electric dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant.
 
+
+### Suspension
+
 La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Torsion Beam](../../../../technology/suspension/#torsion-beam). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 140 mm.
 
 ### Freins

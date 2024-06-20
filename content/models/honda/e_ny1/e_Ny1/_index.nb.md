@@ -57,6 +57,9 @@ Plasseringen av ladeporten er på [fronten](../../../../technology/charging/conn
 
 Honda e:Ny1 har et forhjulsdriftssystem støttet av én motor på forakselen.
 
+
+### Hjuloppheng
+
 Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 140 mm.
 
 ### Bremser

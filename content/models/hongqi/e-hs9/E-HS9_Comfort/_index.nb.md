@@ -57,6 +57,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 
 Hongqi E-HS9 Comfort har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjuloppheng
+
 -Hjulopphenget har stålfjærer med fast høyde, men en valgfri dempingsjustering. Bakkeklaringen med dette hjulopphenget er 200 mm.
 
 ### Styring

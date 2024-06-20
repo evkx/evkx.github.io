@@ -55,7 +55,10 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 
 ## Drivlina
 
-Chevrolet Equinox EV FWD har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Chevrolet Equinox EV FWD har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
+
+
+### Hjulupphängning
 
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 193 mm.
 

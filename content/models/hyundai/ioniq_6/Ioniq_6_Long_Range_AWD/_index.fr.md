@@ -57,6 +57,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 
 Hyundai Ioniq 6 Long Range AWD dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
 
+
+### Suspension
+
 La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 141 mm.
 
 ### Freins

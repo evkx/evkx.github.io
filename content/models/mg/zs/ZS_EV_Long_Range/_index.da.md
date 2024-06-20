@@ -61,6 +61,9 @@ Placeringen af ladeporten er på [forsiden](../../../../technology/charging/conn
 
 MG ZS EV Long Range har et baghjulstræksystem, der understøttes af en motor på bagakslen.
 
+
+### Hjulophæng
+
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 161 mm.
 
 ### Bremser

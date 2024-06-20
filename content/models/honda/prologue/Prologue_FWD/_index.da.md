@@ -59,7 +59,10 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 
 ## Drivetrain
 
-Honda Prologue FWD har et forhjulstræksystem understøttet af en motor på forakslen. Den(e) anvendte motor(er) er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+Honda Prologue FWD har et forhjulstræksystem understøttet af en motor på forakslen. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
+
+
+### Hjulophæng
 
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 178 mm.
 

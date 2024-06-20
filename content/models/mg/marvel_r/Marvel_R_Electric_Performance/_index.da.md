@@ -57,6 +57,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 
 MG Marvel R Electric Performance har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel.
 
+
+### Hjulophæng
+
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 150 mm.
 
 ### Bremser

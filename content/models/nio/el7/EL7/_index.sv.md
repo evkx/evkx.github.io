@@ -72,6 +72,9 @@ Denna modell stöder batteribyte. Batteribyte innebär att du kan köra till en 
 
 Nio EL7 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
 
+
+### Hjulupphängning
+
 Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 143 mm, och maximal är 198 mm.
 
 ### Styrning

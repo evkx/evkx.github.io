@@ -55,7 +55,10 @@ The location of the charge port is on the [right rear side](../../../../technolo
 
 ## Drivetrain
 
-Mercedes-EQ EQA 250 has a front-wheel drive system supported by one motor on the front axle. The motor(s) used are [Induction Motors](../../../../technology/motors/asm/).
+Mercedes-EQ EQA 250 has a front-wheel drive system supported by one motor on the front axle. The motor used are [Induction Motors](../../../../technology/motors/asm/).
+
+
+### Suspension
 
 
 

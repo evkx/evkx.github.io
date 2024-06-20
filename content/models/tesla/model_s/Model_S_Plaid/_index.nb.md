@@ -57,6 +57,9 @@ Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/c
 
 Tesla Model S Plaid har et firehjulsdriftssystem støttet av tre motorer. En på forakselen og to på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
+
+### Hjuloppheng
+
 Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 117 mm, og maksimum er 158 mm.
 
 ### Styring

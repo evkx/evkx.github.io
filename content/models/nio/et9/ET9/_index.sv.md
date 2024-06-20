@@ -60,6 +60,9 @@ Denna modell stöder batteribyte. Batteribyte innebär att du kan köra till en 
 
 Nio ET9 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
 
+
+### Hjulupphängning
+
 Fjädringen fram och bak är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 150 mm, och maximal är 200 mm.
 
 ### Styrning
