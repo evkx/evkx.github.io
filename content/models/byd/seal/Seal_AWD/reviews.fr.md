@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Seal Performance banana box test</h3>
+<p>Bjørn Nyland: 22.06.2024</p>
+
+{{< youtube z5Qp3fNBDo4 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Seal Performance headlights test</h3>
+<p>Bjørn Nyland: 21.06.2024</p>
+
+{{< youtube QNRwaqq9tdo >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Test av BYD Seal: en Europris-Porsche?</h3>
 <p>Norsk elbilforening: 23.05.2024</p>
 
