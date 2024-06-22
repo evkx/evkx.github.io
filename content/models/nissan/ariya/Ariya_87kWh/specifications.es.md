@@ -126,6 +126,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				18,5 kwh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				rango EPA
+			</td>
+			<td>
+				287 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo EPA
+			</td>
+			<td>
+				3,3 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -174,7 +190,23 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Configuración del paquete
 			</td>
 			<td>
-				96S2P
+				96s4p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tensión nominal
+			</td>
+			<td>
+				352
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Materiales del cátodo
+			</td>
+			<td>
+				NMC811
 			</td>
 		</tr>
 	</tbody>

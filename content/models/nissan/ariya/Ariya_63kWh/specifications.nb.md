@@ -174,7 +174,23 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Pakkekonfigurasjon
 			</td>
 			<td>
-				96S2P
+				96s3p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominell spenning
+			</td>
+			<td>
+				352
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NMC811
 			</td>
 		</tr>
 	</tbody>

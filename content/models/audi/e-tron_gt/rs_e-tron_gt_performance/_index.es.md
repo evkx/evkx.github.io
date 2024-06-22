@@ -76,7 +76,7 @@ La función Easy Entry eleva automáticamente la carrocería del coche cuando se
 
 ### Dirección
 
-La dirección dinámica es una característica un estándar en el Audi RS e-tron GT performance. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
+La dirección dinámica es una característica un estándar en el Audi RS e-tron GT performance. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción. Además, la dirección en las ruedas traseras está disponible como característica un opcional. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
 
 ### Frenos
 

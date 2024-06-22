@@ -76,7 +76,7 @@ The Easy Entry function raises the car's body automatically when a door is opene
 
 ### Steering
 
-Dynamic steering is a standard feature on the Audi RS e-tron GT. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
+Dynamic steering is a standard feature on the Audi RS e-tron GT. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as an optional feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
 

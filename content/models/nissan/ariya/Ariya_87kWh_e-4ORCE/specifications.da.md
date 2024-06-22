@@ -126,6 +126,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				19,5 kwh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				EPA-område
+			</td>
+			<td>
+				267 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA-forbrug
+			</td>
+			<td>
+				3,1 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -174,7 +190,23 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Pakkekonfiguration
 			</td>
 			<td>
-				96S2P
+				96s4p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominel spænding
+			</td>
+			<td>
+				352
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NMC811
 			</td>
 		</tr>
 	</tbody>

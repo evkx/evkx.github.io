@@ -126,6 +126,22 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				19,5 kwh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				EPA-rekkevidde
+			</td>
+			<td>
+				267 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA-forbruk
+			</td>
+			<td>
+				3,1 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -174,7 +190,23 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Pakkekonfigurasjon
 			</td>
 			<td>
-				96S2P
+				96s4p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominell spenning
+			</td>
+			<td>
+				352
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NMC811
 			</td>
 		</tr>
 	</tbody>

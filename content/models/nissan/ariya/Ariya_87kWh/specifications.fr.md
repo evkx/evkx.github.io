@@ -126,6 +126,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				18,5 kwh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Gamme EPA
+			</td>
+			<td>
+				287 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consommation EPA
+			</td>
+			<td>
+				3,3 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -174,7 +190,23 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Configuration du pack
 			</td>
 			<td>
-				96S2P
+				96s4p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tension nominale
+			</td>
+			<td>
+				352
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Matériaux cathodiques
+			</td>
+			<td>
+				NMC811
 			</td>
 		</tr>
 	</tbody>

@@ -33,7 +33,7 @@ Nissan Ariya 63kWh tilbyr beskjedne ytelser med en maksimal effekt på 160 kW (2
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 66 kWh og en netto brukbar kapasitet på 63 kWh, som gir en buffer på 3 kWh (4,5%) for batteribeskyttelse.
+Høykapasitetsbatteriet har en brutto kapasitet på 66 kWh og en netto brukbar kapasitet på 63 kWh, som gir en buffer på 3 kWh (4,5%) for batteribeskyttelse. Med en nominell spenning på 352 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
 
 I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 403 og 359 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 15,6 kWh/100 km for basismodellen og 17,5 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 

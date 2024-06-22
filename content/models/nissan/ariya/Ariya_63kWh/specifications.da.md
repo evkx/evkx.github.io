@@ -174,7 +174,23 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Pakkekonfiguration
 			</td>
 			<td>
-				96S2P
+				96s3p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominel spænding
+			</td>
+			<td>
+				352
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodematerialer
+			</td>
+			<td>
+				NMC811
 			</td>
 		</tr>
 	</tbody>

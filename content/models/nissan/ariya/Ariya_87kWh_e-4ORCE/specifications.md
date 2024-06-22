@@ -126,6 +126,22 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				19,5 kwh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/epa/">EPA range</a>
+			</td>
+			<td>
+				267 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/epa/">EPA consumption</a>
+			</td>
+			<td>
+				3,1 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -174,7 +190,23 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/batterypack/">Pack Configuration</a>
 			</td>
 			<td>
-				96S2P
+				96s4p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
+			</td>
+			<td>
+				352
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
+			</td>
+			<td>
+				NMC811
 			</td>
 		</tr>
 	</tbody>

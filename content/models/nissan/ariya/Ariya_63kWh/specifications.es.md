@@ -174,7 +174,23 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Configuración del paquete
 			</td>
 			<td>
-				96S2P
+				96s3p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tensión nominal
+			</td>
+			<td>
+				352
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Materiales del cátodo
+			</td>
+			<td>
+				NMC811
 			</td>
 		</tr>
 	</tbody>

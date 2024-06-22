@@ -76,7 +76,7 @@ La fonction Easy Entry élève automatiquement la carrosserie de la voiture lors
 
 ### Pilotage
 
-La direction dynamique est une fonctionnalité un standard sur le Audi RS e-tron GT. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite. De plus, la direction des roues arrière est disponible en tant que fonctionnalité un standard. La direction des roues arrière réduit le rayon de braquage lorsque vous roulez lentement.
+La direction dynamique est une fonctionnalité un standard sur le Audi RS e-tron GT. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite. De plus, la direction des roues arrière est disponible en tant que fonctionnalité un facultatif. La direction des roues arrière réduit le rayon de braquage lorsque vous roulez lentement.
 
 ### Freins
 

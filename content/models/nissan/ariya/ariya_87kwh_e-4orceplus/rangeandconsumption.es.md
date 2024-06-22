@@ -59,6 +59,32 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 				17,47 kWh/100km / 3,6 mi/kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					Equipo mínimo de rango EPA
+				</a>
+			</td>
+			<td>
+				438 km / 272 mi
+			</td>
+			<td>
+				19,9 kWh/100km / 3,1 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					Equipamiento superior de gama EPA
+				</a>
+			</td>
+			<td>
+				438 km / 272 mi
+			</td>
+			<td>
+				19,9 kWh/100km / 3,1 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>
@@ -102,6 +128,28 @@ La siguiente tabla muestra cómo encender la calefacción/refrigeración en un d
 			</td>
 			<td>
 				-19,7%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Equipamiento básico gama EPA con 2KW AC
+			</td>
+			<td>
+				360 km / 224 mi
+			</td>
+			<td>
+				-17,8%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Equipo superior de gama EPA con 2KW AC
+			</td>
+			<td>
+				360 km / 224 mi
+			</td>
+			<td>
+				-17,8%
 			</td>
 		</tr>
 	</tbody>

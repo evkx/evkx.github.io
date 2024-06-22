@@ -126,6 +126,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				19,5 kwh/100km
 			</td>
 		</tr>
+		<tr>
+			<td>
+				EPA räckvidd
+			</td>
+			<td>
+				272 mi
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA förbrukning
+			</td>
+			<td>
+				3,1 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -174,7 +190,23 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Packkonfiguration
 			</td>
 			<td>
-				96S2P
+				96s4p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominell spänning
+			</td>
+			<td>
+				352
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				NMC811
 			</td>
 		</tr>
 	</tbody>

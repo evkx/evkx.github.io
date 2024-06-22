@@ -174,7 +174,23 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Configuration du pack
 			</td>
 			<td>
-				96S2P
+				96s3p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tension nominale
+			</td>
+			<td>
+				352
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Matériaux cathodiques
+			</td>
+			<td>
+				NMC811
 			</td>
 		</tr>
 	</tbody>

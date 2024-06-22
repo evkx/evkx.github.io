@@ -76,7 +76,7 @@ Easy Entry-funktionen höjer automatiskt bilens kaross när en dörr öppnas, vi
 
 ### Styrning
 
-Dynamisk styrning är standard-funktionen för Audi RS e-tron GT performance. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten. Dessutom är bakhjulsstyrning tillgänglig som en standard-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
+Dynamisk styrning är standard-funktionen för Audi RS e-tron GT performance. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten. Dessutom är bakhjulsstyrning tillgänglig som en valfritt-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
 
 ### Bromsar
 

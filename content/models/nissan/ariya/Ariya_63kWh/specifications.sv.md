@@ -174,7 +174,23 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Packkonfiguration
 			</td>
 			<td>
-				96S2P
+				96s3p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominell spänning
+			</td>
+			<td>
+				352
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				NMC811
 			</td>
 		</tr>
 	</tbody>

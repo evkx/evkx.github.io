@@ -59,6 +59,32 @@ Nedenfor er de officielt vurderede rækkevidder. Testene udføres med varme/veks
 				17,47 kWh/100km / 3,6 mi/kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					EPA rækkevidde minimum trim
+				</a>
+			</td>
+			<td>
+				438 km / 272 mi
+			</td>
+			<td>
+				19,9 kWh/100km / 3,1 mi/kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="../../../../../guides/understandingrange/epa/ ">
+					EPA række top trim
+				</a>
+			</td>
+			<td>
+				438 km / 272 mi
+			</td>
+			<td>
+				19,9 kWh/100km / 3,1 mi/kWh
+			</td>
+		</tr>
 	</tbody>
 </table>
 </div>
@@ -102,6 +128,28 @@ Tabellen nedenfor viser, hvordan tænding for opvarmning/køling på en kold/var
 			</td>
 			<td>
 				-19,7%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA-serie grundlæggende trim med 2KW AC
+			</td>
+			<td>
+				360 km / 224 mi
+			</td>
+			<td>
+				-17,8%
+			</td>
+		</tr>
+		<tr>
+			<td>
+				EPA række topbeklædning med 2KW AC
+			</td>
+			<td>
+				360 km / 224 mi
+			</td>
+			<td>
+				-17,8%
 			</td>
 		</tr>
 	</tbody>
