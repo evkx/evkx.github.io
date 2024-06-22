@@ -67,6 +67,9 @@ La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cet
 
 
 
+### Freinage régénératif
+
+
 
 ## Extérieur
 

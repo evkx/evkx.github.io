@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Tesla Mod
 				Couple de sortie électrique
 			</td>
 			<td>
-				1420 nm (1048 ft-lb)
+				1420 nm (1048 lb-ft)
 			</td>
 		</tr>
 		<tr>

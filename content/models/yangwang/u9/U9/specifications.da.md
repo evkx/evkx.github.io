@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for YangWang U9. Klik 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1680 nm (1240 ft-lb)
+				1680 nm (1240 lb-ft)
 			</td>
 		</tr>
 		<tr>

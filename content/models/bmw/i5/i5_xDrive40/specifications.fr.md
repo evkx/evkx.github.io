@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i5 xD
 				Couple de sortie électrique
 			</td>
 			<td>
-				590 nm (435 ft-lb)
+				590 nm (435 lb-ft)
 			</td>
 		</tr>
 		<tr>

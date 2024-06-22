@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW i7 xDrive60. K
 				Elektrisk momentudgang
 			</td>
 			<td>
-				745 nm (550 ft-lb)
+				745 nm (550 lb-ft)
 			</td>
 		</tr>
 		<tr>

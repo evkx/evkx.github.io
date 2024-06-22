@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID.4 Pr
 				Elektrisk momentudgang
 			</td>
 			<td>
-				425 nm (314 ft-lb)
+				425 nm (314 lb-ft)
 			</td>
 		</tr>
 		<tr>

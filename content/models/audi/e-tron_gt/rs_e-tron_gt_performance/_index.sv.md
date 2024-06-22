@@ -82,6 +82,9 @@ Dynamisk styrning är standard-funktionen för Audi RS e-tron GT performance. Dy
 
 Du kan välja mellan olika bromssystem. Bromsarna standard använder vanliga [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 360mm och de bakre skivorna är 358mm. Bromsarna second använder en [volframkarbidbelagd gjutjärnsskiva](../../../../technology/brakes/#carbide brakes) . Den rostar inte och producerar nästan inget bromsdamm. De främre skivorna är 410mm och de bakre skivorna är 365mm. Bromsarna för alternativet third använder [keramiska skivor](../../../../technology/brakes/#ceramic-brakes). De främre skivorna är 420mm och de bakre skivorna är 410mm.
 
+
+### Regenerativ bromsning
+
 [Regenerativ bromsning](../../../../technology/regen/) finns i flera lägen. Det mest effektiva är [adaptiv regenerering](../../../../technology/regen/#adaptiv-regen).I det här läget rullar bilen när det är möjligt och använder regenerativ bromsning för att minska hastigheten. Du kan också aktivera [enpedalskörning](../../../../technology/regen/#one-pedal-driving). Vid låga hastigheter kommer körläget med en pedal att hålla bilen i rullning tills den stannar av sig själv. Du kan justera hur stark regen du blir när du lyfter foten. Det finns tre nivåer.
 
 ## Exteriör

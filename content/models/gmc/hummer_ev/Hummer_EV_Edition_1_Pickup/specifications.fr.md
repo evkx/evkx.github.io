@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour GMC Humme
 				Couple de sortie électrique
 			</td>
 			<td>
-				1150 nm (849 ft-lb)
+				1150 nm (849 lb-ft)
 			</td>
 		</tr>
 		<tr>

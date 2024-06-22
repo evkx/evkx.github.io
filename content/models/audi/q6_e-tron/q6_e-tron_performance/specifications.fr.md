@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi Q6 e
 				Couple de sortie électrique
 			</td>
 			<td>
-				485 nm (358 ft-lb)
+				485 nm (358 lb-ft)
 			</td>
 		</tr>
 		<tr>

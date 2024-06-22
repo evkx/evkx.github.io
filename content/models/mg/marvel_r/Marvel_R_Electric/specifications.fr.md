@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour MG Marvel
 				Couple de sortie électrique
 			</td>
 			<td>
-				410 nm (303 ft-lb)
+				410 nm (303 lb-ft)
 			</td>
 		</tr>
 		<tr>

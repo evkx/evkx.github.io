@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Nio ET9. Klik på 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				900 nm (664 ft-lb)
+				900 nm (664 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Li Auto MEGA. Klik
 				Elektrisk momentudgang
 			</td>
 			<td>
-				542 nm (400 ft-lb)
+				542 nm (400 lb-ft)
 			</td>
 		</tr>
 		<tr>

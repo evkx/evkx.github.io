@@ -66,6 +66,9 @@ Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double
 
 
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig via [én-pedalkørsel](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller friløb er ikke tilgængelig i denne model. Du kan vælge mellem to stoptilstande til kørsel med én pedal. Holdtilstand stopper bilen fuldstændigt ved hjælp af friktionsbremser, og krybetilstand vil krybe bilen fremad ved lav hastighed.
 
 ## Udvendig

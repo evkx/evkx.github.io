@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Kia Niro 
 				Couple de sortie électrique
 			</td>
 			<td>
-				255 nm (188 ft-lb)
+				255 nm (188 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Rolls-Roy
 				Couple de sortie électrique
 			</td>
 			<td>
-				900 nm (664 ft-lb)
+				900 nm (664 lb-ft)
 			</td>
 		</tr>
 		<tr>

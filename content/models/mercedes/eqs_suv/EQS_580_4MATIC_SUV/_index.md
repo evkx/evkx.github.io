@@ -70,6 +70,9 @@ Dynamic steering is a standard feature on the Mercedes-EQ EQS 580 4MATIC SUV. Dy
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 415mm, and the rear discs are 378mm.
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). You can choose between two stopping modes for one-pedal driving. Hold mode stops the car completely using friction brakes, and roll mode causes the vehicle to roll until it stops by itself.
 
 ## Exterior

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi e-tr
 				Couple de sortie électrique
 			</td>
 			<td>
-				540 nm (399 ft-lb)
+				540 nm (399 lb-ft)
 			</td>
 		</tr>
 		<tr>

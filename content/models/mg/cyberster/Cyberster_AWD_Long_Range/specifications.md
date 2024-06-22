@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for MG Cyberster AWD Lon
 				Electrical torque output
 			</td>
 			<td>
-				725 nm (535 ft-lb)
+				725 nm (535 lb-ft)
 			</td>
 		</tr>
 		<tr>

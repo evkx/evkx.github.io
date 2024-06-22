@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour VinFast V
 				Couple de sortie électrique
 			</td>
 			<td>
-				500 nm (369 ft-lb)
+				500 nm (369 lb-ft)
 			</td>
 		</tr>
 		<tr>

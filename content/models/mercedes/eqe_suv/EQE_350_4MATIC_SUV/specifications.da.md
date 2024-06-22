@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Mercedes-EQ EQE 35
 				Elektrisk momentudgang
 			</td>
 			<td>
-				765 nm (565 ft-lb)
+				765 nm (565 lb-ft)
 			</td>
 		</tr>
 		<tr>

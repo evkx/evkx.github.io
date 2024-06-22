@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Lucid Gravity Drea
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1000 nm (738 ft-lb)
+				1000 nm (738 lb-ft)
 			</td>
 		</tr>
 		<tr>

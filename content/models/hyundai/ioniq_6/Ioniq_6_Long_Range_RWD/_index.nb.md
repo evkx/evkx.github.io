@@ -66,6 +66,9 @@ Hyundai Ioniq 6 Long Range RWD har et bakhjulsdriftssystem støttet av en motor 
 
 
 
+
+### Regenerativ bremsing
+
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual-regen-bruker-bremsepedal) for å regenere.
 
 ## Eksteriør

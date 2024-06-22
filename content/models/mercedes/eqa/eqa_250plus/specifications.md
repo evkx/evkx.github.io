@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQA 250+
 				Electrical torque output
 			</td>
 			<td>
-				385 nm (284 ft-lb)
+				385 nm (284 lb-ft)
 			</td>
 		</tr>
 		<tr>

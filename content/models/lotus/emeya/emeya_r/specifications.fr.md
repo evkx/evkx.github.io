@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Lotus Eme
 				Couple de sortie électrique
 			</td>
 			<td>
-				985 nm (727 ft-lb)
+				985 nm (727 lb-ft)
 			</td>
 		</tr>
 		<tr>

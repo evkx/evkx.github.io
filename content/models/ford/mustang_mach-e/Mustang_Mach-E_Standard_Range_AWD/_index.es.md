@@ -70,6 +70,9 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 457 mm y los discos traseros de 432 mm.
 
+
+### Frenado regenerativo
+
 [Frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puedes usar [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-usando-el-pedal-de-freno) para regenerar. Puedes elegir entre dos modos de parada para conducir con un solo pedal. El modo Hold detiene el automóvil por completo usando frenos de fricción, y el modo Roll hace que el vehículo ruede hasta detenerse por sí solo.
 
 ## Exterior

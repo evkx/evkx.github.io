@@ -81,6 +81,9 @@ The YangWang U9 lets the user select different [drive modes](../../../../technol
 
 The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 390mm, and the rear discs are 390mm.
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. The system stops the car completely using friction brakes. You can adjust how strong regen you get when you lift the foot. There are two levels.
 
 ## Exterior

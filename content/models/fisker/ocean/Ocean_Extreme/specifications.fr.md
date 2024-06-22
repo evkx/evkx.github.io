@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Fisker Oc
 				Couple de sortie électrique
 			</td>
 			<td>
-				696 nm (514 ft-lb)
+				696 nm (514 lb-ft)
 			</td>
 		</tr>
 		<tr>

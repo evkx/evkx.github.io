@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BMW iX3. Click on im
 				Electrical torque output
 			</td>
 			<td>
-				400 nm (295 ft-lb)
+				400 nm (295 lb-ft)
 			</td>
 		</tr>
 		<tr>

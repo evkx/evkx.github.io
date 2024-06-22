@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Smart #3 Brabus. Cli
 				Electrical torque output
 			</td>
 			<td>
-				543 nm (401 ft-lb)
+				543 nm (401 lb-ft)
 			</td>
 		</tr>
 		<tr>

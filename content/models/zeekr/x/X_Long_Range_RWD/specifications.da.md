@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Zeekr X Long Range
 				Elektrisk momentudgang
 			</td>
 			<td>
-				343 nm (253 ft-lb)
+				343 nm (253 lb-ft)
 			</td>
 		</tr>
 		<tr>

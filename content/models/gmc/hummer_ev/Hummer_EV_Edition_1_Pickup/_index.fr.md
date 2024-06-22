@@ -66,6 +66,9 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 
 
 
+
+### Freinage régénératif
+
 [Freinage régénératif](../../../../technology/regen/) est disponible via [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) combiné avec des [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal). [ La régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible dans ce modèle.
 
 ## Extérieur

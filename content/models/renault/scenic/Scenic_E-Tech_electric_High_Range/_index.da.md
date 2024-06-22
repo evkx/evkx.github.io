@@ -70,6 +70,9 @@ Dynamisk styring er en valgfri-funktion på Renault Scenic E-Tech electric High 
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [en-pedalkørsel](../../../../technology/regen/#one-pedal-driving), eller du kan friløbe og bruge [blendede bremser](../../../../technology/regen/#manual-regen-bruger-bremsepedal) for at regenere.
 
 ## Udvendig

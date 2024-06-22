@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Li Auto M
 				Couple de sortie électrique
 			</td>
 			<td>
-				542 nm (400 ft-lb)
+				542 nm (400 lb-ft)
 			</td>
 		</tr>
 		<tr>

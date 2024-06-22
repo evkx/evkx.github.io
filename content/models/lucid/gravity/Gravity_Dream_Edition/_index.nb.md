@@ -72,6 +72,9 @@ Dynamisk styring er standard-funksjonen på Lucid Gravity Dream Edition. Dynamis
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 386mm, og de bakre skivene er 381mm.
 
+
+### Regenerativ bremsing
+
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). [Adaptiv regen](../../../../technology/regen/#adaptive-regen) eller coasting er ikke tilgjengelig på denne modellen. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser.
 
 ## Eksteriør

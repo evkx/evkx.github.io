@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Audi e-tron S. Click
 				Electrical torque output
 			</td>
 			<td>
-				561 nm (414 ft-lb)
+				561 nm (414 lb-ft)
 			</td>
 		</tr>
 		<tr>

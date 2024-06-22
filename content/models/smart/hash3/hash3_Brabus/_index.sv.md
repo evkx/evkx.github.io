@@ -70,6 +70,9 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 350mm och de bakre skivorna är 333mm.
 
+
+### Regenerativ bromsning
+
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig genom [enpedalkörning](../../../../technology/regen/#one-pedal-driving) kombinerat med [blandade bromsar](../../../../technology/regen/#manual-regen-using-brake-pedal). [ Adaptiv regen](../../../../technology/regen/#adaptiv-regen) är inte tillgänglig i den här modellen.
 
 ## Exteriör

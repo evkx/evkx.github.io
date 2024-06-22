@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for MG Marvel R Electric
 				Electrical torque output
 			</td>
 			<td>
-				410 nm (303 ft-lb)
+				410 nm (303 lb-ft)
 			</td>
 		</tr>
 		<tr>

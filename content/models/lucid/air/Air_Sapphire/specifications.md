@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Lucid Air Sapphire. 
 				Electrical torque output
 			</td>
 			<td>
-				1390 nm (1026 ft-lb)
+				1390 nm (1026 lb-ft)
 			</td>
 		</tr>
 		<tr>

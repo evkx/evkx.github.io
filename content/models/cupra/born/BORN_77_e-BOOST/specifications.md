@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for CUPRA BORN 77 e-BOOS
 				Electrical torque output
 			</td>
 			<td>
-				310 nm (229 ft-lb)
+				310 nm (229 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Lotus Emeya R. Kli
 				Elektrisk momentudgang
 			</td>
 			<td>
-				985 nm (727 ft-lb)
+				985 nm (727 lb-ft)
 			</td>
 		</tr>
 		<tr>

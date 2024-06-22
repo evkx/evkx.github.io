@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for VOYAH FREE. Klik p
 				Elektrisk momentudgang
 			</td>
 			<td>
-				720 nm (531 ft-lb)
+				720 nm (531 lb-ft)
 			</td>
 		</tr>
 		<tr>

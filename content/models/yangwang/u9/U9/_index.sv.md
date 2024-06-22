@@ -81,6 +81,9 @@ YangWang U9 låter användaren välja olika [drivemodes](../../../../technology/
 
 Bromsar bak och fram är [keramiska skivor](../../../../technology/brakes/#ceramic-brakes). De främre skivorna är 390mm och de bakre skivorna är 390mm.
 
+
+### Regenerativ bromsning
+
 [Regenerativ bromsning](../../../../technology/regen/) finns i två lägen. Du kan använda [enpedalutrullning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla ut och använda [blinda bromsar](../../../../technology/regen/#manual-regen-user-brakepedal) för att regenerera. Systemet stoppar bilen helt med friktionsbromsar. Du kan justera hur stark regen är när du lyfter foten. Det finns två nivåer.
 
 ## Exteriör

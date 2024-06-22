@@ -82,6 +82,9 @@ Dynamisk styring er en standard-funktion på Porsche Taycan Turbo S (GEN1). Dyna
 
 Bremserne bag og foran er [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De forreste skiver er 420mm, og de bagerste skiver er 410mm.
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i flere tilstande. Den mest effektive er [automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive). I denne tilstand kører bilen fri, når det er muligt og bruger regenerativ bremsning til at reducere hastigheden. Du kan også aktivere [en-pedalkørsel](../../../../technology/regen/#one-pedal-driving).
 
 ## Udvendig

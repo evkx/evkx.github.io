@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Porsche M
 				Couple de sortie électrique
 			</td>
 			<td>
-				1130 nm (834 ft-lb)
+				1130 nm (834 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -78,6 +78,9 @@ La dirección dinámica es una característica un estándar en el Porsche Taycan
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 410 mm y los discos traseros de 365 mm.
 
+
+### Frenado regenerativo
+
 [Frenado regenerativo](../../../../technology/regen/) está disponible en varios modos. El más eficiente es [regeneración automática](../../../../technology/regen/#automatic-regen-adaptive). En este modo, el automóvil avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad. También puede habilitar [conducción con un solo pedal](../../../../technology/regen/#conducción-con-un-pedal).
 
 ## Exterior

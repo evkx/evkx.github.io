@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for MG Cyberster AWD L
 				Elektrisk momentudgang
 			</td>
 			<td>
-				725 nm (535 ft-lb)
+				725 nm (535 lb-ft)
 			</td>
 		</tr>
 		<tr>

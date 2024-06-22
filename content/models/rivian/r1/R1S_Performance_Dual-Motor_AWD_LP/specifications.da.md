@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Rivian R1S Perform
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1123 nm (829 ft-lb)
+				1123 nm (829 lb-ft)
 			</td>
 		</tr>
 		<tr>

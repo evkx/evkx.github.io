@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Peugot E-
 				Couple de sortie électrique
 			</td>
 			<td>
-				345 nm (255 ft-lb)
+				345 nm (255 lb-ft)
 			</td>
 		</tr>
 		<tr>

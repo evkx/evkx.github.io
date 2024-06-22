@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Nio ET9. Click on im
 				Electrical torque output
 			</td>
 			<td>
-				900 nm (664 ft-lb)
+				900 nm (664 lb-ft)
 			</td>
 		</tr>
 		<tr>

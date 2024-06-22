@@ -73,6 +73,9 @@ VinFast VF8 Plus lader brugeren vælge forskellige [drive modes](../../../../tec
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 375mm, og de bagerste skiver er 341mm.
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig via [én-pedalkørsel](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller friløb er ikke tilgængelig i denne model. Du kan vælge mellem to stoptilstande til kørsel med én pedal. Rulletilstand får køretøjet til at rulle, indtil det stopper af sig selv, og krybetilstand vil krybe bilen fremad ved lav hastighed . Du kan justere, hvor stærk regen du får, når du løfter foden. Der er to niveauer.
 
 ## Udvendig

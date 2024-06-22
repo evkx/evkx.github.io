@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for MG MG4 Electric XP
 				Elektrisk momentudgang
 			</td>
 			<td>
-				600 nm (443 ft-lb)
+				600 nm (443 lb-ft)
 			</td>
 		</tr>
 		<tr>

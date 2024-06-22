@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Xiaomi SU7 Max. Kl
 				Elektrisk momentudgang
 			</td>
 			<td>
-				838 nm (618 ft-lb)
+				838 nm (618 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Acura ZDX Type S. Cl
 				Electrical torque output
 			</td>
 			<td>
-				737 nm (544 ft-lb)
+				737 nm (544 lb-ft)
 			</td>
 		</tr>
 		<tr>

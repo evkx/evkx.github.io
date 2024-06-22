@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Chevrolet Blazer E
 				Elektrisk momentudgang
 			</td>
 			<td>
-				880 nm (649 ft-lb)
+				880 nm (649 lb-ft)
 			</td>
 		</tr>
 		<tr>

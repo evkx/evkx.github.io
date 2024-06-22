@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQS 53 
 				Electrical torque output
 			</td>
 			<td>
-				858 nm (633 ft-lb)
+				858 nm (633 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +87,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-AMG EQS 53 
 				Electrical torque output
 			</td>
 			<td>
-				1020 nm (753 ft-lb)
+				1020 nm (753 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -74,6 +74,9 @@ La dirección dinámica es una característica un estándar en el HiPhi X 6 Seat
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
 
+
+### Frenado regenerativo
+
 A bajas velocidades, el modo de conducción con un solo pedal mantendrá el coche en marcha hasta que se detenga por sí solo.
 
 ## Exterior

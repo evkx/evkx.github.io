@@ -66,6 +66,9 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bromsning
+
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig genom [enpedalkörning](../../../../technology/regen/#one-pedal-driving). [Adaptive regen](../../../../technology/regen/#adaptive-regen) eller frirullning är inte tillgänglig på denna modell. Vid låga hastigheter kommer körläget med en pedal att hålla bilen i rullning tills den stannar av sig själv.
 
 ## Exteriör

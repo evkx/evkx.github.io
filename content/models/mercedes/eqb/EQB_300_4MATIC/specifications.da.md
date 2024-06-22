@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Mercedes-EQ EQB 30
 				Elektrisk momentudgang
 			</td>
 			<td>
-				390 nm (288 ft-lb)
+				390 nm (288 lb-ft)
 			</td>
 		</tr>
 		<tr>

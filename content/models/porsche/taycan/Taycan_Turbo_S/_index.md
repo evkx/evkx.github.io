@@ -76,6 +76,9 @@ Dynamic steering is a standard feature on the Porsche Taycan Turbo S. Dynamic st
 
 The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 420mm, and the rear discs are 410mm.
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving).
 
 ## Exterior

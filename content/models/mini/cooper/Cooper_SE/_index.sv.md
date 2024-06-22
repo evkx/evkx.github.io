@@ -65,6 +65,9 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 
 
+### Regenerativ bromsning
+
+
 
 ## Exteriör
 

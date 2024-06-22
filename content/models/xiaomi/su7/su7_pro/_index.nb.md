@@ -70,6 +70,9 @@ Dynamisk styring er standard-funksjonen på Xiaomi SU7 Pro. Dynamisk styring var
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bremsing
+
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedal kjøring](../../../../technology/regen/#one-pedal-driving) kombinert med [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal). [Adaptiv regen](../../../../technology/regen/#adaptiv-regen) er ikke tilgjengelig i denne modellen. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser.
 
 ## Eksteriør

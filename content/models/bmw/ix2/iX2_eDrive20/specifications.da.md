@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW iX2 eDrive20. 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				247 nm (182 ft-lb)
+				247 nm (182 lb-ft)
 			</td>
 		</tr>
 		<tr>

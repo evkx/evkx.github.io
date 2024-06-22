@@ -67,6 +67,9 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 
 
+### Regenerativ bremsning
+
+
 
 ## Udvendig
 

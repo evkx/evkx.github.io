@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Audi e-tron GT. Clic
 				Electrical torque output
 			</td>
 			<td>
-				630 nm (465 ft-lb)
+				630 nm (465 lb-ft)
 			</td>
 		</tr>
 		<tr>

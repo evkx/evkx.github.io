@@ -66,6 +66,9 @@ Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [en-pedalkørsel](../../../../technology/regen/#one-pedal-driving), eller du kan friløbe og bruge [blendede bremser](../../../../technology/regen/#manual-regen-bruger-bremsepedal) for at regenere. Ved lave hastigheder vil en-pedal køretilstand holde bilen kørende, indtil den stopper af sig selv. Du kan justere, hvor stærk regen du får, når du løfter foden. Der er to niveauer.
 
 ## Udvendig

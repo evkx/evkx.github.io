@@ -71,6 +71,9 @@ La dirección dinámica es una característica un estándar en el HiPhi Y Perfor
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
 
 
+### Frenado regenerativo
+
+
 
 ## Exterior
 

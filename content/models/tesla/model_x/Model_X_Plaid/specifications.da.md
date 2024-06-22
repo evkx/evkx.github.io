@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Tesla Model X Plai
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1020 nm (753 ft-lb)
+				1020 nm (753 lb-ft)
 			</td>
 		</tr>
 		<tr>

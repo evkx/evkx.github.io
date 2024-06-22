@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Smart #3 
 				Couple de sortie électrique
 			</td>
 			<td>
-				543 nm (401 ft-lb)
+				543 nm (401 lb-ft)
 			</td>
 		</tr>
 		<tr>

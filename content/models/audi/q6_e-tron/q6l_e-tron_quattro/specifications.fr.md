@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi Q6L 
 				Couple de sortie électrique
 			</td>
 			<td>
-				650 nm (480 ft-lb)
+				650 nm (480 lb-ft)
 			</td>
 		</tr>
 		<tr>

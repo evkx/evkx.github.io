@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Alfa Romeo Junior 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				400 nm (295 ft-lb)
+				400 nm (295 lb-ft)
 			</td>
 		</tr>
 		<tr>

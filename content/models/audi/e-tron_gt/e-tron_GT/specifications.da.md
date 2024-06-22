@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi e-tron GT. Kl
 				Elektrisk momentudgang
 			</td>
 			<td>
-				630 nm (465 ft-lb)
+				630 nm (465 lb-ft)
 			</td>
 		</tr>
 		<tr>

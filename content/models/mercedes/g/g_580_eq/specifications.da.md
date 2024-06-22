@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Mercedes-EQ G 580 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1164 nm (859 ft-lb)
+				1164 nm (859 lb-ft)
 			</td>
 		</tr>
 		<tr>

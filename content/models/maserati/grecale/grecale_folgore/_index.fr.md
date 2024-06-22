@@ -80,6 +80,9 @@ Le Maserati Grecale Folgore permet à l'utilisateur de sélectionner différents
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 350 mm et les disques arrière mesurent 350 mm.
 
+
+### Freinage régénératif
+
 [Freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler en roue libre et utiliser les [freins mixtes](../../../../technology/regen/#manual -régénération-à l'aide de la pédale de frein) pour régénérer. À basse vitesse, le mode de conduite à une pédale permettra à la voiture d'avancer. Vous pouvez ajuster la force de régénération que vous obtenez lorsque vous levez le pied. Il y a trois niveaux.
 
 ## Extérieur

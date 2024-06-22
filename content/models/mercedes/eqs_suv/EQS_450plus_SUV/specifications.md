@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQS 450+
 				Electrical torque output
 			</td>
 			<td>
-				568 nm (419 ft-lb)
+				568 nm (419 lb-ft)
 			</td>
 		</tr>
 		<tr>

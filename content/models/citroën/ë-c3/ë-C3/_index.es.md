@@ -70,6 +70,9 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
 
+
+### Frenado regenerativo
+
 A bajas velocidades, el modo de conducción con un solo pedal mantendrá el automóvil avanzando lentamente.
 
 ## Exterior

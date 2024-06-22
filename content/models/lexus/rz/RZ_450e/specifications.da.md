@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Lexus RZ 450e. Kli
 				Elektrisk momentudgang
 			</td>
 			<td>
-				435 nm (321 ft-lb)
+				435 nm (321 lb-ft)
 			</td>
 		</tr>
 		<tr>

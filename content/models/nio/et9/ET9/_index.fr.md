@@ -73,6 +73,9 @@ La direction dynamique est une fonctionnalité un standard sur le Nio ET9. La di
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
 
+
+### Freinage régénératif
+
 [Freinage régénératif](../../../../technology/regen/) est disponible via [conduite à une pédale](../../../../technology/regen/#one-pedal-driving). [Régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la roue libre n'est pas disponible dans ce modèle. À basse vitesse, le mode de conduite à une pédale permettra à la voiture d'avancer. Vous pouvez ajuster la force de régénération que vous obtenez lorsque vous levez le pied. Il y a trois niveaux.
 
 ## Extérieur

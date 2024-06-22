@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID. Buzz 
 				Electrical torque output
 			</td>
 			<td>
-				560 nm (413 ft-lb)
+				560 nm (413 lb-ft)
 			</td>
 		</tr>
 		<tr>

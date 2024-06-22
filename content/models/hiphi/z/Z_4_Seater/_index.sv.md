@@ -75,6 +75,9 @@ Dynamisk styrning är standard-funktionen för HiPhi Z 4 Seater. Dynamisk styrni
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
 
 
+### Regenerativ bromsning
+
+
 
 ## Exteriör
 

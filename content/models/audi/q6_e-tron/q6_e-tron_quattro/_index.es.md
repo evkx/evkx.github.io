@@ -91,6 +91,9 @@ El Audi Q6 e-tron quattro permite al usuario seleccionar diferentes [modos de co
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 375 mm y los discos traseros de 350 mm.
 
+
+### Frenado regenerativo
+
 [Frenado regenerativo](../../../../technology/regen/) está disponible en varios modos. El más eficiente es [regeneración automática](../../../../technology/regen/#automatic-regen-adaptive). En este modo, el automóvil avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad. También puede habilitar [conducción con un solo pedal](../../../../technology/regen/#conducción-con-un-pedal). Puedes elegir entre tres modos de parada para conducir con un solo pedal. El modo Hold detiene el auto por completo usando frenos de fricción, el modo Roll hace que el vehículo ruede hasta que se detenga por sí solo y El modo lento hará que el auto avance lentamente a baja velocidad. Puedes ajustar la fuerza de regeneración que obtienes cuando levantas el pie. Hay dos niveles.
 
 ## Exterior

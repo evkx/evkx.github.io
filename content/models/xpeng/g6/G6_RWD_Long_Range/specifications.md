@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for XPENG G6 RWD Long Ra
 				Electrical torque output
 			</td>
 			<td>
-				440 nm (325 ft-lb)
+				440 nm (325 lb-ft)
 			</td>
 		</tr>
 		<tr>

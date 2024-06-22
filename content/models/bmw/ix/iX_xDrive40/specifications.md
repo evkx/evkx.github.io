@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BMW iX xDrive40. Cli
 				Electrical torque output
 			</td>
 			<td>
-				630 nm (465 ft-lb)
+				630 nm (465 lb-ft)
 			</td>
 		</tr>
 		<tr>

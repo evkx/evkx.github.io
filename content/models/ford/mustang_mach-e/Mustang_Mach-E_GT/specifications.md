@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Ford Mustang Mach-E 
 				Electrical torque output
 			</td>
 			<td>
-				860 nm (635 ft-lb)
+				860 nm (635 lb-ft)
 			</td>
 		</tr>
 		<tr>

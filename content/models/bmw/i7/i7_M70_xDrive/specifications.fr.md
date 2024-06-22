@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i7 M7
 				Couple de sortie électrique
 			</td>
 			<td>
-				1015 nm (749 ft-lb)
+				1015 nm (749 lb-ft)
 			</td>
 		</tr>
 		<tr>

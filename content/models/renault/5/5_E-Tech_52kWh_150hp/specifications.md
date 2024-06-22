@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Renault 5 E-Tech 52k
 				Electrical torque output
 			</td>
 			<td>
-				245 nm (181 ft-lb)
+				245 nm (181 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Rivian R1S Quad-Mo
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1231 nm (908 ft-lb)
+				1231 nm (908 lb-ft)
 			</td>
 		</tr>
 		<tr>

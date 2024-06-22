@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour CUPRA BOR
 				Couple de sortie électrique
 			</td>
 			<td>
-				310 nm (229 ft-lb)
+				310 nm (229 lb-ft)
 			</td>
 		</tr>
 		<tr>

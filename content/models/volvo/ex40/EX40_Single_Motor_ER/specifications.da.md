@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volvo EX40 Single 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				420 nm (310 ft-lb)
+				420 nm (310 lb-ft)
 			</td>
 		</tr>
 		<tr>

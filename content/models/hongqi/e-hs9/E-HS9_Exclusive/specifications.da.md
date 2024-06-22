@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Hongqi E-HS9 Exclu
 				Elektrisk momentudgang
 			</td>
 			<td>
-				670 nm (494 ft-lb)
+				670 nm (494 lb-ft)
 			</td>
 		</tr>
 		<tr>

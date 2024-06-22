@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Mini Coop
 				Couple de sortie électrique
 			</td>
 			<td>
-				330 nm (244 ft-lb)
+				330 nm (244 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -76,6 +76,9 @@ Dynamisk styring er standard-funksjonen på Porsche Taycan Turbo Cross Turismo. 
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 410mm, og de bakre skivene er 365mm.
 
+
+### Regenerativ bremsing
+
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [adaptiv regenerering](../../../../technology/regen/#adaptiv-regen). I denne modusen ruller bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving).
 
 ## Eksteriør

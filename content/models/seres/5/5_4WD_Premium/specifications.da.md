@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Seres 5 4WD Premiu
 				Elektrisk momentudgang
 			</td>
 			<td>
-				940 nm (694 ft-lb)
+				940 nm (694 lb-ft)
 			</td>
 		</tr>
 		<tr>

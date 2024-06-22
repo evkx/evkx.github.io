@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi e-tron 50 Spo
 				Elektrisk momentudgang
 			</td>
 			<td>
-				540 nm (399 ft-lb)
+				540 nm (399 lb-ft)
 			</td>
 		</tr>
 		<tr>

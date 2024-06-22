@@ -65,6 +65,9 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 
 
+### Regenerativ bremsing
+
+
 
 ## Eksteriør
 

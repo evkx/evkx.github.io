@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Tesla Model X. Kli
 				Elektrisk momentudgang
 			</td>
 			<td>
-				800 nm (590 ft-lb)
+				800 nm (590 lb-ft)
 			</td>
 		</tr>
 		<tr>

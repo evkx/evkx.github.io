@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Cadillac 
 				Couple de sortie électrique
 			</td>
 			<td>
-				610 nm (450 ft-lb)
+				610 nm (450 lb-ft)
 			</td>
 		</tr>
 		<tr>

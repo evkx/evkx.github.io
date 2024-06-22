@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Citroën ë-C3. Kl
 				Elektrisk momentudgang
 			</td>
 			<td>
-				120 nm (89 ft-lb)
+				120 nm (89 lb-ft)
 			</td>
 		</tr>
 		<tr>

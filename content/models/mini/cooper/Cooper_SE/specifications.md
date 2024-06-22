@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Mini Cooper SE. Clic
 				Electrical torque output
 			</td>
 			<td>
-				330 nm (244 ft-lb)
+				330 nm (244 lb-ft)
 			</td>
 		</tr>
 		<tr>

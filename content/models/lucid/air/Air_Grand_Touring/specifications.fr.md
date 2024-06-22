@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Lucid Air
 				Couple de sortie électrique
 			</td>
 			<td>
-				1200 nm (886 ft-lb)
+				1200 nm (886 lb-ft)
 			</td>
 		</tr>
 		<tr>

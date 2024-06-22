@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Dacia Spring 65HP. C
 				Electrical torque output
 			</td>
 			<td>
-				113 nm (83 ft-lb)
+				113 nm (83 lb-ft)
 			</td>
 		</tr>
 		<tr>

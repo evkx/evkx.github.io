@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Zeekr 001 Performa
 				Elektrisk momentudgang
 			</td>
 			<td>
-				686 nm (506 ft-lb)
+				686 nm (506 lb-ft)
 			</td>
 		</tr>
 		<tr>

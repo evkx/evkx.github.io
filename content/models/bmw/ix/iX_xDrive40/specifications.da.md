@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW iX xDrive40. K
 				Elektrisk momentudgang
 			</td>
 			<td>
-				630 nm (465 ft-lb)
+				630 nm (465 lb-ft)
 			</td>
 		</tr>
 		<tr>

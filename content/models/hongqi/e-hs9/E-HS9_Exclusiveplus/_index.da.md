@@ -70,6 +70,9 @@ Dynamisk styring er en standard-funktion på Hongqi E-HS9 Exclusive+. Dynamisk s
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig via [én-pedalkørsel](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller friløb er ikke tilgængelig i denne model.
 
 ## Udvendig

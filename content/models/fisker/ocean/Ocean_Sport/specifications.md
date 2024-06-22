@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Fisker Ocean Sport. 
 				Electrical torque output
 			</td>
 			<td>
-				386 nm (285 ft-lb)
+				386 nm (285 lb-ft)
 			</td>
 		</tr>
 		<tr>

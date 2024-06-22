@@ -66,6 +66,9 @@ affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen,
 
 
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [en-pedalkørsel](../../../../technology/regen/#one-pedal-driving), eller du kan friløbe og bruge [blendede bremser](../../../../technology/regen/#manual-regen-bruger-bremsepedal) for at regenere.
 
 ## Udvendig

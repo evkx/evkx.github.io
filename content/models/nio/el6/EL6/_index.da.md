@@ -85,6 +85,9 @@ Dynamisk styring er en standard-funktion på Nio EL6. Dynamisk styring varierer 
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig via [én-pedalkørsel](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller friløb er ikke tilgængelig i denne model. Ved lave hastigheder vil en-pedal køretilstand holde bilen krybende fremad. Du kan justere, hvor stærk regen du får, når du løfter foden. Der er tre niveauer.
 
 ## Udvendig

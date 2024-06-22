@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Volvo EM90. Click on
 				Electrical torque output
 			</td>
 			<td>
-				686 nm (506 ft-lb)
+				686 nm (506 lb-ft)
 			</td>
 		</tr>
 		<tr>

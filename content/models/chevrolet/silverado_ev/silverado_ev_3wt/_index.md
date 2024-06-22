@@ -70,6 +70,9 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen.
 
 ## Exterior

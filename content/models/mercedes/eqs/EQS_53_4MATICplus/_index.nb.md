@@ -76,6 +76,9 @@ Dynamisk styring er standard-funksjonen på Mercedes-AMG EQS 53 4MATIC+. Dynamis
 
 Du kan velge mellom forskjellige bremsesystemer. Opsjonsbremsene standard bruker vanlige [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 415mm, og de bakre skivene er 378mm. Bremsene for second-alternativet bruker [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De fremre skivene er 440mm, og de bakre skivene er 378mm.
 
+
+### Regenerativ bremsing
+
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [adaptiv regenerering](../../../../technology/regen/#adaptiv-regen). I denne modusen ruller bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). Du kan velge mellom to stoppmoduser for enpedalkjøring. Holdmodus stopper bilen fullstendig ved hjelp av friksjonsbremser, og rullemodus får kjøretøyet til å rulle til det stopper av seg selv.
 
 ## Eksteriør

@@ -65,6 +65,9 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 
 
+### Regenerative braking
+
+
 
 ## Exterior
 

@@ -76,6 +76,9 @@ Dynamisk styring er en valgfri-funktion på Audi Q4 50 e-tron quattro. Dynamisk 
 
 
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i flere tilstande. Den mest effektive er [automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive). I denne tilstand kører bilen fri, når det er muligt og bruger regenerativ bremsning til at reducere hastigheden. Du kan også aktivere [en-pedalkørsel](../../../../technology/regen/#one-pedal-driving). Ved lave hastigheder vil en-pedal køretilstand holde bilen kørende, indtil den stopper af sig selv. Du kan justere, hvor stærk regen du får, når du løfter foden. Der er tre niveauer.
 
 ## Udvendig

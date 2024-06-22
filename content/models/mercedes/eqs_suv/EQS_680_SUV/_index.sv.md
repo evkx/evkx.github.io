@@ -70,6 +70,9 @@ Dynamisk styrning är standard-funktionen för Mercedes-Maybach EQS 680 SUV. Dyn
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 415mm och de bakre skivorna är 378mm.
 
+
+### Regenerativ bromsning
+
 [Regenerativ bromsning](../../../../technology/regen/) finns i flera lägen. Det mest effektiva är [adaptiv regenerering](../../../../technology/regen/#adaptiv-regen).I det här läget rullar bilen när det är möjligt och använder regenerativ bromsning för att minska hastigheten. Du kan också aktivera [enpedalskörning](../../../../technology/regen/#one-pedal-driving). Du kan välja mellan två stopplägen för enpedalkörning. Hold-läget stoppar fordonet helt med friktionsbromsar, och rullningsläget gör att fordonet rullar tills det stannar på sin egen.
 
 ## Exteriör

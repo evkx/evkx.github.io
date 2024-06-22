@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BYD Seagu
 				Couple de sortie électrique
 			</td>
 			<td>
-				135 nm (100 ft-lb)
+				135 nm (100 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Hongqi E-HS9 Comfo
 				Elektrisk momentudgang
 			</td>
 			<td>
-				300 nm (221 ft-lb)
+				300 nm (221 lb-ft)
 			</td>
 		</tr>
 		<tr>

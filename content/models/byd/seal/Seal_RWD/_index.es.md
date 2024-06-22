@@ -70,6 +70,9 @@ La dirección dinámica es una característica un estándar en el BYD Seal RWD. 
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
 
+
+### Frenado regenerativo
+
 [El frenado regenerativo](../../../../technology/regen/) está disponible a través de [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) combinado con [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal). [ La regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo. A bajas velocidades, el modo de conducción con un solo pedal mantendrá el automóvil avanzando lentamente.
 
 ## Exterior

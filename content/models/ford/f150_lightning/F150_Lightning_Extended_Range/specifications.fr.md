@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Ford F150
 				Couple de sortie électrique
 			</td>
 			<td>
-				1050 nm (775 ft-lb)
+				1050 nm (775 lb-ft)
 			</td>
 		</tr>
 		<tr>

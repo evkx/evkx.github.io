@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BYD Atto 3. Click on
 				Electrical torque output
 			</td>
 			<td>
-				310 nm (229 ft-lb)
+				310 nm (229 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -67,6 +67,9 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
 
 
+### Regenerativ bremsing
+
+
 
 ## Eksteriør
 

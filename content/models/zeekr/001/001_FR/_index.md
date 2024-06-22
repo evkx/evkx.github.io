@@ -66,6 +66,9 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 533mm, and the rear discs are 457mm.
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model.
 
 ## Exterior

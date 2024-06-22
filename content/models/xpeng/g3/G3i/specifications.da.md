@@ -39,7 +39,7 @@ EVKX.net s√∏ger at have de mest komplette specifikationer for XPENG G3i. Klik p√
 				Elektrisk momentudgang
 			</td>
 			<td>
-				300 nm (221 ft-lb)
+				300 nm (221 lb-ft)
 			</td>
 		</tr>
 		<tr>

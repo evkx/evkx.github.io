@@ -85,6 +85,9 @@ Le Audi SQ8 e-tron permet à l'utilisateur de sélectionner différents [modes d
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 375 mm et les disques arrière mesurent 350 mm.
 
+
+### Freinage régénératif
+
 [Freinage régénératif](../../../../technology/regen/) est disponible en plusieurs modes. Le plus efficace est [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive). Dans ce mode, la voiture roule en roue libre lorsque cela est possible et utilise le freinage par récupération pour réduire la vitesse. Vous pouvez également activer [la conduite à une pédale](../../../../technology/regen/#one-pedal-driving).
 
 ## Extérieur

@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Chevrolet Equinox 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				320 nm (236 ft-lb)
+				320 nm (236 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -67,6 +67,9 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 
 
+### Regenerative braking
+
+
 
 ## Exterior
 

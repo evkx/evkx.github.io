@@ -80,6 +80,9 @@ Le Fisker Ocean Extreme permet à l'utilisateur de sélectionner différents [mo
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
 
+
+### Freinage régénératif
+
 [Freinage régénératif](../../../../technology/regen/) est disponible via [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) combiné avec des [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal). [ La régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible dans ce modèle. À basse vitesse, le mode de conduite à une pédale maintiendra la voiture en mouvement jusqu'à ce qu'elle s'arrête d'elle-même. Vous pouvez ajuster la force de régénération que vous obtenez lorsque vous levez le pied. Il y a trois niveaux.
 
 ## Extérieur

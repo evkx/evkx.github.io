@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Dacia Spring 65HP.
 				Elektrisk momentudgang
 			</td>
 			<td>
-				113 nm (83 ft-lb)
+				113 nm (83 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -67,6 +67,9 @@ Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan
 
 
 
+### Regenerativ bromsning
+
+
 
 ## Exteriör
 

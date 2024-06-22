@@ -70,6 +70,9 @@ Dynamisk styring er standard-funksjonen på BYD Seagull 38kWh. Dynamisk styring 
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bremsing
+
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedal kjøring](../../../../technology/regen/#one-pedal-driving) kombinert med [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal). [Adaptiv regen](../../../../technology/regen/#adaptiv-regen) er ikke tilgjengelig i denne modellen.
 
 ## Eksteriør

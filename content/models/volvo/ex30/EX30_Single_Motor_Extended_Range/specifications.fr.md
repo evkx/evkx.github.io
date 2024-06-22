@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volvo EX3
 				Couple de sortie électrique
 			</td>
 			<td>
-				343 nm (253 ft-lb)
+				343 nm (253 lb-ft)
 			</td>
 		</tr>
 		<tr>

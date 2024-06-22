@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Nio ET5. Click on im
 				Electrical torque output
 			</td>
 			<td>
-				850 nm (627 ft-lb)
+				850 nm (627 lb-ft)
 			</td>
 		</tr>
 		<tr>

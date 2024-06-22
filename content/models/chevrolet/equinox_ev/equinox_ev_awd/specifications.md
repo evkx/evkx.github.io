@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Chevrolet Equinox EV
 				Electrical torque output
 			</td>
 			<td>
-				469 nm (346 ft-lb)
+				469 nm (346 lb-ft)
 			</td>
 		</tr>
 		<tr>

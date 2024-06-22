@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Chevrolet Silverado 
 				Electrical torque output
 			</td>
 			<td>
-				834 nm (615 ft-lb)
+				834 nm (615 lb-ft)
 			</td>
 		</tr>
 		<tr>

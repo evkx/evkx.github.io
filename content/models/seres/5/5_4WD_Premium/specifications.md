@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Seres 5 4WD Premium.
 				Electrical torque output
 			</td>
 			<td>
-				940 nm (694 ft-lb)
+				940 nm (694 lb-ft)
 			</td>
 		</tr>
 		<tr>

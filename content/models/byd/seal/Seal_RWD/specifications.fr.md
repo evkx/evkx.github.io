@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BYD Seal 
 				Couple de sortie électrique
 			</td>
 			<td>
-				360 nm (266 ft-lb)
+				360 nm (266 lb-ft)
 			</td>
 		</tr>
 		<tr>

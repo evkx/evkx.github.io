@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Chevrolet Silverad
 				Elektrisk momentudgang
 			</td>
 			<td>
-				834 nm (615 ft-lb)
+				834 nm (615 lb-ft)
 			</td>
 		</tr>
 		<tr>

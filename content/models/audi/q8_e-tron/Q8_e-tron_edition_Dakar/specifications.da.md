@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi Q8 e-tron edi
 				Elektrisk momentudgang
 			</td>
 			<td>
-				561 nm (414 ft-lb)
+				561 nm (414 lb-ft)
 			</td>
 		</tr>
 		<tr>

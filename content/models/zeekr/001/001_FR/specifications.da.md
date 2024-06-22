@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Zeekr 001 FR. Klik
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1200 nm (886 ft-lb)
+				1200 nm (886 lb-ft)
 			</td>
 		</tr>
 		<tr>

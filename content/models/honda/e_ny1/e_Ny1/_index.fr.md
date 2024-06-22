@@ -67,6 +67,9 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 
 
+### Freinage régénératif
+
+
 
 ## Extérieur
 

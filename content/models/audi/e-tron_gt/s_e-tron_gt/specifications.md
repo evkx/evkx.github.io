@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Audi S e-tron GT. Cl
 				Electrical torque output
 			</td>
 			<td>
-				740 nm (546 ft-lb)
+				740 nm (546 lb-ft)
 			</td>
 		</tr>
 		<tr>

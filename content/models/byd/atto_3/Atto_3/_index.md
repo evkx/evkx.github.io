@@ -70,6 +70,9 @@ Dynamic steering is a standard feature on the BYD Atto 3. Dynamic steering varie
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model.
 
 ## Exterior

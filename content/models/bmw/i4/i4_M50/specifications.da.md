@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW i4 M50. Klik p
 				Elektrisk momentudgang
 			</td>
 			<td>
-				795 nm (587 ft-lb)
+				795 nm (587 lb-ft)
 			</td>
 		</tr>
 		<tr>

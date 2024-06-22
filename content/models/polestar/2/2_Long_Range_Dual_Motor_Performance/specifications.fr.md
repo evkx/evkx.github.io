@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Polestar 
 				Couple de sortie électrique
 			</td>
 			<td>
-				740 nm (546 ft-lb)
+				740 nm (546 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Xiaomi SU7 Max. Clic
 				Electrical torque output
 			</td>
 			<td>
-				838 nm (618 ft-lb)
+				838 nm (618 lb-ft)
 			</td>
 		</tr>
 		<tr>

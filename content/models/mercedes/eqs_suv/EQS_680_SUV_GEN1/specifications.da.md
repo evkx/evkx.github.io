@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Mercedes-Maybach E
 				Elektrisk momentudgang
 			</td>
 			<td>
-				950 nm (701 ft-lb)
+				950 nm (701 lb-ft)
 			</td>
 		</tr>
 		<tr>

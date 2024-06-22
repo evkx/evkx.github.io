@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Subaru So
 				Couple de sortie électrique
 			</td>
 			<td>
-				337 nm (249 ft-lb)
+				337 nm (249 lb-ft)
 			</td>
 		</tr>
 		<tr>

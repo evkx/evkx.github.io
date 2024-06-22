@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Kia EV3 Long Range
 				Elektrisk momentudgang
 			</td>
 			<td>
-				283 nm (209 ft-lb)
+				283 nm (209 lb-ft)
 			</td>
 		</tr>
 		<tr>

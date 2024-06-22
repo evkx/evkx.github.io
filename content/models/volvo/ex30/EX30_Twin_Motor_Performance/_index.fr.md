@@ -66,6 +66,9 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 350 mm et les disques arrière mesurent 333 mm.
 
+
+### Freinage régénératif
+
 [Freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler en roue libre et utiliser les [freins mixtes](../../../../technology/regen/#manual -régénération-à l'aide de la pédale de frein) pour régénérer. Le système arrête complètement la voiture à l'aide des freins à friction.
 
 ## Extérieur

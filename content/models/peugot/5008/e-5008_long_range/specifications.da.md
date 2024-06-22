@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Peugot E-5008 Long
 				Elektrisk momentudgang
 			</td>
 			<td>
-				345 nm (255 ft-lb)
+				345 nm (255 lb-ft)
 			</td>
 		</tr>
 		<tr>

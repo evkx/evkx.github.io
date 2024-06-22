@@ -68,6 +68,9 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 
 
+
+### Regenerativ bromsning
+
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig genom [enpedalkörning](../../../../technology/regen/#one-pedal-driving). [Adaptive regen](../../../../technology/regen/#adaptive-regen) eller frirullning är inte tillgänglig på denna modell.
 
 ## Exteriör

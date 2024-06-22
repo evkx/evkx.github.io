@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Automobil
 				Couple de sortie électrique
 			</td>
 			<td>
-				2340 nm (1727 ft-lb)
+				2340 nm (1727 lb-ft)
 			</td>
 		</tr>
 		<tr>

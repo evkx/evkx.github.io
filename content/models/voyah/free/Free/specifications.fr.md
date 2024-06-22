@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour VOYAH FRE
 				Couple de sortie électrique
 			</td>
 			<td>
-				720 nm (531 ft-lb)
+				720 nm (531 lb-ft)
 			</td>
 		</tr>
 		<tr>

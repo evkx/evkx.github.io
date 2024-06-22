@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volvo EM9
 				Couple de sortie électrique
 			</td>
 			<td>
-				686 nm (506 ft-lb)
+				686 nm (506 lb-ft)
 			</td>
 		</tr>
 		<tr>

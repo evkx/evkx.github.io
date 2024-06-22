@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Cybertruck AWD
 				Electrical torque output
 			</td>
 			<td>
-				671 nm (495 ft-lb)
+				671 nm (495 lb-ft)
 			</td>
 		</tr>
 		<tr>

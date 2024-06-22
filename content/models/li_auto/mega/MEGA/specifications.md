@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Li Auto MEGA. Click 
 				Electrical torque output
 			</td>
 			<td>
-				542 nm (400 ft-lb)
+				542 nm (400 lb-ft)
 			</td>
 		</tr>
 		<tr>

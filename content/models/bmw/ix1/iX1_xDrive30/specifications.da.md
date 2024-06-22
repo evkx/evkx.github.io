@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW iX1 xDrive30. 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				494 nm (365 ft-lb)
+				494 nm (365 lb-ft)
 			</td>
 		</tr>
 		<tr>

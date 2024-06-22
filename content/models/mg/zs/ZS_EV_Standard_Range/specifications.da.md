@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for MG ZS EV Standard 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				280 nm (207 ft-lb)
+				280 nm (207 lb-ft)
 			</td>
 		</tr>
 		<tr>

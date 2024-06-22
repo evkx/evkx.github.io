@@ -66,6 +66,9 @@ The  suspension has steel springs with a fixed height, but you can adjust dampin
 
 
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen.
 
 ## Exterior

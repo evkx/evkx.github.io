@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW i5 xDrive40. K
 				Elektrisk momentudgang
 			</td>
 			<td>
-				590 nm (435 ft-lb)
+				590 nm (435 lb-ft)
 			</td>
 		</tr>
 		<tr>

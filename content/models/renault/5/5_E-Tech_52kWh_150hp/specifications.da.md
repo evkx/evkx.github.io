@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Renault 5 E-Tech 5
 				Elektrisk momentudgang
 			</td>
 			<td>
-				245 nm (181 ft-lb)
+				245 nm (181 lb-ft)
 			</td>
 		</tr>
 		<tr>

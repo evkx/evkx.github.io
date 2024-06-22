@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Subaru Solterra AW
 				Elektrisk momentudgang
 			</td>
 			<td>
-				337 nm (249 ft-lb)
+				337 nm (249 lb-ft)
 			</td>
 		</tr>
 		<tr>

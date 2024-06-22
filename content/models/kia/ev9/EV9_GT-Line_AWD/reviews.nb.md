@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Kia EV9 AWD | Long Trip Test</h3>
+<p>Kris Rifa: 21.06.2024</p>
+
+{{< youtube GrpfoVHxpGaWjF1kJlnQ0 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Least & Most Efficient Kia EV9s Compared! Don’t Expect That Much More Range On RWD</h3>
 <p>Out of Spec Reviews: 26.02.2024</p>
 

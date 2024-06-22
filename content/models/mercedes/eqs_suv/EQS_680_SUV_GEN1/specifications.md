@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-Maybach EQS
 				Electrical torque output
 			</td>
 			<td>
-				950 nm (701 ft-lb)
+				950 nm (701 lb-ft)
 			</td>
 		</tr>
 		<tr>

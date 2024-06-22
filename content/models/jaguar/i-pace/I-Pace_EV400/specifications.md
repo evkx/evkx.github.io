@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Jaguar I-Pace EV400.
 				Electrical torque output
 			</td>
 			<td>
-				696 nm (514 ft-lb)
+				696 nm (514 lb-ft)
 			</td>
 		</tr>
 		<tr>

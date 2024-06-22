@@ -66,6 +66,9 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
 
+
+### Freinage régénératif
+
 [Freinage régénératif](../../../../technology/regen/) est disponible via [conduite à une pédale](../../../../technology/regen/#one-pedal-driving). [Régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la roue libre n'est pas disponible dans ce modèle. À basse vitesse, le mode de conduite à une pédale maintiendra la voiture en mouvement jusqu'à ce qu'elle s'arrête d'elle-même.
 
 ## Extérieur

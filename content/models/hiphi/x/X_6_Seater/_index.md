@@ -74,6 +74,9 @@ Dynamic steering is a standard feature on the HiPhi X 6 Seater. Dynamic steering
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerative braking
+
 At low speeds, the one-pedal drive mode will keep the car rolling until it stops by itself.
 
 ## Exterior

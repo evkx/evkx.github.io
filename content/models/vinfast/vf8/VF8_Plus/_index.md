@@ -73,6 +73,9 @@ The VinFast VF8 Plus lets the user select different [drive modes](../../../../te
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 341mm.
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. You can choose between two stopping modes for one-pedal driving. Roll mode causes the vehicle to roll until it stops by itself, and creep mode will creep the car forward at low speed. You can adjust how strong regen you get when you lift the foot. There are two levels.
 
 ## Exterior

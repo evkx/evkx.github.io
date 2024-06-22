@@ -70,6 +70,9 @@ Lexus UX 300e har et forhjulsdriftssystem støttet av én motor på forakselen.
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 305mm, og de bakre skivene er 317mm.
 
+
+### Regenerativ bremsing
+
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [adaptiv regenerering](../../../../technology/regen/#adaptiv-regen). I denne modusen ruller bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). Ved lave hastigheter vil en-pedal kjøremodus holde bilen rulle til den stopper av seg selv.
 
 ## Eksteriør

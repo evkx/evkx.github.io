@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for XPENG G9 AWD Perfo
 				Elektrisk momentudgang
 			</td>
 			<td>
-				717 nm (529 ft-lb)
+				717 nm (529 lb-ft)
 			</td>
 		</tr>
 		<tr>

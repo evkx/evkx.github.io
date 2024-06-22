@@ -66,6 +66,9 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 
 
 
+
+### Regenerativ bromsning
+
 [Regenerativ bromsning](../../../../technology/regen/) finns i två lägen. Du kan använda [enpedalutrullning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla ut och använda [blinda bromsar](../../../../technology/regen/#manual-regen-user-brakepedal) för att regenerera.
 
 ## Exteriör

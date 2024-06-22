@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Tesla Model S Stan
 				Elektrisk momentudgang
 			</td>
 			<td>
-				700 nm (517 ft-lb)
+				700 nm (517 lb-ft)
 			</td>
 		</tr>
 		<tr>

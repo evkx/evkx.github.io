@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Automobili Pininfari
 				Electrical torque output
 			</td>
 			<td>
-				2340 nm (1727 ft-lb)
+				2340 nm (1727 lb-ft)
 			</td>
 		</tr>
 		<tr>

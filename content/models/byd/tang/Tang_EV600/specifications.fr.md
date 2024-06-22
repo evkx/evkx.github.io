@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BYD Tang 
 				Couple de sortie électrique
 			</td>
 			<td>
-				680 nm (502 ft-lb)
+				680 nm (502 lb-ft)
 			</td>
 		</tr>
 		<tr>

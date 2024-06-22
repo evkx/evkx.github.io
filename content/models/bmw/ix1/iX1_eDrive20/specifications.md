@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BMW iX1 eDrive20. Cl
 				Electrical torque output
 			</td>
 			<td>
-				250 nm (184 ft-lb)
+				250 nm (184 lb-ft)
 			</td>
 		</tr>
 		<tr>

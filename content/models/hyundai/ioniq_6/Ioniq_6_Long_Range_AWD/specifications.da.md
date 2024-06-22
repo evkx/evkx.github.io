@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Hyundai Ioniq 6 Lo
 				Elektrisk momentudgang
 			</td>
 			<td>
-				605 nm (446 ft-lb)
+				605 nm (446 lb-ft)
 			</td>
 		</tr>
 		<tr>

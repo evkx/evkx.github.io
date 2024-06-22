@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q8 Sportback 50
 				Electrical torque output
 			</td>
 			<td>
-				540 nm (399 ft-lb)
+				540 nm (399 lb-ft)
 			</td>
 		</tr>
 		<tr>

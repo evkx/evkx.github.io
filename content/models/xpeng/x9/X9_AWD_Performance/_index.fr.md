@@ -67,6 +67,9 @@ La suspension est entièrement adaptative sur les essieux avant et arrière, de 
 
 
 
+### Freinage régénératif
+
+
 
 ## Extérieur
 

@@ -82,6 +82,9 @@ Rivian R1S Quad-Motor AWD MP lar brukeren velge forskjellige [kjøremoduser](../
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 343mm, og de bakre skivene er 328mm.
 
+
+### Regenerativ bremsing
+
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). [Adaptiv regen](../../../../technology/regen/#adaptive-regen) eller coasting er ikke tilgjengelig på denne modellen. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser. Du kan justere hvor sterk regen du får når du løfter foten. Det er to nivåer.
 
 ## Eksteriør

@@ -70,6 +70,9 @@ Dynamic steering is a standard feature on the Hongqi E-HS9 Exclusive. Dynamic st
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model.
 
 ## Exterior

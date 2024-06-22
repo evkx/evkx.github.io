@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volkswage
 				Couple de sortie électrique
 			</td>
 			<td>
-				560 nm (413 ft-lb)
+				560 nm (413 lb-ft)
 			</td>
 		</tr>
 		<tr>

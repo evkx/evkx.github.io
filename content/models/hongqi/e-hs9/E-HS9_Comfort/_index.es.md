@@ -70,6 +70,9 @@ La dirección dinámica es una característica un estándar en el Hongqi E-HS9 C
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
 
+
+### Frenado regenerativo
+
 [Frenado regenerativo](../../../../technology/regen/) está disponible a través de [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving). [Regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o navegación por inercia no está disponible en este modelo.
 
 ## Exterior

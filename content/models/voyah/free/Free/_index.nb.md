@@ -66,6 +66,9 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bremsing
+
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). [Adaptiv regen](../../../../technology/regen/#adaptive-regen) eller coasting er ikke tilgjengelig på denne modellen. Ved lave hastigheter vil en-pedal kjøremodus holde bilen rulle til den stopper av seg selv.
 
 ## Eksteriør

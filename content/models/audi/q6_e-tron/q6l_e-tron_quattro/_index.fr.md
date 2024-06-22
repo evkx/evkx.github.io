@@ -87,6 +87,9 @@ Le Audi Q6L e-tron quattro permet à l'utilisateur de sélectionner différents 
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 375 mm et les disques arrière mesurent 350 mm.
 
+
+### Freinage régénératif
+
 [Freinage régénératif](../../../../technology/regen/) est disponible en plusieurs modes. Le plus efficace est [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive). Dans ce mode, la voiture roule en roue libre lorsque cela est possible et utilise le freinage par récupération pour réduire la vitesse. Vous pouvez également activer [la conduite à une pédale](../../../../technology/regen/#one-pedal-driving). Vous pouvez choisir entre trois modes d'arrêt pour la conduite avec une seule pédale. Le mode Hold arrête complètement la voiture à l'aide des freins à friction, le mode roll fait rouler le véhicule jusqu'à ce qu'il s'arrête tout seul, et Le mode rampant fera avancer la voiture à basse vitesse. Vous pouvez ajuster la force de régénération que vous obtenez lorsque vous levez le pied. Il y a deux niveaux.
 
 ## Extérieur

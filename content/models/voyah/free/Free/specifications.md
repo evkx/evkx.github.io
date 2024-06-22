@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for VOYAH FREE. Click on
 				Electrical torque output
 			</td>
 			<td>
-				720 nm (531 ft-lb)
+				720 nm (531 lb-ft)
 			</td>
 		</tr>
 		<tr>

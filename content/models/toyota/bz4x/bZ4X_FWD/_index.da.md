@@ -67,6 +67,9 @@ Toyota bZ4X FWD har et forhjulstræksystem understøttet af en motor på foraksl
 
 
 
+### Regenerativ bremsning
+
+
 
 ## Udvendig
 

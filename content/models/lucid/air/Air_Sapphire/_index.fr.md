@@ -70,6 +70,9 @@ La direction dynamique est une fonctionnalité un standard sur le Lucid Air Sapp
 
 Les freins arrière et avant sont des [disques en céramique](../../../../technology/brakes/#ceramic-brakes). Les disques avant mesurent 420 mm et les disques arrière mesurent 390 mm.
 
+
+### Freinage régénératif
+
 [Freinage régénératif](../../../../technology/regen/) est disponible via [conduite à une pédale](../../../../technology/regen/#one-pedal-driving). [Régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la roue libre n'est pas disponible dans ce modèle. Le système arrête complètement la voiture à l'aide des freins à friction.
 
 ## Extérieur

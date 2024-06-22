@@ -74,6 +74,9 @@ Dynamisk styrning är standard-funktionen för HiPhi X 6 Seater. Dynamisk styrni
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bromsning
+
 Vid låga hastigheter kommer körläget med en pedal att hålla bilen i rullning tills den stannar av sig själv.
 
 ## Exteriör

@@ -66,6 +66,9 @@ Chevrolet Blazer EV SS har et firehjulsdriftssystem som støttes av to motorer, 
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 321mm, og de bakre skivene er 345mm.
 
+
+### Regenerativ bremsing
+
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual-regen-bruker-bremsepedal) for å regenere. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser.
 
 ## Eksteriør

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW iX xD
 				Couple de sortie électrique
 			</td>
 			<td>
-				630 nm (465 ft-lb)
+				630 nm (465 lb-ft)
 			</td>
 		</tr>
 		<tr>

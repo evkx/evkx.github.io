@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW iX2 e
 				Couple de sortie électrique
 			</td>
 			<td>
-				247 nm (182 ft-lb)
+				247 nm (182 lb-ft)
 			</td>
 		</tr>
 		<tr>

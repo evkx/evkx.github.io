@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour XPENG G6 
 				Couple de sortie électrique
 			</td>
 			<td>
-				440 nm (325 ft-lb)
+				440 nm (325 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -70,6 +70,9 @@ Dynamisk styrning är standard-funktionen för Lucid Air Sapphire. Dynamisk styr
 
 Bromsar bak och fram är [keramiska skivor](../../../../technology/brakes/#ceramic-brakes). De främre skivorna är 420mm och de bakre skivorna är 390mm.
 
+
+### Regenerativ bromsning
+
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig genom [enpedalkörning](../../../../technology/regen/#one-pedal-driving). [Adaptive regen](../../../../technology/regen/#adaptive-regen) eller frirullning är inte tillgänglig på denna modell. Systemet stoppar bilen helt med friktionsbromsar.
 
 ## Exteriör

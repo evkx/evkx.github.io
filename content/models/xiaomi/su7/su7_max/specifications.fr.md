@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Xiaomi SU
 				Couple de sortie électrique
 			</td>
 			<td>
-				838 nm (618 ft-lb)
+				838 nm (618 lb-ft)
 			</td>
 		</tr>
 		<tr>

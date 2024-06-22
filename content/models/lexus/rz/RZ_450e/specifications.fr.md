@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Lexus RZ 
 				Couple de sortie électrique
 			</td>
 			<td>
-				435 nm (321 ft-lb)
+				435 nm (321 lb-ft)
 			</td>
 		</tr>
 		<tr>

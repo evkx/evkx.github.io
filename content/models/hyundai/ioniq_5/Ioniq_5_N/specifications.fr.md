@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Hyundai I
 				Couple de sortie électrique
 			</td>
 			<td>
-				714 nm (527 ft-lb)
+				714 nm (527 lb-ft)
 			</td>
 		</tr>
 		<tr>

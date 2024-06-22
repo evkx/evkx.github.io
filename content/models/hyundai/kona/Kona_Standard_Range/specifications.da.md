@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Hyundai Kona Stand
 				Elektrisk momentudgang
 			</td>
 			<td>
-				255 nm (188 ft-lb)
+				255 nm (188 lb-ft)
 			</td>
 		</tr>
 		<tr>

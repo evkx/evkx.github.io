@@ -71,6 +71,9 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 350mm, og de bakre skivene er 325mm.
 
 
+### Regenerativ bremsing
+
+
 
 ## Eksteriør
 

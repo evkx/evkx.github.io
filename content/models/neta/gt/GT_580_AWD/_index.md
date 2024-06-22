@@ -66,6 +66,9 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. You can choose between two stopping modes for one-pedal driving. Hold mode stops the car completely using friction brakes and creep mode will creep the car forward at low speed.
 
 ## Exterior

@@ -92,6 +92,9 @@ La direction dynamique est une fonctionnalité un standard sur le Porsche Taycan
 
 Vous pouvez choisir entre différents systèmes de freinage. Les freins de l'option standard utilisent des [disques en fonte] standards (../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 360 mm et les disques arrière mesurent 358 mm. Les freins de l'option second utilisent un [disque en fonte recouvert de carbure de tungstène](../../../../technology/brakes/#carbid-freins). Il ne rouille pas et ne produit pratiquement pas de poussière de frein. Les disques avant mesurent 410 mm et les disques arrière mesurent 365 mm.
 
+
+### Freinage régénératif
+
 [Freinage régénératif](../../../../technology/regen/) est disponible en plusieurs modes. Le plus efficace est [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive). Dans ce mode, la voiture roule en roue libre lorsque cela est possible et utilise le freinage par récupération pour réduire la vitesse. Vous pouvez également activer [la conduite à une pédale](../../../../technology/regen/#one-pedal-driving).
 
 ## Extérieur

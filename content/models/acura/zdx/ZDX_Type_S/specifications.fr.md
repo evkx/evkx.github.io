@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Acura ZDX
 				Couple de sortie électrique
 			</td>
 			<td>
-				737 nm (544 ft-lb)
+				737 nm (544 lb-ft)
 			</td>
 		</tr>
 		<tr>

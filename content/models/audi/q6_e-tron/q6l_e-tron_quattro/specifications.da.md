@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi Q6L e-tron qu
 				Elektrisk momentudgang
 			</td>
 			<td>
-				650 nm (480 ft-lb)
+				650 nm (480 lb-ft)
 			</td>
 		</tr>
 		<tr>

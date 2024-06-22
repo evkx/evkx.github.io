@@ -76,6 +76,9 @@ Dynamisk styrning är standard-funktionen för Porsche Taycan Turbo Cross Turism
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 410mm och de bakre skivorna är 365mm.
 
+
+### Regenerativ bromsning
+
 [Regenerativ bromsning](../../../../technology/regen/) finns i flera lägen. Det mest effektiva är [adaptiv regenerering](../../../../technology/regen/#adaptiv-regen).I det här läget rullar bilen när det är möjligt och använder regenerativ bromsning för att minska hastigheten. Du kan också aktivera [enpedalskörning](../../../../technology/regen/#one-pedal-driving).
 
 ## Exteriör

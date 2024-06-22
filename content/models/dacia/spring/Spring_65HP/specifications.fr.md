@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Dacia Spr
 				Couple de sortie électrique
 			</td>
 			<td>
-				113 nm (83 ft-lb)
+				113 nm (83 lb-ft)
 			</td>
 		</tr>
 		<tr>

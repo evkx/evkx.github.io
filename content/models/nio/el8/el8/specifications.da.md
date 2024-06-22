@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Nio EL8. Klik på 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				850 nm (627 ft-lb)
+				850 nm (627 lb-ft)
 			</td>
 		</tr>
 		<tr>

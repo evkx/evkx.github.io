@@ -85,6 +85,9 @@ The Audi SQ8 e-tron lets the user select different [drive modes](../../../../tec
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 350mm.
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving).
 
 ## Exterior

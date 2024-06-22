@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Audi RS e-tron GT pe
 				Electrical torque output
 			</td>
 			<td>
-				1027 nm (758 ft-lb)
+				1027 nm (758 lb-ft)
 			</td>
 		</tr>
 		<tr>

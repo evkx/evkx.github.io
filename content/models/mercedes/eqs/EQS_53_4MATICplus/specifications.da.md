@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Mercedes-AMG EQS 5
 				Elektrisk momentudgang
 			</td>
 			<td>
-				858 nm (633 ft-lb)
+				858 nm (633 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +87,7 @@ EVKX.net søger at have de mest komplette specifikationer for Mercedes-AMG EQS 5
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1020 nm (753 ft-lb)
+				1020 nm (753 lb-ft)
 			</td>
 		</tr>
 		<tr>

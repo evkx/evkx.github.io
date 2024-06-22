@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour SKODA Eny
 				Couple de sortie électrique
 			</td>
 			<td>
-				425 nm (314 ft-lb)
+				425 nm (314 lb-ft)
 			</td>
 		</tr>
 		<tr>

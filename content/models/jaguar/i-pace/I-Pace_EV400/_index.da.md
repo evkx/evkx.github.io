@@ -71,6 +71,9 @@ Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 350mm, og de bagerste skiver er 325mm.
 
 
+### Regenerativ bremsning
+
+
 
 ## Udvendig
 

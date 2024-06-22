@@ -71,6 +71,9 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 343 mm et les disques arrière mesurent 328 mm.
 
+
+### Freinage régénératif
+
 [Freinage régénératif](../../../../technology/regen/) est disponible via [conduite à une pédale](../../../../technology/regen/#one-pedal-driving). [Régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la roue libre n'est pas disponible dans ce modèle. Le système arrête complètement la voiture à l'aide des freins à friction. Vous pouvez ajuster la force de régénération que vous obtenez lorsque vous levez le pied. Il y a deux niveaux.
 
 ## Extérieur

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Citroën 
 				Couple de sortie électrique
 			</td>
 			<td>
-				120 nm (89 ft-lb)
+				120 nm (89 lb-ft)
 			</td>
 		</tr>
 		<tr>

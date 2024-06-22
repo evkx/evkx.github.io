@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Volvo EX90 Twin Moto
 				Electrical torque output
 			</td>
 			<td>
-				770 nm (568 ft-lb)
+				770 nm (568 lb-ft)
 			</td>
 		</tr>
 		<tr>

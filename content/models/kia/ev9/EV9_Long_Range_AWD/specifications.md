@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Kia EV9 Long Range A
 				Electrical torque output
 			</td>
 			<td>
-				600 nm (443 ft-lb)
+				600 nm (443 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Genesis GV60 AWD. Cl
 				Electrical torque output
 			</td>
 			<td>
-				605 nm (446 ft-lb)
+				605 nm (446 lb-ft)
 			</td>
 		</tr>
 		<tr>

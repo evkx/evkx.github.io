@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Opel Astra Sports 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				260 nm (192 ft-lb)
+				260 nm (192 lb-ft)
 			</td>
 		</tr>
 		<tr>

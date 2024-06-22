@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Kia EV6 S
 				Couple de sortie électrique
 			</td>
 			<td>
-				350 nm (258 ft-lb)
+				350 nm (258 lb-ft)
 			</td>
 		</tr>
 		<tr>

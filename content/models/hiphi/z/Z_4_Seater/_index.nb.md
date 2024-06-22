@@ -75,6 +75,9 @@ Dynamisk styring er standard-funksjonen på HiPhi Z 4 Seater. Dynamisk styring v
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
 
 
+### Regenerativ bremsing
+
+
 
 ## Eksteriør
 

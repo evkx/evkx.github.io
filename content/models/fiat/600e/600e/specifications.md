@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Fiat 600e. Click on 
 				Electrical torque output
 			</td>
 			<td>
-				260 nm (192 ft-lb)
+				260 nm (192 lb-ft)
 			</td>
 		</tr>
 		<tr>

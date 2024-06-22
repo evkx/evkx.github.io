@@ -80,6 +80,9 @@ Fisker Ocean Extreme lar brukeren velge forskjellige [kjøremoduser](../../../..
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bremsing
+
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedal kjøring](../../../../technology/regen/#one-pedal-driving) kombinert med [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal). [Adaptiv regen](../../../../technology/regen/#adaptiv-regen) er ikke tilgjengelig i denne modellen. Ved lave hastigheter vil en-pedal kjøremodus holde bilen rulle til den stopper av seg selv. Du kan justere hvor sterk regen du får når du løfter foten. Det er tre nivåer.
 
 ## Eksteriør

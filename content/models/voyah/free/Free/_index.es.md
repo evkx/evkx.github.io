@@ -66,6 +66,9 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
 
+
+### Frenado regenerativo
+
 [Frenado regenerativo](../../../../technology/regen/) está disponible a través de [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving). [Regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o navegación por inercia no está disponible en este modelo. A bajas velocidades, el modo de conducción con un solo pedal mantendrá el coche en marcha hasta que se detenga por sí solo.
 
 ## Exterior

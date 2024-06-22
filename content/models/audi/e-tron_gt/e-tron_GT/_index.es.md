@@ -72,6 +72,9 @@ La dirección dinámica es una característica un estándar en el Audi e-tron GT
 
 Puedes elegir entre diferentes sistemas de frenos. Los frenos de opción standard utilizan [discos de hierro fundido] normales (../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 360 mm y los discos traseros de 358 mm. Los frenos de opción second utilizan un [disco de hierro fundido recubierto con carburo de tungsteno](../../../../technology/brakes/#carbid -frenos). No se oxida y apenas produce polvo de freno. Los discos delanteros son de 410 mm y los discos traseros de 365 mm. Los frenos de opción third utilizan [discos cerámicos](../../../../technology/brakes/#ceramic-brakes). Los discos delanteros son de 420 mm y los discos traseros de 410 mm.
 
+
+### Frenado regenerativo
+
 [Frenado regenerativo](../../../../technology/regen/) está disponible en varios modos. El más eficiente es [regeneración automática](../../../../technology/regen/#automatic-regen-adaptive). En este modo, el automóvil avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad. También puede habilitar [conducción con un solo pedal](../../../../technology/regen/#conducción-con-un-pedal). A bajas velocidades, el modo de conducción con un solo pedal mantendrá el coche en marcha hasta que se detenga por sí solo. Puedes ajustar la fuerza de regeneración que obtienes cuando levantas el pie. Hay tres niveles.
 
 ## Exterior

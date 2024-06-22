@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Tesla Model S Plai
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1420 nm (1048 ft-lb)
+				1420 nm (1048 lb-ft)
 			</td>
 		</tr>
 		<tr>

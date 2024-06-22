@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi Q4 5
 				Couple de sortie électrique
 			</td>
 			<td>
-				425 nm (314 ft-lb)
+				425 nm (314 lb-ft)
 			</td>
 		</tr>
 		<tr>

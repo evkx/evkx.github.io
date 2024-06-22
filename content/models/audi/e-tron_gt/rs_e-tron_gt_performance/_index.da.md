@@ -82,6 +82,9 @@ Dynamisk styring er en standard-funktion på Audi RS e-tron GT performance. Dyna
 
 Du kan vælge mellem forskellige bremsesystemer. Bremserne standard bruger almindelige [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 360mm, og de bagerste skiver er 358mm. Bremserne second bruger en [støbejernsskive belagt med wolframcarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og producerer næsten ikke bremsestøv. De forreste skiver er 410mm, og de bagerste skiver er 365mm. Bremserne third bruger [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De forreste skiver er 420mm, og de bagerste skiver er 410mm.
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i flere tilstande. Den mest effektive er [automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive). I denne tilstand kører bilen fri, når det er muligt og bruger regenerativ bremsning til at reducere hastigheden. Du kan også aktivere [en-pedalkørsel](../../../../technology/regen/#one-pedal-driving). Ved lave hastigheder vil en-pedal køretilstand holde bilen kørende, indtil den stopper af sig selv. Du kan justere, hvor stærk regen du får, når du løfter foden. Der er tre niveauer.
 
 ## Udvendig

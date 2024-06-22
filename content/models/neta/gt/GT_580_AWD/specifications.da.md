@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Neta GT 580 AWD. K
 				Elektrisk momentudgang
 			</td>
 			<td>
-				620 nm (458 ft-lb)
+				620 nm (458 lb-ft)
 			</td>
 		</tr>
 		<tr>

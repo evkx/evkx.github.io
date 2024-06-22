@@ -66,6 +66,9 @@ Polestar 2 Long Range Dual Motor Performance har et firehjulstræk, der underst�
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [en-pedalkørsel](../../../../technology/regen/#one-pedal-driving), eller du kan friløbe og bruge [blendede bremser](../../../../technology/regen/#manual-regen-bruger-bremsepedal) for at regenere. Du kan vælge mellem to stoptilstande til kørsel med én pedal. Holdtilstand stopper bilen fuldstændigt ved hjælp af friktionsbremser, og krybetilstand vil krybe bilen fremad ved lav hastighed. Du kan justere, hvor stærk regen du får, når du løfter foden. Der er to niveauer.
 
 ## Udvendig

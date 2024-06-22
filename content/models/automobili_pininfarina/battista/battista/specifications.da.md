@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Automobili Pininfa
 				Elektrisk momentudgang
 			</td>
 			<td>
-				2340 nm (1727 ft-lb)
+				2340 nm (1727 lb-ft)
 			</td>
 		</tr>
 		<tr>

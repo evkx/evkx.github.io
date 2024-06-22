@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Lotus Emeya. Click o
 				Electrical torque output
 			</td>
 			<td>
-				710 nm (524 ft-lb)
+				710 nm (524 lb-ft)
 			</td>
 		</tr>
 		<tr>

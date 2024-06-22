@@ -66,6 +66,9 @@ Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig via [én-pedalkørsel](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller friløb er ikke tilgængelig i denne model. Ved lave hastigheder vil en-pedal køretilstand holde bilen kørende, indtil den stopper af sig selv.
 
 ## Udvendig

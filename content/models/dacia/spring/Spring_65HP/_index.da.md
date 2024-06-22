@@ -68,6 +68,9 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig via [én-pedalkørsel](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller friløb er ikke tilgængelig i denne model.
 
 ## Udvendig

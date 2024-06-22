@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Ford Mustang Mach-
 				Elektrisk momentudgang
 			</td>
 			<td>
-				430 nm (317 ft-lb)
+				430 nm (317 lb-ft)
 			</td>
 		</tr>
 		<tr>

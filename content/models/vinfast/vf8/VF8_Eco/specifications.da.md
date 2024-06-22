@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for VinFast VF8 Eco. K
 				Elektrisk momentudgang
 			</td>
 			<td>
-				500 nm (369 ft-lb)
+				500 nm (369 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i4 M5
 				Couple de sortie électrique
 			</td>
 			<td>
-				795 nm (587 ft-lb)
+				795 nm (587 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -74,6 +74,9 @@ Dynamic steering is an optional feature on the Renault 5 E-Tech 52kWh 150hp. Dyn
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen.
 
 ## Exterior

@@ -74,6 +74,9 @@ Dynamisk styrning är valfritt-funktionen för Volkswagen ID.7 Pro. Dynamisk sty
 
 
 
+
+### Regenerativ bromsning
+
 [Regenerativ bromsning](../../../../technology/regen/) finns i flera lägen. Det mest effektiva är [adaptiv regenerering](../../../../technology/regen/#adaptiv-regen).I det här läget rullar bilen när det är möjligt och använder regenerativ bromsning för att minska hastigheten. Du kan också aktivera [enpedalskörning](../../../../technology/regen/#one-pedal-driving).
 
 ## Exteriör

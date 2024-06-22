@@ -82,6 +82,9 @@ The Rivian R1S Quad-Motor AWD MP lets the user select different [drive modes](..
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 343mm, and the rear discs are 328mm.
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. The system stops the car completely using friction brakes. You can adjust how strong regen you get when you lift the foot. There are two levels.
 
 ## Exterior

@@ -66,6 +66,9 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bromsning
+
 [Regenerativ bromsning](../../../../technology/regen/) finns i flera lägen. Det mest effektiva är [adaptiv regenerering](../../../../technology/regen/#adaptiv-regen).I det här läget rullar bilen när det är möjligt och använder regenerativ bromsning för att minska hastigheten. Du kan också aktivera [enpedalskörning](../../../../technology/regen/#one-pedal-driving).
 
 ## Exteriör

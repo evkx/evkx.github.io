@@ -68,6 +68,9 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model.
 
 ## Exterior

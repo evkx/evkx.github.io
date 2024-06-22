@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Honda Prologue AWD. 
 				Electrical torque output
 			</td>
 			<td>
-				451 nm (333 ft-lb)
+				451 nm (333 lb-ft)
 			</td>
 		</tr>
 		<tr>

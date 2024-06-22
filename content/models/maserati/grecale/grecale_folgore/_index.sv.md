@@ -80,6 +80,9 @@ Maserati Grecale Folgore låter användaren välja olika [drivemodes](../../../.
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 350mm och de bakre skivorna är 350mm.
 
+
+### Regenerativ bromsning
+
 [Regenerativ bromsning](../../../../technology/regen/) finns i två lägen. Du kan använda [enpedalutrullning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla ut och använda [blinda bromsar](../../../../technology/regen/#manual-regen-user-brakepedal) för att regenerera. Vid låga hastigheter kommer körläget med en pedal att hålla bilen krypande framåt. Du kan justera hur stark regen du blir när du lyfter foten. Det finns tre nivåer.
 
 ## Exteriör

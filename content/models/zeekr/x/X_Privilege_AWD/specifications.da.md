@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Zeekr X Privilege 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				543 nm (401 ft-lb)
+				543 nm (401 lb-ft)
 			</td>
 		</tr>
 		<tr>

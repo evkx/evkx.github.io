@@ -70,6 +70,9 @@ Dynamisk styring er standard-funksjonen på Lotus Eletre S. Dynamisk styring var
 
 Du kan velge mellom forskjellige bremsesystemer. Opsjonsbremsene standard bruker en [støpejernskive belagt med wolframkarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og produserer nesten ikke bremsestøv. De fremre skivene er 412mm, og de bakre skivene er 397mm. Bremsene for second-alternativet bruker [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De fremre skivene er 412mm, og de bakre skivene er 397mm.
 
+
+### Regenerativ bremsing
+
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedal kjøring](../../../../technology/regen/#one-pedal-driving) kombinert med [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal). [Adaptiv regen](../../../../technology/regen/#adaptiv-regen) er ikke tilgjengelig i denne modellen. Ved lave hastigheter vil en-pedal kjøremodus holde bilen rulle til den stopper av seg selv. Du kan justere hvor sterk regen du får når du løfter foten. Det er tre nivåer.
 
 ## Eksteriør

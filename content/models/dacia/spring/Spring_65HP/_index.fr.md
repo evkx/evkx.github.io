@@ -68,6 +68,9 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 
 
+
+### Freinage régénératif
+
 [Freinage régénératif](../../../../technology/regen/) est disponible via [conduite à une pédale](../../../../technology/regen/#one-pedal-driving). [Régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la roue libre n'est pas disponible dans ce modèle.
 
 ## Extérieur

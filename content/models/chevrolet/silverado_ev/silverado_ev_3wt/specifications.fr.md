@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Chevrolet
 				Couple de sortie électrique
 			</td>
 			<td>
-				834 nm (615 ft-lb)
+				834 nm (615 lb-ft)
 			</td>
 		</tr>
 		<tr>

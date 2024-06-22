@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for BYD Dolphin 60.4kW
 				Elektrisk momentudgang
 			</td>
 			<td>
-				310 nm (229 ft-lb)
+				310 nm (229 lb-ft)
 			</td>
 		</tr>
 		<tr>

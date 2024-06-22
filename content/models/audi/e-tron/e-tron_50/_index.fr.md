@@ -91,6 +91,9 @@ Le Audi e-tron 50 permet à l'utilisateur de sélectionner différents [modes de
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 375 mm et les disques arrière mesurent 350 mm.
 
+
+### Freinage régénératif
+
 [Freinage régénératif](../../../../technology/regen/) est disponible en plusieurs modes. Le plus efficace est [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive). Dans ce mode, la voiture roule en roue libre lorsque cela est possible et utilise le freinage par récupération pour réduire la vitesse. Vous pouvez également activer [la conduite à une pédale](../../../../technology/regen/#one-pedal-driving). À basse vitesse, le mode de conduite à une pédale maintiendra la voiture en mouvement jusqu'à ce qu'elle s'arrête d'elle-même. Vous pouvez ajuster la force de régénération que vous obtenez lorsque vous levez le pied. Il y a trois niveaux.
 
 ## Extérieur

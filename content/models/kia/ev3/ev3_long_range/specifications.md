@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Kia EV3 Long Range. 
 				Electrical torque output
 			</td>
 			<td>
-				283 nm (209 ft-lb)
+				283 nm (209 lb-ft)
 			</td>
 		</tr>
 		<tr>

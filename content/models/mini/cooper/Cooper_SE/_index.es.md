@@ -65,6 +65,9 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 
 
+### Frenado regenerativo
+
+
 
 ## Exterior
 

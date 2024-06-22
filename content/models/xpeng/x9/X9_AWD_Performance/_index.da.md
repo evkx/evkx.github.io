@@ -67,6 +67,9 @@ Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan
 
 
 
+### Regenerativ bremsning
+
+
 
 ## Udvendig
 

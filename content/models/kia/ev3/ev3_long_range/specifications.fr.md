@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Kia EV3 L
 				Couple de sortie électrique
 			</td>
 			<td>
-				283 nm (209 ft-lb)
+				283 nm (209 lb-ft)
 			</td>
 		</tr>
 		<tr>

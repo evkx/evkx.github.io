@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.7 Tour
 				Electrical torque output
 			</td>
 			<td>
-				550 nm (406 ft-lb)
+				550 nm (406 lb-ft)
 			</td>
 		</tr>
 		<tr>

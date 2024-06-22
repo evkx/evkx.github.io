@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Lotus Ele
 				Couple de sortie électrique
 			</td>
 			<td>
-				710 nm (524 ft-lb)
+				710 nm (524 lb-ft)
 			</td>
 		</tr>
 		<tr>

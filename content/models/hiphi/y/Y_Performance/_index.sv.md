@@ -71,6 +71,9 @@ Dynamisk styrning är standard-funktionen för HiPhi Y Performance. Dynamisk sty
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
 
 
+### Regenerativ bromsning
+
+
 
 ## Exteriör
 

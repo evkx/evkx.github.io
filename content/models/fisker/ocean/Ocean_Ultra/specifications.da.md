@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Fisker Ocean Ultra
 				Elektrisk momentudgang
 			</td>
 			<td>
-				696 nm (514 ft-lb)
+				696 nm (514 lb-ft)
 			</td>
 		</tr>
 		<tr>

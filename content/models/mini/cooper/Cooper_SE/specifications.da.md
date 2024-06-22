@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Mini Cooper SE. Kl
 				Elektrisk momentudgang
 			</td>
 			<td>
-				330 nm (244 ft-lb)
+				330 nm (244 lb-ft)
 			</td>
 		</tr>
 		<tr>

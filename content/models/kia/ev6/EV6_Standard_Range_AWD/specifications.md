@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Kia EV6 Standard Ran
 				Electrical torque output
 			</td>
 			<td>
-				605 nm (446 ft-lb)
+				605 nm (446 lb-ft)
 			</td>
 		</tr>
 		<tr>

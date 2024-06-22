@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Hyundai Ioniq 5 N.
 				Elektrisk momentudgang
 			</td>
 			<td>
-				714 nm (527 ft-lb)
+				714 nm (527 lb-ft)
 			</td>
 		</tr>
 		<tr>

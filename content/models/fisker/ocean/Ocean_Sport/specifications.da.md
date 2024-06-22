@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Fisker Ocean Sport
 				Elektrisk momentudgang
 			</td>
 			<td>
-				386 nm (285 ft-lb)
+				386 nm (285 lb-ft)
 			</td>
 		</tr>
 		<tr>

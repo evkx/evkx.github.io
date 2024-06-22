@@ -75,6 +75,9 @@ La direction dynamique est une fonctionnalité un standard sur le HiPhi Z 4 Seat
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
 
 
+### Freinage régénératif
+
+
 
 ## Extérieur
 

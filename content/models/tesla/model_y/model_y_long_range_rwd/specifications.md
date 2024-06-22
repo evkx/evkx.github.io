@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model Y Long R
 				Electrical torque output
 			</td>
 			<td>
-				450 nm (332 ft-lb)
+				450 nm (332 lb-ft)
 			</td>
 		</tr>
 		<tr>

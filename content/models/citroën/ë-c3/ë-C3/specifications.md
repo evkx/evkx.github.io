@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Citroën ë-C3. Clic
 				Electrical torque output
 			</td>
 			<td>
-				120 nm (89 ft-lb)
+				120 nm (89 lb-ft)
 			</td>
 		</tr>
 		<tr>

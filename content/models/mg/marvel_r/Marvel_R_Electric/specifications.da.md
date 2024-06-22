@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for MG Marvel R Electr
 				Elektrisk momentudgang
 			</td>
 			<td>
-				410 nm (303 ft-lb)
+				410 nm (303 lb-ft)
 			</td>
 		</tr>
 		<tr>

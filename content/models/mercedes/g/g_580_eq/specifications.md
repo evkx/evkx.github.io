@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-EQ G 580 EQ
 				Electrical torque output
 			</td>
 			<td>
-				1164 nm (859 ft-lb)
+				1164 nm (859 lb-ft)
 			</td>
 		</tr>
 		<tr>

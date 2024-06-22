@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour DS 3 E-Te
 				Couple de sortie électrique
 			</td>
 			<td>
-				260 nm (192 ft-lb)
+				260 nm (192 lb-ft)
 			</td>
 		</tr>
 		<tr>

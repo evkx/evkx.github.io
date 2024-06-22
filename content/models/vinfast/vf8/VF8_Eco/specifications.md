@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for VinFast VF8 Eco. Cli
 				Electrical torque output
 			</td>
 			<td>
-				500 nm (369 ft-lb)
+				500 nm (369 lb-ft)
 			</td>
 		</tr>
 		<tr>

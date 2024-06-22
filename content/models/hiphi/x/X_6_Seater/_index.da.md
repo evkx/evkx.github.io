@@ -74,6 +74,9 @@ Dynamisk styring er en standard-funktion på HiPhi X 6 Seater. Dynamisk styring 
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bremsning
+
 Ved lave hastigheder vil en-pedal køretilstand holde bilen kørende, indtil den stopper af sig selv.
 
 ## Udvendig

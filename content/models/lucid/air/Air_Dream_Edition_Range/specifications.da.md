@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Lucid Air Dream Ed
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1390 nm (1026 ft-lb)
+				1390 nm (1026 lb-ft)
 			</td>
 		</tr>
 		<tr>

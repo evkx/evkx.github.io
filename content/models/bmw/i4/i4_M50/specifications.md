@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BMW i4 M50. Click on
 				Electrical torque output
 			</td>
 			<td>
-				795 nm (587 ft-lb)
+				795 nm (587 lb-ft)
 			</td>
 		</tr>
 		<tr>

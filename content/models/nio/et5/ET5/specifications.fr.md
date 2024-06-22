@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Nio ET5. 
 				Couple de sortie électrique
 			</td>
 			<td>
-				850 nm (627 ft-lb)
+				850 nm (627 lb-ft)
 			</td>
 		</tr>
 		<tr>

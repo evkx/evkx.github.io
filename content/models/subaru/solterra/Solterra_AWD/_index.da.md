@@ -67,6 +67,9 @@ Subaru Solterra AWD har et firehjulstræk, der understøttes af to motorer, en p
 
 
 
+### Regenerativ bremsning
+
+
 
 ## Udvendig
 

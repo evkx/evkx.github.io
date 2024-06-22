@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Tesla Cybertruck C
 				Elektrisk momentudgang
 			</td>
 			<td>
-				930 nm (686 ft-lb)
+				930 nm (686 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -66,6 +66,9 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bromsning
+
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig genom [enpedalkörning](../../../../technology/regen/#one-pedal-driving) kombinerat med [blandade bromsar](../../../../technology/regen/#manual-regen-using-brake-pedal). [ Adaptiv regen](../../../../technology/regen/#adaptiv-regen) är inte tillgänglig i den här modellen. Vid låga hastigheter kommer körläget med en pedal att hålla bilen i rullning tills den stannar av sig själv. Du kan justera hur stark regen du blir när du lyfter foten. Det finns tre nivåer.
 
 ## Exteriör

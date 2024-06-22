@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Mercedes-
 				Couple de sortie électrique
 			</td>
 			<td>
-				800 nm (590 ft-lb)
+				800 nm (590 lb-ft)
 			</td>
 		</tr>
 		<tr>

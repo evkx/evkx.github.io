@@ -70,6 +70,9 @@ Dynamic steering is a standard feature on the Lucid Air Pure. Dynamic steering v
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 380mm, and the rear discs are 375mm.
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. The system stops the car completely using friction brakes.
 
 ## Exterior

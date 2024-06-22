@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Smart #1 Pulse. Clic
 				Electrical torque output
 			</td>
 			<td>
-				584 nm (431 ft-lb)
+				584 nm (431 lb-ft)
 			</td>
 		</tr>
 		<tr>

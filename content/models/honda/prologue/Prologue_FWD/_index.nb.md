@@ -70,6 +70,9 @@ Honda Prologue FWD har et forhjulsdriftssystem støttet av én motor på forakse
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 396mm, og de bakre skivene er 343mm.
 
+
+### Regenerativ bremsing
+
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual-regen-bruker-bremsepedal) for å regenere. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser. Du kan justere hvor sterk regen du får når du løfter foten. Det er tre nivåer.
 
 ## Eksteriør

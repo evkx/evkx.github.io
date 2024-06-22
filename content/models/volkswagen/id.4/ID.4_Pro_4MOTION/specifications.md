@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 Pro 
 				Electrical torque output
 			</td>
 			<td>
-				679 nm (501 ft-lb)
+				679 nm (501 lb-ft)
 			</td>
 		</tr>
 		<tr>

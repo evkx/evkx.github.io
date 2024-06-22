@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Audi SQ8 e-tron. Cli
 				Electrical torque output
 			</td>
 			<td>
-				561 nm (414 ft-lb)
+				561 nm (414 lb-ft)
 			</td>
 		</tr>
 		<tr>

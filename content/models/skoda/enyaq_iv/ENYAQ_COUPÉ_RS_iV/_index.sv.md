@@ -74,6 +74,9 @@ Dynamisk styrning är standard-funktionen för SKODA ENYAQ COUPÉ RS iV. Dynamis
 
 
 
+
+### Regenerativ bromsning
+
 [Regenerativ bromsning](../../../../technology/regen/) finns i flera lägen. Det mest effektiva är [adaptiv regenerering](../../../../technology/regen/#adaptiv-regen).I det här läget rullar bilen när det är möjligt och använder regenerativ bromsning för att minska hastigheten. Du kan också aktivera [enpedalskörning](../../../../technology/regen/#one-pedal-driving). Vid låga hastigheter kommer körläget med en pedal att hålla bilen i rullning tills den stannar av sig själv.
 
 ## Exteriör

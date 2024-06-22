@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BMW i4 eDrive35. Cli
 				Electrical torque output
 			</td>
 			<td>
-				400 nm (295 ft-lb)
+				400 nm (295 lb-ft)
 			</td>
 		</tr>
 		<tr>

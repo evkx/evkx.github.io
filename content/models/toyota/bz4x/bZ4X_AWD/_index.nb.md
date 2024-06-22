@@ -67,6 +67,9 @@ Toyota bZ4X AWD har et firehjulsdriftssystem som støttes av to motorer, en på 
 
 
 
+### Regenerativ bremsing
+
+
 
 ## Eksteriør
 

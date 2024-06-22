@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.4 GTX 
 				Electrical torque output
 			</td>
 			<td>
-				425 nm (314 ft-lb)
+				425 nm (314 lb-ft)
 			</td>
 		</tr>
 		<tr>

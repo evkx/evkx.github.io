@@ -70,6 +70,9 @@ Dynamic steering is an optional feature on the CUPRA BORN 77 e-BOOST. Dynamic st
 
 
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving).
 
 ## Exterior

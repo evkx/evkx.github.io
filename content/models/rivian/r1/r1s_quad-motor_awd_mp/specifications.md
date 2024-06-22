@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Rivian R1S Quad-Moto
 				Electrical torque output
 			</td>
 			<td>
-				1623 nm (1198 ft-lb)
+				1623 nm (1198 lb-ft)
 			</td>
 		</tr>
 		<tr>

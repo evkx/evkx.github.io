@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Zeekr 007 AWD Perf
 				Elektrisk momentudgang
 			</td>
 			<td>
-				710 nm (524 ft-lb)
+				710 nm (524 lb-ft)
 			</td>
 		</tr>
 		<tr>

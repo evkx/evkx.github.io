@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BYD Seal RWD. Click 
 				Electrical torque output
 			</td>
 			<td>
-				360 nm (266 ft-lb)
+				360 nm (266 lb-ft)
 			</td>
 		</tr>
 		<tr>

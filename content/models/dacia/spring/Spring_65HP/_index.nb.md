@@ -68,6 +68,9 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 
 
+
+### Regenerativ bremsing
+
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). [Adaptiv regen](../../../../technology/regen/#adaptive-regen) eller coasting er ikke tilgjengelig på denne modellen.
 
 ## Eksteriør

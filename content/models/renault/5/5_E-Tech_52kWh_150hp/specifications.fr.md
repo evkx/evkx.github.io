@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Renault 5
 				Couple de sortie électrique
 			</td>
 			<td>
-				245 nm (181 ft-lb)
+				245 nm (181 lb-ft)
 			</td>
 		</tr>
 		<tr>

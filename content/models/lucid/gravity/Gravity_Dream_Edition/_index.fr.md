@@ -72,6 +72,9 @@ La direction dynamique est une fonctionnalité un standard sur le Lucid Gravity 
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 386 mm et les disques arrière mesurent 381 mm.
 
+
+### Freinage régénératif
+
 [Freinage régénératif](../../../../technology/regen/) est disponible via [conduite à une pédale](../../../../technology/regen/#one-pedal-driving). [Régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la roue libre n'est pas disponible dans ce modèle. Le système arrête complètement la voiture à l'aide des freins à friction.
 
 ## Extérieur

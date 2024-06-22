@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Smart #1 Brabus. K
 				Elektrisk momentudgang
 			</td>
 			<td>
-				584 nm (431 ft-lb)
+				584 nm (431 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -70,6 +70,9 @@ La direction dynamique est une fonctionnalité un standard sur le Mercedes-Mayba
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 415 mm et les disques arrière mesurent 378 mm.
 
+
+### Freinage régénératif
+
 [Freinage régénératif](../../../../technology/regen/) est disponible en plusieurs modes. Le plus efficace est [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive). Dans ce mode, la voiture roule en roue libre lorsque cela est possible et utilise le freinage par récupération pour réduire la vitesse. Vous pouvez également activer [la conduite à une pédale](../../../../technology/regen/#one-pedal-driving). Vous pouvez choisir entre deux modes d'arrêt pour la conduite avec une seule pédale. Le mode Hold arrête complètement la voiture à l'aide des freins à friction, et le mode roll fait rouler le véhicule jusqu'à ce qu'il s'arrête tout seul.
 
 ## Extérieur

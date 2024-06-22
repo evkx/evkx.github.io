@@ -81,6 +81,9 @@ El YangWang U9 permite al usuario seleccionar diferentes [modos de conducción](
 
 Los frenos traseros y delanteros son [discos cerámicos](../../../../technology/brakes/#ceramic-brakes). Los discos delanteros son de 390 mm y los discos traseros de 390 mm.
 
+
+### Frenado regenerativo
+
 [Frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puedes usar [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-usando-el-pedal-de-freno) para regenerar. El sistema detiene el automóvil por completo mediante frenos de fricción. Puedes ajustar la fuerza de regeneración que obtienes cuando levantas el pie. Hay dos niveles.
 
 ## Exterior

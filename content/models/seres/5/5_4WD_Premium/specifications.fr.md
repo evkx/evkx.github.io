@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Seres 5 4
 				Couple de sortie électrique
 			</td>
 			<td>
-				940 nm (694 ft-lb)
+				940 nm (694 lb-ft)
 			</td>
 		</tr>
 		<tr>

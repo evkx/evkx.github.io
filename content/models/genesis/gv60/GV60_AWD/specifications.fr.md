@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Genesis G
 				Couple de sortie électrique
 			</td>
 			<td>
-				605 nm (446 ft-lb)
+				605 nm (446 lb-ft)
 			</td>
 		</tr>
 		<tr>

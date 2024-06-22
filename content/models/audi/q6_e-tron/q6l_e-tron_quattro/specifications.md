@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q6L e-tron quat
 				Electrical torque output
 			</td>
 			<td>
-				650 nm (480 ft-lb)
+				650 nm (480 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -66,6 +66,9 @@ Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double
 
 
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i flere tilstande. Den mest effektive er [automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive). I denne tilstand kører bilen fri, når det er muligt og bruger regenerativ bremsning til at reducere hastigheden. Du kan også aktivere [en-pedalkørsel](../../../../technology/regen/#one-pedal-driving). Du kan vælge mellem to stoptilstande til en-pedalkørsel. Holdtilstand stopper bilen fuldstændigt ved hjælp af friktionsbremser, og rulningstilstand får køretøjet til at rulle, indtil det stopper af sig selv. Du kan justere, hvor stærk regen du får, når du løfter foden. Der er tre niveauer.
 
 ## Udvendig

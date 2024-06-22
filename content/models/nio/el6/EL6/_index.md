@@ -85,6 +85,9 @@ Dynamic steering is a standard feature on the Nio EL6. Dynamic steering varies t
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. At low speeds, the one-pedal drive mode will keep the car creeping forward. You can adjust how strong regen you get when you lift the foot. There are three levels.
 
 ## Exterior

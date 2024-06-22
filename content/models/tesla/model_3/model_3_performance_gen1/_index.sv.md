@@ -74,6 +74,9 @@ Dynamisk styrning är standard-funktionen för Tesla Model 3 Performance (GEN1).
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 355mm och de bakre skivorna är 355mm.
 
+
+### Regenerativ bromsning
+
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig genom [enpedalkörning](../../../../technology/regen/#one-pedal-driving). [Adaptive regen](../../../../technology/regen/#adaptive-regen) eller frirullning är inte tillgänglig på denna modell. Du kan välja mellan tre stopplägen för enpedalkörning. Hold-läget stoppar bilen helt med friktionsbromsar, rullningsläget gör att fordonet rullar till stopp på egen hand , och krypläge kommer att krypa bilen framåt i låg hastighet. Du kan justera hur stark regen är när du lyfter foten. Det finns två nivåer.
 
 ## Exteriör

@@ -67,6 +67,9 @@ XPENG G3i har et forhjulsdriftssystem støttet av én motor på forakselen.
 
 
 
+### Regenerativ bremsing
+
+
 
 ## Eksteriør
 

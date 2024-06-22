@@ -74,6 +74,9 @@ Dynamisk styring er standard-funksjonen på HiPhi X 4 Seater. Dynamisk styring v
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bremsing
+
 Ved lave hastigheter vil en-pedal kjøremodus holde bilen rulle til den stopper av seg selv.
 
 ## Eksteriør

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour MG MG5 El
 				Couple de sortie électrique
 			</td>
 			<td>
-				280 nm (207 ft-lb)
+				280 nm (207 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -66,6 +66,9 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 Bremsene bak og foran er [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De fremre skivene er 533mm, og de bakre skivene er 457mm.
 
+
+### Regenerativ bremsing
+
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedal kjøring](../../../../technology/regen/#one-pedal-driving) kombinert med [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal). [Adaptiv regen](../../../../technology/regen/#adaptiv-regen) er ikke tilgjengelig i denne modellen.
 
 ## Eksteriør

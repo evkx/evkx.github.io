@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Kia EV9 G
 				Couple de sortie électrique
 			</td>
 			<td>
-				700 nm (517 ft-lb)
+				700 nm (517 lb-ft)
 			</td>
 		</tr>
 		<tr>

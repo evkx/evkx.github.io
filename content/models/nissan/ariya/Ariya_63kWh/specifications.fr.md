@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Nissan Ar
 				Couple de sortie électrique
 			</td>
 			<td>
-				300 nm (221 ft-lb)
+				300 nm (221 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Volkswagen ID.5 Pro.
 				Electrical torque output
 			</td>
 			<td>
-				545 nm (402 ft-lb)
+				545 nm (402 lb-ft)
 			</td>
 		</tr>
 		<tr>

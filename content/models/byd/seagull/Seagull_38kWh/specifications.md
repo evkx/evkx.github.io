@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BYD Seagull 38kWh. C
 				Electrical torque output
 			</td>
 			<td>
-				135 nm (100 ft-lb)
+				135 nm (100 lb-ft)
 			</td>
 		</tr>
 		<tr>

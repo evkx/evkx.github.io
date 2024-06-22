@@ -70,6 +70,9 @@ Dynamisk styring er standard-funksjonen på BYD Seal U Design. Dynamisk styring 
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bremsing
+
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedal kjøring](../../../../technology/regen/#one-pedal-driving) kombinert med [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal). [Adaptiv regen](../../../../technology/regen/#adaptiv-regen) er ikke tilgjengelig i denne modellen. Ved lave hastigheter vil en-pedal kjøremodus holde bilen krypende fremover. Du kan justere hvor sterk regen du får når du løfter foten. Det er to nivåer.
 
 ## Eksteriør

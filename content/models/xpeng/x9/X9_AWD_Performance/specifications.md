@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for XPENG X9 AWD Perform
 				Electrical torque output
 			</td>
 			<td>
-				640 nm (472 ft-lb)
+				640 nm (472 lb-ft)
 			</td>
 		</tr>
 		<tr>

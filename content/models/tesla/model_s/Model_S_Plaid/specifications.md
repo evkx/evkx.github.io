@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model S Plaid.
 				Electrical torque output
 			</td>
 			<td>
-				1420 nm (1048 ft-lb)
+				1420 nm (1048 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW i4 eD
 				Couple de sortie électrique
 			</td>
 			<td>
-				430 nm (317 ft-lb)
+				430 nm (317 lb-ft)
 			</td>
 		</tr>
 		<tr>

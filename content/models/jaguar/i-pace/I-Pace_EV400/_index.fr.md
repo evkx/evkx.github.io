@@ -71,6 +71,9 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 350 mm et les disques arrière mesurent 325 mm.
 
 
+### Freinage régénératif
+
+
 
 ## Extérieur
 

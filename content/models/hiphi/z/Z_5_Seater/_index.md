@@ -75,6 +75,9 @@ Dynamic steering is a standard feature on the HiPhi Z 5 Seater. Dynamic steering
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
 
+### Regenerative braking
+
+
 
 ## Exterior
 

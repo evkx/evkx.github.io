@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for VinFast VF8 Plus. Cl
 				Electrical torque output
 			</td>
 			<td>
-				620 nm (458 ft-lb)
+				620 nm (458 lb-ft)
 			</td>
 		</tr>
 		<tr>

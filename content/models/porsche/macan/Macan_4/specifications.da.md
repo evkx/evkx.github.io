@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Macan 4. K
 				Elektrisk momentudgang
 			</td>
 			<td>
-				650 nm (480 ft-lb)
+				650 nm (480 lb-ft)
 			</td>
 		</tr>
 		<tr>

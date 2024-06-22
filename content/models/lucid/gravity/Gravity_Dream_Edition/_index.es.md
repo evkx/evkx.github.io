@@ -72,6 +72,9 @@ La dirección dinámica es una característica un estándar en el Lucid Gravity 
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 386 mm y los discos traseros de 381 mm.
 
+
+### Frenado regenerativo
+
 [Frenado regenerativo](../../../../technology/regen/) está disponible a través de [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving). [Regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o navegación por inercia no está disponible en este modelo. El sistema detiene el automóvil por completo mediante frenos de fricción.
 
 ## Exterior

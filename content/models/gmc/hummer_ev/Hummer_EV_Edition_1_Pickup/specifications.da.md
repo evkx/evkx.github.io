@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for GMC Hummer EV Edit
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1150 nm (849 ft-lb)
+				1150 nm (849 lb-ft)
 			</td>
 		</tr>
 		<tr>

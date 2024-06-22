@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Hongqi E-HS9 Comfort
 				Electrical torque output
 			</td>
 			<td>
-				300 nm (221 ft-lb)
+				300 nm (221 lb-ft)
 			</td>
 		</tr>
 		<tr>

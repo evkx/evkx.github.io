@@ -71,6 +71,9 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 350mm och de bakre skivorna är 325mm.
 
 
+### Regenerativ bromsning
+
+
 
 ## Exteriör
 

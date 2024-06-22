@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi RS e-tron GT 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				830 nm (613 ft-lb)
+				830 nm (613 lb-ft)
 			</td>
 		</tr>
 		<tr>

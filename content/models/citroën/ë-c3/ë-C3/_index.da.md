@@ -70,6 +70,9 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bremsning
+
 Ved lave hastigheder vil en-pedal køretilstand holde bilen krybende fremad.
 
 ## Udvendig

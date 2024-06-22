@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Subaru Solterra AWD.
 				Electrical torque output
 			</td>
 			<td>
-				337 nm (249 ft-lb)
+				337 nm (249 lb-ft)
 			</td>
 		</tr>
 		<tr>

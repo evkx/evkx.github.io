@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Honda Prologue AWD
 				Elektrisk momentudgang
 			</td>
 			<td>
-				451 nm (333 ft-lb)
+				451 nm (333 lb-ft)
 			</td>
 		</tr>
 		<tr>

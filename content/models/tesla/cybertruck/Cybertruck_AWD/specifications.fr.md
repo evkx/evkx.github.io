@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Tesla Cyb
 				Couple de sortie électrique
 			</td>
 			<td>
-				671 nm (495 ft-lb)
+				671 nm (495 lb-ft)
 			</td>
 		</tr>
 		<tr>

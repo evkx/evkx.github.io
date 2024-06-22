@@ -70,6 +70,9 @@ Dynamic steering is a standard feature on the Tesla Model X Plaid. Dynamic steer
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 355mm.
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. You can choose between three stopping modes for one-pedal driving. Hold mode stops the car completely using friction brakes, roll mode causes the vehicle to roll until it stops by itself, and creep mode will creep the car forward at low speed. You can adjust how strong regen you get when you lift the foot. There are two levels.
 
 ## Exterior

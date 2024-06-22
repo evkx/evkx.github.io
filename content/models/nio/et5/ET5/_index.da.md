@@ -85,6 +85,9 @@ Dynamisk styring er en standard-funktion på Nio ET5. Dynamisk styring varierer 
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig via [én-pedalkørsel](../../../../technology/regen/#one-pedal-driving) kombineret med [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal). [ Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Ved lave hastigheder vil en-pedal køretilstand holde bilen krybende fremad. Du kan justere, hvor stærk regen du får, når du løfter foden. Der er tre niveauer.
 
 ## Udvendig

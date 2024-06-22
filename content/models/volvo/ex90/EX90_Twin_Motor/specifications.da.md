@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volvo EX90 Twin Mo
 				Elektrisk momentudgang
 			</td>
 			<td>
-				770 nm (568 ft-lb)
+				770 nm (568 lb-ft)
 			</td>
 		</tr>
 		<tr>

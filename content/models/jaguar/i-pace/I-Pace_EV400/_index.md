@@ -71,6 +71,9 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350mm, and the rear discs are 325mm.
 
 
+### Regenerative braking
+
+
 
 ## Exterior
 

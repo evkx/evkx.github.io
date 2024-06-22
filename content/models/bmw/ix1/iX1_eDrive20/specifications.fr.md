@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour BMW iX1 e
 				Couple de sortie électrique
 			</td>
 			<td>
-				250 nm (184 ft-lb)
+				250 nm (184 lb-ft)
 			</td>
 		</tr>
 		<tr>

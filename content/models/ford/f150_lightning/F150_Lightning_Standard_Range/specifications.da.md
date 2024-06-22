@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Ford F150 Lightnin
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1050 nm (775 ft-lb)
+				1050 nm (775 lb-ft)
 			</td>
 		</tr>
 		<tr>

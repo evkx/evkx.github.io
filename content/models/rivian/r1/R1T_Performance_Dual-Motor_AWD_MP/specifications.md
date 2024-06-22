@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Rivian R1T Performan
 				Electrical torque output
 			</td>
 			<td>
-				1124 nm (830 ft-lb)
+				1124 nm (830 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Tesla Model 3 Perf
 				Elektrisk momentudgang
 			</td>
 			<td>
-				660 nm (487 ft-lb)
+				660 nm (487 lb-ft)
 			</td>
 		</tr>
 		<tr>

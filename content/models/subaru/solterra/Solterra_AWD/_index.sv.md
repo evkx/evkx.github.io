@@ -67,6 +67,9 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 
 
 
+### Regenerativ bromsning
+
+
 
 ## Exteriör
 

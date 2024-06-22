@@ -74,6 +74,9 @@ La direction dynamique est une fonctionnalité un facultatif sur le Renault 5 E-
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
 
+
+### Freinage régénératif
+
 [Freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler en roue libre et utiliser les [freins mixtes](../../../../technology/regen/#manual -régénération-à l'aide de la pédale de frein) pour régénérer.
 
 ## Extérieur

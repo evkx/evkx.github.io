@@ -67,6 +67,9 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
 
 
+### Freinage régénératif
+
+
 
 ## Extérieur
 

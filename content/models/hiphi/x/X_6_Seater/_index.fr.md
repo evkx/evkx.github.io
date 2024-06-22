@@ -74,6 +74,9 @@ La direction dynamique est une fonctionnalité un standard sur le HiPhi X 6 Seat
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
 
+
+### Freinage régénératif
+
 À basse vitesse, le mode de conduite à une pédale maintiendra la voiture en mouvement jusqu'à ce qu'elle s'arrête d'elle-même.
 
 ## Extérieur

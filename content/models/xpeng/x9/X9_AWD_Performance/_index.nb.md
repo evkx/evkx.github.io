@@ -67,6 +67,9 @@ Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping
 
 
 
+### Regenerativ bremsing
+
+
 
 ## Eksteriør
 

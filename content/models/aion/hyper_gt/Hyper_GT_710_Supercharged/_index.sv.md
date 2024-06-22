@@ -67,6 +67,9 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
 
 
+### Regenerativ bromsning
+
+
 
 ## Exteriör
 

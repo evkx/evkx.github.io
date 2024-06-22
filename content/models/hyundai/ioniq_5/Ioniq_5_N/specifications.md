@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Hyundai Ioniq 5 N. C
 				Electrical torque output
 			</td>
 			<td>
-				714 nm (527 ft-lb)
+				714 nm (527 lb-ft)
 			</td>
 		</tr>
 		<tr>

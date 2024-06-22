@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Porsche Macan Turb
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1130 nm (834 ft-lb)
+				1130 nm (834 lb-ft)
 			</td>
 		</tr>
 		<tr>

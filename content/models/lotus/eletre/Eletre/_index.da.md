@@ -70,6 +70,9 @@ Dynamisk styring er en standard-funktion på Lotus Eletre. Dynamisk styring vari
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 412mm, og de bagerste skiver er 397mm.
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig via [én-pedalkørsel](../../../../technology/regen/#one-pedal-driving) kombineret med [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal). [ Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Ved lave hastigheder vil en-pedal køretilstand holde bilen kørende, indtil den stopper af sig selv. Du kan justere, hvor stærk regen du får, når du løfter foden. Der er tre niveauer.
 
 ## Udvendig

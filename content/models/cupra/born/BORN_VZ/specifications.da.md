@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for CUPRA BORN VZ. Kli
 				Elektrisk momentudgang
 			</td>
 			<td>
-				545 nm (402 ft-lb)
+				545 nm (402 lb-ft)
 			</td>
 		</tr>
 		<tr>

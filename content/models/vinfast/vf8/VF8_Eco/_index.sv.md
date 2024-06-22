@@ -73,6 +73,9 @@ VinFast VF8 Eco låter användaren välja olika [drivemodes](../../../../technol
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 375mm och de bakre skivorna är 341mm.
 
+
+### Regenerativ bromsning
+
 [Regenerativ bromsning](../../../../technology/regen/) är tillgänglig genom [enpedalkörning](../../../../technology/regen/#one-pedal-driving). [Adaptive regen](../../../../technology/regen/#adaptive-regen) eller frirullning är inte tillgänglig på denna modell. Du kan välja mellan två stopplägen för körning med en pedal. Rullläget gör att fordonet rullar tills det stannar av sig självt, och krypläget kommer att krypa bilen framåt i låg hastighet . Du kan justera hur stark regen är när du lyfter foten. Det finns två nivåer.
 
 ## Exteriör

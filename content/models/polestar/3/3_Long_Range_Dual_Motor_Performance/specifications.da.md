@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Polestar 3 Long Ra
 				Elektrisk momentudgang
 			</td>
 			<td>
-				910 nm (672 ft-lb)
+				910 nm (672 lb-ft)
 			</td>
 		</tr>
 		<tr>

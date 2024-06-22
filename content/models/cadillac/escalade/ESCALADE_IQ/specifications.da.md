@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Cadillac ESCALADE 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1064 nm (785 ft-lb)
+				1064 nm (785 lb-ft)
 			</td>
 		</tr>
 		<tr>

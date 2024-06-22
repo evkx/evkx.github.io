@@ -80,6 +80,9 @@ The Maserati Grecale Folgore lets the user select different [drive modes](../../
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350mm, and the rear discs are 350mm.
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. At low speeds, the one-pedal drive mode will keep the car creeping forward. You can adjust how strong regen you get when you lift the foot. There are three levels.
 
 ## Exterior

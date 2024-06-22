@@ -67,6 +67,9 @@ La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo qu
 
 
 
+### Frenado regenerativo
+
+
 
 ## Exterior
 

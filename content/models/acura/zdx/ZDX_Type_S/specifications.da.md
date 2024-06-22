@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Acura ZDX Type S. 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				737 nm (544 ft-lb)
+				737 nm (544 lb-ft)
 			</td>
 		</tr>
 		<tr>

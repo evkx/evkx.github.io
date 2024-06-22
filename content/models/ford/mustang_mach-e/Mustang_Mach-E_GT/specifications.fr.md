@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Ford Must
 				Couple de sortie électrique
 			</td>
 			<td>
-				860 nm (635 ft-lb)
+				860 nm (635 lb-ft)
 			</td>
 		</tr>
 		<tr>

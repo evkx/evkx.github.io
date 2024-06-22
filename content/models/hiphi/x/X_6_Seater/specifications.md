@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for HiPhi X 6 Seater. Cl
 				Electrical torque output
 			</td>
 			<td>
-				820 nm (605 ft-lb)
+				820 nm (605 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volvo XC4
 				Couple de sortie électrique
 			</td>
 			<td>
-				420 nm (310 ft-lb)
+				420 nm (310 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Volkswagen ID. Buz
 				Elektrisk momentudgang
 			</td>
 			<td>
-				560 nm (413 ft-lb)
+				560 nm (413 lb-ft)
 			</td>
 		</tr>
 		<tr>

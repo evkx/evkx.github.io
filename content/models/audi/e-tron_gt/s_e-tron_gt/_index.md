@@ -82,6 +82,9 @@ Dynamic steering is a standard feature on the Audi S e-tron GT. Dynamic steering
 
 You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 420mm, and the rear discs are 410mm.
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). At low speeds, the one-pedal drive mode will keep the car rolling until it stops by itself. You can adjust how strong regen you get when you lift the foot. There are three levels.
 
 ## Exterior

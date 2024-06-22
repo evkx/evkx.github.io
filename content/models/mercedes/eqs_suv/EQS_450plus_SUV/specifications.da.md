@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Mercedes-EQ EQS 45
 				Elektrisk momentudgang
 			</td>
 			<td>
-				568 nm (419 ft-lb)
+				568 nm (419 lb-ft)
 			</td>
 		</tr>
 		<tr>

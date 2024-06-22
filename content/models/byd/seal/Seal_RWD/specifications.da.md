@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for BYD Seal RWD. Klik
 				Elektrisk momentudgang
 			</td>
 			<td>
-				360 nm (266 ft-lb)
+				360 nm (266 lb-ft)
 			</td>
 		</tr>
 		<tr>

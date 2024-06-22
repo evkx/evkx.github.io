@@ -67,6 +67,9 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 
 
 
+### Frenado regenerativo
+
+
 
 ## Exterior
 

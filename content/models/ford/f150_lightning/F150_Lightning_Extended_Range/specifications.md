@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Ford F150 Lightning 
 				Electrical torque output
 			</td>
 			<td>
-				1050 nm (775 ft-lb)
+				1050 nm (775 lb-ft)
 			</td>
 		</tr>
 		<tr>

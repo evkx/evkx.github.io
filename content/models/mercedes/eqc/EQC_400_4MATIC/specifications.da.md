@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Mercedes-EQ EQC 40
 				Elektrisk momentudgang
 			</td>
 			<td>
-				760 nm (561 ft-lb)
+				760 nm (561 lb-ft)
 			</td>
 		</tr>
 		<tr>

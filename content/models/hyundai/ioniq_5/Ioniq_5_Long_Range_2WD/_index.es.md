@@ -70,6 +70,9 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 
 
 
+
+### Frenado regenerativo
+
 [Frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puedes usar [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-usando-el-pedal-de-freno) para regenerar.
 
 ## Exterior

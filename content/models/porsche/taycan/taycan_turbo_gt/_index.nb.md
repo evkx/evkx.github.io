@@ -72,6 +72,9 @@ Dynamisk styring er standard-funksjonen på Porsche Taycan Turbo GT. Dynamisk st
 
 Bremsene bak og foran er [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De fremre skivene er 420mm, og de bakre skivene er 410mm.
 
+
+### Regenerativ bremsing
+
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i flere moduser. Den mest effektive er [adaptiv regenerering](../../../../technology/regen/#adaptiv-regen). I denne modusen ruller bilen når det er mulig og bruker regenerativ bremsing for å redusere hastigheten. Du kan også aktivere [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving).
 
 ## Eksteriør

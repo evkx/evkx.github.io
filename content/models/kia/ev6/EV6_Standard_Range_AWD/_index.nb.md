@@ -70,6 +70,9 @@ Kia EV6 Standard Range AWD har et firehjulsdriftssystem som støttes av to motor
 
 
 
+
+### Regenerativ bremsing
+
 [Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual-regen-bruker-bremsepedal) for å regenere.
 
 ## Eksteriør

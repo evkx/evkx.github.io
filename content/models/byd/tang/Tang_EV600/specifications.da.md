@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for BYD Tang EV600. Kl
 				Elektrisk momentudgang
 			</td>
 			<td>
-				680 nm (502 ft-lb)
+				680 nm (502 lb-ft)
 			</td>
 		</tr>
 		<tr>

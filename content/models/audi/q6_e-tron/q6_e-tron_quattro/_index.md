@@ -91,6 +91,9 @@ The Audi Q6 e-tron quattro lets the user select different [drive modes](../../..
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 350mm.
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). You can choose between three stopping modes for one-pedal driving. Hold mode stops the car completely using friction brakes, roll mode causes the vehicle to roll until it stops by itself, and creep mode will creep the car forward at low speed. You can adjust how strong regen you get when you lift the foot. There are two levels.
 
 ## Exterior

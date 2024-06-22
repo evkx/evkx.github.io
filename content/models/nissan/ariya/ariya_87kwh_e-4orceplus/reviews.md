@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The 2024 Nissan Ariya e-4ORCE Is A More Upscale & Sensible Japanese Electric SUV</h3>
+<p>Rediline Reviews: 22.06.2024</p>
+
+{{< youtube k2b72Mhxpjs >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Nissan Ariya e-4orce Evolve+ range test</h3>
 <p>Bjørn Nyland: 12.05.2024</p>
 

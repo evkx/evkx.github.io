@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for YangWang U9. Click o
 				Electrical torque output
 			</td>
 			<td>
-				1680 nm (1240 ft-lb)
+				1680 nm (1240 lb-ft)
 			</td>
 		</tr>
 		<tr>

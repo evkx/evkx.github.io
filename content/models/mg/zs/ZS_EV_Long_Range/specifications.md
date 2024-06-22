@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for MG ZS EV Long Range.
 				Electrical torque output
 			</td>
 			<td>
-				280 nm (207 ft-lb)
+				280 nm (207 lb-ft)
 			</td>
 		</tr>
 		<tr>

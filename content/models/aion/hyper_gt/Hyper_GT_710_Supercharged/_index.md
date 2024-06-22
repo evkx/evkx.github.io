@@ -67,6 +67,9 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
 
+### Regenerative braking
+
+
 
 ## Exterior
 

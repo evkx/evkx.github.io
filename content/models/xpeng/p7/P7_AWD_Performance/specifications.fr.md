@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour XPENG P7 
 				Couple de sortie électrique
 			</td>
 			<td>
-				717 nm (529 ft-lb)
+				717 nm (529 lb-ft)
 			</td>
 		</tr>
 		<tr>

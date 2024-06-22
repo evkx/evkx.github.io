@@ -75,6 +75,9 @@ Dynamisk styring er en standard-funktion på HiPhi Z 5 Seater. Dynamisk styring 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
 
 
+### Regenerativ bremsning
+
+
 
 ## Udvendig
 

@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Mercedes-AMG EQE 4
 				Elektrisk momentudgang
 			</td>
 			<td>
-				858 nm (633 ft-lb)
+				858 nm (633 lb-ft)
 			</td>
 		</tr>
 		<tr>

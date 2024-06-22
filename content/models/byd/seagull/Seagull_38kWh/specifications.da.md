@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for BYD Seagull 38kWh.
 				Elektrisk momentudgang
 			</td>
 			<td>
-				135 nm (100 ft-lb)
+				135 nm (100 lb-ft)
 			</td>
 		</tr>
 		<tr>

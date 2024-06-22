@@ -82,6 +82,9 @@ El Rivian R1S Quad-Motor AWD MP permite al usuario seleccionar diferentes [modos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 343 mm y los discos traseros de 328 mm.
 
+
+### Frenado regenerativo
+
 [Frenado regenerativo](../../../../technology/regen/) está disponible a través de [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving). [Regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o navegación por inercia no está disponible en este modelo. El sistema detiene el automóvil por completo mediante frenos de fricción. Puedes ajustar la fuerza de regeneración que obtienes cuando levantas el pie. Hay dos niveles.
 
 ## Exterior

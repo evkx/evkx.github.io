@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Rivian R1
 				Couple de sortie électrique
 			</td>
 			<td>
-				1623 nm (1198 ft-lb)
+				1623 nm (1198 lb-ft)
 			</td>
 		</tr>
 		<tr>

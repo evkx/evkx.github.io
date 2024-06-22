@@ -47,7 +47,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi RS e
 				Couple de sortie électrique
 			</td>
 			<td>
-				830 nm (613 ft-lb)
+				830 nm (613 lb-ft)
 			</td>
 		</tr>
 		<tr>

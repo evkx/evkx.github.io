@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi Q4 Sportback 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				679 nm (501 ft-lb)
+				679 nm (501 lb-ft)
 			</td>
 		</tr>
 		<tr>

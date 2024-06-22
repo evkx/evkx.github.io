@@ -70,6 +70,9 @@ Dynamic steering is a standard feature on the Xiaomi SU7 Pro. Dynamic steering v
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. The system stops the car completely using friction brakes.
 
 ## Exterior

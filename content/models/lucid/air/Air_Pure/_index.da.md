@@ -70,6 +70,9 @@ Dynamisk styring er en standard-funktion på Lucid Air Pure. Dynamisk styring va
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 380mm, og de bagerste skiver er 375mm.
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig via [én-pedalkørsel](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller friløb er ikke tilgængelig i denne model. Systemet stopper bilen fuldstændigt ved hjælp af friktionsbremser.
 
 ## Udvendig

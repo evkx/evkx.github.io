@@ -81,6 +81,9 @@ Automobili Pininfarina Battista lader brugeren vælge forskellige [drive modes](
 
 Bremserne bag og foran er [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De forreste skiver er 390mm, og de bagerste skiver er 390mm.
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [en-pedalkørsel](../../../../technology/regen/#one-pedal-driving), eller du kan friløbe og bruge [blendede bremser](../../../../technology/regen/#manual-regen-bruger-bremsepedal) for at regenere. Systemet stopper bilen fuldstændigt ved hjælp af friktionsbremser. Du kan justere, hvor stærk regen du får, når du løfter foden. Der er to niveauer.
 
 ## Udvendig

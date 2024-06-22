@@ -67,6 +67,9 @@ Toyota bZ4X AWD har et firehjulstræk, der understøttes af to motorer, en på h
 
 
 
+### Regenerativ bremsning
+
+
 
 ## Udvendig
 

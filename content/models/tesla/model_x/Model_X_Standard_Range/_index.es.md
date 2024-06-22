@@ -70,6 +70,9 @@ La dirección dinámica es una característica un estándar en el Tesla Model X 
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 355 mm y los discos traseros de 355 mm.
 
+
+### Frenado regenerativo
+
 [Frenado regenerativo](../../../../technology/regen/) está disponible a través de [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving). [Regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o navegación por inercia no está disponible en este modelo. Puedes elegir entre tres modos de parada para conducir con un solo pedal. El modo Hold detiene el auto por completo usando frenos de fricción, el modo Roll hace que el vehículo ruede hasta que se detenga por sí solo y El modo lento hará que el auto avance lentamente a baja velocidad. Puedes ajustar la fuerza de regeneración que obtienes cuando levantas el pie. Hay dos niveles.
 
 ## Exterior

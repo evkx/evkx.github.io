@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Mercedes-EQ EQE 300.
 				Electrical torque output
 			</td>
 			<td>
-				565 nm (417 ft-lb)
+				565 nm (417 lb-ft)
 			</td>
 		</tr>
 		<tr>

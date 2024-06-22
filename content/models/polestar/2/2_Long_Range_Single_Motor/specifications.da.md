@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Polestar 2 Long Ra
 				Elektrisk momentudgang
 			</td>
 			<td>
-				490 nm (362 ft-lb)
+				490 nm (362 lb-ft)
 			</td>
 		</tr>
 		<tr>

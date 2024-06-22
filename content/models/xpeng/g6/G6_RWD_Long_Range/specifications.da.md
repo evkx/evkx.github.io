@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for XPENG G6 RWD Long 
 				Elektrisk momentudgang
 			</td>
 			<td>
-				440 nm (325 ft-lb)
+				440 nm (325 lb-ft)
 			</td>
 		</tr>
 		<tr>

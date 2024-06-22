@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW i7 M70 xDrive.
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1015 nm (749 ft-lb)
+				1015 nm (749 lb-ft)
 			</td>
 		</tr>
 		<tr>

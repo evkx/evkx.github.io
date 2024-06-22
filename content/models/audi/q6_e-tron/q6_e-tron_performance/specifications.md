@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Audi Q6 e-tron perfo
 				Electrical torque output
 			</td>
 			<td>
-				485 nm (358 ft-lb)
+				485 nm (358 lb-ft)
 			</td>
 		</tr>
 		<tr>

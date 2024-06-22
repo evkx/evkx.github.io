@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Maserati Grecale F
 				Elektrisk momentudgang
 			</td>
 			<td>
-				820 nm (605 ft-lb)
+				820 nm (605 lb-ft)
 			</td>
 		</tr>
 		<tr>

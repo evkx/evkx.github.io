@@ -70,6 +70,9 @@ Volvo EC40 Single Motor ER har et baghjulstræksystem, der understøttes af en m
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [en-pedalkørsel](../../../../technology/regen/#one-pedal-driving), eller du kan friløbe og bruge [blendede bremser](../../../../technology/regen/#manual-regen-bruger-bremsepedal) for at regenere. Systemet stopper bilen fuldstændigt ved hjælp af friktionsbremser.
 
 ## Udvendig

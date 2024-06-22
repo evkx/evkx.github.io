@@ -67,6 +67,9 @@ The suspension is fully adaptive on the front and rear axle, so height and dampi
 
 
 
+### Regenerative braking
+
+
 
 ## Exterior
 

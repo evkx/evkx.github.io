@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Volvo EX9
 				Couple de sortie électrique
 			</td>
 			<td>
-				770 nm (568 ft-lb)
+				770 nm (568 lb-ft)
 			</td>
 		</tr>
 		<tr>

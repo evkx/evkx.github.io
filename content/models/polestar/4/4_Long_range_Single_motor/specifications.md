@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Polestar 4 Long rang
 				Electrical torque output
 			</td>
 			<td>
-				343 nm (253 ft-lb)
+				343 nm (253 lb-ft)
 			</td>
 		</tr>
 		<tr>

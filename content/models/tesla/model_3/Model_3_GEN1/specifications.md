@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Tesla Model 3 (GEN1)
 				Electrical torque output
 			</td>
 			<td>
-				420 nm (310 ft-lb)
+				420 nm (310 lb-ft)
 			</td>
 		</tr>
 		<tr>

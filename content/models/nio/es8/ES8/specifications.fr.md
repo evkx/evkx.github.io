@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Nio ES8. 
 				Couple de sortie électrique
 			</td>
 			<td>
-				725 nm (535 ft-lb)
+				725 nm (535 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -66,6 +66,9 @@ Forhjulsophænget og baghjulsophænget er [Multilink](../../../../technology/sus
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 396mm, og de bagerste skiver er 343mm.
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [en-pedalkørsel](../../../../technology/regen/#one-pedal-driving), eller du kan friløbe og bruge [blendede bremser](../../../../technology/regen/#manual-regen-bruger-bremsepedal) for at regenere. Systemet stopper bilen fuldstændigt ved hjælp af friktionsbremser.
 
 ## Udvendig

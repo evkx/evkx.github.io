@@ -70,6 +70,9 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 482 mm y los discos traseros de 457 mm.
 
+
+### Frenado regenerativo
+
 [El frenado regenerativo](../../../../technology/regen/) está disponible a través de [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) combinado con [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal). [ La regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) no está disponible en este modelo.
 
 ## Exterior

@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour XPENG X9 
 				Couple de sortie électrique
 			</td>
 			<td>
-				640 nm (472 ft-lb)
+				640 nm (472 lb-ft)
 			</td>
 		</tr>
 		<tr>

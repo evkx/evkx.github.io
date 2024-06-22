@@ -70,6 +70,9 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. At low speeds, the one-pedal drive mode will keep the car creeping forward.
 
 ## Exterior

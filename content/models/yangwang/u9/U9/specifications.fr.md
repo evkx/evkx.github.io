@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour YangWang 
 				Couple de sortie électrique
 			</td>
 			<td>
-				1680 nm (1240 ft-lb)
+				1680 nm (1240 lb-ft)
 			</td>
 		</tr>
 		<tr>

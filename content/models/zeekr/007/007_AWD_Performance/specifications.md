@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Zeekr 007 AWD Perfor
 				Electrical torque output
 			</td>
 			<td>
-				710 nm (524 ft-lb)
+				710 nm (524 lb-ft)
 			</td>
 		</tr>
 		<tr>

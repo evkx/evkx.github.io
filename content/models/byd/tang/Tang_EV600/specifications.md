@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for BYD Tang EV600. Clic
 				Electrical torque output
 			</td>
 			<td>
-				680 nm (502 ft-lb)
+				680 nm (502 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -70,6 +70,9 @@ Dynamisk styring er en standard-funktion på BYD Dolphin 60.4kWh. Dynamisk styri
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
 
+
+### Regenerativ bremsning
+
 [Regenerativ bremsning](../../../../technology/regen/) er tilgængelig via [én-pedalkørsel](../../../../technology/regen/#one-pedal-driving) kombineret med [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal). [ Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model.
 
 ## Udvendig

@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Porsche Macan Turbo.
 				Electrical torque output
 			</td>
 			<td>
-				1130 nm (834 ft-lb)
+				1130 nm (834 lb-ft)
 			</td>
 		</tr>
 		<tr>

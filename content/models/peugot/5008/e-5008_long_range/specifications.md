@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Peugot E-5008 Long R
 				Electrical torque output
 			</td>
 			<td>
-				345 nm (255 ft-lb)
+				345 nm (255 lb-ft)
 			</td>
 		</tr>
 		<tr>

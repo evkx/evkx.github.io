@@ -71,6 +71,9 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 350 mm y los discos traseros de 325 mm.
 
 
+### Frenado regenerativo
+
+
 
 ## Exterior
 

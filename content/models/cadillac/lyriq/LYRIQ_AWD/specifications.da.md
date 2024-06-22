@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Cadillac LYRIQ AWD
 				Elektrisk momentudgang
 			</td>
 			<td>
-				610 nm (450 ft-lb)
+				610 nm (450 lb-ft)
 			</td>
 		</tr>
 		<tr>

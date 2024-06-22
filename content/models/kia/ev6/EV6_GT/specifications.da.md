@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Kia EV6 GT. Klik p
 				Elektrisk momentudgang
 			</td>
 			<td>
-				740 nm (546 ft-lb)
+				740 nm (546 lb-ft)
 			</td>
 		</tr>
 		<tr>

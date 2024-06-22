@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Neta GT 580 AWD. Cli
 				Electrical torque output
 			</td>
 			<td>
-				620 nm (458 ft-lb)
+				620 nm (458 lb-ft)
 			</td>
 		</tr>
 		<tr>

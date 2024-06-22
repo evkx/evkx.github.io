@@ -76,6 +76,9 @@ Dynamic steering is a standard feature on the Mercedes-AMG EQE 53 4MATIC+. Dynam
 
 You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The second option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes).
 
+
+### Regenerative braking
+
 [Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). You can choose between two stopping modes for one-pedal driving. Hold mode stops the car completely using friction brakes, and roll mode causes the vehicle to roll until it stops by itself.
 
 ## Exterior

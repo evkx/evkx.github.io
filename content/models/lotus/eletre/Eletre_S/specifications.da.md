@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Lotus Eletre S. Kl
 				Elektrisk momentudgang
 			</td>
 			<td>
-				710 nm (524 ft-lb)
+				710 nm (524 lb-ft)
 			</td>
 		</tr>
 		<tr>

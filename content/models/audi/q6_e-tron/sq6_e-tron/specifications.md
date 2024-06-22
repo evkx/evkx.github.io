@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Audi SQ6 e-tron. Cli
 				Electrical torque output
 			</td>
 			<td>
-				650 nm (480 ft-lb)
+				650 nm (480 lb-ft)
 			</td>
 		</tr>
 		<tr>
