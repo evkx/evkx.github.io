@@ -73,9 +73,9 @@ Du kan välja mellan olika bromssystem. Bromsarna standard använder en [volfram
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig genom [enpedalkörning](../../../../technology/regen/#one-pedal-driving) kombinerat med [blandade bromsar](../../../../technology/regen/#manual-regen-using-brake-pedal). [ Adaptiv regen](../../../../technology/regen/#adaptiv-regen) är inte tillgänglig i den här modellen. Vid låga hastigheter kommer körläget med en pedal att hålla bilen i rullning tills den stannar av sig själv.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Dock möjliggörs [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving) kombinerat med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal). Det anses dock inte vara full enpedalskörning eftersom fordonet vid låga hastigheter kommer att fortsätta rulla tills det stannar av sig självt.
 
-Du kan justera hur stark regen du blir när du lyfter foten. Det finns tre nivåer.
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns tre nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
 
 ## Exteriör
 

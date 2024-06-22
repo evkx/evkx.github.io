@@ -69,7 +69,9 @@ Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double
 
 ### Regenerativ bremsning
 
-[Regenerativ bremsning](../../../../technology/regen/) er tilgængelig via [én-pedalkørsel](../../../../technology/regen/#one-pedal-driving) kombineret med [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal). [ Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+
+Den maksimale regenerative effekt er 400 kW.
 
 ## Udvendig
 

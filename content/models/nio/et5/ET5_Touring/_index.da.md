@@ -88,9 +88,9 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ### Regenerativ bremsning
 
-[Regenerativ bremsning](../../../../technology/regen/) er tilgængelig via [én-pedalkørsel](../../../../technology/regen/#one-pedal-driving) kombineret med [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal). [ Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Ved lave hastigheder vil en-pedal køretilstand holde bilen krybende fremad.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) er ikke tilgængelig i denne model. Dog faciliteres [regenerativ bremsning](../../../../technology/regen/) gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving) kombineret med [**blandede bremser**](../../../../technology/regen/#manual-regen-using-brake-pedal). Ved lave hastigheder vil en-pedal kørsel holde bilen langsomt kørende fremad.
 
-Du kan justere, hvor stærk regen du får, når du løfter foden. Der er tre niveauer.
+Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
 
 ## Udvendig
 

@@ -69,7 +69,7 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 ### Regenerativ bremsning
 
-[Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [en-pedalkørsel](../../../../technology/regen/#one-pedal-driving), eller du kan friløbe og bruge [blendede bremser](../../../../technology/regen/#manual-regen-bruger-bremsepedal) for at regenere. Ved lave hastigheder vil en-pedal køretilstand holde bilen kørende, indtil den stopper af sig selv.
+[Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i to tilstande. Du kan bruge [en-pedal kørsel](../../../../technology/regen/#one-pedal-driving) eller du kan køre på frihjul og bruge de [blandede bremser](../../../../technology/regen/#manual-regen-using-brake-pedal) til at regenerere. Det betragtes dog ikke som fuld en-pedal kørsel, da køretøjet ved lave hastigheder vil fortsætte med at rulle, indtil det stopper af sig selv.
 
 ## Udvendig
 

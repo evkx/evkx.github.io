@@ -77,7 +77,9 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig genom [enpedalkörning](../../../../technology/regen/#one-pedal-driving) kombinerat med [blandade bromsar](../../../../technology/regen/#manual-regen-using-brake-pedal). [ Adaptiv regen](../../../../technology/regen/#adaptiv-regen) är inte tillgänglig i den här modellen.
+[**Automatisk regenerering**](../../../../technology/regen/#automatic-regen-adaptive) är inte tillgänglig i denna modell. Dock möjliggörs [regenerativ bromsning](../../../../technology/regen/) genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving) kombinerat med [**blandade bromsar**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+
+Den maximala regenerativa effekten är 200 kW.
 
 ## Exteriör
 

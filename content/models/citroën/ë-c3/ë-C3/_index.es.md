@@ -73,7 +73,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ### Frenado regenerativo
 
-A bajas velocidades, el modo de conducción con un solo pedal mantendrá el automóvil avanzando lentamente.
+A bajas velocidades, el modo de conducción con un solo pedal mantendrá el coche avanzando lentamente.
 
 ## Exterior
 

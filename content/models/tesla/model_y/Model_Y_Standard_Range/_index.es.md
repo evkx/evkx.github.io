@@ -103,9 +103,9 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ### Frenado regenerativo
 
-[Frenado regenerativo](../../../../technology/regen/) está disponible a través de [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving). [Regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o navegación por inercia no está disponible en este modelo. Puedes elegir entre tres modos de parada para conducir con un solo pedal. El modo Hold detiene el auto por completo usando frenos de fricción, el modo Roll hace que el vehículo ruede hasta que se detenga por sí solo y El modo lento hará que el auto avance lentamente a baja velocidad.
+[La frenada regenerativa](../../../../technology/regen/) en este modelo se facilita principalmente a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving). A diferencia de algunos modelos, [la regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o la conducción por inercia no están disponibles aquí. Este modelo ofrece tres modos de parada para la conducción con un solo pedal: <ul><li>**El modo Hold** detiene completamente el vehículo utilizando frenos de fricción</li><li>**El modo Roll** permite que el vehículo ruede hasta que se detenga de manera natural</li><li>**El modo Creep** mueve el coche hacia adelante a baja velocidad</li></ul>
 
-Puedes ajustar la fuerza de regeneración que obtienes cuando levantas el pie. Hay dos niveles.
+Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
 
 ## Exterior
 

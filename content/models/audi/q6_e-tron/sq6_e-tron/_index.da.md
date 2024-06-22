@@ -94,9 +94,11 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ### Regenerativ bremsning
 
-Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br /> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) tilstand, hvor regenerativ bremsning aktiveres når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsen, en funktion der ofte kaldes for **en-pedal kørsel**. Du kan vælge mellem tre stoptilstande til kørsel med én pedal. Holdtilstand stopper bilen fuldstændigt ved hjælp af friktionsbremser, rulningstilstand får køretøjet til at rulle, indtil det stopper af sig selv, og krybetilstand vil krybe bilen fremad ved lav hastighed.
+Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br />**Manuel regenerering** er en anden tilstand, hvor regenerativ bremsning styres ved at trykke på bremsepedalen. Bremsesystemet blander kun fysiske bremser ind, når det er nødvendigt. <br /><br/> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving)-tilstand, hvor regenerativ bremsning aktiveres, når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsepedalen, en funktion der ofte kaldes **en-pedal kørsel**. Denne model tilbyder tre stopmodi til en-pedal kørsel: <ul><li>**Hold mode** stopper køretøjet helt ved brug af friktionsbremser</li><li>**Roll mode** tillader køretøjet at rulle, indtil det stopper naturligt</li><li>**Creep mode** bevæger bilen fremad ved lav hastighed</li></ul>
 
-Du kan justere, hvor stærk regen du får, når du løfter foden. Der er to niveauer.
+Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er to niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
+
+Den maksimale regenerative effekt er 220 kW.
 
 ## Udvendig
 

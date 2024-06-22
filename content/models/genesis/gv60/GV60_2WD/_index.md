@@ -71,6 +71,8 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen.
 
+The maximum regenerative power is 150 kW.
+
 ## Exterior
 
 You can choose between 10 different paint colors when ordering this model.

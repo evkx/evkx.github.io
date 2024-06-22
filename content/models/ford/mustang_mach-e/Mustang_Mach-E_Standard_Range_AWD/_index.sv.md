@@ -73,7 +73,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) finns i två lägen. Du kan använda [enpedalutrullning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla ut och använda [blinda bromsar](../../../../technology/regen/#manual-regen-user-brakepedal) för att regenerera. Du kan välja mellan två stopplägen för enpedalkörning. Hold-läget stoppar fordonet helt med friktionsbromsar, och rullningsläget gör att fordonet rullar tills det stannar på sin egen.
+[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera. Du kan välja mellan två stoppmodi för enpedalskörning. **Hold-läge** stoppar fordonet helt med hjälp av friktionsbromsar, och **Roll-läge** låter fordonet rulla tills det stannar naturligt.
 
 ## Exteriör
 

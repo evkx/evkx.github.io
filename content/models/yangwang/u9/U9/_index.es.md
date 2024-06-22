@@ -84,9 +84,11 @@ Los frenos traseros y delanteros son [discos cerámicos](../../../../technology/
 
 ### Frenado regenerativo
 
-[Frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puedes usar [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-usando-el-pedal-de-freno) para regenerar. El sistema detiene el automóvil por completo mediante frenos de fricción.
+[La frenada regenerativa](../../../../technology/regen/) está disponible en dos modos. Puedes usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puedes conducir por inercia y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. El sistema detiene completamente el coche utilizando frenos de fricción.
 
-Puedes ajustar la fuerza de regeneración que obtienes cuando levantas el pie. Hay dos niveles.
+Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
+
+La potencia regenerativa máxima es de 400 kW.
 
 ## Exterior
 

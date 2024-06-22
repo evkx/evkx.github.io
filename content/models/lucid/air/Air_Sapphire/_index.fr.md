@@ -73,7 +73,7 @@ Les freins arrière et avant sont des [disques en céramique](../../../../techno
 
 ### Freinage régénératif
 
-[Freinage régénératif](../../../../technology/regen/) est disponible via [conduite à une pédale](../../../../technology/regen/#one-pedal-driving). [Régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la roue libre n'est pas disponible dans ce modèle. Le système arrête complètement la voiture à l'aide des freins à friction.
+[Le freinage régénératif](../../../../technology/regen/) de ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la conduite en roue libre ne sont pas disponibles ici. Le système arrête complètement la voiture en utilisant les freins à friction.
 
 ## Extérieur
 

@@ -73,7 +73,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ### Regenerativ bromsning
 
-Vid låga hastigheter kommer körläget med en pedal att hålla bilen krypande framåt.
+Vid låga hastigheter kommer enpedalskörningsläget att hålla bilen långsamt framåt.
 
 ## Exteriör
 

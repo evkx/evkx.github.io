@@ -77,7 +77,9 @@ Du kan velge mellom forskjellige bremsesystemer. Opsjonsbremsene standard bruker
 
 ### Regenerativ bremsing
 
-Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modellen tilbyr flere moduser for å forbedre effektiviteten og kjøreopplevelsen. Det mest effektive alternativet er [**Automatisk Regenereringsmodus**](../../../../technology/regen/#automatic-regen-adaptive), hvor kjøretøyet seiler når det er mulig og bruker regenerativ bremsing for å redusere hastigheten etter behov. <br /><br /> Et annet alternativ er [**Regen på Akseleratorpedal**](../../../../technology/regen/#one-pedal-driving)-modus, hvor regenerativ bremsing aktiveres når føreren slipper akseleratorpedalen. Dette systemet lar kjøretøyet sakke ned og gjenvinne energi uten at føreren trenger å trykke på bremsen, en funksjon som ofte refereres til som **enpedals kjøring**.
+Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modellen tilbyr flere moduser for å forbedre effektiviteten og kjøreopplevelsen. Det mest effektive alternativet er [**Automatisk Regenereringsmodus**](../../../../technology/regen/#automatic-regen-adaptive), hvor kjøretøyet seiler når det er mulig og bruker regenerativ bremsing for å redusere hastigheten etter behov. <br /><br />**Manuell regenerering** er en annen modus, hvor regenerativ bremsing kontrolleres ved å trykke på bremsepedalen. Bremsesystemet blander inn fysiske bremser bare når det er nødvendig. <br /><br/> Et annet alternativ er [**Regen på Akseleratorpedal**](../../../../technology/regen/#one-pedal-driving)-modus, hvor regenerativ bremsing aktiveres når føreren slipper akseleratorpedalen. Dette systemet lar kjøretøyet sakke ned og gjenvinne energi uten at føreren trenger å trykke på bremsepedalen, en funksjon som ofte refereres til som **enpedals kjøring**.
+
+Den maksimale regenerative effekten er 265 kW.
 
 ## Eksteriør
 

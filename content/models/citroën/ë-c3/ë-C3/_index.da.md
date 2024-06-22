@@ -73,7 +73,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ### Regenerativ bremsning
 
-Ved lave hastigheder vil en-pedal køretilstand holde bilen krybende fremad.
+Ved lave hastigheder vil en-pedal kørsel holde bilen langsomt kørende fremad.
 
 ## Udvendig
 

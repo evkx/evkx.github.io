@@ -69,7 +69,9 @@ Kia EV9 Long Range RWD tiene un sistema de tracción trasera sostenido por un mo
 
 ### Frenado regenerativo
 
-[Frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puedes usar [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-usando-el-pedal-de-freno) para regenerar. El sistema detiene el automóvil por completo mediante frenos de fricción.
+[La frenada regenerativa](../../../../technology/regen/) está disponible en dos modos. Puedes usar la [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puedes conducir por inercia y usar los [frenos combinados](../../../../technology/regen/#manual-regen-using-brake-pedal) para regenerar. El sistema detiene completamente el coche utilizando frenos de fricción.
+
+La potencia regenerativa máxima es de 150 kW.
 
 ## Exterior
 

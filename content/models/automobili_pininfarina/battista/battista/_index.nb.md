@@ -84,9 +84,11 @@ Bremsene bak og foran er [keramiske skiver](../../../../technology/brakes/#ceram
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual-regen-bruker-bremsepedal) for å regenere. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser.
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to modi. Du kan bruke [en-pedalskjøring](../../../../technology/regen/#one-pedal-driving) eller du kan frihjule og bruke de [blandede bremsene](../../../../technology/regen/#manual-regen-using-brake-pedal) til å regenerere. Systemet stopper bilen helt ved hjelp av friksjonsbremser.
 
-Du kan justere hvor sterk regen du får når du løfter foten. Det er to nivåer.
+I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten fra gasspedalen. Det finnes to nivåer av regenerativ bremsing å velge mellom, noe som gir deg mulighet til å tilpasse kjøreopplevelsen etter dine preferanser.
+
+Den maksimale regenerative effekten er 400 kW.
 
 ## Eksteriør
 

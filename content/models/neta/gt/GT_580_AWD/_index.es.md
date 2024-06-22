@@ -69,7 +69,7 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 
 ### Frenado regenerativo
 
-[Frenado regenerativo](../../../../technology/regen/) está disponible a través de [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving). [Regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o navegación por inercia no está disponible en este modelo. Puedes elegir entre dos modos de parada para conducir con un solo pedal. El modo Hold detiene el auto por completo usando frenos de fricción y el modo lento hará que el auto avance a baja velocidad.
+[La frenada regenerativa](../../../../technology/regen/) en este modelo se facilita principalmente a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving). A diferencia de algunos modelos, [la regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o la conducción por inercia no están disponibles aquí. Puedes elegir entre dos modos de parada para la conducción con un solo pedal. **El modo Hold** detiene completamente el vehículo utilizando frenos de fricción y **el modo Creep** mueve el coche hacia adelante a baja velocidad.
 
 ## Exterior
 

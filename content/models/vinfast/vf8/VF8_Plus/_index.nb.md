@@ -76,9 +76,9 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). [Adaptiv regen](../../../../technology/regen/#adaptive-regen) eller coasting er ikke tilgjengelig på denne modellen. Du kan velge mellom to stoppmoduser for enpedalkjøring. Rullemodus får kjøretøyet til å rulle til det stopper av seg selv, og krypemodus vil krype bilen fremover i lav hastighet .
+[Regenerativ bremsing](../../../../technology/regen/) i denne modellen er primært tilrettelagt gjennom [**en-pedalskjøring**](../../../../technology/regen/#one-pedal-driving). I motsetning til noen modeller er [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling ikke tilgjengelig her. Du kan velge mellom to stoppmodi for en-pedalskjøring. <ul><li>**Roll-modus** lar kjøretøyet rulle til det stopper naturlig</li><li>**Creep-modus** beveger bilen sakte fremover</li></ul>
 
-Du kan justere hvor sterk regen du får når du løfter foten. Det er to nivåer.
+I tillegg kan du justere styrken på den regenerative bremsingen når du løfter foten fra gasspedalen. Det finnes to nivåer av regenerativ bremsing å velge mellom, noe som gir deg mulighet til å tilpasse kjøreopplevelsen etter dine preferanser.
 
 ## Eksteriør
 

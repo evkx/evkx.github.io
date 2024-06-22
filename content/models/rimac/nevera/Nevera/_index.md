@@ -88,6 +88,8 @@ The rear and front brakes are [ceramic discs](../../../../technology/brakes/#cer
 
 Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are two levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
+The maximum regenerative power is 400 kW.
+
 ## Exterior
 
 You can choose between 5 different paint colors when ordering this model.

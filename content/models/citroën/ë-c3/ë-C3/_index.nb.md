@@ -73,7 +73,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ### Regenerativ bremsing
 
-Ved lave hastigheter vil en-pedal kjøremodus holde bilen krypende fremover.
+Ved lave hastigheter vil en-pedalskjøringsmodus holde bilen sakte fremover.
 
 ## Eksteriør
 

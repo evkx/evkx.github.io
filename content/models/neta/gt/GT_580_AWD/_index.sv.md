@@ -69,7 +69,7 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig genom [enpedalkörning](../../../../technology/regen/#one-pedal-driving). [Adaptive regen](../../../../technology/regen/#adaptive-regen) eller frirullning är inte tillgänglig på denna modell. Du kan välja mellan två stopplägen för enpedalkörning. Hold-läget stoppar bilen helt med friktionsbromsar och krypläget kryper bilen framåt i låg hastighet.
+[Regenerativ bromsning](../../../../technology/regen/) i denna modell underlättas främst genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving). Till skillnad från vissa modeller är [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling inte tillgänglig här. Du kan välja mellan två stoppmodi för enpedalskörning. **Hold-läge** stoppar fordonet helt med hjälp av friktionsbromsar och **Creep-läge** för bilen framåt i låg hastighet.
 
 ## Exteriör
 

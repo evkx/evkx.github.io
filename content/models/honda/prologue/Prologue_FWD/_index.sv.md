@@ -73,9 +73,9 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) finns i två lägen. Du kan använda [enpedalutrullning](../../../../technology/regen/#one-pedal-driving) eller så kan du rulla ut och använda [blinda bromsar](../../../../technology/regen/#manual-regen-user-brakepedal) för att regenerera. Systemet stoppar bilen helt med friktionsbromsar.
+[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig i två lägen. Du kan använda [enpedalskörning](../../../../technology/regen/#one-pedal-driving) eller du kan frihjula och använda de [kombinerade bromsarna](../../../../technology/regen/#manual-regen-using-brake-pedal) för att regenerera. Systemet stoppar bilen helt med hjälp av friktionsbromsar.
 
-Du kan justera hur stark regen du blir när du lyfter foten. Det finns tre nivåer.
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns tre nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
 
 ## Exteriör
 

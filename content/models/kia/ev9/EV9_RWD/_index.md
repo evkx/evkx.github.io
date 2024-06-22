@@ -71,6 +71,8 @@ Kia EV9 RWD has a rear-wheel drive system supported by one motor on the rear axl
 
 [Regenerative braking](../../../../technology/regen/) is available in two modes. You can use [one-pedal driving](../../../../technology/regen/#one-pedal-driving) or you can coast and use the [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal) to regen. The system stops the car completely using friction brakes.
 
+The maximum regenerative power is 150 kW.
+
 ## Exterior
 
 You can choose between 7 different paint colors when ordering this model.

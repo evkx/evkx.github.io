@@ -69,7 +69,9 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 
 ### Freinage régénératif
 
-[Freinage régénératif](../../../../technology/regen/) est disponible via [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) combiné avec des [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal). [ La régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible dans ce modèle.
+[**Régénération automatique**](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible sur ce modèle. Cependant, le [freinage régénératif](../../../../technology/regen/) est facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving) combinée avec des [**freins mixtes**](../../../../technology/regen/#manual-regen-using-brake-pedal).
+
+La puissance régénérative maximale est de 400 kW.
 
 ## Extérieur
 

@@ -69,7 +69,9 @@ Kia EV9 GT-Line AWD dispose d'un système de transmission intégrale pris en cha
 
 ### Freinage régénératif
 
-[Freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler en roue libre et utiliser les [freins mixtes](../../../../technology/regen/#manual -régénération-à l'aide de la pédale de frein) pour régénérer. Le système arrête complètement la voiture à l'aide des freins à friction.
+[Le freinage régénératif](../../../../technology/regen/) est disponible en deux modes. Vous pouvez utiliser la [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) ou vous pouvez rouler en roue libre et utiliser les [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal) pour régénérer. Le système arrête complètement la voiture en utilisant les freins à friction.
+
+La puissance régénérative maximale est de 150 kW.
 
 ## Extérieur
 

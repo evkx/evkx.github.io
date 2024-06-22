@@ -77,7 +77,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ### Regenerativ bromsning
 
-Vid låga hastigheter kommer körläget med en pedal att hålla bilen i rullning tills den stannar av sig själv.
+Det anses dock inte vara full enpedalskörning eftersom fordonet vid låga hastigheter kommer att fortsätta rulla tills det stannar av sig självt.
 
 ## Exteriör
 

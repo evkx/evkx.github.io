@@ -73,7 +73,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ### Freinage régénératif
 
-À basse vitesse, le mode de conduite à une pédale permettra à la voiture d'avancer.
+À basse vitesse, le mode de conduite à une pédale maintiendra la voiture en avançant lentement.
 
 ## Extérieur
 

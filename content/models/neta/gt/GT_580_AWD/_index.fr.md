@@ -69,7 +69,7 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 
 ### Freinage régénératif
 
-[Freinage régénératif](../../../../technology/regen/) est disponible via [conduite à une pédale](../../../../technology/regen/#one-pedal-driving). [Régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la roue libre n'est pas disponible dans ce modèle. Vous pouvez choisir entre deux modes d'arrêt pour la conduite avec une seule pédale. Le mode Hold arrête complètement la voiture en utilisant les freins à friction et le mode rampant fera avancer la voiture à basse vitesse.
+[Le freinage régénératif](../../../../technology/regen/) de ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la conduite en roue libre ne sont pas disponibles ici. Vous pouvez choisir entre deux modes d'arrêt pour la conduite à une pédale. **Le mode Hold** arrête complètement le véhicule en utilisant les freins à friction et **le mode Creep** fait avancer la voiture à basse vitesse.
 
 ## Extérieur
 

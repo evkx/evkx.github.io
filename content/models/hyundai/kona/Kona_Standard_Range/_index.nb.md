@@ -73,7 +73,7 @@ Hyundai Kona Standard Range har et forhjulsdriftssystem støttet av én motor p�
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual-regen-bruker-bremsepedal) for å regenere. Systemet stopper bilen fullstendig ved hjelp av friksjonsbremser.
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to modi. Du kan bruke [en-pedalskjøring](../../../../technology/regen/#one-pedal-driving) eller du kan frihjule og bruke de [blandede bremsene](../../../../technology/regen/#manual-regen-using-brake-pedal) til å regenerere. Systemet stopper bilen helt ved hjelp av friksjonsbremser.
 
 ## Eksteriør
 

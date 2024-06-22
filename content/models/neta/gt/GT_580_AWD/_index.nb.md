@@ -69,7 +69,7 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig gjennom [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving). [Adaptiv regen](../../../../technology/regen/#adaptive-regen) eller coasting er ikke tilgjengelig på denne modellen. Du kan velge mellom to stoppmoduser for enpedalkjøring. Holdmodus stopper bilen fullstendig ved hjelp av friksjonsbremser og krypemodus vil krype bilen fremover i lav hastighet.
+[Regenerativ bremsing](../../../../technology/regen/) i denne modellen er primært tilrettelagt gjennom [**en-pedalskjøring**](../../../../technology/regen/#one-pedal-driving). I motsetning til noen modeller er [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling ikke tilgjengelig her. Du kan velge mellom to stoppmodi for en-pedalskjøring. **Hold-modus** stopper kjøretøyet helt ved hjelp av friksjonsbremser og **Creep-modus** beveger bilen sakte fremover.
 
 ## Eksteriør
 

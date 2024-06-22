@@ -73,9 +73,11 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ### Regenerative braking
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving) combined with [blended brakes](../../../../technology/regen/#manual-regen-using-brake-pedal). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. At low speeds, the one-pedal drive mode will keep the car creeping forward.
+[**Automatic regeneration**](../../../../technology/regen/#automatic-regen-adaptive) is not available in this model. However, [regenerative braking](../../../../technology/regen/) is facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving) combined with [**blended brakes**](../../../../technology/regen/#manual-regen-using-brake-pedal). At low speeds, the one-pedal drive mode will keep the car creeping forward.
 
 Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are two levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
+
+The maximum regenerative power is 200 kW.
 
 ## Exterior
 

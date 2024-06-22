@@ -77,7 +77,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ### Regenerativ bremsning
 
-Ved lave hastigheder vil en-pedal køretilstand holde bilen kørende, indtil den stopper af sig selv.
+Det betragtes dog ikke som fuld en-pedal kørsel, da køretøjet ved lave hastigheder vil fortsætte med at rulle, indtil det stopper af sig selv.
 
 ## Udvendig
 

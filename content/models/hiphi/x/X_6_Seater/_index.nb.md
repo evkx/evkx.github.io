@@ -77,7 +77,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ### Regenerativ bremsing
 
-Ved lave hastigheter vil en-pedal kjøremodus holde bilen rulle til den stopper av seg selv.
+Det anses imidlertid ikke som full en-pedalskjøring siden kjøretøyet ved lave hastigheter vil fortsette å rulle til det stopper av seg selv.
 
 ## Eksteriør
 
