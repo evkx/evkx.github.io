@@ -85,7 +85,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ### Regenerativ bremsning
 
-[Regenerativ bremsning](../../../../technology/regen/) er tilgængelig i flere tilstande. Den mest effektive er [automatisk regenerering](../../../../technology/regen/#automatic-regen-adaptive). I denne tilstand kører bilen fri, når det er muligt og bruger regenerativ bremsning til at reducere hastigheden. Du kan også aktivere [en-pedalkørsel](../../../../technology/regen/#one-pedal-driving).
+Det [regenerative bremsesystem](../../../../technology/regen/) i denne model tilbyder flere tilstande til at forbedre effektiviteten og køreoplevelsen. Den mest effektive mulighed er [**Automatisk Regenereringstilstand**](../../../../technology/regen/#automatic-regen-adaptive), hvor køretøjet sejler når det er muligt og anvender regenerativ bremsning til at reducere hastigheden efter behov. <br /><br /> En anden mulighed er [**Regen på Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) tilstand, hvor regenerativ bremsning aktiveres når føreren slipper speederen. Dette system tillader køretøjet at sænke farten og genindvinde energi uden at føreren behøver at trykke på bremsen, en funktion der ofte kaldes for **en-pedal kørsel**.
 
 ## Udvendig
 
