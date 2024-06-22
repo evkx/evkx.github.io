@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-6f3fd0c2
+  translation: SKODA ENYAQ 85x är en helelektrisk SUV med en WLTP räckvidd på upp till 545 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-8a37b11c
   translation: Audi RS e-tron GT är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 598 km. EVKX.net har alla detaljer.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-4ad084ff
   translation: Volkswagen ID.4 Pro är en helelektrisk SUV med en WLTP räckvidd på upp till 529 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-0a5db8ad
-  translation: Volkswagen ID.4 Pro 4MOTION är en helelektrisk SUV med en WLTP räckvidd på upp till 527 km. EVKX.net har alla detaljer.
 

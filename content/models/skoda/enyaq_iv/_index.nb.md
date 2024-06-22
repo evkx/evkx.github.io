@@ -7,6 +7,25 @@ weight: 30
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3>SKODA ENYAQ 85x</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="enyaq_85x/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ENYAQ 85x" ></a>
+<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="enyaq_85x/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Beskrivelse</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_85x/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Rekkevidde</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_85x/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Ladekurve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_85x/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Spesifikasjoner</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_85x/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Galleri</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_85x/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Tester</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
 <h3>SKODA ENYAQ COUPÉ 85x</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">

@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-6f3fd0c2
+  translation: SKODA ENYAQ 85x es un SUV totalmente eléctrico con una autonomía WLTP de hasta 545 km (339 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-8a37b11c
   translation: Audi RS e-tron GT es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 598 km (372 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-4ad084ff
   translation: Volkswagen ID.4 Pro es un SUV totalmente eléctrico con una autonomía WLTP de hasta 529 km (329 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-0a5db8ad
-  translation: Volkswagen ID.4 Pro 4MOTION es un SUV totalmente eléctrico con una autonomía WLTP de hasta 527 km (328 millas). EVKX.net tiene todos los detalles.
 
