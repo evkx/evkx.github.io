@@ -16,6 +16,13 @@ Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Seal Performance range test</h3>
+<p>Bjørn Nyland: 22.06.2024</p>
+
+{{< youtube aYOADkdSi1o >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>BYD Seal Performance headlights test</h3>
 <p>Bjørn Nyland: 21.06.2024</p>
 
