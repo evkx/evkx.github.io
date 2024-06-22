@@ -129,6 +129,30 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				102 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Nombre de modules
+			</td>
+			<td>
+				12
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Configuration du pack
+			</td>
+			<td>
+				96s3p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tension nominale
+			</td>
+			<td>
+				400
+			</td>
+		</tr>
 	</tbody>
 </table>
 

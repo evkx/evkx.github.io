@@ -33,7 +33,7 @@ The Chevrolet Equinox EV AWD offers modest performance with a maximum power of 2
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 89 kWh and a net usable capacity of 85 kWh, providing an 4 kWh buffer (4.5%) for battery protection.
+The high-capacity battery has a gross capacity of 89 kWh and a net usable capacity of 85 kWh, providing an 4 kWh buffer (4.5%) for battery protection. With a nominal voltage of 330 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 319 miles (513 km) with an energy consumption rate of 3.8 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

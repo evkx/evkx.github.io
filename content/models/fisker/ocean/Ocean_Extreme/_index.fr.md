@@ -33,7 +33,7 @@ Avec l'overboost, la Fisker Ocean Extreme atteint une puissance maximale de 415 
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 113 kWh et une capacité nette utilisable de 106,5 kWh, offrant une réserve de 6,5 kWh (5,8%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 113 kWh et une capacité nette utilisable de 106,5 kWh, offrant une réserve de 6,5 kWh (5,8%) pour la protection de la batterie. Avec une tension nominale de 380 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 707 et 701 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 15,1 kWh/100 km pour le modèle de base et à 15,2 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

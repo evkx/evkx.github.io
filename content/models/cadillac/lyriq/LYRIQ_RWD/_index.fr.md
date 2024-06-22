@@ -33,7 +33,7 @@ La Cadillac LYRIQ RWD offre des performances solides avec une puissance maximale
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 110 kWh et une capacité nette utilisable de 102 kWh, offrant une réserve de 8 kWh (7,3%) pour la protection de la batterie.
+La batterie haute capacité a une capacité brute de 110 kWh et une capacité nette utilisable de 102 kWh, offrant une réserve de 8 kWh (7,3%) pour la protection de la batterie. Avec une tension nominale de 400 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
 Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 502 km avec un taux de consommation d'énergie de 20,3 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

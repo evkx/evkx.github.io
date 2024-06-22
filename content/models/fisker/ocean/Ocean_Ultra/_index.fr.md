@@ -33,7 +33,7 @@ Avec l'overboost, la Fisker Ocean Ultra atteint une puissance maximale de 400 kW
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 113 kWh et une capacité nette utilisable de 106,5 kWh, offrant une réserve de 6,5 kWh (5,8%) pour la protection de la batterie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
+La batterie haute capacité a une capacité brute de 113 kWh et une capacité nette utilisable de 106,5 kWh, offrant une réserve de 6,5 kWh (5,8%) pour la protection de la batterie. Avec une tension nominale de 380 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 690 km, avec une consommation d'énergie de 15,4 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

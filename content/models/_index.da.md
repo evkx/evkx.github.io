@@ -242,7 +242,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="byd/"><img src="https://media.evkx.net/multimedia/models/byd/brandevs_st.jpg" class="img-fluid mb-2" alt="BYD" ></a>
 	<h2>BYD</h2>
 	<p>
-	BYD har 6 modeller med i alt 7 varianter.
+	BYD har 7 modeller med i alt 8 varianter.
 	</p>
 	<a href="byd/" class="btn btn-outline-primary" role="button">Gå til BYD EV-modeloversigt</a>
 </div>
@@ -558,6 +558,9 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="skoda/"><img src="https://media.evkx.net/multimedia/models/skoda/brandevs_st.jpg" class="img-fluid mb-2" alt="Skoda" ></a>
 	<h2>Skoda</h2>
+	<p>
+		Škoda Auto, en tjekkisk bilproducent grundlagt i 1895, er kendt for sine pålidelige og overkommelige køretøjer. Nu et datterselskab af Volkswagen Group, kombinerer Škoda praktisk ingeniørarbejde med innovativt design.
+	</p>
 	<p>
 	Skoda har 1 modeller med i alt 7 varianter.
 	</p>

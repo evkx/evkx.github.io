@@ -242,7 +242,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="byd/"><img src="https://media.evkx.net/multimedia/models/byd/brandevs_st.jpg" class="img-fluid mb-2" alt="BYD" ></a>
 	<h2>BYD</h2>
 	<p>
-	BYD a 6 modèles avec un total de 7 variantes.
+	BYD a 7 modèles avec un total de 8 variantes.
 	</p>
 	<a href="byd/" class="btn btn-outline-primary" role="button">Aller à la BYD présentation du modèle EV</a>
 </div>
@@ -558,6 +558,9 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="skoda/"><img src="https://media.evkx.net/multimedia/models/skoda/brandevs_st.jpg" class="img-fluid mb-2" alt="Skoda" ></a>
 	<h2>Skoda</h2>
+	<p>
+		Škoda Auto, un constructeur automobile tchèque fondé en 1895, est connu pour ses véhicules fiables et abordables. Désormais filiale du groupe Volkswagen, Škoda allie ingénierie pratique et design innovant.
+	</p>
 	<p>
 	Skoda a 1 modèles avec un total de 7 variantes.
 	</p>

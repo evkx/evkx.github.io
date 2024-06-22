@@ -33,7 +33,7 @@ With overboost, the Fisker Ocean Sport achieves a maximum power of 209 kW (284 h
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 73 kWh and a net usable capacity of 70 kWh, providing an 3 kWh buffer (4.1%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 73 kWh and a net usable capacity of 70 kWh, providing an 3 kWh buffer (4.1%) for battery protection. With a nominal voltage of 386 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 464 km (288 miles), with an energy consumption rate of 15.1 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

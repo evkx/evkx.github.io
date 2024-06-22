@@ -129,6 +129,30 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				102 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Antal moduler
+			</td>
+			<td>
+				12
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Packkonfiguration
+			</td>
+			<td>
+				96s3p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominell spänning
+			</td>
+			<td>
+				400
+			</td>
+		</tr>
 	</tbody>
 </table>
 

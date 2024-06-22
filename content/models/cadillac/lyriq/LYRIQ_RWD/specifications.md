@@ -129,6 +129,30 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				102 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Number of modules
+			</td>
+			<td>
+				12
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/batterypack/">Pack Configuration</a>
+			</td>
+			<td>
+				96s3p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
+			</td>
+			<td>
+				400
+			</td>
+		</tr>
 	</tbody>
 </table>
 

@@ -33,6 +33,21 @@ BYD Atto 3 är en crossover tillgänglig i 1 varianter.
 	</div>
 </div>
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>BYD Dolphin</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="dolphin">
+                    <img src="https://media.evkx.net/multimedia/models/byd/dolphin/dolphin_60.4kwh/main_1_st.jpg" class="img-fluid" alt="BYD Dolphin" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+BYD Dolphin är en crossover tillgänglig i 1 varianter.
+</p>
+	<a href="dolphin/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
+		</div>
+	</div>
+</div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
         <h3>BYD Han</h3>
         <div class="row">
             <div class="col col-12 col-md-6">

@@ -219,6 +219,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Tension nominale
+			</td>
+			<td>
+				380
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Matériaux cathodiques
 			</td>
 			<td>

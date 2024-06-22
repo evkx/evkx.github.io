@@ -1,7 +1,7 @@
 ---
 title: Skoda modèles de VE
 linktitle: "Skoda"
-description: "The Czech car manufacturer aims to be one of the five best-selling brands in Europe by 2030, and the company plans to become the leading European brand in the growth regions of India, Russia and North Africa. "
+description: "Škoda Auto, un constructeur automobile tchèque fondé en 1895, est connu pour ses véhicules fiables et abordables. Désormais filiale du groupe Volkswagen, Škoda allie ingénierie pratique et design innovant."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->

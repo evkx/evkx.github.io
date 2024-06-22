@@ -33,17 +33,17 @@ The Chevrolet Blazer EV SS packs an impressive punch with a maximum power of 410
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 110 kWh and a net usable capacity of 102 kWh, providing an 8 kWh buffer (7.3%) for battery protection.
+The high-capacity battery has a gross capacity of 89 kWh and a net usable capacity of 85 kWh, providing an 4 kWh buffer (4.5%) for battery protection. With a nominal voltage of 330 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
-According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 290 miles (467 km) with an energy consumption rate of 2.8 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 290 miles (467 km) with an energy consumption rate of 3.4 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 190 kW. Charging from 0% to 100% takes approximately 176 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 136 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 8% to 65%. This results in an effective charging speed, including time lost, of 120 kW, with each charging session taking about 29 minutes and 59 seconds..
+The vehicle supports fast DC charging with a maximum power of 190 kW. Charging from 0% to 100% takes approximately 147 minutes, while a more typical charging scenario from 10% to 80% takes 26 minutes with an average charging speed at 136 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 7% to 68%. This results in an effective charging speed, including time lost, of 116 kW, with each charging session taking about 27 minutes and 43 seconds..
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 9 hours and 35 minutes. This journey would require three charging stops from 8% to 57%, with a total charging time of 75 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 9 hours and 45 minutes. This journey would require three charging stops from 7% to 72%, with a total charging time of 86 minutes.
 
 ### Onboard charger
 
-The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 52 minutes using a home charging setup.
+The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 23 minutes using a home charging setup.
 
 ### Charge port
 

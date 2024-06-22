@@ -260,7 +260,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		BYD is a multinational high-tech company dedicated to technological innovations for a better life. BYD operates in four industries, including automotive, electronics, new energy and rail. 
 	</p>
 	<p>
-	BYD has 6 models with total 7 variants.
+	BYD has 7 models with total 8 variants.
 	</p>
 	<a href="byd/" class="btn btn-outline-primary" role="button">Go to BYD EV-model overview</a>
 </div>
@@ -694,7 +694,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 	<a href="skoda/"><img src="https://media.evkx.net/multimedia/models/skoda/brandevs_st.jpg" class="img-fluid mb-2" alt="Skoda" ></a>
 	<h2>Skoda</h2>
 	<p>
-		The Czech car manufacturer aims to be one of the five best-selling brands in Europe by 2030, and the company plans to become the leading European brand in the growth regions of India, Russia and North Africa. 
+		Škoda Auto, a Czech car manufacturer founded in 1895, is known for its reliable and affordable vehicles. Now a subsidiary of the Volkswagen Group, Škoda blends practical engineering with innovative design.
 	</p>
 	<p>
 	Skoda has 1 models with total 7 variants.

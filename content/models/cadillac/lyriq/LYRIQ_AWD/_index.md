@@ -33,7 +33,7 @@ The Cadillac LYRIQ AWD delivers a solid performance with a maximum power of 373 
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 110 kWh and a net usable capacity of 102 kWh, providing an 8 kWh buffer (7.3%) for battery protection.
+The high-capacity battery has a gross capacity of 110 kWh and a net usable capacity of 102 kWh, providing an 8 kWh buffer (7.3%) for battery protection. With a nominal voltage of 400 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 307 miles (494 km) with an energy consumption rate of 3.0 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 

@@ -33,7 +33,7 @@ Grâce à l'overboost, l'Fisker Ocean Sport atteint une puissance maximale de 20
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 73 kWh et une capacité nette utilisable de 70 kWh, offrant une réserve de 3 kWh (4,1%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie haute capacité a une capacité brute de 73 kWh et une capacité nette utilisable de 70 kWh, offrant une réserve de 3 kWh (4,1%) pour la protection de la batterie. Avec une tension nominale de 386 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 464 km, avec une consommation d'énergie de 15,1 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 

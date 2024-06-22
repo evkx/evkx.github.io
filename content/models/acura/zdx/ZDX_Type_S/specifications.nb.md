@@ -129,6 +129,30 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				102 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Antall moduler
+			</td>
+			<td>
+				12
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pakkekonfigurasjon
+			</td>
+			<td>
+				96s3p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominell spenning
+			</td>
+			<td>
+				400
+			</td>
+		</tr>
 	</tbody>
 </table>
 

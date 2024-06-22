@@ -1,7 +1,7 @@
 ---
 title: Skoda elektriske modeller
 linktitle: "Skoda"
-description: "The Czech car manufacturer aims to be one of the five best-selling brands in Europe by 2030, and the company plans to become the leading European brand in the growth regions of India, Russia and North Africa. "
+description: "Škoda Auto, en tjeckisk biltillverkare grundad 1895, är känd för sina pålitliga och prisvärda fordon. Nu ett dotterbolag till Volkswagen Group, kombinerar Škoda praktisk ingenjörskonst med innovativ design."
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->

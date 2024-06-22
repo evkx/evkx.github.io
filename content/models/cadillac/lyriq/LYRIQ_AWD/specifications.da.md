@@ -129,6 +129,30 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				102 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Antal moduler
+			</td>
+			<td>
+				12
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pakkekonfiguration
+			</td>
+			<td>
+				96s3p
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominel spænding
+			</td>
+			<td>
+				400
+			</td>
+		</tr>
 	</tbody>
 </table>
 
