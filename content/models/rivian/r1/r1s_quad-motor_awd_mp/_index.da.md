@@ -85,7 +85,9 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ### Regenerativ bremsning
 
-[Regenerativ bremsning](../../../../technology/regen/) er tilgængelig via [én-pedalkørsel](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller friløb er ikke tilgængelig i denne model. Systemet stopper bilen fuldstændigt ved hjælp af friktionsbremser. Du kan justere, hvor stærk regen du får, når du løfter foden. Der er to niveauer.
+[Regenerativ bremsning](../../../../technology/regen/) er tilgængelig via [én-pedalkørsel](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) eller friløb er ikke tilgængelig i denne model. Systemet stopper bilen fuldstændigt ved hjælp af friktionsbremser.
+
+Du kan justere, hvor stærk regen du får, når du løfter foden. Der er to niveauer.
 
 ## Udvendig
 

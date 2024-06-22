@@ -88,7 +88,9 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ### Regenerative braking
 
-[Regenerative braking](../../../../technology/regen/) is available through [one-pedal driving](../../../../technology/regen/#one-pedal-driving). [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available in this model. At low speeds, the one-pedal drive mode will keep the car creeping forward. You can adjust how strong regen you get when you lift the foot. There are three levels.
+[Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. At low speeds, the one-pedal drive mode will keep the car creeping forward.
+
+Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are three levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
 ## Exterior
 

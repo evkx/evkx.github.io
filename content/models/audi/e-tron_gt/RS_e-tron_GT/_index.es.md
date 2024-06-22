@@ -85,7 +85,9 @@ Puedes elegir entre diferentes sistemas de frenos. Los frenos de opción standar
 
 ### Frenado regenerativo
 
-[Frenado regenerativo](../../../../technology/regen/) está disponible en varios modos. El más eficiente es [regeneración automática](../../../../technology/regen/#automatic-regen-adaptive). En este modo, el automóvil avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad. También puede habilitar [conducción con un solo pedal](../../../../technology/regen/#conducción-con-un-pedal). A bajas velocidades, el modo de conducción con un solo pedal mantendrá el coche en marcha hasta que se detenga por sí solo. Puedes ajustar la fuerza de regeneración que obtienes cuando levantas el pie. Hay tres niveles.
+[Frenado regenerativo](../../../../technology/regen/) está disponible en varios modos. El más eficiente es [regeneración automática](../../../../technology/regen/#automatic-regen-adaptive). En este modo, el automóvil avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad. También puede habilitar [conducción con un solo pedal](../../../../technology/regen/#conducción-con-un-pedal). A bajas velocidades, el modo de conducción con un solo pedal mantendrá el coche en marcha hasta que se detenga por sí solo.
+
+Puedes ajustar la fuerza de regeneración que obtienes cuando levantas el pie. Hay tres niveles.
 
 ## Exterior
 

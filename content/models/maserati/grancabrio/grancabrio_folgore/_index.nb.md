@@ -79,7 +79,9 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ### Regenerativ bremsing
 
-[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual-regen-bruker-bremsepedal) for å regenere. Ved lave hastigheter vil en-pedal kjøremodus holde bilen krypende fremover. Du kan justere hvor sterk regen du får når du løfter foten. Det er tre nivåer.
+[Regenerativ bremsing](../../../../technology/regen/) er tilgjengelig i to moduser. Du kan bruke [én-pedalkjøring](../../../../technology/regen/#one-pedal-driving) eller du kan rulle ut og bruke [blendede bremser](../../../../technology/regen/#manual-regen-bruker-bremsepedal) for å regenere. Ved lave hastigheter vil en-pedal kjøremodus holde bilen krypende fremover.
+
+Du kan justere hvor sterk regen du får når du løfter foten. Det er tre nivåer.
 
 ## Eksteriør
 

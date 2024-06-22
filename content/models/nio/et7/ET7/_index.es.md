@@ -88,7 +88,9 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ### Frenado regenerativo
 
-[Frenado regenerativo](../../../../technology/regen/) está disponible a través de [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving). [Regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o navegación por inercia no está disponible en este modelo. A bajas velocidades, el modo de conducción con un solo pedal mantendrá el automóvil avanzando lentamente. Puedes ajustar la fuerza de regeneración que obtienes cuando levantas el pie. Hay tres niveles.
+[Frenado regenerativo](../../../../technology/regen/) está disponible a través de [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving). [Regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o navegación por inercia no está disponible en este modelo. A bajas velocidades, el modo de conducción con un solo pedal mantendrá el automóvil avanzando lentamente.
+
+Puedes ajustar la fuerza de regeneración que obtienes cuando levantas el pie. Hay tres niveles.
 
 ## Exterior
 

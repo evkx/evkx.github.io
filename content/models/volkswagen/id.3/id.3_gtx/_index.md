@@ -73,7 +73,7 @@ Dynamic steering is an optional feature on the Volkswagen ID.3 GTX. Dynamic stee
 
 ### Regenerative braking
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving).
+The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br /> Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**.
 
 ## Exterior
 

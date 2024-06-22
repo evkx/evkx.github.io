@@ -94,7 +94,9 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ### Regenerative braking
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). You can choose between three stopping modes for one-pedal driving. Hold mode stops the car completely using friction brakes, roll mode causes the vehicle to roll until it stops by itself, and creep mode will creep the car forward at low speed. You can adjust how strong regen you get when you lift the foot. There are two levels.
+The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br /> Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**. This model offers three stopping modes for one-pedal driving: <ul><li>**Hold mode** brings the vehicle to a complete stop using friction brakes</li><li>**Roll mode** allows the vehicle to roll until it stops naturally</li><li>**Creep mode** moves the car forward at low speed</li></ul>
+
+Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are two levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
 ## Exterior
 

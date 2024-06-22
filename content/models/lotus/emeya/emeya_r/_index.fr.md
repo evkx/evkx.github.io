@@ -73,7 +73,9 @@ Vous pouvez choisir entre différents systèmes de freinage. Les freins de l'opt
 
 ### Freinage régénératif
 
-[Freinage régénératif](../../../../technology/regen/) est disponible via [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) combiné avec des [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal). [ La régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible dans ce modèle. À basse vitesse, le mode de conduite à une pédale maintiendra la voiture en mouvement jusqu'à ce qu'elle s'arrête d'elle-même. Vous pouvez ajuster la force de régénération que vous obtenez lorsque vous levez le pied. Il y a trois niveaux.
+[Freinage régénératif](../../../../technology/regen/) est disponible via [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) combiné avec des [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal). [ La régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible dans ce modèle. À basse vitesse, le mode de conduite à une pédale maintiendra la voiture en mouvement jusqu'à ce qu'elle s'arrête d'elle-même.
+
+Vous pouvez ajuster la force de régénération que vous obtenez lorsque vous levez le pied. Il y a trois niveaux.
 
 ## Extérieur
 

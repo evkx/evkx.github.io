@@ -69,7 +69,9 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ### Freinage régénératif
 
-[Freinage régénératif](../../../../technology/regen/) est disponible via [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) combiné avec des [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal). [ La régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible dans ce modèle. À basse vitesse, le mode de conduite à une pédale permettra à la voiture d'avancer. Vous pouvez ajuster la force de régénération que vous obtenez lorsque vous levez le pied. Il y a deux niveaux.
+[Freinage régénératif](../../../../technology/regen/) est disponible via [conduite à une pédale](../../../../technology/regen/#one-pedal-driving) combiné avec des [freins mixtes](../../../../technology/regen/#manual-regen-using-brake-pedal). [ La régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) n'est pas disponible dans ce modèle. À basse vitesse, le mode de conduite à une pédale permettra à la voiture d'avancer.
+
+Vous pouvez ajuster la force de régénération que vous obtenez lorsque vous levez le pied. Il y a deux niveaux.
 
 ## Extérieur
 

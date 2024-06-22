@@ -69,7 +69,9 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ### Frenado regenerativo
 
-[Frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puedes usar [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-usando-el-pedal-de-freno) para regenerar. Puedes elegir entre dos modos de parada para conducir con un solo pedal. El modo Hold detiene el auto por completo usando frenos de fricción y el modo lento hará que el auto avance a baja velocidad. Puedes ajustar la fuerza de regeneración que obtienes cuando levantas el pie. Hay dos niveles.
+[Frenado regenerativo](../../../../technology/regen/) está disponible en dos modos. Puedes usar [conducción con un solo pedal](../../../../technology/regen/#one-pedal-driving) o puede deslizarse y usar los [frenos combinados](../../../../technology/regen/#manual-regen-usando-el-pedal-de-freno) para regenerar. Puedes elegir entre dos modos de parada para conducir con un solo pedal. El modo Hold detiene el auto por completo usando frenos de fricción y el modo lento hará que el auto avance a baja velocidad.
+
+Puedes ajustar la fuerza de regeneración que obtienes cuando levantas el pie. Hay dos niveles.
 
 ## Exterior
 

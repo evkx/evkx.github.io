@@ -73,7 +73,7 @@ Dynamic steering is a standard feature on the BMW iX1 xDrive30. Dynamic steering
 
 ### Regenerative braking
 
-[Regenerative braking](../../../../technology/regen/) is available in several modes. The most efficient is [automatic regen](../../../../technology/regen/#automatic-regen-adaptive). In this mode, the car coasts when possible and uses regenerative braking to reduce speed. You can also enable [one-pedal driving](../../../../technology/regen/#one-pedal-driving). You can choose between two stopping modes for one-pedal driving. Hold mode stops the car completely using friction brakes, and roll mode causes the vehicle to roll until it stops by itself.
+The [regenerative braking](../../../../technology/regen/) system in this model offers several modes to enhance efficiency and driving experience. The most efficient option is the [**Automatic Regeneration Mode**](../../../../technology/regen/#automatic-regen-adaptive), where the vehicle coasts when possible and employs regenerative braking to reduce speed as needed. <br /><br /> Another option is the [**Regen on Accelerator Pedal**](../../../../technology/regen/#one-pedal-driving) mode where regenerative braking is activated when the driver eases off the accelerator pedal.  This system allows the vehicle to slow down and recover energy without the driver needing to press the brake pedal, a feature often referred to as **one-pedal driving**. You can choose between two stopping modes for one-pedal driving. **Hold mode** brings the vehicle to a complete stop using friction brakes, and **Roll mode** allows the vehicle to roll until it stops naturally.
 
 ## Exterior
 

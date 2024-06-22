@@ -94,7 +94,9 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) finns i flera lägen. Det mest effektiva är [adaptiv regenerering](../../../../technology/regen/#adaptiv-regen).I det här läget rullar bilen när det är möjligt och använder regenerativ bromsning för att minska hastigheten. Du kan också aktivera [enpedalskörning](../../../../technology/regen/#one-pedal-driving). Du kan välja mellan tre stopplägen för enpedalkörning. Hold-läget stoppar bilen helt med friktionsbromsar, rullningsläget gör att fordonet rullar till stopp på egen hand , och krypläge kommer att krypa bilen framåt i låg hastighet. Du kan justera hur stark regen är när du lyfter foten. Det finns två nivåer.
+[Regenerativ bromsning](../../../../technology/regen/) finns i flera lägen. Det mest effektiva är [adaptiv regenerering](../../../../technology/regen/#adaptiv-regen).I det här läget rullar bilen när det är möjligt och använder regenerativ bromsning för att minska hastigheten. Du kan också aktivera [enpedalskörning](../../../../technology/regen/#one-pedal-driving). Du kan välja mellan tre stopplägen för enpedalkörning. Hold-läget stoppar bilen helt med friktionsbromsar, rullningsläget gör att fordonet rullar till stopp på egen hand , och krypläge kommer att krypa bilen framåt i låg hastighet.
+
+Du kan justera hur stark regen är när du lyfter foten. Det finns två nivåer.
 
 ## Exteriör
 

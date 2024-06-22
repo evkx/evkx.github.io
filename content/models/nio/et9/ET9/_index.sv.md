@@ -76,7 +76,9 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ### Regenerativ bromsning
 
-[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig genom [enpedalkörning](../../../../technology/regen/#one-pedal-driving). [Adaptive regen](../../../../technology/regen/#adaptive-regen) eller frirullning är inte tillgänglig på denna modell. Vid låga hastigheter kommer körläget med en pedal att hålla bilen krypande framåt. Du kan justera hur stark regen du blir när du lyfter foten. Det finns tre nivåer.
+[Regenerativ bromsning](../../../../technology/regen/) är tillgänglig genom [enpedalkörning](../../../../technology/regen/#one-pedal-driving). [Adaptive regen](../../../../technology/regen/#adaptive-regen) eller frirullning är inte tillgänglig på denna modell. Vid låga hastigheter kommer körläget med en pedal att hålla bilen krypande framåt.
+
+Du kan justera hur stark regen du blir när du lyfter foten. Det finns tre nivåer.
 
 ## Exteriör
 

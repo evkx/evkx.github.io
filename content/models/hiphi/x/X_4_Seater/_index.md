@@ -77,7 +77,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ### Regenerative braking
 
-At low speeds, the one-pedal drive mode will keep the car rolling until it stops by itself.
+However, it is not considered full one-pedal driving since, at low speeds, the vehicle will keep rolling until it comes to a stop by itself.
 
 ## Exterior
 
