@@ -1,7 +1,7 @@
 ---
 title: Citroën ë-C3
 linktitle: "ë-C3"
-description: "Citroën ë-C3 is an all-electric crossover with a WLTP range of up to 320 km (199 miles). EVKX.net has all the details."
+description: "Citroën ë-C3 is an all-electric crossover with a WLTP range of up to 326 km (203 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -33,17 +33,17 @@ The Citroën ë-C3 kWh provides basic performance with a maximum power of 83 kW 
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 44 kWh and a net usable capacity of 43 kWh, providing an 1 kWh buffer (2.3%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 45 kWh and a net usable capacity of 44 kWh, providing an 1 kWh buffer (2.2%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 320 km (199 miles), with an energy consumption rate of 13.4 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 326 km (203 miles), with an energy consumption rate of 13.5 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 64 minutes, while a more typical charging scenario from 10% to 80% takes 25 minutes with an average charging speed at 73 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 13% to 69%. This results in an effective charging speed, including time lost, of 64 kW, with each charging session taking about 23 minutes and 34 seconds..
+The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 66 minutes, while a more typical charging scenario from 10% to 80% takes 25 minutes with an average charging speed at 73 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 13% to 68%. This results in an effective charging speed, including time lost, of 64 kW, with each charging session taking about 23 minutes and 34 seconds..
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 24 kWh/100 km, the trip would take approximately 11 hours and 25 minutes. This journey would require nine charging stops from 15% to 66%, with a total charging time of 186 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 24 kWh/100 km, the trip would take approximately 11 hours and 23 minutes. This journey would require eight charging stops from 13% to 69%, with a total charging time of 184 minutes.
 
 ### Onboard charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 3 hours and 54 minutes using a home charging setup.
+The  onboard charger supports up to 7.4 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 56 minutes using a home charging setup.
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/charging_1_st.jpg" title="Citroën ë-C3" width="2894" height="2170"  >}}
@@ -96,7 +96,7 @@ You can order the car with tinted windows from B-pillar and back.
 
 ## Interior
 
-
+The seat layout is the traditional five seats with two in front and three in the rear.
 
 ### First row seats
 
@@ -104,6 +104,7 @@ Only one front seat type is available in the Citroën ë-C3.
 
 The following functionalities are available on the **** seat.
 
+- height adjustable headrest
 
 You can choose from 1 different materials/colors for this seat type.
 - black/white [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
@@ -114,12 +115,22 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/frontseats_1_st.jpg" title="Citroën ë-C3" width="3000" height="1759"  >}}
 
 
-### Second-row seat
+### Second-row seats
+
+You can choose two seat types for the second row in the Citroën ë-C3.
+
+The following functionalities are available on the **** seat.
+
+- height adjustable headrest
+
+You can choose from 1 different materials/colors for this seat type.
+- black/white [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 
 
 The following functionalities are available on the **** seat.
 
+- height adjustable headrest
 
 You can choose from 1 different materials/colors for this seat type.
 - black/white [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
@@ -155,13 +166,15 @@ The model does not have a head-up display.
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/screens_1_st.jpg" title="Citroën ë-C3" width="3000" height="2007"  >}}
 
 
+This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.
+
 ## Infotainment
 
-One type of sound system is available for the Citroën ë-C3. With the , you get NULL speakers with a max system output of  watts.
+You can choose between two sound systems on the Citroën ë-C3. With the , you get two speakers with a max system output of  watts. With the Max Sound system, you get two speakers with a max system output of  watts.
 
 In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Citroën ë-C3 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
-The model has 4 USB-C connections as standard.
+The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
@@ -183,6 +196,7 @@ The Citroën ë-C3 has [**automatic emergency braking**](../../../../technology/
 
 
 With the standard system the model offers no driving automation.
+- Cruise control.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -191,9 +205,7 @@ With the standard system the model offers no driving automation.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 310 liters.
-
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+The cargo capacity in the trunk is 310 liters. With the rear seat down, it is 1200 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 1910 kg (4211 lbs), and with the base weight of 1491 kg (3287 lbs), you can max load 419 kg (924 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/trunk_1_st.jpg" title="Citroën ë-C3" width="3000" height="1999"  >}}

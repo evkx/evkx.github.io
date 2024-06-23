@@ -1,7 +1,7 @@
 ---
 title: Citroën ë-C3
 linktitle: "ë-C3"
-description: "Citroën ë-C3 er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 320 km (199 miles). EVKX.net har alle detaljerne."
+description: "Citroën ë-C3 er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 326 km (203 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -33,17 +33,17 @@ Citroën ë-C3 kWh leverer grundlæggende ydeevne med en maksimal effekt på 83 
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 44 kWh og en nettoanvendelig kapacitet på 43 kWh, hvilket giver en buffer på 1 kWh (3%) til batteribeskyttelse. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
+Det højkapacitetsbatteri har en bruttokapacitet på 45 kWh og en nettoanvendelig kapacitet på 44 kWh, hvilket giver en buffer på 1 kWh (3%) til batteribeskyttelse. Lithium-Ion-batteriet bruger [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har nogle fordele og ulemper fra de typiske NCA/NCM-batterier.
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 320 km, med et energiforbrugsrate på 13,4 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 326 km, med et energiforbrugsrate på 13,5 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 64 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 25 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 13% til 69%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 64kW. Hver opladningssession ville tage 23 minutter og 34 sekunder.
+Den maksimale DC-opladningshastighed er 100kW. En fuld opladning fra 0 - 100 % ville tage 66 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 25 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 13% til 68%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 64kW. Hver opladningssession ville tage 23 minutter og 34 sekunder.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 24 kWh/100 km, ville turen tage cirka 11 timer og 25 minutter. Denne rejse ville kræve to opladningsstop fra 15% til 66%, med en samlet opladningstid på 186 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 24 kWh/100 km, ville turen tage cirka 11 timer og 23 minutter. Denne rejse ville kræve to opladningsstop fra 13% til 69%, med en samlet opladningstid på 184 minutter
 
 ### Ombordlader
 
-Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 3 timer og 54 minutter ved brug af en hjemmeoplader.
+Den standard ombordlader understøtter op til 7,4 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 5 timer og 56 minutter ved brug af en hjemmeoplader.
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/charging_1_st.jpg" title="Citroën ë-C3" width="2894" height="2170"  >}}
@@ -96,7 +96,7 @@ Du kan bestille bilen med tonede ruder fra B-stolpen og bagpå.
 
 ## Interiør
 
-
+Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
 ### Første række sæder
 
@@ -104,6 +104,7 @@ Kun én type forsæde er tilgængelig i Citroën ë-C3.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
+- højdejusterbar nakkestøtte
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - black/white [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
@@ -114,12 +115,22 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/frontseats_1_st.jpg" title="Citroën ë-C3" width="3000" height="1759"  >}}
 
 
-### Sæde på anden række
+### Sæder på anden række
+
+Du kan vælge to sædetyper til anden række i Citroën ë-C3.
+
+Følgende funktioner er tilgængelige på **** sædet.
+
+- højdejusterbar nakkestøtte
+
+Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+- black/white [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
 
 
 Følgende funktioner er tilgængelige på **** sædet.
 
+- højdejusterbar nakkestøtte
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - black/white [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
@@ -155,13 +166,15 @@ Modellen har ikke et head-up display.
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/screens_1_st.jpg" title="Citroën ë-C3" width="3000" height="2007"  >}}
 
 
+Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.
+
 ## Infotainment
 
-Én type lydsystem er tilgængelig for Citroën ë-C3. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+Du kan vælge mellem to lydsystemer på Citroën ë-C3. Med  får du to højttalere med en maksimal systemeffekt på  watt. Med Max Sound system får du to højttalere med en maksimal systemeffekt på  watt.
 
 Derudover får du med valgfrit navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Citroën ë-C3 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 
-Modellen har 4 USB-C-forbindelser som standard.
+Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
@@ -183,6 +196,7 @@ Citroën ë-C3 har [**automatisk nødbremse**](../../../../technology/driverassi
 
 
 Med standardsystemet tilbyder modellen ingen køreautomatisering.
+- Fartpilot.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -191,9 +205,7 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 310 liter.
-
-Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+Lagekapaciteten i bagagerummet er 310 liter. Med bagsædet nede er det 1200 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 1910 kg (4211 lbs), og med basisvægten på 1491 kg (3287 lbs), kan du maksimalt laste 419 kg (924 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/trunk_1_st.jpg" title="Citroën ë-C3" width="3000" height="1999"  >}}

@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP range</a>
 			</td>
 			<td>
-				320 km
+				326 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,15 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption</a>
 			</td>
 			<td>
-				13,4 kWh/100km
+				13,5 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
+			</td>
+			<td>
+				16,4 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +126,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				44 kWh
+				45 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +134,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				43 kWh
+				44 kWh
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +242,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Length
 			</td>
 			<td>
-				4010 mm (157,9")
+				4015 mm (158,1")
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				1570 mm (61,8")
+				15157770 mm (596762,9")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +258,23 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width excluding mirrors
 			</td>
 			<td>
-				1760 mm (69,3")
+				1755 mm (69,1")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Width including mirrors
+			</td>
+			<td>
+				1813 mm (71,4")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Wheelbase
+			</td>
+			<td>
+				2540 mm (100,0")
 			</td>
 		</tr>
 	</tbody>
@@ -272,10 +296,66 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 	<tbody>
 		<tr>
 			<td>
+				<a href="/technology/cargoandtowing/">Curb weight</a>
+			</td>
+			<td>
+				1491 kg (3287 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/">Maximum total weight</a>
+			</td>
+			<td>
+				1910 kg (4211 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
+			</td>
+			<td>
+				419 kg (924 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/roofcargo/">Maks roof cargo</a>
+			</td>
+			<td>
+				75 kg (165 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity</a>
 			</td>
 			<td>
 				310 liter (11 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/interiorcargo/">Trunk capacity with all rear seats folded</a>
+			</td>
+			<td>
+				1200 liter (42 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
+			</td>
+			<td>
+				550 kg (1213 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/cargoandtowing/hitchcargo/">Maximum tow ball weight</a>
+			</td>
+			<td>
+				61 kg (134 lbs)
 			</td>
 		</tr>
 	</tbody>
@@ -404,6 +484,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 ## Interior
 
+This model is available with a seat configuration with five seats.
 
 ### Front seats
 
@@ -488,7 +569,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -496,7 +577,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +585,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +593,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -520,7 +601,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +609,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Electric adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -552,7 +633,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -601,7 +682,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +690,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -617,7 +698,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -625,7 +706,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -633,7 +714,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +722,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Electric adjustable thigh support</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -649,7 +730,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -657,7 +738,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +746,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +754,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
 			</td>
 		</tr>
 		<tr>
@@ -681,7 +762,117 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/adjustment/#features">Massage function</a>
 			</td>
 			<td>
-				Unknown
+				Not Available
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="/technology/seats/types/">Seat type</a>
+			</td>
+			<td>
+				None
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
+			</td>
+			<td>
+				Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Electric adjustable thigh support</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#features">Massage function</a>
+			</td>
+			<td>
+				Not Available
 			</td>
 		</tr>
 	</tbody>
@@ -909,6 +1100,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Voice control
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -916,6 +1108,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Gesture control
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>
@@ -980,6 +1173,61 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				Not available
+			</td>
+		</tr>
+	</tbody>
+</table>
+		<tr>
+			<td>
+				Number of avaiable sound systems
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Number of speakers
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Max Sound system
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Number of speakers
+			</td>
+			<td>
+				2
 			</td>
 		</tr>
 	</tbody>

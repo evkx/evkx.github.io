@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>CITROEN e-C3: ALL expectations EXCEEDED!</h3>
+<p>Robin EV: 06.06.2024</p>
+
+{{< youtube OKh0Io_4xC4 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW Citroen e-C3 Review: The affordable EV we've been waiting for!</h3>
+<p>CarGurus UK: 23.05.2024</p>
+
+{{< youtube wso4YwcVr0k >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>WTF? Citroen’s New Electric Car Is Insanely Cheap!</h3>
 <p>Fully Charged Show: 26.10.2023</p>
 

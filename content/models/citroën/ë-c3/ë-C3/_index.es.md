@@ -1,7 +1,7 @@
 ---
 title: Citroën ë-C3
 linktitle: "ë-C3"
-description: "Citroën ë-C3 es un crossover totalmente eléctrico con un WLTP alcance de hasta 320 km (199 millas). EVKX.net tiene todos los detalles."
+description: "Citroën ë-C3 es un crossover totalmente eléctrico con un WLTP alcance de hasta 326 km (203 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -33,17 +33,17 @@ El Citroën ë-C3 kWh ofrece un rendimiento básico con una potencia máxima de 
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 44 kWh y una capacidad neta utilizable de 43 kWh, proporcionando un buffer de 1 kWh (2,3%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería de alta capacidad tiene una capacidad bruta de 45 kWh y una capacidad neta utilizable de 44 kWh, proporcionando un buffer de 1 kWh (2,2%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
-Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 320 km, con una tasa de consumo de energía de 13,4 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 326 km, con una tasa de consumo de energía de 13,5 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 100kW. Una carga completa del 0 al 100 % tardaría 64 minutos, mientras que un escenario más común del 10 al 80 % tardaría 25 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 13% al 69%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 64kW. Cada sesión de carga tardaría 23 minutos y 34 segundos.
+La velocidad máxima de carga de CC es 100kW. Una carga completa del 0 al 100 % tardaría 66 minutos, mientras que un escenario más común del 10 al 80 % tardaría 25 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 13% al 68%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 64kW. Cada sesión de carga tardaría 23 minutos y 34 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 24 kWh/100 km, el viaje tomaría aproximadamente 11 horas y 25 minutos. Este viaje requeriría dos paradas de carga del 15% al 66%, con un tiempo total de carga de 186 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 24 kWh/100 km, el viaje tomaría aproximadamente 11 horas y 23 minutos. Este viaje requeriría dos paradas de carga del 13% al 69%, con un tiempo total de carga de 184 minutos.
 
 ### Cargador a bordo
 
-El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 3 horas y 54 minutos usando un cargador en casa.
+El cargador a bordo estándar soporta hasta 7,4 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 5 horas y 56 minutos usando un cargador en casa.
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/charging_1_st.jpg" title="Citroën ë-C3" width="2894" height="2170"  >}}
@@ -96,7 +96,7 @@ Puedes pedir el auto con vidrios polarizados desde el pilar B y atrás.
 
 ## Interior
 
-
+La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
 ### Asientos de primera fila
 
@@ -104,6 +104,7 @@ Sólo hay un tipo de asiento delantero disponible en el Citroën ë-C3.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
+- reposacabezas ajustable en altura
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - black/white [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
@@ -114,12 +115,22 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/frontseats_1_st.jpg" title="Citroën ë-C3" width="3000" height="1759"  >}}
 
 
-### Asiento de segunda fila
+### Asientos de la segunda fila
+
+Puedes elegir dos tipos de asientos para la segunda fila en el Citroën ë-C3.
+
+Las siguientes funcionalidades están disponibles en el asiento ****.
+
+- reposacabezas ajustable en altura
+
+Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+- black/white [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
 
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
+- reposacabezas ajustable en altura
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - black/white [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
@@ -155,13 +166,15 @@ El modelo no tiene head-up display.
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/screens_1_st.jpg" title="Citroën ë-C3" width="3000" height="2007"  >}}
 
 
+Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
+
 ## Infoentretenimiento
 
-Un tipo de sistema de sonido está disponible para el Citroën ë-C3. Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+Puedes elegir entre dos sistemas de sonido en el Citroën ë-C3. Con el , obtienes dos parlantes con una salida máxima del sistema de  vatios. Con el Max Sound system, obtienes dos parlantes con una salida máxima del sistema de  vatios.
 
 Además, con el sistema de navegación para automóvil opcional, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Citroën ë-C3 es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
 
-El modelo tiene 4 conexiones USB-C de serie.
+El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
 ## Luces
 
 Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
@@ -183,6 +196,7 @@ El Citroën ë-C3 tiene [**frenado automático de emergencia**](../../../../tech
 
 
 Con el sistema estándar, el modelo no ofrece automatización de conducción.
+- Control de crucero.
 
 
 {{<evkxdisplayaddarticle />}}
@@ -191,9 +205,7 @@ Con el sistema estándar, el modelo no ofrece automatización de conducción.
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 310 litros.
-
-Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+La capacidad de carga en el maletero es de 310 litros. Con el asiento trasero abatido, es de 1200 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 1910 kg (4211 lbs), y con el peso base de 1491 kg (3287 lbs), puedes cargar como máximo 419 kg (924 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/trunk_1_st.jpg" title="Citroën ë-C3" width="3000" height="1999"  >}}

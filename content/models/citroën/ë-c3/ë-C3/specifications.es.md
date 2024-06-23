@@ -83,7 +83,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP
 			</td>
 			<td>
-				320 km
+				326 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,15 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP
 			</td>
 			<td>
-				13,4 kWh/100km
+				13,5 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consumo WLTP con pérdida de carga
+			</td>
+			<td>
+				16,4 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -118,7 +126,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				44 kWh
+				45 kWh
 			</td>
 		</tr>
 		<tr>
@@ -126,7 +134,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				43 kWh
+				44 kWh
 			</td>
 		</tr>
 		<tr>
@@ -234,7 +242,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Longitud
 			</td>
 			<td>
-				4010 mm (157,9")
+				4015 mm (158,1")
 			</td>
 		</tr>
 		<tr>
@@ -242,7 +250,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				1570 mm (61,8")
+				15157770 mm (596762,9")
 			</td>
 		</tr>
 		<tr>
@@ -250,7 +258,23 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho excluyendo espejos
 			</td>
 			<td>
-				1760 mm (69,3")
+				1755 mm (69,1")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ancho incluyendo espejos
+			</td>
+			<td>
+				1813 mm (71,4")
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Distancia entre ejes
+			</td>
+			<td>
+				2540 mm (100,0")
 			</td>
 		</tr>
 	</tbody>
@@ -272,10 +296,66 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 	<tbody>
 		<tr>
 			<td>
+				Peso en vacío
+			</td>
+			<td>
+				1491 kg (3287 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Peso total máximo
+			</td>
+			<td>
+				1910 kg (4211 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Carga máxima incluido el controlador de peso
+			</td>
+			<td>
+				419 kg (924 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hace carga en el techo
+			</td>
+			<td>
+				75 kg (165 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Capacidad del maletero
 			</td>
 			<td>
 				310 litro (11 pies cúbicos)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capacidad del maletero con todos los asientos traseros plegados
+			</td>
+			<td>
+				1200 litro (42 pies cúbicos)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Peso máximo del remolque frenado
+			</td>
+			<td>
+				550 kg (1213 lbs)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Peso máximo de la bola de remolque
+			</td>
+			<td>
+				61 kg (134 lbs)
 			</td>
 		</tr>
 	</tbody>
@@ -404,6 +484,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 ## Interior
 
+Este modelo está disponible con una configuración de cinco asientos.
 
 ### Asientos delanteros
 
@@ -488,7 +569,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -496,7 +577,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +585,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +593,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -520,7 +601,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del refuerzo lateral del cojín del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +609,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte para muslos ajustable eléctricamente
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -552,7 +633,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -601,7 +682,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -609,7 +690,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -617,7 +698,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -625,7 +706,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -633,7 +714,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del refuerzo lateral del cojín del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -641,7 +722,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte para muslos ajustable eléctricamente
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -649,7 +730,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -657,7 +738,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -665,7 +746,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -673,7 +754,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ventilación del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -681,7 +762,117 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Tipo de asiento
+			</td>
+			<td>
+				None
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reposacabezas regulable en altura
+			</td>
+			<td>
+				Función estándar
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Reposacabezas de longitud ajustable
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Soporte para muslos ajustable
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del refuerzo lateral del respaldo
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste del refuerzo lateral del cojín del asiento
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Soporte para muslos ajustable eléctricamente
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Pasajeros con reposapiés
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Apoyapiernas del pasajero
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ajuste lumbar eléctrico
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ventilación del asiento
+			</td>
+			<td>
+				No disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Función de masaje
+			</td>
+			<td>
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -909,6 +1100,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Control por voz
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -916,6 +1108,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Control de gestos
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -980,6 +1173,61 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				No disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+		<tr>
+			<td>
+				Número de sistemas de sonido disponibles
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Número de altavoces
+			</td>
+			<td>
+				2
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+### Max Sound system
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Número de altavoces
+			</td>
+			<td>
+				2
 			</td>
 		</tr>
 	</tbody>
