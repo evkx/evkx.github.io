@@ -1,7 +1,7 @@
 ---
 title: DS 3 E-Tense
 linktitle: "3 E-Tense"
-description: "DS 3 E-Tense er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 402 km (250 miles). EVKX.net har alle detaljerne."
+description: "DS 3 E-Tense er en fuldelektrisk crossover med en WLTP rækkevidde på op til 402 km (250 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

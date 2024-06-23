@@ -1,7 +1,7 @@
 ---
 title: Honda e:Ny1
 linktitle: "e:Ny1"
-description: "Honda e:Ny1 er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 412 km (256 miles). EVKX.net har alle detaljerne."
+description: "Honda e:Ny1 er en fuldelektrisk crossover med en WLTP rækkevidde på op til 412 km (256 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Renault Megane E-Tech Techno
 linktitle: "Megane E-Tech Techno"
-description: "Renault Megane E-Tech Techno er en helelektrisk delefilter med en WLTP rekkevidde på opptil 450 km. EVKX.net har alle detaljene."
+description: "Renault Megane E-Tech Techno er en helelektrisk crossover med en WLTP rekkevidde på opptil 450 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true

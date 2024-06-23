@@ -1,7 +1,7 @@
 ---
 title: Smart #1 Brabus
 linktitle: "#1 Brabus"
-description: "Smart #1 Brabus er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 400 km (249 miles). EVKX.net har alle detaljerne."
+description: "Smart #1 Brabus er en fuldelektrisk crossover med en WLTP rækkevidde på op til 400 km (249 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

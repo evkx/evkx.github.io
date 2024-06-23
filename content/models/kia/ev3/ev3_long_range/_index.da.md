@@ -1,7 +1,7 @@
 ---
 title: Kia EV3 Long Range
 linktitle: "EV3 Long Range"
-description: "Kia EV3 Long Range er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 600 km (373 miles). EVKX.net har alle detaljerne."
+description: "Kia EV3 Long Range er en fuldelektrisk crossover med en WLTP rækkevidde på op til 600 km (373 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

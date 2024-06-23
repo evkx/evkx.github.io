@@ -1,7 +1,7 @@
 ---
 title: BYD Dolphin 60.4kWh
 linktitle: "Dolphin 60.4kWh"
-description: "BYD Dolphin 60.4kWh er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 427 km (265 miles). EVKX.net har alle detaljerne."
+description: "BYD Dolphin 60.4kWh er en fuldelektrisk crossover med en WLTP rækkevidde på op til 427 km (265 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Volvo XC40 Recharge Single Motor
 linktitle: "XC40 Recharge Single Motor"
-description: "Volvo XC40 Recharge Single Motor er en helelektrisk delefilter med en WLTP rekkevidde på opptil 467 km. EVKX.net har alle detaljene."
+description: "Volvo XC40 Recharge Single Motor er en helelektrisk crossover med en WLTP rekkevidde på opptil 467 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Alfa Romeo Junior Veloce
 linktitle: "Junior Veloce"
-description: "Alfa Romeo Junior Veloce er en helelektrisk delefilter med en WLTP rekkevidde på opptil 370 km. EVKX.net har alle detaljene."
+description: "Alfa Romeo Junior Veloce er en helelektrisk crossover med en WLTP rekkevidde på opptil 370 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Kia Niro EV
 linktitle: "Niro EV"
-description: "Kia Niro EV er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 463 km (288 miles). EVKX.net har alle detaljerne."
+description: "Kia Niro EV er en fuldelektrisk crossover med en WLTP rækkevidde på op til 463 km (288 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

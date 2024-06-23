@@ -1,7 +1,7 @@
 ---
 title: Renault Scenic E-Tech electric
 linktitle: "Scenic E-Tech electric"
-description: "Renault Scenic E-Tech electric er en helelektrisk delefilter med en WLTP rekkevidde på opptil 450 km. EVKX.net har alle detaljene."
+description: "Renault Scenic E-Tech electric er en helelektrisk crossover med en WLTP rekkevidde på opptil 450 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true

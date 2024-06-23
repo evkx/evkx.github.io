@@ -1,7 +1,7 @@
 ---
 title: Volvo EX40 Twin Motor
 linktitle: "EX40 Twin Motor"
-description: "Volvo EX40 Twin Motor er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 535 km (333 miles). EVKX.net har alle detaljerne."
+description: "Volvo EX40 Twin Motor er en fuldelektrisk crossover med en WLTP rækkevidde på op til 535 km (333 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

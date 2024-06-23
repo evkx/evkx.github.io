@@ -1,7 +1,7 @@
 ---
 title: Alfa Romeo Junior
 linktitle: "Junior"
-description: "Alfa Romeo Junior er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 410 km (255 miles). EVKX.net har alle detaljerne."
+description: "Alfa Romeo Junior er en fuldelektrisk crossover med en WLTP rækkevidde på op til 410 km (255 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

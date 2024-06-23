@@ -1,7 +1,7 @@
 ---
 title: Zeekr X Privilege AWD
 linktitle: "X Privilege AWD"
-description: "Zeekr X Privilege AWD er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 400 km (249 miles). EVKX.net har alle detaljerne."
+description: "Zeekr X Privilege AWD er en fuldelektrisk crossover med en WLTP rækkevidde på op til 400 km (249 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

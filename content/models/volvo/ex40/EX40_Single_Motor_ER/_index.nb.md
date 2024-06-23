@@ -1,7 +1,7 @@
 ---
 title: Volvo EX40 Single Motor ER
 linktitle: "EX40 Single Motor ER"
-description: "Volvo EX40 Single Motor ER er en helelektrisk delefilter med en WLTP rekkevidde på opptil 572 km. EVKX.net har alle detaljene."
+description: "Volvo EX40 Single Motor ER er en helelektrisk crossover med en WLTP rekkevidde på opptil 572 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true

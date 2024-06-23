@@ -1,7 +1,7 @@
 ---
 title: MG MG4 Electric Standard
 linktitle: "MG4 Electric Standard"
-description: "MG MG4 Electric Standard er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 350 km (218 miles). EVKX.net har alle detaljerne."
+description: "MG MG4 Electric Standard er en fuldelektrisk crossover med en WLTP rækkevidde på op til 350 km (218 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

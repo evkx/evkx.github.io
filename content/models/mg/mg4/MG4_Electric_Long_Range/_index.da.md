@@ -1,7 +1,7 @@
 ---
 title: MG MG4 Electric Long Range
 linktitle: "MG4 Electric Long Range"
-description: "MG MG4 Electric Long Range er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 435 km (270 miles). EVKX.net har alle detaljerne."
+description: "MG MG4 Electric Long Range er en fuldelektrisk crossover med en WLTP rækkevidde på op til 435 km (270 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

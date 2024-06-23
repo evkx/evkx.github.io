@@ -1,7 +1,7 @@
 ---
 title: BYD Atto 3
 linktitle: "Atto 3"
-description: "BYD Atto 3 er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 420 km (261 miles). EVKX.net har alle detaljerne."
+description: "BYD Atto 3 er en fuldelektrisk crossover med en WLTP rækkevidde på op til 420 km (261 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

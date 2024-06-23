@@ -1,7 +1,7 @@
 ---
 title: Lexus UX 300e
 linktitle: "UX 300e"
-description: "Lexus UX 300e er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 450 km (280 miles). EVKX.net har alle detaljerne."
+description: "Lexus UX 300e er en fuldelektrisk crossover med en WLTP rækkevidde på op til 450 km (280 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

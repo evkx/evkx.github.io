@@ -1,7 +1,7 @@
 ---
 title: Citroën ë-C3
 linktitle: "ë-C3"
-description: "Citroën ë-C3 er en helelektrisk delefilter med en WLTP rekkevidde på opptil 326 km. EVKX.net har alle detaljene."
+description: "Citroën ë-C3 er en helelektrisk crossover med en WLTP rekkevidde på opptil 326 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true

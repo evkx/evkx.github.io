@@ -1,7 +1,7 @@
 ---
 title: Smart #1
 linktitle: "#1"
-description: "Smart #1 er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 440 km (274 miles). EVKX.net har alle detaljerne."
+description: "Smart #1 er en fuldelektrisk crossover med en WLTP rækkevidde på op til 440 km (274 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

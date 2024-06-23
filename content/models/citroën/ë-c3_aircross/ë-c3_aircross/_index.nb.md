@@ -1,7 +1,7 @@
 ---
 title: Citroën ë-C3 Aircross
 linktitle: "ë-C3 Aircross"
-description: "Citroën ë-C3 Aircross er en helelektrisk delefilter med en WLTP rekkevidde på opptil 306 km. EVKX.net har alle detaljene."
+description: "Citroën ë-C3 Aircross er en helelektrisk crossover med en WLTP rekkevidde på opptil 306 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true

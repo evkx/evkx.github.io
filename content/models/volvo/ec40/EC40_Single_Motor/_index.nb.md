@@ -1,7 +1,7 @@
 ---
 title: Volvo EC40 Single Motor
 linktitle: "EC40 Single Motor"
-description: "Volvo EC40 Single Motor er en helelektrisk delefilter med en WLTP rekkevidde på opptil 478 km. EVKX.net har alle detaljene."
+description: "Volvo EC40 Single Motor er en helelektrisk crossover med en WLTP rekkevidde på opptil 478 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true

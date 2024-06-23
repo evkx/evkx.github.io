@@ -1,7 +1,7 @@
 ---
 title: Hyundai Kona Long Range
 linktitle: "Kona Long Range"
-description: "Hyundai Kona Long Range er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 514 km (320 miles). EVKX.net har alle detaljerne."
+description: "Hyundai Kona Long Range er en fuldelektrisk crossover med en WLTP rækkevidde på op til 514 km (320 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

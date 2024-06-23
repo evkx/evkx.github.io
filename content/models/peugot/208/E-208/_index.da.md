@@ -1,7 +1,7 @@
 ---
 title: Peugot E-208
 linktitle: "E-208"
-description: "Peugot E-208 er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 400 km (249 miles). EVKX.net har alle detaljerne."
+description: "Peugot E-208 er en fuldelektrisk crossover med en WLTP rækkevidde på op til 400 km (249 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

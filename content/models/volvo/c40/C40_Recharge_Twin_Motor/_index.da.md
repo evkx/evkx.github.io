@@ -1,7 +1,7 @@
 ---
 title: Volvo C40 Recharge Twin Motor
 linktitle: "C40 Recharge Twin Motor"
-description: "Volvo C40 Recharge Twin Motor er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 548 km (341 miles). EVKX.net har alle detaljerne."
+description: "Volvo C40 Recharge Twin Motor er en fuldelektrisk crossover med en WLTP rækkevidde på op til 548 km (341 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: Opel Mokka Electric
 linktitle: "Mokka Electric"
-description: "Opel Mokka Electric er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 406 km (252 miles). EVKX.net har alle detaljerne."
+description: "Opel Mokka Electric er en fuldelektrisk crossover med en WLTP rækkevidde på op til 406 km (252 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

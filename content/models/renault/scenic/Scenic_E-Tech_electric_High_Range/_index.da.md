@@ -1,7 +1,7 @@
 ---
 title: Renault Scenic E-Tech electric High Range
 linktitle: "Scenic E-Tech electric High Range"
-description: "Renault Scenic E-Tech electric High Range er en fuldelektrisk delefilter med en WLTP rækkevidde på op til 625 km (388 miles). EVKX.net har alle detaljerne."
+description: "Renault Scenic E-Tech electric High Range er en fuldelektrisk crossover med en WLTP rækkevidde på op til 625 km (388 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true

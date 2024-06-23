@@ -1,7 +1,7 @@
 ---
 title: Volvo XC40 Recharge Twin Motor
 linktitle: "XC40 Recharge Twin Motor"
-description: "Volvo XC40 Recharge Twin Motor er en helelektrisk delefilter med en WLTP rekkevidde på opptil 535 km. EVKX.net har alle detaljene."
+description: "Volvo XC40 Recharge Twin Motor er en helelektrisk crossover med en WLTP rekkevidde på opptil 535 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
