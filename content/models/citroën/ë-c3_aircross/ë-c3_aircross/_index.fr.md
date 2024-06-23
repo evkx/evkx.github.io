@@ -1,7 +1,7 @@
 ---
 title: Citroën ë-C3 Aircross
 linktitle: "ë-C3 Aircross"
-description: "Citroën ë-C3 Aircross est un crossover entièrement électrique avec une autonomie de WLTP allant jusqu'à 326 km (203 miles). EVKX.net a tous les détails."
+description: "Citroën ë-C3 Aircross est un crossover entièrement électrique avec une autonomie de WLTP allant jusqu'à 306 km (190 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ La Citroën ë-C3 Aircross kWh offre des performances de base avec une puissance
 
 La batterie haute capacité a une capacité brute de 45 kWh et une capacité nette utilisable de 44 kWh, offrant une réserve de 1 kWh (2,2%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 326 km, avec une consommation d'énergie de 13,5 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 306 km, avec une consommation d'énergie de 14,4 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 100kW. Une charge complète de 0 à 100 % prendrait 66 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 25 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 13 % et 68 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 64kW. Chaque session de charge prendrait 23 minutes et 34 secondes.
 

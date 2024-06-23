@@ -1,7 +1,7 @@
 ---
 title: Citroën ë-C3 Aircross
 linktitle: "ë-C3 Aircross"
-description: "Citroën ë-C3 Aircross er en helelektrisk delefilter med en WLTP rekkevidde på opptil 326 km. EVKX.net har alle detaljene."
+description: "Citroën ë-C3 Aircross er en helelektrisk delefilter med en WLTP rekkevidde på opptil 306 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Citroën ë-C3 Aircross gir grunnleggende ytelse med en maksimal effekt på 83 k
 
 Høykapasitetsbatteriet har en brutto kapasitet på 45 kWh og en netto brukbar kapasitet på 44 kWh, som gir en buffer på 1 kWh (2,2%) for batteribeskyttelse. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
 
-I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 326 km, med et energiforbruk på 13,5 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 306 km, med et energiforbruk på 14,4 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
 Maksimal DC-ladehastighet er 100 kW. En full lading fra 0 - 100 % vil ta 66 minutter, mens et mer vanlig scenario på 10-80 % vil ta 25 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 13% til 68%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 64kW. Hver ladeøkt vil ta 23 minutter og 34 sekunder.
 

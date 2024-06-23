@@ -1,7 +1,7 @@
 ---
 title: Citroën ë-C3 Aircross
 linktitle: "ë-C3 Aircross"
-description: "Citroën ë-C3 Aircross is an all-electric crossover with a WLTP range of up to 326 km (203 miles). EVKX.net has all the details."
+description: "Citroën ë-C3 Aircross is an all-electric crossover with a WLTP range of up to 306 km (190 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ The Citroën ë-C3 Aircross kWh provides basic performance with a maximum power 
 
 The high-capacity battery has a gross capacity of 45 kWh and a net usable capacity of 44 kWh, providing an 1 kWh buffer (2.2%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
-According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 326 km (203 miles), with an energy consumption rate of 13.5 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 306 km (190 miles), with an energy consumption rate of 14.4 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 100 kW. Charging from 0% to 100% takes approximately 66 minutes, while a more typical charging scenario from 10% to 80% takes 25 minutes with an average charging speed at 73 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 13% to 68%. This results in an effective charging speed, including time lost, of 64 kW, with each charging session taking about 23 minutes and 34 seconds..
 
