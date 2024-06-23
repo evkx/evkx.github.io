@@ -250,7 +250,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høyde
 			</td>
 			<td>
-				15157770 mm
+				1577 mm
 			</td>
 		</tr>
 		<tr>

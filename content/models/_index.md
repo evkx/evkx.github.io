@@ -293,7 +293,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Citroën is a French automotive brand that was founded in 1919 by André Citroën. It is known for its innovative and distinctive designs, such as the Traction Avant, the 2CV, the DS, and the CX. Citroën is also a pioneer in mass production, front-wheel drive, hydropneumatic suspension, and aerodynamics. Citroën is part of the Stellantis group, which was formed in 2021 by the merger of PSA and FCA
 	</p>
 	<p>
-	Citroën has 2 models with total 2 variants.
+	Citroën has 3 models with total 3 variants.
 	</p>
 	<a href="citroën/" class="btn btn-outline-primary" role="button">Go to Citroën EV-model overview</a>
 </div>

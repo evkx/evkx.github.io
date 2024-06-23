@@ -250,7 +250,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højde
 			</td>
 			<td>
-				15157770 mm (596762,9")
+				1577 mm (62,1")
 			</td>
 		</tr>
 		<tr>

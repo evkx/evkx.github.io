@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Dernières critiques en ligne
 
+- id: frontpage-description-e642da70
+  translation: Citroën ë-C3 Aircross est un crossover entièrement électrique avec une autonomie de WLTP allant jusqu'à 326 km (203 miles). EVKX.net a tous les détails.
+
 - id: frontpage-description-0c64444a
   translation: SKODA ENYAQ COUPÉ 60 est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 408 km (254 miles). EVKX.net a tous les détails.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-a70c1778
   translation: Mercedes-EQ EQE 350+ SUV est un SUV de luxe entièrement électrique avec une autonomie de WLTP allant jusqu'à 628 km (390 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-3419a59c
-  translation: Volkswagen ID.3 GTX est une berline entièrement électrique avec une autonomie de WLTP allant jusqu'à 600 km (373 miles). EVKX.net a tous les détails.
 

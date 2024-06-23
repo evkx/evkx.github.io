@@ -250,7 +250,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Height
 			</td>
 			<td>
-				15157770 mm (596762,9")
+				1577 mm (62,1")
 			</td>
 		</tr>
 		<tr>

@@ -250,7 +250,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Höjd
 			</td>
 			<td>
-				15157770 mm
+				1577 mm
 			</td>
 		</tr>
 		<tr>

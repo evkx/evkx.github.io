@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-e642da70
+  translation: Citroën ë-C3 Aircross är en helelektrisk crossover med en WLTP räckvidd på upp till 326 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-0c64444a
   translation: SKODA ENYAQ COUPÉ 60 är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 408 km. EVKX.net har alla detaljer.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-a70c1778
   translation: Mercedes-EQ EQE 350+ SUV är en helt elektrisk lyxsuv med en WLTP räckvidd på upp till 628 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-3419a59c
-  translation: Volkswagen ID.3 GTX är en helelektrisk halvkombi med en WLTP räckvidd på upp till 600 km. EVKX.net har alla detaljer.
 

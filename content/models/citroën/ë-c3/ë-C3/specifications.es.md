@@ -250,7 +250,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Altura
 			</td>
 			<td>
-				15157770 mm (596762,9")
+				1577 mm (62,1")
 			</td>
 		</tr>
 		<tr>
