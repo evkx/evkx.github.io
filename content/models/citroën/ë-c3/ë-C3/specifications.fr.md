@@ -488,6 +488,9 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 
 ### Sièges avant
 
+
+#### You Trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -505,7 +508,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Type de siège
 			</td>
 			<td>
-				None
+				Siège conducteur et passager
 			</td>
 		</tr>
 		<tr>
@@ -654,6 +657,9 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 	</tbody>
 </table>
+
+#### Max Trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -671,7 +677,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Type de siège
 			</td>
 			<td>
-				None
+				Siège conducteur et passager
 			</td>
 		</tr>
 		<tr>

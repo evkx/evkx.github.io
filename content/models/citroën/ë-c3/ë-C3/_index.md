@@ -73,7 +73,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ### Regenerative braking
 
-At low speeds, the one-pedal drive mode will keep the car creeping forward.
+[Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. At low speeds, the one-pedal drive mode will keep the car creeping forward.
 
 If you lift away the foot completly the regen is at one fixed level. This cant be adjusted.
 
@@ -104,7 +104,7 @@ The seat layout is the traditional five seats with two in front and three in the
 
 There are two seat types you can choose from for the front row in the Citroën ë-C3.
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **You Trim** seat.
 
 - integrated headrest
 
@@ -113,7 +113,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **Max Trim** seat.
 
 - height adjustable headrest
 

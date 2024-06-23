@@ -488,6 +488,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Forseter
 
+
+#### You Trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -505,7 +508,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				None
+				Sjåfør- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -654,6 +657,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 	</tbody>
 </table>
+
+#### Max Trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -671,7 +677,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				None
+				Sjåfør- og passasjersete
 			</td>
 		</tr>
 		<tr>

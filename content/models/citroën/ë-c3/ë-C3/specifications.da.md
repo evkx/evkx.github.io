@@ -488,6 +488,9 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 
 ### Forsæder
 
+
+#### You Trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -505,7 +508,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædetype
 			</td>
 			<td>
-				None
+				Fører- og passagersæde
 			</td>
 		</tr>
 		<tr>
@@ -654,6 +657,9 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 	</tbody>
 </table>
+
+#### Max Trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -671,7 +677,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædetype
 			</td>
 			<td>
-				None
+				Fører- og passagersæde
 			</td>
 		</tr>
 		<tr>

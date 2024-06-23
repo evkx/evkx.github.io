@@ -73,7 +73,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ### Frenado regenerativo
 
-A bajas velocidades, el modo de conducción con un solo pedal mantendrá el coche avanzando lentamente.
+[La frenada regenerativa](../../../../technology/regen/) en este modelo se facilita principalmente a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving). A diferencia de algunos modelos, [la regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o la conducción por inercia no están disponibles aquí. A bajas velocidades, el modo de conducción con un solo pedal mantendrá el coche avanzando lentamente.
 
 Si levantas completamente el pie, la regeneración está en un nivel fijo. Esto no se puede ajustar.
 
@@ -104,7 +104,7 @@ La disposición de los asientos es la tradicional de cinco asientos, dos delante
 
 Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Citroën ë-C3.
 
-Las siguientes funcionalidades están disponibles en el asiento ****.
+Las siguientes funcionalidades están disponibles en el asiento **You Trim**.
 
 - reposacabezas integrado
 
@@ -113,7 +113,7 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 
-Las siguientes funcionalidades están disponibles en el asiento ****.
+Las siguientes funcionalidades están disponibles en el asiento **Max Trim**.
 
 - reposacabezas ajustable en altura
 

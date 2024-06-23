@@ -488,6 +488,9 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ### Framsäten
 
+
+#### You Trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -505,7 +508,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Säte typ
 			</td>
 			<td>
-				None
+				Förar- och passagerarsäte
 			</td>
 		</tr>
 		<tr>
@@ -654,6 +657,9 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 	</tbody>
 </table>
+
+#### Max Trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -671,7 +677,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Säte typ
 			</td>
 			<td>
-				None
+				Förar- och passagerarsäte
 			</td>
 		</tr>
 		<tr>

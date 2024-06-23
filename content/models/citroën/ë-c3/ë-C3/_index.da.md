@@ -73,7 +73,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ### Regenerativ bremsning
 
-Ved lave hastigheder vil en-pedal kørsel holde bilen langsomt kørende fremad.
+[Regenerativ bremsning](../../../../technology/regen/) i denne model er primært faciliteret gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving). I modsætning til nogle modeller er [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller kørsel på frihjul ikke tilgængelig her. Ved lave hastigheder vil en-pedal kørsel holde bilen langsomt kørende fremad.
 
 Hvis du løfter foden helt væk, er regen på et fast niveau. Dette kan ikke justeres.
 
@@ -104,7 +104,7 @@ Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
 Der er to sædetyper, du kan vælge imellem til forreste række i Citroën ë-C3.
 
-Følgende funktioner er tilgængelige på **** sædet.
+Følgende funktioner er tilgængelige på **You Trim** sædet.
 
 - integreret nakkestøtte
 
@@ -113,7 +113,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 
-Følgende funktioner er tilgængelige på **** sædet.
+Følgende funktioner er tilgængelige på **Max Trim** sædet.
 
 - højdejusterbar nakkestøtte
 

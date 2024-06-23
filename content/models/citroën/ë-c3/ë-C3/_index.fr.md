@@ -73,7 +73,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ### Freinage régénératif
 
-À basse vitesse, le mode de conduite à une pédale maintiendra la voiture en avançant lentement.
+[Le freinage régénératif](../../../../technology/regen/) de ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la conduite en roue libre ne sont pas disponibles ici. À basse vitesse, le mode de conduite à une pédale maintiendra la voiture en avançant lentement.
 
 Si vous levez complètement le pied, la régénération se fait à un niveau fixe. Cela ne peut pas être ajusté.
 
@@ -104,7 +104,7 @@ La disposition des sièges est la traditionnelle cinq sièges avec deux à l'ava
 
 Vous pouvez choisir parmi deux types de sièges pour la première rangée du Citroën ë-C3.
 
-Les fonctionnalités suivantes sont disponibles sur le siège ****.
+Les fonctionnalités suivantes sont disponibles sur le siège **You Trim**.
 
 - appui-tête intégré
 
@@ -113,7 +113,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 
 
-Les fonctionnalités suivantes sont disponibles sur le siège ****.
+Les fonctionnalités suivantes sont disponibles sur le siège **Max Trim**.
 
 - appui-tête réglable en hauteur
 

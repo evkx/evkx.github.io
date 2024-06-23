@@ -488,6 +488,9 @@ Este modelo está disponible con una configuración de cinco asientos.
 
 ### Asientos delanteros
 
+
+#### You Trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -505,7 +508,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Tipo de asiento
 			</td>
 			<td>
-				None
+				Asiento del conductor y del pasajero
 			</td>
 		</tr>
 		<tr>
@@ -654,6 +657,9 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 	</tbody>
 </table>
+
+#### Max Trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -671,7 +677,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Tipo de asiento
 			</td>
 			<td>
-				None
+				Asiento del conductor y del pasajero
 			</td>
 		</tr>
 		<tr>
