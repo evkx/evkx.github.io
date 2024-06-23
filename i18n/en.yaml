@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest online reviews
 
+- id: frontpage-description-0c64444a
+  translation: SKODA ENYAQ COUPÉ 60 is an all-electric coupe SUV with a WLTP range of up to 545 km (339 miles). EVKX.net has all the details.
+
 - id: frontpage-description-23251c3c
   translation: SKODA ENYAQ COUPÉ 85 is an all-electric coupe SUV with a WLTP range of up to 545 km (339 miles). EVKX.net has all the details.
 
@@ -152,9 +155,6 @@
   translation: Kia EV3 Long Range is an all-electric crossover with a WLTP range of up to 600 km (373 miles). EVKX.net has all the details.
 
 - id: frontpage-description-a70c1778
-  translation: Mercedes-EQ EQE 350+ SUV is an all-electric luxury SUV with a WLTP range of up to 628 km (390 miles). EVKX.net has all the details.
-
-- id: frontpage-description-fbb26dbb
   translation: Mercedes-EQ EQE 350+ SUV is an all-electric luxury SUV with a WLTP range of up to 628 km (390 miles). EVKX.net has all the details.
 
 - id: frontpage-description-3419a59c

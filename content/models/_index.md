@@ -697,7 +697,7 @@ Click on the logos below to go directly to the brand page, or scroll down to rea
 		Škoda Auto, a Czech car manufacturer founded in 1895, is known for its reliable and affordable vehicles. Now a subsidiary of the Volkswagen Group, Škoda blends practical engineering with innovative design.
 	</p>
 	<p>
-	Skoda has 1 models with total 11 variants.
+	Skoda has 1 models with total 12 variants.
 	</p>
 	<a href="skoda/" class="btn btn-outline-primary" role="button">Go to Skoda EV-model overview</a>
 </div>

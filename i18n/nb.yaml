@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-0c64444a
+  translation: SKODA ENYAQ COUPÉ 60 er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 545 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-23251c3c
   translation: SKODA ENYAQ COUPÉ 85 er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 545 km. EVKX.net har alle detaljene.
 
@@ -152,9 +155,6 @@
   translation: Kia EV3 Long Range er en helelektrisk delefilter med en WLTP rekkevidde på opptil 600 km. EVKX.net har alle detaljene.
 
 - id: frontpage-description-a70c1778
-  translation: Mercedes-EQ EQE 350+ SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 628 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-fbb26dbb
   translation: Mercedes-EQ EQE 350+ SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 628 km. EVKX.net har alle detaljene.
 
 - id: frontpage-description-3419a59c
