@@ -66,6 +66,10 @@ Citroën ë-C3 tiene un sistema de tracción delantera sostenido por un motor en
 
 La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 163 mm.
 
+### Dirección
+
+La dirección dinámica es una característica un estándar en el Citroën ë-C3. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
@@ -75,7 +79,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 [La frenada regenerativa](../../../../technology/regen/) en este modelo se facilita principalmente a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving). A diferencia de algunos modelos, [la regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o la conducción por inercia no están disponibles aquí. A bajas velocidades, el modo de conducción con un solo pedal mantendrá el coche avanzando lentamente.
 
-Si levantas completamente el pie, la regeneración está en un nivel fijo. Esto no se puede ajustar.
+Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay dos niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
 
 ## Exterior
 
@@ -200,6 +204,10 @@ El Citroën ë-C3 tiene varios [sistemas avanzados de asistencia al conductor](.
 
 
 
+El Citroën ë-C3 tiene un [**sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) como un estándar sistema. Este sistema ayuda a evitar que las ruedas del vehículo se bloqueen durante el frenado.
+
+El Citroën ë-C3 tiene un [**Control Electrónico de Estabilidad**](../../../../technology/driverassistance/electronicstabilitycontrol/) como sistema un estándar diseñado para mejorar la estabilidad y el manejo de un vehículo durante maniobras repentinas o condiciones de carretera resbaladizas.
+
 El Citroën ë-C3 tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema un estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
 
 ### Automatización de conducción
@@ -209,6 +217,10 @@ El Citroën ë-C3 tiene [**frenado automático de emergencia**](../../../../tech
 Con el sistema estándar, el modelo no ofrece automatización de conducción.
 - Control de crucero.
 
+### Sensores y cámaras
+
+Este modelo utiliza cámaras, radar y sensores ultrasónicos para los sistemas de asistencia al conductor.
+Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), uno [cámaras](../../../../technology/sensorsandcameras/cameras/), y cuatro [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) registran todo lo que sucede en el entorno del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 

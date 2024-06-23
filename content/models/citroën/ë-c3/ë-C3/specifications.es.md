@@ -1092,6 +1092,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Cámara de marcha atrás
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1099,6 +1100,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Cámara 360
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1106,6 +1108,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Alerta de tráfico cruzado trasero
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1113,6 +1116,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento traseros
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1120,6 +1124,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento delanteros
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1127,6 +1132,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sensores de aparcamiento laterales
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1134,6 +1140,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de descenso de pendientes
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1141,6 +1148,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de arranque en pendiente
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1148,6 +1156,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sistema de frenos antibloqueo
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1163,6 +1172,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de frenado
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1170,6 +1180,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control de tracción
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1177,6 +1188,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Evitar accidentes al girar a la izquierda
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1191,6 +1203,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control electrónico de estabilidad
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1205,6 +1218,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de tráfico cruzado
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1212,6 +1226,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Limitador de velocidad
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -1219,6 +1234,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de eficiencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1226,6 +1242,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Dirección automática de emergencia
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -1233,6 +1250,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Reconocimiento de señales de tráfico
 			</td>
 			<td>
+				Sí, equipo opcional
 			</td>
 		</tr>
 		<tr>
@@ -1240,6 +1258,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Visión nocturna
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 	</tbody>

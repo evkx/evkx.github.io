@@ -66,6 +66,10 @@ Citroën ë-C3 has a front-wheel drive system supported by one motor on the fron
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 163 mm.
 
+### Steering
+
+Dynamic steering is a standard feature on the Citroën ë-C3. Dynamic steering varies the steering ratio as a function of driving speed.
+
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
@@ -75,7 +79,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 [Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here. At low speeds, the one-pedal drive mode will keep the car creeping forward.
 
-If you lift away the foot completly the regen is at one fixed level. This cant be adjusted.
+Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are two levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
 ## Exterior
 
@@ -200,6 +204,10 @@ The Citroën ë-C3 has several standard and optional [advanced driver assistance
 
 
 
+The Citroën ë-C3 has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+
+The Citroën ë-C3 has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+
 The Citroën ë-C3 has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 ### Driving Automation
@@ -209,6 +217,10 @@ The Citroën ë-C3 has [**automatic emergency braking**](../../../../technology/
 With the standard system the model offers no driving automation.
 - Cruise control.
 
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for the driver assist systems.
+Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), one [cameras](../../../../technology/sensorsandcameras/cameras/), and four [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
 

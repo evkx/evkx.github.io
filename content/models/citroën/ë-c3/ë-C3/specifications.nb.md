@@ -1092,6 +1092,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Bryggekamera
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1099,6 +1100,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				360-kamera
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1106,6 +1108,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Alarm for kryssende trafikk bak
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1113,6 +1116,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer bak
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1120,6 +1124,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer foran
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1127,6 +1132,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Parkeringssensorer på siden
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1134,6 +1140,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Hill nedstigningshjelp
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1141,6 +1148,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Hill start assist
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1148,6 +1156,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				AntiLock Braking System
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1163,6 +1172,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Bremseassistent
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1170,6 +1180,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Traksjonskontroll
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1177,6 +1188,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Unngå krasj i venstresving
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1191,6 +1203,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Elektronisk stabilitetskontroll
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1205,6 +1218,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Cross traffic assist
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1212,6 +1226,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Fartsbegrenser
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1219,6 +1234,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Effektivitetsassistent
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1226,6 +1242,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Automatisk nødstyring
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -1233,6 +1250,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
+				Ja, tileggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -1240,6 +1258,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Nattsyn
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>

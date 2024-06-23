@@ -66,6 +66,10 @@ Citroën ë-C3 har ett framhjulsdriftssystem som stöds av en motor på framaxel
 
 Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 163 mm.
 
+### Styrning
+
+Dynamisk styrning är standard-funktionen för Citroën ë-C3. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
+
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
@@ -75,7 +79,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 [Regenerativ bromsning](../../../../technology/regen/) i denna modell underlättas främst genom [**enpedalskörning**](../../../../technology/regen/#one-pedal-driving). Till skillnad från vissa modeller är [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller frihjuling inte tillgänglig här. Vid låga hastigheter kommer enpedalskörningsläget att hålla bilen långsamt framåt.
 
-Om du lyfter foten helt är regenereringen på en fast nivå. Detta kan inte justeras.
+Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter foten från gaspedalen. Det finns två nivåer av regenerativ bromsning att välja mellan, vilket gör att du kan anpassa körupplevelsen efter dina önskemål.
 
 ## Exteriör
 
@@ -200,6 +204,10 @@ Citroën ë-C3 har flera standard- och valfria [avancerade förarassistanssystem
 
 
 
+Citroën ë-C3 har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
+
+Citroën ë-C3 har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
+
 Citroën ë-C3 har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
 
 ### Körautomation
@@ -209,6 +217,10 @@ Citroën ë-C3 har [**automatisk nödbroms**](../../../../technology/driverassis
 Med standardsystemet erbjuder modellen ingen körautomatisering.
 - Farthållare.
 
+### Sensorer och kameror
+
+Denna modell använder kameror, radar och ultraljudssensorer för förarassistanssystemen.
+Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), common.number.zero [LiDARsensorer](../../../../technology/sensorsandcameras/lidar/), en [kameraer](../../../../technology/sensorsandcameras/cameras/), og fyra [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
 
 {{<evkxdisplayaddarticle />}}
 

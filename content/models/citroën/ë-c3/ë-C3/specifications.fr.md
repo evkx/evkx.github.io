@@ -1092,6 +1092,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméra de recul
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1099,6 +1100,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Caméra 360
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1106,6 +1108,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Alerte de trafic transversal arrière
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1113,6 +1116,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs de stationnement arrière
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1120,6 +1124,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs de stationnement avant
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1127,6 +1132,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Capteurs de stationnement latéraux
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1134,6 +1140,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Aide à la descente
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1141,6 +1148,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Aide au démarrage en côte
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1148,6 +1156,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Système de freinage antiblocage
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1163,6 +1172,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Assistance au freinage
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1170,6 +1180,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle de traction
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1177,6 +1188,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Évitement d'un accident de virage à gauche
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1191,6 +1203,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle électronique de stabilité
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1205,6 +1218,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Assistance au trafic transversal
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1212,6 +1226,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Limiteur de vitesse
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>
@@ -1219,6 +1234,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Aide à l'efficacité
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1226,6 +1242,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Direction d'urgence automatique
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -1233,6 +1250,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Reconnaissance des panneaux de signalisation
 			</td>
 			<td>
+				Oui, équipement en option
 			</td>
 		</tr>
 		<tr>
@@ -1240,6 +1258,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Vision nocturne
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 	</tbody>

@@ -16,6 +16,13 @@ Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Citroen e-C3 review | This could be one of Citroen's best cars!</h3>
+<p>Nobby On Cars: 27.05.2024</p>
+
+{{< youtube 6YchF4zJKXw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>NEW Citroen e-C3 Review: The affordable EV we've been waiting for!</h3>
 <p>CarGurus UK: 23.05.2024</p>
 
