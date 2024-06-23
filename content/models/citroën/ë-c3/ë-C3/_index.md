@@ -75,6 +75,8 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 At low speeds, the one-pedal drive mode will keep the car creeping forward.
 
+If you lift away the foot completly the regen is at one fixed level. This cant be adjusted.
+
 ## Exterior
 
 You can choose between 5 different paint colors when ordering this model.
@@ -100,7 +102,16 @@ The seat layout is the traditional five seats with two in front and three in the
 
 ### First row seats
 
-Only one front seat type is available in the Citroën ë-C3.
+There are two seat types you can choose from for the front row in the Citroën ë-C3.
+
+The following functionalities are available on the **** seat.
+
+- integrated headrest
+
+You can choose from 1 different materials/colors for this seat type.
+- black/white [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+
+
 
 The following functionalities are available on the **** seat.
 
@@ -205,7 +216,7 @@ With the standard system the model offers no driving automation.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 310 liters. With the rear seat down, it is 1200 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 1910 kg (4211 lbs), and with the base weight of 1491 kg (3287 lbs), you can max load 419 kg (924 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 310 liters. With the rear seat down, it is 1200 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 1910 kg (4211 lbs), and with the base weight of 1416 kg (3122 lbs), you can max load 494 kg (1089 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/trunk_1_st.jpg" title="Citroën ë-C3" width="3000" height="1999"  >}}

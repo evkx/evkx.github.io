@@ -75,6 +75,8 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 À basse vitesse, le mode de conduite à une pédale maintiendra la voiture en avançant lentement.
 
+Si vous levez complètement le pied, la régénération se fait à un niveau fixe. Cela ne peut pas être ajusté.
+
 ## Extérieur
 
 Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
@@ -100,7 +102,16 @@ La disposition des sièges est la traditionnelle cinq sièges avec deux à l'ava
 
 ### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le Citroën ë-C3.
+Vous pouvez choisir parmi deux types de sièges pour la première rangée du Citroën ë-C3.
+
+Les fonctionnalités suivantes sont disponibles sur le siège ****.
+
+- appui-tête intégré
+
+Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+- black/white [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
+
+
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
@@ -205,7 +216,7 @@ Avec le système standard, le modèle n'offre aucune automatisation de conduite.
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 310 litres. Avec la banquette arrière rabattue, elle est de 1200 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 1910 kg (4211 lbs), et avec le poids de base de 1491 kg (3287 lbs), vous pouvez charger au maximum 419 kg (924 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 310 litres. Avec la banquette arrière rabattue, elle est de 1200 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 1910 kg (4211 lbs), et avec le poids de base de 1416 kg (3122 lbs), vous pouvez charger au maximum 494 kg (1089 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/trunk_1_st.jpg" title="Citroën ë-C3" width="3000" height="1999"  >}}

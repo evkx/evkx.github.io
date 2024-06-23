@@ -75,6 +75,8 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 Ved lave hastigheter vil en-pedalskjøringsmodus holde bilen sakte fremover.
 
+Hvis du løfter foten helt bort, er regenereringen på et fast nivå. Dette kan ikke justeres.
+
 ## Eksteriør
 
 Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
@@ -100,7 +102,16 @@ Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 ### Forseter
 
-Bare én type forsete er tilgjengelig i Citroën ë-C3.
+Det er to setetyper du kan velge mellom for første rad i Citroën ë-C3.
+
+Følgende funksjoner er tilgjengelige på **** setet.
+
+- integrert hodestøtte
+
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+- black/white [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
+
+
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -205,7 +216,7 @@ Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 310 liter. Med baksetet nede er det 1200 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 1910 kg, og med basisvekten på 1491 kg kan du maksimalt laste 419 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 310 liter. Med baksetet nede er det 1200 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 1910 kg, og med basisvekten på 1416 kg kan du maksimalt laste 494 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/trunk_1_st.jpg" title="Citroën ë-C3" width="3000" height="1999"  >}}

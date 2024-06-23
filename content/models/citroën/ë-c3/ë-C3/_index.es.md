@@ -75,6 +75,8 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 A bajas velocidades, el modo de conducción con un solo pedal mantendrá el coche avanzando lentamente.
 
+Si levantas completamente el pie, la regeneración está en un nivel fijo. Esto no se puede ajustar.
+
 ## Exterior
 
 Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
@@ -100,7 +102,16 @@ La disposición de los asientos es la tradicional de cinco asientos, dos delante
 
 ### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el Citroën ë-C3.
+Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Citroën ë-C3.
+
+Las siguientes funcionalidades están disponibles en el asiento ****.
+
+- reposacabezas integrado
+
+Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+- black/white [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
+
+
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -205,7 +216,7 @@ Con el sistema estándar, el modelo no ofrece automatización de conducción.
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 310 litros. Con el asiento trasero abatido, es de 1200 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 1910 kg (4211 lbs), y con el peso base de 1491 kg (3287 lbs), puedes cargar como máximo 419 kg (924 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 310 litros. Con el asiento trasero abatido, es de 1200 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 1910 kg (4211 lbs), y con el peso base de 1416 kg (3122 lbs), puedes cargar como máximo 494 kg (1089 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/trunk_1_st.jpg" title="Citroën ë-C3" width="3000" height="1999"  >}}
