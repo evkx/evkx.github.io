@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-e15ac190
+  translation: SKODA ENYAQ 60 es un SUV totalmente eléctrico con una autonomía WLTP de hasta 401 km (249 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-3c5df9ce
   translation: SKODA ENYAQ 85 es un SUV totalmente eléctrico con una autonomía WLTP de hasta 566 km (352 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-8aed56ab
   translation: Volkswagen ID.3 GTX es un hatchback totalmente eléctrico con un WLTP alcance de hasta 553 km (344 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-c8748a2a
-  translation: Volkswagen ID.4 Pure es un SUV totalmente eléctrico con una autonomía WLTP de hasta 363 km (226 millas). EVKX.net tiene todos los detalles.
 
