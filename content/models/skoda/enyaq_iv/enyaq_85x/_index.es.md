@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ 85x
 linktitle: "ENYAQ 85x"
-description: "SKODA ENYAQ 85x es un SUV totalmente eléctrico con una autonomía WLTP de hasta 545 km (339 millas). EVKX.net tiene todos los detalles."
+description: "SKODA ENYAQ 85x es un SUV totalmente eléctrico con una autonomía WLTP de hasta 539 km (335 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ El SKODA ENYAQ 85x ofrece un rendimiento modesto con una potencia máxima de 210
 
 La batería de alta capacidad tiene una capacidad bruta de 82 kWh y una capacidad neta utilizable de 77 kWh, proporcionando un buffer de 5 kWh (6,1%) para la protección de la batería. Con un voltaje nominal de 350 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 545 y 527 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 14,1 kWh/100 km para el modelo base y 14,6 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 539 y 522 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 14,3 kWh/100 km para el modelo base y 14,8 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 135kW. Una carga completa del 0 al 100 % tardaría 62 minutos, mientras que un escenario más común del 10 al 80 % tardaría 35 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 43%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 101kW. Cada sesión de carga tardaría 19 minutos y 43 segundos.
 
@@ -127,6 +127,10 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85x/secondrowseats_1_st.jpg" title="SKODA ENYAQ 85x" width="3000" height="1945"  >}}
+
+
 Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
@@ -166,6 +170,10 @@ El modelo tiene 4 conexiones USB-C de serie.
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85x/headlights_1_st.jpg" title="SKODA ENYAQ 85x" width="3000" height="2000"  >}}
+
 ## Sistemas avanzados de asistencia al conductor
 
 El SKODA ENYAQ 85x tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
@@ -209,7 +217,11 @@ Con el sistema MAX  nivel 2, obtienes las siguientes funciones de automatizació
 
 La capacidad de carga en el maletero es de 570 litros. Con el asiento trasero abatido, es de 1610 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2740 kg (6041 lbs), y con el peso base de 2180 kg (4806 lbs), puedes cargar como máximo 560 kg (1235 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1200, y sin freno, es de 750 kg (2646/1653 lbs).<div class="mt-3 mb-3">
+Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1200, y sin freno, es de 750 kg (2646/1653 lbs).
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85x/trunk_1_st.jpg" title="SKODA ENYAQ 85x" width="3000" height="2002"  >}}
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> SKODA Enyaq iV </strong>
 </a>

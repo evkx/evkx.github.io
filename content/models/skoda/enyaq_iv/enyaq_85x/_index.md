@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ 85x
 linktitle: "ENYAQ 85x"
-description: "SKODA ENYAQ 85x is an all-electric SUV with a WLTP range of up to 545 km (339 miles). EVKX.net has all the details."
+description: "SKODA ENYAQ 85x is an all-electric SUV with a WLTP range of up to 539 km (335 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ The SKODA ENYAQ 85x offers modest performance with a maximum power of 210 kW (28
 
 The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 77 kWh, providing an 5 kWh buffer (6.1%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 545 to 527 km (339-328 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.1 kWh/100 km for the base model and 14.6 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 539 to 522 km (335-324 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.3 kWh/100 km for the base model and 14.8 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 62 minutes, while a more typical charging scenario from 10% to 80% takes 35 minutes with an average charging speed at 94 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 43%. This results in an effective charging speed, including time lost, of 101 kW, with each charging session taking about 19 minutes and 43 seconds..
 
@@ -127,6 +127,10 @@ You can choose from 2 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85x/secondrowseats_1_st.jpg" title="SKODA ENYAQ 85x" width="3000" height="1945"  >}}
+
+
 There is only one type of steering wheel available.
 
 ## Climate system
@@ -166,6 +170,10 @@ The model has 4 USB-C connections as standard.
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85x/headlights_1_st.jpg" title="SKODA ENYAQ 85x" width="3000" height="2000"  >}}
+
 ## Advanced driver assistance systems
 
 The SKODA ENYAQ 85x has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -209,7 +217,11 @@ With the MAX  level 2 system, you get the following driving automation features.
 
 The cargo capacity in the trunk is 570 liters. With the rear seat down, it is 1610 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2740 kg (6041 lbs), and with the base weight of 2180 kg (4806 lbs), you can max load 560 kg (1235 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).<div class="mt-3 mb-3">
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85x/trunk_1_st.jpg" title="SKODA ENYAQ 85x" width="3000" height="2002"  >}}
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> SKODA Enyaq iV </strong>
 </a>

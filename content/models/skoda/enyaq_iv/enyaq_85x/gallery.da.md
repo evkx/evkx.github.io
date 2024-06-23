@@ -18,6 +18,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/details_2.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/details_2.jpg"
+data-pswp-width="3000"
+data-pswp-height="2001" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/details_2_xst.jpg" alt="SKODA ENYAQ 85x" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/exterior_1.jpg"
 data-pswp-width="3000"
@@ -63,6 +72,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/headlights_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/headlights_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/headlights_1_xst.jpg" alt="SKODA ENYAQ 85x" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/main_1.jpg"
 data-pswp-width="3000"
@@ -78,6 +96,24 @@ data-pswp-width="3000"
 data-pswp-height="1999" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/screens_1_xst.jpg" alt="SKODA ENYAQ 85x" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/secondrowseats_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/secondrowseats_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="1945" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/secondrowseats_1_xst.jpg" alt="SKODA ENYAQ 85x" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/trunk_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/trunk_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="2002" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85x/trunk_1_xst.jpg" alt="SKODA ENYAQ 85x" class="img-fluid " />
 		</a>
 	</div>
 </div>
