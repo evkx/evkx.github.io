@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/main_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="1999"  >}}
+
 Vi har delt vår beskrivelse av SKODA ENYAQ 60 i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
 - [Ytelse](#ytelse)
@@ -82,6 +86,10 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 
 Rutene fra B-stolpen og baksiden er tonet.
 
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/exterior_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="1999"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -108,11 +116,19 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/frontseats_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="2107"  >}}
+
+
 ### Seter på andre rad
 
 
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/secondrowseats_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="1945"  >}}
 
 
 Det er bare én type ratt tilgjengelig.
@@ -140,6 +156,10 @@ Du har trådløs lading for telefonen din.
 SKODA ENYAQ 60 har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5,3 tommer stor. touch-skjermen i dashbordets sentrum er 13,0 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/screens_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="1999"  >}}
+
+
 ## Infotainment
 
 Én type lydsystem er tilgjengelig for SKODA ENYAQ 60. Med Canton Soundsystem får du ti høyttalere med en maksimal systemeffekt på 550 watt.
@@ -150,6 +170,10 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 ## Lys
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/headlights_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="2000"  >}}
+
 ## Avanserte førerassistentsystemer
 
 SKODA ENYAQ 60 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
@@ -193,7 +217,11 @@ Med MAX  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 Lastkapasiteten i bagasjerommet er 570 liter. Med baksetet nede er det 1610 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2740 kg, og med basisvekten på 2180 kg kan du maksimalt laste 560 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750 kg.<div class="mt-3 mb-3">
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750 kg.
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/trunk_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="2002"  >}}
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> SKODA Enyaq iV </strong>
 </a>

@@ -10,7 +10,7 @@ weight: 30
 <h3>SKODA ENYAQ 60</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="enyaq_60/"><img src="" class="img-fluid" width="400px" height="0px" alt="ENYAQ 60" ></a>
+			<a href="enyaq_60/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_60/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ENYAQ 60" ></a>
 <i class="bi bi-battery-full"></i> 62 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
@@ -59,6 +59,25 @@ weight: 30
 				<li class="list-group-item list-group-item-action"><a href="enyaq_85x/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
 				<li class="list-group-item list-group-item-action"><a href="enyaq_85x/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
 				<li class="list-group-item list-group-item-action"><a href="enyaq_85x/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+<h3>SKODA ENYAQ COUPÉ 85</h3>
+	<div class="row">
+		<div class="col col-12 col-md-6">
+			<a href="enyaq_coupé_85/"><img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_85/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ENYAQ COUPÉ 85" ></a>
+<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
+		</div>
+		<div class="col col-12 col-md-6">
+			<ul class="list-group list-group-flush">
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_85/" class="text-decoration-none text-black"><i class="bi-car-front"></i> Description</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_85/rangeandconsumption/" class="text-decoration-none text-black" ><i class="bi-file-earmark-bar-graph"></i> Range</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_85/chargingcurve/" class="text-decoration-none text-black" ><i class="bi-battery-charging"></i> Charging curve</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_85/specifications/" class="text-decoration-none text-black" ><i class="bi-layout-text-sidebar-reverse"></i> Specifications</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_85/gallery/" class="text-decoration-none text-black" ><i class="bi-images"></i> Gallery</a></li>
+				<li class="list-group-item list-group-item-action"><a href="enyaq_coupé_85/reviews/" class="text-decoration-none text-black" ><i class="bi-person-video2"></i> Reviews</a></li>
 			</ul>
 		</div>
 	</div>

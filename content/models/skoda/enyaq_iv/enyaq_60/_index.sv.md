@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/main_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="1999"  >}}
+
 Vi har delat in vår beskrivning av SKODA ENYAQ 60 i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#prestanda)
@@ -82,6 +86,10 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 
 B-stolpen och vyerna bak är tonade.
 
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/exterior_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="1999"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -108,11 +116,19 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/frontseats_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="2107"  >}}
+
+
 ### Säten på andra raden
 
 
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/secondrowseats_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="1945"  >}}
 
 
 Det finns bara en typ av ratt tillgänglig.
@@ -140,6 +156,10 @@ Du har trådlös laddning för din telefon.
 SKODA ENYAQ 60 har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5,3 tum. Skärmen touch i mitten av instrumentbrädan är 13,0 tum.
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/screens_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="1999"  >}}
+
+
 ## Infotainment
 
 En typ av ljudsystem är tillgänglig för SKODA ENYAQ 60. Med Canton Soundsystem får du tio högtalare med en maximal systemeffekt på 550 watt.
@@ -150,6 +170,10 @@ Modellen har 4 USB-C-anslutningar som standard.
 ## Ljus
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/headlights_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="2000"  >}}
+
 ## Avancerade förarassistanssystem
 
 SKODA ENYAQ 60 har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
@@ -193,7 +217,11 @@ Med MAX  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 Lastkapaciteten i bagageutrymmet är 570 liter. Med baksätet nedfällt är det 1610 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2740 kg, och med basvikten på 2180 kg kan du lasta maximalt 560 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1200, och på en obromsad är den 750 kg.<div class="mt-3 mb-3">
+Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1200, och på en obromsad är den 750 kg.
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/trunk_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="2002"  >}}
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> SKODA Enyaq iV </strong>
 </a>

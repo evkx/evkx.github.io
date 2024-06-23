@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/main_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="1999"  >}}
+
 Hemos separado nuestro artículo SKODA ENYAQ 60 en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
@@ -82,6 +86,10 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/exterior_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="1999"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -108,11 +116,19 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
 
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/frontseats_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="2107"  >}}
+
+
 ### Asiento de segunda fila
 
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/secondrowseats_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="1945"  >}}
 
 
 Sólo hay un tipo de volante disponible.
@@ -140,6 +156,10 @@ Tienes carga inalámbrica para tu teléfono.
 El SKODA ENYAQ 60 tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla en la columna de dirección mide 5,3 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 13,0 pulgadas de tamaño.
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/screens_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="1999"  >}}
+
+
 ## Infoentretenimiento
 
 Un tipo de sistema de sonido está disponible para el SKODA ENYAQ 60. Con el Canton Soundsystem, obtienes diez parlantes con una salida máxima del sistema de 550 vatios.
@@ -150,6 +170,10 @@ El modelo tiene 4 conexiones USB-C de serie.
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/headlights_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="2000"  >}}
+
 ## Sistemas avanzados de asistencia al conductor
 
 El SKODA ENYAQ 60 tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
@@ -193,7 +217,11 @@ Con el sistema MAX  nivel 2, obtienes las siguientes funciones de automatizació
 
 La capacidad de carga en el maletero es de 570 litros. Con el asiento trasero abatido, es de 1610 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2740 kg (6041 lbs), y con el peso base de 2180 kg (4806 lbs), puedes cargar como máximo 560 kg (1235 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1200, y sin freno, es de 750 kg (2646/1653 lbs).<div class="mt-3 mb-3">
+Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1200, y sin freno, es de 750 kg (2646/1653 lbs).
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/trunk_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="2002"  >}}
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> SKODA Enyaq iV </strong>
 </a>

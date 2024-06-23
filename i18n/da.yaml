@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-23251c3c
+  translation: SKODA ENYAQ COUPÉ 85 er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 545 km (339 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-e15ac190
   translation: SKODA ENYAQ 60 er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 401 km (249 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-3419a59c
   translation: Volkswagen ID.3 GTX er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 600 km (373 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-8aed56ab
-  translation: Volkswagen ID.3 GTX er en fuldelektrisk hatchback med en WLTP rækkevidde på op til 553 km (344 miles). EVKX.net har alle detaljerne.
 

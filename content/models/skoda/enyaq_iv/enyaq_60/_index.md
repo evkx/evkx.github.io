@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/main_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="1999"  >}}
+
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
@@ -82,6 +86,10 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 The windows from B-pillar and back are tinted.
 
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/exterior_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="1999"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -108,11 +116,19 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/frontseats_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="2107"  >}}
+
+
 ### Second-row seat
 
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/secondrowseats_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="1945"  >}}
 
 
 There is only one type of steering wheel available.
@@ -140,6 +156,10 @@ You have wireless charging for your phone.
 The SKODA ENYAQ 60 has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column is 5.3 inches large. The touch screen on the dashboard's center is 13.0 inches large.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/screens_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="1999"  >}}
+
+
 ## Infotainment
 
 One type of sound system is available for the SKODA ENYAQ 60. With the Canton Soundsystem, you get ten speakers with a max system output of 550 watts.
@@ -150,6 +170,10 @@ The model has 4 USB-C connections as standard.
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/headlights_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="2000"  >}}
+
 ## Advanced driver assistance systems
 
 The SKODA ENYAQ 60 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -193,7 +217,11 @@ With the MAX  level 2 system, you get the following driving automation features.
 
 The cargo capacity in the trunk is 570 liters. With the rear seat down, it is 1610 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2740 kg (6041 lbs), and with the base weight of 2180 kg (4806 lbs), you can max load 560 kg (1235 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).<div class="mt-3 mb-3">
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
+
+
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/trunk_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="2002"  >}}
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> SKODA Enyaq iV </strong>
 </a>

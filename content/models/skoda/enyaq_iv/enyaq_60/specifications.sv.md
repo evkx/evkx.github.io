@@ -8,6 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
+{{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/main_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="1999" >}}
 EVKX.net vill ha de mest kompletta specifikationerna för SKODA ENYAQ 60. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av SKODA ENYAQ 60, gå till [chargeinfo](../chargecurve/) för SKODA ENYAQ 60 med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 

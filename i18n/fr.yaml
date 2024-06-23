@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Dernières critiques en ligne
 
+- id: frontpage-description-23251c3c
+  translation: SKODA ENYAQ COUPÉ 85 est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 545 km (339 miles). EVKX.net a tous les détails.
+
 - id: frontpage-description-e15ac190
   translation: SKODA ENYAQ 60 est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 401 km (249 miles). EVKX.net a tous les détails.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-3419a59c
   translation: Volkswagen ID.3 GTX est une berline entièrement électrique avec une autonomie de WLTP allant jusqu'à 600 km (373 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-8aed56ab
-  translation: Volkswagen ID.3 GTX est une berline entièrement électrique avec une autonomie de WLTP allant jusqu'à 553 km (344 miles). EVKX.net a tous les détails.
 
