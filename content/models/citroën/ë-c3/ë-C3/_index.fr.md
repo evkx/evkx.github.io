@@ -113,7 +113,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **You Trim**.
 - appui-tête intégré
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-- black/white [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
+- black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -122,7 +122,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Max Trim**.
 - appui-tête réglable en hauteur
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-- black/white [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
+- black/grey [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
 
 
@@ -134,23 +134,13 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Citroën ë-C3.
 
-Les fonctionnalités suivantes sont disponibles sur le siège ****.
+Les fonctionnalités suivantes sont disponibles sur le siège **You trim**.
 
 - appui-tête réglable en hauteur
 
-Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-- black/white [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
-
-
-
-Les fonctionnalités suivantes sont disponibles sur le siège ****.
+Les fonctionnalités suivantes sont disponibles sur le siège **You trim**.
 
 - appui-tête réglable en hauteur
-
-Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-- black/white [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
-
-
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}

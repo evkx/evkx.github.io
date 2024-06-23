@@ -83,7 +83,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
 			</td>
 			<td>
-				545 km
+				408 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				10,6 kWh/100km
+				14,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				15,7 kWh/100km
+				15,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
 			</td>
 			<td>
-				527 km
+				399 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				11,0 kWh/100km
+				14,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				16,1 kwh/100km
+				16,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>

@@ -113,7 +113,7 @@ The following functionalities are available on the **You Trim** seat.
 - integrated headrest
 
 You can choose from 1 different materials/colors for this seat type.
-- black/white [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+- black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -122,7 +122,7 @@ The following functionalities are available on the **Max Trim** seat.
 - height adjustable headrest
 
 You can choose from 1 different materials/colors for this seat type.
-- black/white [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+- black/grey [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 
 
@@ -134,23 +134,13 @@ You can choose from 1 different materials/colors for this seat type.
 
 You can choose two seat types for the second row in the Citroën ë-C3.
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **You trim** seat.
 
 - height adjustable headrest
 
-You can choose from 1 different materials/colors for this seat type.
-- black/white [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
-
-
-
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **You trim** seat.
 
 - height adjustable headrest
-
-You can choose from 1 different materials/colors for this seat type.
-- black/white [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
-
-
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}

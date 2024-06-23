@@ -829,6 +829,9 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 
 ### Sièges de la deuxième rangée
 
+
+#### You trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -939,6 +942,9 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 	</tbody>
 </table>
+
+#### You trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>

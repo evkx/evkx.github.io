@@ -829,6 +829,9 @@ This model is available with a seat configuration with five seats.
 
 ### Second row seats
 
+
+#### You trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -939,6 +942,9 @@ This model is available with a seat configuration with five seats.
 		</tr>
 	</tbody>
 </table>
+
+#### You trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>

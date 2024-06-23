@@ -83,7 +83,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-område for grunnleggende trim
 			</td>
 			<td>
-				545 km
+				408 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk
 			</td>
 			<td>
-				10,6 kWh/100km
+				14,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk med ladetap
 			</td>
 			<td>
-				15,7 kWh/100km
+				15,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-rekkevidde
 			</td>
 			<td>
-				527 km
+				399 km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				11,0 kWh/100km
+				14,5 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk med ladetap
 			</td>
 			<td>
-				16,1 kwh/100km
+				16,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>

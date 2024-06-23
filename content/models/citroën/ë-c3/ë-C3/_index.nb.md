@@ -113,7 +113,7 @@ Følgende funksjoner er tilgjengelige på **You Trim** setet.
 - integrert hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-- black/white [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
+- black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -122,7 +122,7 @@ Følgende funksjoner er tilgjengelige på **Max Trim** setet.
 - høydejusterbar hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-- black/white [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
+- black/grey [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 
 
@@ -134,23 +134,13 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 Du kan velge to setetyper for den andre raden i Citroën ë-C3.
 
-Følgende funksjoner er tilgjengelige på **** setet.
+Følgende funksjoner er tilgjengelige på **You trim** setet.
 
 - høydejusterbar hodestøtte
 
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-- black/white [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
-
-
-
-Følgende funksjoner er tilgjengelige på **** setet.
+Følgende funksjoner er tilgjengelige på **You trim** setet.
 
 - høydejusterbar hodestøtte
-
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-- black/white [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
-
-
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}

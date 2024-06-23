@@ -829,6 +829,9 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 
 ### Sæder på anden række
 
+
+#### You trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -939,6 +942,9 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 	</tbody>
 </table>
+
+#### You trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>

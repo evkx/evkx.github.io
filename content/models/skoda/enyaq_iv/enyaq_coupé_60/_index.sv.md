@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ COUPÉ 60
 linktitle: "ENYAQ COUPÉ 60"
-description: "SKODA ENYAQ COUPÉ 60 är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 545 km. EVKX.net har alla detaljer."
+description: "SKODA ENYAQ COUPÉ 60 är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 408 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ SKODA ENYAQ COUPÉ 60 erbjuder blygsamma prestanda med en maximal effekt på 132
 
 Högkapacitetsbatteriet har en bruttokapacitet på 62 kWh och en nettoanvändbar kapacitet på 58 kWh, vilket ger en buffert på 4 kWh (6,5%) för batteriskydd. Med en nominell spänning på 394 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 545 och 527 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 10,6 kWh/100 km för basmodellen och 11,0 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 408 och 399 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,2 kWh/100 km för basmodellen och 14,5 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 135 kW. En full laddning från 0 - 100 % tar 63 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 0% till 43%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 77kW. Varje laddningssession tar 19 minuter och 28 sekunder.
 

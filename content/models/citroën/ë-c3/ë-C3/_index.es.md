@@ -113,7 +113,7 @@ Las siguientes funcionalidades están disponibles en el asiento **You Trim**.
 - reposacabezas integrado
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-- black/white [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
+- black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -122,7 +122,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Max Trim**.
 - reposacabezas ajustable en altura
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-- black/white [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
+- black/grey [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
 
 
@@ -134,23 +134,13 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 Puedes elegir dos tipos de asientos para la segunda fila en el Citroën ë-C3.
 
-Las siguientes funcionalidades están disponibles en el asiento ****.
+Las siguientes funcionalidades están disponibles en el asiento **You trim**.
 
 - reposacabezas ajustable en altura
 
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-- black/white [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
-
-
-
-Las siguientes funcionalidades están disponibles en el asiento ****.
+Las siguientes funcionalidades están disponibles en el asiento **You trim**.
 
 - reposacabezas ajustable en altura
-
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-- black/white [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
-
-
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}

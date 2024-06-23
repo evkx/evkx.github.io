@@ -829,6 +829,9 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ### Sätesrad 2
 
+
+#### You trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -939,6 +942,9 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 	</tbody>
 </table>
+
+#### You trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>

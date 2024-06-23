@@ -829,6 +829,9 @@ Este modelo está disponible con una configuración de cinco asientos.
 
 ### Asientos de la segunda fila
 
+
+#### You trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -939,6 +942,9 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 	</tbody>
 </table>
+
+#### You trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>

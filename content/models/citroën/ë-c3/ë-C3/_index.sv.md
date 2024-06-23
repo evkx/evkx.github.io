@@ -113,7 +113,7 @@ Följande funktioner är tillgängliga på **You Trim** sätet.
 - integrerat nackstöd
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
-- black/white [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
+- black [tygklädsel](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -122,7 +122,7 @@ Följande funktioner är tillgängliga på **Max Trim** sätet.
 - höjdjusterbart nackstöd
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
-- black/white [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
+- black/grey [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
 
 
@@ -134,23 +134,13 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 Du kan välja två sätestyper för den andra raden i Citroën ë-C3.
 
-Följande funktioner är tillgängliga på **** sätet.
+Följande funktioner är tillgängliga på **You trim** sätet.
 
 - höjdjusterbart nackstöd
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
-- black/white [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
-
-
-
-Följande funktioner är tillgängliga på **** sätet.
+Följande funktioner är tillgängliga på **You trim** sätet.
 
 - höjdjusterbart nackstöd
-
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
-- black/white [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
-
-
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}

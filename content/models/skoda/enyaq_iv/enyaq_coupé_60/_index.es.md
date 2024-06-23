@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ COUPÉ 60
 linktitle: "ENYAQ COUPÉ 60"
-description: "SKODA ENYAQ COUPÉ 60 es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 545 km (339 millas). EVKX.net tiene todos los detalles."
+description: "SKODA ENYAQ COUPÉ 60 es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 408 km (254 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ El SKODA ENYAQ COUPÉ 60 ofrece un rendimiento modesto con una potencia máxima 
 
 La batería de alta capacidad tiene una capacidad bruta de 62 kWh y una capacidad neta utilizable de 58 kWh, proporcionando un buffer de 4 kWh (6,5%) para la protección de la batería. Con un voltaje nominal de 394 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 545 y 527 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 10,6 kWh/100 km para el modelo base y 11,0 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 408 y 399 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 14,2 kWh/100 km para el modelo base y 14,5 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 135kW. Una carga completa del 0 al 100 % tardaría 63 minutos, mientras que un escenario más común del 10 al 80 % tardaría 34 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 43%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 77kW. Cada sesión de carga tardaría 19 minutos y 28 segundos.
 

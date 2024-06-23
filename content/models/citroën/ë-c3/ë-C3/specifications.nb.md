@@ -829,6 +829,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Seter på andre rad
 
+
+#### You trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>
@@ -939,6 +942,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 	</tbody>
 </table>
+
+#### You trim
+
 <table class="table table-striped border">
 	<thead>
 			<tr>

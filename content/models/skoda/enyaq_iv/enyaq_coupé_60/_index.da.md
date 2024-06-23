@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ COUPÉ 60
 linktitle: "ENYAQ COUPÉ 60"
-description: "SKODA ENYAQ COUPÉ 60 er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 545 km (339 miles). EVKX.net har alle detaljerne."
+description: "SKODA ENYAQ COUPÉ 60 er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 408 km (254 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ SKODA ENYAQ COUPÉ 60 tilbyder beskedne præstationer med en maksimal effekt på
 
 Det højkapacitetsbatteri har en bruttokapacitet på 62 kWh og en nettoanvendelig kapacitet på 58 kWh, hvilket giver en buffer på 4 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 394 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
-Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 545 og 527 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 10,6 kWh/100 km for basismodellen og 11,0 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 408 og 399 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 14,2 kWh/100 km for basismodellen og 14,5 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 135kW. En fuld opladning fra 0 - 100 % ville tage 63 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 34 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 43%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 77kW. Hver opladningssession ville tage 19 minutter og 28 sekunder.
 

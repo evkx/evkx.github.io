@@ -1,7 +1,7 @@
 ---
 title: SKODA ENYAQ COUPÉ 60
 linktitle: "ENYAQ COUPÉ 60"
-description: "SKODA ENYAQ COUPÉ 60 is an all-electric coupe SUV with a WLTP range of up to 545 km (339 miles). EVKX.net has all the details."
+description: "SKODA ENYAQ COUPÉ 60 is an all-electric coupe SUV with a WLTP range of up to 408 km (254 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ The SKODA ENYAQ COUPÉ 60 offers modest performance with a maximum power of 132 
 
 The high-capacity battery has a gross capacity of 62 kWh and a net usable capacity of 58 kWh, providing an 4 kWh buffer (6.5%) for battery protection. With a nominal voltage of 394 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 545 to 527 km (339-328 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 10.6 kWh/100 km for the base model and 11.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 408 to 399 km (254-248 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 14.2 kWh/100 km for the base model and 14.5 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 135 kW. Charging from 0% to 100% takes approximately 63 minutes, while a more typical charging scenario from 10% to 80% takes 34 minutes with an average charging speed at 71 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 43%. This results in an effective charging speed, including time lost, of 77 kW, with each charging session taking about 19 minutes and 28 seconds..
 
