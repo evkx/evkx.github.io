@@ -45,6 +45,10 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 54 minutter med en hjemmelader.
 
+
+{{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/charging_1_st.jpg" title="BYD Seal U Design" width="3000" height="1976"  >}}
+
+
 ### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
@@ -130,6 +134,10 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 - elektrisk justering
 - høydejusterbar hodestøtte
 
+
+{{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/secondrowseats_1_st.jpg" title="BYD Seal U Design" width="3000" height="2225"  >}}
+
+
 Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
@@ -157,6 +165,10 @@ Du har trådløs lading for telefonen din.
 BYD Seal U Design har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 10,3 tommer stor. touch-skjermen i dashbordets sentrum er 15,6 tommer stor.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
+
+{{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/screens_1_st.jpg" title="BYD Seal U Design" width="3000" height="1986"  >}}
+
+
 ## Infotainment
 
 Én type lydsystem er tilgjengelig for BYD Seal U Design. Med Dynaudio Performance Audio System får du 12 høyttalere med en maksimal systemeffekt på  watt.
@@ -167,6 +179,10 @@ Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 ## Lys
 
 Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
+
+
+{{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/headlights_1_st.jpg" title="BYD Seal U Design" width="3000" height="1900"  >}}
+
 ## Avanserte førerassistentsystemer
 
 BYD Seal U Design har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
@@ -209,7 +225,11 @@ Med Smart Pilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjo
 
 Lastkapasiteten i bagasjerommet er 520 liter. Med baksetet nede er det 1449 liter. Maksimumsvekten til bilen er 2501 kg, og med basisvekten på 1900 kg kan du maksimalt laste 601 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.<div class="mt-3 mb-3">
+Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+
+
+{{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/trunk_1_st.jpg" title="BYD Seal U Design" width="3000" height="1960"  >}}
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BYD Seal U </strong>
 </a>

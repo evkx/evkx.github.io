@@ -45,6 +45,10 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 54 minutes using a home charging setup.
 
+
+{{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/charging_1_st.jpg" title="BYD Seal U Design" width="3000" height="1976"  >}}
+
+
 ### Charge port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -130,6 +134,10 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 - electric adjustment
 - height adjustable headrest
 
+
+{{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/secondrowseats_1_st.jpg" title="BYD Seal U Design" width="3000" height="2225"  >}}
+
+
 There is only one type of steering wheel available.
 
 ## Climate system
@@ -157,6 +165,10 @@ You have wireless charging for your phone.
 The BYD Seal U Design has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 10.3 inches large. The touch screen on the dashboard's center is 15.6 inches large.
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
+
+{{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/screens_1_st.jpg" title="BYD Seal U Design" width="3000" height="1986"  >}}
+
+
 ## Infotainment
 
 One type of sound system is available for the BYD Seal U Design. With the Dynaudio Performance Audio System, you get 12 speakers with a max system output of  watts.
@@ -167,6 +179,10 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+
+
+{{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/headlights_1_st.jpg" title="BYD Seal U Design" width="3000" height="1900"  >}}
+
 ## Advanced driver assistance systems
 
 The BYD Seal U Design has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
@@ -209,7 +225,11 @@ With the Smart Pilot  level 2 system, you get the following driving automation f
 
 The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1449 liters. The maxium weight of the car is 2501 kg (5514 lbs), and with the base weight of 1900 kg (4189 lbs), you can max load 601 kg (1325 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
+This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
+
+{{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/trunk_1_st.jpg" title="BYD Seal U Design" width="3000" height="1960"  >}}
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BYD Seal U </strong>
 </a>

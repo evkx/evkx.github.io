@@ -45,6 +45,10 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 7 heures et 54 minutes à domicile.
 
+
+{{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/charging_1_st.jpg" title="BYD Seal U Design" width="3000" height="1976"  >}}
+
+
 ### Port de recharge
 
 L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
@@ -130,6 +134,10 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 - réglage électrique
 - appui-tête réglable en hauteur
 
+
+{{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/secondrowseats_1_st.jpg" title="BYD Seal U Design" width="3000" height="2225"  >}}
+
+
 Il n'y a qu'un seul type de volant disponible.
 
 ## Système climatique
@@ -157,6 +165,10 @@ Vous disposez d'une recharge sans fil pour votre téléphone.
 Le BYD Seal U Design possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  derrière le volant monté dans le tableau de bord mesure 10,3 pouces. L'écran touch au centre du tableau de bord mesure 15,6 pouces.
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
+
+{{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/screens_1_st.jpg" title="BYD Seal U Design" width="3000" height="1986"  >}}
+
+
 ## Infodivertissement
 
 Un type de système audio est disponible pour le BYD Seal U Design. Avec le Dynaudio Performance Audio System, vous obtenez 12 haut-parleurs avec une puissance système maximale de  watts.
@@ -167,6 +179,10 @@ Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 co
 ## Lumières
 
 Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
+
+
+{{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/headlights_1_st.jpg" title="BYD Seal U Design" width="3000" height="1900"  >}}
+
 ## Systèmes avancés d'aide à la conduite
 
 Le BYD Seal U Design dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
@@ -209,7 +225,11 @@ Avec le système Smart Pilot  niveau 2, vous bénéficiez des fonctionnalités d
 
 La capacité de chargement dans le coffre est de 520 litres. Avec la banquette arrière rabattue, elle est de 1449 litres. Le poids maximum de la voiture est de 2501 kg (5514 lbs), et avec le poids de base de 1900 kg (4189 lbs), vous pouvez charger au maximum 601 kg (1325 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
-Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.<div class="mt-3 mb-3">
+Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+
+
+{{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/trunk_1_st.jpg" title="BYD Seal U Design" width="3000" height="1960"  >}}
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> BYD Seal U </strong>
 </a>
