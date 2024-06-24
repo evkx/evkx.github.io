@@ -489,7 +489,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 ### Forseter
 
 
-#### You Trim
+#### Start
 
 <table class="table table-striped border">
 	<thead>
@@ -658,7 +658,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	</tbody>
 </table>
 
-#### Max Trim
+#### Advanced Comfort
 
 <table class="table table-striped border">
 	<thead>
@@ -830,7 +830,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 ### Seter på andre rad
 
 
-#### You trim
+#### Standard
 
 <table class="table table-striped border">
 	<thead>
@@ -943,7 +943,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 	</tbody>
 </table>
 
-#### You trim
+#### Advanced Comfort
 
 <table class="table table-striped border">
 	<thead>

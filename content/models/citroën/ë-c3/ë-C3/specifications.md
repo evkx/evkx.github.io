@@ -489,7 +489,7 @@ This model is available with a seat configuration with five seats.
 ### Front seats
 
 
-#### You Trim
+#### Start
 
 <table class="table table-striped border">
 	<thead>
@@ -658,7 +658,7 @@ This model is available with a seat configuration with five seats.
 	</tbody>
 </table>
 
-#### Max Trim
+#### Advanced Comfort
 
 <table class="table table-striped border">
 	<thead>
@@ -830,7 +830,7 @@ This model is available with a seat configuration with five seats.
 ### Second row seats
 
 
-#### You trim
+#### Standard
 
 <table class="table table-striped border">
 	<thead>
@@ -943,7 +943,7 @@ This model is available with a seat configuration with five seats.
 	</tbody>
 </table>
 
-#### You trim
+#### Advanced Comfort
 
 <table class="table table-striped border">
 	<thead>

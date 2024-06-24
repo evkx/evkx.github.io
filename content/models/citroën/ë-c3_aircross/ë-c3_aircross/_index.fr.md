@@ -108,7 +108,7 @@ La disposition des sièges est la traditionnelle cinq sièges avec deux à l'ava
 
 Vous pouvez choisir parmi deux types de sièges pour la première rangée du Citroën ë-C3 Aircross.
 
-Les fonctionnalités suivantes sont disponibles sur le siège **You Trim**.
+Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 
 - appui-tête intégré
 
@@ -117,7 +117,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 
 
-Les fonctionnalités suivantes sont disponibles sur le siège **Max Trim**.
+Les fonctionnalités suivantes sont disponibles sur le siège **Advanced Comfort**.
 
 - appui-tête réglable en hauteur
 
@@ -134,13 +134,23 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Citroën ë-C3 Aircross.
 
-Les fonctionnalités suivantes sont disponibles sur le siège **You trim**.
+Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 
 - appui-tête réglable en hauteur
 
-Les fonctionnalités suivantes sont disponibles sur le siège **You trim**.
+Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+- black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+
+
+
+Les fonctionnalités suivantes sont disponibles sur le siège **Advanced Comfort**.
 
 - appui-tête réglable en hauteur
+
+Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+- black/grey [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
+
+
 
 Il n'y a qu'un seul type de volant disponible.
 

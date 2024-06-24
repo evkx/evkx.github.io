@@ -108,16 +108,11 @@ The seat layout is the traditional five seats with two in front and three in the
 
 There are two seat types you can choose from for the front row in the Citroën ë-C3.
 
-The following functionalities are available on the **You Trim** seat.
+The following functionalities are available on the **Start** seat.
 
 - integrated headrest
 
-You can choose from 1 different materials/colors for this seat type.
-- black [fabric upholstering](../../../../technology/seats/materials/#fabric)
-
-
-
-The following functionalities are available on the **Max Trim** seat.
+The following functionalities are available on the **Advanced Comfort** seat.
 
 - height adjustable headrest
 
@@ -134,13 +129,23 @@ You can choose from 1 different materials/colors for this seat type.
 
 You can choose two seat types for the second row in the Citroën ë-C3.
 
-The following functionalities are available on the **You trim** seat.
+The following functionalities are available on the **Standard** seat.
 
 - height adjustable headrest
 
-The following functionalities are available on the **You trim** seat.
+You can choose from 1 different materials/colors for this seat type.
+- black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+
+
+
+The following functionalities are available on the **Advanced Comfort** seat.
 
 - height adjustable headrest
+
+You can choose from 1 different materials/colors for this seat type.
+- black/grey [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+
+
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}

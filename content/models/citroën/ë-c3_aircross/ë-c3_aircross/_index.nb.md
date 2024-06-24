@@ -108,7 +108,7 @@ Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 Det er to setetyper du kan velge mellom for første rad i Citroën ë-C3 Aircross.
 
-Følgende funksjoner er tilgjengelige på **You Trim** setet.
+Følgende funksjoner er tilgjengelige på **Standard** setet.
 
 - integrert hodestøtte
 
@@ -117,7 +117,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 
-Følgende funksjoner er tilgjengelige på **Max Trim** setet.
+Følgende funksjoner er tilgjengelige på **Advanced Comfort** setet.
 
 - høydejusterbar hodestøtte
 
@@ -134,13 +134,23 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 Du kan velge to setetyper for den andre raden i Citroën ë-C3 Aircross.
 
-Følgende funksjoner er tilgjengelige på **You trim** setet.
+Følgende funksjoner er tilgjengelige på **Standard** setet.
 
 - høydejusterbar hodestøtte
 
-Følgende funksjoner er tilgjengelige på **You trim** setet.
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+- black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+
+
+
+Følgende funksjoner er tilgjengelige på **Advanced Comfort** setet.
 
 - høydejusterbar hodestøtte
+
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+- black/grey [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
+
+
 
 Det er bare én type ratt tilgjengelig.
 

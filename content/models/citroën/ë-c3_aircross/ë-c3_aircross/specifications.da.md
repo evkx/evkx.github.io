@@ -489,7 +489,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 ### Forsæder
 
 
-#### You Trim
+#### Standard
 
 <table class="table table-striped border">
 	<thead>
@@ -658,7 +658,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 	</tbody>
 </table>
 
-#### Max Trim
+#### Advanced Comfort
 
 <table class="table table-striped border">
 	<thead>
@@ -830,7 +830,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 ### Sæder på anden række
 
 
-#### You trim
+#### Standard
 
 <table class="table table-striped border">
 	<thead>
@@ -943,7 +943,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 	</tbody>
 </table>
 
-#### You trim
+#### Advanced Comfort
 
 <table class="table table-striped border">
 	<thead>

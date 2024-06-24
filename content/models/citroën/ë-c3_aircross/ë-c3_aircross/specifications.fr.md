@@ -489,7 +489,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 ### Sièges avant
 
 
-#### You Trim
+#### Standard
 
 <table class="table table-striped border">
 	<thead>
@@ -658,7 +658,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 	</tbody>
 </table>
 
-#### Max Trim
+#### Advanced Comfort
 
 <table class="table table-striped border">
 	<thead>
@@ -830,7 +830,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 ### Sièges de la deuxième rangée
 
 
-#### You trim
+#### Standard
 
 <table class="table table-striped border">
 	<thead>
@@ -943,7 +943,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 	</tbody>
 </table>
 
-#### You trim
+#### Advanced Comfort
 
 <table class="table table-striped border">
 	<thead>

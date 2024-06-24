@@ -108,16 +108,11 @@ Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
 Der er to sædetyper, du kan vælge imellem til forreste række i Citroën ë-C3.
 
-Følgende funktioner er tilgængelige på **You Trim** sædet.
+Følgende funktioner er tilgængelige på **Start** sædet.
 
 - integreret nakkestøtte
 
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-- black [stofpolstring](../../../../technology/seats/materials/#fabric)
-
-
-
-Følgende funktioner er tilgængelige på **Max Trim** sædet.
+Følgende funktioner er tilgængelige på **Advanced Comfort** sædet.
 
 - højdejusterbar nakkestøtte
 
@@ -134,13 +129,23 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 Du kan vælge to sædetyper til anden række i Citroën ë-C3.
 
-Følgende funktioner er tilgængelige på **You trim** sædet.
+Følgende funktioner er tilgængelige på **Standard** sædet.
 
 - højdejusterbar nakkestøtte
 
-Følgende funktioner er tilgængelige på **You trim** sædet.
+Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+- black [stofpolstring](../../../../technology/seats/materials/#fabric)
+
+
+
+Følgende funktioner er tilgængelige på **Advanced Comfort** sædet.
 
 - højdejusterbar nakkestøtte
+
+Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+- black/grey [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
+
+
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}

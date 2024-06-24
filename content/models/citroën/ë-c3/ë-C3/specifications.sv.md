@@ -489,7 +489,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 ### Framsäten
 
 
-#### You Trim
+#### Start
 
 <table class="table table-striped border">
 	<thead>
@@ -658,7 +658,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 	</tbody>
 </table>
 
-#### Max Trim
+#### Advanced Comfort
 
 <table class="table table-striped border">
 	<thead>
@@ -830,7 +830,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 ### Sätesrad 2
 
 
-#### You trim
+#### Standard
 
 <table class="table table-striped border">
 	<thead>
@@ -943,7 +943,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 	</tbody>
 </table>
 
-#### You trim
+#### Advanced Comfort
 
 <table class="table table-striped border">
 	<thead>

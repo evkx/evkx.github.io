@@ -108,16 +108,11 @@ Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
 Det finns två sätestyper du kan välja mellan för den främre raden av Citroën ë-C3.
 
-Följande funktioner är tillgängliga på **You Trim** sätet.
+Följande funktioner är tillgängliga på **Start** sätet.
 
 - integrerat nackstöd
 
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
-- black [tygklädsel](../../../../technology/seats/materials/#fabric)
-
-
-
-Följande funktioner är tillgängliga på **Max Trim** sätet.
+Följande funktioner är tillgängliga på **Advanced Comfort** sätet.
 
 - höjdjusterbart nackstöd
 
@@ -134,13 +129,23 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 Du kan välja två sätestyper för den andra raden i Citroën ë-C3.
 
-Följande funktioner är tillgängliga på **You trim** sätet.
+Följande funktioner är tillgängliga på **Standard** sätet.
 
 - höjdjusterbart nackstöd
 
-Följande funktioner är tillgängliga på **You trim** sätet.
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+- black [tygklädsel](../../../../technology/seats/materials/#fabric)
+
+
+
+Följande funktioner är tillgängliga på **Advanced Comfort** sätet.
 
 - höjdjusterbart nackstöd
+
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+- black/grey [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
+
+
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}

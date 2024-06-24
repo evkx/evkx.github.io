@@ -108,16 +108,11 @@ La disposición de los asientos es la tradicional de cinco asientos, dos delante
 
 Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Citroën ë-C3.
 
-Las siguientes funcionalidades están disponibles en el asiento **You Trim**.
+Las siguientes funcionalidades están disponibles en el asiento **Start**.
 
 - reposacabezas integrado
 
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-- black [tapizado de tela](../../../../technology/seats/materials/#fabric)
-
-
-
-Las siguientes funcionalidades están disponibles en el asiento **Max Trim**.
+Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfort**.
 
 - reposacabezas ajustable en altura
 
@@ -134,13 +129,23 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 Puedes elegir dos tipos de asientos para la segunda fila en el Citroën ë-C3.
 
-Las siguientes funcionalidades están disponibles en el asiento **You trim**.
+Las siguientes funcionalidades están disponibles en el asiento **Standard**.
 
 - reposacabezas ajustable en altura
 
-Las siguientes funcionalidades están disponibles en el asiento **You trim**.
+Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+- black [tapizado de tela](../../../../technology/seats/materials/#fabric)
+
+
+
+Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfort**.
 
 - reposacabezas ajustable en altura
+
+Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+- black/grey [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
+
+
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}
