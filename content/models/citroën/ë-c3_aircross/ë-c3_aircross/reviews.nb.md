@@ -12,7 +12,7 @@ Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evr
 <h3>FIRST LOOK: New Citroen e-C3 Aircross. Is this £25k family SUV a winner?</h3>
 <p>Electrifying: 20.06.2024</p>
 
-{{< youtube L8T7sXUamExT4Zy_o7Ai8 >}}
+{{< youtube UamExT4Zy_o >}}
 
 </div>
 <div class="mt-3 mb-3">

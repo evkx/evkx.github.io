@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Seal charging test vs Tesla, Polestar and MG</h3>
+<p>Bjørn Nyland: 24.06.2024</p>
+
+{{< youtube xiqpusF0LGw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>BYD Seal Performance banana box test</h3>
 <p>Bjørn Nyland: 22.06.2024</p>
 
