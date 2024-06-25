@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>LONG TERM REVIEW: BYD Dolphin. Do we still love it after three months? </h3>
+<p>Electrifying: 25.06.2024</p>
+
+{{< youtube kz3ghoBDlfM >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>BYD Dolphin interior review</h3>
 <p>Bjørn Nyland: 08.06.2024</p>
 

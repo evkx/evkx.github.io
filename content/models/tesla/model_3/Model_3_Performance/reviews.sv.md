@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The NEW Tesla Model 3 Performance Is Finally The Car It Should Have Been</h3>
+<p>Fully Charged Show: 25.06.2024</p>
+
+{{< youtube hvSi3mR5mSw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Tesla Model 3 Performance Highland test of handling, acceleration, noise and range</h3>
+<p>Bjørn Nyland: 25.06.2024</p>
+
+{{< youtube vcJB4J2gAR8 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Tesla Model 3 Performance driving REVIEW with German Autobahn</h3>
 <p>Autogefühl: 14.06.2024</p>
 
