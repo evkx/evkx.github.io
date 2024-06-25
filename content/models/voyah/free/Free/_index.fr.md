@@ -73,7 +73,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ## Extérieur
 
-Vous pouvez choisir entre 6 couleurs de peinture différentes lors de la commande de ce modèle.
+La VOYAH FREE, avec des dimensions de 4905 mm de longueur, 1950 mm de largeur et 1645 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Vous pouvez choisir entre 6 couleurs de peinture différentes lors de la commande de ce modèle.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

@@ -77,7 +77,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-Du kan velge mellom 8 forskjellige lakkfarger når du bestiller denne modellen.
+Ford Mustang Mach-E Long Range AWD, med dimensjoner på 4713 mm i lengde, 1881 mm i bredde og 1624 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Du kan velge mellom 8 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 18 til 19 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).

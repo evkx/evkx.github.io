@@ -79,7 +79,7 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 ## Eksteriør
 
-Du kan velge mellom 9 forskjellige lakkfarger når du bestiller denne modellen.
+Rivian R1S Performance Dual-Motor AWD LP, med dimensjoner på 5100 mm i lengde,  mm i bredde og 1966 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Du kan velge mellom 9 forskjellige lakkfarger når du bestiller denne modellen.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [delt bakluke](../../../../technology/doors/#split-bakluke) der den nederste delen faller og den øvre delen løftes.
 

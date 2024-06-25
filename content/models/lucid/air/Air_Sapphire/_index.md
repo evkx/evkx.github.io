@@ -77,7 +77,7 @@ The rear and front brakes are [ceramic discs](../../../../technology/brakes/#cer
 
 ## Exterior
 
-You can choose between 1 different paint colors when ordering this model.
+The Lucid Air Sapphire, with dimensions of 4975 mm in length, 1939 mm in width, and 1410 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. You can choose between 1 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. Soft close is a standard function for the side doors.
 

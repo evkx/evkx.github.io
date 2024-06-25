@@ -75,7 +75,7 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 ## Exteriör
 
-Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
+Peugot E-3008, med dimensioner på 4542 mm i längd, 1895 mm i bredd och 1641 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 2 hjul i storlek från 19 till 20 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).

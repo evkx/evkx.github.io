@@ -77,7 +77,7 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 ## Eksteriør
 
-Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
+MG MG4 Electric Standard, med dimensjoner på 4287 mm i lengde, 1836 mm i bredde og 1504 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
 
 
 

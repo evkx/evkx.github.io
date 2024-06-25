@@ -73,7 +73,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Du kan vælge mellem 8 forskellige malingsfarver, når du bestiller denne model.
+Den Chevrolet Blazer EV RS AWD, med dimensioner på 5067 mm i længde, 1963 mm i bredde og 1725 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Du kan vælge mellem 8 forskellige malingsfarver, når du bestiller denne model.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

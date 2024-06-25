@@ -77,7 +77,7 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 ## Eksteriør
 
-Du kan velge mellom 9 forskjellige lakkfarger når du bestiller denne modellen.
+BMW iX xDrive50, med dimensjoner på 4953 mm i lengde, 1967 mm i bredde og 1696 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Du kan velge mellom 9 forskjellige lakkfarger når du bestiller denne modellen.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' er tilvalg-funksjon for sidedørene.
 

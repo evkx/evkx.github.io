@@ -71,7 +71,7 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 ## Eksteriør
 
-Du kan velge mellom 10 forskjellige lakkfarger når du bestiller denne modellen.
+Mini Cooper SE, med dimensjoner på 3900 mm i lengde, 1750 mm i bredde og 1450 mm i høyde, tilhører B-segmentet av biler, også kjent som supermini. Dette er en liten bil som typisk er egnet for bykjøring, og den tilbyr en god balanse mellom effektivitet, størrelse og kostnad. Du kan velge mellom 10 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 3 hjul med størrelser fra 16 til 18 tommer.
 
 

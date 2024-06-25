@@ -73,7 +73,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ## Exteriör
 
-Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
+VOYAH FREE, med dimensioner på 4905 mm i längd, 1950 mm i bredd och 1645 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

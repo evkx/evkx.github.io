@@ -73,7 +73,7 @@ La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cet
 
 ## Extérieur
 
-Vous pouvez choisir entre 1 couleurs de peinture différentes lors de la commande de ce modèle.
+La Toyota bZ4X AWD, avec des dimensions de 4690 mm de longueur, 1860 mm de largeur et 1550 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. Vous pouvez choisir entre 1 couleurs de peinture différentes lors de la commande de ce modèle.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 

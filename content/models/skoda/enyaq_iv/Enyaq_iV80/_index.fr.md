@@ -83,7 +83,7 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 ## Extérieur
 
-Vous pouvez choisir entre 9 couleurs de peinture différentes lors de la commande de ce modèle.
+La SKODA Enyaq iV80, avec des dimensions de 4649 mm de longueur, 1879 mm de largeur et 1616 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. Vous pouvez choisir entre 9 couleurs de peinture différentes lors de la commande de ce modèle.
 De plus, vous pouvez choisir entre 5 roues avec des tailles allant de 19 à 21 pouces.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).

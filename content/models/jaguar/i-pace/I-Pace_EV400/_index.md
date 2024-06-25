@@ -77,7 +77,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 9 different paint colors when ordering this model.
+The Jaguar I-Pace EV400, with dimensions of 4682 mm in length, 2011 mm in width, and 1566 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 9 different paint colors when ordering this model.
 Additionally, you can choose between 8 wheels with sizes from 18 to 22 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

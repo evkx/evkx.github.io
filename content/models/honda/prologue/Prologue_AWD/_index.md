@@ -80,7 +80,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-You can choose between 7 different paint colors when ordering this model.
+The Honda Prologue AWD, with dimensions of 4877 mm in length, 1989 mm in width, and 1634 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. You can choose between 7 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

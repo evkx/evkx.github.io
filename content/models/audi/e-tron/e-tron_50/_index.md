@@ -100,7 +100,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-You can choose between 61 different paint colors when ordering this model.
+The Audi e-tron 50, with dimensions of 4901 mm in length, 1935 mm in width, and 1629 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. You can choose between 61 different paint colors when ordering this model.
 
 You can also choose several styling options to make your car more unique.
  In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 

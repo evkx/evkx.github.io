@@ -79,7 +79,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
+El Smart #1, con dimensiones de 4270 mm de longitud, 1822 mm de anchura y 1636 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 

@@ -77,7 +77,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Du kan vælge mellem 9 forskellige malingsfarver, når du bestiller denne model.
+Den Xiaomi SU7, med dimensioner på 4997 mm i længde, 1963 mm i bredde og 1455 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Du kan vælge mellem 9 forskellige malingsfarver, når du bestiller denne model.
 Derudover kan du vælge mellem 4 hjul med størrelser fra 19 til 21 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet.

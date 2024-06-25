@@ -79,7 +79,7 @@ The maximum regenerative power is 200 kW.
 
 ## Exterior
 
-You can choose between 4 different paint colors when ordering this model.
+The BYD Dolphin 60.4kWh, with dimensions of 4290 mm in length, 1770 mm in width, and 1570 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 4 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

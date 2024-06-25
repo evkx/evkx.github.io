@@ -79,7 +79,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Du kan vælge mellem 7 forskellige malingsfarver, når du bestiller denne model.
+Den Lucid Gravity Dream Edition, med dimensioner på 5034 mm i længde, 1999 mm i bredde og 1656 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Du kan vælge mellem 7 forskellige malingsfarver, når du bestiller denne model.
 Derudover kan du vælge mellem 6 hjul med størrelser fra 20 til 23 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

@@ -77,7 +77,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ## Exteriör
 
-Du kan välja mellan 9 olika färgfärger när du beställer den här modellen.
+Nissan Ariya 87kWh e-4ORCE, med dimensioner på 4595 mm i längd, 1850 mm i bredd och 1660 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Du kan välja mellan 9 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 2 hjul i storlek från 19 till 20 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).

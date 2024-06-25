@@ -81,7 +81,7 @@ Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que
 
 ## Exterior
 
-Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
+El HiPhi X 6 Seater, con dimensiones de 5200 mm de longitud,  mm de anchura y 1618 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
 
 El auto tiene dos [puertas normales](../../../../technology/doors/) en el frente, una combinación única de puertas suicidas con un techo de ala de gaviota en el segunda fila y una [puerta levadiza](../../../../technology/doors/#liftgate) en la parte trasera. Las puertas eléctricas tienen un estándar función para las puertas laterales.
 

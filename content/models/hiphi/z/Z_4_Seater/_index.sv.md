@@ -81,7 +81,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ## Exteriör
 
-Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
+HiPhi Z 4 Seater, med dimensioner på 5036 mm i längd, 2018 mm i bredd och 1439 mm i höjd, tillhör F-segmentet av bilar, även kallat lyxbilar eller fullstora lyxbilar. De representerar toppen av bilens lyx, prestanda och teknologi. De är vanligtvis stora sedaner eller limousiner designade för att erbjuda det bästa inom komfort, prestige och avancerade funktioner. Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
 
 Bilen har två [vanliga dörrar](../../../../technology/doors/) framför, [självmordsdörrar](../../../../technology/doors/) på andra raden, och ett [bootlock](../../../../technology/doors/#bootlid) på baksidan. Elektriska dörrar är standard funktion för sidodörrarna.
 

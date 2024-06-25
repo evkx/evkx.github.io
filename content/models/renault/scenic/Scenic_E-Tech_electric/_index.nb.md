@@ -77,7 +77,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
+Renault Scenic E-Tech electric, med dimensjoner på 4470 mm i lengde, 1864 mm i bredde og 1571 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 19 til 20 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

@@ -77,7 +77,7 @@ Les freins arrière et avant sont des [disques en céramique](../../../../techno
 
 ## Extérieur
 
-Vous pouvez choisir entre 1 couleurs de peinture différentes lors de la commande de ce modèle.
+La Lucid Air Sapphire, avec des dimensions de 4975 mm de longueur, 1939 mm de largeur et 1410 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. Vous pouvez choisir entre 1 couleurs de peinture différentes lors de la commande de ce modèle.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre. La fermeture douce est la fonction un standard pour les portes latérales.
 

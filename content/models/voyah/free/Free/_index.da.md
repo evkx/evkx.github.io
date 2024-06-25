@@ -73,7 +73,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
+Den VOYAH FREE, med dimensioner på 4905 mm i længde, 1950 mm i bredde og 1645 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

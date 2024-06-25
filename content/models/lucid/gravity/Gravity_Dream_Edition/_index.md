@@ -79,7 +79,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 7 different paint colors when ordering this model.
+The Lucid Gravity Dream Edition, with dimensions of 5034 mm in length, 1999 mm in width, and 1656 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs You can choose between 7 different paint colors when ordering this model.
 Additionally, you can choose between 6 wheels with sizes from 20 to 23 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

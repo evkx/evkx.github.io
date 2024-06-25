@@ -75,7 +75,7 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 ## Exteriör
 
-Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
+Dacia Spring 65HP, med dimensioner på 3701 mm i längd, 1622 mm i bredd och 1519 mm i höjd, tillhör B-segmentet av bilar, även kallat supermini. Det är en liten bil som vanligtvis passar bra för stadskörning och erbjuder en bra balans mellan effektivitet, storlek och kostnad. Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 2 hjul i storlek från 14 till 15 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).

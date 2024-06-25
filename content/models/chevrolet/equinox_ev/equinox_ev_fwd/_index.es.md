@@ -73,7 +73,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-Puedes elegir entre 8 colores de pintura diferentes al pedir este modelo.
+El Chevrolet Equinox EV FWD, con dimensiones de 4867 mm de longitud, 1953 mm de anchura y 1646 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. Puedes elegir entre 8 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 3 ruedas con tamaños de 19 a 21 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).

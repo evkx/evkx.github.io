@@ -77,7 +77,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-You can choose between 12 different paint colors when ordering this model.
+The BMW i7 eDrive50, with dimensions of 5391 mm in length, 1950 mm in width, and 1544 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. You can choose between 12 different paint colors when ordering this model.
 Additionally, you can choose between 8 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. Soft close is an optional function for the side doors.

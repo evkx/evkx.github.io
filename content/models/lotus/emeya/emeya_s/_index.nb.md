@@ -79,7 +79,7 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 ## Eksteriør
 
-Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
+Lotus Emeya S, med dimensjoner på 5139 mm i lengde, 2005 mm i bredde og 1464 mm i høyde, tilhører F-segmentet av biler, også kjent som luksus- eller fullstørrelse luksusbiler. De representerer det ypperste innen bil-luksus, ytelse og teknologi. De er typisk store sedaner eller limousiner designet for å tilby det beste innen komfort, prestisje og avanserte funksjoner. Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 12 hjul med størrelser fra 20 til 22 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).

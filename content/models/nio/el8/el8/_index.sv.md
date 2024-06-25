@@ -94,7 +94,7 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 ## Exteriör
 
-Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
+Nio EL8, med dimensioner på 5099 mm i längd, 1989 mm i bredd och 1750 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 3 hjul i storlek från 20 till 21 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).

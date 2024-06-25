@@ -82,7 +82,7 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 ## Udvendig
 
-Du kan vælge mellem 7 forskellige malingsfarver, når du bestiller denne model.
+Den Nio ET9, med dimensioner på 5325 mm i længde, 2016 mm i bredde og 1620 mm i højde, tilhører F-segmentet af biler, også kendt som luksus- eller fuldstørrelses luksusbiler. De repræsenterer toppen af ​​automobil luksus, ydeevne og teknologi. De er typisk store sedans eller limousiner og er designet til at tilbyde det ypperste inden for komfort, prestige og avancerede funktioner. Du kan vælge mellem 7 forskellige malingsfarver, når du bestiller denne model.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Soft close er en standard-funktion for sidedørene.
 

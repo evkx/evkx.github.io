@@ -73,7 +73,7 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 
 ## Exterior
 
-Puedes elegir entre 1 colores de pintura diferentes al pedir este modelo.
+El XPENG G3i, con dimensiones de 4495 mm de longitud, 1820 mm de anchura y 1610 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. Puedes elegir entre 1 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 17 a 18 pulgadas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero.

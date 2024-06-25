@@ -81,7 +81,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-You can choose between 8 different paint colors when ordering this model.
+The Audi Q4 Sportback 55 e-tron quattro, with dimensions of 4588 mm in length, 1865 mm in width, and 1614 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 8 different paint colors when ordering this model.
 
 You can also choose several styling options to make your car more unique.
  In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 

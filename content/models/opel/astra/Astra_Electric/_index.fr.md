@@ -77,7 +77,7 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 ## Extérieur
 
-Vous pouvez choisir entre 7 couleurs de peinture différentes lors de la commande de ce modèle.
+La Opel Astra Electric, avec des dimensions de 4374 mm de longueur, 1860 mm de largeur et 1470 mm de hauteur, appartient au segment C des voitures, également connu sous le nom de voitures compactes. Ces voitures atteignent un équilibre entre taille, performance et abordabilité, les rendant polyvalentes pour une variété de conducteurs. Vous pouvez choisir entre 7 couleurs de peinture différentes lors de la commande de ce modèle.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

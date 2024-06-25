@@ -73,7 +73,7 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 ## Exteriör
 
-Du kan välja mellan 1 olika färgfärger när du beställer den här modellen.
+Honda e:Ny1, med dimensioner på 4390 mm i längd, 1790 mm i bredd och  mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Du kan välja mellan 1 olika färgfärger när du beställer den här modellen.
 
 
 

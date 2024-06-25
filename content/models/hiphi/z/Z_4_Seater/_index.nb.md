@@ -81,7 +81,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
+HiPhi Z 4 Seater, med dimensjoner på 5036 mm i lengde, 2018 mm i bredde og 1439 mm i høyde, tilhører F-segmentet av biler, også kjent som luksus- eller fullstørrelse luksusbiler. De representerer det ypperste innen bil-luksus, ytelse og teknologi. De er typisk store sedaner eller limousiner designet for å tilby det beste innen komfort, prestisje og avanserte funksjoner. Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
 
 Bilen har to [vanlige dører](../../../../technology/doors/) foran, [selvmordsdører](../../../../technology/doors/) på andre rad, og et [bagasjelokk](../../../../technology/doors/#bootlid) bak. Elektriske dører er standard funksjon for sidedørene.
 

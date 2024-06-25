@@ -77,7 +77,7 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 ## Exteriör
 
-Du kan välja mellan 1 olika färgfärger när du beställer den här modellen.
+Lexus RZ 450e, med dimensioner på 4805 mm i längd, 1860 mm i bredd och 1635 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. Du kan välja mellan 1 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 2 hjul i storlek från 18 till 20 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).

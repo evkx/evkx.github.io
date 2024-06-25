@@ -89,7 +89,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-You can choose between 8 different paint colors when ordering this model.
+The Maserati Grecale Folgore, with dimensions of 4865 mm in length, 1948 mm in width, and 1651 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. You can choose between 8 different paint colors when ordering this model.
 Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

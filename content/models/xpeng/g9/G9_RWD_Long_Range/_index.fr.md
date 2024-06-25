@@ -77,7 +77,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ## Extérieur
 
-Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
+La XPENG G9 RWD Long Range, avec des dimensions de 4891 mm de longueur, 1937 mm de largeur et 1670 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 

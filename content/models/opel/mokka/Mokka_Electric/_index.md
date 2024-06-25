@@ -77,7 +77,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ## Exterior
 
-You can choose between 5 different paint colors when ordering this model.
+The Opel Mokka Electric, with dimensions of 4151 mm in length, 1790 mm in width, and 1552 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 5 different paint colors when ordering this model.
 Additionally, you can choose between 5 wheels with sizes from 17 to 18 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

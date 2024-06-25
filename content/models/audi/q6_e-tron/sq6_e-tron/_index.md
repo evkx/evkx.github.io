@@ -102,7 +102,7 @@ The maximum regenerative power is 220 kW.
 
 ## Exterior
 
-You can choose between 56 different paint colors when ordering this model.
+The Audi SQ6 e-tron, with dimensions of 4771 mm in length, 1939 mm in width, and 1685 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 56 different paint colors when ordering this model.
 
 You can also choose several styling options to make your car more unique.
 Additionally, you can choose between 9 wheels with sizes from 19 to 21 inches.

@@ -79,7 +79,7 @@ The maximum regenerative power is 200 kW.
 
 ## Exterior
 
-You can choose between 6 different paint colors when ordering this model.
+The BYD Seal RWD, with dimensions of 4800 mm in length, 1875 mm in width, and 1460 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. You can choose between 6 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 

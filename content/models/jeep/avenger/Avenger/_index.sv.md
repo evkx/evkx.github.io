@@ -73,7 +73,7 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 ## Exteriör
 
-Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
+Jeep Avenger, med dimensioner på 4084 mm i längd, 1776 mm i bredd och 1528 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 5 hjul i storlek från 17 till 18 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).

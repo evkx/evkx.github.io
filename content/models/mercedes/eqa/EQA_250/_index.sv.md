@@ -77,7 +77,7 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 ## Exteriör
 
-Du kan välja mellan 10 olika färgfärger när du beställer den här modellen.
+Mercedes-EQ EQA 250, med dimensioner på 4463 mm i längd, 1834 mm i bredd och 1624 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Du kan välja mellan 10 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 6 hjul i storlek från 18 till 19 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).

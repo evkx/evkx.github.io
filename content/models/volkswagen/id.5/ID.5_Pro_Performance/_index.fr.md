@@ -89,7 +89,7 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 ## Extérieur
 
-Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
+La Volkswagen ID.5 Pro Performance, avec des dimensions de 4599 mm de longueur, 1852 mm de largeur et 1615 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
 De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 19 à 21 pouces.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).

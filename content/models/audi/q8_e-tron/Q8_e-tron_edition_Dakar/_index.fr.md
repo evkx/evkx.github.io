@@ -98,7 +98,7 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 ## Extérieur
 
-Vous pouvez choisir entre 3 couleurs de peinture différentes lors de la commande de ce modèle.
+La Audi Q8 e-tron edition Dakar, avec des dimensions de 4901 mm de longueur, 1935 mm de largeur et 1629 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Vous pouvez choisir entre 3 couleurs de peinture différentes lors de la commande de ce modèle.
 
 Vous pouvez également choisir plusieurs options de style pour rendre votre voiture plus unique.
 De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 18 à 19 pouces.

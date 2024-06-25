@@ -79,7 +79,7 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 ## Exteriör
 
-Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
+Tesla Model S Standard Range, med dimensioner på 5021 mm i längd, 1987 mm i bredd och 1431 mm i höjd, tillhör F-segmentet av bilar, även kallat lyxbilar eller fullstora lyxbilar. De representerar toppen av bilens lyx, prestanda och teknologi. De är vanligtvis stora sedaner eller limousiner designade för att erbjuda det bästa inom komfort, prestige och avancerade funktioner. Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 2 hjul i storlek från 19 till 21 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).

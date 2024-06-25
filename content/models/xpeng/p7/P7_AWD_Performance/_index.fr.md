@@ -73,7 +73,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ## Extérieur
 
-Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
+La XPENG P7 AWD Performance, avec des dimensions de 4888 mm de longueur, 1896 mm de largeur et 1450 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 

@@ -79,7 +79,7 @@ Den maksimale regenerative effekt er 134 kW.
 
 ## Udvendig
 
-Du kan vælge mellem 12 forskellige malingsfarver, når du bestiller denne model.
+Den BMW iX2 xDrive30, med dimensioner på 4554 mm i længde, 1845 mm i bredde og 1560 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 12 forskellige malingsfarver, når du bestiller denne model.
 Derudover kan du vælge mellem 3 hjul med størrelser fra 17 til 19 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

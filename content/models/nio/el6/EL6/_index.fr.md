@@ -94,7 +94,7 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 ## Extérieur
 
-Vous pouvez choisir entre 7 couleurs de peinture différentes lors de la commande de ce modèle.
+La Nio EL6, avec des dimensions de 4854 mm de longueur, 1995 mm de largeur et 1703 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Vous pouvez choisir entre 7 couleurs de peinture différentes lors de la commande de ce modèle.
 De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 20 à 21 pouces.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). La fermeture douce est la fonction un standard pour les portes latérales.

@@ -79,7 +79,7 @@ The maximum regenerative power is 275 kW.
 
 ## Exterior
 
-You can choose between 13 different paint colors when ordering this model.
+The Porsche Macan Turbo, with dimensions of 4784 mm in length, 1938 mm in width, and 1622 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 13 different paint colors when ordering this model.
 
 You can also choose several styling options to make your car more unique.
 The optional SportDesign package contains a specially designed upper part front apron, specially designed side skirts in Black with inlays painted in exterior color specially designed rear diffusor in Black with side fins painted in exterior color, front licence plate carrier painted in exterior color. 

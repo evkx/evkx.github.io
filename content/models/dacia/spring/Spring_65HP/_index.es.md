@@ -75,7 +75,7 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 ## Exterior
 
-Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
+El Dacia Spring 65HP, con dimensiones de 3701 mm de longitud, 1622 mm de anchura y 1519 mm de altura, pertenece al segmento B de automóviles, también conocido como supermini. Es un coche pequeño típicamente adecuado para la conducción urbana, ofreciendo un buen equilibrio entre eficiencia, tamaño y costo. Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 14 a 15 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).

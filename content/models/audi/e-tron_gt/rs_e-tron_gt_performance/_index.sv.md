@@ -93,7 +93,7 @@ Den maximala regenerativa effekten är 265 kW.
 
 ## Exteriör
 
-Du kan välja mellan 54 olika färgfärger när du beställer den här modellen.
+Audi RS e-tron GT performance, med dimensioner på 4989 mm i längd, 1964 mm i bredd och 1396 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Du kan välja mellan 54 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 7 hjul i storlek från 19 till 21 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).

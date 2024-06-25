@@ -79,7 +79,7 @@ The maximum regenerative power is 200 kW.
 
 ## Exterior
 
-You can choose between 5 different paint colors when ordering this model.
+The BYD Tang EV600, with dimensions of 4870 mm in length, 1950 mm in width, and 1725 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. You can choose between 5 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

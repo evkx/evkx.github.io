@@ -77,7 +77,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 4 different paint colors when ordering this model.
+The Lucid Air Dream Edition Performance, with dimensions of 4975 mm in length, 1939 mm in width, and 1410 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. You can choose between 4 different paint colors when ordering this model.
 Additionally, you can choose between 6 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.

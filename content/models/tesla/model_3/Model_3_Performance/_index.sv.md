@@ -79,7 +79,7 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 ## Exteriör
 
-Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
+Tesla Model 3 Performance, med dimensioner på 4694 mm i längd, 1849 mm i bredd och 1443 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 2 hjul i storlek från 18 till 19 tum.
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.

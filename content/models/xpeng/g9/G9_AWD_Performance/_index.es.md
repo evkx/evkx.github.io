@@ -77,7 +77,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
+El XPENG G9 AWD Performance, con dimensiones de 4891 mm de longitud, 1937 mm de anchura y 1670 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 

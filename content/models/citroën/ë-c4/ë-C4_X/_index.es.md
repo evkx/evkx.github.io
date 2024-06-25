@@ -73,7 +73,7 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 ## Exterior
 
-Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
+El Citroën ë-C4 X, con dimensiones de 4118 mm de longitud, 1802 mm de anchura y 1534 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 5 ruedas con tamaños de 17 a 18 pulgadas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero.

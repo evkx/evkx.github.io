@@ -92,7 +92,7 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 ## Exteriör
 
-Du kan välja mellan 61 olika färgfärger när du beställer den här modellen.
+Audi SQ8 e-tron, med dimensioner på 4901 mm i längd, 1935 mm i bredd och 1629 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. Du kan välja mellan 61 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 4 hjul i storlek från 20 till 22 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate). 'Soft Close' är valfritt-funktionen för sidodörrarna.

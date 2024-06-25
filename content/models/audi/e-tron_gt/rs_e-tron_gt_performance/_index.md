@@ -93,7 +93,7 @@ The maximum regenerative power is 265 kW.
 
 ## Exterior
 
-You can choose between 54 different paint colors when ordering this model.
+The Audi RS e-tron GT performance, with dimensions of 4989 mm in length, 1964 mm in width, and 1396 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. You can choose between 54 different paint colors when ordering this model.
 The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
 
 

@@ -73,7 +73,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-Puedes elegir entre 8 colores de pintura diferentes al pedir este modelo.
+El Cadillac LYRIQ RWD, con dimensiones de 4996 mm de longitud, 1977 mm de anchura y 1623 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. Puedes elegir entre 8 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 3 ruedas con tamaños de 20 a 22 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).

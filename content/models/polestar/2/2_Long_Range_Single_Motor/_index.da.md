@@ -75,7 +75,7 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 ## Udvendig
 
-Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
+Den Polestar 2 Long Range Single Motor, med dimensioner på 4606 mm i længde, 1859 mm i bredde og 1652 mm i højde, tilhører D-segmentet af biler, også kendt som mellemstore eller familiebiler. Disse biler tilbyder mere plads, komfort og funktioner end mindre segmenter og er velegnede til forskellige førere. Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
 Derudover kan du vælge mellem 3 hjul med størrelser fra 19 til 20 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).

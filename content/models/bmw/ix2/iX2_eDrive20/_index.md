@@ -79,7 +79,7 @@ The maximum regenerative power is 134 kW.
 
 ## Exterior
 
-You can choose between 12 different paint colors when ordering this model.
+The BMW iX2 eDrive20, with dimensions of 4554 mm in length, 1845 mm in width, and 1560 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 12 different paint colors when ordering this model.
 Additionally, you can choose between 3 wheels with sizes from 17 to 19 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

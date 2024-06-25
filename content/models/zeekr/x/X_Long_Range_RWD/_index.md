@@ -73,7 +73,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 6 different paint colors when ordering this model.
+The Zeekr X Long Range RWD, with dimensions of 4432 mm in length, 1836 mm in width, and 1566 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 6 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

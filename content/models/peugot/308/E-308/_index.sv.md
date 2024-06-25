@@ -73,7 +73,7 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 ## Exteriör
 
-Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
+Peugot E-308, med dimensioner på 4367 mm i längd, 1852 mm i bredd och 1441 mm i höjd, tillhör C-segmentet av bilar, även kallat kompakta bilar. Dessa bilar erbjuder en balans mellan storlek, prestanda och prisvärdhet, vilket gör dem mångsidiga för olika förare. Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 5 hjul i storlek från 17 till 18 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).

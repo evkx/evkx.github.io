@@ -77,7 +77,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-You can choose between 5 different paint colors when ordering this model.
+The Volkswagen ID.3 Pro S (GEN1), with dimensions of 4261 mm in length, 1809 mm in width, and 1568 mm in height, falls into the C-segment cars, also known as compact cars, strike a balance between size, performance, and affordability, making them versatile for a variety of drivers. You can choose between 5 different paint colors when ordering this model.
 Additionally, you can choose between 3 wheels with sizes from 18 to 20 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

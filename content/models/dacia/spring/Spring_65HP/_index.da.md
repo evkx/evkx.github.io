@@ -75,7 +75,7 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 ## Udvendig
 
-Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
+Den Dacia Spring 65HP, med dimensioner på 3701 mm i længde, 1622 mm i bredde og 1519 mm i højde, tilhører B-segmentet af biler, også kendt som supermini. Det er en lille bil, der typisk er velegnet til bykørsel og tilbyder en god balance mellem effektivitet, størrelse og omkostninger. Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
 Derudover kan du vælge mellem 2 hjul med størrelser fra 14 til 15 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

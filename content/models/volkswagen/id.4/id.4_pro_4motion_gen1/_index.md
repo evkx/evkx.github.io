@@ -85,7 +85,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-You can choose between 10 different paint colors when ordering this model.
+The Volkswagen ID.4 Pro 4MOTION (GEN1), with dimensions of 4582 mm in length, 1865 mm in width, and 1637 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 10 different paint colors when ordering this model.
 Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

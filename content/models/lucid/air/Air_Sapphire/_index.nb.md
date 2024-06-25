@@ -77,7 +77,7 @@ Bremsene bak og foran er [keramiske skiver](../../../../technology/brakes/#ceram
 
 ## Eksteriør
 
-Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
+Lucid Air Sapphire, med dimensjoner på 4975 mm i lengde, 1939 mm i bredde og 1410 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. 'Soft Close' er standard-funksjon for sidedørene.
 

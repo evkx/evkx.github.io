@@ -77,7 +77,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ## Exteriör
 
-Du kan välja mellan 9 olika färgfärger när du beställer den här modellen.
+Xiaomi SU7 Pro, med dimensioner på 4997 mm i längd,  mm i bredd och 1455 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Du kan välja mellan 9 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 4 hjul i storlek från 19 till 21 tum.
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.

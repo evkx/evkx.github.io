@@ -81,7 +81,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-You can choose between 7 different paint colors when ordering this model.
+The Mercedes-EQ EQE 500 4MATIC SUV, with dimensions of 4863 mm in length, 1931 mm in width, and 1685 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. You can choose between 7 different paint colors when ordering this model.
 
 You can also choose several styling options to make your car more unique.
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 

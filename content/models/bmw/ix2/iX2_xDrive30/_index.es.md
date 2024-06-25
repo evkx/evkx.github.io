@@ -79,7 +79,7 @@ La potencia regenerativa máxima es de 134 kW.
 
 ## Exterior
 
-Puedes elegir entre 12 colores de pintura diferentes al pedir este modelo.
+El BMW iX2 xDrive30, con dimensiones de 4554 mm de longitud, 1845 mm de anchura y 1560 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. Puedes elegir entre 12 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 3 ruedas con tamaños de 17 a 19 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).

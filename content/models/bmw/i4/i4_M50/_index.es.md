@@ -83,7 +83,7 @@ La potencia regenerativa máxima es de 195 kW.
 
 ## Exterior
 
-Puedes elegir entre 12 colores de pintura diferentes al pedir este modelo.
+El BMW i4 M50, con dimensiones de 4783 mm de longitud, 1852 mm de anchura y 1448 mm de altura, pertenece al segmento D de automóviles, también conocido como coches medianos o familiares. Estos coches ofrecen más espacio, comodidad y características que segmentos más pequeños, siendo adecuados para una variedad de conductores. Puedes elegir entre 12 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 7 ruedas con tamaños de 18 a 20 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). El cierre suave es la función un opcional para las puertas laterales.

@@ -85,7 +85,7 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 ## Exteriör
 
-Du kan välja mellan 8 olika färgfärger när du beställer den här modellen.
+Audi Q4 50 e-tron quattro, med dimensioner på 4588 mm i längd, 1865 mm i bredd och 1632 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Du kan välja mellan 8 olika färgfärger när du beställer den här modellen.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
 Dessutom kan du välja mellan 11 hjul i storlek från 19 till 21 tum.

@@ -83,7 +83,7 @@ Den maximala regenerativa effekten är 300 kW.
 
 ## Exteriör
 
-Du kan välja mellan 11 olika färgfärger när du beställer den här modellen.
+Mercedes-EQ EQS 450 4MATIC, med dimensioner på 5216 mm i längd, 1926 mm i bredd och 1512 mm i höjd, tillhör F-segmentet av bilar, även kallat lyxbilar eller fullstora lyxbilar. De representerar toppen av bilens lyx, prestanda och teknologi. De är vanligtvis stora sedaner eller limousiner designade för att erbjuda det bästa inom komfort, prestige och avancerade funktioner. Du kan välja mellan 11 olika färgfärger när du beställer den här modellen.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
 Dessutom kan du välja mellan 9 hjul i storlek från 19 till 22 tum.

@@ -75,7 +75,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-You can choose between 8 different paint colors when ordering this model.
+The Seres 5 4WD Premium, with dimensions of 4710 mm in length, 1930 mm in width, and 1620 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 8 different paint colors when ordering this model.
 Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).

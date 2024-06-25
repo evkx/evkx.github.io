@@ -73,7 +73,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 5 different paint colors when ordering this model.
+The XPENG P7 AWD Performance, with dimensions of 4888 mm in length, 1896 mm in width, and 1450 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. You can choose between 5 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

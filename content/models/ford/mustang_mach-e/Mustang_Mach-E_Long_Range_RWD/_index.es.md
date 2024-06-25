@@ -77,7 +77,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-Puedes elegir entre 8 colores de pintura diferentes al pedir este modelo.
+El Ford Mustang Mach-E Long Range RWD, con dimensiones de 4713 mm de longitud, 1881 mm de anchura y 1624 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. Puedes elegir entre 8 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 18 a 19 pulgadas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).

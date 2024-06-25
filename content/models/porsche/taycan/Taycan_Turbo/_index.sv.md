@@ -83,7 +83,7 @@ Den maximala regenerativa effekten är 275 kW.
 
 ## Exteriör
 
-Du kan välja mellan 17 olika färgfärger när du beställer den här modellen.
+Porsche Taycan Turbo, med dimensioner på 4963 mm i längd, 1966 mm i bredd och 1381 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Du kan välja mellan 17 olika färgfärger när du beställer den här modellen.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
 Dessutom kan du välja mellan 8 hjul i storlek från 19 till 21 tum.

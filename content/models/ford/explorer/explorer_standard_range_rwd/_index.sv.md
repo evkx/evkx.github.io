@@ -83,7 +83,7 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 ## Exteriör
 
-Du kan välja mellan 7 olika färgfärger när du beställer den här modellen.
+Ford Explorer Standard Range RWD, med dimensioner på 4468 mm i längd, 1871 mm i bredd och 1639 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Du kan välja mellan 7 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 3 hjul i storlek från 20 till 21 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).

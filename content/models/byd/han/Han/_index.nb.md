@@ -83,7 +83,7 @@ Den maksimale regenerative effekten er 200 kW.
 
 ## Eksteriør
 
-Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
+BYD Han, med dimensjoner på 4995 mm i lengde, 1910 mm i bredde og 1495 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

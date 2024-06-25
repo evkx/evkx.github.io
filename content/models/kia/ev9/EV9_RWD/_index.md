@@ -75,7 +75,7 @@ The maximum regenerative power is 150 kW.
 
 ## Exterior
 
-You can choose between 7 different paint colors when ordering this model.
+The Kia EV9 RWD, with dimensions of 5010 mm in length, 1980 mm in width, and 1755 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs You can choose between 7 different paint colors when ordering this model.
 Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).

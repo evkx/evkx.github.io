@@ -79,7 +79,7 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 ## Exterior
 
-Puedes elegir entre 9 colores de pintura diferentes al pedir este modelo.
+El BMW iX xDrive40, con dimensiones de 4953 mm de longitud, 1967 mm de anchura y 1696 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. Puedes elegir entre 9 colores de pintura diferentes al pedir este modelo.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). El cierre suave es la función un opcional para las puertas laterales.
 

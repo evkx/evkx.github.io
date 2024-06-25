@@ -73,7 +73,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ## Exterior
 
-You can choose between 1 different paint colors when ordering this model.
+The Toyota bZ4X FWD, with dimensions of 4690 mm in length, 1860 mm in width, and 1550 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 1 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

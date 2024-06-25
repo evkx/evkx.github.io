@@ -83,7 +83,7 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 ## Eksteriør
 
-Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
+Tesla Model 3 Performance (GEN1), med dimensjoner på 4694 mm i lengde, 1849 mm i bredde og 1443 mm i høyde, tilhører D-segmentet av biler, også kjent som mellomstore eller familiebiler. Disse bilene tilbyr mer plass, komfort og funksjoner enn mindre segmenter, noe som gjør dem egnet for ulike sjåfører. Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 18 til 19 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet.

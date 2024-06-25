@@ -75,7 +75,7 @@ Den maximala regenerativa effekten är 150 kW.
 
 ## Exteriör
 
-Du kan välja mellan 11 olika färgfärger när du beställer den här modellen.
+Kia EV3 Long Range, med dimensioner på 4300 mm i längd, 1850 mm i bredd och 1560 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Du kan välja mellan 11 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 2 hjul i storlek från 19 till 20 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).

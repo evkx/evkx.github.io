@@ -94,7 +94,7 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 ## Udvendig
 
-Du kan vælge mellem 61 forskellige malingsfarver, når du bestiller denne model.
+Den Audi Q8 Sportback 50 e-tron, med dimensioner på 4901 mm i længde, 1935 mm i bredde og 1616 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Du kan vælge mellem 61 forskellige malingsfarver, når du bestiller denne model.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 Derudover kan du vælge mellem 10 hjul med størrelser fra 19 til 22 tommer.

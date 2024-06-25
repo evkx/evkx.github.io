@@ -80,7 +80,7 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 ## Udvendig
 
-Du kan vælge mellem 9 forskellige malingsfarver, når du bestiller denne model.
+Den Rivian R1S Quad-Motor AWD, med dimensioner på 5100 mm i længde,  mm i bredde og 1966 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Du kan vælge mellem 9 forskellige malingsfarver, når du bestiller denne model.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [delt bagklap](../../../../technology/doors/#split-bagklap), hvor den nederste del falder og den øverste del løftes.
 

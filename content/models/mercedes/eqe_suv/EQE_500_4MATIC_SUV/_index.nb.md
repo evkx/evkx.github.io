@@ -81,7 +81,7 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 ## Eksteriør
 
-Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
+Mercedes-EQ EQE 500 4MATIC SUV, med dimensjoner på 4863 mm i lengde, 1931 mm i bredde og 1685 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
 
 Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
 I tillegg kan du velge mellom 5 hjul med størrelser fra 20 til 22 tommer.

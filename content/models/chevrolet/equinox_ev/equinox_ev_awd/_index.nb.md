@@ -73,7 +73,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-Du kan velge mellom 8 forskjellige lakkfarger når du bestiller denne modellen.
+Chevrolet Equinox EV AWD, med dimensjoner på 4867 mm i lengde, 1953 mm i bredde og 1646 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Du kan velge mellom 8 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 3 hjul med størrelser fra 19 til 21 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

@@ -79,7 +79,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-You can choose between 9 different paint colors when ordering this model.
+The BMW iX xDrive40, with dimensions of 4953 mm in length, 1967 mm in width, and 1696 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. You can choose between 9 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is an optional function for the side doors.
 

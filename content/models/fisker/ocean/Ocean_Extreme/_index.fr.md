@@ -89,7 +89,7 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 ## Extérieur
 
-Vous pouvez choisir entre 12 couleurs de peinture différentes lors de la commande de ce modèle.
+La Fisker Ocean Extreme, avec des dimensions de 4774 mm de longueur, 1982 mm de largeur et 1631 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. Vous pouvez choisir entre 12 couleurs de peinture différentes lors de la commande de ce modèle.
 De plus, vous pouvez choisir entre 6 roues avec des tailles allant de 20 à 22 pouces.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).

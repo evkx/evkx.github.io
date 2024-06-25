@@ -87,7 +87,7 @@ La potencia regenerativa máxima es de 116 kW.
 
 ## Exterior
 
-Puedes elegir entre 12 colores de pintura diferentes al pedir este modelo.
+El BMW i5 eDrive40, con dimensiones de 5060 mm de longitud, 1900 mm de anchura y 1505 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. Puedes elegir entre 12 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 8 ruedas con tamaños de 19 a 21 pulgadas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero. El cierre suave es la función un opcional para las puertas laterales.

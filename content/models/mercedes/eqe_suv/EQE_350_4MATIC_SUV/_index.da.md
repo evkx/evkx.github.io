@@ -81,7 +81,7 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 ## Udvendig
 
-Du kan vælge mellem 7 forskellige malingsfarver, når du bestiller denne model.
+Den Mercedes-EQ EQE 350 4MATIC SUV, med dimensioner på 4863 mm i længde, 1931 mm i bredde og 1685 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Du kan vælge mellem 7 forskellige malingsfarver, når du bestiller denne model.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 Derudover kan du vælge mellem 5 hjul med størrelser fra 20 til 22 tommer.

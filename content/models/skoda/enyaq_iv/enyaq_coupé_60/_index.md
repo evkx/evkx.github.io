@@ -81,7 +81,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-You can choose between 9 different paint colors when ordering this model.
+The SKODA ENYAQ COUPÉ 60, with dimensions of 4653 mm in length, 1879 mm in width, and 1607 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 9 different paint colors when ordering this model.
 Additionally, you can choose between 2 wheels with sizes from 20 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

@@ -79,7 +79,7 @@ La potencia regenerativa máxima es de 275 kW.
 
 ## Exterior
 
-Puedes elegir entre 13 colores de pintura diferentes al pedir este modelo.
+El Porsche Macan 4, con dimensiones de 4784 mm de longitud, 1938 mm de anchura y 1622 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. Puedes elegir entre 13 colores de pintura diferentes al pedir este modelo.
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
 Adicionalmente, puedes elegir entre 8 ruedas con tamaños de 20 a 22 pulgadas.

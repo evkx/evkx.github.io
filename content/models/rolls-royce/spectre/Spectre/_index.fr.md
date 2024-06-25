@@ -77,7 +77,7 @@ La direction dynamique est une fonctionnalité un standard sur le Rolls-Royce Sp
 
 ## Extérieur
 
-Vous pouvez choisir entre 8 couleurs de peinture différentes lors de la commande de ce modèle.
+La Rolls-Royce Spectre, avec des dimensions de 5475 mm de longueur, 2017 mm de largeur et 1573 mm de hauteur, appartient au segment F des voitures, également connu sous le nom de voitures de luxe ou voitures de luxe de taille complète. Elles représentent le summum du luxe automobile, de la performance et de la technologie. Elles sont généralement de grandes berlines ou limousines conçues pour offrir le meilleur en termes de confort, de prestige et de fonctionnalités avancées. Vous pouvez choisir entre 8 couleurs de peinture différentes lors de la commande de ce modèle.
 
 La voiture a deux [portes suicide](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#bootlid) à l'arrière. La fermeture douce est la fonction un standard pour les portes latérales. Les portes motorisées sont une fonction un standard pour les portes latérales.
 

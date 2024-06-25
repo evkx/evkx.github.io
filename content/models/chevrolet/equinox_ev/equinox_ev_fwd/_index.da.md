@@ -73,7 +73,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Du kan vælge mellem 8 forskellige malingsfarver, når du bestiller denne model.
+Den Chevrolet Equinox EV FWD, med dimensioner på 4867 mm i længde, 1953 mm i bredde og 1646 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Du kan vælge mellem 8 forskellige malingsfarver, når du bestiller denne model.
 Derudover kan du vælge mellem 3 hjul med størrelser fra 19 til 21 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

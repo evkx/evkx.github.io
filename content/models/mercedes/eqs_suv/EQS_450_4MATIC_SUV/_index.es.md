@@ -79,7 +79,7 @@ La potencia regenerativa máxima es de 300 kW.
 
 ## Exterior
 
-Puedes elegir entre 9 colores de pintura diferentes al pedir este modelo.
+El Mercedes-EQ EQS 450 4MATIC SUV, con dimensiones de 5125 mm de longitud, 1959 mm de anchura y 1718 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. Puedes elegir entre 9 colores de pintura diferentes al pedir este modelo.
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
 Adicionalmente, puedes elegir entre 4 ruedas con tamaños de 21 a 22 pulgadas.

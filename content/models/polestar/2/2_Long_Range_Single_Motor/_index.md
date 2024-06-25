@@ -75,7 +75,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-You can choose between 6 different paint colors when ordering this model.
+The Polestar 2 Long Range Single Motor, with dimensions of 4606 mm in length, 1859 mm in width, and 1652 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. You can choose between 6 different paint colors when ordering this model.
 Additionally, you can choose between 3 wheels with sizes from 19 to 20 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).

@@ -73,7 +73,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
+El XPENG G6 AWD Performance, con dimensiones de 4753 mm de longitud, 1920 mm de anchura y 1650 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 

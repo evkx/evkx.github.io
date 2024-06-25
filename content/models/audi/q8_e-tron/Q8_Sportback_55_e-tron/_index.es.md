@@ -94,7 +94,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-Puedes elegir entre 61 colores de pintura diferentes al pedir este modelo.
+El Audi Q8 Sportback 55 e-tron, con dimensiones de 4901 mm de longitud, 1935 mm de anchura y 1616 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. Puedes elegir entre 61 colores de pintura diferentes al pedir este modelo.
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
 Adicionalmente, puedes elegir entre 10 ruedas con tamaños de 19 a 22 pulgadas.

@@ -94,7 +94,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-Puedes elegir entre 7 colores de pintura diferentes al pedir este modelo.
+El Nio EL7, con dimensiones de 4912 mm de longitud, 1987 mm de anchura y 1720 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. Puedes elegir entre 7 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 20 a 21 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). El cierre suave es la función un estándar para las puertas laterales.

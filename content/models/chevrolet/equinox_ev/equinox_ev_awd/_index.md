@@ -73,7 +73,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 8 different paint colors when ordering this model.
+The Chevrolet Equinox EV AWD, with dimensions of 4867 mm in length, 1953 mm in width, and 1646 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. You can choose between 8 different paint colors when ordering this model.
 Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

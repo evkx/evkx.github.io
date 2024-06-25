@@ -75,7 +75,7 @@ La potencia regenerativa máxima es de 150 kW.
 
 ## Exterior
 
-Puedes elegir entre 9 colores de pintura diferentes al pedir este modelo.
+El Hyundai Ioniq 6 Long Range RWD, con dimensiones de 4855 mm de longitud, 1880 mm de anchura y 1495 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. Puedes elegir entre 9 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 18 a 20 pulgadas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero.

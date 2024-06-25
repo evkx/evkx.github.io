@@ -81,7 +81,7 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 ## Udvendig
 
-Du kan vælge mellem 8 forskellige malingsfarver, når du bestiller denne model.
+Den Audi Q4 Sportback 55 e-tron quattro, med dimensioner på 4588 mm i længde, 1865 mm i bredde og 1614 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 8 forskellige malingsfarver, når du bestiller denne model.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 Derudover kan du vælge mellem 11 hjul med størrelser fra 19 til 21 tommer.

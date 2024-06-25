@@ -81,7 +81,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
+Den HiPhi Z 4 Seater, med dimensioner på 5036 mm i længde, 2018 mm i bredde og 1439 mm i højde, tilhører F-segmentet af biler, også kendt som luksus- eller fuldstørrelses luksusbiler. De repræsenterer toppen af ​​automobil luksus, ydeevne og teknologi. De er typisk store sedans eller limousiner og er designet til at tilbyde det ypperste inden for komfort, prestige og avancerede funktioner. Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
 
 Bilen har to [almindelige døre](../../../../technology/doors/) foran, [selvmordsdøre](../../../../technology/doors/) på anden række, og et [bagklap](../../../../technology/doors/#bootlid) bagerst. Elektriske døre er en standard funktion for sidedørene.
 

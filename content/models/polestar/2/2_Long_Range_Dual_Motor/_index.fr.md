@@ -75,7 +75,7 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 ## Extérieur
 
-Vous pouvez choisir entre 6 couleurs de peinture différentes lors de la commande de ce modèle.
+La Polestar 2 Long Range Dual Motor, avec des dimensions de 4606 mm de longueur, 1859 mm de largeur et 1652 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. Vous pouvez choisir entre 6 couleurs de peinture différentes lors de la commande de ce modèle.
 De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 19 à 20 pouces.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).

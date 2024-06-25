@@ -77,7 +77,7 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 ## Udvendig
 
-Du kan vælge mellem 7 forskellige malingsfarver, når du bestiller denne model.
+Den Opel Astra Electric, med dimensioner på 4374 mm i længde, 1860 mm i bredde og 1470 mm i højde, tilhører C-segmentet af biler, også kendt som kompakte biler. Disse biler opnår en balance mellem størrelse, ydelse og overkommelighed, hvilket gør dem alsidige for en række førere. Du kan vælge mellem 7 forskellige malingsfarver, når du bestiller denne model.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

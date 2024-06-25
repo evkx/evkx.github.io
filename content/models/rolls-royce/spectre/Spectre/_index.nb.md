@@ -77,7 +77,7 @@ Dynamisk styring er standard-funksjonen på Rolls-Royce Spectre. Dynamisk styrin
 
 ## Eksteriør
 
-Du kan velge mellom 8 forskjellige lakkfarger når du bestiller denne modellen.
+Rolls-Royce Spectre, med dimensjoner på 5475 mm i lengde, 2017 mm i bredde og 1573 mm i høyde, tilhører F-segmentet av biler, også kjent som luksus- eller fullstørrelse luksusbiler. De representerer det ypperste innen bil-luksus, ytelse og teknologi. De er typisk store sedaner eller limousiner designet for å tilby det beste innen komfort, prestisje og avanserte funksjoner. Du kan velge mellom 8 forskjellige lakkfarger når du bestiller denne modellen.
 
 Bilen har to [selvmordsdører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#bootlid) bak. 'Soft Close' er standard-funksjon for sidedørene. Elektriske dører er standard funksjon for sidedørene.
 

@@ -79,7 +79,7 @@ Den maximala regenerativa effekten är 200 kW.
 
 ## Exteriör
 
-Du kan välja mellan 4 olika färgfärger när du beställer den här modellen.
+BYD Dolphin 60.4kWh, med dimensioner på 4290 mm i längd, 1770 mm i bredd och 1570 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Du kan välja mellan 4 olika färgfärger när du beställer den här modellen.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

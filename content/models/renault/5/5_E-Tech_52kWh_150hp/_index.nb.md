@@ -81,7 +81,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
+Renault 5 E-Tech 52kWh 150hp, med dimensjoner på 3920 mm i lengde, 1770 mm i bredde og 1500 mm i høyde, tilhører B-segmentet av biler, også kjent som supermini. Dette er en liten bil som typisk er egnet for bykjøring, og den tilbyr en god balanse mellom effektivitet, størrelse og kostnad. Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

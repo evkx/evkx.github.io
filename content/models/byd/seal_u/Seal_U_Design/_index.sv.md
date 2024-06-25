@@ -85,7 +85,7 @@ Den maximala regenerativa effekten är 200 kW.
 
 ## Exteriör
 
-Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
+BYD Seal U Design, med dimensioner på 4785 mm i längd, 1890 mm i bredd och 1668 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.
 

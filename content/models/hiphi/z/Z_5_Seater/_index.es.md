@@ -81,7 +81,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
+El HiPhi Z 5 Seater, con dimensiones de 5036 mm de longitud, 2018 mm de anchura y 1439 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
 
 El auto tiene dos [puertas normales](../../../../technology/doors/) en el frente, [puertas suicidas](../../../../technology/doors/) en la segunda fila, y una [bootlid](../../../../technology/doors/#bootlid) en la parte trasera. Las puertas eléctricas tienen un estándar función para las puertas laterales.
 

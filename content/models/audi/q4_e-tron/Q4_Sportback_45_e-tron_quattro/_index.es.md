@@ -81,7 +81,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-Puedes elegir entre 8 colores de pintura diferentes al pedir este modelo.
+El Audi Q4 Sportback 45 e-tron quattro, con dimensiones de 4588 mm de longitud, 1865 mm de anchura y 1614 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. Puedes elegir entre 8 colores de pintura diferentes al pedir este modelo.
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
 Adicionalmente, puedes elegir entre 11 ruedas con tamaños de 19 a 21 pulgadas.

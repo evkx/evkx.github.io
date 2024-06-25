@@ -77,7 +77,7 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 ## Exterior
 
-Puedes elegir entre 11 colores de pintura diferentes al pedir este modelo.
+El Mercedes-EQ EQC 400 4MATIC, con dimensiones de 4762 mm de longitud, 1884 mm de anchura y 1624 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. Puedes elegir entre 11 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 10 ruedas con tamaños de 19 a 21 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).

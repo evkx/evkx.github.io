@@ -79,7 +79,7 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 ## Exteriör
 
-Du kan välja mellan 7 olika färgfärger när du beställer den här modellen.
+Mercedes-AMG EQE 53 4MATIC+ SUV, med dimensioner på 4879 mm i längd, 1931 mm i bredd och 1672 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. Du kan välja mellan 7 olika färgfärger när du beställer den här modellen.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
 Dessutom kan du välja mellan 5 hjul i storlek från 20 till 22 tum.

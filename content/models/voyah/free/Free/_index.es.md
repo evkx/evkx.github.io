@@ -73,7 +73,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
+El VOYAH FREE, con dimensiones de 4905 mm de longitud, 1950 mm de anchura y 1645 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

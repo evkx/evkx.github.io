@@ -77,7 +77,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Du kan vælge mellem 8 forskellige malingsfarver, når du bestiller denne model.
+Den Ford Mustang Mach-E Standard Range RWD, med dimensioner på 4713 mm i længde, 1881 mm i bredde og 1624 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 8 forskellige malingsfarver, når du bestiller denne model.
 Derudover kan du vælge mellem 2 hjul med størrelser fra 18 til 19 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).

@@ -77,7 +77,7 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 ## Extérieur
 
-Vous pouvez choisir entre 7 couleurs de peinture différentes lors de la commande de ce modèle.
+La Lancia Ypsilon, avec des dimensions de 4080 mm de longueur, 1760 mm de largeur et 1440 mm de hauteur, appartient au segment B des voitures, également connu sous le nom de supermini. C'est une petite voiture généralement adaptée à la conduite urbaine, offrant un bon équilibre entre efficacité, taille et coût. Vous pouvez choisir entre 7 couleurs de peinture différentes lors de la commande de ce modèle.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

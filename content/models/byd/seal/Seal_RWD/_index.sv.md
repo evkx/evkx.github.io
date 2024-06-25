@@ -79,7 +79,7 @@ Den maximala regenerativa effekten är 200 kW.
 
 ## Exteriör
 
-Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
+BYD Seal RWD, med dimensioner på 4800 mm i längd, 1875 mm i bredd och 1460 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.
 

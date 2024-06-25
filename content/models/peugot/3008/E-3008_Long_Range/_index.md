@@ -75,7 +75,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-You can choose between 6 different paint colors when ordering this model.
+The Peugot E-3008 Long Range, with dimensions of 4542 mm in length, 1895 mm in width, and 1641 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 6 different paint colors when ordering this model.
 Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

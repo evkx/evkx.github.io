@@ -83,7 +83,7 @@ The maximum regenerative power is 265 kW.
 
 ## Exterior
 
-You can choose between 54 different paint colors when ordering this model.
+The Audi e-tron GT, with dimensions of 4989 mm in length, 1964 mm in width, and 1396 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. You can choose between 54 different paint colors when ordering this model.
 
 You can also choose several styling options to make your car more unique.
  In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 

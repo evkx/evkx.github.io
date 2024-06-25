@@ -73,7 +73,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 8 different paint colors when ordering this model.
+The Chevrolet Blazer EV RS AWD, with dimensions of 5067 mm in length, 1963 mm in width, and 1725 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs You can choose between 8 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

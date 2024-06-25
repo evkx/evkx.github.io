@@ -79,7 +79,7 @@ Den maksimale regenerative effekten er 200 kW.
 
 ## Eksteriør
 
-Du kan velge mellom 4 forskjellige lakkfarger når du bestiller denne modellen.
+BYD Seagull 38kWh, med dimensjoner på 3780 mm i lengde, 1715 mm i bredde og 1540 mm i høyde, tilhører B-segmentet av biler, også kjent som supermini. Dette er en liten bil som typisk er egnet for bykjøring, og den tilbyr en god balanse mellom effektivitet, størrelse og kostnad. Du kan velge mellom 4 forskjellige lakkfarger når du bestiller denne modellen.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

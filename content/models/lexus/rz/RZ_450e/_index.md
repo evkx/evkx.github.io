@@ -77,7 +77,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-You can choose between 1 different paint colors when ordering this model.
+The Lexus RZ 450e, with dimensions of 4805 mm in length, 1860 mm in width, and 1635 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. You can choose between 1 different paint colors when ordering this model.
 Additionally, you can choose between 2 wheels with sizes from 18 to 20 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).

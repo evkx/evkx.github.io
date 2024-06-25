@@ -77,7 +77,7 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 ## Eksteriør
 
-Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
+Opel Astra Electric, med dimensjoner på 4374 mm i lengde, 1860 mm i bredde og 1470 mm i høyde, tilhører C-segmentet av biler, også kjent som kompakte biler. Disse bilene oppnår en balanse mellom størrelse, ytelse og prisvennlighet, noe som gjør dem allsidige for ulike sjåfører. Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

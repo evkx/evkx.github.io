@@ -79,7 +79,7 @@ Den maksimale regenerative effekt er 300 kW.
 
 ## Udvendig
 
-Du kan vælge mellem 9 forskellige malingsfarver, når du bestiller denne model.
+Den Mercedes-Maybach EQS 680 SUV, med dimensioner på 5125 mm i længde, 2034 mm i bredde og 1721 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Du kan vælge mellem 9 forskellige malingsfarver, når du bestiller denne model.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 Derudover kan du vælge mellem 4 hjul med størrelser fra 21 til 22 tommer.

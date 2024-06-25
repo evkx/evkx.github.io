@@ -81,7 +81,7 @@ Cependant, cela n'est pas considéré comme une conduite à une pédale complèt
 
 ## Extérieur
 
-Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
+La HiPhi X 4 Seater, avec des dimensions de 5200 mm de longueur,  mm de largeur et 1618 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
 
 La voiture a deux [portes régulières](../../../../technology/doors/) à l'avant, une combinaison unique de portes suicide avec un toit en aile de mouette sur le deuxième rangée, et un [liftgate](../../../../technology/doors/#liftgate) à l'arrière. Les portes motorisées sont une fonction un standard pour les portes latérales.
 

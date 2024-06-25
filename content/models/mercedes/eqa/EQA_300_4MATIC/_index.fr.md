@@ -77,7 +77,7 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 ## Extérieur
 
-Vous pouvez choisir entre 10 couleurs de peinture différentes lors de la commande de ce modèle.
+La Mercedes-EQ EQA 300 4MATIC, avec des dimensions de 4463 mm de longueur, 1834 mm de largeur et 1624 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. Vous pouvez choisir entre 10 couleurs de peinture différentes lors de la commande de ce modèle.
 De plus, vous pouvez choisir entre 6 roues avec des tailles allant de 18 à 19 pouces.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).

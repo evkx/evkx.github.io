@@ -79,7 +79,7 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 ## Extérieur
 
-Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
+La Tesla Model Y Long Range, avec des dimensions de 4751 mm de longueur, 1921 mm de largeur et 1624 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
 De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 19 à 21 pouces.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).

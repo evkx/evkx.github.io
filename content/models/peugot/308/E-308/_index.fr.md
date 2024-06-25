@@ -73,7 +73,7 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 ## Extérieur
 
-Vous pouvez choisir entre 6 couleurs de peinture différentes lors de la commande de ce modèle.
+La Peugot E-308, avec des dimensions de 4367 mm de longueur, 1852 mm de largeur et 1441 mm de hauteur, appartient au segment C des voitures, également connu sous le nom de voitures compactes. Ces voitures atteignent un équilibre entre taille, performance et abordabilité, les rendant polyvalentes pour une variété de conducteurs. Vous pouvez choisir entre 6 couleurs de peinture différentes lors de la commande de ce modèle.
 De plus, vous pouvez choisir entre 5 roues avec des tailles allant de 17 à 18 pouces.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).

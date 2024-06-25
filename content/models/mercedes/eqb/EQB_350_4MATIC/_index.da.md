@@ -77,7 +77,7 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 ## Udvendig
 
-Du kan vælge mellem 10 forskellige malingsfarver, når du bestiller denne model.
+Den Mercedes-EQ EQB 350 4MATIC, med dimensioner på 4684 mm i længde, 1834 mm i bredde og 1701 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 10 forskellige malingsfarver, når du bestiller denne model.
 Derudover kan du vælge mellem 6 hjul med størrelser fra 18 til 19 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

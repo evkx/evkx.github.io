@@ -77,7 +77,7 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 ## Udvendig
 
-Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
+Den Volkswagen ID.3 GTX, med dimensioner på 4261 mm i længde, 1809 mm i bredde og 1568 mm i højde, tilhører C-segmentet af biler, også kendt som kompakte biler. Disse biler opnår en balance mellem størrelse, ydelse og overkommelighed, hvilket gør dem alsidige for en række førere. Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
 Derudover kan du vælge mellem 3 hjul med størrelser fra 18 til 20 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

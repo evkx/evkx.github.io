@@ -75,7 +75,7 @@ Den maksimale regenerative effekt er 150 kW.
 
 ## Udvendig
 
-Du kan vælge mellem 10 forskellige malingsfarver, når du bestiller denne model.
+Den Genesis GV60 AWD Performance, med dimensioner på 4515 mm i længde, 1890 mm i bredde og 1580 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 10 forskellige malingsfarver, når du bestiller denne model.
 Derudover kan du vælge mellem 3 hjul med størrelser fra 19 til 21 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).

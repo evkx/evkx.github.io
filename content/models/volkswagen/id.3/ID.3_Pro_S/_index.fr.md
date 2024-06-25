@@ -77,7 +77,7 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 ## Extérieur
 
-Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
+La Volkswagen ID.3 Pro S, avec des dimensions de 4261 mm de longueur, 1809 mm de largeur et 1568 mm de hauteur, appartient au segment C des voitures, également connu sous le nom de voitures compactes. Ces voitures atteignent un équilibre entre taille, performance et abordabilité, les rendant polyvalentes pour une variété de conducteurs. Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
 De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 18 à 20 pouces.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).

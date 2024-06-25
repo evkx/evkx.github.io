@@ -81,7 +81,7 @@ Det anses imidlertid ikke som full en-pedalskjøring siden kjøretøyet ved lave
 
 ## Eksteriør
 
-Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
+HiPhi X 4 Seater, med dimensjoner på 5200 mm i lengde,  mm i bredde og 1618 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
 
 Bilen har to [vanlige dører](../../../../technology/doors/) foran, en unik kombinasjon av selvmordsdører med måketak på andre rad, og en [liftgate](../../../../technology/doors/#liftgate) bak. Elektriske dører er standard funksjon for sidedørene.
 

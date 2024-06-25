@@ -79,7 +79,7 @@ La potencia regenerativa máxima es de 200 kW.
 
 ## Exterior
 
-Puedes elegir entre 4 colores de pintura diferentes al pedir este modelo.
+El BYD Seagull 38kWh, con dimensiones de 3780 mm de longitud, 1715 mm de anchura y 1540 mm de altura, pertenece al segmento B de automóviles, también conocido como supermini. Es un coche pequeño típicamente adecuado para la conducción urbana, ofreciendo un buen equilibrio entre eficiencia, tamaño y costo. Puedes elegir entre 4 colores de pintura diferentes al pedir este modelo.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

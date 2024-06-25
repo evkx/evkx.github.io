@@ -77,7 +77,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ## Extérieur
 
-Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
+La HiPhi Y Performance, avec des dimensions de 4938 mm de longueur, 1958 mm de largeur et 1658 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
 
 La voiture a deux [portes régulières](../../../../technology/doors/) à l'avant, une combinaison unique de portes régulières avec un toit en aile de mouette sur le deuxième rangée et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate) à l'arrière. Les portes motorisées sont une fonction un standard pour les portes latérales.
 

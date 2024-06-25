@@ -102,7 +102,7 @@ Den maximala regenerativa effekten är 220 kW.
 
 ## Exteriör
 
-Du kan välja mellan 56 olika färgfärger när du beställer den här modellen.
+Audi SQ6 e-tron, med dimensioner på 4771 mm i längd, 1939 mm i bredd och 1685 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Du kan välja mellan 56 olika färgfärger när du beställer den här modellen.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
 Dessutom kan du välja mellan 9 hjul i storlek från 19 till 21 tum.

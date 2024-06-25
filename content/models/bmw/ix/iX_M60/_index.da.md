@@ -81,7 +81,7 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 ## Udvendig
 
-Du kan vælge mellem 9 forskellige malingsfarver, når du bestiller denne model.
+Den BMW iX M60, med dimensioner på 4953 mm i længde, 1967 mm i bredde og 1696 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Du kan vælge mellem 9 forskellige malingsfarver, når du bestiller denne model.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Soft close er en valgfri-funktion for sidedørene.
 

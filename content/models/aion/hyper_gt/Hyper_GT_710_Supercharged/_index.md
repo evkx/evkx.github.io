@@ -73,7 +73,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 5 different paint colors when ordering this model.
+The Aion Hyper GT 710 Supercharged, with dimensions of 4886 mm in length, 1885 mm in width, and 1449 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. You can choose between 5 different paint colors when ordering this model.
 Additionally, you can choose between 4 wheels with sizes from 17 to 19 inches.
 
 

@@ -83,7 +83,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-You can choose between 5 different paint colors when ordering this model.
+The Tesla Model 3 Performance (GEN1), with dimensions of 4694 mm in length, 1849 mm in width, and 1443 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. You can choose between 5 different paint colors when ordering this model.
 Additionally, you can choose between 2 wheels with sizes from 18 to 19 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.

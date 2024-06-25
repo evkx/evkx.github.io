@@ -77,7 +77,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ## Exteriör
 
-Du kan välja mellan 4 olika färgfärger när du beställer den här modellen.
+Lucid Air Dream Edition Performance, med dimensioner på 4975 mm i längd, 1939 mm i bredd och 1410 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Du kan välja mellan 4 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 6 hjul i storlek från 19 till 21 tum.
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.

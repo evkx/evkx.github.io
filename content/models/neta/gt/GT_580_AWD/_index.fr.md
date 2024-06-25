@@ -73,7 +73,7 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 
 ## Extérieur
 
-Vous pouvez choisir entre 6 couleurs de peinture différentes lors de la commande de ce modèle.
+La Neta GT 580 AWD, avec des dimensions de 4715 mm de longueur, 1979 mm de largeur et 1415 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. Vous pouvez choisir entre 6 couleurs de peinture différentes lors de la commande de ce modèle.
 
 
 

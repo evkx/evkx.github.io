@@ -81,7 +81,7 @@ Det anses dock inte vara full enpedalskörning eftersom fordonet vid låga hasti
 
 ## Exteriör
 
-Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
+HiPhi X 4 Seater, med dimensioner på 5200 mm i längd,  mm i bredd och 1618 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
 
 Bilen har två [vanliga dörrar](../../../../technology/doors/) i fronten, en unik kombination av självmordsdörrar med måsvingetak i den andra raden, och en [ baklucka](../../../../technology/doors/#liftgate) bak. Elektriska dörrar är standard funktion för sidodörrarna.
 

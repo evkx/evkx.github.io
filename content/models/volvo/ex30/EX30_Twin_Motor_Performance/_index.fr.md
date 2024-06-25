@@ -73,7 +73,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ## Extérieur
 
-Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
+La Volvo EX30 Twin Motor Performance, avec des dimensions de 4233 mm de longueur, 1837 mm de largeur et 1549 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
 De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 18 à 20 pouces.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).

@@ -81,7 +81,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ## Extérieur
 
-Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
+La Renault 5 E-Tech 52kWh 150hp, avec des dimensions de 3920 mm de longueur, 1770 mm de largeur et 1500 mm de hauteur, appartient au segment B des voitures, également connu sous le nom de supermini. C'est une petite voiture généralement adaptée à la conduite urbaine, offrant un bon équilibre entre efficacité, taille et coût. Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

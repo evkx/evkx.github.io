@@ -79,7 +79,7 @@ The maximum regenerative power is 150 kW.
 
 ## Exterior
 
-You can choose between 8 different paint colors when ordering this model.
+The Kia EV6 GT, with dimensions of 4680 mm in length, 1880 mm in width, and 1550 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 8 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

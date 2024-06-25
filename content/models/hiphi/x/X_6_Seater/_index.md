@@ -81,7 +81,7 @@ However, it is not considered full one-pedal driving since, at low speeds, the v
 
 ## Exterior
 
-You can choose between 5 different paint colors when ordering this model.
+The HiPhi X 6 Seater, with dimensions of 5200 mm in length,  mm in width, and 1618 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs You can choose between 5 different paint colors when ordering this model.
 
 The car has two [regular doors](../../../../technology/doors/) in front, a unique combination of suicide doors with a gullwing roof on the second row, and a [liftgate](../../../../technology/doors/#liftgate) in the rear. Powered doors are a standard function for the side doors.
 

@@ -73,7 +73,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
+Den Aion Hyper GT 710 Supercharged, med dimensioner på 4886 mm i længde, 1885 mm i bredde og 1449 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
 Derudover kan du vælge mellem 4 hjul med størrelser fra 17 til 19 tommer.
 
 

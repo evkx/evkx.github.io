@@ -98,7 +98,7 @@ La puissance régénérative maximale est de 220 kW.
 
 ## Extérieur
 
-Vous pouvez choisir entre 56 couleurs de peinture différentes lors de la commande de ce modèle.
+La Audi Q6L e-tron quattro, avec des dimensions de 4884 mm de longueur, 1939 mm de largeur et 1687 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Vous pouvez choisir entre 56 couleurs de peinture différentes lors de la commande de ce modèle.
 
 Vous pouvez également choisir plusieurs options de style pour rendre votre voiture plus unique.
 De plus, vous pouvez choisir entre 9 roues avec des tailles allant de 19 à 21 pouces.

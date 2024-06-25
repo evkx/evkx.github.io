@@ -73,7 +73,7 @@ Toyota bZ4X FWD har et forhjulsdriftssystem støttet av én motor på forakselen
 
 ## Eksteriør
 
-Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
+Toyota bZ4X FWD, med dimensjoner på 4690 mm i lengde, 1860 mm i bredde og 1550 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 

@@ -79,7 +79,7 @@ La potencia regenerativa máxima es de 134 kW.
 
 ## Exterior
 
-Puedes elegir entre 12 colores de pintura diferentes al pedir este modelo.
+El BMW iX1 xDrive30, con dimensiones de 4500 mm de longitud, 1845 mm de anchura y 1616 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. Puedes elegir entre 12 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 3 ruedas con tamaños de 17 a 19 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).

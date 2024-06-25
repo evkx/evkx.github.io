@@ -75,7 +75,7 @@ The maximum regenerative power is 400 kW.
 
 ## Exterior
 
-You can choose between 1 different paint colors when ordering this model.
+The Cadillac ESCALADE IQ, with dimensions of 5697 mm in length, 2167 mm in width, and 1934 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs You can choose between 1 different paint colors when ordering this model.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Powered doors are a standard function for the side doors.
 

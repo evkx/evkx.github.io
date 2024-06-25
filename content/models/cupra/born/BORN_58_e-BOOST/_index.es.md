@@ -77,7 +77,7 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 ## Exterior
 
-Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
+El CUPRA BORN 58 e-BOOST, con dimensiones de 4322 mm de longitud, 1809 mm de anchura y 1540 mm de altura, pertenece al segmento C de automóviles, también conocido como coches compactos. Estos coches logran un equilibrio entre tamaño, rendimiento y asequibilidad, lo que los hace versátiles para una variedad de conductores. Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 6 ruedas con tamaños de 18 a 20 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).

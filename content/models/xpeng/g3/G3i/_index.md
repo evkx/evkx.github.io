@@ -73,7 +73,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ## Exterior
 
-You can choose between 1 different paint colors when ordering this model.
+The XPENG G3i, with dimensions of 4495 mm in length, 1820 mm in width, and 1610 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 1 different paint colors when ordering this model.
 Additionally, you can choose between 2 wheels with sizes from 17 to 18 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.

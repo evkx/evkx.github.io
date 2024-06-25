@@ -91,7 +91,7 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 ## Exteriör
 
-Du kan välja mellan 9 olika färgfärger när du beställer den här modellen.
+Rivian R1S Quad-Motor AWD MP, med dimensioner på 5100 mm i längd,  mm i bredd och 1966 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Du kan välja mellan 9 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 5 hjul i storlek från 20 till 22 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [delad baklucka](../../../../technology/doors/#split-baklucka) där den nedre delen faller och den övre delen lyfts.

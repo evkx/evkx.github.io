@@ -81,7 +81,7 @@ Det betragtes dog ikke som fuld en-pedal kørsel, da køretøjet ved lave hastig
 
 ## Udvendig
 
-Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
+Den HiPhi X 6 Seater, med dimensioner på 5200 mm i længde,  mm i bredde og 1618 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
 
 Bilen har to [almindelige døre](../../../../technology/doors/) foran, en unik kombination af selvmordsdøre med mågevingetag på anden række og en [liftgate](../../../../technology/doors/#liftgate) bagerst. Elektriske døre er en standard funktion for sidedørene.
 

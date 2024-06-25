@@ -77,7 +77,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 6 different paint colors when ordering this model.
+The Hongqi E-HS9 Comfort, with dimensions of 5209 mm in length, 2010 mm in width, and 1713 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs You can choose between 6 different paint colors when ordering this model.
 Additionally, you can choose between 2 wheels with sizes from 21 to 22 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

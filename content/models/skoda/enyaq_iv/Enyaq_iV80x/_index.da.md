@@ -83,7 +83,7 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 ## Udvendig
 
-Du kan vælge mellem 9 forskellige malingsfarver, når du bestiller denne model.
+Den SKODA Enyaq iV80x, med dimensioner på 4649 mm i længde, 1879 mm i bredde og 1616 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 9 forskellige malingsfarver, når du bestiller denne model.
 Derudover kan du vælge mellem 5 hjul med størrelser fra 19 til 21 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

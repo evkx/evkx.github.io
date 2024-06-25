@@ -77,7 +77,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-You can choose between 10 different paint colors when ordering this model.
+The Mercedes-EQ EQA 300 4MATIC, with dimensions of 4463 mm in length, 1834 mm in width, and 1624 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 10 different paint colors when ordering this model.
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
 

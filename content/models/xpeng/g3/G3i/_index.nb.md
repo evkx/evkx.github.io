@@ -73,7 +73,7 @@ XPENG G3i har et forhjulsdriftssystem støttet av én motor på forakselen.
 
 ## Eksteriør
 
-Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
+XPENG G3i, med dimensjoner på 4495 mm i lengde, 1820 mm i bredde og 1610 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 17 til 18 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet.

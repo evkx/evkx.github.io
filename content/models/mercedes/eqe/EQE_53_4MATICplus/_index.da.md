@@ -83,7 +83,7 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 ## Udvendig
 
-Du kan vælge mellem 11 forskellige malingsfarver, når du bestiller denne model.
+Den Mercedes-AMG EQE 53 4MATIC+, med dimensioner på 4964 mm i længde, 1961 mm i bredde og 1492 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Du kan vælge mellem 11 forskellige malingsfarver, når du bestiller denne model.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 Derudover kan du vælge mellem 4 hjul med størrelser fra 20 til 21 tommer.

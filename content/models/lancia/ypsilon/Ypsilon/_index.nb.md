@@ -77,7 +77,7 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 ## Eksteriør
 
-Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
+Lancia Ypsilon, med dimensjoner på 4080 mm i lengde, 1760 mm i bredde og 1440 mm i høyde, tilhører B-segmentet av biler, også kjent som supermini. Dette er en liten bil som typisk er egnet for bykjøring, og den tilbyr en god balanse mellom effektivitet, størrelse og kostnad. Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

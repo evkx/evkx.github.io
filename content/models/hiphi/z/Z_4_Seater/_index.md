@@ -81,7 +81,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 6 different paint colors when ordering this model.
+The HiPhi Z 4 Seater, with dimensions of 5036 mm in length, 2018 mm in width, and 1439 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. You can choose between 6 different paint colors when ordering this model.
 
 The car has two [regular doors](../../../../technology/doors/) in front, [suicide doors](../../../../technology/doors/) on the second row, and a [bootlid](../../../../technology/doors/#bootlid) in the rear. Powered doors are a standard function for the side doors.
 

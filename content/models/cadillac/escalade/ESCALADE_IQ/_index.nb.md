@@ -75,7 +75,7 @@ Den maksimale regenerative effekten er 400 kW.
 
 ## Eksteriør
 
-Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
+Cadillac ESCALADE IQ, med dimensjoner på 5697 mm i lengde, 2167 mm i bredde og 1934 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Elektriske dører er standard funksjon for sidedørene.
 

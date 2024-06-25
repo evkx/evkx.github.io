@@ -91,7 +91,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-Puedes elegir entre 9 colores de pintura diferentes al pedir este modelo.
+El Rivian R1S Quad-Motor AWD MP, con dimensiones de 5100 mm de longitud,  mm de anchura y 1966 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. Puedes elegir entre 9 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 5 ruedas con tamaños de 20 a 22 pulgadas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero dividido](../../../../technology/doors/#split-tailgate) donde la parte inferior cae y la parte superior se levanta.
