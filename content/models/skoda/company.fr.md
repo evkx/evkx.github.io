@@ -5,16 +5,45 @@ weight: 1
 hidden: true
 ---
 
-Audi est un constructeur automobile allemand renommé spécialisé dans les véhicules de luxe. L'entreprise est membre du groupe Volkswagen et ses racines remontent au début du 20e siècle. Audi est connue pour son ingénierie avancée, sa conception sophistiquée et sa technologie innovante.
+Škoda Auto est un constructeur automobile renommé avec une riche histoire et un avenir prometteur dans l'industrie automobile. Basée à Mladá Boleslav, en République tchèque, Škoda a évolué depuis ses débuts modestes pour devenir un acteur clé sur le marché mondial. Cet article explore les jalons historiques de Škoda, ses installations de production, sa propriété et sa stratégie ambitieuse d'électrification.
 
-### Électrification
+## Une brève histoire
 
-Audi poursuit activement l'électrification dans le cadre de son engagement en faveur du développement durable et de l'innovation. La marque prévoit de proposer au moins un véhicule électrique dans tous les segments clés d’ici 2027. À partir de 2026, Audi n’introduirea sur le marché que des modèles entièrement électriques1. Il s’agit d’une étape importante dans le parcours d’Audi vers un avenir entièrement électrique, qui s’aligne sur l’abandon des combustibles fossiles par l’industrie automobile dans son ensemble.
+Les origines de Škoda Auto remontent à 1895, lorsque Václav Laurin et Václav Klement ont fondé Laurin & Klement à Mladá Boleslav. Initialement, l'entreprise se concentrait sur la production de bicyclettes, mais elle s'est rapidement orientée vers la fabrication de motos et, en 1905, a commencé à produire des automobiles. Au début du XXe siècle, Laurin & Klement est devenu un nom notable sur le marché automobile émergent.
 
-L'entreprise a également établi une feuille de route pour l'arrêt progressif de la production de véhicules équipés de moteurs à combustion interne (ICE). D’ici 2033, Audi vise à avoir fabriqué son dernier véhicule ICE. Cette transition souligne l’engagement d’Audi à réduire les émissions de carbone et à contribuer à un environnement plus propre.
+En 1925, Laurin & Klement a fusionné avec Škoda Works, un conglomérat industriel, et a été rebaptisé Škoda Auto. Cette fusion a marqué le début d'une nouvelle ère, Škoda devenant un nom important dans le paysage automobile européen. L'entreprise a été nationalisée après la Seconde Guerre mondiale et est restée propriété de l'État jusqu'à la chute du communisme en Europe de l'Est.
 
-### Quartier général
+Le moment crucial dans l'histoire moderne de Škoda est survenu en 1991, lorsque le groupe Volkswagen a acquis une participation dans l'entreprise. En 2000, Volkswagen était devenu le propriétaire unique, intégrant Škoda dans son vaste portefeuille de marques automobiles. Cette acquisition a apporté des investissements significatifs et des avancées technologiques, propulsant Škoda vers de nouveaux sommets.
 
-Le siège social d’Audi est situé à Ingolstadt, en Allemagne. Cette ville est le cœur des opérations d’Audi depuis de nombreuses années et continue d’être la plaque tournante de la planification stratégique, du développement et de la fabrication de la marque.
+## Installations de production
 
-L’approche d’Audi en matière d’électrification et son engagement en faveur de l’innovation et du développement durable en font un acteur clé de l’avenir de l’industrie automobile. Avec une stratégie claire et une concentration sur la mobilité électrique, Audi est prête à rester à la pointe de l’excellence automobile.
+Les principales installations de production de Škoda Auto se trouvent en République tchèque, avec des usines importantes à :
+
+- Mladá Boleslav : Le siège et l'usine principale de fabrication, produisant une large gamme de modèles Škoda.
+- Kvasiny : Spécialisée dans la production de modèles plus grands, y compris les SUV.
+- Vrchlabí : Axée sur la production de transmissions et d'autres composants.
+
+Au-delà de son pays d'origine tchèque, Škoda a établi des sites de production internationaux pour répondre à la demande mondiale. Ces installations se trouvent en :
+
+- Inde
+- Chine
+- Russie
+- Slovaquie
+- Ukraine
+
+Cette présence mondiale permet à Škoda de desservir une gamme diversifiée de marchés et de maintenir une forte présence internationale.
+
+## Propriété
+
+Škoda Auto est entièrement détenue par le groupe Volkswagen, l'un des plus grands et des plus influents conglomérats automobiles du monde. Cette propriété a donné à Škoda accès à une technologie de pointe, à des ressources de recherche et développement étendues et à un réseau de distribution mondial. La synergie avec Volkswagen a été cruciale pour la croissance et le succès de Škoda au cours des dernières décennies.
+
+## Stratégie d'électrification
+
+Alors que l'industrie automobile subit une transformation vers la durabilité, Škoda Auto est à l'avant-garde de ce mouvement. L'entreprise a élaboré une stratégie ambitieuse d'électrification, en ligne avec l'engagement plus large du groupe Volkswagen à réduire les émissions de carbone et à promouvoir la mobilité verte.
+
+- Modèles électriques : En 2020, Škoda a lancé l'Enyaq iV, son premier SUV entièrement électrique. Ce modèle représente le début de la gamme de véhicules électriques (VE) de Škoda.
+- Plans futurs : Škoda vise à ce que 50-70% de ses ventes en Europe soient entièrement électriques d'ici 2030. Cet objectif souligne l'engagement de l'entreprise à passer à un avenir durable.
+- Investissements : Des investissements significatifs sont réalisés dans la technologie des VE, les infrastructures et les initiatives de durabilité. Škoda se concentre sur le développement de nouveaux modèles électriques, l'amélioration de la technologie des batteries et l'expansion des réseaux de recharge.
+- Plateformes : L'entreprise utilise la plateforme MEB (Modular Electric Toolkit) du groupe Volkswagen pour concevoir et produire de nouveaux véhicules électriques. Cette plateforme permet une production de VE polyvalente et efficace, garantissant une haute qualité et des performances élevées.
+
+L'engagement de Škoda Auto envers l'électrification reflète une vision stratégique qui équilibre innovation, durabilité et demandes du marché. Alors que l'entreprise continue d'évoluer, elle est prête à mener la transition mondiale vers la mobilité électrique.
