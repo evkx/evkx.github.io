@@ -19,9 +19,10 @@ The pivotal moment in Škoda's modern history came in 1991, when the Volkswagen 
 
 Škoda Auto's primary production facilities are located in the Czech Republic, with major plants in:
 
-Mladá Boleslav: The headquarters and main manufacturing plant, producing a wide range of Škoda models.
-Kvasiny: Specializes in producing larger models, including SUVs.
-Vrchlabí: Focuses on producing transmissions and other components.
+- [Mladá Boleslav:](https://www.google.com/maps/@50.4225152,14.9183048,485m/data=!3m1!1e3?entry=ttu) The headquarters and main manufacturing plant, producing a wide range of Škoda models.
+- [Kvasiny:](https://www.google.com/maps/place/%C5%A0koda+Auto+Kvasiny/@50.2055888,16.2552899,1033m/data=!3m1!1e3!4m6!3m5!1s0x470e757f80759a77:0xb5180a3860d287b0!8m2!3d50.2054632!4d16.256944!16s%2Fg%2F113dk66_1?entry=ttu) Specializes in producing larger models, including SUVs.
+- Vrchlabí: Focuses on producing transmissions and other components.
+
 Beyond its Czech homeland, Škoda has established international production sites to meet global demand. These facilities are located in:
 
 - India
@@ -40,8 +41,9 @@ This global footprint allows Škoda to serve a diverse range of markets and main
 
 As the automotive industry undergoes a transformative shift towards sustainability, Škoda Auto is at the forefront of this movement. The company has laid out an ambitious strategy for electrification, aligning with the Volkswagen Group's broader commitment to reducing carbon emissions and promoting green mobility.
 
-Electric Models: In 2020, Škoda launched the Enyaq iV, its first fully electric SUV. This model represents the beginning of Škoda's electric vehicle (EV) lineup.
-Future Plans: Škoda aims for 50-70% of its European sales to be fully electric by 2030. This target underscores the company's dedication to transitioning to a sustainable future.
-Investment: Significant investments are being made in EV technology, infrastructure, and sustainability initiatives. Škoda is focused on developing new electric models, improving battery technology, and expanding charging networks.
-Platforms: The company is leveraging the Volkswagen Group's MEB (Modular Electric Toolkit) platform to design and produce new electric vehicles. This platform allows for versatile and efficient EV production, ensuring high quality and performance.
+- Electric Models: In 2020, Škoda launched the Enyaq iV, its first fully electric SUV. This model represents the beginning of Škoda's electric vehicle (EV) lineup.
+- Future Plans: Škoda aims for 50-70% of its European sales to be fully electric by 2030. This target underscores the company's dedication to transitioning to a sustainable future.
+- Investment: Significant investments are being made in EV technology, infrastructure, and sustainability initiatives. Škoda is focused on developing new electric models, improving battery technology, and expanding charging networks.
+- Platforms: The company is leveraging the Volkswagen Group's MEB (Modular Electric Toolkit) platform to design and produce new electric vehicles. This platform allows for versatile and efficient EV production, ensuring high quality and performance.
+
 Škoda Auto's commitment to electrification reflects a strategic vision that balances innovation, sustainability, and market demands. As the company continues to evolve, it remains poised to lead the charge in the global transition to electric mobility.
