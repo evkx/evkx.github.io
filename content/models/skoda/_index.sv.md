@@ -34,4 +34,16 @@ SKODA Enyaq iV är en SUV/Coupe SUV tillgänglig i 12 varianter.
 </div>
         </div>
     </div>
-</div></div>
+</div><div class="accordion-item">
+    <h2 class="accordion-header">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#module-company" aria-expanded="true" aria-controls="module-company">
+            Om varumärket
+        </button>
+    </h2>
+    <div id="module-company" class="accordion-collapse collapse">
+        <div class="accordion-body">
+{{% insert "content/models/skoda/company.sv.md" %}}
+</div>
+</div>
+</div>
+</div>
