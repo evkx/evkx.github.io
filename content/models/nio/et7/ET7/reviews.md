@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NIO eT7 - En komfortkonge</h3>
+<p>Nybiltester: 26.06.2024</p>
+
+{{< youtube OAyrGoXu06Q >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Nio ET7 | AWFUL AND GREAT....</h3>
 <p>Kris Rifa: 21.05.2023</p>
 

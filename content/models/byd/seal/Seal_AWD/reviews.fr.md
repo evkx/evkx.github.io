@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Seal interior review</h3>
+<p>Bjørn Nyland: 26.06.2024</p>
+
+{{< youtube 6O68aVQ8ewk >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>BYD Seal charging test vs Tesla, Polestar and MG</h3>
 <p>Bjørn Nyland: 24.06.2024</p>
 

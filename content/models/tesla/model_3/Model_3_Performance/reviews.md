@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The 2024 Tesla Model 3 Performance Is The Other M3 For A Techie Driving Enthusiast</h3>
+<p>Redline Reviews: 26.06.2024</p>
+
+{{< youtube DeHme1oILtw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The NEW Tesla Model 3 Performance Is Finally The Car It Should Have Been</h3>
 <p>Fully Charged Show: 25.06.2024</p>
 
