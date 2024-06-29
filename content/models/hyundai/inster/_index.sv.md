@@ -1,17 +1,17 @@
 ---
-title: Hyundai Inster
-linktitle: "Inster"
-description: "Se nedan för alla varianter av Hyundai Inster"
+title: Hyundai INSTER
+linktitle: "INSTER"
+description: "Se nedan för alla varianter av Hyundai INSTER"
 weight: 30
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-<h3>Hyundai Inster Long Range</h3>
+<h3>Hyundai INSTER Long Range</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="inster_long_range/"><img src="https://media.evkx.net/multimedia/models/hyundai/inster/inster_long_range/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Inster Long Range" ></a>
-<i class="bi bi-battery-full"></i> 51 kWh <i class="bi bi-ev-station"></i> 100 kW 
+			<a href="inster_long_range/"><img src="https://media.evkx.net/multimedia/models/hyundai/inster/inster_long_range/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="INSTER Long Range" ></a>
+<i class="bi bi-battery-full"></i> 51 kWh <i class="bi bi-ev-station"></i> 80 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

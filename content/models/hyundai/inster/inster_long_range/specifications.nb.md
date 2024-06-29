@@ -1,15 +1,15 @@
 ---
-title: Hyundai Inster Long Range spesifikasjoner
+title: Hyundai INSTER Long Range spesifikasjoner
 linktitle: "Spesifikasjoner"
-description: "EVKX.net gir deg alle spesifikasjonene for Hyundai Inster Long Range."
+description: "EVKX.net gir deg alle spesifikasjonene for Hyundai INSTER Long Range."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/main_1_st.jpg" title="Hyundai Inster Long Range" width="3000" height="2000" >}}
-EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai Inster Long Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Hyundai Inster Long Range, gå til [chargeinfo](../chargecurve/) for Hyundai Inster Long Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/main_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000" >}}
+EVKX.net søker å ha de mest komplette spesifikasjonene for Hyundai INSTER Long Range. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Hyundai INSTER Long Range, gå til [chargeinfo](../chargecurve/) for Hyundai INSTER Long Range med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ytelse
@@ -142,7 +142,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks DC-lading
 			</td>
 			<td>
-				100 kW
+				80 kW
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				1400 kg
+				1375 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				1750 kg
+				1700 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				350 kg
+				325 kg
 			</td>
 		</tr>
 		<tr>

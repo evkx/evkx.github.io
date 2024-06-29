@@ -1,7 +1,7 @@
 ---
-title: Hyundai Inster Long Range plage et consommation
+title: Hyundai INSTER Long Range plage et consommation
 linktitle: "Plage"
-description: "Vous trouverez ici tous les détails sur l'autonomie et la consommation pour Hyundai Inster Long Range."
+description: "Vous trouverez ici tous les détails sur l'autonomie et la consommation pour Hyundai INSTER Long Range."
 weight: 2
 hidden: true
 navicon: bi-file-earmark-bar-graph
@@ -176,7 +176,7 @@ Le tableau ci-dessous montre quelques exemples réels estimés en parfait état 
 </div>
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Hyundai Inster Long Range </strong>
+<strong><i class="bi-arrow-left"></i> Hyundai INSTER Long Range </strong>
 </a>
 <a href="../chargingcurve/" class="text-decoration-none text-black float-end">
 <strong>Courbe de charge <i class="bi-arrow-right"></i></strong>

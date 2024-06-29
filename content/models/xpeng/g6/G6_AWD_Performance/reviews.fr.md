@@ -10,7 +10,7 @@ Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../..
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Amsterdam to Stockholm in a Xpeng G6: Beating our expectations!</h3>
-<p>Only Electric: 29.06.2024</p>
+<p>Only Electric: 20.06.2024</p>
 
 {{< youtube N99Gpd3dKgY >}}
 

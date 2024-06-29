@@ -1,5 +1,5 @@
 ---
-title: Hyundai Inster Long Range reseñas
+title: Hyundai INSTER Long Range reseñas
 linktitle: "Reseñas"
 description: "EVKX.net te ayuda a encontrar la mejor reseña para este modelo."
 weight: 6
@@ -27,6 +27,6 @@ Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../
 <strong><i class="bi-arrow-left"></i>Galería  </strong>
 </a>
 <a href="../" class="text-decoration-none text-black float-end">
-<strong>Hyundai Inster Long Range <i class="bi-arrow-right"></i></strong>
+<strong>Hyundai INSTER Long Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>

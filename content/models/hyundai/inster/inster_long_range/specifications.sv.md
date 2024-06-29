@@ -1,15 +1,15 @@
 ---
-title: Hyundai Inster Long Range Specifikationer
+title: Hyundai INSTER Long Range Specifikationer
 linktitle: "Specifikationer"
-description: "EVKX.net ger dig alla specifikationer för Hyundai Inster Long Range."
+description: "EVKX.net ger dig alla specifikationer för Hyundai INSTER Long Range."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/main_1_st.jpg" title="Hyundai Inster Long Range" width="3000" height="2000" >}}
-EVKX.net vill ha de mest kompletta specifikationerna för Hyundai Inster Long Range. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Hyundai Inster Long Range, gå till [chargeinfo](../chargecurve/) för Hyundai Inster Long Range med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
+{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/main_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000" >}}
+EVKX.net vill ha de mest kompletta specifikationerna för Hyundai INSTER Long Range. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Hyundai INSTER Long Range, gå till [chargeinfo](../chargecurve/) för Hyundai INSTER Long Range med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
 ## Prestanda
@@ -142,7 +142,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max laddningskapacitet
 			</td>
 			<td>
-				100 kW
+				80 kW
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				1400 kg
+				1375 kg
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				1750 kg
+				1700 kg
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				350 kg
+				325 kg
 			</td>
 		</tr>
 		<tr>

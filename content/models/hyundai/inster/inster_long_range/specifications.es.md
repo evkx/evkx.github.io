@@ -1,15 +1,15 @@
 ---
-title: Hyundai Inster Long Range especificaciones
+title: Hyundai INSTER Long Range especificaciones
 linktitle: "Especificaciones"
-description: "EVKX.net le brinda las especificaciones completas para Hyundai Inster Long Range."
+description: "EVKX.net le brinda las especificaciones completas para Hyundai INSTER Long Range."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/main_1_st.jpg" title="Hyundai Inster Long Range" width="3000" height="2000" >}}
-EVKX.net busca tener las especificaciones más completas para Hyundai Inster Long Range. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Hyundai Inster Long Range, visite [chargeinfo](../chargecurve/) para Hyundai Inster Long Range con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
+{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/main_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000" >}}
+EVKX.net busca tener las especificaciones más completas para Hyundai INSTER Long Range. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Hyundai INSTER Long Range, visite [chargeinfo](../chargecurve/) para Hyundai INSTER Long Range con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 
 ## Rendimiento
@@ -142,7 +142,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga CC máxima
 			</td>
 			<td>
-				100 kW
+				80 kW
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				1400 kg (3086 lbs)
+				1375 kg (3031 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				1750 kg (3858 lbs)
+				1700 kg (3748 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				350 kg (772 lbs)
+				325 kg (717 lbs)
 			</td>
 		</tr>
 		<tr>

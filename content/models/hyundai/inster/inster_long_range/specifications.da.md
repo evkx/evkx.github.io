@@ -1,15 +1,15 @@
 ---
-title: Hyundai Inster Long Range specifikationer
+title: Hyundai INSTER Long Range specifikationer
 linktitle: "Specifikationer"
-description: "EVKX.net giver dig de fulde specifikationer for Hyundai Inster Long Range."
+description: "EVKX.net giver dig de fulde specifikationer for Hyundai INSTER Long Range."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/main_1_st.jpg" title="Hyundai Inster Long Range" width="3000" height="2000" >}}
-EVKX.net søger at have de mest komplette specifikationer for Hyundai Inster Long Range. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Hyundai Inster Long Range, besøg [chargeinfo](../chargecurve/) for Hyundai Inster Long Range med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
+{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/main_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000" >}}
+EVKX.net søger at have de mest komplette specifikationer for Hyundai INSTER Long Range. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Hyundai INSTER Long Range, besøg [chargeinfo](../chargecurve/) for Hyundai INSTER Long Range med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Ydeevne
@@ -142,7 +142,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max DC-opladning
 			</td>
 			<td>
-				100 kW
+				80 kW
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				1400 kg (3086 lbs)
+				1375 kg (3031 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal totalvægt
 			</td>
 			<td>
-				1750 kg (3858 lbs)
+				1700 kg (3748 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				350 kg (772 lbs)
+				325 kg (717 lbs)
 			</td>
 		</tr>
 		<tr>

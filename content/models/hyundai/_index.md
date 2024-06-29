@@ -18,15 +18,15 @@ weight: 30
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
             <div class="accordion-body">
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
-        <h3>Hyundai Inster</h3>
+        <h3>Hyundai INSTER</h3>
         <div class="row">
             <div class="col col-12 col-md-6">
                 <a href="inster">
-                    <img src="https://media.evkx.net/multimedia/models/hyundai/inster/inster_long_range/main_1_st.jpg" class="img-fluid" alt="Hyundai Inster" >
+                    <img src="https://media.evkx.net/multimedia/models/hyundai/inster/inster_long_range/main_1_st.jpg" class="img-fluid" alt="Hyundai INSTER" >
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Hyundai Inster is a hatcback available in 1 variants.
+Hyundai INSTER is a hatcback available in 1 variants.
 </p>
 	<a href="inster/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

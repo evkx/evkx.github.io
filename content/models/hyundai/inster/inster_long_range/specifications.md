@@ -1,15 +1,15 @@
 ---
-title: Hyundai Inster Long Range specifications
+title: Hyundai INSTER Long Range specifications
 linktitle: "Specifications"
-description: "EVKX.net gives you the full specifications for Hyundai Inster Long Range."
+description: "EVKX.net gives you the full specifications for Hyundai INSTER Long Range."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/main_1_st.jpg" title="Hyundai Inster Long Range" width="3000" height="2000" >}}
-EVKX.net seeks to have the most complete specifications for Hyundai Inster Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai Inster Long Range, visit the [chargeinfo](../chargecurve/) for Hyundai Inster Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
+{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/main_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000" >}}
+EVKX.net seeks to have the most complete specifications for Hyundai INSTER Long Range. Click on image above for [full article](../), visit the [image gallery](../gallery/) for high-res images of Hyundai INSTER Long Range, visit the [chargeinfo](../chargecurve/) for Hyundai INSTER Long Range with chargecurve, vist [extended range info](../rangeandconsumption/) for real world ranges.
 
 
 ## Performance
@@ -142,7 +142,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/charging/">Max DC charging</a>
 			</td>
 			<td>
-				100 kW
+				80 kW
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				1400 kg (3086 lbs)
+				1375 kg (3031 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				1750 kg (3858 lbs)
+				1700 kg (3748 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				350 kg (772 lbs)
+				325 kg (717 lbs)
 			</td>
 		</tr>
 		<tr>

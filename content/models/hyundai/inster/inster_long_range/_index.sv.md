@@ -1,7 +1,7 @@
 ---
-title: Hyundai Inster Long Range
-linktitle: "Inster Long Range"
-description: "Hyundai Inster Long Range är en helelektrisk halvkombi med en WLTP räckvidd på upp till 355 km. EVKX.net har alla detaljer."
+title: Hyundai INSTER Long Range
+linktitle: "INSTER Long Range"
+description: "Hyundai INSTER Long Range är en helelektrisk halvkombi med en WLTP räckvidd på upp till 355 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,9 +11,9 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/main_1_st.jpg" title="Hyundai Inster Long Range" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/main_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
-Vi har delat in vår beskrivning av Hyundai Inster Long Range i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
+Vi har delat in vår beskrivning av Hyundai INSTER Long Range i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
 - [Ytelse](#prestanda)
 - [Batteri, räckvidd och laddning](#batteri-räckvidd-och-laddning)
@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Hyundai Inster Long Range i avsnitt. Om du v
 
 ## Prestanda
 
-Hyundai Inster Long Range erbjuder grundläggande prestanda med en maximal effekt på 84,5 kW (115 hk) och ett totalt vridmoment på 147 Nm. Den accelererar från 0 till 100 km/h på 10,6 sekunder och når en topphastighet på 150 km/h, vilket är mer jämförbart med instegsmodeller av traditionella förbränningsmotorfordon.
+Hyundai INSTER Long Range erbjuder grundläggande prestanda med en maximal effekt på 84,5 kW (115 hk) och ett totalt vridmoment på 147 Nm. Den accelererar från 0 till 100 km/h på 10,6 sekunder och når en topphastighet på 150 km/h, vilket är mer jämförbart med instegsmodeller av traditionella förbränningsmotorfordon.
 
 ## Batteri, räckvidd och laddning
 
@@ -37,9 +37,9 @@ Högkapacitetsbatteriet har en bruttokapacitet på 51 kWh och en nettoanvändbar
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 355 km (199 miles), med en energiförbrukningshastighet på 13,8 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 100 kW. En full laddning från 0 - 100 % tar 69 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 67%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 64kW. Varje laddningssession tar 29 minuter och 55 sekunder.
+Maximal DC-laddningshastighet är 80 kW. En full laddning från 0 - 100 % tar 68 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 67%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 64kW. Varje laddningssession tar 29 minuter och 50 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 11 timmar och 10 minuter. Denna resa skulle kräva två laddningsstopp från 11% till 67%, med en total laddningstid på 171 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 23 kWh/100 km, skulle resan ta ungefär 11 timmar och 10 minuter. Denna resa skulle kräva två laddningsstopp från 11% till 67%, med en total laddningstid på 170 minuter.
 
 ### Ombordladdare
 
@@ -55,7 +55,7 @@ Platsen för laddningsporten är på [fronten](../../../../technology/charging/c
 
 ## Drivlina
 
-Hyundai Inster Long Range har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
+Hyundai INSTER Long Range har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
 
 
 ### Hjulupphängning
@@ -64,7 +64,7 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 345mm och de bakre skivorna är 345mm.
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 254mm och de bakre skivorna är 240mm.
 
 
 ### Regenerativ bromsning
@@ -73,7 +73,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ## Exteriör
 
-Hyundai Inster Long Range, med dimensioner på 3825 mm i längd, 1610 mm i bredd och 1610 mm i höjd, tillhör mini-segmentet av bilar, även kallat stadsvagnar eller A-segmentbilar. Detta är den minsta klassen av bilar, designade främst för stadsmiljöer, och de erbjuder en kompakt storlek, utmärkt manövrerbarhet och ekonomisk drift. Du kan välja mellan 9 olika färgfärger när du beställer den här modellen.
+Hyundai INSTER Long Range, med dimensioner på 3825 mm i längd, 1610 mm i bredd och 1610 mm i höjd, tillhör mini-segmentet av bilar, även kallat stadsvagnar eller A-segmentbilar. Detta är den minsta klassen av bilar, designade främst för stadsmiljöer, och de erbjuder en kompakt storlek, utmärkt manövrerbarhet och ekonomisk drift. Du kan välja mellan 9 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 3 hjul i storlek från 15 till 17 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
@@ -83,7 +83,7 @@ Du kan välja mellan två typer av tak på denna modell. Standardinställningen 
 Du kan beställa bilen med tonade rutor från B-stolpen bakåt.
 
 
-{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/exterior_2_st.jpg" title="Hyundai Inster Long Range" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/exterior_2_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -96,7 +96,7 @@ Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan v�
 
 ### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Hyundai Inster Long Range.
+Endast en typ av framsäte är tillgänglig i Hyundai INSTER Long Range.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -115,7 +115,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
 
-{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/frontseats_1_st.jpg" title="Hyundai Inster Long Range" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/frontseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 
 ### Säten på andra raden
@@ -134,7 +134,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
 
-{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/secondrowseats_1_st.jpg" title="Hyundai Inster Long Range" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/secondrowseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 
 Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan styra ljudsystemet med knappar på ratten.
@@ -145,7 +145,7 @@ Det finns ett tillgängligt klimatsystem. Klimatsystemet 1-zone stöder endast k
 
 ## Tröst
 
-Hyundai Inster Long Range har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
+Hyundai INSTER Long Range har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
 
 Nyckelfritt tillträde ger tillgång till bilen utan att behöva hitta nyckeln. Så länge du har den med dig kommer dörrarna att öppnas.
 
@@ -163,14 +163,14 @@ Skärmen  bakom ratten integrerad i instrumentbrädan är 10,3 tum. Skärmen tou
 Modellen är inte tillgänglig med head-up display.
 
 
-{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/screens_1_st.jpg" title="Hyundai Inster Long Range" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/screens_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för Hyundai Inster Long Range. Med Bose Premium Sound System får du sju högtalare med en maximal systemeffekt på  watt.
+En typ av ljudsystem är tillgänglig för Hyundai INSTER Long Range. Med Bose Premium Sound System får du sju högtalare med en maximal systemeffekt på  watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Hyundai Inster Long Range Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Hyundai INSTER Long Range Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
 
 Modellen har 4 USB-C-anslutningar som standard.
 ## Ljus
@@ -178,20 +178,20 @@ Modellen har 4 USB-C-anslutningar som standard.
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
 
 
-{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/headlights_1_st.jpg" title="Hyundai Inster Long Range" width="3000" height="2000"  >}}
+{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/headlights_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 ## Avancerade förarassistanssystem
 
-Hyundai Inster Long Range har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+Hyundai INSTER Long Range har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 ### Säkerhetssystem
 
 
 
-Hyundai Inster Long Range har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
+Hyundai INSTER Long Range har ett [**ABS-bromssystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Detta system hjälper till att förhindra att ett fordons hjul låser sig under inbromsning.
 
-Hyundai Inster Long Range har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
+Hyundai INSTER Long Range har ett [**elektronisk stabilitetskontroll**](../../../../technology/driverassistance/electronicstabilitycontrol/) vilket standard-system är utformat för att förbättra ett fordons stabilitet och hantering under plötsliga manövrar eller halt väglag.
 
-Hyundai Inster Long Range har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
+Hyundai INSTER Long Range har en [**filhållningsassistent**](../../../../technology/driverassistance/lanekeepingassist/) som standard-system. Detta system bidrar för att förhindra att bilen lämnar körfältet. Dessutom har den ett [**filavvikelsevarning**](../../../../technology/driverassistance/lanedeparturewarning/) system som varnar föraren om fordonet lämnar körfältet.
 
 [**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) är standard förarassistanssystem som hjälper förare att upptäcka mötande trafik när du korsar en korsning eller svänger åt vänster eller höger från ett stoppat läge.
 
@@ -199,11 +199,13 @@ Hyundai Inster Long Range har en [**filhållningsassistent**](../../../../techno
 
 [**Forward Collision Warning**](../../../../technology/driverassistance/forwardcollisionwarning/) är ett standard förarassistanssystem som hjälper förare att undvika eller mildra huvudet -vid kollisioner.
 
-Hyundai Inster Long Range har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
+Hyundai INSTER Long Range har [**automatisk nödbroms**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Detta system hjälper till att förhindra eller mildra kollisioner genom att ansätta bromsarna autonomt om föraren inte reagerar på en förestående kollision.
 
 [**Automaticemergencysteering**](../../../../technology/driverassistance/automaticemergencysteering/) är standard förarassistanssystem utformat för att hjälpa förare att undvika kollisioner när det ska automatiskt kontrollera fordonet i en nödsituation.
 
 [**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är standard förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
+
+[**Utfartsvarning**](../../../../technology/driverassistance/exitwarning/) är standard förarassistanssystem utformat för att varna passagerare från att öppna dörrar om det finns risk att träffa något.
 
 ### Körautomation
 
@@ -222,15 +224,18 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 280 liter. Med baksätet nedfällt är det 1050 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 1750 kg, och med basvikten på 1400 kg kan du lasta maximalt 350 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 280 liter. Med baksätet nedfällt är det 1050 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 1700 kg, och med basvikten på 1375 kg kan du lasta maximalt 325 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
 
 
-{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/trunk_1_st.jpg" title="Hyundai Inster Long Range" width="3000" height="2000"  >}}
-<div class="mt-3 mb-3">
+{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/trunk_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
+
+### Tillgänglighet och pris
+
+Denna modell hade världspremiär 27.06.2024 och leveranser förväntas starta om January 2025.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Hyundai Inster </strong>
+<strong><i class="bi-arrow-left"></i> Hyundai INSTER </strong>
 </a>
 <a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
 <strong>Räckvidd <i class="bi-arrow-right"></i></strong>

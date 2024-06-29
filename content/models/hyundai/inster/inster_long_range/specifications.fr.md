@@ -1,15 +1,15 @@
 ---
-title: Hyundai Inster Long Range spécifications
+title: Hyundai INSTER Long Range spécifications
 linktitle: "Spécifications"
-description: "EVKX.net vous donne les spécifications complètes de Hyundai Inster Long Range."
+description: "EVKX.net vous donne les spécifications complètes de Hyundai INSTER Long Range."
 weight: 4
 hidden: true
 navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/main_1_st.jpg" title="Hyundai Inster Long Range" width="3000" height="2000" >}}
-EVKX.net cherche à avoir les spécifications les plus complètes pour Hyundai Inster Long Range. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Hyundai Inster Long Range, visitez les [chargeinfo](../chargecurve/) pour Hyundai Inster Long Range avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
+{{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/main_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000" >}}
+EVKX.net cherche à avoir les spécifications les plus complètes pour Hyundai INSTER Long Range. Cliquez sur l'image ci-dessus pour [article complet](../), visitez la [galerie d'images](../gallery/) pour des images haute résolution de Hyundai INSTER Long Range, visitez les [chargeinfo](../chargecurve/) pour Hyundai INSTER Long Range avec chargecurve, visitez [extended range info](../rangeandconsumption/) pour les plages du monde réel.
 
 
 ## Performances
@@ -142,7 +142,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge CC maximale
 			</td>
 			<td>
-				100 kW
+				80 kW
 			</td>
 		</tr>
 		<tr>
@@ -315,7 +315,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				1400 kg (3086 lbs)
+				1375 kg (3031 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -323,7 +323,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				1750 kg (3858 lbs)
+				1700 kg (3748 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -331,7 +331,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				350 kg (772 lbs)
+				325 kg (717 lbs)
 			</td>
 		</tr>
 		<tr>

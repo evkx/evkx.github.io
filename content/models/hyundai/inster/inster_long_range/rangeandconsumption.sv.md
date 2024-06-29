@@ -1,7 +1,7 @@
 ---
-title: Hyundai Inster Long Range räckvidd och förbrukning
+title: Hyundai INSTER Long Range räckvidd och förbrukning
 linktitle: "Räckvidd"
-description: "Här hittar du all information om räckvidd och förbrukning för Hyundai Inster Long Range."
+description: "Här hittar du all information om räckvidd och förbrukning för Hyundai INSTER Long Range."
 weight: 2
 hidden: true
 navicon: bi-file-earmark-bar-graph
@@ -176,7 +176,7 @@ Tabellen nedan visar några uppskattade verkliga exempel under perfekta förhål
 </div>
 <div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
-<strong><i class="bi-arrow-left"></i> Hyundai Inster Long Range </strong>
+<strong><i class="bi-arrow-left"></i> Hyundai INSTER Long Range </strong>
 </a>
 <a href="../chargingcurve/" class="text-decoration-none text-black float-end">
 <strong>Laddningskurva <i class="bi-arrow-right"></i></strong>

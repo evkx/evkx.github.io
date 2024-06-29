@@ -1,5 +1,5 @@
 ---
-title: Hyundai Inster Long Range tester
+title: Hyundai INSTER Long Range tester
 linktitle: "Tester"
 description: "EVKX.net hjelper deg å finne de beste testene og omtalene av denne modellen."
 weight: 6
@@ -27,6 +27,6 @@ Vi har samlet tester fra våre [favoritt elbiltestere](../../../../../guides/evr
 <strong><i class="bi-arrow-left"></i>Galleri  </strong>
 </a>
 <a href="../" class="text-decoration-none text-black float-end">
-<strong>Hyundai Inster Long Range <i class="bi-arrow-right"></i></strong>
+<strong>Hyundai INSTER Long Range <i class="bi-arrow-right"></i></strong>
 </a>
 </div>
