@@ -18,6 +18,21 @@ weight: 30
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
             <div class="accordion-body">
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Hyundai Inster</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="inster">
+                    <img src="https://media.evkx.net/multimedia/models/hyundai/inster/inster_long_range/main_1_st.jpg" class="img-fluid" alt="Hyundai Inster" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+Hyundai Inster er en hatcback tilgængelig i 1 varianter.
+</p>
+	<a href="inster/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
+		</div>
+	</div>
+</div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
         <h3>Hyundai Ioniq 5</h3>
         <div class="row">
             <div class="col col-12 col-md-6">

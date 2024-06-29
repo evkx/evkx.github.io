@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-fd194ba1
+  translation: Hyundai Inster Long Range er en helelektrisk kombi med en WLTP rekkevidde på opptil 355 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-e642da70
   translation: Citroën ë-C3 Aircross er en helelektrisk crossover med en WLTP rekkevidde på opptil 306 km. EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-b8575e72
   translation: Kia EV3 Long Range er en helelektrisk crossover med en WLTP rekkevidde på opptil 600 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-a70c1778
-  translation: Mercedes-EQ EQE 350+ SUV er en helelektrisk luksus-SUV med en WLTP rekkevidde på opptil 628 km. EVKX.net har alle detaljene.
 

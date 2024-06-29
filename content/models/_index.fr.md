@@ -362,7 +362,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="hyundai/"><img src="https://media.evkx.net/multimedia/models/hyundai/brandevs_st.jpg" class="img-fluid mb-2" alt="Hyundai" ></a>
 	<h2>Hyundai</h2>
 	<p>
-	Hyundai a 3 modèles avec un total de 7 variantes.
+	Hyundai a 4 modèles avec un total de 8 variantes.
 	</p>
 	<a href="hyundai/" class="btn btn-outline-primary" role="button">Aller à la Hyundai présentation du modèle EV</a>
 </div>

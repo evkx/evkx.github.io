@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-fd194ba1
+  translation: Hyundai Inster Long Range es un hatchback totalmente eléctrico con un WLTP alcance de hasta 355 km (221 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-e642da70
   translation: Citroën ë-C3 Aircross es un crossover totalmente eléctrico con un WLTP alcance de hasta 306 km (190 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-b8575e72
   translation: Kia EV3 Long Range es un crossover totalmente eléctrico con un WLTP alcance de hasta 600 km (373 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-a70c1778
-  translation: Mercedes-EQ EQE 350+ SUV es un SUV de lujo totalmente eléctrico con una autonomía WLTP de hasta 628 km (390 millas). EVKX.net tiene todos los detalles.
 
