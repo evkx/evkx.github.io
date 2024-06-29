@@ -33,7 +33,7 @@ Hyundai INSTER Standard Range kWh leverer grundlæggende ydeevne med en maksimal
 
 ## Batteri, rækkevidde og opladning
 
-Det højkapacitetsbatteri har en bruttokapacitet på 41 kWh og en nettoanvendelig kapacitet på 39 kWh, hvilket giver en buffer på 2 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 310 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
+Det højkapacitetsbatteri har en bruttokapacitet på 41 kWh og en nettoanvendelig kapacitet på 39 kWh, hvilket giver en buffer på 2 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 280 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 300 km, med et energiforbrugsrate på 13,0 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
@@ -92,7 +92,7 @@ Du kan bestille bilen med tonede ruder fra B-stolpen og bagpå.
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns.
+Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns. Sædeopsætningen er to sæder foran og to sæder bagved.
 
 ### Første række sæder
 

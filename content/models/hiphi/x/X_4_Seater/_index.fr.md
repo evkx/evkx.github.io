@@ -99,7 +99,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-
+La disposition des sièges est deux sièges à l'avant et deux sièges à l'arrière.
 
 ### Sièges de première rangée
 

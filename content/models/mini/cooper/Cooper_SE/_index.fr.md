@@ -90,7 +90,7 @@ Vous pouvez commander la voiture avec des vitres teintées à partir du montant 
 
 ## Intérieur
 
-
+La disposition des sièges est deux sièges à l'avant et deux sièges à l'arrière.
 
 ### Sièges de première rangée
 

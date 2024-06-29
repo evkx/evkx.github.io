@@ -92,7 +92,7 @@ Der er kun ét tag til denne model.
 
 ## Interiør
 
-
+Sædeopsætningen er to sæder foran og to sæder bagved.
 
 ### Første række sæder
 

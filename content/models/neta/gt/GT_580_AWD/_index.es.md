@@ -89,7 +89,7 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 
 ## Interior
 
-
+La disposición de los asientos es dos asientos delanteros y dos asientos traseros.
 
 ### Asientos de primera fila
 

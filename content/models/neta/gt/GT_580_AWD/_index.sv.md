@@ -89,7 +89,7 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 
 ## Interiör
 
-
+Sittlayouten är två säten fram och två säten bak.
 
 ### Framsäten
 

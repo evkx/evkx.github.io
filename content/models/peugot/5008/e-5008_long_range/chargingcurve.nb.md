@@ -12,6 +12,9 @@ navicon: bi-battery-charging
 [Full screen](/images/models/peugot/5008/e-5008_long_range/chargingcurve.svg)
 
 
+<div class="alert alert-primary" role="alert">
+Ladekurven for denne modellen er basert på produsentdata og innsikt i ladeytelsen til lignende batteripakker.
+</div>
 <table class="table table-striped border">
 <tbody>
 <tr>

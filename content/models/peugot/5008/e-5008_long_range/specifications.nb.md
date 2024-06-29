@@ -1021,6 +1021,7 @@ Interior.Seatlayout.OnlySix
 				Trafikkskiltgjenkjenning
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>

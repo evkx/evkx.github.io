@@ -1021,6 +1021,7 @@ Interior.Seatlayout.OnlySix
 				Traffic Sign Recognition
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>

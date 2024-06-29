@@ -99,7 +99,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-
+Seteoppsettet er to seter foran og to seter bak.
 
 ### Forseter
 

@@ -95,7 +95,7 @@ Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
 
 ## Interiør
 
-Du kan velge mellom ulike typer seter, setematerialer og interiørstil.
+Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteoppsettet er to seter foran og to seter bak.
 
 ### Forseter
 

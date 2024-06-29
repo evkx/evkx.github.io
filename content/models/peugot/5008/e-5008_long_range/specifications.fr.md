@@ -1021,6 +1021,7 @@ Interior.Seatlayout.OnlySix
 				Reconnaissance des panneaux de signalisation
 			</td>
 			<td>
+				Oui, équipement standard
 			</td>
 		</tr>
 		<tr>

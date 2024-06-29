@@ -99,7 +99,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-
+Sædeopsætningen er to sæder foran og to sæder bagved.
 
 ### Første række sæder
 

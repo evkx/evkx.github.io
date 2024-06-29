@@ -92,7 +92,7 @@ Det finns bara ett tak för denna modell.
 
 ## Interiör
 
-
+Sittlayouten är två säten fram och två säten bak.
 
 ### Framsäten
 

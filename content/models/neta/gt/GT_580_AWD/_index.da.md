@@ -89,7 +89,7 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 
 ## Interiør
 
-
+Sædeopsætningen er to sæder foran og to sæder bagved.
 
 ### Første række sæder
 

@@ -97,7 +97,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil.
+Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Sittlayouten är två säten fram och två säten bak.
 
 ### Framsäten
 

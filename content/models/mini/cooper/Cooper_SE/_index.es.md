@@ -90,7 +90,7 @@ Puedes pedir el auto con vidrios polarizados desde el pilar B y atrás.
 
 ## Interior
 
-
+La disposición de los asientos es dos asientos delanteros y dos asientos traseros.
 
 ### Asientos de primera fila
 

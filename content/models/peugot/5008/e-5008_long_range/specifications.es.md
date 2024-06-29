@@ -1021,6 +1021,7 @@ Interior.Seatlayout.OnlySix
 				Reconocimiento de señales de tráfico
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>

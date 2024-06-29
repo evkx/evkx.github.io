@@ -12,6 +12,9 @@ navicon: bi-battery-charging
 [Full screen](/images/models/peugot/5008/e-5008_long_range/chargingcurve.svg)
 
 
+<div class="alert alert-primary" role="alert">
+La courbe de charge de ce modèle est dérivée des données du fabricant et des informations sur la performance de charge de packs de batteries similaires.
+</div>
 <table class="table table-striped border">
 <tbody>
 <tr>

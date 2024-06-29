@@ -97,7 +97,7 @@ The windows from B-pillar and back are tinted.
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling.
+You can choose between different types of seats, seat materials, and interior styling. The seat layout is the two seats in front and two seats in the rear.
 
 ### First row seats
 

@@ -92,7 +92,7 @@ Il n'y a qu'un seul toit pour ce modèle.
 
 ## Intérieur
 
-
+La disposition des sièges est deux sièges à l'avant et deux sièges à l'arrière.
 
 ### Sièges de première rangée
 

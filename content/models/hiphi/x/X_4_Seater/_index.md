@@ -99,7 +99,7 @@ The windows from B-pillar and back are tinted.
 
 ## Interior
 
-
+The seat layout is the two seats in front and two seats in the rear.
 
 ### First row seats
 

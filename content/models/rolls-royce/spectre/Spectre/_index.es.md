@@ -95,7 +95,7 @@ Puedes pedir el auto con vidrios polarizados desde el pilar B y atrás.
 
 ## Interior
 
-Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior.
+Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior. La disposición de los asientos es dos asientos delanteros y dos asientos traseros.
 
 ### Asientos de primera fila
 

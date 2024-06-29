@@ -104,7 +104,7 @@ Du kan beställa bilen med tonade rutor från B-stolpen bakåt.
 
 ## Interiör
 
-
+Sittlayouten är två säten fram och två säten bak.
 
 ### Framsäten
 

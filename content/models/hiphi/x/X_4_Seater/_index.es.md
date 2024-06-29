@@ -99,7 +99,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-
+La disposición de los asientos es dos asientos delanteros y dos asientos traseros.
 
 ### Asientos de primera fila
 

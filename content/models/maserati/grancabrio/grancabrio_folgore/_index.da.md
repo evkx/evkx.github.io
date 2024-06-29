@@ -104,7 +104,7 @@ Du kan bestille bilen med tonede ruder fra B-stolpen og bagpå.
 
 ## Interiør
 
-
+Sædeopsætningen er to sæder foran og to sæder bagved.
 
 ### Første række sæder
 

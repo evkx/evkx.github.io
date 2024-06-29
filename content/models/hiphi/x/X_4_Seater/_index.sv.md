@@ -99,7 +99,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-
+Sittlayouten är två säten fram och två säten bak.
 
 ### Framsäten
 

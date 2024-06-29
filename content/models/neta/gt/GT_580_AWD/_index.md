@@ -89,7 +89,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 ## Interior
 
-
+The seat layout is the two seats in front and two seats in the rear.
 
 ### First row seats
 

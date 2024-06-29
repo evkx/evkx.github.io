@@ -33,7 +33,7 @@ Hyundai INSTER Standard Range erbjuder grundläggande prestanda med en maximal e
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 41 kWh och en nettoanvändbar kapacitet på 39 kWh, vilket ger en buffert på 2 kWh (4,9%) för batteriskydd. Med en nominell spänning på 310 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 41 kWh och en nettoanvändbar kapacitet på 39 kWh, vilket ger en buffert på 2 kWh (4,9%) för batteriskydd. Med en nominell spänning på 280 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 300 km (199 miles), med en energiförbrukningshastighet på 13,0 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -92,7 +92,7 @@ Du kan beställa bilen med tonade rutor från B-stolpen bakåt.
 
 ## Interiör
 
-Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner.
+Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner. Sittlayouten är två säten fram och två säten bak.
 
 ### Framsäten
 

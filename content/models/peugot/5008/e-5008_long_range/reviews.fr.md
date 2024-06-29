@@ -9,10 +9,17 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
-<h3>How the all-new Peugeot 3008 surprises in design and range! REVIEW e-3008</h3>
-<p>Autogefühl: 24.02.2024</p>
+<h3>Peugeot E-5008 Test Drive! BEST IN CLASS?</h3>
+<p>Kris Rifa: 27.06.2024</p>
 
-{{< youtube wklgg5Je618 >}}
+{{< youtube Tsb90YE_jFE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW Peugeot e-5008 review - electric SUV with SEVEN seats driven!</h3>
+<p>What Car?: 27.06.2024</p>
+
+{{< youtube w3OcVi7Robo >}}
 
 </div>
 <div class="mt-3 mb-3">
