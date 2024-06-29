@@ -73,7 +73,7 @@ Hyundai Inster Long Range har et forhjulstræksystem understøttet af en motor p
 
 ## Udvendig
 
-Den Hyundai Inster Long Range, med dimensioner på 3825 mm i længde, 1610 mm i bredde og 1610 mm i højde, tilhører B-segmentet af biler, også kendt som supermini. Det er en lille bil, der typisk er velegnet til bykørsel og tilbyder en god balance mellem effektivitet, størrelse og omkostninger. Du kan vælge mellem 17 forskellige malingsfarver, når du bestiller denne model.
+Den Hyundai Inster Long Range, med dimensioner på 3825 mm i længde, 1610 mm i bredde og 1610 mm i højde, tilhører mini-segmentet af biler, også kendt som bybiler eller A-segment biler. Det er den mindste klasse af biler, designet primært til bymiljøer og tilbyder en kompakt størrelse, fremragende manøvredygtighed og økonomisk drift. Du kan vælge mellem 17 forskellige malingsfarver, når du bestiller denne model.
 Derudover kan du vælge mellem 3 hjul med størrelser fra 15 til 17 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).

@@ -75,7 +75,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ## Exterior
 
-The Dacia Spring 65HP, with dimensions of 3701 mm in length, 1622 mm in width, and 1519 mm in height, falls into the B-segment car, often referred to as a supermini, is a small car typically suitable for urban driving, offering a good balance of efficiency, size, and cost. You can choose between 6 different paint colors when ordering this model.
+The Dacia Spring 65HP, with dimensions of 3701 mm in length, 1622 mm in width, and 1519 mm in height, falls into the Mini-segment cars, often referred to as city cars or A-segment cars, are the smallest class of cars. They are designed primarily for urban environments and offer a compact size, excellent maneuverability, and economical operation. . You can choose between 6 different paint colors when ordering this model.
 Additionally, you can choose between 2 wheels with sizes from 14 to 15 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

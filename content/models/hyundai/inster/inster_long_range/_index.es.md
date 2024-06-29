@@ -73,7 +73,7 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 
 ## Exterior
 
-El Hyundai Inster Long Range, con dimensiones de 3825 mm de longitud, 1610 mm de anchura y 1610 mm de altura, pertenece al segmento B de automóviles, también conocido como supermini. Es un coche pequeño típicamente adecuado para la conducción urbana, ofreciendo un buen equilibrio entre eficiencia, tamaño y costo. Puedes elegir entre 17 colores de pintura diferentes al pedir este modelo.
+El Hyundai Inster Long Range, con dimensiones de 3825 mm de longitud, 1610 mm de anchura y 1610 mm de altura, pertenece al segmento de coches mini, también conocidos como coches urbanos o coches del segmento A. Son la clase más pequeña de coches, diseñados principalmente para entornos urbanos y ofrecen un tamaño compacto, excelente maniobrabilidad y operación económica. Puedes elegir entre 17 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 3 ruedas con tamaños de 15 a 17 pulgadas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
