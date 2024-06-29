@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Seal Performance driving impressions and summary</h3>
+<p>Bjørn Nyland: 29.06.2024</p>
+
+{{< youtube kqYCaB6JT08 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>BYD Seal Performance 1000 km challenge</h3>
+<p>Bjørn Nyland: 27.06.2024</p>
+
+{{< youtube oAiJ8GezlGc >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>BYD Seal interior review</h3>
 <p>Bjørn Nyland: 26.06.2024</p>
 
