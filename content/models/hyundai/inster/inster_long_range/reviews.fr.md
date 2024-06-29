@@ -15,6 +15,13 @@ Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../..
 {{< youtube s125wXljonI >}}
 
 </div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The Hyundai Inster Is A Tiny Cheap EV With An Amazing Interior</h3>
+<p>Fully Charged Show: 27.06.2024</p>
+
+{{< youtube WT7swFbkdV4 >}}
+
+</div>
 <div class="mt-3 mb-3">
 <a href="../gallery/" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i>Galerie  </strong>

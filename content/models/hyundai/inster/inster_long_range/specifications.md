@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				14,7 kWh/100km
+				15,3 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -143,6 +143,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				100 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/battery/batterypack/">Nominal voltage</a>
+			</td>
+			<td>
+				310
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +977,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Head-up display
 			</td>
 			<td>
-				Yes, optional equipment
+				Not available
 			</td>
 		</tr>
 		<tr>

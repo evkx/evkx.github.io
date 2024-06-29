@@ -99,7 +99,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				14,7 kWh/100km
+				15,3 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -143,6 +143,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				100 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nominel spænding
+			</td>
+			<td>
+				310
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +977,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Head-up display
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>

@@ -33,7 +33,7 @@ The Hyundai Inster Long Range kWh provides basic performance with a maximum powe
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 51 kWh and a net usable capacity of 49 kWh, providing an 2 kWh buffer (3.9%) for battery protection. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
+The high-capacity battery has a gross capacity of 51 kWh and a net usable capacity of 49 kWh, providing an 2 kWh buffer (3.9%) for battery protection. With a nominal voltage of 310 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 355 km (221 miles), with an energy consumption rate of 13.8 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
@@ -64,7 +64,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ### Brakes
 
-
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 345mm, and the rear discs are 345mm.
 
 
 ### Regenerative braking
@@ -73,7 +73,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ## Exterior
 
-The Hyundai Inster Long Range, with dimensions of 3825 mm in length, 1610 mm in width, and 1610 mm in height, falls into the Mini-segment cars, often referred to as city cars or A-segment cars, are the smallest class of cars. They are designed primarily for urban environments and offer a compact size, excellent maneuverability, and economical operation. . You can choose between 17 different paint colors when ordering this model.
+The Hyundai Inster Long Range, with dimensions of 3825 mm in length, 1610 mm in width, and 1610 mm in height, falls into the Mini-segment cars, often referred to as city cars or A-segment cars, are the smallest class of cars. They are designed primarily for urban environments and offer a compact size, excellent maneuverability, and economical operation. . You can choose between 9 different paint colors when ordering this model.
 Additionally, you can choose between 3 wheels with sizes from 15 to 17 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
@@ -160,7 +160,7 @@ You have wireless charging for your phone.
 ## User interface and control
 
 The  screen behind the steering wheel integrated into the dashboard is 10.3 inches large. The touch screen on the dashboard's center is 10.3 inches large.
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+The model does not have a head-up display.
 
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/screens_1_st.jpg" title="Hyundai Inster Long Range" width="3000" height="2000"  >}}

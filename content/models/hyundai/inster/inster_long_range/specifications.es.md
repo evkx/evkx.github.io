@@ -99,7 +99,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP con pérdida de carga
 			</td>
 			<td>
-				14,7 kWh/100km
+				15,3 kWh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -143,6 +143,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				100 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tensión nominal
+			</td>
+			<td>
+				310
 			</td>
 		</tr>
 		<tr>
@@ -969,7 +977,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Pantalla frontal
 			</td>
 			<td>
-				Sí, equipo opcional
+				No disponible
 			</td>
 		</tr>
 		<tr>

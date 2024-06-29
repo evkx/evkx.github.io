@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Renault Scenic e-Tech 2024 - After one week! | Full Review</h3>
+<p>Only Electric: 29.06.2024</p>
+
+{{< youtube Tk2yqmR5uVM >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The New Renault Scenic Has Some Amazing Tricks!</h3>
 <p>Fully Charged Show: 19.09.2023</p>
 

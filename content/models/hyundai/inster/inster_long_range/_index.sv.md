@@ -33,7 +33,7 @@ Hyundai Inster Long Range erbjuder grundläggande prestanda med en maximal effek
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 51 kWh och en nettoanvändbar kapacitet på 49 kWh, vilket ger en buffert på 2 kWh (3,9%) för batteriskydd. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
+Högkapacitetsbatteriet har en bruttokapacitet på 51 kWh och en nettoanvändbar kapacitet på 49 kWh, vilket ger en buffert på 2 kWh (3,9%) för batteriskydd. Med en nominell spänning på 310 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
 Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 355 km (199 miles), med en energiförbrukningshastighet på 13,8 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
@@ -64,7 +64,7 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 
 ### Bromsar
 
-
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 345mm och de bakre skivorna är 345mm.
 
 
 ### Regenerativ bromsning
@@ -73,7 +73,7 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 
 ## Exteriör
 
-Hyundai Inster Long Range, med dimensioner på 3825 mm i längd, 1610 mm i bredd och 1610 mm i höjd, tillhör mini-segmentet av bilar, även kallat stadsvagnar eller A-segmentbilar. Detta är den minsta klassen av bilar, designade främst för stadsmiljöer, och de erbjuder en kompakt storlek, utmärkt manövrerbarhet och ekonomisk drift. Du kan välja mellan 17 olika färgfärger när du beställer den här modellen.
+Hyundai Inster Long Range, med dimensioner på 3825 mm i längd, 1610 mm i bredd och 1610 mm i höjd, tillhör mini-segmentet av bilar, även kallat stadsvagnar eller A-segmentbilar. Detta är den minsta klassen av bilar, designade främst för stadsmiljöer, och de erbjuder en kompakt storlek, utmärkt manövrerbarhet och ekonomisk drift. Du kan välja mellan 9 olika färgfärger när du beställer den här modellen.
 Dessutom kan du välja mellan 3 hjul i storlek från 15 till 17 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
@@ -160,7 +160,7 @@ Du har trådlös laddning för din telefon.
 ## Användargränssnitt och kontroll
 
 Skärmen  bakom ratten integrerad i instrumentbrädan är 10,3 tum. Skärmen touch i mitten av instrumentbrädan är 10,3 tum.
-En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
+Modellen är inte tillgänglig med head-up display.
 
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/screens_1_st.jpg" title="Hyundai Inster Long Range" width="3000" height="2000"  >}}

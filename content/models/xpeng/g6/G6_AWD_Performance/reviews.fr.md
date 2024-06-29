@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Amsterdam to Stockholm in a Xpeng G6: Beating our expectations!</h3>
+<p>Only Electric: 29.06.2024</p>
+
+{{< youtube N99Gpd3dKgY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>This Model Y Copycat Might Be Better Than The Original!</h3>
 <p>Fully Charged Show: 06.07.2023</p>
 

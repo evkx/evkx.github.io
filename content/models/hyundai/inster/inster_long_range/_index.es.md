@@ -33,7 +33,7 @@ El Hyundai Inster Long Range kWh ofrece un rendimiento básico con una potencia 
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 51 kWh y una capacidad neta utilizable de 49 kWh, proporcionando un buffer de 2 kWh (3,9%) para la protección de la batería. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
+La batería de alta capacidad tiene una capacidad bruta de 51 kWh y una capacidad neta utilizable de 49 kWh, proporcionando un buffer de 2 kWh (3,9%) para la protección de la batería. Con un voltaje nominal de 310 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 355 km, con una tasa de consumo de energía de 13,8 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
@@ -64,7 +64,7 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 
 ### Frenos
 
-
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 345 mm y los discos traseros de 345 mm.
 
 
 ### Frenado regenerativo
@@ -73,7 +73,7 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 
 ## Exterior
 
-El Hyundai Inster Long Range, con dimensiones de 3825 mm de longitud, 1610 mm de anchura y 1610 mm de altura, pertenece al segmento de coches mini, también conocidos como coches urbanos o coches del segmento A. Son la clase más pequeña de coches, diseñados principalmente para entornos urbanos y ofrecen un tamaño compacto, excelente maniobrabilidad y operación económica. Puedes elegir entre 17 colores de pintura diferentes al pedir este modelo.
+El Hyundai Inster Long Range, con dimensiones de 3825 mm de longitud, 1610 mm de anchura y 1610 mm de altura, pertenece al segmento de coches mini, también conocidos como coches urbanos o coches del segmento A. Son la clase más pequeña de coches, diseñados principalmente para entornos urbanos y ofrecen un tamaño compacto, excelente maniobrabilidad y operación económica. Puedes elegir entre 9 colores de pintura diferentes al pedir este modelo.
 Adicionalmente, puedes elegir entre 3 ruedas con tamaños de 15 a 17 pulgadas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
@@ -160,7 +160,7 @@ Tienes carga inalámbrica para tu teléfono.
 ## Interfaz de usuario y control
 
 La  pantalla detrás del volante integrado en el salpicadero mide 10,3 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 10,3 pulgadas de tamaño.
-Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+El modelo no tiene head-up display.
 
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/screens_1_st.jpg" title="Hyundai Inster Long Range" width="3000" height="2000"  >}}
