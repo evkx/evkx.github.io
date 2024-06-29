@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Hyundai INSTER es un hatchback disponible en 1 variantes.
+Hyundai INSTER es un hatchback disponible en 2 variantes.
 </p>
 	<a href="inster/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

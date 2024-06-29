@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-ae995052
+  translation: Hyundai INSTER Standard Range er en helelektrisk kombi med en WLTP rekkevidde på opptil 300 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-fd194ba1
   translation: Hyundai INSTER Long Range er en helelektrisk kombi med en WLTP rekkevidde på opptil 355 km. EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-6fb104c0
   translation: Porsche Taycan Turbo er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 630 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-b8575e72
-  translation: Kia EV3 Long Range er en helelektrisk crossover med en WLTP rekkevidde på opptil 600 km. EVKX.net har alle detaljene.
 

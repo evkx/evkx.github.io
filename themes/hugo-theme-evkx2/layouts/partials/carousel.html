@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/hyundai/inster/inster_standard_range/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/hyundai/inster/inster_standard_range/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Hyundai INSTER Standard Range</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-ae995052"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/hyundai/inster/inster_long_range/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/hyundai/inster/inster_long_range/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>SKODA ENYAQ 60</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-e15ac190"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/skoda/enyaq_iv/enyaq_85/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_85/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>SKODA ENYAQ 85</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-3c5df9ce"}}</p>
 				</div>
 			</div>
 		</div>

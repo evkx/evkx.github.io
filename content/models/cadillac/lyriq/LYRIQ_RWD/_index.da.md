@@ -90,7 +90,7 @@ Du kan vælge mellem to typer tage på denne model. Standardtaget har et stort p
 
 ## Interiør
 
-
+Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
 ### Første række sæder
 

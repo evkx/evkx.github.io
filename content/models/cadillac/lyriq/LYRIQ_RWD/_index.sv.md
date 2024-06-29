@@ -90,7 +90,7 @@ Du kan välja mellan två typer av tak på denna modell. Standardtaket har ett s
 
 ## Interiör
 
-
+Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
 ### Framsäten
 

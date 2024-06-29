@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Hyundai INSTER er en hatcback tilgængelig i 1 varianter.
+Hyundai INSTER er en hatcback tilgængelig i 2 varianter.
 </p>
 	<a href="inster/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

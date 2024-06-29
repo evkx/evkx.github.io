@@ -81,6 +81,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/hyundai/inster/inster_long_range/exterior_5.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/hyundai/inster/inster_long_range/exterior_5.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/hyundai/inster/inster_long_range/exterior_5_xst.jpg" alt="Hyundai INSTER Long Range" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/hyundai/inster/inster_long_range/frontseats_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/hyundai/inster/inster_long_range/frontseats_1.jpg"
 data-pswp-width="3000"

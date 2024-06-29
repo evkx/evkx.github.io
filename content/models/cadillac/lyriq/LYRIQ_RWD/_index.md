@@ -90,7 +90,7 @@ You can choose between two types of roofs on this model. The standard roof has a
 
 ## Interior
 
-
+The seat layout is the traditional five seats with two in front and three in the rear.
 
 ### First row seats
 

@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-ae995052
+  translation: Hyundai INSTER Standard Range is an all-electric hatchback with a WLTP range of up to 300 km (187 miles). EVKX.net has all the details.
+
 - id: frontpage-description-fd194ba1
   translation: Hyundai INSTER Long Range is an all-electric hatchback with a WLTP range of up to 355 km (221 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-6fb104c0
   translation: Porsche Taycan Turbo is an all-electric luxury sedan with a WLTP range of up to 630 km (392 miles). EVKX.net has all the details.
-
-- id: frontpage-description-b8575e72
-  translation: Kia EV3 Long Range is an all-electric crossover with a WLTP range of up to 600 km (373 miles). EVKX.net has all the details.
 

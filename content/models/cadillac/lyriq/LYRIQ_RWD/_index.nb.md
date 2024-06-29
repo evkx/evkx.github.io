@@ -90,7 +90,7 @@ Du kan velge mellom to typer tak på denne modellen. Standardtaket har et stort 
 
 ## Interiør
 
-
+Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 ### Forseter
 

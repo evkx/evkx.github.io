@@ -362,7 +362,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="hyundai/"><img src="https://media.evkx.net/multimedia/models/hyundai/brandevs_st.jpg" class="img-fluid mb-2" alt="Hyundai" ></a>
 	<h2>Hyundai</h2>
 	<p>
-	Hyundai har 4 modell(er) med totalt 8 varianter.
+	Hyundai har 4 modell(er) med totalt 9 varianter.
 	</p>
 	<a href="hyundai/" class="btn btn-outline-primary" role="button">Gå till Hyundai modellöversikt</a>
 </div>

@@ -90,7 +90,7 @@ Vous pouvez choisir entre deux types de toits sur ce modèle. Le toit standard a
 
 ## Intérieur
 
-
+La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
 ### Sièges de première rangée
 

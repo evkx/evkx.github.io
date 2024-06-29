@@ -90,7 +90,7 @@ Puedes elegir entre dos tipos de techos en este modelo. El techo estándar tiene
 
 ## Interior
 
-
+La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
 ### Asientos de primera fila
 
