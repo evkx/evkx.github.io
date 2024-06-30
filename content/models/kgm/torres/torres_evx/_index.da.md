@@ -64,7 +64,7 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 ### Bremser
 
-
+Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 260mm, og de bagerste skiver er 260mm.
 
 
 ### Regenerativ bremsning

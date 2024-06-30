@@ -64,7 +64,7 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 ### Bremser
 
-
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 260mm, og de bakre skivene er 260mm.
 
 
 ### Regenerativ bremsing

@@ -64,7 +64,7 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 ### Frenos
 
-
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 260 mm y los discos traseros de 260 mm.
 
 
 ### Frenado regenerativo

@@ -64,7 +64,7 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Freins
 
-
+Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 260 mm et les disques arrière mesurent 260 mm.
 
 
 ### Freinage régénératif

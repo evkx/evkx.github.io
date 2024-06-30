@@ -64,7 +64,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ### Brakes
 
-
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 260mm, and the rear discs are 260mm.
 
 
 ### Regenerative braking

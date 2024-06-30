@@ -64,7 +64,7 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 ### Bromsar
 
-
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 260mm och de bakre skivorna är 260mm.
 
 
 ### Regenerativ bromsning
