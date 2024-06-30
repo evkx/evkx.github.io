@@ -124,6 +124,10 @@ Hay un sistema climático disponible.
 
 KGM Torres EVX tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
 
+La entrada sin llave permite el acceso al auto sin necesidad de encontrar la llave. Mientras la traigas contigo, las puertas se abren.
+
+Keyless go permite arrancar el auto sin usar la llave.
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -140,7 +144,7 @@ Un tipo de sistema de sonido está disponible para el KGM Torres EVX. Con el , o
 
 ## Luces
 
-
+Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
 
 
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/headlights_1_st.jpg" title="KGM Torres EVX" width="3000" height="1687"  >}}
@@ -151,6 +155,12 @@ El KGM Torres EVX tiene varios [sistemas avanzados de asistencia al conductor](.
 ### Sistemas de seguridad
 
 
+
+El KGM Torres EVX tiene un [**sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) como un estándar sistema. Este sistema ayuda a evitar que las ruedas del vehículo se bloqueen durante el frenado.
+
+El KGM Torres EVX tiene un [**Control Electrónico de Estabilidad**](../../../../technology/driverassistance/electronicstabilitycontrol/) como sistema un estándar diseñado para mejorar la estabilidad y el manejo de un vehículo durante maniobras repentinas o condiciones de carretera resbaladizas.
+
+El KGM Torres EVX tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema un estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
 
 ### Automatización de conducción
 

@@ -124,6 +124,10 @@ There is one climate system available.
 
 KGM Torres EVX has several features to make your life as a driver or passenger more comfortable.
 
+Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open.
+
+Keyless go makes it possible to start the car without using the key.
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -140,7 +144,7 @@ One type of sound system is available for the KGM Torres EVX. With the , you get
 
 ## Lights
 
-
+The standard headlights use LED technology. In addition, the standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/headlights_1_st.jpg" title="KGM Torres EVX" width="3000" height="1687"  >}}
@@ -151,6 +155,12 @@ The KGM Torres EVX has several standard and optional [advanced driver assistance
 ### Safety systems
 
 
+
+The KGM Torres EVX has an [**anti-lock braking system (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/)  as a standard system. This system helps to prevent a vehicle's wheels from locking up during braking.
+
+The KGM Torres EVX has an [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/)  as a standard system designed to improve a vehicle's stability and handling during sudden maneuvers or slippery road conditions.
+
+The KGM Torres EVX has [**automatic emergency braking**](../../../../technology/driverassistance/automaticemergencybraking/) as a standard system. This system helps prevent or mitigate collisions by applying the brakes autonomously if the driver fails to react to an impending collision.
 
 ### Driving Automation
 

@@ -124,6 +124,10 @@ Det er ett tilgjengelig klimasystem.
 
 KGM Torres EVX har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
 
+Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så lenge du har den med deg, åpnes dørene.
+
+Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -140,7 +144,7 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Lys
 
-
+Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/headlights_1_st.jpg" title="KGM Torres EVX" width="3000" height="1687"  >}}
@@ -151,6 +155,12 @@ KGM Torres EVX har flere standard og valgfrie [avanserte førerassistentsystemer
 ### Sikkerhetssystemer
 
 
+
+KGM Torres EVX har et [**ABS-bremsesystem**](../../../../technology/driverassistance/antilockbrakingsystem/) som standard-systemet. Dette systemet bidrar til å forhindre at et kjøretøys hjul låser seg under bremsing.
+
+KGM Torres EVX har et [**Electronic Stability Control**](../../../../technology/driverassistance/electronicstabilitycontrol/) som standard-system utviklet for å forbedre et kjøretøys stabilitet og håndtering under plutselige manøvrer eller glatte veiforhold.
+
+KGM Torres EVX har [**automatisk nødbremsing**](../../../../technology/driverassistance/automaticemergencybraking/) som standard-system. Dette systemet hjelper forhindre eller dempe kollisjoner ved å sette på bremsene autonomt hvis føreren ikke reagerer på en forestående kollisjon.
 
 ### Kjøreautomatisering
 

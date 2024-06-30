@@ -801,6 +801,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Hill DescentAssist
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -808,6 +809,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Hill start assist
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -815,6 +817,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				AntiLock Braking System
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -822,6 +825,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Automatisk nødbremse
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -829,6 +833,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Bremseassistent
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -836,6 +841,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Traction control
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -857,6 +863,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Elektronisk stabilitetskontrol
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>

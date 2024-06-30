@@ -801,6 +801,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Hill Descent Assist
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -808,6 +809,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Backstartsassistans
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -815,6 +817,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Antiblockeringssystem (ABS)
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -822,6 +825,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Autonom nödbromsning
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -829,6 +833,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektronisk bromsassistans
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -836,6 +841,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Antispinnsystem (TCS)
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -857,6 +863,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Elektronisk stabilitetskontroll
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Ja, standardfunktion
 			</td>
 		</tr>
 		<tr>

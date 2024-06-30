@@ -801,6 +801,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de descenso de pendientes
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -808,6 +809,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de arranque en pendiente
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -815,6 +817,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Sistema de frenos antibloqueo
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -822,6 +825,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Frenado automático de emergencia
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -829,6 +833,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Asistencia de frenado
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -836,6 +841,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control de tracción
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
@@ -857,6 +863,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control electrónico de estabilidad
 			</td>
 			<td>
+				Sí, equipamiento estándar
 			</td>
 		</tr>
 		<tr>
