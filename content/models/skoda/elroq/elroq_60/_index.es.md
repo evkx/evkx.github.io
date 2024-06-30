@@ -1,0 +1,223 @@
+---
+title: SKODA Elroq 60
+linktitle: "Elroq 60"
+description: "SKODA Elroq 60 es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 390 km (242 millas). EVKX.net tiene todos los detalles."
+weight: 10
+hidden: true
+shownavtabs: true
+navicon: bi-car-front
+---
+<!-- markdownlint-disable MD033 -->
+
+
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/main_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2001"  >}}
+
+Hemos separado nuestro artículo SKODA Elroq 60 en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
+
+- [Rendimiento](#rendimiento)
+- [Batería, autonomía y carga](#batería-autonomía-y-carga)
+- [Tren de transmisión (suspensión, frenos, dirección)](#tren-de-transmisión)
+- [Exterior (colores de pintura, ruedas ++)](#exterior)
+- [Interior (asientos++)](#interior)
+- [Interfaz de usuario y control](#interfaz-de-usuario-y-control)
+- [Infoentretenimiento](#infoentretenimiento)
+- [Luces](#luces)
+- [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
+- [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
+
+
+## Rendimiento
+
+El SKODA Elroq 60 ofrece un rendimiento modesto con una potencia máxima de 150 kW (204 hp) y un par total de 310 Nm. Acelera de 0 a 100 km/h en 7,8 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+
+## Batería, autonomía y carga
+
+La batería de alta capacidad tiene una capacidad bruta de 63 kWh y una capacidad neta utilizable de 59 kWh, proporcionando un buffer de 4 kWh (6,3%) para la protección de la batería.
+
+Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 390 km, con una tasa de consumo de energía de 15,1 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+
+La velocidad máxima de carga de CC es 135kW. Una carga completa del 0 al 100 % tardaría 64 minutos, mientras que un escenario más común del 10 al 80 % tardaría 35 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 43%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 77kW. Cada sesión de carga tardaría 20 minutos y 43 segundos.
+
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 21 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 18 minutos. Este viaje requeriría dos paradas de carga del 0% al 43%, con un tiempo total de carga de 118 minutos.
+
+### Cargador a bordo
+
+El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 5 horas y 21 minutos usando un cargador en casa.
+
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/charging_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2002"  >}}
+
+
+### Puerto de carga
+
+La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Tren de transmisión
+
+SKODA Elroq 60 tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
+
+
+### Suspensión
+
+La suspensión Sport tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 173 mm.
+
+### Dirección
+
+La dirección dinámica es una característica un estándar en el SKODA Elroq 60. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
+
+### Frenos
+
+
+
+
+### Frenado regenerativo
+
+El sistema de [frenado regenerativo](../../../../technology/regen/) en este modelo ofrece varios modos para mejorar la eficiencia y la experiencia de conducción. La opción más eficiente es el [**Modo de Regeneración Automática**](../../../../technology/regen/#automatic-regen-adaptive), donde el vehículo avanza por inercia cuando es posible y utiliza el frenado regenerativo para reducir la velocidad según sea necesario. <br /><br />**Regeneración manual** es otro modo, donde el frenado regenerativo se controla presionando el pedal del freno. El sistema de frenos solo mezcla frenos físicos cuando es necesario. <br /><br/> Otra opción es el modo [**Regen en Pedal de Acelerador**](../../../../technology/regen/#one-pedal-driving), donde el frenado regenerativo se activa cuando el conductor levanta el pie del acelerador. Este sistema permite al vehículo disminuir la velocidad y recuperar energía sin que el conductor necesite presionar el pedal del freno, una característica frecuentemente llamada **conducción de un solo pedal**. Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que a bajas velocidades, el vehículo seguirá rodando hasta detenerse por sí mismo.
+
+## Exterior
+
+El SKODA Elroq 60, con dimensiones de 4488 mm de longitud, 1879 mm de anchura y 1625 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. Puedes elegir entre 9 colores de pintura diferentes al pedir este modelo.
+Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 20 a 21 pulgadas.
+
+El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
+
+Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
+
+Las ventanas del pilar B y la parte trasera están tintadas.
+
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/exterior_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2001"  >}}
+
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Interior
+
+Hay un tipo de asiento que puedes seleccionar en diferentes materiales. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
+
+### Asientos de primera fila
+
+Sólo hay un tipo de asiento delantero disponible en el SKODA Elroq 60.
+
+Las siguientes funcionalidades están disponibles en el asiento **Sport**.
+
+- ajuste eléctrico (opcional)
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
+- [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
+- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- reposacabezas integrado
+- [masaje](../../../../technology/seats/adjustment/#massage)
+
+Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
+
+
+
+### Asiento de segunda fila
+
+
+
+La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+
+
+Sólo hay un tipo de volante disponible.
+
+## Sistema climático
+
+Hay un sistema climático disponible. El sistema climático 3-zone Climatronic admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
+
+## Comodidad
+
+SKODA Elroq 60 tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+
+La entrada sin llave permite el acceso al auto sin necesidad de encontrar la llave. Mientras la traigas contigo, las puertas se abren.
+
+Keyless go permite arrancar el auto sin usar la llave.
+
+Tienes carga inalámbrica para tu teléfono.
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Interfaz de usuario y control
+
+El SKODA Elroq 60 tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla en la columna de dirección mide 5,3 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 13,0 pulgadas de tamaño.
+Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+
+## Infoentretenimiento
+
+Un tipo de sistema de sonido está disponible para el SKODA Elroq 60. Con el Canton Soundsystem, obtienes diez parlantes con una salida máxima del sistema de 550 vatios.
+
+Además, con el sistema de navegación para automóvil opcional, obtienes la ayuda que necesitas para encontrar tu destino. Además, el SKODA Elroq 60 es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+El modelo tiene 4 conexiones USB-C de serie.
+## Luces
+
+Puedes elegir entre dos tipos de faros para el SKODA Elroq 60. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
+
+
+{{< sitefiguresized thumb="models/skoda/elroq/elroq_60/headlights_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2000"  >}}
+
+## Sistemas avanzados de asistencia al conductor
+
+El SKODA Elroq 60 tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
+[**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+### Sistemas de seguridad
+
+
+
+El SKODA Elroq 60 tiene un [**sistema de frenos antibloqueo (ABS)**](../../../../technology/driverassistance/antilockbrakingsystem/) como un estándar sistema. Este sistema ayuda a evitar que las ruedas del vehículo se bloqueen durante el frenado.
+
+El SKODA Elroq 60 tiene un [**Control Electrónico de Estabilidad**](../../../../technology/driverassistance/electronicstabilitycontrol/) como sistema un estándar diseñado para mejorar la estabilidad y el manejo de un vehículo durante maniobras repentinas o condiciones de carretera resbaladizas.
+
+El SKODA Elroq 60 tiene un [**asistente para mantenerse en el carril**](../../../../technology/driverassistance/lanekeepingassist/) como sistema un estándar. El sistema ayuda a evitar que el coche se salga de su carril. Además, cuenta con un sistema de [**aviso de salida de carril**](../../../../technology/driverassistance/lanedeparturewarning/) que avisa al conductor si el vehículo abandona el carril de conducción.
+
+[**Front Cross Traffic Assist**](../../../../technology/driverassistance/frontcrosstrafficassist/) es un un estándar sistema de asistencia al conductor que ayuda a los conductores a detectar el tráfico que se aproxima al cruzar una intersección o girar a la izquierda o a la derecha desde una posición detenida.
+
+[**Forward Collision Advertencia**](../../../../technology/driverassistance/forwardcollisionwarning/) es un un estándar sistema de asistencia al conductor que ayuda a los conductores a evitar o mitigar colisiones frontales. colisiones.
+
+El SKODA Elroq 60 tiene [**frenado automático de emergencia**](../../../../technology/driverassistance/automaticemergencybraking/) como sistema un estándar. Este sistema ayuda prevenir o mitigar colisiones aplicando los frenos de forma autónoma si el conductor no reacciona ante una colisión inminente.
+
+[**Dirección automática de emergencia**](../../../../technology/driverassistance/automaticemergencysteering/) es un un estándar sistema de asistencia al conductor diseñado para ayudar a los conductores a evitar colisiones dirigir automáticamente el vehículo en caso de emergencia.
+
+[**Monitoreo de punto ciego**](../../../../technology/driverassistance/blindspotmonitoring/) es un estándar sistema de asistencia al conductor. Este sistema de asistencia lateral ayuda a detectar el tráfico en puntos ciegos.
+
+### Automatización de conducción
+
+
+
+Con el sistema MAX  nivel 2, obtienes las siguientes funciones de automatización de conducción.
+- [**Control de crucero adaptativo**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): mantiene el automóvil en su carril y reduce la velocidad si es necesario en tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
+- [**Estacionamiento automático**](../../../../technology/driverassistance/automaticparking/). (opcional)
+
+
+{{<evkxdisplayaddarticle />}}
+
+
+
+## Capacidad de carga y capacidad de remolque
+
+La capacidad de carga en el maletero es de 490 litros. Con el asiento trasero abatido, es de 1610 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2250 kg (4960 lbs), y con el peso base de 1700 kg (3748 lbs), puedes cargar como máximo 550 kg (1213 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+
+Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1200, y sin freno, es de 750 kg (2646/1653 lbs).
+### Disponibilidad y precios
+
+Este modelo tuvo un estreno mundial el 01.07.2024 y se espera que las entregas comiencen en February 2025.<div class="mt-3 mb-3">
+<a href="../" class="text-decoration-none text-black">
+<strong><i class="bi-arrow-left"></i> SKODA Elroq </strong>
+</a>
+<a href="rangeandconsumption/" class="text-decoration-none text-black float-end">
+<strong>Rango <i class="bi-arrow-right"></i></strong>
+</a>
+</div>
+

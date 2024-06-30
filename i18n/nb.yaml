@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-23e9b22b
+  translation: SKODA Elroq 85x er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 550 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-6ecc80b9
   translation: KGM Torres EVX er en helelektrisk SUV med en WLTP rekkevidde på opptil 462 km. EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-ca5fed04
   translation: Rivian R1S Quad-Motor AWD MP er en helelektrisk premium-SUV med en EPA rekkevidde på opptil 516 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-1dab2cfe
-  translation: Audi Q6 e-tron performance er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 641 km. EVKX.net har alle detaljene.
 

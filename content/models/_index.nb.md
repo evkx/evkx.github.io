@@ -572,7 +572,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 		Škoda Auto, en tsjekkisk bilprodusent grunnlagt i 1895, er kjent for sine pålitelige og rimelige kjøretøyer. Nå et datterselskap av Volkswagen Group, kombinerer Škoda praktisk ingeniørarbeid med innovativt design.
 	</p>
 	<p>
-	Skoda har 1 modell(er) med totalt 12 varianter.
+	Skoda har 2 modell(er) med totalt 16 varianter.
 	</p>
 	<a href="skoda/" class="btn btn-outline-primary" role="button">Gå til Skoda modelloversikt</a>
 </div>

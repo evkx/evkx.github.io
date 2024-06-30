@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-23e9b22b
+  translation: SKODA Elroq 85x is an all-electric coupe SUV with a WLTP range of up to 550 km (342 miles). EVKX.net has all the details.
+
 - id: frontpage-description-6ecc80b9
   translation: KGM Torres EVX is an all-electric SUV with a WLTP range of up to 462 km (287 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-ca5fed04
   translation: Rivian R1S Quad-Motor AWD MP is an all-electric premium SUV with a EPA range of up to 516 km (321 miles). EVKX.net has all the details.
-
-- id: frontpage-description-1dab2cfe
-  translation: Audi Q6 e-tron performance is an all-electric premium SUV with a WLTP range of up to 641 km (398 miles). EVKX.net has all the details.
 
