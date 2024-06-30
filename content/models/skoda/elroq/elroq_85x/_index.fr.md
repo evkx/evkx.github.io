@@ -1,7 +1,7 @@
 ---
 title: SKODA Elroq 85x
 linktitle: "Elroq 85x"
-description: "SKODA Elroq 85x est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 550 km (342 miles). EVKX.net a tous les détails."
+description: "SKODA Elroq 85x est un crossover entièrement électrique avec une autonomie de WLTP allant jusqu'à 550 km (342 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true

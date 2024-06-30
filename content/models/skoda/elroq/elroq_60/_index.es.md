@@ -1,7 +1,7 @@
 ---
 title: SKODA Elroq 60
 linktitle: "Elroq 60"
-description: "SKODA Elroq 60 es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 390 km (242 millas). EVKX.net tiene todos los detalles."
+description: "SKODA Elroq 60 es un crossover totalmente eléctrico con un WLTP alcance de hasta 390 km (242 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true

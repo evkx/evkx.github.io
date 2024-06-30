@@ -1,7 +1,7 @@
 ---
 title: SKODA Elroq 60
 linktitle: "Elroq 60"
-description: "SKODA Elroq 60 est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 390 km (242 miles). EVKX.net a tous les détails."
+description: "SKODA Elroq 60 est un crossover entièrement électrique avec une autonomie de WLTP allant jusqu'à 390 km (242 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true

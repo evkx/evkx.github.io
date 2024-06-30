@@ -1,7 +1,7 @@
 ---
 title: SKODA Elroq 85
 linktitle: "Elroq 85"
-description: "SKODA Elroq 85 er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 560 km. EVKX.net har alle detaljene."
+description: "SKODA Elroq 85 er en helelektrisk crossover med en WLTP rekkevidde på opptil 560 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true

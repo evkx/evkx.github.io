@@ -1,7 +1,7 @@
 ---
 title: SKODA Elroq 85x
 linktitle: "Elroq 85x"
-description: "SKODA Elroq 85x es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 550 km (342 millas). EVKX.net tiene todos los detalles."
+description: "SKODA Elroq 85x es un crossover totalmente eléctrico con un WLTP alcance de hasta 550 km (342 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true

@@ -1,7 +1,7 @@
 ---
 title: SKODA Elroq 50
 linktitle: "Elroq 50"
-description: "SKODA Elroq 50 er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 350 km. EVKX.net har alle detaljene."
+description: "SKODA Elroq 50 er en helelektrisk crossover med en WLTP rekkevidde på opptil 350 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
