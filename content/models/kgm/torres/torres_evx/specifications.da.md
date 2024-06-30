@@ -42,6 +42,22 @@ EVKX.net søger at have de mest komplette specifikationer for KGM Torres EVX. Kl
 				339 nm (250 lb-ft)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Tophastighed
+			</td>
+			<td>
+				175 km/t (109 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/t (0-62 mph)
+			</td>
+			<td>
+				8,1 s
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -133,6 +149,133 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 </table>
 
 
+
+### Ladeporte
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladeportplacering
+			</td>
+			<td>
+				LeftFrontSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Nordamerika
+			</td>
+			<td>
+				CCS1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Kina
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Oceanien (Australien, New Zealand ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladeportplacering
+			</td>
+			<td>
+				RightFrontSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Europa
+			</td>
+			<td>
+				Type2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Nordamerika
+			</td>
+			<td>
+				J1772
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Kina
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ ladeport Oceanien (Australien, New Zealand ++)
+			</td>
+			<td>
+				Type2
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Dimensioner
 
@@ -291,6 +434,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 
 ## Interiør
 
+Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 
 ### Forsæder
 
@@ -311,7 +455,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sædetype
 			</td>
 			<td>
-				None
+				Fører- og passagersæde
 			</td>
 		</tr>
 		<tr>
@@ -319,7 +463,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sædedybdejustering
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -327,7 +471,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sædehøjdejustering
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -335,7 +479,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Justering af ryglænets vinkel
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -343,7 +487,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -351,7 +495,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Elektrisk justering af højde, tilbagelæning og vinkel
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -367,7 +511,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Memory passagersæde
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -375,7 +519,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -383,7 +527,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -391,7 +535,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -399,7 +543,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Justering af ryglænets sidestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -407,7 +551,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Justering af sædehyndes sidestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -415,7 +559,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -423,7 +567,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +575,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -439,7 +583,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Elektrisk lændejustering
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -447,7 +591,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sædeventilation
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -455,7 +599,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Massagefunktion
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 	</tbody>
@@ -480,7 +624,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sædetype
 			</td>
 			<td>
-				None
+				Tre-sædet bænk
 			</td>
 		</tr>
 		<tr>
@@ -488,7 +632,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Højdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -496,7 +640,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Længdejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +648,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +656,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Justering af ryglænets sidestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -520,7 +664,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Justering af sædehyndes sidestøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +672,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +680,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Fodstøttepassagerer
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -544,7 +688,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Benstøttepassager
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -552,7 +696,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Elektrisk lændejustering
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -560,7 +704,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sædeventilation
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>
@@ -568,7 +712,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Massagefunktion
 			</td>
 			<td>
-				Ukendt
+				Ikke tilgængelig
 			</td>
 		</tr>
 	</tbody>
@@ -621,6 +765,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				360 kamera
 			</td>
 			<td>
+				Ja, ekstraudstyr
 			</td>
 		</tr>
 		<tr>
@@ -835,7 +980,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Digital drivervisning
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -843,7 +988,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Infotainmentskærm
 			</td>
 			<td>
-				Ikke tilgængelig
+				Ja, 12,3"
 			</td>
 		</tr>
 		<tr>

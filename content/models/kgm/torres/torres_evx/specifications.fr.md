@@ -42,6 +42,22 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour KGM Torre
 				339 nm (250 lb-ft)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Vitesse maximale
+			</td>
+			<td>
+				175 km/h (109 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				8,1 s
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -133,6 +149,133 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 </table>
 
 
+
+### Ports de charge
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Placement du port de charge
+			</td>
+			<td>
+				LeftFrontSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tapez chargeport Europe
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tapez le port de charge Amérique du Nord
+			</td>
+			<td>
+				CCS1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type port de charge Chine
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tapez chargeport Japon
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type port de charge Océanie (Australie, Nouvelle-Zélande ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Placement du port de charge
+			</td>
+			<td>
+				RightFrontSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tapez chargeport Europe
+			</td>
+			<td>
+				Type2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tapez le port de charge Amérique du Nord
+			</td>
+			<td>
+				J1772
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type port de charge Chine
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tapez chargeport Japon
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type port de charge Océanie (Australie, Nouvelle-Zélande ++)
+			</td>
+			<td>
+				Type2
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Dimensions
 
@@ -291,6 +434,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 
 ## Intérieur
 
+Ce modèle est disponible avec une configuration de sièges à cinq places.
 
 ### Sièges avant
 
@@ -311,7 +455,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Type de siège
 			</td>
 			<td>
-				None
+				Siège conducteur et passager
 			</td>
 		</tr>
 		<tr>
@@ -319,7 +463,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage de la profondeur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -327,7 +471,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage de la hauteur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -335,7 +479,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage de l'angle du dossier
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -343,7 +487,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -351,7 +495,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -367,7 +511,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Siège passager à mémoire
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -375,7 +519,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -383,7 +527,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -391,7 +535,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support de cuisse réglable
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -399,7 +543,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage des traversins latéraux du dossier
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -407,7 +551,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage des traversins latéraux du coussin de siège
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -415,7 +559,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Appui de cuisse réglable électriquement
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -423,7 +567,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +575,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -439,7 +583,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -447,7 +591,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Ventilation du siège
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -455,7 +599,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
@@ -480,7 +624,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Type de siège
 			</td>
 			<td>
-				None
+				Banquette trois places
 			</td>
 		</tr>
 		<tr>
@@ -488,7 +632,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Appui-tête réglable en hauteur
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -496,7 +640,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Appui-tête réglable en longueur
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +648,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support de cuisse réglable
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +656,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage des traversins latéraux du dossier
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -520,7 +664,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage des traversins latéraux du coussin de siège
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +672,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Appui de cuisse réglable électriquement
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +680,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Repose-pieds passagers
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -544,7 +688,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Support de jambe passager
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -552,7 +696,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réglage lombaire électrique
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -560,7 +704,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Ventilation du siège
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>
@@ -568,7 +712,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Fonction massage
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 	</tbody>
@@ -621,6 +765,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Caméra 360
 			</td>
 			<td>
+				Oui, équipement en option
 			</td>
 		</tr>
 		<tr>
@@ -835,7 +980,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Affichage numérique du pilote
 			</td>
 			<td>
-				Non disponible
+				Oui, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -843,7 +988,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Écran d'infodivertissement
 			</td>
 			<td>
-				Non disponible
+				Oui, 12,3"
 			</td>
 		</tr>
 		<tr>

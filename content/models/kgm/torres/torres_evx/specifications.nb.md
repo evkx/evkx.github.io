@@ -42,6 +42,22 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for KGM Torres EVX. Kli
 				339 nm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Topphastighet
+			</td>
+			<td>
+				175 km/t
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/t (0-62 mph)
+			</td>
+			<td>
+				8,1 s
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -133,6 +149,133 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 </table>
 
 
+
+### Ladeporter
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladeportplassering
+			</td>
+			<td>
+				LeftFrontSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type ladeport Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type ladeport Nord-Amerika
+			</td>
+			<td>
+				CCS1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Skriv ladeport Kina
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Skriv ladeport Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Skriv ladeport Oceania (Australia, New Zealand ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spesifikasjon
+			</th>
+			<th>
+				Verdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ladeportplassering
+			</td>
+			<td>
+				RightFrontSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type ladeport Europa
+			</td>
+			<td>
+				Type2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type ladeport Nord-Amerika
+			</td>
+			<td>
+				J1772
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Skriv ladeport Kina
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Skriv ladeport Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Skriv ladeport Oceania (Australia, New Zealand ++)
+			</td>
+			<td>
+				Type2
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Dimensjoner
 
@@ -291,6 +434,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 ## Interiør
 
+Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Forseter
 
@@ -311,7 +455,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Setetype
 			</td>
 			<td>
-				None
+				Sjåfør- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -319,7 +463,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Setedybdejustering
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -327,7 +471,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justering av setehøyde
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -335,7 +479,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justering av ryggstøttevinkel
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -343,7 +487,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -351,7 +495,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Elektrisk justering av høyde, hvile og vinkel
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -367,7 +511,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minne passasjersete
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -375,7 +519,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -383,7 +527,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -391,7 +535,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -399,7 +543,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -407,7 +551,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -415,7 +559,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -423,7 +567,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +575,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -439,7 +583,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -447,7 +591,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Seteventilasjon
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -455,7 +599,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Massasjefunksjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
@@ -480,7 +624,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Setetype
 			</td>
 			<td>
-				None
+				Tre-seters benk
 			</td>
 		</tr>
 		<tr>
@@ -488,7 +632,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Høydejusterbar nakkestøtte
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>
@@ -496,7 +640,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Lengdejusterbar hodestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +648,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +656,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justering av ryggstøtten
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -520,7 +664,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Justering av setepute, sidestøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +672,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +680,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Fotstøttepassasjerer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -544,7 +688,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Benstøttepassasjer
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -552,7 +696,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Elektrisk korsryggstøtte
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -560,7 +704,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Seteventilasjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
@@ -568,7 +712,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Massasjefunksjon
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 	</tbody>
@@ -621,6 +765,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				360-kamera
 			</td>
 			<td>
+				Ja, tileggsutstyr
 			</td>
 		</tr>
 		<tr>
@@ -835,7 +980,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Digital driver display
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -843,7 +988,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Infotainment skjerm
 			</td>
 			<td>
-				Ikke tilgjengelig
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>

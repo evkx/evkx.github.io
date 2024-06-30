@@ -42,6 +42,22 @@ EVKX.net vill ha de mest kompletta specifikationerna för KGM Torres EVX. Klicka
 				339 nm
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Topphastighet
+			</td>
+			<td>
+				175 km/h
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/h (0-62 mph)
+			</td>
+			<td>
+				8,1 s
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -133,6 +149,133 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 </table>
 
 
+
+### Laddningsportar
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Laddningsportplacering
+			</td>
+			<td>
+				LeftFrontSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Nordamerika
+			</td>
+			<td>
+				CCS1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Kina
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Oceanien (Australien, Nya Zeeland ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Laddningsportplacering
+			</td>
+			<td>
+				RightFrontSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Europa
+			</td>
+			<td>
+				Type2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Nordamerika
+			</td>
+			<td>
+				J1772
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Kina
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Japan
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Typ laddport Oceanien (Australien, Nya Zeeland ++)
+			</td>
+			<td>
+				Type2
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Dimensions
 
@@ -291,6 +434,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 ## Interiör
 
+Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ### Framsäten
 
@@ -311,7 +455,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Säte typ
 			</td>
 			<td>
-				None
+				Förar- och passagerarsäte
 			</td>
 		</tr>
 		<tr>
@@ -319,7 +463,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justering sätesdjup
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -327,7 +471,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justering säteshöjd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -335,7 +479,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justering ryggstödsvinkel
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -343,7 +487,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -351,7 +495,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Elektrisk justering av höjd, lutning och vinkel
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -367,7 +511,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Memory Passenger Seat
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -375,7 +519,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -383,7 +527,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -391,7 +535,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbart lårstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -399,7 +543,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Ryggstödsjustering
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -407,7 +551,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -415,7 +559,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Elektriskt justerbart lårstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -423,7 +567,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +575,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -439,7 +583,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -447,7 +591,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Sätesventilation
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -455,7 +599,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
@@ -480,7 +624,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Säte typ
 			</td>
 			<td>
-				None
+				Tre-sits bänk
 			</td>
 		</tr>
 		<tr>
@@ -488,7 +632,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Höjdjusterbart nackstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -496,7 +640,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				LengthAdjustableHeadrest
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +648,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justerbart lårstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +656,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Ryggstödsjustering
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -520,7 +664,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justering av sittdyna, sidostöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +672,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Elektriskt justerbart lårstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +680,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Fotstödspassagerare
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -544,7 +688,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				LegSupportPassenger
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -552,7 +696,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Elektriskt svankstöd
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -560,7 +704,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Sätesventilation
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>
@@ -568,7 +712,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Massagefunktion
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 	</tbody>
@@ -621,6 +765,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				360-kamera
 			</td>
 			<td>
+				<i class="bi-check-lg" style="color: yellow;"></i> Ja, valfri funktion
 			</td>
 		</tr>
 		<tr>
@@ -835,7 +980,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Digital drivrutinsdisplay
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -843,7 +988,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Infotainmentskärm
 			</td>
 			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+				Ja, 12,3
 			</td>
 		</tr>
 		<tr>

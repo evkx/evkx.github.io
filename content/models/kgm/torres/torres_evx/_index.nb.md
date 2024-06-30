@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av KGM Torres EVX i seksjoner. Hvis du vil vente me
 
 ## Ytelse
 
-KGM Torres EVX har en maksimal effekt på 152,2 KW (207hk). Totalt dreiemoment er 339 nm. Den utfører sprinten 0-100 km/t på  sekunder.
+KGM Torres EVX tilbyr beskjedne ytelser med en maksimal effekt på 152,2 kW (207 hk) og et totalt dreiemoment på 339 Nm. Den akselererer fra 0 til 100 km/t på 8,1 sekunder og har en toppfart på 175 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
 
 ## Batteri, rekkevidde og lading
 
@@ -37,11 +37,15 @@ Høykapasitetsbatteriet har en brutto kapasitet på 75 kWh og en netto brukbar k
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 462 km, med et energiforbruk på 15,9 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 59 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 64%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 90kW. Hver ladeøkt vil ta 30 minutter og 22 sekunder.
+Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 59 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 64%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 90kW. Hver ladeøkt vil ta 30 minutter og 16 sekunder.
 
 ### Ombordlader
 
+Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 6 timer og 40 minutter med en hjemmelader.
 
+### Ladeport
+
+Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. En andre port er på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne ekstra porten gir deg flere parkeringsmuligheter for AC-lading. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**J1772**](../../../../technology/charging/connectors/#j1772) for Nord-Amerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullstendige spesifikasjoner for alle markeder.
 
 {{<evkxdisplayaddarticle />}}
 
@@ -67,12 +71,12 @@ KGM Torres EVX har et forhjulsdriftssystem støttet av én motor på forakselen.
 
 ## Eksteriør
 
-KGM Torres EVX, med dimensjoner på 4715 mm i lengde,  mm i bredde og 1725 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
+KGM Torres EVX, med dimensjoner på 4715 mm i lengde,  mm i bredde og 1725 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 18 til 20 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
-Det er bare ett tak for denne modellen.
+Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
 
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/exterior_1_st.jpg" title="KGM Torres EVX" width="3000" height="2000"  >}}
@@ -84,7 +88,7 @@ Det er bare ett tak for denne modellen.
 
 ## Interiør
 
-
+Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 ### Forseter
 
@@ -92,6 +96,10 @@ Bare én type forsete er tilgjengelig i KGM Torres EVX.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
+- høydejusterbar hodestøtte
+- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
@@ -101,12 +109,10 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 
-Følgende funksjoner er tilgjengelige på **** setet.
+Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-
-
+- høydejusterbar hodestøtte
+- [oppvarming](../../../../technology/seats/adjustment/#heating)
 
 Det er bare én type ratt tilgjengelig.
 
@@ -124,7 +130,7 @@ KGM Torres EVX har flere funksjoner for å gjøre livet ditt som sjåfør eller 
 
 ## Brukergrensesnitt og kontroll
 
-
+KGM Torres EVX har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 12,3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen ved høyre del av den delte rammen er 12,3 tommer stor og har en oppløsning på 2880 x 1080 piksler.
 Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
@@ -150,7 +156,8 @@ KGM Torres EVX har flere standard og valgfrie [avanserte førerassistentsystemer
 
 
 
-Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
+Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
+- [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 
 {{<evkxdisplayaddarticle />}}
@@ -161,7 +168,7 @@ Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
 
 Lastkapasiteten i bagasjerommet er 839 liter. Med baksetet nede er det 1662 liter. Maksimumsvekten til bilen er 2410 kg, og med basisvekten på 1915 kg kan du maksimalt laste 495 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt. 495 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
-Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.<div class="mt-3 mb-3">
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1500, og på ubremset er den 500 kg.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> KGM Torres </strong>
 </a>

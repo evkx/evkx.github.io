@@ -42,6 +42,22 @@ EVKX.net busca tener las especificaciones más completas para KGM Torres EVX. Ha
 				339 nm (250 pies-libra)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Velocidad máxima
+			</td>
+			<td>
+				175 kph (109 mph)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				0-100 km/h (0-62 mph)
+			</td>
+			<td>
+				8,1 s
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -133,6 +149,133 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 </table>
 
 
+
+### Puertos de carga
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ubicación del puerto de carga
+			</td>
+			<td>
+				LeftFrontSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo puerto de carga Europa
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Escriba puerto de carga Norteamérica
+			</td>
+			<td>
+				CCS1
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo puerto de carga China
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Escriba puerto de carga Japón
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo puerto de carga Oceanía (Australia, Nueva Zelanda ++)
+			</td>
+			<td>
+				CCS2
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Especificación
+			</th>
+			<th>
+				Valor
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Ubicación del puerto de carga
+			</td>
+			<td>
+				RightFrontSide
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo puerto de carga Europa
+			</td>
+			<td>
+				Type2
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Escriba puerto de carga Norteamérica
+			</td>
+			<td>
+				J1772
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo puerto de carga China
+			</td>
+			<td>
+				GBT
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Escriba puerto de carga Japón
+			</td>
+			<td>
+				CHAdeMO
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo puerto de carga Oceanía (Australia, Nueva Zelanda ++)
+			</td>
+			<td>
+				Type2
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Dimensiones
 
@@ -291,6 +434,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 ## Interior
 
+Este modelo está disponible con una configuración de cinco asientos.
 
 ### Asientos delanteros
 
@@ -311,7 +455,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tipo de asiento
 			</td>
 			<td>
-				None
+				Asiento del conductor y del pasajero
 			</td>
 		</tr>
 		<tr>
@@ -319,7 +463,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste de la profundidad del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -327,7 +471,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste de altura del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -335,7 +479,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del ángulo del respaldo
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -343,7 +487,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -351,7 +495,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste eléctrico de altura, reclinación y ángulo
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -367,7 +511,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Asiento del pasajero con memoria
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -375,7 +519,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -383,7 +527,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -391,7 +535,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -399,7 +543,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -407,7 +551,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del refuerzo lateral del cojín del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -415,7 +559,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte para muslos ajustable eléctricamente
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -423,7 +567,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -431,7 +575,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -439,7 +583,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -447,7 +591,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ventilación del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -455,7 +599,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -480,7 +624,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tipo de asiento
 			</td>
 			<td>
-				None
+				Banco de tres plazas
 			</td>
 		</tr>
 		<tr>
@@ -488,7 +632,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas regulable en altura
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -496,7 +640,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Reposacabezas de longitud ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -504,7 +648,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte para muslos ajustable
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -512,7 +656,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del refuerzo lateral del respaldo
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -520,7 +664,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste del refuerzo lateral del cojín del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -528,7 +672,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Soporte para muslos ajustable eléctricamente
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -536,7 +680,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Pasajeros con reposapiés
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -544,7 +688,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Apoyapiernas del pasajero
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -552,7 +696,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste lumbar eléctrico
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -560,7 +704,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ventilación del asiento
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>
@@ -568,7 +712,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Función de masaje
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 	</tbody>
@@ -621,6 +765,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Cámara 360
 			</td>
 			<td>
+				Sí, equipo opcional
 			</td>
 		</tr>
 		<tr>
@@ -835,7 +980,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Pantalla del controlador digital
 			</td>
 			<td>
-				No disponible
+				Sí, 12,3
 			</td>
 		</tr>
 		<tr>
@@ -843,7 +988,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Pantalla de infoentretenimiento
 			</td>
 			<td>
-				No disponible
+				Sí, 12,3"
 			</td>
 		</tr>
 		<tr>
