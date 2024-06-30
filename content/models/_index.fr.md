@@ -82,6 +82,9 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 			<a href="jeep"><img src="https://media.evkx.net/multimedia/models/jeep/logo_xst.png" alt="Jeep" title="Jeep" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="kgm"><img src="https://media.evkx.net/multimedia/models/kgm/logo_xst.png" alt="KGM" title="KGM" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="kia"><img src="https://media.evkx.net/multimedia/models/kia/logo_xst.png" alt="Kia" title="Kia" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -381,6 +384,16 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	Jeep a 1 modèles avec un total de 1 variantes.
 	</p>
 	<a href="jeep/" class="btn btn-outline-primary" role="button">Aller à la Jeep présentation du modèle EV</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>KGM</h2>
+	<p>
+		Korean Global Motors (KGM) est un constructeur automobile basé en Corée du Sud. Connu pour sa gamme diversifiée de véhicules, y compris les modèles électriques et hybrides, KGM a apporté des contributions notables au marché automobile mondial. L'entreprise met l'accent sur le design innovant et l'ingénierie avancée, en phase avec les tendances de l'industrie vers la durabilité et l'intégration technologique. KGM continue d'être une présence significative dans le secteur automobile, tant au niveau national qu'international.
+	</p>
+	<p>
+	KGM a 1 modèles avec un total de 1 variantes.
+	</p>
+	<a href="kgm/" class="btn btn-outline-primary" role="button">Aller à la KGM présentation du modèle EV</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="kia/"><img src="https://media.evkx.net/multimedia/models/kia/brandevs_st.jpg" class="img-fluid mb-2" alt="Kia" ></a>

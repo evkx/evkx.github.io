@@ -82,6 +82,9 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 			<a href="jeep"><img src="https://media.evkx.net/multimedia/models/jeep/logo_xst.png" alt="Jeep" title="Jeep" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="kgm"><img src="https://media.evkx.net/multimedia/models/kgm/logo_xst.png" alt="KGM" title="KGM" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="kia"><img src="https://media.evkx.net/multimedia/models/kia/logo_xst.png" alt="Kia" title="Kia" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -381,6 +384,13 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	Jeep har 1 modeller med i alt 1 varianter.
 	</p>
 	<a href="jeep/" class="btn btn-outline-primary" role="button">Gå til Jeep EV-modeloversigt</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>KGM</h2>
+	<p>
+	KGM har 1 modeller med i alt 1 varianter.
+	</p>
+	<a href="kgm/" class="btn btn-outline-primary" role="button">Gå til KGM EV-modeloversigt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="kia/"><img src="https://media.evkx.net/multimedia/models/kia/brandevs_st.jpg" class="img-fluid mb-2" alt="Kia" ></a>

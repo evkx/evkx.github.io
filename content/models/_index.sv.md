@@ -82,6 +82,9 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 			<a href="jeep"><img src="https://media.evkx.net/multimedia/models/jeep/logo_xst.png" alt="Jeep" title="Jeep" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
+			<a href="kgm"><img src="https://media.evkx.net/multimedia/models/kgm/logo_xst.png" alt="KGM" title="KGM" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
+		</div>
+		<div class="col col-6 col-md-3" >
 			<a href="kia"><img src="https://media.evkx.net/multimedia/models/kia/logo_xst.png" alt="Kia" title="Kia" class="img-fluid img-thumbnail ms-2 me-2 mb-2 mt-2" /></a>
 		</div>
 		<div class="col col-6 col-md-3" >
@@ -381,6 +384,16 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	Jeep har 1 modell(er) med totalt 1 varianter.
 	</p>
 	<a href="jeep/" class="btn btn-outline-primary" role="button">Gå till Jeep modellöversikt</a>
+</div>
+<div class="container p-3 mb-4 bg-body-tertiary rounded border">
+	<h2>KGM</h2>
+	<p>
+		Korean Global Motors (KGM) är en biltillverkare baserad i Sydkorea. Känd för sitt breda utbud av fordon, inklusive elektriska och hybrida modeller, har KGM gjort anmärkningsvärda bidrag till den globala bilmarknaden. Företaget betonar innovativ design och avancerad ingenjörskonst, i linje med branschens trender mot hållbarhet och teknikintegration. KGM fortsätter att vara en betydande aktör inom bilsektorn, både nationellt och internationellt.
+	</p>
+	<p>
+	KGM har 1 modell(er) med totalt 1 varianter.
+	</p>
+	<a href="kgm/" class="btn btn-outline-primary" role="button">Gå till KGM modellöversikt</a>
 </div>
 <div class="container p-3 mb-4 bg-body-tertiary rounded border">
 	<a href="kia/"><img src="https://media.evkx.net/multimedia/models/kia/brandevs_st.jpg" class="img-fluid mb-2" alt="Kia" ></a>
