@@ -54,6 +54,42 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/exterior_6.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/exterior_6.jpg"
+data-pswp-width="3000"
+data-pswp-height="2001" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/exterior_6_xst.jpg" alt="KGM Torres EVX" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/exterior_7.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/exterior_7.jpg"
+data-pswp-width="3000"
+data-pswp-height="2001" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/exterior_7_xst.jpg" alt="KGM Torres EVX" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/exterior_8.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/exterior_8.jpg"
+data-pswp-width="3000"
+data-pswp-height="2001" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/exterior_8_xst.jpg" alt="KGM Torres EVX" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/exterior_9.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/exterior_9.jpg"
+data-pswp-width="3000"
+data-pswp-height="2001" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/exterior_9_xst.jpg" alt="KGM Torres EVX" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/headlights_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/headlights_1.jpg"
 data-pswp-width="3000"
@@ -105,6 +141,15 @@ data-pswp-width="3000"
 data-pswp-height="2143" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/rearlights_1_xst.jpg" alt="KGM Torres EVX" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/screens_1.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/screens_1.jpg"
+data-pswp-width="3000"
+data-pswp-height="1960" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/screens_1_xst.jpg" alt="KGM Torres EVX" class="img-fluid " />
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">

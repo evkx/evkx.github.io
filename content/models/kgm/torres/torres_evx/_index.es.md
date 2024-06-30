@@ -145,6 +145,10 @@ Keyless go permite arrancar el auto sin usar la llave.
 El KGM Torres EVX tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla detrás del volante a la izquierda del marco mide 12,3 pulgadas de tamaño y tiene una resolución de 1920 x 720 píxeles. La touch pantalla en la parte derecha del marco compartido mide 12,3 pulgadas de tamaño y tiene una resolución de 2880 x 1080 píxeles.
 El modelo no tiene head-up display.
 
+
+{{< sitefiguresized thumb="models/kgm/torres/torres_evx/screens_1_st.jpg" title="KGM Torres EVX" width="3000" height="1960"  >}}
+
+
 ## Infoentretenimiento
 
 Un tipo de sistema de sonido está disponible para el KGM Torres EVX. Con el KGM, obtienes seis parlantes con una salida máxima del sistema de 100 vatios.
@@ -182,9 +186,9 @@ El KGM Torres EVX tiene [**frenado automático de emergencia**](../../../../tech
 
 ### Automatización de conducción
 
+El KGM Torres EVX ofrece [automatización de la conducción en el nivel 1](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-
-Con el sistema   nivel 2, obtienes las siguientes funciones de automatización de conducción.
+Con el sistema   nivel 1, obtienes las siguientes funciones de automatización de conducción.
 - [**Control de crucero adaptativo**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 ### Sensores y cámaras

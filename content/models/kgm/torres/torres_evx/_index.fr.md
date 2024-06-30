@@ -145,6 +145,10 @@ Keyless go permet de démarrer la voiture sans utiliser la clé.
 Le KGM Torres EVX possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  derrière le volant à gauche du cadre mesure 12,3 pouces et a une résolution de 1920 x 720 pixels. L'écran touch à droite du cadre partagé mesure 12,3 pouces et a une résolution de 2880 x 1080 pixels.
 Le modèle n'a pas d'affichage tête haute.
 
+
+{{< sitefiguresized thumb="models/kgm/torres/torres_evx/screens_1_st.jpg" title="KGM Torres EVX" width="3000" height="1960"  >}}
+
+
 ## Infodivertissement
 
 Un type de système audio est disponible pour le KGM Torres EVX. Avec le KGM, vous obtenez six haut-parleurs avec une puissance système maximale de 100 watts.
@@ -182,9 +186,9 @@ Le KGM Torres EVX dispose du [**freinage d'urgence automatique**](../../../../te
 
 ### Automatisation de la conduite
 
+Le KGM Torres EVX propose [l'automatisation de la conduite au niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
-
-Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
+Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 ### Capteurs et caméras

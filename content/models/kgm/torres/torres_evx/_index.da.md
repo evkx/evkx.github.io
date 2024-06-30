@@ -145,6 +145,10 @@ Keyless go gør det muligt at starte bilen uden at bruge nøglen.
 KGM Torres EVX har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 12,3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch i højre del af den delte ramme er 12,3 tommer stor og har en opløsning på 2880 x 1080 pixels.
 Modellen har ikke et head-up display.
 
+
+{{< sitefiguresized thumb="models/kgm/torres/torres_evx/screens_1_st.jpg" title="KGM Torres EVX" width="3000" height="1960"  >}}
+
+
 ## Infotainment
 
 Én type lydsystem er tilgængelig for KGM Torres EVX. Med KGM får du seks højttalere med en maksimal systemeffekt på 100 watt.
@@ -182,9 +186,9 @@ KGM Torres EVX har [**automatisk nødbremse**](../../../../technology/driverassi
 
 ### Køreautomatisering
 
+KGM Torres EVX tilbyder [kørselsautomatisering på niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængig af udstyrsniveau.
 
-
-Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
+Med   niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
 ### Sensorer og kameraer
