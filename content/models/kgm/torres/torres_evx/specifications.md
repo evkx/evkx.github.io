@@ -139,6 +139,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				<a href="/technology/battery/charging/">Max DC charging</a>
+			</td>
+			<td>
+				120 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="/technology/battery/cellchemistry/">Cathode Materials</a>
 			</td>
 			<td>
@@ -958,6 +966,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/infotainment/smartphoneintegration/">Android Auto support</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -965,6 +974,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/infotainment/smartphoneintegration/">Apple Carplay support</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>
@@ -972,6 +982,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/infotainment/navigation/">In Car navigation</a>
 			</td>
 			<td>
+				Yes, standard equipment
 			</td>
 		</tr>
 		<tr>

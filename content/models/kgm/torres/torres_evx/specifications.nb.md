@@ -139,6 +139,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Maks DC-lading
+			</td>
+			<td>
+				120 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Katodematerialer
 			</td>
 			<td>
@@ -958,6 +966,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Android Auto-støtte
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -965,6 +974,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Apple Carplay-støtte
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>
@@ -972,6 +982,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				I bilnavigasjon
 			</td>
 			<td>
+				Ja, standardutstyr
 			</td>
 		</tr>
 		<tr>

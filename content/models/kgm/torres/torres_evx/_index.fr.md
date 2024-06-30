@@ -37,7 +37,7 @@ La batterie haute capacité a une capacité brute de 75 kWh et une capacité net
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 462 km, avec une consommation d'énergie de 15,9 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de kW. Une charge complète de 0 à 100 % prendrait 59 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 32 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 64 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 90kW. Chaque session de charge prendrait 30 minutes et 16 secondes.
+La vitesse de charge DC maximale est de 120kW. Une charge complète de 0 à 100 % prendrait 59 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 32 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 64 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 90kW. Chaque session de charge prendrait 30 minutes et 16 secondes.
 
 ### Chargeur embarqué
 
@@ -67,7 +67,9 @@ La suspension  a une hauteur et un amortissement fixes.
 
 ### Freinage régénératif
 
+[Le freinage régénératif](../../../../technology/regen/) de ce modèle est principalement facilité par la [**conduite à une pédale**](../../../../technology/regen/#one-pedal-driving). Contrairement à certains modèles, la [régénération automatique](../../../../technology/regen/#automatic-regen-adaptive) ou la conduite en roue libre ne sont pas disponibles ici.
 
+De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous levez le pied de l'accélérateur. Il y a trois niveaux de freinage régénératif parmi lesquels choisir, vous permettant de personnaliser l'expérience de conduite selon vos préférences.
 
 ## Extérieur
 
@@ -141,7 +143,9 @@ Le modèle n'a pas d'affichage tête haute.
 
 Un type de système audio est disponible pour le KGM Torres EVX. Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
 
+De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le KGM Torres EVX prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
 
+Le modèle dispose de 4 connexions USB-C en standard.
 ## Lumières
 
 Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
@@ -178,7 +182,10 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 
 La capacité de chargement dans le coffre est de 839 litres. Avec la banquette arrière rabattue, elle est de 1662 litres. Le poids maximum de la voiture est de 2410 kg (5313 lbs), et avec le poids de base de 1915 kg (4222 lbs), vous pouvez charger au maximum 495 kg (1091 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 495kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1500, et sur une remorque non freinée, il est de 500 kg (3307/1102 lbs).<div class="mt-3 mb-3">
+Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1500, et sur une remorque non freinée, il est de 500 kg (3307/1102 lbs).
+### Disponibilité et prix
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> KGM Torres </strong>
 </a>

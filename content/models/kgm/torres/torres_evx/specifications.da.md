@@ -139,6 +139,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Max DC-opladning
+			</td>
+			<td>
+				120 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Katodematerialer
 			</td>
 			<td>
@@ -958,6 +966,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Android Auto-understøttelse
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -965,6 +974,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Apple Carplay support
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -972,6 +982,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				I bilnavigation
 			</td>
 			<td>
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>

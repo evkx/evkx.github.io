@@ -37,7 +37,7 @@ The high-capacity battery has a gross capacity of 75 kWh and a net usable capaci
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 462 km (287 miles), with an energy consumption rate of 15.9 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 59 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 97 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 64%. This results in an effective charging speed, including time lost, of 90 kW, with each charging session taking about 30 minutes and 16 seconds..
+The vehicle supports fast DC charging with a maximum power of 120 kW. Charging from 0% to 100% takes approximately 59 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 97 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 64%. This results in an effective charging speed, including time lost, of 90 kW, with each charging session taking about 30 minutes and 16 seconds..
 
 ### Onboard charger
 
@@ -67,7 +67,9 @@ The  suspension has a fixed height and damping.
 
 ### Regenerative braking
 
+[Regenerative braking](../../../../technology/regen/) in this model is primarily facilitated through [**one-pedal driving**](../../../../technology/regen/#one-pedal-driving). Unlike some models, [Automatic regen](../../../../technology/regen/#automatic-regen-adaptive) or coasting is not available here.
 
+Additionally, you can adjust the strength of the regenerative braking when you lift your foot off the accelerator. There are three levels of regenerative braking to choose from, allowing you to customize the driving experience to your preference.
 
 ## Exterior
 
@@ -141,7 +143,9 @@ The model does not have a head-up display.
 
 One type of sound system is available for the KGM Torres EVX. With the , you get NULL speakers with a max system output of  watts.
 
+In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the KGM Torres EVX supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
+The model has 4 USB-C connections as standard.
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
@@ -178,7 +182,10 @@ With the   level 2 system, you get the following driving automation features.
 
 The cargo capacity in the trunk is 839 liters. With the rear seat down, it is 1662 liters. The maxium weight of the car is 2410 kg (5313 lbs), and with the base weight of 1915 kg (4222 lbs), you can max load 495 kg (1091 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 495kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 500 kg (3307/1102 lbs).<div class="mt-3 mb-3">
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 500 kg (3307/1102 lbs).
+### Availability & Pricing
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> KGM Torres </strong>
 </a>

@@ -37,7 +37,7 @@ Det højkapacitetsbatteri har en bruttokapacitet på 75 kWh og en nettoanvendeli
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 462 km, med et energiforbrugsrate på 15,9 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 59 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 64%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 90kW. Hver opladningssession ville tage 30 minutter og 16 sekunder.
+Den maksimale DC-opladningshastighed er 120kW. En fuld opladning fra 0 - 100 % ville tage 59 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 64%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 90kW. Hver opladningssession ville tage 30 minutter og 16 sekunder.
 
 ### Ombordlader
 
@@ -67,7 +67,9 @@ KGM Torres EVX har et forhjulstræksystem understøttet af en motor på foraksle
 
 ### Regenerativ bremsning
 
+[Regenerativ bremsning](../../../../technology/regen/) i denne model er primært faciliteret gennem [**en-pedal kørsel**](../../../../technology/regen/#one-pedal-driving). I modsætning til nogle modeller er [Automatisk regen](../../../../technology/regen/#automatic-regen-adaptive) eller kørsel på frihjul ikke tilgængelig her.
 
+Desuden kan du justere styrken af den regenerative bremsning, når du løfter foden fra speederen. Der er tre niveauer af regenerativ bremsning at vælge imellem, hvilket giver dig mulighed for at tilpasse køreoplevelsen efter dine præferencer.
 
 ## Udvendig
 
@@ -141,7 +143,9 @@ Modellen har ikke et head-up display.
 
 Én type lydsystem er tilgængelig for KGM Torres EVX. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
 
+Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter KGM Torres EVX Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 
+Modellen har 4 USB-C-forbindelser som standard.
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
@@ -178,7 +182,10 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 Lagekapaciteten i bagagerummet er 839 liter. Med bagsædet nede er det 1662 liter. Bilens maksimale vægt er 2410 kg (5313 lbs), og med basisvægten på 1915 kg (4222 lbs), kan du maksimalt laste 495 kg (1091 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 495kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 500 kg (3307/1102 lbs).<div class="mt-3 mb-3">
+Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 500 kg (3307/1102 lbs).
+### Tilgængelighed og priser
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> KGM Torres </strong>
 </a>

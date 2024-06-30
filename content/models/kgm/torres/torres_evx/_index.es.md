@@ -37,7 +37,7 @@ La batería de alta capacidad tiene una capacidad bruta de 75 kWh y una capacida
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 462 km, con una tasa de consumo de energía de 15,9 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 59 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 64%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 90kW. Cada sesión de carga tardaría 30 minutos y 16 segundos.
+La velocidad máxima de carga de CC es 120kW. Una carga completa del 0 al 100 % tardaría 59 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 64%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 90kW. Cada sesión de carga tardaría 30 minutos y 16 segundos.
 
 ### Cargador a bordo
 
@@ -67,7 +67,9 @@ La suspensión  tiene una altura y amortiguación fijas.
 
 ### Frenado regenerativo
 
+[La frenada regenerativa](../../../../technology/regen/) en este modelo se facilita principalmente a través de la [**conducción con un solo pedal**](../../../../technology/regen/#one-pedal-driving). A diferencia de algunos modelos, [la regeneración automática](../../../../technology/regen/#automatic-regen-adaptive) o la conducción por inercia no están disponibles aquí.
 
+Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas el pie del acelerador. Hay tres niveles de frenado regenerativo para elegir, lo que te permite personalizar la experiencia de conducción según tus preferencias.
 
 ## Exterior
 
@@ -141,7 +143,9 @@ El modelo no tiene head-up display.
 
 Un tipo de sistema de sonido está disponible para el KGM Torres EVX. Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
 
+Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el KGM Torres EVX es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
 
+El modelo tiene 4 conexiones USB-C de serie.
 ## Luces
 
 Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
@@ -178,7 +182,10 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 
 La capacidad de carga en el maletero es de 839 litros. Con el asiento trasero abatido, es de 1662 litros. El peso máximo del automóvil es 2410 kg (5313 lbs), y con el peso base de 1915 kg (4222 lbs), puedes cargar como máximo 495 kg (1091 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga. 495kg se considera bajo para este tipo de automóvil y podría restringir la cantidad de cosas que puedes llevar además de los pasajeros.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1500, y sin freno, es de 500 kg (3307/1102 lbs).<div class="mt-3 mb-3">
+Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1500, y sin freno, es de 500 kg (3307/1102 lbs).
+### Disponibilidad y precios
+
+<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> KGM Torres </strong>
 </a>
