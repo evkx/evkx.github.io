@@ -39,6 +39,8 @@ Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonize
 
 Den maksimale DC-opladningshastighed er 120kW. En fuld opladning fra 0 - 100 % ville tage 59 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 64%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 90kW. Hver opladningssession ville tage 30 minutter og 16 sekunder.
 
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 26 kWh/100 km, ville turen tage cirka 10 timer og 25 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 65%, med en samlet opladningstid på 125 minutter
+
 ### Ombordlader
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 6 timer og 40 minutter ved brug af en hjemmeoplader.
@@ -58,7 +60,7 @@ KGM Torres EVX har et forhjulstræksystem understøttet af en motor på foraksle
 
 ### Hjulophæng
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 190 mm.
+Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 175 mm.
 
 ### Bremser
 
@@ -98,7 +100,7 @@ Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Sæde
 
 Kun én type forsæde er tilgængelig i KGM Torres EVX.
 
-Følgende funktioner er tilgængelige på **** sædet.
+Følgende funktioner er tilgængelige på **standard** sædet.
 
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -115,7 +117,7 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 
-Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -124,7 +126,7 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
+Der er et tilgængeligt klimasystem. Klimasystemet 2-zone understøtter forskellige temperaturer i to zoner for fører og passager. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
 
 ## Komfort
 
@@ -145,7 +147,7 @@ Modellen har ikke et head-up display.
 
 ## Infotainment
 
-Én type lydsystem er tilgængelig for KGM Torres EVX. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgængelig for KGM Torres EVX. Med KGM får du seks højttalere med en maksimal systemeffekt på 100 watt.
 
 Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter KGM Torres EVX Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 
@@ -185,6 +187,10 @@ KGM Torres EVX har [**automatisk nødbremse**](../../../../technology/driverassi
 Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
+### Sensorer og kameraer
+
+Denne model bruger kameraer, radar og ultralydssensorer til førerassistentsystemerne.
+Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og otte [ultralydssensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt, hvad der sker i køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
 

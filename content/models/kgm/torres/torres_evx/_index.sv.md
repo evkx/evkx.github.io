@@ -39,6 +39,8 @@ Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized 
 
 Maximal DC-laddningshastighet är 120 kW. En full laddning från 0 - 100 % tar 59 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 64%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 90kW. Varje laddningssession tar 30 minuter och 16 sekunder.
 
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 26 kWh/100 km, skulle resan ta ungefär 10 timmar och 25 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 65%, med en total laddningstid på 125 minuter.
+
 ### Ombordladdare
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 6 timmar och 40 minuter med en hemmaladdare.
@@ -58,7 +60,7 @@ KGM Torres EVX har ett framhjulsdriftssystem som stöds av en motor på framaxel
 
 ### Hjulupphängning
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 190 mm.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 175 mm.
 
 ### Bromsar
 
@@ -98,7 +100,7 @@ Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Sittlayou
 
 Endast en typ av framsäte är tillgänglig i KGM Torres EVX.
 
-Följande funktioner är tillgängliga på **** sätet.
+Följande funktioner är tillgängliga på **standard** sätet.
 
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
@@ -115,7 +117,7 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 
-Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
@@ -124,7 +126,7 @@ Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem. Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
+Det finns ett tillgängligt klimatsystem. Klimatsystemet 2-zone stöder olika temperaturer i två zoner för förare och passagerare. Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
 ## Tröst
 
@@ -145,7 +147,7 @@ Modellen är inte tillgänglig med head-up display.
 
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för KGM Torres EVX. Med  får du NULL högtalare med en maximal systemeffekt på  watt.
+En typ av ljudsystem är tillgänglig för KGM Torres EVX. Med KGM får du sex högtalare med en maximal systemeffekt på 100 watt.
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder KGM Torres EVX Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
 
@@ -185,6 +187,10 @@ KGM Torres EVX har [**automatisk nödbroms**](../../../../technology/driverassis
 Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 - [**Adaptiv farthållare**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
+### Sensorer och kameror
+
+Denna modell använder kameror, radar och ultraljudssensorer för förarassistanssystemen.
+Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och åtta [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerar allt som händer i fordonets miljö.
 
 {{<evkxdisplayaddarticle />}}
 

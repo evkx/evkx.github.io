@@ -490,7 +490,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				190 mm (7,5")
+				175 mm (6,9")
 			</td>
 		</tr>
 		<tr>
@@ -498,7 +498,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				190 mm (7,5")
+				175 mm (6,9")
 			</td>
 		</tr>
 		<tr>
@@ -557,6 +557,9 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 This model is available with a seat configuration with five seats.
 
 ### Front seats
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -726,6 +729,9 @@ This model is available with a seat configuration with five seats.
 </table>
 
 ### Second row seats
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -1067,6 +1073,7 @@ This model is available with a seat configuration with five seats.
 				Head-up display
 			</td>
 			<td>
+				Not available
 			</td>
 		</tr>
 		<tr>

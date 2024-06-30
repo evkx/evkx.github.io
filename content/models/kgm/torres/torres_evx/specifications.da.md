@@ -490,7 +490,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maks frihøjde
 			</td>
 			<td>
-				190 mm (7,5")
+				175 mm (6,9")
 			</td>
 		</tr>
 		<tr>
@@ -498,7 +498,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Minimum frihøjde
 			</td>
 			<td>
-				190 mm (7,5")
+				175 mm (6,9")
 			</td>
 		</tr>
 		<tr>
@@ -557,6 +557,9 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 
 ### Forsæder
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -726,6 +729,9 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 </table>
 
 ### Sæder på anden række
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -1067,6 +1073,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Head-up display
 			</td>
 			<td>
+				Ikke tilgængelig
 			</td>
 		</tr>
 		<tr>

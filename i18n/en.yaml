@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-6ecc80b9
+  translation: KGM Torres EVX is an all-electric SUV with a WLTP range of up to 462 km (287 miles). EVKX.net has all the details.
+
 - id: frontpage-description-ae995052
   translation: Hyundai INSTER Standard Range is an all-electric hatchback with a WLTP range of up to 300 km (187 miles). EVKX.net has all the details.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-1dab2cfe
   translation: Audi Q6 e-tron performance is an all-electric premium SUV with a WLTP range of up to 641 km (398 miles). EVKX.net has all the details.
-
-- id: frontpage-description-6fb104c0
-  translation: Porsche Taycan Turbo is an all-electric luxury sedan with a WLTP range of up to 630 km (392 miles). EVKX.net has all the details.
 

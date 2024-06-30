@@ -490,7 +490,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia máxima al suelo
 			</td>
 			<td>
-				190 mm (7,5")
+				175 mm (6,9")
 			</td>
 		</tr>
 		<tr>
@@ -498,7 +498,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				distancia mínima al suelo
 			</td>
 			<td>
-				190 mm (7,5")
+				175 mm (6,9")
 			</td>
 		</tr>
 		<tr>
@@ -557,6 +557,9 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 Este modelo está disponible con una configuración de cinco asientos.
 
 ### Asientos delanteros
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -726,6 +729,9 @@ Este modelo está disponible con una configuración de cinco asientos.
 </table>
 
 ### Asientos de la segunda fila
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -1067,6 +1073,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Pantalla frontal
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>

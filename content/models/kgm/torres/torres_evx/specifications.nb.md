@@ -490,7 +490,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks bakkeklaring
 			</td>
 			<td>
-				190 mm
+				175 mm
 			</td>
 		</tr>
 		<tr>
@@ -498,7 +498,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Minimum bakkeklaring
 			</td>
 			<td>
-				190 mm
+				175 mm
 			</td>
 		</tr>
 		<tr>
@@ -557,6 +557,9 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 
 ### Forseter
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -726,6 +729,9 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 </table>
 
 ### Seter på andre rad
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -1067,6 +1073,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Head-up display
 			</td>
 			<td>
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

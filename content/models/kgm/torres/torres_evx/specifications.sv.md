@@ -490,7 +490,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max markfrigång
 			</td>
 			<td>
-				190 mm
+				175 mm
 			</td>
 		</tr>
 		<tr>
@@ -498,7 +498,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Minsta markfrigång
 			</td>
 			<td>
-				190 mm
+				175 mm
 			</td>
 		</tr>
 		<tr>
@@ -557,6 +557,9 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 
 ### Framsäten
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -726,6 +729,9 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 </table>
 
 ### Sätesrad 2
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -1067,6 +1073,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Head-up display
 			</td>
 			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
 			</td>
 		</tr>
 		<tr>

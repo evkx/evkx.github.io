@@ -39,6 +39,8 @@ According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide 
 
 The vehicle supports fast DC charging with a maximum power of 120 kW. Charging from 0% to 100% takes approximately 59 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 97 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 64%. This results in an effective charging speed, including time lost, of 90 kW, with each charging session taking about 30 minutes and 16 seconds..
 
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 26 kWh/100 km, the trip would take approximately 10 hours and 25 minutes. This journey would require four charging stops from 1% to 65%, with a total charging time of 125 minutes.
+
 ### Onboard charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 40 minutes using a home charging setup.
@@ -58,7 +60,7 @@ KGM Torres EVX has a front-wheel drive system supported by one motor on the fron
 
 ### Suspension
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 190 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 175 mm.
 
 ### Brakes
 
@@ -98,7 +100,7 @@ You can choose between different types of seat materials and interior styling. T
 
 Only one front seat type is available in the KGM Torres EVX.
 
-The following functionalities are available on the **** seat.
+The following functionalities are available on the **standard** seat.
 
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -115,7 +117,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
-The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
@@ -124,7 +126,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
+There is one climate system available. The 2-zone climate system supports different temperatures in two zones for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
 ## Comfort
 
@@ -145,7 +147,7 @@ The model does not have a head-up display.
 
 ## Infotainment
 
-One type of sound system is available for the KGM Torres EVX. With the , you get NULL speakers with a max system output of  watts.
+One type of sound system is available for the KGM Torres EVX. With the KGM, you get six speakers with a max system output of 100 watts.
 
 In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the KGM Torres EVX supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
@@ -185,6 +187,10 @@ The KGM Torres EVX has [**automatic emergency braking**](../../../../technology/
 With the   level 2 system, you get the following driving automation features.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
+### Sensors & Cameras
+
+This model uses cameras, radar, and ultrasonic sensors for the driver assist systems.
+Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and eight [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
 

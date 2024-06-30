@@ -39,6 +39,8 @@ Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwi
 
 La velocidad máxima de carga de CC es 120kW. Una carga completa del 0 al 100 % tardaría 59 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 64%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 90kW. Cada sesión de carga tardaría 30 minutos y 16 segundos.
 
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 26 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 25 minutos. Este viaje requeriría dos paradas de carga del 1% al 65%, con un tiempo total de carga de 125 minutos.
+
 ### Cargador a bordo
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 6 horas y 40 minutos usando un cargador en casa.
@@ -58,7 +60,7 @@ KGM Torres EVX tiene un sistema de tracción delantera sostenido por un motor en
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 190 mm.
+La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 175 mm.
 
 ### Frenos
 
@@ -98,7 +100,7 @@ Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior
 
 Sólo hay un tipo de asiento delantero disponible en el KGM Torres EVX.
 
-Las siguientes funcionalidades están disponibles en el asiento ****.
+Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
@@ -115,7 +117,7 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
 
-La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+La segunda fila tiene un banco estándar de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
@@ -124,7 +126,7 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
+Hay un sistema climático disponible. El sistema climático 2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
 
 ## Comodidad
 
@@ -145,7 +147,7 @@ El modelo no tiene head-up display.
 
 ## Infoentretenimiento
 
-Un tipo de sistema de sonido está disponible para el KGM Torres EVX. Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+Un tipo de sistema de sonido está disponible para el KGM Torres EVX. Con el KGM, obtienes seis parlantes con una salida máxima del sistema de 100 vatios.
 
 Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el KGM Torres EVX es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
 
@@ -185,6 +187,10 @@ El KGM Torres EVX tiene [**frenado automático de emergencia**](../../../../tech
 Con el sistema   nivel 2, obtienes las siguientes funciones de automatización de conducción.
 - [**Control de crucero adaptativo**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
+### Sensores y cámaras
+
+Este modelo utiliza cámaras, radar y sensores ultrasónicos para los sistemas de asistencia al conductor.
+Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/), y ocho [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) registran todo lo que sucede en el entorno del vehículo.
 
 {{<evkxdisplayaddarticle />}}
 

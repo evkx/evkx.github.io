@@ -39,6 +39,8 @@ I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Har
 
 Maksimal DC-ladehastighet er 120 kW. En full lading fra 0 - 100 % vil ta 59 minutter, mens et mer vanlig scenario på 10-80 % vil ta 32 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 2% til 64%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 90kW. Hver ladeøkt vil ta 30 minutter og 16 sekunder.
 
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 26 kWh/100 km, ville turen ta omtrent 10 timer og 25 minutter. Denne reisen ville kreve to ladestopp fra 1% til 65%, med en total ladetid på 125 minutter.
+
 ### Ombordlader
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 6 timer og 40 minutter med en hjemmelader.
@@ -58,7 +60,7 @@ KGM Torres EVX har et forhjulsdriftssystem støttet av én motor på forakselen.
 
 ### Hjuloppheng
 
-Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 190 mm.
+Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 175 mm.
 
 ### Bremser
 
@@ -98,7 +100,7 @@ Du kan velge mellom ulike typer setematerialer og interiørstil. Seteoppsettet e
 
 Bare én type forsete er tilgjengelig i KGM Torres EVX.
 
-Følgende funksjoner er tilgjengelige på **** setet.
+Følgende funksjoner er tilgjengelige på **standard** setet.
 
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
@@ -115,7 +117,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 
-Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
@@ -124,7 +126,7 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem. Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
+Det er ett tilgjengelig klimasystem. Klimasystemet 2-zone støtter forskjellige temperaturer i to soner for sjåfør og passasjer. Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
 
 ## Komfort
 
@@ -145,7 +147,7 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for KGM Torres EVX. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgjengelig for KGM Torres EVX. Med KGM får du seks høyttalere med en maksimal systemeffekt på 100 watt.
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter KGM Torres EVX Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
@@ -185,6 +187,10 @@ KGM Torres EVX har [**automatisk nødbremsing**](../../../../technology/driveras
 Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 - [**Adaptive Cruise control**](../../../../technology/driverassistance/adaptivecruisecontrol/)
 
+### Sensorer og kameraer
+
+Denne modellen bruker kameraer, radar og ultralydsensorer for førerassistentsystemene.
+Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/) , fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og åtte [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -490,7 +490,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol maximale
 			</td>
 			<td>
-				190 mm (7,5")
+				175 mm (6,9")
 			</td>
 		</tr>
 		<tr>
@@ -498,7 +498,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Garde au sol minimale
 			</td>
 			<td>
-				190 mm (7,5")
+				175 mm (6,9")
 			</td>
 		</tr>
 		<tr>
@@ -557,6 +557,9 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 Ce modèle est disponible avec une configuration de sièges à cinq places.
 
 ### Sièges avant
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -726,6 +729,9 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 </table>
 
 ### Sièges de la deuxième rangée
+
+
+#### standard
 
 <table class="table table-striped border">
 	<thead>
@@ -1067,6 +1073,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Affichage tête haute
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>

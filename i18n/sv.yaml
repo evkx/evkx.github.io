@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-6ecc80b9
+  translation: KGM Torres EVX är en helelektrisk SUV med en WLTP räckvidd på upp till 462 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-ae995052
   translation: Hyundai INSTER Standard Range är en helelektrisk halvkombi med en WLTP räckvidd på upp till 300 km. EVKX.net har alla detaljer.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-1dab2cfe
   translation: Audi Q6 e-tron performance är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 641 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-6fb104c0
-  translation: Porsche Taycan Turbo är en helelektrisk lyxsedan med en WLTP räckvidd på upp till 630 km. EVKX.net har alla detaljer.
 
