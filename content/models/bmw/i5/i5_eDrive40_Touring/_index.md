@@ -87,7 +87,7 @@ The maximum regenerative power is 116 kW.
 
 ## Exterior
 
-You can choose between 12 different paint colors when ordering this model.
+The BMW i5 eDrive40 Touring, with dimensions of 5060 mm in length, 1900 mm in width, and 1515 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. You can choose between 12 different paint colors when ordering this model.
 Additionally, you can choose between 8 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. Soft close is an optional function for the side doors.

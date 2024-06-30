@@ -77,7 +77,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 4 different paint colors when ordering this model.
+The MG MG5 Electric Standard Range, with dimensions of 4600 mm in length, 1818 mm in width, and 1543 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. You can choose between 4 different paint colors when ordering this model.
 
 
 

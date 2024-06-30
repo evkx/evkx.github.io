@@ -77,7 +77,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ## Exteriör
 
-Du kan välja mellan 4 olika färgfärger när du beställer den här modellen.
+MG MG5 Electric Long Range, med dimensioner på 4600 mm i längd, 1818 mm i bredd och 1543 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. Du kan välja mellan 4 olika färgfärger när du beställer den här modellen.
 
 
 

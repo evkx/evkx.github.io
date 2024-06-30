@@ -95,7 +95,7 @@ La puissance régénérative maximale est de 265 kW.
 
 ## Extérieur
 
-Vous pouvez choisir entre 17 couleurs de peinture différentes lors de la commande de ce modèle.
+La Porsche Taycan 4S Sport Turismo, avec des dimensions de 4963 mm de longueur, 1964 mm de largeur et 1395 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. Vous pouvez choisir entre 17 couleurs de peinture différentes lors de la commande de ce modèle.
 
 Vous pouvez également choisir plusieurs options de style pour rendre votre voiture plus unique.
 De plus, vous pouvez choisir entre 8 roues avec des tailles allant de 19 à 21 pouces.

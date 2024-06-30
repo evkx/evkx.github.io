@@ -89,7 +89,7 @@ Den maksimale regenerative effekten er 275 kW.
 
 ## Eksteriør
 
-Du kan velge mellom 17 forskjellige lakkfarger når du bestiller denne modellen.
+Porsche Taycan Turbo S Cross Turismo (GEN1), med dimensjoner på 4974 mm i lengde, 1967 mm i bredde og 1409 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Du kan velge mellom 17 forskjellige lakkfarger når du bestiller denne modellen.
 
 Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
 I tillegg kan du velge mellom 8 hjul med størrelser fra 19 til 21 tommer.

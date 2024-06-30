@@ -87,7 +87,7 @@ Den maksimale regenerative effekt er 116 kW.
 
 ## Udvendig
 
-Du kan vælge mellem 12 forskellige malingsfarver, når du bestiller denne model.
+Den BMW i5 eDrive40 Touring, med dimensioner på 5060 mm i længde, 1900 mm i bredde og 1515 mm i højde, tilhører F-segmentet af biler, også kendt som luksus- eller fuldstørrelses luksusbiler. De repræsenterer toppen af ​​automobil luksus, ydeevne og teknologi. De er typisk store sedans eller limousiner og er designet til at tilbyde det ypperste inden for komfort, prestige og avancerede funktioner. Du kan vælge mellem 12 forskellige malingsfarver, når du bestiller denne model.
 Derudover kan du vælge mellem 8 hjul med størrelser fra 19 til 21 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet. Soft close er en valgfri-funktion for sidedørene.
