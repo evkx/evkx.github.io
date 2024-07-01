@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="et5/"><img src="https://media.evkx.net/multimedia/models/nio/et5/et5/main_1_xst.jpg" class="img-fluid" width="400px" height="248px" alt="ET5" ></a>
-<i class="bi bi-battery-full"></i> 75 - 100 kWh <i class="bi bi-ev-station"></i> 126 - 140 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 75 - 100 kWh <i class="bi bi-ev-station"></i> 126 - 140 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="et5_touring/"><img src="https://media.evkx.net/multimedia/models/nio/et5/et5_touring/main_1_xst.jpg" class="img-fluid" width="400px" height="246px" alt="ET5 Touring" ></a>
-<i class="bi bi-battery-full"></i> 75 - 100 kWh <i class="bi bi-ev-station"></i> 140 - 180 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 75 - 100 kWh <i class="bi bi-ev-station"></i> 140 - 180 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

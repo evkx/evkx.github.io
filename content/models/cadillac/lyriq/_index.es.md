@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="lyriq_awd/"><img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="299px" alt="LYRIQ AWD" ></a>
-<i class="bi bi-battery-full"></i> 110 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 110 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="lyriq_rwd/"><img src="https://media.evkx.net/multimedia/models/cadillac/lyriq/lyriq_rwd/main_1_xst.jpg" class="img-fluid" width="400px" height="299px" alt="LYRIQ RWD" ></a>
-<i class="bi bi-battery-full"></i> 110 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 110 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

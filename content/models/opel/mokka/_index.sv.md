@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="mokka_electric/"><img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/main_1_xst.jpeg" class="img-fluid" width="400px" height="266px" alt="Mokka Electric" ></a>
-<i class="bi bi-battery-full"></i> 54 kWh <i class="bi bi-ev-station"></i> 100 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 54 kWh <i class="bi bi-ev-station"></i> 100 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

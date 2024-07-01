@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ex40_single_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/ex40/ex40_single_motor/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="EX40 Single Motor" ></a>
-<i class="bi bi-battery-full"></i> 69 kWh <i class="bi bi-ev-station"></i> 205 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 69 kWh <i class="bi bi-ev-station"></i> 205 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ex40_single_motor_er/"><img src="https://media.evkx.net/multimedia/models/volvo/ex40/ex40_single_motor_er/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="EX40 Single Motor ER" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 205 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 205 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ex40_twin_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/ex40/ex40_twin_motor/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="EX40 Twin Motor" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 205 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 205 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

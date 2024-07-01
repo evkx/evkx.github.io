@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="vf8_eco/"><img src="https://media.evkx.net/multimedia/models/vinfast/vf8/vf8_eco/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="VF8 Eco" ></a>
-<i class="bi bi-battery-full"></i> 94 kWh <i class="bi bi-ev-station"></i> 110 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 94 kWh <i class="bi bi-ev-station"></i> 110 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="vf8_plus/"><img src="https://media.evkx.net/multimedia/models/vinfast/vf8/vf8_plus/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="VF8 Plus" ></a>
-<i class="bi bi-battery-full"></i> 94 kWh <i class="bi bi-ev-station"></i> 110 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 94 kWh <i class="bi bi-ev-station"></i> 110 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

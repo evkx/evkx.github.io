@@ -13,7 +13,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="e-tron_50/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="e-tron 50" ></a>
-<i class="bi bi-battery-full"></i> 71 kWh <i class="bi bi-ev-station"></i> 120 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 71 kWh <i class="bi bi-ev-station"></i> 120 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -32,7 +32,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="e-tron_50_sportback/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_50_sportback/main_1_xst.jpg" class="img-fluid" width="400px" height="265px" alt="e-tron 50 Sportback" ></a>
-<i class="bi bi-battery-full"></i> 71 kWh <i class="bi bi-ev-station"></i> 120 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 71 kWh <i class="bi bi-ev-station"></i> 120 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -51,7 +51,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="e-tron_55/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="e-tron 55" ></a>
-<i class="bi bi-battery-full"></i> 95 kWh <i class="bi bi-ev-station"></i> 150 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 95 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -70,7 +70,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="e-tron_55_sportback/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_55_sportback/main_1_xst.jpg" class="img-fluid" width="400px" height="265px" alt="e-tron 55 Sportback" ></a>
-<i class="bi bi-battery-full"></i> 95 kWh <i class="bi bi-ev-station"></i> 150 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 95 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -89,7 +89,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="e-tron_s/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s/main_1_xst.jpg" class="img-fluid" width="400px" height="299px" alt="e-tron S" ></a>
-<i class="bi bi-battery-full"></i> 95 kWh <i class="bi bi-ev-station"></i> 150 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 95 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -108,7 +108,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="e-tron_s_sportback/"><img src="https://media.evkx.net/multimedia/models/audi/e-tron/e-tron_s_sportback/main_1_xst.jpg" class="img-fluid" width="400px" height="299px" alt="e-tron S Sportback" ></a>
-<i class="bi bi-battery-full"></i> 95 kWh <i class="bi bi-ev-station"></i> 150 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 95 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

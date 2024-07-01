@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="silverado_ev_3wt/"><img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_3wt/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Silverado EV 3WT" ></a>
-<i class="bi bi-battery-full"></i> 200 kWh <i class="bi bi-ev-station"></i> 350 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 200 kWh <i class="bi bi-ev-station"></i> 350 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="silverado_ev_4wt/"><img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_4wt/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Silverado EV 4WT" ></a>
-<i class="bi bi-battery-full"></i> 240 kWh <i class="bi bi-ev-station"></i> 350 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 240 kWh <i class="bi bi-ev-station"></i> 350 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="silverado_ev_srt/"><img src="https://media.evkx.net/multimedia/models/chevrolet/silverado_ev/silverado_ev_srt/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="Silverado EV SRT" ></a>
-<i class="bi bi-battery-full"></i> 240 kWh <i class="bi bi-ev-station"></i> 350 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 240 kWh <i class="bi bi-ev-station"></i> 350 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

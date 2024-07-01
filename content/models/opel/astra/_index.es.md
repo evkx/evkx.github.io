@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="astra_electric/"><img src="https://media.evkx.net/multimedia/models/opel/astra/astra_electric/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Astra Electric" ></a>
-<i class="bi bi-battery-full"></i> 54 kWh <i class="bi bi-ev-station"></i> 100 kW 
+<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 54 kWh <i class="bi bi-ev-station"></i> 100 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="astra_sports_tourer_electric/"><img src="https://media.evkx.net/multimedia/models/opel/astra/astra_sports_tourer_electric/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Astra Sports Tourer Electric" ></a>
-<i class="bi bi-battery-full"></i> 54 kWh <i class="bi bi-ev-station"></i> 100 kW 
+<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 54 kWh <i class="bi bi-ev-station"></i> 100 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

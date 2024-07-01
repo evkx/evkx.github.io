@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="megane_e-tech_techno/"><img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/main_1_xst.jpeg" class="img-fluid" width="400px" height="266px" alt="Megane E-Tech Techno" ></a>
-<i class="bi bi-battery-full"></i> 65 kWh <i class="bi bi-ev-station"></i> 130 kW 
+<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 65 kWh <i class="bi bi-ev-station"></i> 130 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

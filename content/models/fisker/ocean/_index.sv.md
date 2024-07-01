@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ocean_extreme/"><img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_extreme/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Ocean Extreme" ></a>
-<i class="bi bi-battery-full"></i> 113 kWh <i class="bi bi-ev-station"></i> 170 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 113 kWh <i class="bi bi-ev-station"></i> 170 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ocean_sport/"><img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_sport/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="Ocean Sport" ></a>
-<i class="bi bi-battery-full"></i> 73 kWh <i class="bi bi-ev-station"></i> 125 kW 
+<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 73 kWh <i class="bi bi-ev-station"></i> 125 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ocean_ultra/"><img src="https://media.evkx.net/multimedia/models/fisker/ocean/ocean_ultra/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Ocean Ultra" ></a>
-<i class="bi bi-battery-full"></i> 113 kWh <i class="bi bi-ev-station"></i> 170 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 113 kWh <i class="bi bi-ev-station"></i> 170 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

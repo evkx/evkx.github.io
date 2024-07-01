@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="009_me_edition/"><img src="https://media.evkx.net/multimedia/models/zeekr/009/009_me_edition/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="009 ME Edition" ></a>
-<i class="bi bi-battery-full"></i> 140 kWh <i class="bi bi-ev-station"></i> 200 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 140 kWh <i class="bi bi-ev-station"></i> 200 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

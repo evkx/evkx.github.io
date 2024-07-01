@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="g3i/"><img src="https://media.evkx.net/multimedia/models/xpeng/g3/g3i/main_1_xst.jpeg" class="img-fluid" width="400px" height="224px" alt="G3i" ></a>
-<i class="bi bi-battery-full"></i> 66 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 66 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

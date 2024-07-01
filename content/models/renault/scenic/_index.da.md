@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="scenic_e-tech_electric/"><img src="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="Scenic E-Tech electric" ></a>
-<i class="bi bi-battery-full"></i> 65 kWh <i class="bi bi-ev-station"></i> 130 kW 
+<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 65 kWh <i class="bi bi-ev-station"></i> 130 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="scenic_e-tech_electric_high_range/"><img src="https://media.evkx.net/multimedia/models/renault/scenic/scenic_e-tech_electric_high_range/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="Scenic E-Tech electric High Range" ></a>
-<i class="bi bi-battery-full"></i> 91 kWh <i class="bi bi-ev-station"></i> 130 kW 
+<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 91 kWh <i class="bi bi-ev-station"></i> 130 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

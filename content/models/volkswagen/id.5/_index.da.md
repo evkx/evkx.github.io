@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.5_gtx_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.5 GTX 4MOTION" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 170 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 170 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.5_pro_performance/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_pro_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.5 Pro Performance" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.5_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_pro/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.5 Pro" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -70,7 +70,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.5_gtx_4motion_gen1/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.5/id.5_gtx_4motion_gen1/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.5 GTX 4MOTION" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 170 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 170 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

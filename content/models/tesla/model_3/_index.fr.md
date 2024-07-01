@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="model_3_long_range/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/main_1_xst.jpeg" class="img-fluid" width="400px" height="266px" alt="Model 3 Long Range" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 250 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 250 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="model_3_performance/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Model 3 Performance" ></a>
-<i class="bi bi-battery-full"></i> 78,1 kWh <i class="bi bi-ev-station"></i> 250 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 78,1 kWh <i class="bi bi-ev-station"></i> 250 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="model_3/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3/main_1_xst.jpeg" class="img-fluid" width="400px" height="266px" alt="Model 3" ></a>
-<i class="bi bi-battery-full"></i> 60 kWh <i class="bi bi-ev-station"></i> 170 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 60 kWh <i class="bi bi-ev-station"></i> 170 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -70,7 +70,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="model_3_long_range_gen1/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range_gen1/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Model 3 Long Range" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 250 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 250 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -89,7 +89,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="model_3_performance_gen1/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_performance_gen1/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Model 3 Performance" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 250 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 250 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -108,7 +108,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="model_3_gen1/"><img src="https://media.evkx.net/multimedia/models/tesla/model_3/model_3_gen1/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Model 3" ></a>
-<i class="bi bi-battery-full"></i> 60 kWh <i class="bi bi-ev-station"></i> 170 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 60 kWh <i class="bi bi-ev-station"></i> 170 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

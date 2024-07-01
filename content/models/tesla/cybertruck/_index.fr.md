@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="cybertruck_awd/"><img src="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="Cybertruck AWD" ></a>
-<i class="bi bi-battery-full"></i> 123 kWh <i class="bi bi-ev-station"></i> 250 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 123 kWh <i class="bi bi-ev-station"></i> 250 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="cybertruck_cyberbeast/"><img src="https://media.evkx.net/multimedia/models/tesla/cybertruck/cybertruck_cyberbeast/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="Cybertruck Cyberbeast" ></a>
-<i class="bi bi-battery-full"></i> 123 kWh <i class="bi bi-ev-station"></i> 250 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 123 kWh <i class="bi bi-ev-station"></i> 250 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="hash3_brabus/"><img src="https://media.evkx.net/multimedia/models/smart/hash3/hash3_brabus/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="#3 Brabus" ></a>
-<i class="bi bi-battery-full"></i> 66 kWh <i class="bi bi-ev-station"></i> 150 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 66 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="x9_awd_performance/"><img src="https://media.evkx.net/multimedia/models/xpeng/x9/x9_awd_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="X9 AWD Performance" ></a>
-<i class="bi bi-battery-full"></i> 101,5 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 101,5 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

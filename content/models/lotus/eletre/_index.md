@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eletre/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="Eletre" ></a>
-<i class="bi bi-battery-full"></i> 112 kWh <i class="bi bi-ev-station"></i> 350 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 112 kWh <i class="bi bi-ev-station"></i> 350 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eletre_r/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_r/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Eletre R" ></a>
-<i class="bi bi-battery-full"></i> 112 kWh <i class="bi bi-ev-station"></i> 350 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 112 kWh <i class="bi bi-ev-station"></i> 350 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eletre_s/"><img src="https://media.evkx.net/multimedia/models/lotus/eletre/eletre_s/main_1_xst.jpg" class="img-fluid" width="400px" height="245px" alt="Eletre S" ></a>
-<i class="bi bi-battery-full"></i> 112 kWh <i class="bi bi-ev-station"></i> 350 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 112 kWh <i class="bi bi-ev-station"></i> 350 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

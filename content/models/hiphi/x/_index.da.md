@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="x_4_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/x/x_4_seater/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="X 4 Seater" ></a>
-<i class="bi bi-battery-full"></i> 101 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 101 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="x_6_seater/"><img src="https://media.evkx.net/multimedia/models/hiphi/x/x_6_seater/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="X 6 Seater" ></a>
-<i class="bi bi-battery-full"></i> 101 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 101 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

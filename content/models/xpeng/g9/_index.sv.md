@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="g9_awd_performance/"><img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_awd_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="G9 AWD Performance" ></a>
-<i class="bi bi-battery-full"></i> 98 kWh <i class="bi bi-ev-station"></i> 300 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 98 kWh <i class="bi bi-ev-station"></i> 300 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="g9_rwd_long_range/"><img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_long_range/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="G9 RWD Long Range" ></a>
-<i class="bi bi-battery-full"></i> 98 kWh <i class="bi bi-ev-station"></i> 300 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 98 kWh <i class="bi bi-ev-station"></i> 300 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="g9_rwd_standard_range/"><img src="https://media.evkx.net/multimedia/models/xpeng/g9/g9_rwd_standard_range/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="G9 RWD Standard Range" ></a>
-<i class="bi bi-battery-full"></i> 78,2 kWh <i class="bi bi-ev-station"></i> 250 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 78,2 kWh <i class="bi bi-ev-station"></i> 250 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

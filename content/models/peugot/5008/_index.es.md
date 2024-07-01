@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="e-5008_long_range/"><img src="https://media.evkx.net/multimedia/models/peugot/5008/e-5008_long_range/main_1_xst.jpg" class="img-fluid" width="400px" height="222px" alt="E-5008 Long Range" ></a>
-<i class="bi bi-battery-full"></i> 103 kWh <i class="bi bi-ev-station"></i> 160 kW 
+<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 103 kWh <i class="bi bi-ev-station"></i> 160 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

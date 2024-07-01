@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="grancabrio_folgore/"><img src="https://media.evkx.net/multimedia/models/maserati/grancabrio/grancabrio_folgore/main_1_xst.jpg" class="img-fluid" width="400px" height="246px" alt="GranCabrio Folgore" ></a>
-<i class="bi bi-battery-full"></i> 105 kWh <i class="bi bi-ev-station"></i> 150 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 105 kWh <i class="bi bi-ev-station"></i> 150 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

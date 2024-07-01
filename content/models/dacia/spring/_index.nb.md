@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="spring_65hp/"><img src="https://media.evkx.net/multimedia/models/dacia/spring/spring_65hp/main_1_xst.jpg" class="img-fluid" width="400px" height="226px" alt="Spring 65HP" ></a>
-<i class="bi bi-battery-full"></i> 26,8 kWh <i class="bi bi-ev-station"></i> 30 kW 
+<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 26,8 kWh <i class="bi bi-ev-station"></i> 30 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

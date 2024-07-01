@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.4_gtx_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.4 GTX 4MOTION" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.4_pro_4motion/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion/main_1_xst.jpg" class="img-fluid" width="400px" height="271px" alt="ID.4 Pro 4MOTION" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.4_pro_performance/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="243px" alt="ID.4 Pro Performance" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -68,7 +68,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.4_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/main_1_xst.jpg" class="img-fluid" width="400px" height="271px" alt="ID.4 Pro" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -87,7 +87,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.4_pure/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pure/main_1_xst.jpg" class="img-fluid" width="400px" height="271px" alt="ID.4 Pure" ></a>
-<i class="bi bi-battery-full"></i> 58 kWh <i class="bi bi-ev-station"></i> 110 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 58 kWh <i class="bi bi-ev-station"></i> 110 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -108,7 +108,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.4_gtx_4motion_gen1/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_gtx_4motion_gen1/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.4 GTX 4MOTION" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -127,7 +127,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.4_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro/main_1_xst.jpg" class="img-fluid" width="400px" height="271px" alt="ID.4 Pro" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -146,7 +146,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.4_pro_4motion_gen1/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.4/id.4_pro_4motion_gen1/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.4 Pro 4MOTION" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

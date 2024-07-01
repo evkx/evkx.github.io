@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="em90/"><img src="https://media.evkx.net/multimedia/models/volvo/em90/em90/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="EM90" ></a>
-<i class="bi bi-battery-full"></i> 116 kWh <i class="bi bi-ev-station"></i> 200 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 116 kWh <i class="bi bi-ev-station"></i> 200 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

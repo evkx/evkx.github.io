@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqa_250plus/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250plus/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQA 250+" ></a>
-<i class="bi bi-battery-full"></i> 73,9 kWh <i class="bi bi-ev-station"></i> 112 kW 
+<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 73,9 kWh <i class="bi bi-ev-station"></i> 112 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqa_300_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_300_4matic/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQA 300 4MATIC" ></a>
-<i class="bi bi-battery-full"></i> 69,7 kWh <i class="bi bi-ev-station"></i> 112 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 69,7 kWh <i class="bi bi-ev-station"></i> 112 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqa_350_4matic/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_350_4matic/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQA 350 4MATIC" ></a>
-<i class="bi bi-battery-full"></i> 69,7 kWh <i class="bi bi-ev-station"></i> 112 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 69,7 kWh <i class="bi bi-ev-station"></i> 112 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -70,7 +70,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="eqa_250/"><img src="https://media.evkx.net/multimedia/models/mercedes/eqa/eqa_250/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="EQA 250" ></a>
-<i class="bi bi-battery-full"></i> 69,7 kWh <i class="bi bi-ev-station"></i> 112 kW 
+<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 69,7 kWh <i class="bi bi-ev-station"></i> 112 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

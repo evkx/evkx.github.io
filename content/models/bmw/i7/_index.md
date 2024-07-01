@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="i7_edrive50/"><img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_edrive50/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="i7 eDrive50" ></a>
-<i class="bi bi-battery-full"></i> 105,7 kWh <i class="bi bi-ev-station"></i> 195 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 105,7 kWh <i class="bi bi-ev-station"></i> 195 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="i7_m70_xdrive/"><img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="i7 M70 xDrive" ></a>
-<i class="bi bi-battery-full"></i> 105,7 kWh <i class="bi bi-ev-station"></i> 195 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 105,7 kWh <i class="bi bi-ev-station"></i> 195 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="i7_xdrive60/"><img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_xdrive60/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="i7 xDrive60" ></a>
-<i class="bi bi-battery-full"></i> 105,7 kWh <i class="bi bi-ev-station"></i> 195 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 105,7 kWh <i class="bi bi-ev-station"></i> 195 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

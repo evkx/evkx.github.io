@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="torres_evx/"><img src="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/main_1_xst.jpg" class="img-fluid" width="400px" height="225px" alt="Torres EVX" ></a>
-<i class="bi bi-battery-full"></i> 75 kWh <i class="bi bi-ev-station"></i> 120 kW 
+<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 75 kWh <i class="bi bi-ev-station"></i> 120 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

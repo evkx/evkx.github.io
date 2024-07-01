@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="emeya/"><img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="Emeya" ></a>
-<i class="bi bi-battery-full"></i> 102 kWh <i class="bi bi-ev-station"></i> 350 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 102 kWh <i class="bi bi-ev-station"></i> 350 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="emeya_r/"><img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya_r/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="Emeya R" ></a>
-<i class="bi bi-battery-full"></i> 102 kWh <i class="bi bi-ev-station"></i> 400 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 102 kWh <i class="bi bi-ev-station"></i> 400 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="emeya_s/"><img src="https://media.evkx.net/multimedia/models/lotus/emeya/emeya_s/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="Emeya S" ></a>
-<i class="bi bi-battery-full"></i> 102 kWh <i class="bi bi-ev-station"></i> 350 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 102 kWh <i class="bi bi-ev-station"></i> 350 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

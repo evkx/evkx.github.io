@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="inster_long_range/"><img src="https://media.evkx.net/multimedia/models/hyundai/inster/inster_long_range/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="INSTER Long Range" ></a>
-<i class="bi bi-battery-full"></i> 49 kWh <i class="bi bi-ev-station"></i> 80 kW 
+<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 49 kWh <i class="bi bi-ev-station"></i> 80 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="inster_standard_range/"><img src="https://media.evkx.net/multimedia/models/hyundai/inster/inster_standard_range/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="INSTER Standard Range" ></a>
-<i class="bi bi-battery-full"></i> 41 kWh <i class="bi bi-ev-station"></i> 80 kW 
+<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 41 kWh <i class="bi bi-ev-station"></i> 80 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

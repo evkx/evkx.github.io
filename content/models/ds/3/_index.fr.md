@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="3_e-tense/"><img src="https://media.evkx.net/multimedia/models/ds/3/3_e-tense/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="3 E-Tense" ></a>
-<i class="bi bi-battery-full"></i> 54 kWh <i class="bi bi-ev-station"></i> 100 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 54 kWh <i class="bi bi-ev-station"></i> 100 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

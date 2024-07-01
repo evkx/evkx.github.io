@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ev3_long_range/"><img src="https://media.evkx.net/multimedia/models/kia/ev3/ev3_long_range/main_1_xst.jpg" class="img-fluid" width="400px" height="224px" alt="EV3 Long Range" ></a>
-<i class="bi bi-battery-full"></i> 81,4 kWh <i class="bi bi-ev-station"></i> 233 kW 
+<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 81,4 kWh <i class="bi bi-ev-station"></i> 233 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

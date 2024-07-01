@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="e-308/"><img src="https://media.evkx.net/multimedia/models/peugot/308/e-308/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="E-308" ></a>
-<i class="bi bi-battery-full"></i> 54 kWh <i class="bi bi-ev-station"></i> 100 kW 
+<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 54 kWh <i class="bi bi-ev-station"></i> 100 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="e-308_sw/"><img src="https://media.evkx.net/multimedia/models/peugot/308/e-308_sw/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="E-308 SW" ></a>
-<i class="bi bi-battery-full"></i> 54 kWh <i class="bi bi-ev-station"></i> 100 kW 
+<i class="bi bi-record2-fill"></i> FWD <i class="bi bi-battery-full"></i> 54 kWh <i class="bi bi-ev-station"></i> 100 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.7_gtx_tourer/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_gtx_tourer/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.7 GTX Tourer" ></a>
-<i class="bi bi-battery-full"></i> 91 kWh <i class="bi bi-ev-station"></i> 200 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 91 kWh <i class="bi bi-ev-station"></i> 200 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.7_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.7 Pro" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 175 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 175 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.7_pro_s/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_pro_s/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.7 Pro S" ></a>
-<i class="bi bi-battery-full"></i> 91 kWh <i class="bi bi-ev-station"></i> 200 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 91 kWh <i class="bi bi-ev-station"></i> 200 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -68,7 +68,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.7_tourer_pro/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_tourer_pro/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.7 Tourer Pro" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 175 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 175 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -87,7 +87,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="id.7_tourer_pro_s/"><img src="https://media.evkx.net/multimedia/models/volkswagen/id.7/id.7_tourer_pro_s/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="ID.7 Tourer Pro S" ></a>
-<i class="bi bi-battery-full"></i> 91 kWh <i class="bi bi-ev-station"></i> 200 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 91 kWh <i class="bi bi-ev-station"></i> 200 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

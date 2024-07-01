@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="explorer_extended_range_awd/"><img src="https://media.evkx.net/multimedia/models/ford/explorer/explorer_extended_range_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="216px" alt="Explorer Extended Range AWD" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="explorer_extended_range_rwd/"><img src="https://media.evkx.net/multimedia/models/ford/explorer/explorer_extended_range_rwd/main_1_xst.jpg" class="img-fluid" width="400px" height="216px" alt="Explorer Extended Range RWD" ></a>
-<i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 82 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="explorer_standard_range_rwd/"><img src="https://media.evkx.net/multimedia/models/ford/explorer/explorer_standard_range_rwd/main_1_xst.jpg" class="img-fluid" width="400px" height="216px" alt="Explorer Standard Range RWD" ></a>
-<i class="bi bi-battery-full"></i> 55 kWh <i class="bi bi-ev-station"></i> 135 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 55 kWh <i class="bi bi-ev-station"></i> 135 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

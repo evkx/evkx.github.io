@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="q6l_e-tron_quattro/"><img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="Q6L e-tron quattro" ></a>
-<i class="bi bi-battery-full"></i> 107 kWh <i class="bi bi-ev-station"></i> 270 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 107 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="q6_e-tron_performance/"><img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6_e-tron_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Q6 e-tron performance" ></a>
-<i class="bi bi-battery-full"></i> 100 kWh <i class="bi bi-ev-station"></i> 270 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 100 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="q6_e-tron_quattro/"><img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6_e-tron_quattro/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Q6 e-tron quattro" ></a>
-<i class="bi bi-battery-full"></i> 100 kWh <i class="bi bi-ev-station"></i> 270 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 100 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -68,7 +68,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="sq6_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/sq6_e-tron/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="SQ6 e-tron" ></a>
-<i class="bi bi-battery-full"></i> 100 kWh <i class="bi bi-ev-station"></i> 270 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 100 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

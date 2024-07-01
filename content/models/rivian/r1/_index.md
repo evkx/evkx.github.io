@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="r1s_performance_dual-motor_awd_lp/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_lp/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="R1S Performance Dual-Motor AWD LP" ></a>
-<i class="bi bi-battery-full"></i> 135 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 135 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="r1s_performance_dual-motor_awd_mp/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_performance_dual-motor_awd_mp/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="R1S Performance Dual-Motor AWD MP" ></a>
-<i class="bi bi-battery-full"></i> 149 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 149 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="r1s_quad-motor_awd_mp/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd_mp/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="R1S Quad-Motor AWD MP" ></a>
-<i class="bi bi-battery-full"></i> 149 kWh <i class="bi bi-ev-station"></i> 220 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 149 kWh <i class="bi bi-ev-station"></i> 220 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -68,7 +68,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="r1t_performance_dual-motor_awd_lp/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_performance_dual-motor_awd_lp/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="R1T Performance Dual-Motor AWD LP" ></a>
-<i class="bi bi-battery-full"></i> 136 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 136 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -87,7 +87,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="r1t_performance_dual-motor_awd_mp/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_performance_dual-motor_awd_mp/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="R1T Performance Dual-Motor AWD MP" ></a>
-<i class="bi bi-battery-full"></i> 149 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 149 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -106,7 +106,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="r1t_quad-motor_awd/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1t_quad-motor_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="R1T Quad-Motor AWD" ></a>
-<i class="bi bi-battery-full"></i> 135 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 135 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -127,7 +127,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="r1s_quad-motor_awd/"><img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="R1S Quad-Motor AWD" ></a>
-<i class="bi bi-battery-full"></i> 135 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 135 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

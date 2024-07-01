@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ex30_twin_motor_performance/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_twin_motor_performance/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="EX30 Twin Motor Performance" ></a>
-<i class="bi bi-battery-full"></i> 69 kWh <i class="bi bi-ev-station"></i> 153 kW 
+<i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 69 kWh <i class="bi bi-ev-station"></i> 153 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -30,7 +30,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ex30_single_motor/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="EX30 Single Motor" ></a>
-<i class="bi bi-battery-full"></i> 51 kWh <i class="bi bi-ev-station"></i> 153 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 51 kWh <i class="bi bi-ev-station"></i> 153 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
@@ -49,7 +49,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="ex30_single_motor_extended_range/"><img src="https://media.evkx.net/multimedia/models/volvo/ex30/ex30_single_motor_extended_range/main_1_xst.jpg" class="img-fluid" width="400px" height="300px" alt="EX30 Single Motor Extended Range" ></a>
-<i class="bi bi-battery-full"></i> 69 kWh <i class="bi bi-ev-station"></i> 153 kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 69 kWh <i class="bi bi-ev-station"></i> 153 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">
