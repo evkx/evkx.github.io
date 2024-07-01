@@ -70,7 +70,7 @@ Dynamisk styrning är valfritt-funktionen för Volkswagen ID.4 Pro. Dynamisk sty
 
 ### Bromsar
 
-
+De främre bromsarna är [skivbromsar](../../../../technology/brakes/#disc-brakes) medan de bakre är [trumbromsar](../../../../technology/brakes/#trumbromsar. De främre skivorna är 358mm.
 
 
 ### Regenerativ bromsning

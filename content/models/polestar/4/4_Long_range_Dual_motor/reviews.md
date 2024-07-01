@@ -23,6 +23,13 @@ We collect reviews from our [favorite online reviewers](../../../../../guides/ev
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Can Polestar 4 Catch The Tesla Model Y & Does It Deserve To?!</h3>
+<p>Fully Charged Show: 01.07.2024</p>
+
+{{< youtube RyriVOXY6gI >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Polestar 4 first impressions</h3>
 <p>Bjørn Nyland: 12.02.2024</p>
 

@@ -1,7 +1,7 @@
 ---
 title: SKODA Elroq 60
 linktitle: "Elroq 60"
-description: "SKODA Elroq 60 er en helelektrisk crossover med en WLTP rekkevidde på opptil 390 km. EVKX.net har alle detaljene."
+description: "SKODA Elroq 60 er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 390 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -72,7 +72,7 @@ Dynamisk styring er standard-funksjonen på SKODA Elroq 60. Dynamisk styring var
 
 ### Bremser
 
-
+Forbremsene er [skivebremser](../../../../technology/brakes/#disc-brakes) mens de bakre er [trommelbremser](../../../../technology/brakes/#trommelbremser. De fremre skivene er 358mm.
 
 
 ### Regenerativ bremsing

@@ -78,7 +78,7 @@ Dynamic steering is a standard feature on the SKODA ENYAQ COUPÉ RS iV (GEN1). D
 
 ### Brakes
 
-
+The front brakes are [discs brakes](../../../../technology/brakes/#disc-brakes) while the rear are [drum brakes](../../../../technology/brakes/#drum-brakes. The front discs are 358mm.
 
 
 ### Regenerative braking

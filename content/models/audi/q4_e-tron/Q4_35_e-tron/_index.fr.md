@@ -74,7 +74,7 @@ La direction dynamique est une fonctionnalité un facultatif sur le Audi Q4 35 e
 
 ### Freins
 
-
+Les freins avant sont des [freins à disques](../../../../technology/brakes/#disc-brakes) tandis que les freins arrière sont des [freins à tambour](../../../../technology/brakes/#drum-brakes. Les disques avant mesurent 358 mm.
 
 
 ### Freinage régénératif

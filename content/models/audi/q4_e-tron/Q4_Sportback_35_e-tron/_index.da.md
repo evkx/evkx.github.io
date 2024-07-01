@@ -70,7 +70,7 @@ Dynamisk styring er en valgfri-funktion på Audi Q4 Sportback 35 e-tron. Dynamis
 
 ### Bremser
 
-
+De forreste bremser er [skivebremser](../../../../technology/brakes/#disc-brakes), mens de bagerste er [tromlebremser](../../../../technology/brakes/#tromle-brakes). De forreste skiver er 358mm.
 
 
 ### Regenerativ bremsning

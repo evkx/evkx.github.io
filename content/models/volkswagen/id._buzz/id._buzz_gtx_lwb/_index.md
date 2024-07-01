@@ -68,7 +68,7 @@ Dynamic steering is an optional feature on the Volkswagen ID. Buzz GTX LWB. Dyna
 
 ### Brakes
 
-
+The front brakes are [discs brakes](../../../../technology/brakes/#disc-brakes) while the rear are [drum brakes](../../../../technology/brakes/#drum-brakes. The front discs are 358mm.
 
 
 ### Regenerative braking

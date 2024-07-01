@@ -68,7 +68,7 @@ Dynamisk styring er en valgfri-funktion på CUPRA Tavascan Endurance. Dynamisk s
 
 ### Bremser
 
-
+De forreste bremser er [skivebremser](../../../../technology/brakes/#disc-brakes), mens de bagerste er [tromlebremser](../../../../technology/brakes/#tromle-brakes). De forreste skiver er 330mm.
 
 
 ### Regenerativ bremsning

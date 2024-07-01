@@ -74,7 +74,7 @@ Dynamisk styring er tilvalg-funksjonen på Ford Explorer Extended Range RWD. Dyn
 
 ### Bremser
 
-
+Forbremsene er [skivebremser](../../../../technology/brakes/#disc-brakes) mens de bakre er [trommelbremser](../../../../technology/brakes/#trommelbremser. De fremre skivene er 358mm.
 
 
 ### Regenerativ bremsing

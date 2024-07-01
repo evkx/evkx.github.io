@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-SKODA Elroq er en crossover tilgængelig i 4 varianter.
+SKODA Elroq er en Coupe SUV tilgængelig i 4 varianter.
 </p>
 	<a href="elroq/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

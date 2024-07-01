@@ -78,7 +78,7 @@ La dirección dinámica es una característica un estándar en el SKODA ENYAQ CO
 
 ### Frenos
 
-
+Los frenos delanteros son [frenos de disco](../../../../technology/brakes/#disc-brakes) mientras que los traseros son [frenos de tambor](../../../../technology/frenos/#frenos-de-tambor. Los discos delanteros miden 358 mm.
 
 
 ### Frenado regenerativo

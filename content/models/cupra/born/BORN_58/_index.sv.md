@@ -68,7 +68,7 @@ Dynamisk styrning är valfritt-funktionen för CUPRA BORN 58. Dynamisk styrning 
 
 ### Bromsar
 
-
+De främre bromsarna är [skivbromsar](../../../../technology/brakes/#disc-brakes) medan de bakre är [trumbromsar](../../../../technology/brakes/#trumbromsar. De främre skivorna är 340mm.
 
 
 ### Regenerativ bromsning

@@ -1,7 +1,7 @@
 ---
 title: SKODA Elroq 85x
 linktitle: "Elroq 85x"
-description: "SKODA Elroq 85x es un crossover totalmente eléctrico con un WLTP alcance de hasta 550 km (342 millas). EVKX.net tiene todos los detalles."
+description: "SKODA Elroq 85x es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 550 km (342 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -72,7 +72,7 @@ La dirección dinámica es una característica un estándar en el SKODA Elroq 85
 
 ### Frenos
 
-
+Los frenos delanteros son [frenos de disco](../../../../technology/brakes/#disc-brakes) mientras que los traseros son [frenos de tambor](../../../../technology/frenos/#frenos-de-tambor. Los discos delanteros miden 358 mm.
 
 
 ### Frenado regenerativo

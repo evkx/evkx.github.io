@@ -1,7 +1,7 @@
 ---
 title: SKODA Elroq 60
 linktitle: "Elroq 60"
-description: "SKODA Elroq 60 est un crossover entièrement électrique avec une autonomie de WLTP allant jusqu'à 390 km (242 miles). EVKX.net a tous les détails."
+description: "SKODA Elroq 60 est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 390 km (242 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -72,7 +72,7 @@ La direction dynamique est une fonctionnalité un standard sur le SKODA Elroq 60
 
 ### Freins
 
-
+Les freins avant sont des [freins à disques](../../../../technology/brakes/#disc-brakes) tandis que les freins arrière sont des [freins à tambour](../../../../technology/brakes/#drum-brakes. Les disques avant mesurent 358 mm.
 
 
 ### Freinage régénératif

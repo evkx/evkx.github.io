@@ -1,7 +1,7 @@
 ---
 title: SKODA Elroq 85x
 linktitle: "Elroq 85x"
-description: "SKODA Elroq 85x er en helelektrisk crossover med en WLTP rekkevidde på opptil 550 km. EVKX.net har alle detaljene."
+description: "SKODA Elroq 85x er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 550 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -72,7 +72,7 @@ Dynamisk styring er standard-funksjonen på SKODA Elroq 85x. Dynamisk styring va
 
 ### Bremser
 
-
+Forbremsene er [skivebremser](../../../../technology/brakes/#disc-brakes) mens de bakre er [trommelbremser](../../../../technology/brakes/#trommelbremser. De fremre skivene er 358mm.
 
 
 ### Regenerativ bremsing

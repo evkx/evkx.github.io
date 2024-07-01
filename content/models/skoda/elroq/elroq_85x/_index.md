@@ -1,7 +1,7 @@
 ---
 title: SKODA Elroq 85x
 linktitle: "Elroq 85x"
-description: "SKODA Elroq 85x is an all-electric crossover with a WLTP range of up to 550 km (342 miles). EVKX.net has all the details."
+description: "SKODA Elroq 85x is an all-electric coupe SUV with a WLTP range of up to 550 km (342 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -72,7 +72,7 @@ Dynamic steering is a standard feature on the SKODA Elroq 85x. Dynamic steering 
 
 ### Brakes
 
-
+The front brakes are [discs brakes](../../../../technology/brakes/#disc-brakes) while the rear are [drum brakes](../../../../technology/brakes/#drum-brakes. The front discs are 358mm.
 
 
 ### Regenerative braking

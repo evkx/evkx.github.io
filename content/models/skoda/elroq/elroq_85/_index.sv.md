@@ -1,7 +1,7 @@
 ---
 title: SKODA Elroq 85
 linktitle: "Elroq 85"
-description: "SKODA Elroq 85 är en helelektrisk crossover med en WLTP räckvidd på upp till 560 km. EVKX.net har alla detaljer."
+description: "SKODA Elroq 85 är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 560 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -72,7 +72,7 @@ Dynamisk styrning är standard-funktionen för SKODA Elroq 85. Dynamisk styrning
 
 ### Bromsar
 
-
+De främre bromsarna är [skivbromsar](../../../../technology/brakes/#disc-brakes) medan de bakre är [trumbromsar](../../../../technology/brakes/#trumbromsar. De främre skivorna är 358mm.
 
 
 ### Regenerativ bromsning

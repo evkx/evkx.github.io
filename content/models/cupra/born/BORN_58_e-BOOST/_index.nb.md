@@ -68,7 +68,7 @@ Dynamisk styring er tilvalg-funksjonen på CUPRA BORN 58 e-BOOST. Dynamisk styri
 
 ### Bremser
 
-
+Forbremsene er [skivebremser](../../../../technology/brakes/#disc-brakes) mens de bakre er [trommelbremser](../../../../technology/brakes/#trommelbremser. De fremre skivene er 330mm.
 
 
 ### Regenerativ bremsing

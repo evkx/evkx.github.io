@@ -68,7 +68,7 @@ La dirección dinámica es una característica un opcional en el CUPRA BORN VZ. 
 
 ### Frenos
 
-
+Los frenos delanteros son [frenos de disco](../../../../technology/brakes/#disc-brakes) mientras que los traseros son [frenos de tambor](../../../../technology/frenos/#frenos-de-tambor. Los discos delanteros miden 330 mm.
 
 
 ### Frenado regenerativo

@@ -68,7 +68,7 @@ Dynamisk styrning är valfritt-funktionen för Volkswagen ID.3 Pro S (GEN1). Dyn
 
 ### Bromsar
 
-
+De främre bromsarna är [skivbromsar](../../../../technology/brakes/#disc-brakes) medan de bakre är [trumbromsar](../../../../technology/brakes/#trumbromsar. De främre skivorna är 358mm.
 
 
 ### Regenerativ bromsning

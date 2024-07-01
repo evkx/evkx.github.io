@@ -68,7 +68,7 @@ Dynamisk styring er tilvalg-funksjonen på Volkswagen ID.3 Pro S (GEN1). Dynamis
 
 ### Bremser
 
-
+Forbremsene er [skivebremser](../../../../technology/brakes/#disc-brakes) mens de bakre er [trommelbremser](../../../../technology/brakes/#trommelbremser. De fremre skivene er 358mm.
 
 
 ### Regenerativ bremsing

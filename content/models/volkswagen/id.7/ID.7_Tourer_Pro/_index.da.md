@@ -68,7 +68,7 @@ Dynamisk styring er en valgfri-funktion på Volkswagen ID.7 Tourer Pro. Dynamisk
 
 ### Bremser
 
-
+De forreste bremser er [skivebremser](../../../../technology/brakes/#disc-brakes), mens de bagerste er [tromlebremser](../../../../technology/brakes/#tromle-brakes). De forreste skiver er 358mm.
 
 
 ### Regenerativ bremsning

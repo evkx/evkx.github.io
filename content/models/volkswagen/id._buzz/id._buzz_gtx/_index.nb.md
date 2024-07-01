@@ -68,7 +68,7 @@ Dynamisk styring er tilvalg-funksjonen på Volkswagen ID. Buzz GTX. Dynamisk sty
 
 ### Bremser
 
-
+Forbremsene er [skivebremser](../../../../technology/brakes/#disc-brakes) mens de bakre er [trommelbremser](../../../../technology/brakes/#trommelbremser. De fremre skivene er 358mm.
 
 
 ### Regenerativ bremsing

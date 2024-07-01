@@ -80,7 +80,7 @@ Dynamisk styring er tilvalg-funksjonen på Audi Q4 45 e-tron quattro (GEN1). Dyn
 
 ### Bremser
 
-
+Forbremsene er [skivebremser](../../../../technology/brakes/#disc-brakes) mens de bakre er [trommelbremser](../../../../technology/brakes/#trommelbremser. De fremre skivene er 358mm.
 
 
 ### Regenerativ bremsing

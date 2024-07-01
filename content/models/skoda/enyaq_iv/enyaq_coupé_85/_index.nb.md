@@ -72,7 +72,7 @@ Dynamisk styring er standard-funksjonen på SKODA ENYAQ COUPÉ 85. Dynamisk styr
 
 ### Bremser
 
-
+Forbremsene er [skivebremser](../../../../technology/brakes/#disc-brakes) mens de bakre er [trommelbremser](../../../../technology/brakes/#trommelbremser. De fremre skivene er 358mm.
 
 
 ### Regenerativ bremsing

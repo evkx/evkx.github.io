@@ -68,7 +68,7 @@ Dynamisk styring er standard-funksjonen på SKODA ENYAQ 85x. Dynamisk styring va
 
 ### Bremser
 
-
+Forbremsene er [skivebremser](../../../../technology/brakes/#disc-brakes) mens de bakre er [trommelbremser](../../../../technology/brakes/#trommelbremser. De fremre skivene er 358mm.
 
 
 ### Regenerativ bremsing

@@ -78,7 +78,7 @@ Dynamisk styrning är standard-funktionen för SKODA ENYAQ COUPÉ RS iV (GEN1). 
 
 ### Bromsar
 
-
+De främre bromsarna är [skivbromsar](../../../../technology/brakes/#disc-brakes) medan de bakre är [trumbromsar](../../../../technology/brakes/#trumbromsar. De främre skivorna är 358mm.
 
 
 ### Regenerativ bromsning

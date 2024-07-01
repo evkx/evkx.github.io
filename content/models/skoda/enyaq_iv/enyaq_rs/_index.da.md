@@ -68,7 +68,7 @@ Dynamisk styring er en standard-funktion på SKODA ENYAQ RS. Dynamisk styring va
 
 ### Bremser
 
-
+De forreste bremser er [skivebremser](../../../../technology/brakes/#disc-brakes), mens de bagerste er [tromlebremser](../../../../technology/brakes/#tromle-brakes). De forreste skiver er 358mm.
 
 
 ### Regenerativ bremsning
