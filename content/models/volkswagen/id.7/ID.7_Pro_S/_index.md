@@ -29,7 +29,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Volkswagen ID.7 Pro S offers modest performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 550 Nm (406 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.5 seconds and has a top speed of 180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Volkswagen ID.7 Pro S delivers a solid performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 550 Nm (406 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.5 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 

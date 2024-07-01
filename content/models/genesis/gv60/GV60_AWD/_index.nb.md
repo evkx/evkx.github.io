@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Genesis GV60 AWD i seksjoner. Hvis du vil vente 
 
 ## Ytelse
 
-Genesis GV60 AWD tilbyr beskjedne ytelser med en maksimal effekt på 234 kW (318 hk) og et totalt dreiemoment på 605 Nm. Den akselererer fra 0 til 100 km/t på 5,5 sekunder og har en toppfart på 185 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
+Genesis GV60 AWD leverer solid ytelse med en maksimal effekt på 234 kW (318 hk) og et totalt dreiemoment på 605 Nm. Den kan akselerere fra 0 til 100 km/t på 5,5 sekunder og når en topphastighet på 185 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

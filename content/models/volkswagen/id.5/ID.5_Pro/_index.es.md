@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Volkswagen ID.5 Pro en secciones. Si desea espe
 
 ## Rendimiento
 
-El Volkswagen ID.5 Pro ofrece un rendimiento modesto con una potencia máxima de 210 kW (286 hp) y un par total de 545 Nm. Acelera de 0 a 100 km/h en 6,7 segundos y tiene una velocidad máxima 180 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Volkswagen ID.5 Pro ofrece un rendimiento sólido con una potencia máxima de 210 kW (286 hp) y un par total de 545 Nm. Puede acelerar de 0 a 100 km/h en 6,7 segundos y alcanza una velocidad máxima de 180 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

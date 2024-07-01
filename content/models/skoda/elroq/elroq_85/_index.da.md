@@ -29,7 +29,7 @@ Vi har opdelt vores SKODA Elroq 85 artikel i sektioner. Hvis du vil vente med at
 
 ## Ydeevne
 
-SKODA Elroq 85 tilbyder beskedne præstationer med en maksimal effekt på 210 kW (286 hk) og et samlet drejningsmoment på 679 Nm. Den accelererer fra 0 til 100 km/t på 6,6 sekunder og har en topfart på 180 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
+SKODA Elroq 85 leverer en solid præstation med en maksimal effekt på 210 kW (286 hk) og et totalt drejningsmoment på 679 Nm. Den kan accelerere fra 0 til 100 km/t på 6,6 sekunder og når en topfart på 180 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

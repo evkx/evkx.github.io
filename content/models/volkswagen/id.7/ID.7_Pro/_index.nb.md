@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Volkswagen ID.7 Pro i seksjoner. Hvis du vil ven
 
 ## Ytelse
 
-Volkswagen ID.7 Pro tilbyr beskjedne ytelser med en maksimal effekt på 210 kW (286 hk) og et totalt dreiemoment på 550 Nm. Den akselererer fra 0 til 100 km/t på 6,5 sekunder og har en toppfart på 180 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
+Volkswagen ID.7 Pro leverer solid ytelse med en maksimal effekt på 210 kW (286 hk) og et totalt dreiemoment på 550 Nm. Den kan akselerere fra 0 til 100 km/t på 6,5 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

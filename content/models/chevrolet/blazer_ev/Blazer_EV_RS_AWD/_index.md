@@ -29,7 +29,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Chevrolet Blazer EV RS AWD offers modest performance with a maximum power of 214 kW (291 hp / 287 bhp) and a total torque of 451 Nm (333 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6 seconds and has a top speed of 210 km/h (131 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Chevrolet Blazer EV RS AWD delivers a solid performance with a maximum power of 214 kW (291 hp / 287 bhp) and a total torque of 451 Nm (333 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 

@@ -29,7 +29,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Audi Q6 e-tron performance offers modest performance with a maximum power of 240 kW (326 hp / 322 bhp) and a total torque of 485 Nm (358 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.7 seconds and has a top speed of 210 km/h (131 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Audi Q6 e-tron performance delivers a solid performance with a maximum power of 240 kW (326 hp / 322 bhp) and a total torque of 485 Nm (358 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.7 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 

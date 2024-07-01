@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Mercedes-EQ EQB 350 4MATIC i avsnitt. Om du 
 
 ## Prestanda
 
-Mercedes-EQ EQB 350 4MATIC erbjuder blygsamma prestanda med en maximal effekt på 215 kW (292 hk) och ett totalt vridmoment på 520 Nm. Den accelererar från 0 till 100 km/h på 6,2 sekunder och har en topphastighet på 160 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
+Mercedes-EQ EQB 350 4MATIC levererar en solid prestanda med en maximal effekt på 215 kW (292 hk) och ett totalt vridmoment på 520 Nm. Den kan accelerera från 0 till 100 km/h på 6,2 sekunder och når en topphastighet på 160 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

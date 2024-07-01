@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av CUPRA BORN VZ i avsnitt. Om du vill vänta m
 
 ## Prestanda
 
-CUPRA BORN VZ erbjuder blygsamma prestanda med en maximal effekt på 240 kW (326 hk) och ett totalt vridmoment på 545 Nm. Den accelererar från 0 till 100 km/h på 5,7 sekunder och har en topphastighet på 200 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
+CUPRA BORN VZ levererar en solid prestanda med en maximal effekt på 240 kW (326 hk) och ett totalt vridmoment på 545 Nm. Den kan accelerera från 0 till 100 km/h på 5,7 sekunder och når en topphastighet på 200 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

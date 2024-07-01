@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Volkswagen ID.5 Pro i avsnitt. Om du vill v�
 
 ## Prestanda
 
-Volkswagen ID.5 Pro erbjuder blygsamma prestanda med en maximal effekt på 210 kW (286 hk) och ett totalt vridmoment på 545 Nm. Den accelererar från 0 till 100 km/h på 6,7 sekunder och har en topphastighet på 180 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
+Volkswagen ID.5 Pro levererar en solid prestanda med en maximal effekt på 210 kW (286 hk) och ett totalt vridmoment på 545 Nm. Den kan accelerera från 0 till 100 km/h på 6,7 sekunder och når en topphastighet på 180 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

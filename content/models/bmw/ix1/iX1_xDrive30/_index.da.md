@@ -29,7 +29,7 @@ Vi har opdelt vores BMW iX1 xDrive30 artikel i sektioner. Hvis du vil vente med 
 
 ## Ydeevne
 
-BMW iX1 xDrive30 tilbyder beskedne præstationer med en maksimal effekt på 230 kW (313 hk) og et samlet drejningsmoment på 494 Nm. Den accelererer fra 0 til 100 km/t på 5,6 sekunder og har en topfart på 180 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
+BMW iX1 xDrive30 leverer en solid præstation med en maksimal effekt på 230 kW (313 hk) og et totalt drejningsmoment på 494 Nm. Den kan accelerere fra 0 til 100 km/t på 5,6 sekunder og når en topfart på 180 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

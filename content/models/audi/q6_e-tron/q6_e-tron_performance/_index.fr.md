@@ -29,7 +29,7 @@ Nous avons séparé notre article Audi Q6 e-tron performance en sections. Si vou
 
 ## Performances
 
-L'Audi Q6 e-tron performance offre des performances modestes avec une puissance maximale de 240 kW (326 ch) et un couple total de 485 Nm. Il accélère de 0 à 100 km/h en 6,7 secondes et atteint une vitesse maximale de 210 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
+La Audi Q6 e-tron performance offre des performances solides avec une puissance maximale de 240 kW (326 ch) et un couple total de 485 Nm. Elle peut accélérer de 0 à 100 km/h en 6,7 secondes et atteindre une vitesse maximale de 210 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

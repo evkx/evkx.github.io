@@ -29,7 +29,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Kia EV6 Long Range AWD offers modest performance with a maximum power of 239 kW (325 hp / 321 bhp) and a total torque of 605 Nm (446 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.2 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
+The Kia EV6 Long Range AWD delivers a solid performance with a maximum power of 239 kW (325 hp / 321 bhp) and a total torque of 605 Nm (446 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.2 seconds and reaches a top speed of 185 km/h (115 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 

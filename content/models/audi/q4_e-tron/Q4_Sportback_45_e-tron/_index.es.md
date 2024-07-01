@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Audi Q4 Sportback 45 e-tron en secciones. Si de
 
 ## Rendimiento
 
-El Audi Q4 Sportback 45 e-tron ofrece un rendimiento modesto con una potencia máxima de 210 kW (286 hp) y un par total de 545 Nm. Acelera de 0 a 100 km/h en 6,7 segundos y tiene una velocidad máxima 180 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Audi Q4 Sportback 45 e-tron ofrece un rendimiento sólido con una potencia máxima de 210 kW (286 hp) y un par total de 545 Nm. Puede acelerar de 0 a 100 km/h en 6,7 segundos y alcanza una velocidad máxima de 180 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

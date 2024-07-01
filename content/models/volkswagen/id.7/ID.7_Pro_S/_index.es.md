@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Volkswagen ID.7 Pro S en secciones. Si desea es
 
 ## Rendimiento
 
-El Volkswagen ID.7 Pro S ofrece un rendimiento modesto con una potencia máxima de 210 kW (286 hp) y un par total de 550 Nm. Acelera de 0 a 100 km/h en 6,5 segundos y tiene una velocidad máxima 180 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Volkswagen ID.7 Pro S ofrece un rendimiento sólido con una potencia máxima de 210 kW (286 hp) y un par total de 550 Nm. Puede acelerar de 0 a 100 km/h en 6,5 segundos y alcanza una velocidad máxima de 180 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

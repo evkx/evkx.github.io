@@ -29,7 +29,7 @@ Vi har opdelt vores Xiaomi SU7 artikel i sektioner. Hvis du vil vente med at læ
 
 ## Ydeevne
 
-Xiaomi SU7 tilbyder beskedne præstationer med en maksimal effekt på 220 kW (299 hk) og et samlet drejningsmoment på 400 Nm. Den accelererer fra 0 til 100 km/t på 5,28 sekunder og har en topfart på 210 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
+Xiaomi SU7 leverer en solid præstation med en maksimal effekt på 220 kW (299 hk) og et totalt drejningsmoment på 400 Nm. Den kan accelerere fra 0 til 100 km/t på 5,28 sekunder og når en topfart på 210 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

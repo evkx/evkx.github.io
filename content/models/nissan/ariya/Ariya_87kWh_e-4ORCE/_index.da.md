@@ -29,7 +29,7 @@ Vi har opdelt vores Nissan Ariya 87kWh e-4ORCE artikel i sektioner. Hvis du vil 
 
 ## Ydeevne
 
-Nissan Ariya 87kWh e-4ORCE tilbyder beskedne præstationer med en maksimal effekt på 225 kW (306 hk) og et samlet drejningsmoment på 600 Nm. Den accelererer fra 0 til 100 km/t på 5,7 sekunder og har en topfart på 200 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
+Nissan Ariya 87kWh e-4ORCE leverer en solid præstation med en maksimal effekt på 225 kW (306 hk) og et totalt drejningsmoment på 600 Nm. Den kan accelerere fra 0 til 100 km/t på 5,7 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

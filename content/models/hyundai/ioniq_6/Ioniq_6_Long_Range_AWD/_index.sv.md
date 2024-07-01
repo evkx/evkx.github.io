@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Hyundai Ioniq 6 Long Range AWD i avsnitt. Om
 
 ## Prestanda
 
-Hyundai Ioniq 6 Long Range AWD erbjuder blygsamma prestanda med en maximal effekt på 239 kW (325 hk) och ett totalt vridmoment på 605 Nm. Den accelererar från 0 till 100 km/h på 5,1 sekunder och har en topphastighet på 185 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
+Hyundai Ioniq 6 Long Range AWD levererar en solid prestanda med en maximal effekt på 239 kW (325 hk) och ett totalt vridmoment på 605 Nm. Den kan accelerera från 0 till 100 km/h på 5,1 sekunder och når en topphastighet på 185 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

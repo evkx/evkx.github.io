@@ -29,7 +29,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The BYD Seal RWD offers modest performance with a maximum power of 230 kW (313 hp / 308 bhp) and a total torque of 360 Nm (266 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and has a top speed of 180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
+The BYD Seal RWD delivers a solid performance with a maximum power of 230 kW (313 hp / 308 bhp) and a total torque of 360 Nm (266 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 

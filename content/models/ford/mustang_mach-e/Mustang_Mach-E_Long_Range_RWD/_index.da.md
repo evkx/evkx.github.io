@@ -29,7 +29,7 @@ Vi har opdelt vores Ford Mustang Mach-E Long Range RWD artikel i sektioner. Hvis
 
 ## Ydeevne
 
-Ford Mustang Mach-E Long Range RWD tilbyder beskedne præstationer med en maksimal effekt på 216 kW (294 hk) og et samlet drejningsmoment på 430 Nm. Den accelererer fra 0 til 100 km/t på 7 sekunder og har en topfart på 180 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
+Ford Mustang Mach-E Long Range RWD leverer en solid præstation med en maksimal effekt på 216 kW (294 hk) og et totalt drejningsmoment på 430 Nm. Den kan accelerere fra 0 til 100 km/t på 7 sekunder og når en topfart på 180 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

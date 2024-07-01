@@ -29,7 +29,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The MG Marvel R Electric Performance offers modest performance with a maximum power of 212 kW (288 hp / 284 bhp) and a total torque of 665 Nm (491 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 4.9 seconds and has a top speed of 200 km/h (124 mph), aligning more closely with traditional internal combustion engine vehicles.
+The MG Marvel R Electric Performance delivers a solid performance with a maximum power of 212 kW (288 hp / 284 bhp) and a total torque of 665 Nm (491 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.9 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 

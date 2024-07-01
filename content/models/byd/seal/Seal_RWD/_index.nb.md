@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av BYD Seal RWD i seksjoner. Hvis du vil vente med 
 
 ## Ytelse
 
-BYD Seal RWD tilbyr beskjedne ytelser med en maksimal effekt på 230 kW (313 hk) og et totalt dreiemoment på 360 Nm. Den akselererer fra 0 til 100 km/t på 5,9 sekunder og har en toppfart på 180 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
+BYD Seal RWD leverer solid ytelse med en maksimal effekt på 230 kW (313 hk) og et totalt dreiemoment på 360 Nm. Den kan akselerere fra 0 til 100 km/t på 5,9 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

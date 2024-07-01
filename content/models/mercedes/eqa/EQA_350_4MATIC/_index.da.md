@@ -29,7 +29,7 @@ Vi har opdelt vores Mercedes-EQ EQA 350 4MATIC artikel i sektioner. Hvis du vil 
 
 ## Ydeevne
 
-Mercedes-EQ EQA 350 4MATIC tilbyder beskedne præstationer med en maksimal effekt på 215 kW (292 hk) og et samlet drejningsmoment på 520 Nm. Den accelererer fra 0 til 100 km/t på 6 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
+Mercedes-EQ EQA 350 4MATIC leverer en solid præstation med en maksimal effekt på 215 kW (292 hk) og et totalt drejningsmoment på 520 Nm. Den kan accelerere fra 0 til 100 km/t på 6 sekunder og når en topfart på 160 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

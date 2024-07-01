@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av BMW iX3 i seksjoner. Hvis du vil vente med å le
 
 ## Ytelse
 
-BMW iX3 tilbyr beskjedne ytelser med en maksimal effekt på 210 kW (286 hk) og et totalt dreiemoment på 400 Nm. Den akselererer fra 0 til 100 km/t på 6,8 sekunder og har en toppfart på 180 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
+BMW iX3 leverer solid ytelse med en maksimal effekt på 210 kW (286 hk) og et totalt dreiemoment på 400 Nm. Den kan akselerere fra 0 til 100 km/t på 6,8 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

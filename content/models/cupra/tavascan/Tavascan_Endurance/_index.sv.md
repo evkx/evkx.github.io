@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av CUPRA Tavascan Endurance i avsnitt. Om du vi
 
 ## Prestanda
 
-CUPRA Tavascan Endurance erbjuder blygsamma prestanda med en maximal effekt på 210 kW (286 hk) och ett totalt vridmoment på 545 Nm. Den accelererar från 0 till 100 km/h på 6,8 sekunder och har en topphastighet på 180 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
+CUPRA Tavascan Endurance levererar en solid prestanda med en maximal effekt på 210 kW (286 hk) och ett totalt vridmoment på 545 Nm. Den kan accelerera från 0 till 100 km/h på 6,8 sekunder och når en topphastighet på 180 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

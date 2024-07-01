@@ -29,7 +29,7 @@ Vi har opdelt vores XPENG G6 RWD Long Range artikel i sektioner. Hvis du vil ven
 
 ## Ydeevne
 
-XPENG G6 RWD Long Range tilbyder beskedne præstationer med en maksimal effekt på 218 kW (296 hk) og et samlet drejningsmoment på 440 Nm. Den accelererer fra 0 til 100 km/t på 5,9 sekunder og har en topfart på 202 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
+XPENG G6 RWD Long Range leverer en solid præstation med en maksimal effekt på 218 kW (296 hk) og et totalt drejningsmoment på 440 Nm. Den kan accelerere fra 0 til 100 km/t på 5,9 sekunder og når en topfart på 202 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

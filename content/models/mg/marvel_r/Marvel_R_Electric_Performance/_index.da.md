@@ -29,7 +29,7 @@ Vi har opdelt vores MG Marvel R Electric Performance artikel i sektioner. Hvis d
 
 ## Ydeevne
 
-MG Marvel R Electric Performance tilbyder beskedne præstationer med en maksimal effekt på 212 kW (288 hk) og et samlet drejningsmoment på 665 Nm. Den accelererer fra 0 til 100 km/t på 4,9 sekunder og har en topfart på 200 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
+MG Marvel R Electric Performance leverer en solid præstation med en maksimal effekt på 212 kW (288 hk) og et totalt drejningsmoment på 665 Nm. Den kan accelerere fra 0 til 100 km/t på 4,9 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

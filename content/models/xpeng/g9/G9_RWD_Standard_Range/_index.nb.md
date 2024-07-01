@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av XPENG G9 RWD Standard Range i seksjoner. Hvis du
 
 ## Ytelse
 
-XPENG G9 RWD Standard Range tilbyr beskjedne ytelser med en maksimal effekt på 230 kW (313 hk) og et totalt dreiemoment på 430 Nm. Den akselererer fra 0 til 100 km/t på 6,4 sekunder og har en toppfart på 200 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
+XPENG G9 RWD Standard Range leverer solid ytelse med en maksimal effekt på 230 kW (313 hk) og et totalt dreiemoment på 430 Nm. Den kan akselerere fra 0 til 100 km/t på 6,4 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

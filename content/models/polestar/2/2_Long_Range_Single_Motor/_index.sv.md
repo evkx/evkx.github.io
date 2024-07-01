@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av Polestar 2 Long Range Single Motor i avsnitt
 
 ## Prestanda
 
-Polestar 2 Long Range Single Motor erbjuder blygsamma prestanda med en maximal effekt på 220 kW (299 hk) och ett totalt vridmoment på 490 Nm. Den accelererar från 0 till 100 km/h på 6,2 sekunder och har en topphastighet på 205 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
+Polestar 2 Long Range Single Motor levererar en solid prestanda med en maximal effekt på 220 kW (299 hk) och ett totalt vridmoment på 490 Nm. Den kan accelerera från 0 till 100 km/h på 6,2 sekunder och når en topphastighet på 205 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 

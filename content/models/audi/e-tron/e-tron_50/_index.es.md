@@ -35,7 +35,7 @@ Este modelo ha sido reemplazado por [Audi Q8 50 e-tron](/models/audi/q8_e-tron/q
 
 ## Rendimiento
 
-El Audi e-tron 50 ofrece un rendimiento modesto con una potencia máxima de 230 kW (313 hp) y un par total de 540 Nm. Acelera de 0 a 100 km/h en 6,8 segundos y tiene una velocidad máxima 200 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Audi e-tron 50 ofrece un rendimiento sólido con una potencia máxima de 230 kW (313 hp) y un par total de 540 Nm. Puede acelerar de 0 a 100 km/h en 6,8 segundos y alcanza una velocidad máxima de 200 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

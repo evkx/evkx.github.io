@@ -35,7 +35,7 @@ Denne modellen er erstattet av [Audi Q8 50 e-tron](/models/audi/q8_e-tron/q8_50_
 
 ## Ytelse
 
-Audi e-tron 50 tilbyr beskjedne ytelser med en maksimal effekt på 230 kW (313 hk) og et totalt dreiemoment på 540 Nm. Den akselererer fra 0 til 100 km/t på 6,8 sekunder og har en toppfart på 200 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
+Audi e-tron 50 leverer solid ytelse med en maksimal effekt på 230 kW (313 hk) og et totalt dreiemoment på 540 Nm. Den kan akselerere fra 0 til 100 km/t på 6,8 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

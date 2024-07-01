@@ -29,7 +29,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The XPENG G6 RWD Long Range offers modest performance with a maximum power of 218 kW (296 hp / 292 bhp) and a total torque of 440 Nm (325 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and has a top speed of 202 km/h (126 mph), aligning more closely with traditional internal combustion engine vehicles.
+The XPENG G6 RWD Long Range delivers a solid performance with a maximum power of 218 kW (296 hp / 292 bhp) and a total torque of 440 Nm (325 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.9 seconds and reaches a top speed of 202 km/h (126 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 

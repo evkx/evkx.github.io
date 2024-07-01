@@ -29,7 +29,7 @@ Vi har opdelt vores Volkswagen ID. Buzz Pro LWB artikel i sektioner. Hvis du vil
 
 ## Ydeevne
 
-Volkswagen ID. Buzz Pro LWB tilbyder beskedne præstationer med en maksimal effekt på 210 kW (286 hk) og et samlet drejningsmoment på 550 Nm. Den accelererer fra 0 til 100 km/t på 7,9 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
+Volkswagen ID. Buzz Pro LWB leverer en solid præstation med en maksimal effekt på 210 kW (286 hk) og et totalt drejningsmoment på 550 Nm. Den kan accelerere fra 0 til 100 km/t på 7,9 sekunder og når en topfart på 160 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 

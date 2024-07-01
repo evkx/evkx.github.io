@@ -29,7 +29,7 @@ Nous avons séparé notre article Volkswagen ID.7 Pro en sections. Si vous souha
 
 ## Performances
 
-L'Volkswagen ID.7 Pro offre des performances modestes avec une puissance maximale de 210 kW (286 ch) et un couple total de 550 Nm. Il accélère de 0 à 100 km/h en 6,5 secondes et atteint une vitesse maximale de 180 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
+La Volkswagen ID.7 Pro offre des performances solides avec une puissance maximale de 210 kW (286 ch) et un couple total de 550 Nm. Elle peut accélérer de 0 à 100 km/h en 6,5 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 

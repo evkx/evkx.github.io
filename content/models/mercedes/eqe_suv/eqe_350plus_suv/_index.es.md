@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Mercedes-EQ EQE 350+ SUV en secciones. Si desea
 
 ## Rendimiento
 
-El Mercedes-EQ EQE 350+ SUV ofrece un rendimiento modesto con una potencia máxima de 215 kW (292 hp) y un par total de 565 Nm. Acelera de 0 a 100 km/h en 6,9 segundos y tiene una velocidad máxima 210 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
+El Mercedes-EQ EQE 350+ SUV ofrece un rendimiento sólido con una potencia máxima de 215 kW (292 hp) y un par total de 565 Nm. Puede acelerar de 0 a 100 km/h en 6,9 segundos y alcanza una velocidad máxima de 210 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

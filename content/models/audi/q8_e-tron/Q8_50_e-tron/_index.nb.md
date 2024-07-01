@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Audi Q8 50 e-tron i seksjoner. Hvis du vil vente
 
 ## Ytelse
 
-Audi Q8 50 e-tron tilbyr beskjedne ytelser med en maksimal effekt på 230 kW (313 hk) og et totalt dreiemoment på 540 Nm. Den akselererer fra 0 til 100 km/t på 6,8 sekunder og har en toppfart på 200 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
+Audi Q8 50 e-tron leverer solid ytelse med en maksimal effekt på 230 kW (313 hk) og et totalt dreiemoment på 540 Nm. Den kan akselerere fra 0 til 100 km/t på 6,8 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 
