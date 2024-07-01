@@ -74,7 +74,7 @@ La dirección dinámica es una característica un opcional en el Audi Q4 35 e-tr
 
 ### Frenos
 
-Los frenos delanteros son [frenos de disco](../../../../technology/brakes/#disc-brakes) mientras que los traseros son [frenos de tambor](../../../../technology/frenos/#frenos-de-tambor. Los discos delanteros miden 358 mm.
+El Audi Q4 35 e-tron utiliza [frenos de disco](../../../../technology/brakes/#disc-brakes) en la parte delantera para una potencia de frenado superior y disipación de calor, mientras que se emplean [frenos de tambor](../../../../technology/frenos/#frenos-de-tambor) en la parte trasera por su eficiencia en costos y durabilidad. Los frenos de tambor proporcionan un rendimiento adecuado para las ruedas traseras, requieren menos mantenimiento e integran perfectamente con el sistema de frenado regenerativo del vehículo. Esta combinación garantiza un rendimiento óptimo de frenado y rentabilidad, alineándose con los objetivos generales de eficiencia del EV. Los discos delanteros miden 358 mm.
 
 
 ### Frenado regenerativo

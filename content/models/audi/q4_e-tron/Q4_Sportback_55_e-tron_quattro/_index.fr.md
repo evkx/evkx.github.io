@@ -70,7 +70,7 @@ La direction dynamique est une fonctionnalité un facultatif sur le Audi Q4 Spor
 
 ### Freins
 
-Les freins avant sont des [freins à disques](../../../../technology/brakes/#disc-brakes) tandis que les freins arrière sont des [freins à tambour](../../../../technology/brakes/#drum-brakes. Les disques avant mesurent 358 mm.
+La Audi Q4 Sportback 55 e-tron quattro utilise des [freins à disques](../../../../technology/brakes/#disc-brakes) à l'avant pour une puissance de freinage supérieure et une dissipation thermique, tandis que des [freins à tambour](../../../../technology/brakes/#drum-brakes). sont utilisés à l'arrière pour leur rentabilité et leur durabilité. Les freins à tambour offrent des performances adéquates pour les roues arrière, nécessitent moins d'entretien et s'intègrent parfaitement au système de freinage régénératif du véhicule. Cette combinaison assure des performances de freinage optimales et une rentabilité, en accord avec les objectifs d'efficacité globaux de l'EV. Les disques avant mesurent 358 mm.
 
 
 ### Freinage régénératif
