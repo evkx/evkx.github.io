@@ -37,7 +37,7 @@ La batterie haute capacité a une capacité brute de 75 kWh et une capacité net
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 462 km, avec une consommation d'énergie de 15,9 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 120kW. Une charge complète de 0 à 100 % prendrait 59 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 32 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 64 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 90kW. Chaque session de charge prendrait 30 minutes et 16 secondes.
+La vitesse de charge DC maximale est de 120kW. Une charge complète de 0 à 100 % prendrait 82 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 32 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 64 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 90kW. Chaque session de charge prendrait 30 minutes et 16 secondes.
 
 Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 26 kWh/100 km, le voyage prendrait environ 10 heures et 25 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 65%, avec un temps de recharge total de 125 minutes.
 
@@ -186,10 +186,11 @@ Le KGM Torres EVX dispose du [**freinage d'urgence automatique**](../../../../te
 
 ### Automatisation de la conduite
 
-Le KGM Torres EVX propose [l'automatisation de la conduite au niveau 1](../../../../technology/driverassistance/#level-of-autonomous-driving), en fonction du niveau d'équipement.
 
-Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
+
+Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisation de conduite suivantes.
 - [**Régulateur de vitesse adaptatif**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Lane Centering Assist (LCA) /AutoSteer**](../../../../technology/driverassistance/autosteer/) : maintient la voiture dans votre voie de circulation et ralentit si nécessaire dans la circulation. Le système limite la durée pendant laquelle vous pouvez conduire sans toucher le volant.
 
 ### Capteurs et caméras
 

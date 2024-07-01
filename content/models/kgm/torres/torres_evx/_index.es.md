@@ -37,7 +37,7 @@ La batería de alta capacidad tiene una capacidad bruta de 75 kWh y una capacida
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 462 km, con una tasa de consumo de energía de 15,9 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 120kW. Una carga completa del 0 al 100 % tardaría 59 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 64%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 90kW. Cada sesión de carga tardaría 30 minutos y 16 segundos.
+La velocidad máxima de carga de CC es 120kW. Una carga completa del 0 al 100 % tardaría 82 minutos, mientras que un escenario más común del 10 al 80 % tardaría 32 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 64%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 90kW. Cada sesión de carga tardaría 30 minutos y 16 segundos.
 
 En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 26 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 25 minutos. Este viaje requeriría dos paradas de carga del 1% al 65%, con un tiempo total de carga de 125 minutos.
 
@@ -186,10 +186,11 @@ El KGM Torres EVX tiene [**frenado automático de emergencia**](../../../../tech
 
 ### Automatización de conducción
 
-El KGM Torres EVX ofrece [automatización de la conducción en el nivel 1](../../../../technology/driverassistance/#level-of-autonomous-driving), dependiendo del nivel de equipamiento.
 
-Con el sistema   nivel 1, obtienes las siguientes funciones de automatización de conducción.
+
+Con el sistema   nivel 2, obtienes las siguientes funciones de automatización de conducción.
 - [**Control de crucero adaptativo**](../../../../technology/driverassistance/adaptivecruisecontrol/)
+- [**Autosteer**](../../../../technology/driverassistance/autosteer/): mantiene el automóvil en su carril y reduce la velocidad si es necesario en tráfico. El sistema limita cuánto tiempo puede conducir sin tocar el volante.
 
 ### Sensores y cámaras
 

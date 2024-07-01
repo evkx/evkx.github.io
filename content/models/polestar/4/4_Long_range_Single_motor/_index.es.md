@@ -39,7 +39,7 @@ Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwi
 
 La velocidad máxima de carga de CC es 200kW. Una carga completa del 0 al 100 % tardaría 60 minutos, mientras que un escenario más común del 10 al 80 % tardaría 28 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 4% al 55%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 133kW. Cada sesión de carga tardaría 22 minutos y 41 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 28 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 45 minutos. Este viaje requeriría dos paradas de carga del 4% al 54%, con un tiempo total de carga de 85 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 20,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 11 minutos. Este viaje requeriría dos paradas de carga del 1% al 61%, con un tiempo total de carga de 51 minutos.
 
 ### Cargador a bordo
 

@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>FIRST DRIVE: Polestar 4 – No Back Window, But Why?</h3>
+<p>Top Gear: 01.07.2024</p>
+
+{{< youtube g4Qgo_fgdGI >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>FIRST DRIVE: Polestar 4 - has the Tesla Model 3 met its match?</h3>
+<p>Electrifying: 01.07.2024</p>
+
+{{< youtube qv2UyaHmZYw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Polestar 4 first impressions</h3>
 <p>Bjørn Nyland: 12.02.2024</p>
 
