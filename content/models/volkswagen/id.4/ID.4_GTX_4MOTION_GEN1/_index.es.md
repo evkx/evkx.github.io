@@ -35,7 +35,7 @@ Este modelo ha sido reemplazado por [Volkswagen ID.4 GTX 4MOTION](/models/volksw
 
 ## Rendimiento
 
-Con overboost, el Volkswagen ID.4 GTX 4MOTION (GEN1) alcanza una potencia máxima de 220 kW (299 hp). Sin overboost, ofrece 195 kW (265 hp). El par máximo es de 460 Nm. Acelera de 0 a 100 km/h en 6,3 segundos y alcanza una velocidad máxima de 180 km/h, ofreciendo un rendimiento más similar a los vehículos tradicionales de motor de combustión interna.
+Con overboost, el Volkswagen ID.4 GTX 4MOTION (GEN1) alcanza una potencia máxima de 220 kW (299 hp). Sin overboost, entrega 195 kW (265 hp). El par máximo es de 460 Nm. Puede acelerar de 0 a 100 km/h en 6,3 segundos y alcanza una velocidad máxima de 180 km/h, demostrando su sólido rendimiento.
 
 ## Batería, autonomía y carga
 

@@ -23,8 +23,15 @@ Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>KGM Torres EVX 1000 km challenge</h3>
+<p>Bjørn Nyland: 02.06.2024</p>
+
+{{< youtube ujVl7fh-EZ4 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>KGM Torres EVX range test</h3>
-<p>Bjørn Nyland: 30.06.2024</p>
+<p>Bjørn Nyland: 01.06.2024</p>
 
 {{< youtube ZVcK2ohBpSY >}}
 

@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Audi Q4 Sportback 50 e-tron quattro i seksjoner.
 
 ## Ytelse
 
-Med overboost oppnår Audi Q4 Sportback 50 e-tron quattro en maksimal effekt på 220 kW (299 hk). Uten overboost leverer den 195 kW (265 hk). Maksimalt dreiemoment er 460 Nm. Den akselererer fra 0 til 100 km/t på 6,2 sekunder og når en toppfart på 180 km/t, og tilbyr ytelse som ligner mer på tradisjonelle forbrenningsmotorbiler.
+Med overboost når Audi Q4 Sportback 50 e-tron quattro en maksimal effekt på 220 kW (299 hk). Uten overboost leverer den 195 kW (265 hk). Maksimalt dreiemoment er 460 Nm. Den kan akselerere fra 0 til 100 km/t på 6,2 sekunder og når en topphastighet på 180 km/t, noe som viser dens solide ytelse.
 
 ## Batteri, rekkevidde og lading
 

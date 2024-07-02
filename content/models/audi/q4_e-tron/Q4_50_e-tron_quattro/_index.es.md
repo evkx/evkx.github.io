@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Audi Q4 50 e-tron quattro en secciones. Si dese
 
 ## Rendimiento
 
-Con overboost, el Audi Q4 50 e-tron quattro alcanza una potencia máxima de 220 kW (299 hp). Sin overboost, ofrece 195 kW (265 hp). El par máximo es de 460 Nm. Acelera de 0 a 100 km/h en 6,2 segundos y alcanza una velocidad máxima de 180 km/h, ofreciendo un rendimiento más similar a los vehículos tradicionales de motor de combustión interna.
+Con overboost, el Audi Q4 50 e-tron quattro alcanza una potencia máxima de 220 kW (299 hp). Sin overboost, entrega 195 kW (265 hp). El par máximo es de 460 Nm. Puede acelerar de 0 a 100 km/h en 6,2 segundos y alcanza una velocidad máxima de 180 km/h, demostrando su sólido rendimiento.
 
 ## Batería, autonomía y carga
 
