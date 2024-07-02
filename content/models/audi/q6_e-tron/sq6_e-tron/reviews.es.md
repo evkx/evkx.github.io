@@ -9,6 +9,34 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Audi Q6 e-tron driving REVIEW with SQ6 - better pick than Porsche Macan EV?</h3>
+<p>Autogefühl: 02.07.2024</p>
+
+{{< youtube R-LUZMSDKKU >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Prøvekjøring av Audi Q6 og SQ6 e-tron: Leverer på alt nordmenn ønsker</h3>
+<p>Norsk elbilforening: 02.07.2024</p>
+
+{{< youtube W0IwfFr1uJA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>FIRST DRIVE: Audi Q6 e-tron: the best electric Audi yet? </h3>
+<p>Electrifying: 02.07.2024</p>
+
+{{< youtube R-isNDCM_ZNc >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>NEW Audi Q6 / SQ6 E-Tron Review: Is Audi's Macan Rival Worth £93,000?</h3>
+<p>AutoTrader: 02.07.2024</p>
+
+{{< youtube dVjg1D6XiRg >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Audi Q6 e-tron final REVEAL of the Porsche Macan EV brother</h3>
 <p>Autogefühl: 18.03.2024</p>
 

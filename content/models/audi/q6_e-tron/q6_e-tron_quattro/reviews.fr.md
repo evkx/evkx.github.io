@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Audi Q6 E-Tron Review</h3>
+<p>Kris Rifa: 02.07.2024</p>
+
+{{< youtube 8okgrvwLm3w >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Audi Q6 e-tron final REVEAL of the Porsche Macan EV brother</h3>
 <p>Autogefühl: 18.03.2024</p>
 
