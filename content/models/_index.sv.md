@@ -253,7 +253,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="cadillac/"><img src="https://media.evkx.net/multimedia/models/cadillac/brandevs_st.jpg" class="img-fluid mb-2" alt="Cadillac" ></a>
 	<h2>Cadillac</h2>
 	<p>
-	Cadillac har 2 modell(er) med totalt 3 varianter.
+	Cadillac har 3 modell(er) med totalt 4 varianter.
 	</p>
 	<a href="cadillac/" class="btn btn-outline-primary" role="button">Gå till Cadillac modellöversikt</a>
 </div>

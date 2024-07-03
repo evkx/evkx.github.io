@@ -47,6 +47,21 @@ Cadillac LYRIQ er en SUV tilgængelig i 2 varianter.
 		</div>
 	</div>
 </div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Cadillac OPTIQ</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="optiq">
+                    <img src="https://media.evkx.net/multimedia/models/cadillac/optiq/main_1_st.jpg" class="img-fluid" alt="Cadillac OPTIQ" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+Cadillac OPTIQ er en SUV tilgængelig i 1 varianter.
+</p>
+	<a href="optiq/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
+		</div>
+	</div>
+</div>
         </div>
     </div>
 </div></div>

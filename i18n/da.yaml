@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-13db8135
+  translation: Cadillac OPTIQ AWD er en fuldelektrisk SUV med en rækkevidde på EPA på op til 483 km (300 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-a2864f4e
   translation: Polestar 3 Long Range Single Motor er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 650 km (404 miles). EVKX.net har alle detaljerne.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-b8f3319f
   translation: Audi RS e-tron GT performance er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 598 km (372 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-808290c2
-  translation: Porsche Taycan Turbo GT Weissach er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 558 km (347 miles). EVKX.net har alle detaljerne.
 

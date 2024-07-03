@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/cadillac/optiq/optiq_awd/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/cadillac/optiq/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Cadillac OPTIQ AWD</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-13db8135"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/polestar/3/3_long_range_single_motor/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_single_motor/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Hyundai INSTER Standard Range</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-ae995052"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/hyundai/inster/inster_long_range/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/hyundai/inster/inster_long_range/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>Hyundai INSTER Long Range</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-fd194ba1"}}</p>
 				</div>
 			</div>
 		</div>
