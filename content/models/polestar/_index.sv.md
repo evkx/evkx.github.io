@@ -41,7 +41,7 @@ Polestar 2 är en sedan som finns i 3 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Polestar 3 är en SUV tillgänglig i 1 varianter.
+Polestar 3 är en SUV tillgänglig i 3 varianter.
 </p>
 	<a href="3/" class="btn btn-outline-primary" role="button">Gå till modellinformation</a>
 		</div>

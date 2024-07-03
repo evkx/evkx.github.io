@@ -363,7 +363,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				26052460 kg
+				2460 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				26050585 kg
+				585 kg
 			</td>
 		</tr>
 		<tr>

@@ -80,15 +80,15 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 	<tbody>
 		<tr>
 			<td>
-				Gamme WLTP
+				Gamme WLTP de finition de base
 			</td>
 			<td>
-				560 km
+				561 km
 			</td>
 		</tr>
 		<tr>
 			<td>
-				Consommation WLTP
+				Consommation WLTP du trim de base
 			</td>
 			<td>
 				19,1 kWh/100km
@@ -96,10 +96,34 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Consommation WLTP avec perte de charge
+				Consommation WLTP trim de base avec perte de charge
 			</td>
 			<td>
-				16,7 kWh/100km
+				21,9 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Gamme WLTP haut de gamme
+			</td>
+			<td>
+				552 km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consommation WLTP de la garniture supérieure
+			</td>
+			<td>
+				19,4 kWh/100km
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Consommation WLTP de garniture supérieure avec perte de charge
+			</td>
+			<td>
+				23,1 kwh/100km
 			</td>
 		</tr>
 	</tbody>

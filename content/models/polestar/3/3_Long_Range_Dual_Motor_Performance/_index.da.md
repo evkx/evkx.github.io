@@ -1,7 +1,7 @@
 ---
 title: Polestar 3 Long Range Dual Motor Performance
 linktitle: "3 Long Range Dual Motor Performance"
-description: "Polestar 3 Long Range Dual Motor Performance er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 560 km (348 miles). EVKX.net har alle detaljerne."
+description: "Polestar 3 Long Range Dual Motor Performance er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 561 km (349 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Polestar 3 Long Range Dual Motor Performance leverer en solid præstation med en
 
 Det højkapacitetsbatteri har en bruttokapacitet på 111 kWh og en nettoanvendelig kapacitet på 107 kWh, hvilket giver en buffer på 4 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 370 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 560 km, med et energiforbrugsrate på 19,1 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 561 og 552 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 19,1 kWh/100 km for basismodellen og 19,4 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 250kW. En fuld opladning fra 0 - 100 % ville tage 68 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 32 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 4% til 54%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 136kW. Hver opladningssession ville tage 24 minutter og 31 sekunder.
 

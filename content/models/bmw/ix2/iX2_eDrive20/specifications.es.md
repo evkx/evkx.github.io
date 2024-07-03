@@ -363,7 +363,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				26052460 kg (57435774 lbs)
+				2460 kg (5423 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				26050585 kg (57431641 lbs)
+				585 kg (1290 lbs)
 			</td>
 		</tr>
 		<tr>

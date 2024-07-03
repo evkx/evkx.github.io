@@ -41,7 +41,7 @@ Polestar 2 is a sedan available in 3 variants.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Polestar 3 is a SUV available in 1 variants.
+Polestar 3 is a SUV available in 3 variants.
 </p>
 	<a href="3/" class="btn btn-outline-primary" role="button">Go to model info</a>
 		</div>

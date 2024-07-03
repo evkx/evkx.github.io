@@ -112,6 +112,12 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-a2864f4e
+  translation: Polestar 3 Long Range Single is an all-electric SUV with a WLTP range of up to 650 km (404 miles). EVKX.net has all the details.
+
+- id: frontpage-description-eec779be
+  translation: Polestar 3 Long Range Dual Motor is an all-electric SUV with a WLTP range of up to 631 km (392 miles). EVKX.net has all the details.
+
 - id: frontpage-description-23e9b22b
   translation: SKODA Elroq 85x is an all-electric coupe SUV with a WLTP range of up to 550 km (342 miles). EVKX.net has all the details.
 
@@ -153,10 +159,4 @@
 
 - id: frontpage-description-808290c2
   translation: Porsche Taycan Turbo GT Weissach is an all-electric luxury sedan with a WLTP range of up to 558 km (347 miles). EVKX.net has all the details.
-
-- id: frontpage-description-ae075015
-  translation: Nio EL8 is an all-electric SUV with a WLTP range of up to 510 km (317 miles). EVKX.net has all the details.
-
-- id: frontpage-description-ca5fed04
-  translation: Rivian R1S Quad-Motor AWD MP is an all-electric premium SUV with a EPA range of up to 516 km (321 miles). EVKX.net has all the details.
 

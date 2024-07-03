@@ -1,7 +1,7 @@
 ---
 title: Polestar 3 Long Range Dual Motor Performance
 linktitle: "3 Long Range Dual Motor Performance"
-description: "Polestar 3 Long Range Dual Motor Performance est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 560 km (348 miles). EVKX.net a tous les détails."
+description: "Polestar 3 Long Range Dual Motor Performance est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 561 km (349 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ La Polestar 3 Long Range Dual Motor Performance offre des performances solides a
 
 La batterie haute capacité a une capacité brute de 111 kWh et une capacité nette utilisable de 107 kWh, offrant une réserve de 4 kWh (3,6%) pour la protection de la batterie. Avec une tension nominale de 370 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 560 km, avec une consommation d'énergie de 19,1 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 561 et 552 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 19,1 kWh/100 km pour le modèle de base et à 19,4 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 68 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 32 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 4 % et 54 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 136kW. Chaque session de charge prendrait 24 minutes et 31 secondes.
 

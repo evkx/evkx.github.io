@@ -112,6 +112,12 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-a2864f4e
+  translation: Polestar 3 Long Range Single er en helelektrisk SUV med en WLTP rekkevidde på opptil 650 km. EVKX.net har alle detaljene.
+
+- id: frontpage-description-eec779be
+  translation: Polestar 3 Long Range Dual Motor er en helelektrisk SUV med en WLTP rekkevidde på opptil 631 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-23e9b22b
   translation: SKODA Elroq 85x er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 550 km. EVKX.net har alle detaljene.
 
@@ -153,10 +159,4 @@
 
 - id: frontpage-description-808290c2
   translation: Porsche Taycan Turbo GT Weissach er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 558 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-ae075015
-  translation: Nio EL8 er en helelektrisk SUV med en WLTP rekkevidde på opptil 510 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-ca5fed04
-  translation: Rivian R1S Quad-Motor AWD MP er en helelektrisk premium-SUV med en EPA rekkevidde på opptil 516 km. EVKX.net har alle detaljene.
 

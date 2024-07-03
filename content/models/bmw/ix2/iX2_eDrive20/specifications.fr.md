@@ -363,7 +363,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				26052460 kg (57435774 lbs)
+				2460 kg (5423 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				26050585 kg (57431641 lbs)
+				585 kg (1290 lbs)
 			</td>
 		</tr>
 		<tr>

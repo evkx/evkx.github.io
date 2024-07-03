@@ -1,7 +1,7 @@
 ---
 title: Polestar 3 Long Range Dual Motor Performance
 linktitle: "3 Long Range Dual Motor Performance"
-description: "Polestar 3 Long Range Dual Motor Performance is an all-electric SUV with a WLTP range of up to 560 km (348 miles). EVKX.net has all the details."
+description: "Polestar 3 Long Range Dual Motor Performance is an all-electric SUV with a WLTP range of up to 561 km (349 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ The Polestar 3 Long Range Dual Motor Performance delivers a solid performance wi
 
 The high-capacity battery has a gross capacity of 111 kWh and a net usable capacity of 107 kWh, providing an 4 kWh buffer (3.6%) for battery protection. With a nominal voltage of 370 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 560 km (348 miles), with an energy consumption rate of 19.1 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 561 to 552 km (349-343 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 19.1 kWh/100 km for the base model and 19.4 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 68 minutes, while a more typical charging scenario from 10% to 80% takes 32 minutes with an average charging speed at 140 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 4% to 54%. This results in an effective charging speed, including time lost, of 136 kW, with each charging session taking about 24 minutes and 31 seconds..
 

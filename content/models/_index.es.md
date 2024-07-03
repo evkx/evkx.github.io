@@ -516,7 +516,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 	<a href="polestar/"><img src="https://media.evkx.net/multimedia/models/polestar/brandevs_st.jpg" class="img-fluid mb-2" alt="Polestar" ></a>
 	<h2>Polestar</h2>
 	<p>
-	Polestar tiene 3 modelos con un total de 6 variantes.
+	Polestar tiene 3 modelos con un total de 8 variantes.
 	</p>
 	<a href="polestar/" class="btn btn-outline-primary" role="button">Ir a Polestar descripción general del modelo EV</a>
 </div>

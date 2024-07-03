@@ -41,7 +41,7 @@ Polestar 2 est une berline disponible en 3 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Polestar 3 est un SUV disponible en 1 variantes.
+Polestar 3 est un SUV disponible en 3 variantes.
 </p>
 	<a href="3/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
 		</div>

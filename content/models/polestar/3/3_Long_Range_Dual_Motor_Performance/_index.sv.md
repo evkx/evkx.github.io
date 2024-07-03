@@ -1,7 +1,7 @@
 ---
 title: Polestar 3 Long Range Dual Motor Performance
 linktitle: "3 Long Range Dual Motor Performance"
-description: "Polestar 3 Long Range Dual Motor Performance är en helelektrisk SUV med en WLTP räckvidd på upp till 560 km. EVKX.net har alla detaljer."
+description: "Polestar 3 Long Range Dual Motor Performance är en helelektrisk SUV med en WLTP räckvidd på upp till 561 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Polestar 3 Long Range Dual Motor Performance levererar en solid prestanda med en
 
 Högkapacitetsbatteriet har en bruttokapacitet på 111 kWh och en nettoanvändbar kapacitet på 107 kWh, vilket ger en buffert på 4 kWh (3,6%) för batteriskydd. Med en nominell spänning på 370 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-Enligt [WLTP](../../../../guides/understandingrange/wltp/ (Worldwide Harmonized Light Vehicles Test Procedure) standarden är fordonets räckvidd 560 km (199 miles), med en energiförbrukningshastighet på 19,1 kWh/100 km. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 561 och 552 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 19,1 kWh/100 km för basmodellen och 19,4 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 250 kW. En full laddning från 0 - 100 % tar 68 minuter, medan ett vanligare scenario på 10-80 % tar 32 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 4% till 54%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 136kW. Varje laddningssession tar 24 minuter och 31 sekunder.
 
