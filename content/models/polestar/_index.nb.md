@@ -37,7 +37,7 @@ Polestar 2 er en sedan tilgjengelig i 3 varianter.
         <div class="row">
             <div class="col col-12 col-md-6">
                 <a href="3">
-                    <img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor_performance/main_1_st.jpg" class="img-fluid" alt="Polestar 3" >
+                    <img src="https://media.evkx.net/multimedia/models/polestar/3/3_long_range_dual_motor/main_1_st.jpg" class="img-fluid" alt="Polestar 3" >
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
