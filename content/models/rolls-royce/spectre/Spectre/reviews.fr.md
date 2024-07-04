@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Rolls-Royce Spectre - INSANE Luxury!</h3>
+<p>carwow: 04.07.2024</p>
+
+{{< youtube ANPKMbm_cvQ >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The Electric Rolls Royce Spectre is Ridiculous!</h3>
 <p>Auto Focus: 24.01.2024</p>
 
@@ -34,6 +41,13 @@ Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../..
 <p>Out of Spec Reviews: 10.11.2023</p>
 
 {{< youtube jLfsGg-Q3zw >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>2024 Rolls-Royce Spectre Review // Why It's Worth $500,000</h3>
+<p>Throttle House: 05.10.2023</p>
+
+{{< youtube aWSCm3YN_sQ >}}
 
 </div>
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
