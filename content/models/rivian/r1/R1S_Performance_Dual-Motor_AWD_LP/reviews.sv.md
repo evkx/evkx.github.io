@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The Best Electric Car For A Big Family! Rivian R1S v Tesla Model X v Kia EV9 v Mercedes EQS SUV</h3>
+<p>Out of Spec Reviews: 04.07.2024</p>
+
+{{< youtube PBBF8wxzyrg >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Rivian R1S Delivery Deep Dive Features Review</h3>
 <p>State Of Charge: 29.04.2023</p>
 

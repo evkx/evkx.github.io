@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>FIRST DRIVE: Peugeot E-5008 - is THIS the perfect family EV???</h3>
+<p>Electrifying: 04.07.2024</p>
+
+{{< youtube LCppho2EINA >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Peugeot E-5008 Test Drive! BEST IN CLASS?</h3>
 <p>Kris Rifa: 27.06.2024</p>
 

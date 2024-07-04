@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Nous collectons les avis de nos [réviseurs en ligne préférés](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The Best Electric Car For A Big Family! Rivian R1S v Tesla Model X v Kia EV9 v Mercedes EQS SUV</h3>
+<p>Out of Spec Reviews: 04.07.2024</p>
+
+{{< youtube PBBF8wxzyrg >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Mercedes-EQ EQS 450 4MATIC - er den verdt over 1,2 millioner kroner?</h3>
 <p>Norsk elbilforening: 03.05.2023</p>
 
