@@ -144,7 +144,7 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem. 3-zone klimasystemet understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpe kan spare betydelig energi, som elbilen ville bruges til opvarmning i koldt vejr.
+Der er et tilgængeligt klimasystem. 3-zone klimasystemet understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
 
 ## Komfort
 
