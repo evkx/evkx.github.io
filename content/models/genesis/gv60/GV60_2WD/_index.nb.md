@@ -75,7 +75,7 @@ Den maksimale regenerative effekten er 150 kW.
 
 ## Eksteriør
 
-Genesis GV60 2WD, med dimensjoner på 4515 mm i lengde, 1890 mm i bredde og 1580 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Du kan velge mellom 10 forskjellige lakkfarger når du bestiller denne modellen.
+Genesis GV60 2WD, med dimensjoner på 4515 mm i lengde, 1890 mm i bredde og 1580 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Genesis GV60 2WD er tilgjengelig i totalt 10 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 19 til 20 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).

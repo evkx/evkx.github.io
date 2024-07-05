@@ -83,7 +83,7 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 ## Exteriör
 
-Du kan välja mellan 3 olika färgfärger när du beställer den här modellen.
+Tesla Cybertruck Cyberbeast finns i totalt 3 enfärgade lackfärger.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#split-baklucka) där grinden faller ner. Bakluckan är elektriskt manövrerad.
 

@@ -93,7 +93,7 @@ Den maksimale regenerative effekt er 265 kW.
 
 ## Udvendig
 
-Den Audi RS e-tron GT performance, med dimensioner på 4989 mm i længde, 1964 mm i bredde og 1396 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Du kan vælge mellem 54 forskellige malingsfarver, når du bestiller denne model.
+Den Audi RS e-tron GT performance, med dimensioner på 4989 mm i længde, 1964 mm i bredde og 1396 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Audi RS e-tron GT performance fås i alt i 54 lakfarver, herunder perlemors- og metalliske muligheder. Ud over standardpaletten er der eksklusive farver fra ''-paletten.
 Derudover kan du vælge mellem 7 hjul med størrelser fra 19 til 21 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

@@ -73,7 +73,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-You can choose between 7 different paint colors when ordering this model.
+The MG Cyberster AWD Long Range is available in a total of 7 paint colors, including several striking metallic options.
 
 The car has two [scissor doors](../../../../technology/doors/) and a [bootlid](../../../../technology/doors/#bootlid) in the rear.
 

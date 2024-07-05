@@ -77,7 +77,7 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 ## Exteriör
 
-Volkswagen ID.3 GTX, med dimensioner på 4261 mm i längd, 1809 mm i bredd och 1568 mm i höjd, tillhör C-segmentet av bilar, även kallat kompakta bilar. Dessa bilar erbjuder en balans mellan storlek, prestanda och prisvärdhet, vilket gör dem mångsidiga för olika förare. Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
+Volkswagen ID.3 GTX, med dimensioner på 4261 mm i längd, 1809 mm i bredd och 1568 mm i höjd, tillhör C-segmentet av bilar, även kallat kompakta bilar. Dessa bilar erbjuder en balans mellan storlek, prestanda och prisvärdhet, vilket gör dem mångsidiga för olika förare. Volkswagen ID.3 GTX finns i totalt 5 lackfärger, inklusive både solida och metalliska alternativ.
 Dessutom kan du välja mellan 3 hjul i storlek från 18 till 20 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).

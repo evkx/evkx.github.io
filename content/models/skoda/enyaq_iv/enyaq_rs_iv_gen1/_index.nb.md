@@ -77,7 +77,7 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 ## Eksteriør
 
-SKODA ENYAQ RS iV (GEN1), med dimensjoner på 4649 mm i lengde, 1879 mm i bredde og 1616 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Du kan velge mellom 9 forskjellige lakkfarger når du bestiller denne modellen.
+SKODA ENYAQ RS iV (GEN1), med dimensjoner på 4649 mm i lengde, 1879 mm i bredde og 1616 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. SKODA ENYAQ RS iV (GEN1) er tilgjengelig i totalt 9 lakkfarger, inkludert solide, metalliske og perlemorsalternativer.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 20 til 21 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

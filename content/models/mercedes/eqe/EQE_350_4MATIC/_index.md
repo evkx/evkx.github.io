@@ -83,7 +83,7 @@ The maximum regenerative power is 186 kW.
 
 ## Exterior
 
-The Mercedes-EQ EQE 350 4MATIC, with dimensions of 4946 mm in length, 1961 mm in width, and 1510 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. You can choose between 11 different paint colors when ordering this model.
+The Mercedes-EQ EQE 350 4MATIC, with dimensions of 4946 mm in length, 1961 mm in width, and 1510 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Mercedes-EQ EQE 350 4MATIC offers a selection of 11 paint colors, featuring solid, metallic, and matte options. Alongside the standard palette, exclusive colors are available from the '' palette.
 
 You can also choose several styling options to make your car more unique.
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 

@@ -77,7 +77,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-MG MG5 Electric Standard Range, med dimensjoner på 4600 mm i lengde, 1818 mm i bredde og 1543 mm i høyde, tilhører D-segmentet av biler, også kjent som mellomstore eller familiebiler. Disse bilene tilbyr mer plass, komfort og funksjoner enn mindre segmenter, noe som gjør dem egnet for ulike sjåfører. Du kan velge mellom 4 forskjellige lakkfarger når du bestiller denne modellen.
+MG MG5 Electric Standard Range, med dimensjoner på 4600 mm i lengde, 1818 mm i bredde og 1543 mm i høyde, tilhører D-segmentet av biler, også kjent som mellomstore eller familiebiler. Disse bilene tilbyr mer plass, komfort og funksjoner enn mindre segmenter, noe som gjør dem egnet for ulike sjåfører. MG MG5 Electric Standard Range er tilgjengelig i totalt 4 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
 
 

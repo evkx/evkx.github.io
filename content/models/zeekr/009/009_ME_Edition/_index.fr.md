@@ -73,7 +73,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ## Extérieur
 
-Vous pouvez choisir entre 3 couleurs de peinture différentes lors de la commande de ce modèle.
+La Zeekr 009 ME Edition est disponible en un total de 3 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 La voiture a deux [portes ordinaires](../../../../technology/doors/) dans la première rangée, [portes coulissantes](../../../../technology/doors/) en deuxième rangée et un hayon. Les portes motorisées sont une fonction un standard pour les portes latérales.
 

@@ -73,7 +73,7 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 ## Extérieur
 
-Vous pouvez choisir entre 7 couleurs de peinture différentes lors de la commande de ce modèle.
+La MG Cyberster AWD Long Range est disponible en un total de 7 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 La voiture a deux [portes ciseaux](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#bootlid) à l'arrière.
 

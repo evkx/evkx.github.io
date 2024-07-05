@@ -79,7 +79,7 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 ## Eksteriør
 
-Lotus Eletre R, med dimensjoner på 5105 mm i lengde,  mm i bredde og 1630 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
+Lotus Eletre R, med dimensjoner på 5105 mm i lengde,  mm i bredde og 1630 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Lotus Eletre R er tilgjengelig i totalt 6 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 I tillegg kan du velge mellom 10 hjul med størrelser fra 22 til 23 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).

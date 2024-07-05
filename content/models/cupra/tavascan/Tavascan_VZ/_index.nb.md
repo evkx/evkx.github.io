@@ -77,7 +77,7 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 ## Eksteriør
 
-CUPRA Tavascan VZ, med dimensjoner på 4644 mm i lengde, 1861 mm i bredde og 1597 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
+CUPRA Tavascan VZ, med dimensjoner på 4644 mm i lengde, 1861 mm i bredde og 1597 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. CUPRA Tavascan VZ er tilgjengelig i totalt 5 lakkfarger, inkludert både solide og metalliske alternativer.
 I tillegg kan du velge mellom 3 hjul med størrelser fra 19 til 21 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

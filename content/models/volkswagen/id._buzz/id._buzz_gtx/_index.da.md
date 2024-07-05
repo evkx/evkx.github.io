@@ -77,7 +77,7 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 ## Udvendig
 
-Du kan vælge mellem 12 forskellige malingsfarver, når du bestiller denne model.
+Volkswagen ID. Buzz GTX fås i alt 12 lakfarver, herunder solide, metalliske og perlemorsmuligheder.
 Derudover kan du vælge mellem 5 hjul med størrelser fra 19 til 21 tommer.
 
 Bilen har to [almindelige døre](../../../../technology/doors/) i første række, [skydedøre](../../../../technology/doors/) på anden række og en bagklap. Elektriske døre er en standard funktion for sidedørene.

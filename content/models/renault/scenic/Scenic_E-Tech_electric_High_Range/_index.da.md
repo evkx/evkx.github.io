@@ -77,7 +77,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Den Renault Scenic E-Tech electric High Range, med dimensioner på 4470 mm i længde, 1864 mm i bredde og 1571 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
+Den Renault Scenic E-Tech electric High Range, med dimensioner på 4470 mm i længde, 1864 mm i bredde og 1571 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Renault Scenic E-Tech electric High Range fås i alt i 6 ensfarvede lakfarver.
 Derudover kan du vælge mellem 2 hjul med størrelser fra 19 til 20 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

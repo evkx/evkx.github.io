@@ -77,7 +77,7 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 ## Eksteriør
 
-Volkswagen ID.3 Pro S (GEN1), med dimensjoner på 4261 mm i lengde, 1809 mm i bredde og 1568 mm i høyde, tilhører C-segmentet av biler, også kjent som kompakte biler. Disse bilene oppnår en balanse mellom størrelse, ytelse og prisvennlighet, noe som gjør dem allsidige for ulike sjåfører. Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
+Volkswagen ID.3 Pro S (GEN1), med dimensjoner på 4261 mm i lengde, 1809 mm i bredde og 1568 mm i høyde, tilhører C-segmentet av biler, også kjent som kompakte biler. Disse bilene oppnår en balanse mellom størrelse, ytelse og prisvennlighet, noe som gjør dem allsidige for ulike sjåfører. Volkswagen ID.3 Pro S (GEN1) er tilgjengelig i totalt 5 lakkfarger, inkludert både solide og metalliske alternativer.
 I tillegg kan du velge mellom 3 hjul med størrelser fra 18 til 20 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

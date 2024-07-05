@@ -79,7 +79,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-The Lotus Eletre, with dimensions of 5105 mm in length,  mm in width, and 1630 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs You can choose between 2 different paint colors when ordering this model.
+The Lotus Eletre, with dimensions of 5105 mm in length,  mm in width, and 1630 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Lotus Eletre is available in a total of 2 paint colors, including several striking metallic options.
 Additionally, you can choose between 2 wheels with sizes from 20 to 22 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).

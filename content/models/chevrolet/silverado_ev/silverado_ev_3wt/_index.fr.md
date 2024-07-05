@@ -79,7 +79,7 @@ La puissance régénérative maximale est de 400 kW.
 
 ## Extérieur
 
-Vous pouvez choisir entre 1 couleurs de peinture différentes lors de la commande de ce modèle.
+La Chevrolet Silverado EV 3WT est disponible en un total de 1 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#split-tailgate) là où le portail tombe.
 

@@ -79,7 +79,7 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 ## Exteriör
 
-Volkswagen ID.4 Pro 4MOTION, med dimensioner på 4582 mm i längd, 1865 mm i bredd och 1637 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Du kan välja mellan 10 olika färgfärger när du beställer den här modellen.
+Volkswagen ID.4 Pro 4MOTION, med dimensioner på 4582 mm i längd, 1865 mm i bredd och 1637 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Volkswagen ID.4 Pro 4MOTION finns i totalt 10 lackfärger, inklusive både solida och metalliska alternativ.
 Dessutom kan du välja mellan 3 hjul i storlek från 19 till 21 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).

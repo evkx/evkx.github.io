@@ -85,7 +85,7 @@ The maximum regenerative power is 300 kW.
 
 ## Exterior
 
-The Mercedes-AMG EQS 53 4MATIC+, with dimensions of 5223 mm in length, 1926 mm in width, and 1520 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. You can choose between 11 different paint colors when ordering this model.
+The Mercedes-AMG EQS 53 4MATIC+, with dimensions of 5223 mm in length, 1926 mm in width, and 1520 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. The Mercedes-AMG EQS 53 4MATIC+ offers a selection of 11 paint colors, featuring solid, metallic, and matte options. Alongside the standard palette, exclusive colors are available from the '' palette.
 The optional AMG Night Package finishes selected exterior elements in high-gloss black. Depending on the chosen paint color – this results in either strong contrasts or flowing transitions. 
 
 

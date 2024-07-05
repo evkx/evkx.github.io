@@ -75,7 +75,7 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 ## Exteriör
 
-Polestar 4 Long range Dual motor, med dimensioner på 4840 mm i längd, 2008 mm i bredd och 1534 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
+Polestar 4 Long range Dual motor, med dimensioner på 4840 mm i längd, 2008 mm i bredd och 1534 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. Polestar 4 Long range Dual motor finns i totalt 6 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 

@@ -79,7 +79,7 @@ Den maximala regenerativa effekten är 400 kW.
 
 ## Exteriör
 
-Du kan välja mellan 1 olika färgfärger när du beställer den här modellen.
+Chevrolet Silverado EV SRT finns i totalt 1 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#split-baklucka) där grinden faller ner.
 

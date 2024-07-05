@@ -73,7 +73,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-Volvo EX30 Single Motor, med dimensjoner på 4233 mm i lengde, 1837 mm i bredde og 1549 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
+Volvo EX30 Single Motor, med dimensjoner på 4233 mm i lengde, 1837 mm i bredde og 1549 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Volvo EX30 Single Motor er tilgjengelig i totalt 5 lakkfarger, alle inkluderer metalliske og perlemorsalternativer.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 18 til 20 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).

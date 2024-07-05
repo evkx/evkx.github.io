@@ -73,7 +73,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Du kan vælge mellem 3 forskellige malingsfarver, når du bestiller denne model.
+Volvo EM90 fås i alt 3 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 Derudover kan du vælge mellem 2 hjul med størrelser fra 19 til 20 tommer.
 
 Bilen har to [almindelige døre](../../../../technology/doors/) i første række, [skydedøre](../../../../technology/doors/) på anden række og en bagklap. Elektriske døre er en standard funktion for sidedørene.

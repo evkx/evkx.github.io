@@ -73,7 +73,7 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 ## Udvendig
 
-Den Peugot E-308 SW, med dimensioner på 4636 mm i længde, 1859 mm i bredde og 1442 mm i højde, tilhører D-segmentet af biler, også kendt som mellemstore eller familiebiler. Disse biler tilbyder mere plads, komfort og funktioner end mindre segmenter og er velegnede til forskellige førere. Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
+Den Peugot E-308 SW, med dimensioner på 4636 mm i længde, 1859 mm i bredde og 1442 mm i højde, tilhører D-segmentet af biler, også kendt som mellemstore eller familiebiler. Disse biler tilbyder mere plads, komfort og funktioner end mindre segmenter og er velegnede til forskellige førere. Peugot E-308 SW fås i alt 6 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

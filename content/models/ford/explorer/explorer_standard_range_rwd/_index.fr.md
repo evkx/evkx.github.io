@@ -83,7 +83,7 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 ## Extérieur
 
-La Ford Explorer Standard Range RWD, avec des dimensions de 4468 mm de longueur, 1871 mm de largeur et 1639 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. Vous pouvez choisir entre 7 couleurs de peinture différentes lors de la commande de ce modèle.
+La Ford Explorer Standard Range RWD, avec des dimensions de 4468 mm de longueur, 1871 mm de largeur et 1639 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. La Ford Explorer Standard Range RWD est disponible en un total de 7 couleurs de peinture, comprenant des options à la fois solides et métalliques.
 De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 20 à 21 pouces.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).

@@ -82,7 +82,7 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 ## Eksteriør
 
-VinFast VF8 Plus, med dimensjoner på 4750 mm i lengde, 1934 mm i bredde og 1667 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Du kan velge mellom 8 forskjellige lakkfarger når du bestiller denne modellen.
+VinFast VF8 Plus, med dimensjoner på 4750 mm i lengde, 1934 mm i bredde og 1667 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. VinFast VF8 Plus er tilgjengelig i totalt 8 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

@@ -94,7 +94,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-The Nio EL8, with dimensions of 5099 mm in length, 1989 mm in width, and 1750 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs You can choose between 5 different paint colors when ordering this model.
+The Nio EL8, with dimensions of 5099 mm in length, 1989 mm in width, and 1750 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Nio EL8 is available in a total of 5 solid paint colors.
 Additionally, you can choose between 3 wheels with sizes from 20 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

@@ -77,7 +77,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-The Mercedes-EQ EQB 350 4MATIC, with dimensions of 4684 mm in length, 1834 mm in width, and 1701 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 10 different paint colors when ordering this model.
+The Mercedes-EQ EQB 350 4MATIC, with dimensions of 4684 mm in length, 1834 mm in width, and 1701 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Mercedes-EQ EQB 350 4MATIC offers a selection of 10 paint colors, featuring solid, metallic, and matte options. Alongside the standard palette, exclusive colors are available from the '' palette.
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
 

@@ -83,7 +83,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Den Volvo C40 Recharge Single Motor ER, med dimensioner på 4440 mm i længde, 1873 mm i bredde og 1596 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Du kan vælge mellem 9 forskellige malingsfarver, når du bestiller denne model.
+Den Volvo C40 Recharge Single Motor ER, med dimensioner på 4440 mm i længde, 1873 mm i bredde og 1596 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Volvo C40 Recharge Single Motor ER fås i alt 9 lakfarver, som alle inkluderer metalliske og perlemorsmuligheder.
 Derudover kan du vælge mellem 2 hjul med størrelser fra 19 til 20 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).

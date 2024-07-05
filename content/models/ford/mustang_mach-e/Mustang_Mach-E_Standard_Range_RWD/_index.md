@@ -77,7 +77,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-The Ford Mustang Mach-E Standard Range RWD, with dimensions of 4713 mm in length, 1881 mm in width, and 1624 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 8 different paint colors when ordering this model.
+The Ford Mustang Mach-E Standard Range RWD, with dimensions of 4713 mm in length, 1881 mm in width, and 1624 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Ford Mustang Mach-E Standard Range RWD is available in a total of 8 paint colors, including both solid and metallic options.
 Additionally, you can choose between 2 wheels with sizes from 18 to 19 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).

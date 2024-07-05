@@ -77,7 +77,7 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 ## Extérieur
 
-La Volkswagen ID.7 GTX Tourer, avec des dimensions de 4961 mm de longueur, 1862 mm de largeur et 1532 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. Vous pouvez choisir entre 10 couleurs de peinture différentes lors de la commande de ce modèle.
+La Volkswagen ID.7 GTX Tourer, avec des dimensions de 4961 mm de longueur, 1862 mm de largeur et 1532 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. La Volkswagen ID.7 GTX Tourer est disponible en un total de 10 couleurs de peinture, comprenant des options à la fois solides et métalliques.
 De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 19 à 21 pouces.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).

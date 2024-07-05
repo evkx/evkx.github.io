@@ -79,7 +79,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-El Tesla Model S Standard Range, con dimensiones de 5021 mm de longitud, 1987 mm de anchura y 1431 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
+El Tesla Model S Standard Range, con dimensiones de 5021 mm de longitud, 1987 mm de anchura y 1431 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. El Tesla Model S Standard Range está disponible en un total de 5 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
 Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 19 a 21 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).

@@ -81,7 +81,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-Du kan velge mellom 4 forskjellige lakkfarger når du bestiller denne modellen.
+Li Auto MEGA er tilgjengelig i totalt 4 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
 Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er standard funksjon for sidedørene.
 

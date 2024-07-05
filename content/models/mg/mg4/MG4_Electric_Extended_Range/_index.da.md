@@ -77,7 +77,7 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 ## Udvendig
 
-Den MG MG4 Electric Extended Range, med dimensioner på 4287 mm i længde, 1836 mm i bredde og 1504 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Du kan vælge mellem 7 forskellige malingsfarver, når du bestiller denne model.
+Den MG MG4 Electric Extended Range, med dimensioner på 4287 mm i længde, 1836 mm i bredde og 1504 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. MG MG4 Electric Extended Range fås i alt 7 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
 
 

@@ -94,7 +94,7 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 ## Exteriör
 
-Nio ET5, med dimensioner på 4790 mm i längd, 1960 mm i bredd och 1499 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. Du kan välja mellan 10 olika färgfärger när du beställer den här modellen.
+Nio ET5, med dimensioner på 4790 mm i längd, 1960 mm i bredd och 1499 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. Nio ET5 finns i totalt 10 enfärgade lackfärger.
 Dessutom kan du välja mellan 2 hjul i storlek från 20 till 21 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' är standard-funktionen för sidodörrarna.

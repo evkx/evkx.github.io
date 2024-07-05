@@ -85,7 +85,7 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 ## Udvendig
 
-Den Volkswagen ID.4 GTX 4MOTION (GEN1), med dimensioner på 4582 mm i længde, 1865 mm i bredde og 1637 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
+Den Volkswagen ID.4 GTX 4MOTION (GEN1), med dimensioner på 4582 mm i længde, 1865 mm i bredde og 1637 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Volkswagen ID.4 GTX 4MOTION (GEN1) fås i alt 5 lakfarver, herunder både solide og metalliske muligheder.
 Derudover kan du vælge mellem 3 hjul med størrelser fra 20 til 21 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

@@ -73,7 +73,7 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 ## Exterior
 
-El Opel Astra Sports Tourer Electric, con dimensiones de 4642 mm de longitud, 1860 mm de anchura y 1480 mm de altura, pertenece al segmento D de automóviles, también conocido como coches medianos o familiares. Estos coches ofrecen más espacio, comodidad y características que segmentos más pequeños, siendo adecuados para una variedad de conductores. Puedes elegir entre 7 colores de pintura diferentes al pedir este modelo.
+El Opel Astra Sports Tourer Electric, con dimensiones de 4642 mm de longitud, 1860 mm de anchura y 1480 mm de altura, pertenece al segmento D de automóviles, también conocido como coches medianos o familiares. Estos coches ofrecen más espacio, comodidad y características que segmentos más pequeños, siendo adecuados para una variedad de conductores. El Opel Astra Sports Tourer Electric está disponible en un total de 7 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

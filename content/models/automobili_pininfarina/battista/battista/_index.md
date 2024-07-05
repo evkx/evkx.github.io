@@ -92,7 +92,7 @@ The maximum regenerative power is 400 kW.
 
 ## Exterior
 
-You can choose between 5 different paint colors when ordering this model.
+The Automobili Pininfarina Battista is available in a total of 5 paint colors, including several striking metallic options.
 
 
 

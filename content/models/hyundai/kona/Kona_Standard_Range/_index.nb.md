@@ -77,7 +77,7 @@ Hyundai Kona Standard Range har et forhjulsdriftssystem støttet av én motor p�
 
 ## Eksteriør
 
-Hyundai Kona Standard Range, med dimensjoner på 4355 mm i lengde, 1825 mm i bredde og 1575 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Du kan velge mellom 21 forskjellige lakkfarger når du bestiller denne modellen.
+Hyundai Kona Standard Range, med dimensjoner på 4355 mm i lengde, 1825 mm i bredde og 1575 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Hyundai Kona Standard Range tilbyr et utvalg av 21 lakkfarger, inkludert ensfargede, metalliske, perlemors- og matte alternativer.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 17 til 19 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).

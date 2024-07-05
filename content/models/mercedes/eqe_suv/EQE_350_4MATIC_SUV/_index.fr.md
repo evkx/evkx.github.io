@@ -81,7 +81,7 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 ## Extérieur
 
-La Mercedes-EQ EQE 350 4MATIC SUV, avec des dimensions de 4863 mm de longueur, 1931 mm de largeur et 1685 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Vous pouvez choisir entre 7 couleurs de peinture différentes lors de la commande de ce modèle.
+La Mercedes-EQ EQE 350 4MATIC SUV, avec des dimensions de 4863 mm de longueur, 1931 mm de largeur et 1685 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Mercedes-EQ EQE 350 4MATIC SUV propose une sélection de 7 couleurs de peinture, comprenant des options unies et métallisées. En plus de la palette standard, des couleurs exclusives sont disponibles dans la palette ''.
 
 Vous pouvez également choisir plusieurs options de style pour rendre votre voiture plus unique.
 De plus, vous pouvez choisir entre 5 roues avec des tailles allant de 20 à 22 pouces.

@@ -77,7 +77,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-You can choose between 12 different paint colors when ordering this model.
+The Volkswagen ID. Buzz GTX LWB is available in a total of 12 paint colors, including solid, metallic, and pearlescent options.
 Additionally, you can choose between 5 wheels with sizes from 19 to 21 inches.
 
 The car has two [regular doors](../../../../technology/doors/) in the first row, [sliding doors](../../../../technology/doors/) in the second row and a tailgate. Powered doors are a standard function for the side doors.

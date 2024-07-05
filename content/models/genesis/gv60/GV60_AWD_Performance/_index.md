@@ -75,7 +75,7 @@ The maximum regenerative power is 150 kW.
 
 ## Exterior
 
-The Genesis GV60 AWD Performance, with dimensions of 4515 mm in length, 1890 mm in width, and 1580 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 10 different paint colors when ordering this model.
+The Genesis GV60 AWD Performance, with dimensions of 4515 mm in length, 1890 mm in width, and 1580 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Genesis GV60 AWD Performance is available in a total of 10 paint colors, including several striking metallic options.
 Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).

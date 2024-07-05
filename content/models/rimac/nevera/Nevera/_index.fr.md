@@ -92,7 +92,7 @@ La puissance régénérative maximale est de 400 kW.
 
 ## Extérieur
 
-Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
+La Rimac Nevera est disponible en un total de 5 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 
 

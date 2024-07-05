@@ -71,7 +71,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ## Exterior
 
-The Mini Cooper SE, with dimensions of 3900 mm in length, 1750 mm in width, and 1450 mm in height, falls into the B-segment car, often referred to as a supermini, is a small car typically suitable for urban driving, offering a good balance of efficiency, size, and cost. You can choose between 10 different paint colors when ordering this model.
+The Mini Cooper SE, with dimensions of 3900 mm in length, 1750 mm in width, and 1450 mm in height, falls into the B-segment car, often referred to as a supermini, is a small car typically suitable for urban driving, offering a good balance of efficiency, size, and cost. The Mini Cooper SE is available in a total of 10 paint colors, including both solid and metallic options.
 Additionally, you can choose between 3 wheels with sizes from 16 to 18 inches.
 
 

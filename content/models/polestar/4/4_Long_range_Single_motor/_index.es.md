@@ -75,7 +75,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-El Polestar 4 Long range Single motor, con dimensiones de 4840 mm de longitud, 2008 mm de anchura y 1534 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
+El Polestar 4 Long range Single motor, con dimensiones de 4840 mm de longitud, 2008 mm de anchura y 1534 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El Polestar 4 Long range Single motor está disponible en un total de 6 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 

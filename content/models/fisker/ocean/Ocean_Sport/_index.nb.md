@@ -75,7 +75,7 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 ## Eksteriør
 
-Fisker Ocean Sport, med dimensjoner på 4774 mm i lengde, 1982 mm i bredde og 1631 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Du kan velge mellom 12 forskjellige lakkfarger når du bestiller denne modellen.
+Fisker Ocean Sport, med dimensjoner på 4774 mm i lengde, 1982 mm i bredde og 1631 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Fisker Ocean Sport er tilgjengelig i totalt 12 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 I tillegg kan du velge mellom 6 hjul med størrelser fra 20 til 22 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).

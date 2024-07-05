@@ -79,7 +79,7 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 ## Extérieur
 
-Vous pouvez choisir entre 9 couleurs de peinture différentes lors de la commande de ce modèle.
+La Rivian R1T Performance Dual-Motor AWD MP est disponible en un total de 9 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#split-tailgate) là où le portail tombe. Le hayon est alimenté électriquement.
 

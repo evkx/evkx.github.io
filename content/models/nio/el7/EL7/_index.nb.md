@@ -94,7 +94,7 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 ## Eksteriør
 
-Nio EL7, med dimensjoner på 4912 mm i lengde, 1987 mm i bredde og 1720 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
+Nio EL7, med dimensjoner på 4912 mm i lengde, 1987 mm i bredde og 1720 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Nio EL7 er tilgjengelig i totalt 7 ensfargede lakkfarger.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 20 til 21 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' er standard-funksjon for sidedørene.

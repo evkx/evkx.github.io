@@ -75,7 +75,7 @@ Den maximala regenerativa effekten är 150 kW.
 
 ## Exteriör
 
-Genesis GV60 AWD Performance, med dimensioner på 4515 mm i längd, 1890 mm i bredd och 1580 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Du kan välja mellan 10 olika färgfärger när du beställer den här modellen.
+Genesis GV60 AWD Performance, med dimensioner på 4515 mm i längd, 1890 mm i bredd och 1580 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Genesis GV60 AWD Performance finns i totalt 10 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 Dessutom kan du välja mellan 3 hjul i storlek från 19 till 21 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).

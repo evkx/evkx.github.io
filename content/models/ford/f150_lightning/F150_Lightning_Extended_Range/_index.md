@@ -78,7 +78,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-You can choose between 6 different paint colors when ordering this model.
+The Ford F150 Lightning Extended Range is available in a total of 6 paint colors, including both solid and metallic options.
 Additionally, you can choose between 3 wheels with sizes from 18 to 22 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.

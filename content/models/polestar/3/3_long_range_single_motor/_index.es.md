@@ -75,7 +75,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-El Polestar 3 Long Range Single Motor, con dimensiones de 4900 mm de longitud, 1968 mm de anchura y 1614 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
+El Polestar 3 Long Range Single Motor, con dimensiones de 4900 mm de longitud, 1968 mm de anchura y 1614 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El Polestar 3 Long Range Single Motor está disponible en un total de 6 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 

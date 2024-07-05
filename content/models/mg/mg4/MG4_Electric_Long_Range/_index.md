@@ -77,7 +77,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-The MG MG4 Electric Long Range, with dimensions of 4287 mm in length, 1836 mm in width, and 1516 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 7 different paint colors when ordering this model.
+The MG MG4 Electric Long Range, with dimensions of 4287 mm in length, 1836 mm in width, and 1516 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The MG MG4 Electric Long Range is available in a total of 7 paint colors, including several striking metallic options.
 
 
 

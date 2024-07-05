@@ -77,7 +77,7 @@ Den maksimale regenerative effekten er 150 kW.
 
 ## Eksteriør
 
-Genesis Electrified GV70, med dimensjoner på 4715 mm i lengde, 1910 mm i bredde og 1630 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Du kan velge mellom 8 forskjellige lakkfarger når du bestiller denne modellen.
+Genesis Electrified GV70, med dimensjoner på 4715 mm i lengde, 1910 mm i bredde og 1630 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Genesis Electrified GV70 er tilgjengelig i totalt 8 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 19 til 20 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).

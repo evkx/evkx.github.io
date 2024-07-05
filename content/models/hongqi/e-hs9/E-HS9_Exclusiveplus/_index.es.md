@@ -77,7 +77,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-El Hongqi E-HS9 Exclusive+, con dimensiones de 5209 mm de longitud, 2010 mm de anchura y 1713 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
+El Hongqi E-HS9 Exclusive+, con dimensiones de 5209 mm de longitud, 2010 mm de anchura y 1713 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. El Hongqi E-HS9 Exclusive+ está disponible en un total de 6 colores de pintura, incluyendo varias opciones metálicas llamativas.
 Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 21 a 22 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). El cierre suave es la función un estándar para las puertas laterales.

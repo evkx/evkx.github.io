@@ -73,7 +73,7 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 
 ## Exteriör
 
-Neta GT 580 AWD, med dimensioner på 4715 mm i längd, 1979 mm i bredd och 1415 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
+Neta GT 580 AWD, med dimensioner på 4715 mm i längd, 1979 mm i bredd och 1415 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. Neta GT 580 AWD finns i totalt 6 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
 
 

@@ -73,7 +73,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-El Volvo EX30 Twin Motor Performance, con dimensiones de 4233 mm de longitud, 1837 mm de anchura y 1549 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
+El Volvo EX30 Twin Motor Performance, con dimensiones de 4233 mm de longitud, 1837 mm de anchura y 1549 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El Volvo EX30 Twin Motor Performance está disponible en un total de 5 colores de pintura, todos los cuales incluyen opciones metálicas y perladas.
 Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 18 a 20 pulgadas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).

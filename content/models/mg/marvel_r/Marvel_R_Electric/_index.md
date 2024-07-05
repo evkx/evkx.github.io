@@ -73,7 +73,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-The MG Marvel R Electric, with dimensions of 4674 mm in length, 1919 mm in width, and 1618 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 5 different paint colors when ordering this model.
+The MG Marvel R Electric, with dimensions of 4674 mm in length, 1919 mm in width, and 1618 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The MG Marvel R Electric is available in a total of 5 paint colors, including several striking metallic options.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

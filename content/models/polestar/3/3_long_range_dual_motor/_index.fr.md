@@ -75,7 +75,7 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 ## Extérieur
 
-La Polestar 3 Long Range Dual Motor, avec des dimensions de 4900 mm de longueur, 1968 mm de largeur et 1614 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Vous pouvez choisir entre 6 couleurs de peinture différentes lors de la commande de ce modèle.
+La Polestar 3 Long Range Dual Motor, avec des dimensions de 4900 mm de longueur, 1968 mm de largeur et 1614 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Polestar 3 Long Range Dual Motor est disponible en un total de 6 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 

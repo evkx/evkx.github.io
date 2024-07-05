@@ -73,7 +73,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-El Acura ZDX Type S, con dimensiones de 5022 mm de longitud, 1956 mm de anchura y 1636 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
+El Acura ZDX Type S, con dimensiones de 5022 mm de longitud, 1956 mm de anchura y 1636 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. El Acura ZDX Type S está disponible en un total de 6 colores de pintura, todos los cuales incluyen opciones metálicas y perladas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

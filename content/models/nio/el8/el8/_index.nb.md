@@ -94,7 +94,7 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 ## Eksteriør
 
-Nio EL8, med dimensjoner på 5099 mm i lengde, 1989 mm i bredde og 1750 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
+Nio EL8, med dimensjoner på 5099 mm i lengde, 1989 mm i bredde og 1750 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Nio EL8 er tilgjengelig i totalt 5 ensfargede lakkfarger.
 I tillegg kan du velge mellom 3 hjul med størrelser fra 20 til 21 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

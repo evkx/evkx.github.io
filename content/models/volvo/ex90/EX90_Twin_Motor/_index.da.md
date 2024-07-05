@@ -73,7 +73,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Den Volvo EX90 Twin Motor, med dimensioner på 5037 mm i længde, 1964 mm i bredde og 1744 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Du kan vælge mellem 8 forskellige malingsfarver, når du bestiller denne model.
+Den Volvo EX90 Twin Motor, med dimensioner på 5037 mm i længde, 1964 mm i bredde og 1744 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Volvo EX90 Twin Motor fås i alt 8 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 Derudover kan du vælge mellem 2 hjul med størrelser fra 21 til 22 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate). Soft close er en standard-funktion for sidedørene.

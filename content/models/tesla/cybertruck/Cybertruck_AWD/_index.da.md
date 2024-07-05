@@ -101,7 +101,7 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 ## Udvendig
 
-Du kan vælge mellem 3 forskellige malingsfarver, når du bestiller denne model.
+Tesla Cybertruck AWD fås i alt i 3 ensfarvede lakfarver.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-bagklap), hvor lågen falder ned. Soft close er en standard-funktion for sidedørene. Bagklappen er elektrisk drevet.
 

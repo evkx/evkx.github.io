@@ -75,7 +75,7 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 ## Udvendig
 
-Den Fisker Ocean Ultra, med dimensioner på 4774 mm i længde, 1982 mm i bredde og 1631 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 12 forskellige malingsfarver, når du bestiller denne model.
+Den Fisker Ocean Ultra, med dimensioner på 4774 mm i længde, 1982 mm i bredde og 1631 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Fisker Ocean Ultra fås i alt 12 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 Derudover kan du vælge mellem 6 hjul med størrelser fra 20 til 22 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).

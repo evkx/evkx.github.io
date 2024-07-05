@@ -79,7 +79,7 @@ La puissance régénérative maximale est de 200 kW.
 
 ## Extérieur
 
-La BYD Atto 3, avec des dimensions de 4455 mm de longueur, 1875 mm de largeur et 1875 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. Vous pouvez choisir entre 4 couleurs de peinture différentes lors de la commande de ce modèle.
+La BYD Atto 3, avec des dimensions de 4455 mm de longueur, 1875 mm de largeur et 1875 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. La BYD Atto 3 est disponible en un total de 4 couleurs de peinture unies.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

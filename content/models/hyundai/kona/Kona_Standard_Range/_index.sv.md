@@ -77,7 +77,7 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 
 ## Exteriör
 
-Hyundai Kona Standard Range, med dimensioner på 4355 mm i längd, 1825 mm i bredd och 1575 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Du kan välja mellan 21 olika färgfärger när du beställer den här modellen.
+Hyundai Kona Standard Range, med dimensioner på 4355 mm i längd, 1825 mm i bredd och 1575 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Hyundai Kona Standard Range erbjuder ett urval av 21 lackfärger, inklusive enfärgade, metalliska, pärlemors- och matta alternativ
 Dessutom kan du välja mellan 2 hjul i storlek från 17 till 19 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).

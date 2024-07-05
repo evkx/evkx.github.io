@@ -73,7 +73,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-The Acura ZDX Type S, with dimensions of 5022 mm in length, 1956 mm in width, and 1636 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs You can choose between 6 different paint colors when ordering this model.
+The Acura ZDX Type S, with dimensions of 5022 mm in length, 1956 mm in width, and 1636 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Acura ZDX Type S is available in a total of 6 paint colors, all of which include metallic and pearlescent options.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

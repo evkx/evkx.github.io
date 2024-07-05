@@ -81,7 +81,7 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 ## Extérieur
 
-Vous pouvez choisir entre 12 couleurs de peinture différentes lors de la commande de ce modèle.
+La Volkswagen ID. Buzz Pro LWB est disponible en un total de 12 couleurs de peinture, comprenant des options solides, métalliques et nacrées.
 De plus, vous pouvez choisir entre 5 roues avec des tailles allant de 19 à 21 pouces.
 
 La voiture a deux [portes ordinaires](../../../../technology/doors/) dans la première rangée, [portes coulissantes](../../../../technology/doors/) en deuxième rangée et un hayon. Les portes motorisées sont une fonction un standard pour les portes latérales.

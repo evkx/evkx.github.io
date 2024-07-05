@@ -73,7 +73,7 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 ## Eksteriør
 
-Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
+MG Cyberster AWD Long Range er tilgjengelig i totalt 7 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
 Bilen har to [saksedører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#bootlid) bak.
 

@@ -98,7 +98,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-El Audi Q8 e-tron edition Dakar, con dimensiones de 4901 mm de longitud, 1935 mm de anchura y 1629 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. Puedes elegir entre 3 colores de pintura diferentes al pedir este modelo.
+El Audi Q8 e-tron edition Dakar, con dimensiones de 4901 mm de longitud, 1935 mm de anchura y 1629 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El Audi Q8 e-tron edition Dakar ofrece una selección de 3 colores de pintura, que incluyen opciones sólidas y metálicas. Además de la paleta estándar, hay colores exclusivos disponibles en la paleta 'Audi Q8 e-tron edition Dakar'
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
 Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 18 a 19 pulgadas.

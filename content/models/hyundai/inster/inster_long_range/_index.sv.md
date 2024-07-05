@@ -73,7 +73,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ## Exteriör
 
-Hyundai INSTER Long Range, med dimensioner på 3825 mm i längd, 1610 mm i bredd och 1610 mm i höjd, tillhör mini-segmentet av bilar, även kallat stadsvagnar eller A-segmentbilar. Detta är den minsta klassen av bilar, designade främst för stadsmiljöer, och de erbjuder en kompakt storlek, utmärkt manövrerbarhet och ekonomisk drift. Du kan välja mellan 9 olika färgfärger när du beställer den här modellen.
+Hyundai INSTER Long Range, med dimensioner på 3825 mm i längd, 1610 mm i bredd och 1610 mm i höjd, tillhör mini-segmentet av bilar, även kallat stadsvagnar eller A-segmentbilar. Detta är den minsta klassen av bilar, designade främst för stadsmiljöer, och de erbjuder en kompakt storlek, utmärkt manövrerbarhet och ekonomisk drift. Hyundai INSTER Long Range erbjuder ett urval av 9 lackfärger, inklusive enfärgade, metalliska, pärlemors- och matta alternativ
 Dessutom kan du välja mellan 3 hjul i storlek från 15 till 17 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).

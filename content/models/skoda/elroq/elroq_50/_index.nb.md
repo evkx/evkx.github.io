@@ -81,7 +81,7 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 ## Eksteriør
 
-SKODA Elroq 50, med dimensjoner på 4488 mm i lengde, 1879 mm i bredde og 1625 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Du kan velge mellom 9 forskjellige lakkfarger når du bestiller denne modellen.
+SKODA Elroq 50, med dimensjoner på 4488 mm i lengde, 1879 mm i bredde og 1625 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. SKODA Elroq 50 er tilgjengelig i totalt 9 lakkfarger, inkludert solide, metalliske og perlemorsalternativer.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 20 til 21 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

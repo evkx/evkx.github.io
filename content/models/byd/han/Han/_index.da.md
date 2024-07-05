@@ -83,7 +83,7 @@ Den maksimale regenerative effekt er 200 kW.
 
 ## Udvendig
 
-Den BYD Han, med dimensioner på 4995 mm i længde, 1910 mm i bredde og 1495 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
+Den BYD Han, med dimensioner på 4995 mm i længde, 1910 mm i bredde og 1495 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. BYD Han fås i alt i 6 ensfarvede lakfarver.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

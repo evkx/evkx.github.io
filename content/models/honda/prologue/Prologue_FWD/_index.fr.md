@@ -79,7 +79,7 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 ## Extérieur
 
-La Honda Prologue FWD, avec des dimensions de 4877 mm de longueur, 1989 mm de largeur et 1634 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Vous pouvez choisir entre 7 couleurs de peinture différentes lors de la commande de ce modèle.
+La Honda Prologue FWD, avec des dimensions de 4877 mm de longueur, 1989 mm de largeur et 1634 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Honda Prologue FWD est disponible en un total de 7 couleurs de peinture, comprenant des options solides, métalliques et nacrées.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

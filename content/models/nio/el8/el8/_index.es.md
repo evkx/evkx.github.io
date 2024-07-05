@@ -94,7 +94,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-El Nio EL8, con dimensiones de 5099 mm de longitud, 1989 mm de anchura y 1750 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
+El Nio EL8, con dimensiones de 5099 mm de longitud, 1989 mm de anchura y 1750 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. El Nio EL8 está disponible en un total de 5 colores de pintura sólidos.
 Adicionalmente, puedes elegir entre 3 ruedas con tamaños de 20 a 21 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).

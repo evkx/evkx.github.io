@@ -85,7 +85,7 @@ The maximum regenerative power is 200 kW.
 
 ## Exterior
 
-The BYD Seal U Design, with dimensions of 4785 mm in length, 1890 mm in width, and 1668 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 6 different paint colors when ordering this model.
+The BYD Seal U Design, with dimensions of 4785 mm in length, 1890 mm in width, and 1668 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The BYD Seal U Design is available in a total of 6 solid paint colors.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 

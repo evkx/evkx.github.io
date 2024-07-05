@@ -77,7 +77,7 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 ## Udvendig
 
-Den Lancia Ypsilon, med dimensioner på 4080 mm i længde, 1760 mm i bredde og 1440 mm i højde, tilhører B-segmentet af biler, også kendt som supermini. Det er en lille bil, der typisk er velegnet til bykørsel og tilbyder en god balance mellem effektivitet, størrelse og omkostninger. Du kan vælge mellem 7 forskellige malingsfarver, når du bestiller denne model.
+Den Lancia Ypsilon, med dimensioner på 4080 mm i længde, 1760 mm i bredde og 1440 mm i højde, tilhører B-segmentet af biler, også kendt som supermini. Det er en lille bil, der typisk er velegnet til bykørsel og tilbyder en god balance mellem effektivitet, størrelse og omkostninger. Lancia Ypsilon fås i alt 7 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

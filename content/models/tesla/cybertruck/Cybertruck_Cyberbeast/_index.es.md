@@ -83,7 +83,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-Puedes elegir entre 3 colores de pintura diferentes al pedir este modelo.
+El Tesla Cybertruck Cyberbeast está disponible en un total de 3 colores de pintura sólidos.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#split-tailgate) donde la puerta cae. La puerta trasera funciona eléctricamente.
 

@@ -78,7 +78,7 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 ## Exteriör
 
-Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
+Ford F150 Lightning Extended Range finns i totalt 6 lackfärger, inklusive både solida och metalliska alternativ.
 Dessutom kan du välja mellan 3 hjul i storlek från 18 till 22 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#split-baklucka) där grinden faller ner.

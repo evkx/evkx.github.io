@@ -79,7 +79,7 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 ## Extérieur
 
-La Volkswagen ID.4 GTX 4MOTION, avec des dimensions de 4582 mm de longueur, 1865 mm de largeur et 1632 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
+La Volkswagen ID.4 GTX 4MOTION, avec des dimensions de 4582 mm de longueur, 1865 mm de largeur et 1632 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Volkswagen ID.4 GTX 4MOTION est disponible en un total de 5 couleurs de peinture, comprenant des options à la fois solides et métalliques.
 De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 20 à 21 pouces.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).

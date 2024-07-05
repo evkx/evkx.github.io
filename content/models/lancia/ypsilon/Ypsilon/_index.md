@@ -77,7 +77,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ## Exterior
 
-The Lancia Ypsilon, with dimensions of 4080 mm in length, 1760 mm in width, and 1440 mm in height, falls into the B-segment car, often referred to as a supermini, is a small car typically suitable for urban driving, offering a good balance of efficiency, size, and cost. You can choose between 7 different paint colors when ordering this model.
+The Lancia Ypsilon, with dimensions of 4080 mm in length, 1760 mm in width, and 1440 mm in height, falls into the B-segment car, often referred to as a supermini, is a small car typically suitable for urban driving, offering a good balance of efficiency, size, and cost. The Lancia Ypsilon is available in a total of 7 paint colors, including several striking metallic options.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

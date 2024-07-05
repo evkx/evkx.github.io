@@ -77,7 +77,7 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 ## Udvendig
 
-Den MG ZS EV Long Range, med dimensioner på 4323 mm i længde, 1809 mm i bredde og 1649 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
+Den MG ZS EV Long Range, med dimensioner på 4323 mm i længde, 1809 mm i bredde og 1649 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. MG ZS EV Long Range fås i alt 5 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

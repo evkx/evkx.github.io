@@ -81,7 +81,7 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 ## Exterior
 
-El Mercedes-EQ EQA 350 4MATIC, con dimensiones de 4463 mm de longitud, 1834 mm de anchura y 1620 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. Puedes elegir entre 10 colores de pintura diferentes al pedir este modelo.
+El Mercedes-EQ EQA 350 4MATIC, con dimensiones de 4463 mm de longitud, 1834 mm de anchura y 1620 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El Mercedes-EQ EQA 350 4MATIC ofrece una selección de 10 colores de pintura, que incluyen opciones sólidas, metálicas y mate. Además de la paleta estándar, hay colores exclusivos disponibles en la paleta ''.
 Adicionalmente, puedes elegir entre 6 ruedas con tamaños de 18 a 19 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).

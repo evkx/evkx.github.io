@@ -75,7 +75,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-El Fisker Ocean Sport, con dimensiones de 4774 mm de longitud, 1982 mm de anchura y 1631 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. Puedes elegir entre 12 colores de pintura diferentes al pedir este modelo.
+El Fisker Ocean Sport, con dimensiones de 4774 mm de longitud, 1982 mm de anchura y 1631 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Fisker Ocean Sport está disponible en un total de 12 colores de pintura, incluyendo varias opciones metálicas llamativas.
 Adicionalmente, puedes elegir entre 6 ruedas con tamaños de 20 a 22 pulgadas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).

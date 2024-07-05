@@ -75,7 +75,7 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 ## Udvendig
 
-Den Peugot E-3008 Long Range, med dimensioner på 4542 mm i længde, 1895 mm i bredde og 1641 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
+Den Peugot E-3008 Long Range, med dimensioner på 4542 mm i længde, 1895 mm i bredde og 1641 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Peugot E-3008 Long Range fås i alt 6 lakfarver, herunder både solide og metalliske muligheder.
 Derudover kan du vælge mellem 2 hjul med størrelser fra 19 til 20 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

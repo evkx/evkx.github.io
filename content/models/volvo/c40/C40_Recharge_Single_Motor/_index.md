@@ -83,7 +83,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-The Volvo C40 Recharge Single Motor, with dimensions of 4440 mm in length, 1873 mm in width, and 1596 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 9 different paint colors when ordering this model.
+The Volvo C40 Recharge Single Motor, with dimensions of 4440 mm in length, 1873 mm in width, and 1596 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Volvo C40 Recharge Single Motor is available in a total of 9 paint colors, all of which include metallic and pearlescent options.
 Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).

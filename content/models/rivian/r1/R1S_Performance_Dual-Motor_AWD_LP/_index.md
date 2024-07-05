@@ -79,7 +79,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-The Rivian R1S Performance Dual-Motor AWD LP, with dimensions of 5100 mm in length,  mm in width, and 1966 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs You can choose between 9 different paint colors when ordering this model.
+The Rivian R1S Performance Dual-Motor AWD LP, with dimensions of 5100 mm in length,  mm in width, and 1966 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Rivian R1S Performance Dual-Motor AWD LP is available in a total of 9 paint colors, including several striking metallic options.
 
 The car has four [regular doors](../../../../technology/doors/) and a [split tailgate](../../../../technology/doors/#split-tailgate) where the bottom part falls and the top part lifts.
 

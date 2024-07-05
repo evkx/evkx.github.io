@@ -89,7 +89,7 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 ## Eksteriør
 
-Maserati Grecale Folgore, med dimensjoner på 4865 mm i lengde, 1948 mm i bredde og 1651 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Du kan velge mellom 8 forskjellige lakkfarger når du bestiller denne modellen.
+Maserati Grecale Folgore, med dimensjoner på 4865 mm i lengde, 1948 mm i bredde og 1651 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Maserati Grecale Folgore er tilgjengelig i totalt 8 lakkfarger, inkludert både solide og metalliske alternativer.
 I tillegg kan du velge mellom 3 hjul med størrelser fra 19 til 21 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

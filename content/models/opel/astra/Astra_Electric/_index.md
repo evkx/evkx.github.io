@@ -77,7 +77,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 ## Exterior
 
-The Opel Astra Electric, with dimensions of 4374 mm in length, 1860 mm in width, and 1470 mm in height, falls into the C-segment cars, also known as compact cars, strike a balance between size, performance, and affordability, making them versatile for a variety of drivers. You can choose between 7 different paint colors when ordering this model.
+The Opel Astra Electric, with dimensions of 4374 mm in length, 1860 mm in width, and 1470 mm in height, falls into the C-segment cars, also known as compact cars, strike a balance between size, performance, and affordability, making them versatile for a variety of drivers. The Opel Astra Electric is available in a total of 7 paint colors, including several striking metallic options.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

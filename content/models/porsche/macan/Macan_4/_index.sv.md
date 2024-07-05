@@ -79,7 +79,7 @@ Den maximala regenerativa effekten är 275 kW.
 
 ## Exteriör
 
-Porsche Macan 4, med dimensioner på 4784 mm i längd, 1938 mm i bredd och 1622 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Du kan välja mellan 13 olika färgfärger när du beställer den här modellen.
+Porsche Macan 4, med dimensioner på 4784 mm i längd, 1938 mm i bredd och 1622 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Porsche Macan 4 finns i totalt 13 lackfärger, inklusive både solida och metalliska alternativ.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
 Dessutom kan du välja mellan 8 hjul i storlek från 20 till 22 tum.

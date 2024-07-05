@@ -101,7 +101,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-Puedes elegir entre 3 colores de pintura diferentes al pedir este modelo.
+El Tesla Cybertruck AWD está disponible en un total de 3 colores de pintura sólidos.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#split-tailgate) donde la puerta cae. El cierre suave es la función un estándar para las puertas laterales. La puerta trasera funciona eléctricamente.
 

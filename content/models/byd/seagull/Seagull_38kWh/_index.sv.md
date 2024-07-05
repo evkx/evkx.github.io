@@ -79,7 +79,7 @@ Den maximala regenerativa effekten är 200 kW.
 
 ## Exteriör
 
-BYD Seagull 38kWh, med dimensioner på 3780 mm i längd, 1715 mm i bredd och 1540 mm i höjd, tillhör mini-segmentet av bilar, även kallat stadsvagnar eller A-segmentbilar. Detta är den minsta klassen av bilar, designade främst för stadsmiljöer, och de erbjuder en kompakt storlek, utmärkt manövrerbarhet och ekonomisk drift. Du kan välja mellan 4 olika färgfärger när du beställer den här modellen.
+BYD Seagull 38kWh, med dimensioner på 3780 mm i längd, 1715 mm i bredd och 1540 mm i höjd, tillhör mini-segmentet av bilar, även kallat stadsvagnar eller A-segmentbilar. Detta är den minsta klassen av bilar, designade främst för stadsmiljöer, och de erbjuder en kompakt storlek, utmärkt manövrerbarhet och ekonomisk drift. BYD Seagull 38kWh finns i totalt 4 enfärgade lackfärger.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

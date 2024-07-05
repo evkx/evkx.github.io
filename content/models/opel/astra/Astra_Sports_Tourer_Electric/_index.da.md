@@ -73,7 +73,7 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 ## Udvendig
 
-Den Opel Astra Sports Tourer Electric, med dimensioner på 4642 mm i længde, 1860 mm i bredde og 1480 mm i højde, tilhører D-segmentet af biler, også kendt som mellemstore eller familiebiler. Disse biler tilbyder mere plads, komfort og funktioner end mindre segmenter og er velegnede til forskellige førere. Du kan vælge mellem 7 forskellige malingsfarver, når du bestiller denne model.
+Den Opel Astra Sports Tourer Electric, med dimensioner på 4642 mm i længde, 1860 mm i bredde og 1480 mm i højde, tilhører D-segmentet af biler, også kendt som mellemstore eller familiebiler. Disse biler tilbyder mere plads, komfort og funktioner end mindre segmenter og er velegnede til forskellige førere. Opel Astra Sports Tourer Electric fås i alt 7 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

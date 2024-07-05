@@ -83,7 +83,7 @@ Den maksimale regenerative effekten er 265 kW.
 
 ## Eksteriør
 
-Audi e-tron GT, med dimensjoner på 4989 mm i lengde, 1964 mm i bredde og 1396 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Du kan velge mellom 54 forskjellige lakkfarger når du bestiller denne modellen.
+Audi e-tron GT, med dimensjoner på 4989 mm i lengde, 1964 mm i bredde og 1396 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Audi e-tron GT er tilgjengelig i totalt 54 lakkfarger, inkludert perlemors- og metalliske alternativer. I tillegg til standardpaletten er det eksklusive farger fra ''-paletten.
 
 Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
 I tillegg kan du velge mellom 7 hjul med størrelser fra 19 til 21 tommer.

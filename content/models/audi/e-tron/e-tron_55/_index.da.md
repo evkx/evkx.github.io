@@ -100,7 +100,7 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 ## Udvendig
 
-Den Audi e-tron 55, med dimensioner på 4901 mm i længde, 1935 mm i bredde og 1629 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Du kan vælge mellem 61 forskellige malingsfarver, når du bestiller denne model.
+Den Audi e-tron 55, med dimensioner på 4901 mm i længde, 1935 mm i bredde og 1629 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Audi e-tron 55 fås i alt 61 lakfarver, herunder solide, metalliske og perlemorsmuligheder. Ud over standardpaletten er nogle farver fra den eksklusive 'Audi e-tron 55' palette.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 Derudover kan du vælge mellem 10 hjul med størrelser fra 19 til 22 tommer.

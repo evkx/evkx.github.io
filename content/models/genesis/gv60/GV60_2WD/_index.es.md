@@ -75,7 +75,7 @@ La potencia regenerativa máxima es de 150 kW.
 
 ## Exterior
 
-El Genesis GV60 2WD, con dimensiones de 4515 mm de longitud, 1890 mm de anchura y 1580 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. Puedes elegir entre 10 colores de pintura diferentes al pedir este modelo.
+El Genesis GV60 2WD, con dimensiones de 4515 mm de longitud, 1890 mm de anchura y 1580 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Genesis GV60 2WD está disponible en un total de 10 colores de pintura, incluyendo varias opciones metálicas llamativas.
 Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 19 a 20 pulgadas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).

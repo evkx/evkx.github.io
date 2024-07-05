@@ -77,7 +77,7 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 ## Exteriör
 
-Opel Astra Electric, med dimensioner på 4374 mm i längd, 1860 mm i bredd och 1470 mm i höjd, tillhör C-segmentet av bilar, även kallat kompakta bilar. Dessa bilar erbjuder en balans mellan storlek, prestanda och prisvärdhet, vilket gör dem mångsidiga för olika förare. Du kan välja mellan 7 olika färgfärger när du beställer den här modellen.
+Opel Astra Electric, med dimensioner på 4374 mm i längd, 1860 mm i bredd och 1470 mm i höjd, tillhör C-segmentet av bilar, även kallat kompakta bilar. Dessa bilar erbjuder en balans mellan storlek, prestanda och prisvärdhet, vilket gör dem mångsidiga för olika förare. Opel Astra Electric finns i totalt 7 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

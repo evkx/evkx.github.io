@@ -73,7 +73,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Den Acura ZDX Type S, med dimensioner på 5022 mm i længde, 1956 mm i bredde og 1636 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
+Den Acura ZDX Type S, med dimensioner på 5022 mm i længde, 1956 mm i bredde og 1636 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Acura ZDX Type S fås i alt 6 lakfarver, som alle inkluderer metalliske og perlemorsmuligheder.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

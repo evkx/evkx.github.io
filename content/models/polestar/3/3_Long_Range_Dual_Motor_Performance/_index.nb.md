@@ -75,7 +75,7 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 ## Eksteriør
 
-Polestar 3 Long Range Dual Motor Performance, med dimensjoner på 4900 mm i lengde, 1968 mm i bredde og 1614 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
+Polestar 3 Long Range Dual Motor Performance, med dimensjoner på 4900 mm i lengde, 1968 mm i bredde og 1614 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Polestar 3 Long Range Dual Motor Performance er tilgjengelig i totalt 6 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 

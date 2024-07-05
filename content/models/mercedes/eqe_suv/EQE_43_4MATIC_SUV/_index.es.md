@@ -79,7 +79,7 @@ La potencia regenerativa máxima es de 260 kW.
 
 ## Exterior
 
-El Mercedes-AMG EQE 43 4MATIC SUV, con dimensiones de 4879 mm de longitud, 1931 mm de anchura y 1672 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. Puedes elegir entre 7 colores de pintura diferentes al pedir este modelo.
+El Mercedes-AMG EQE 43 4MATIC SUV, con dimensiones de 4879 mm de longitud, 1931 mm de anchura y 1672 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El Mercedes-AMG EQE 43 4MATIC SUV ofrece una selección de 7 colores de pintura, que incluyen opciones sólidas y metálicas. Además de la paleta estándar, hay colores exclusivos disponibles en la paleta 'Mercedes-AMG EQE 43 4MATIC SUV'
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
 Adicionalmente, puedes elegir entre 5 ruedas con tamaños de 20 a 22 pulgadas.

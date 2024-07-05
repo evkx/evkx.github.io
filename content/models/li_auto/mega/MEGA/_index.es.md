@@ -81,7 +81,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-Puedes elegir entre 4 colores de pintura diferentes al pedir este modelo.
+El Li Auto MEGA está disponible en un total de 4 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
 El automóvil tiene dos [puertas normales](../../../../technology/doors/) en la primera fila, [puertas corredizas](../../../../technology/doors/) en la segunda fila y un portón trasero. Las puertas eléctricas tienen un estándar función para las puertas laterales.
 

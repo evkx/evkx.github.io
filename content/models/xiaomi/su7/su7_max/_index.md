@@ -77,7 +77,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-The Xiaomi SU7 Max, with dimensions of 4997 mm in length, 1963 mm in width, and 1440 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. You can choose between 9 different paint colors when ordering this model.
+The Xiaomi SU7 Max, with dimensions of 4997 mm in length, 1963 mm in width, and 1440 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Xiaomi SU7 Max is available in a total of 9 paint colors, including several striking metallic options.
 Additionally, you can choose between 4 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. Soft close is a standard function for the side doors.

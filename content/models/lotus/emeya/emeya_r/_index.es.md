@@ -79,7 +79,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-El Lotus Emeya R, con dimensiones de 5139 mm de longitud, 2005 mm de anchura y 1464 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
+El Lotus Emeya R, con dimensiones de 5139 mm de longitud, 2005 mm de anchura y 1464 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. El Lotus Emeya R está disponible en un total de 6 colores de pintura, incluyendo varias opciones metálicas llamativas.
 Adicionalmente, puedes elegir entre 11 ruedas con tamaños de 21 a 22 pulgadas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).

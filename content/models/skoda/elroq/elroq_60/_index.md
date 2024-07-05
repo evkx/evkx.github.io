@@ -81,7 +81,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-The SKODA Elroq 60, with dimensions of 4488 mm in length, 1879 mm in width, and 1625 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 9 different paint colors when ordering this model.
+The SKODA Elroq 60, with dimensions of 4488 mm in length, 1879 mm in width, and 1625 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The SKODA Elroq 60 is available in a total of 9 paint colors, including solid, metallic, and pearlescent options.
 Additionally, you can choose between 2 wheels with sizes from 20 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

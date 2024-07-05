@@ -85,7 +85,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-The Volkswagen ID.5 GTX 4MOTION (GEN1), with dimensions of 4599 mm in length, 1852 mm in width, and 1615 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 5 different paint colors when ordering this model.
+The Volkswagen ID.5 GTX 4MOTION (GEN1), with dimensions of 4599 mm in length, 1852 mm in width, and 1615 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Volkswagen ID.5 GTX 4MOTION (GEN1) is available in a total of 5 paint colors, including both solid and metallic options.
 Additionally, you can choose between 3 wheels with sizes from 20 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

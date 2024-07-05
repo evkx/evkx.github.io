@@ -79,7 +79,7 @@ The maximum regenerative power is 400 kW.
 
 ## Exterior
 
-You can choose between 1 different paint colors when ordering this model.
+The Chevrolet Silverado EV 4WT is available in a total of 1 paint colors, including several striking metallic options.
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 

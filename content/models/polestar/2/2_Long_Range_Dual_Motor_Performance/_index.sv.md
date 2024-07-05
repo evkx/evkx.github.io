@@ -75,7 +75,7 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 ## Exteriör
 
-Polestar 2 Long Range Dual Motor Performance, med dimensioner på 4606 mm i längd, 1859 mm i bredd och 1652 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
+Polestar 2 Long Range Dual Motor Performance, med dimensioner på 4606 mm i längd, 1859 mm i bredd och 1652 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. Polestar 2 Long Range Dual Motor Performance finns i totalt 6 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 Dessutom kan du välja mellan 3 hjul i storlek från 19 till 20 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).

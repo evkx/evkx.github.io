@@ -73,7 +73,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-The Volvo EX90 Twin Motor Performance, with dimensions of 5037 mm in length, 1964 mm in width, and 1744 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs You can choose between 8 different paint colors when ordering this model.
+The Volvo EX90 Twin Motor Performance, with dimensions of 5037 mm in length, 1964 mm in width, and 1744 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Volvo EX90 Twin Motor Performance is available in a total of 8 paint colors, including several striking metallic options.
 Additionally, you can choose between 2 wheels with sizes from 21 to 22 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Soft close is a standard function for the side doors.

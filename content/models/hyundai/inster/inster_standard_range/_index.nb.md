@@ -73,7 +73,7 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 ## Eksteriør
 
-Hyundai INSTER Standard Range, med dimensjoner på 3825 mm i lengde, 1610 mm i bredde og 1610 mm i høyde, tilhører mini-segmentet av biler, også kjent som bybiler eller A-segmentbiler. Dette er den minste klassen av biler, designet primært for urbane miljøer, og de tilbyr en kompakt størrelse, utmerket manøvrerbarhet og økonomisk drift. Du kan velge mellom 9 forskjellige lakkfarger når du bestiller denne modellen.
+Hyundai INSTER Standard Range, med dimensjoner på 3825 mm i lengde, 1610 mm i bredde og 1610 mm i høyde, tilhører mini-segmentet av biler, også kjent som bybiler eller A-segmentbiler. Dette er den minste klassen av biler, designet primært for urbane miljøer, og de tilbyr en kompakt størrelse, utmerket manøvrerbarhet og økonomisk drift. Hyundai INSTER Standard Range tilbyr et utvalg av 9 lakkfarger, inkludert ensfargede, metalliske, perlemors- og matte alternativer.
 I tillegg kan du velge mellom 3 hjul med størrelser fra 15 til 17 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).

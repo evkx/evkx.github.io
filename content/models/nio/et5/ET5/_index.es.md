@@ -94,7 +94,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-El Nio ET5, con dimensiones de 4790 mm de longitud, 1960 mm de anchura y 1499 mm de altura, pertenece al segmento D de automóviles, también conocido como coches medianos o familiares. Estos coches ofrecen más espacio, comodidad y características que segmentos más pequeños, siendo adecuados para una variedad de conductores. Puedes elegir entre 10 colores de pintura diferentes al pedir este modelo.
+El Nio ET5, con dimensiones de 4790 mm de longitud, 1960 mm de anchura y 1499 mm de altura, pertenece al segmento D de automóviles, también conocido como coches medianos o familiares. Estos coches ofrecen más espacio, comodidad y características que segmentos más pequeños, siendo adecuados para una variedad de conductores. El Nio ET5 está disponible en un total de 10 colores de pintura sólidos.
 Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 20 a 21 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). El cierre suave es la función un estándar para las puertas laterales.

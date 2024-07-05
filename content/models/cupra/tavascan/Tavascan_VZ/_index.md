@@ -77,7 +77,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-The CUPRA Tavascan VZ, with dimensions of 4644 mm in length, 1861 mm in width, and 1597 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 5 different paint colors when ordering this model.
+The CUPRA Tavascan VZ, with dimensions of 4644 mm in length, 1861 mm in width, and 1597 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The CUPRA Tavascan VZ is available in a total of 5 paint colors, including both solid and metallic options.
 Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

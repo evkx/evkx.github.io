@@ -85,7 +85,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-You can choose between 8 different paint colors when ordering this model.
+The Maserati GranCabrio Folgore is available in a total of 8 paint colors, including both solid and metallic options.
 Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

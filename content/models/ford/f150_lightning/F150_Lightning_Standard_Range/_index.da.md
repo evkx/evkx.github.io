@@ -77,7 +77,7 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 ## Udvendig
 
-Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
+Ford F150 Lightning Standard Range fås i alt 6 lakfarver, herunder både solide og metalliske muligheder.
 Derudover kan du vælge mellem 3 hjul med størrelser fra 18 til 22 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-bagklap), hvor lågen falder ned.

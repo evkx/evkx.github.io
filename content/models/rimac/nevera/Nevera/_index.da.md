@@ -92,7 +92,7 @@ Den maksimale regenerative effekt er 400 kW.
 
 ## Udvendig
 
-Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
+Rimac Nevera fås i alt 5 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
 
 

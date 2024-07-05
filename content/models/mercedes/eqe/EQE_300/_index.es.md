@@ -83,7 +83,7 @@ La potencia regenerativa máxima es de 186 kW.
 
 ## Exterior
 
-El Mercedes-EQ EQE 300, con dimensiones de 4946 mm de longitud, 1961 mm de anchura y 1510 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. Puedes elegir entre 11 colores de pintura diferentes al pedir este modelo.
+El Mercedes-EQ EQE 300, con dimensiones de 4946 mm de longitud, 1961 mm de anchura y 1510 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. El Mercedes-EQ EQE 300 ofrece una selección de 11 colores de pintura, que incluyen opciones sólidas, metálicas y mate. Además de la paleta estándar, hay colores exclusivos disponibles en la paleta ''.
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
 Adicionalmente, puedes elegir entre 13 ruedas con tamaños de 19 a 21 pulgadas.

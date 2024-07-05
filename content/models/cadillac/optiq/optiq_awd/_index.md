@@ -73,7 +73,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-The Cadillac OPTIQ AWD, with dimensions of 4820 mm in length,  mm in width, and 1644 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. You can choose between 8 different paint colors when ordering this model.
+The Cadillac OPTIQ AWD, with dimensions of 4820 mm in length,  mm in width, and 1644 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Cadillac OPTIQ AWD is available in a total of 8 paint colors, including several striking metallic options.
 Additionally, you can choose between 2 wheels with sizes from 20 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

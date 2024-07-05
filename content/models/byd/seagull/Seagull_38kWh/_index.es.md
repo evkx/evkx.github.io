@@ -79,7 +79,7 @@ La potencia regenerativa máxima es de 200 kW.
 
 ## Exterior
 
-El BYD Seagull 38kWh, con dimensiones de 3780 mm de longitud, 1715 mm de anchura y 1540 mm de altura, pertenece al segmento de coches mini, también conocidos como coches urbanos o coches del segmento A. Son la clase más pequeña de coches, diseñados principalmente para entornos urbanos y ofrecen un tamaño compacto, excelente maniobrabilidad y operación económica. Puedes elegir entre 4 colores de pintura diferentes al pedir este modelo.
+El BYD Seagull 38kWh, con dimensiones de 3780 mm de longitud, 1715 mm de anchura y 1540 mm de altura, pertenece al segmento de coches mini, también conocidos como coches urbanos o coches del segmento A. Son la clase más pequeña de coches, diseñados principalmente para entornos urbanos y ofrecen un tamaño compacto, excelente maniobrabilidad y operación económica. El BYD Seagull 38kWh está disponible en un total de 4 colores de pintura sólidos.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

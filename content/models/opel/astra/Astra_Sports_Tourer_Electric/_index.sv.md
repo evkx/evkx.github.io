@@ -73,7 +73,7 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 ## Exteriör
 
-Opel Astra Sports Tourer Electric, med dimensioner på 4642 mm i längd, 1860 mm i bredd och 1480 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. Du kan välja mellan 7 olika färgfärger när du beställer den här modellen.
+Opel Astra Sports Tourer Electric, med dimensioner på 4642 mm i längd, 1860 mm i bredd och 1480 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. Opel Astra Sports Tourer Electric finns i totalt 7 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

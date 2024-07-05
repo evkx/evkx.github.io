@@ -95,7 +95,7 @@ Den maximala regenerativa effekten är 265 kW.
 
 ## Exteriör
 
-Porsche Taycan 4S, med dimensioner på 4963 mm i längd, 1964 mm i bredd och 1395 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Du kan välja mellan 17 olika färgfärger när du beställer den här modellen.
+Porsche Taycan 4S, med dimensioner på 4963 mm i längd, 1964 mm i bredd och 1395 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Porsche Taycan 4S finns i totalt 17 lackfärger, inklusive både solida och metalliska alternativ.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
 Dessutom kan du välja mellan 8 hjul i storlek från 19 till 21 tum.

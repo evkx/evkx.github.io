@@ -79,7 +79,7 @@ Den maximala regenerativa effekten är 300 kW.
 
 ## Exteriör
 
-Mercedes-EQ EQS 450+ SUV, med dimensioner på 5125 mm i längd, 1959 mm i bredd och 1718 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Du kan välja mellan 9 olika färgfärger när du beställer den här modellen.
+Mercedes-EQ EQS 450+ SUV, med dimensioner på 5125 mm i längd, 1959 mm i bredd och 1718 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Mercedes-EQ EQS 450+ SUV erbjuder ett urval av 9 lackfärger, inklusive enfärgade och metalliska alternativ. Vid sidan av standardpaletten finns exklusiva färger tillgängliga från ''-paletten.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
 Dessutom kan du välja mellan 4 hjul i storlek från 21 till 22 tum.

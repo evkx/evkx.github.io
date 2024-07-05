@@ -73,7 +73,7 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 ## Exterior
 
-The Neta GT 580 AWD, with dimensions of 4715 mm in length, 1979 mm in width, and 1415 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. You can choose between 6 different paint colors when ordering this model.
+The Neta GT 580 AWD, with dimensions of 4715 mm in length, 1979 mm in width, and 1415 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. The Neta GT 580 AWD is available in a total of 6 paint colors, including several striking metallic options.
 
 
 

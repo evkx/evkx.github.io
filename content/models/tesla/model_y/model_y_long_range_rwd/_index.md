@@ -79,7 +79,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-The Tesla Model Y Long Range RWD, with dimensions of 4751 mm in length, 1921 mm in width, and 1624 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 5 different paint colors when ordering this model.
+The Tesla Model Y Long Range RWD, with dimensions of 4751 mm in length, 1921 mm in width, and 1624 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Tesla Model Y Long Range RWD is available in a total of 5 paint colors, including both solid and metallic options.
 Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

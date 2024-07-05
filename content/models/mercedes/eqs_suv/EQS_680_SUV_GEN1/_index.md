@@ -85,7 +85,7 @@ The maximum regenerative power is 300 kW.
 
 ## Exterior
 
-The Mercedes-Maybach EQS 680 SUV, with dimensions of 5125 mm in length, 2034 mm in width, and 1721 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs You can choose between 9 different paint colors when ordering this model.
+The Mercedes-Maybach EQS 680 SUV, with dimensions of 5125 mm in length, 2034 mm in width, and 1721 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Mercedes-Maybach EQS 680 SUV offers a selection of 9 paint colors, including solid and metallic options. Alongside the standard palette, exclusive colors are available from the '' palette.
 
 You can also choose several styling options to make your car more unique.
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 

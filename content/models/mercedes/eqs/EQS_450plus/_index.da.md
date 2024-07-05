@@ -79,7 +79,7 @@ Den maksimale regenerative effekt er 300 kW.
 
 ## Udvendig
 
-Den Mercedes-EQ EQS 450+, med dimensioner på 5216 mm i længde, 1926 mm i bredde og 1512 mm i højde, tilhører F-segmentet af biler, også kendt som luksus- eller fuldstørrelses luksusbiler. De repræsenterer toppen af ​​automobil luksus, ydeevne og teknologi. De er typisk store sedans eller limousiner og er designet til at tilbyde det ypperste inden for komfort, prestige og avancerede funktioner. Du kan vælge mellem 11 forskellige malingsfarver, når du bestiller denne model.
+Den Mercedes-EQ EQS 450+, med dimensioner på 5216 mm i længde, 1926 mm i bredde og 1512 mm i højde, tilhører F-segmentet af biler, også kendt som luksus- eller fuldstørrelses luksusbiler. De repræsenterer toppen af ​​automobil luksus, ydeevne og teknologi. De er typisk store sedans eller limousiner og er designet til at tilbyde det ypperste inden for komfort, prestige og avancerede funktioner. Mercedes-EQ EQS 450+ tilbyder et udvalg af 11 lakfarver, herunder ensfarvede, metalliske og matte muligheder. Ved siden af standardpaletten er der eksklusive farver tilgængelige fra ''-paletten.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 Derudover kan du vælge mellem 9 hjul med størrelser fra 19 til 22 tommer.

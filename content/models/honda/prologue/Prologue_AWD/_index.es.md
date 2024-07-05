@@ -80,7 +80,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-El Honda Prologue AWD, con dimensiones de 4877 mm de longitud, 1989 mm de anchura y 1634 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. Puedes elegir entre 7 colores de pintura diferentes al pedir este modelo.
+El Honda Prologue AWD, con dimensiones de 4877 mm de longitud, 1989 mm de anchura y 1634 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El Honda Prologue AWD está disponible en un total de 7 colores de pintura, incluyendo opciones sólidas, metálicas y perladas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

@@ -77,7 +77,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-El Xiaomi SU7, con dimensiones de 4997 mm de longitud, 1963 mm de anchura y 1455 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. Puedes elegir entre 9 colores de pintura diferentes al pedir este modelo.
+El Xiaomi SU7, con dimensiones de 4997 mm de longitud, 1963 mm de anchura y 1455 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. El Xiaomi SU7 está disponible en un total de 9 colores de pintura, incluyendo varias opciones metálicas llamativas.
 Adicionalmente, puedes elegir entre 4 ruedas con tamaños de 19 a 21 pulgadas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero.

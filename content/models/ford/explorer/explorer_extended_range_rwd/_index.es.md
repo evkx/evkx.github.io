@@ -83,7 +83,7 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 ## Exterior
 
-El Ford Explorer Extended Range RWD, con dimensiones de 4468 mm de longitud, 1871 mm de anchura y 1639 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. Puedes elegir entre 7 colores de pintura diferentes al pedir este modelo.
+El Ford Explorer Extended Range RWD, con dimensiones de 4468 mm de longitud, 1871 mm de anchura y 1639 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El Ford Explorer Extended Range RWD está disponible en un total de 7 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
 Adicionalmente, puedes elegir entre 3 ruedas con tamaños de 20 a 21 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).

@@ -77,7 +77,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ## Extérieur
 
-La MG MG5 Electric Long Range, avec des dimensions de 4600 mm de longueur, 1818 mm de largeur et 1543 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. Vous pouvez choisir entre 4 couleurs de peinture différentes lors de la commande de ce modèle.
+La MG MG5 Electric Long Range, avec des dimensions de 4600 mm de longueur, 1818 mm de largeur et 1543 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. La MG MG5 Electric Long Range est disponible en un total de 4 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 
 

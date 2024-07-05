@@ -87,7 +87,7 @@ Den maximala regenerativa effekten är 116 kW.
 
 ## Exteriör
 
-BMW i5 eDrive40, med dimensioner på 5060 mm i längd, 1900 mm i bredd och 1505 mm i höjd, tillhör F-segmentet av bilar, även kallat lyxbilar eller fullstora lyxbilar. De representerar toppen av bilens lyx, prestanda och teknologi. De är vanligtvis stora sedaner eller limousiner designade för att erbjuda det bästa inom komfort, prestige och avancerade funktioner. Du kan välja mellan 12 olika färgfärger när du beställer den här modellen.
+BMW i5 eDrive40, med dimensioner på 5060 mm i längd, 1900 mm i bredd och 1505 mm i höjd, tillhör F-segmentet av bilar, även kallat lyxbilar eller fullstora lyxbilar. De representerar toppen av bilens lyx, prestanda och teknologi. De är vanligtvis stora sedaner eller limousiner designade för att erbjuda det bästa inom komfort, prestige och avancerade funktioner. BMW i5 eDrive40 finns i totalt 12 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 Dessutom kan du välja mellan 8 hjul i storlek från 19 till 21 tum.
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet. 'Soft Close' är valfritt-funktionen för sidodörrarna.

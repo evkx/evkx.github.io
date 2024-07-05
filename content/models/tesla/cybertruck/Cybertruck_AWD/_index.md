@@ -101,7 +101,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-You can choose between 3 different paint colors when ordering this model.
+The Tesla Cybertruck AWD is available in a total of 3 solid paint colors.
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. Soft close is a standard function for the side doors. The tailgate is electrically powered.
 

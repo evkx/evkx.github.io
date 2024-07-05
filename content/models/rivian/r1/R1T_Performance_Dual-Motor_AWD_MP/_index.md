@@ -79,7 +79,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-You can choose between 9 different paint colors when ordering this model.
+The Rivian R1T Performance Dual-Motor AWD MP is available in a total of 9 paint colors, including several striking metallic options.
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. The tailgate is electrically powered.
 

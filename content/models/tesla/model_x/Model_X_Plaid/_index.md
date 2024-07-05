@@ -79,7 +79,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-The Tesla Model X Plaid, with dimensions of 5057 mm in length, 1999 mm in width, and 1680 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs You can choose between 5 different paint colors when ordering this model.
+The Tesla Model X Plaid, with dimensions of 5057 mm in length, 1999 mm in width, and 1680 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Tesla Model X Plaid is available in a total of 5 paint colors, including both solid and metallic options.
 Additionally, you can choose between 2 wheels with sizes from 19 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

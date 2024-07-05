@@ -79,7 +79,7 @@ Den maksimale regenerative effekt er 400 kW.
 
 ## Udvendig
 
-Du kan vælge mellem 1 forskellige malingsfarver, når du bestiller denne model.
+Chevrolet Silverado EV 4WT fås i alt 1 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-bagklap), hvor lågen falder ned.
 

@@ -79,7 +79,7 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 ## Eksteriør
 
-Tesla Model X Standard Range, med dimensjoner på 5057 mm i lengde, 1999 mm i bredde og 1680 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
+Tesla Model X Standard Range, med dimensjoner på 5057 mm i lengde, 1999 mm i bredde og 1680 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Tesla Model X Standard Range er tilgjengelig i totalt 5 lakkfarger, inkludert både solide og metalliske alternativer.
 I tillegg kan du velge mellom 2 hjul med størrelser fra 19 til 21 tommer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

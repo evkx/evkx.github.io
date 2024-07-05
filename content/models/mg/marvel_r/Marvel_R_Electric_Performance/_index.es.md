@@ -73,7 +73,7 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 ## Exterior
 
-El MG Marvel R Electric Performance, con dimensiones de 4674 mm de longitud, 1919 mm de anchura y 1618 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
+El MG Marvel R Electric Performance, con dimensiones de 4674 mm de longitud, 1919 mm de anchura y 1618 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El MG Marvel R Electric Performance está disponible en un total de 5 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

@@ -75,7 +75,7 @@ Den maximala regenerativa effekten är 150 kW.
 
 ## Exteriör
 
-Hyundai Ioniq 5 N, med dimensioner på 4715 mm i längd, 1940 mm i bredd och 1585 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Du kan välja mellan 6 olika färgfärger när du beställer den här modellen.
+Hyundai Ioniq 5 N, med dimensioner på 4715 mm i längd, 1940 mm i bredd och 1585 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Hyundai Ioniq 5 N finns i totalt 6 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 

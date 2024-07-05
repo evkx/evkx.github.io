@@ -75,7 +75,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-The KGM Torres EVX, with dimensions of 4715 mm in length,  mm in width, and 1725 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 6 different paint colors when ordering this model.
+The KGM Torres EVX, with dimensions of 4715 mm in length,  mm in width, and 1725 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The KGM Torres EVX is available in a total of 6 paint colors, including both solid and metallic options.
 Additionally, you can choose between 2 wheels with sizes from 18 to 20 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).

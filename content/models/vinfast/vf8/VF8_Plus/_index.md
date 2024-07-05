@@ -82,7 +82,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-The VinFast VF8 Plus, with dimensions of 4750 mm in length, 1934 mm in width, and 1667 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 8 different paint colors when ordering this model.
+The VinFast VF8 Plus, with dimensions of 4750 mm in length, 1934 mm in width, and 1667 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The VinFast VF8 Plus is available in a total of 8 paint colors, including several striking metallic options.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

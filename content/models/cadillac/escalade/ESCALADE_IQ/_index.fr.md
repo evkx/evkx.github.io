@@ -75,7 +75,7 @@ La puissance régénérative maximale est de 400 kW.
 
 ## Extérieur
 
-La Cadillac ESCALADE IQ, avec des dimensions de 5697 mm de longueur, 2167 mm de largeur et 1934 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. Vous pouvez choisir entre 1 couleurs de peinture différentes lors de la commande de ce modèle.
+La Cadillac ESCALADE IQ, avec des dimensions de 5697 mm de longueur, 2167 mm de largeur et 1934 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. La Cadillac ESCALADE IQ est disponible en un total de 1 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). Les portes motorisées sont une fonction un standard pour les portes latérales.
 

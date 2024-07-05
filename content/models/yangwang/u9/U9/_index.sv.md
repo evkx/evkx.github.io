@@ -92,7 +92,7 @@ Den maximala regenerativa effekten är 400 kW.
 
 ## Exteriör
 
-Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
+YangWang U9 finns i totalt 5 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
 
 

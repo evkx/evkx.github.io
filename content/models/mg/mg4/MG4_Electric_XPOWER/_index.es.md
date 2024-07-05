@@ -77,7 +77,7 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 ## Exterior
 
-El MG MG4 Electric XPOWER, con dimensiones de 4287 mm de longitud, 1836 mm de anchura y 1504 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. Puedes elegir entre 7 colores de pintura diferentes al pedir este modelo.
+El MG MG4 Electric XPOWER, con dimensiones de 4287 mm de longitud, 1836 mm de anchura y 1504 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El MG MG4 Electric XPOWER está disponible en un total de 7 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
 
 

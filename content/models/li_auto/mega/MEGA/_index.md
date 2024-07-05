@@ -81,7 +81,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-You can choose between 4 different paint colors when ordering this model.
+The Li Auto MEGA is available in a total of 4 paint colors, including several striking metallic options.
 
 The car has two [regular doors](../../../../technology/doors/) in the first row, [sliding doors](../../../../technology/doors/) in the second row and a tailgate. Powered doors are a standard function for the side doors.
 

@@ -79,7 +79,7 @@ Den maksimale regenerative effekten er 275 kW.
 
 ## Eksteriør
 
-Porsche Macan Turbo, med dimensjoner på 4784 mm i lengde, 1938 mm i bredde og 1622 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Du kan velge mellom 13 forskjellige lakkfarger når du bestiller denne modellen.
+Porsche Macan Turbo, med dimensjoner på 4784 mm i lengde, 1938 mm i bredde og 1622 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Porsche Macan Turbo er tilgjengelig i totalt 13 lakkfarger, inkludert både solide og metalliske alternativer.
 
 Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
 I tillegg kan du velge mellom 8 hjul med størrelser fra 20 til 22 tommer.

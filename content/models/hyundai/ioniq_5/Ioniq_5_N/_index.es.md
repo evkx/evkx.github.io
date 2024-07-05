@@ -75,7 +75,7 @@ La potencia regenerativa máxima es de 150 kW.
 
 ## Exterior
 
-El Hyundai Ioniq 5 N, con dimensiones de 4715 mm de longitud, 1940 mm de anchura y 1585 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. Puedes elegir entre 6 colores de pintura diferentes al pedir este modelo.
+El Hyundai Ioniq 5 N, con dimensiones de 4715 mm de longitud, 1940 mm de anchura y 1585 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Hyundai Ioniq 5 N está disponible en un total de 6 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 

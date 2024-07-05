@@ -73,7 +73,7 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 ## Extérieur
 
-La Peugot E-308 SW, avec des dimensions de 4636 mm de longueur, 1859 mm de largeur et 1442 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. Vous pouvez choisir entre 6 couleurs de peinture différentes lors de la commande de ce modèle.
+La Peugot E-308 SW, avec des dimensions de 4636 mm de longueur, 1859 mm de largeur et 1442 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. La Peugot E-308 SW est disponible en un total de 6 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

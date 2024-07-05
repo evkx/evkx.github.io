@@ -73,7 +73,7 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 ## Eksteriør
 
-Neta GT 580 AWD, med dimensjoner på 4715 mm i lengde, 1979 mm i bredde og 1415 mm i høyde, tilhører D-segmentet av biler, også kjent som mellomstore eller familiebiler. Disse bilene tilbyr mer plass, komfort og funksjoner enn mindre segmenter, noe som gjør dem egnet for ulike sjåfører. Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
+Neta GT 580 AWD, med dimensjoner på 4715 mm i lengde, 1979 mm i bredde og 1415 mm i høyde, tilhører D-segmentet av biler, også kjent som mellomstore eller familiebiler. Disse bilene tilbyr mer plass, komfort og funksjoner enn mindre segmenter, noe som gjør dem egnet for ulike sjåfører. Neta GT 580 AWD er tilgjengelig i totalt 6 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
 
 

@@ -94,7 +94,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-The Nio EL6, with dimensions of 4854 mm in length, 1995 mm in width, and 1703 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. You can choose between 7 different paint colors when ordering this model.
+The Nio EL6, with dimensions of 4854 mm in length, 1995 mm in width, and 1703 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Nio EL6 is available in a total of 7 solid paint colors.
 Additionally, you can choose between 2 wheels with sizes from 20 to 21 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is a standard function for the side doors.

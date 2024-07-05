@@ -81,7 +81,7 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 ## Exteriör
 
-Du kan välja mellan 4 olika färgfärger när du beställer den här modellen.
+Li Auto MEGA finns i totalt 4 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
 Bilen har två [vanliga dörrar](../../../../technology/doors/) i första raden, [skjutdörrar](../../../../technology/doors/) i andra raden och en baklucka. Elektriska dörrar är standard funktion för sidodörrarna.
 

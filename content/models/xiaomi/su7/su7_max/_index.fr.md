@@ -77,7 +77,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ## Extérieur
 
-La Xiaomi SU7 Max, avec des dimensions de 4997 mm de longueur, 1963 mm de largeur et 1440 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. Vous pouvez choisir entre 9 couleurs de peinture différentes lors de la commande de ce modèle.
+La Xiaomi SU7 Max, avec des dimensions de 4997 mm de longueur, 1963 mm de largeur et 1440 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. La Xiaomi SU7 Max est disponible en un total de 9 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 De plus, vous pouvez choisir entre 4 roues avec des tailles allant de 19 à 21 pouces.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre. La fermeture douce est la fonction un standard pour les portes latérales.

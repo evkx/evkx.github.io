@@ -81,7 +81,7 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 ## Exteriör
 
-Du kan välja mellan 12 olika färgfärger när du beställer den här modellen.
+Volkswagen ID. Buzz Pro finns i totalt 12 lackfärger, inklusive solida, metalliska och pärlemorsalternativ.
 Dessutom kan du välja mellan 5 hjul i storlek från 19 till 21 tum.
 
 Bilen har två [vanliga dörrar](../../../../technology/doors/) i första raden, [skjutdörrar](../../../../technology/doors/) i andra raden och en baklucka. Elektriska dörrar är standard funktion för sidodörrarna.

@@ -77,7 +77,7 @@ The maximum regenerative power is 150 kW.
 
 ## Exterior
 
-The Genesis Electrified GV70, with dimensions of 4715 mm in length, 1910 mm in width, and 1630 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 8 different paint colors when ordering this model.
+The Genesis Electrified GV70, with dimensions of 4715 mm in length, 1910 mm in width, and 1630 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Genesis Electrified GV70 is available in a total of 8 paint colors, including several striking metallic options.
 Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).

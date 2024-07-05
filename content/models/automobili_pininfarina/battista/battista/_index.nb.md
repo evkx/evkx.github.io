@@ -92,7 +92,7 @@ Den maksimale regenerative effekten er 400 kW.
 
 ## Eksteriør
 
-Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
+Automobili Pininfarina Battista er tilgjengelig i totalt 5 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
 
 

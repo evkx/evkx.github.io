@@ -73,7 +73,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Du kan vælge mellem 3 forskellige malingsfarver, når du bestiller denne model.
+Zeekr 009 ME Edition fås i alt 3 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
 Bilen har to [almindelige døre](../../../../technology/doors/) i første række, [skydedøre](../../../../technology/doors/) på anden række og en bagklap. Elektriske døre er en standard funktion for sidedørene.
 

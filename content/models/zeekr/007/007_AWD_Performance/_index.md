@@ -73,7 +73,7 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 ## Exterior
 
-The Zeekr 007 AWD Performance, with dimensions of 4865 mm in length, 1900 mm in width, and 1450 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. You can choose between 4 different paint colors when ordering this model.
+The Zeekr 007 AWD Performance, with dimensions of 4865 mm in length, 1900 mm in width, and 1450 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Zeekr 007 AWD Performance is available in a total of 4 paint colors, including several striking metallic options.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Powered doors are a standard function for the side doors.
 

@@ -79,7 +79,7 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 ## Exteriör
 
-Lotus Eletre, med dimensioner på 5105 mm i längd,  mm i bredd och 1630 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Du kan välja mellan 2 olika färgfärger när du beställer den här modellen.
+Lotus Eletre, med dimensioner på 5105 mm i längd,  mm i bredd och 1630 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Lotus Eletre finns i totalt 2 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 Dessutom kan du välja mellan 2 hjul i storlek från 20 till 22 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).

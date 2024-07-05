@@ -77,7 +77,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-El Nissan Ariya 87kWh e-4ORCE, con dimensiones de 4595 mm de longitud, 1850 mm de anchura y 1660 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. Puedes elegir entre 9 colores de pintura diferentes al pedir este modelo.
+El Nissan Ariya 87kWh e-4ORCE, con dimensiones de 4595 mm de longitud, 1850 mm de anchura y 1660 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Nissan Ariya 87kWh e-4ORCE está disponible en un total de 9 colores de pintura, incluyendo opciones sólidas, metálicas y perladas.
 Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 19 a 20 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).

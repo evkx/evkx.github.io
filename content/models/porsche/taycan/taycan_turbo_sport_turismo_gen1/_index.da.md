@@ -83,7 +83,7 @@ Den maksimale regenerative effekt er 275 kW.
 
 ## Udvendig
 
-Den Porsche Taycan Turbo Sport Turismo (GEN1), med dimensioner på 4963 mm i længde, 1966 mm i bredde og 1381 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Du kan vælge mellem 17 forskellige malingsfarver, når du bestiller denne model.
+Den Porsche Taycan Turbo Sport Turismo (GEN1), med dimensioner på 4963 mm i længde, 1966 mm i bredde og 1381 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Porsche Taycan Turbo Sport Turismo (GEN1) fås i alt 17 lakfarver, herunder både solide og metalliske muligheder.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 Derudover kan du vælge mellem 8 hjul med størrelser fra 19 til 21 tommer.

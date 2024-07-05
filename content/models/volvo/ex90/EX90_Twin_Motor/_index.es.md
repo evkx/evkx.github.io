@@ -73,7 +73,7 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 ## Exterior
 
-El Volvo EX90 Twin Motor, con dimensiones de 5037 mm de longitud, 1964 mm de anchura y 1744 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. Puedes elegir entre 8 colores de pintura diferentes al pedir este modelo.
+El Volvo EX90 Twin Motor, con dimensiones de 5037 mm de longitud, 1964 mm de anchura y 1744 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. El Volvo EX90 Twin Motor está disponible en un total de 8 colores de pintura, incluyendo varias opciones metálicas llamativas.
 Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 21 a 22 pulgadas.
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate). El cierre suave es la función un estándar para las puertas laterales.

@@ -77,7 +77,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Den Hongqi E-HS9 Premium, med dimensioner på 5209 mm i længde, 2010 mm i bredde og 1713 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
+Den Hongqi E-HS9 Premium, med dimensioner på 5209 mm i længde, 2010 mm i bredde og 1713 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Hongqi E-HS9 Premium fås i alt 6 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 Derudover kan du vælge mellem 2 hjul med størrelser fra 21 til 22 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Soft close er en standard-funktion for sidedørene.

@@ -73,7 +73,7 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 ## Udvendig
 
-Den Fiat 600e, med dimensioner på 4171 mm i længde, 1781 mm i bredde og 1523 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
+Den Fiat 600e, med dimensioner på 4171 mm i længde, 1781 mm i bredde og 1523 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Fiat 600e fås i alt i 5 ensfarvede lakfarver.
 Derudover kan du vælge mellem 5 hjul med størrelser fra 17 til 18 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

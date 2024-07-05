@@ -77,7 +77,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 ## Exterior
 
-The Hyundai Kona Standard Range, with dimensions of 4355 mm in length, 1825 mm in width, and 1575 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. You can choose between 21 different paint colors when ordering this model.
+The Hyundai Kona Standard Range, with dimensions of 4355 mm in length, 1825 mm in width, and 1575 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Hyundai Kona Standard Range offers a selection of 21 paint colors, featuring solid, metallic, pearlescent, and matte options.
 Additionally, you can choose between 2 wheels with sizes from 17 to 19 inches.
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).

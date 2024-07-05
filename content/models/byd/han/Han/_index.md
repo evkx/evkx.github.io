@@ -83,7 +83,7 @@ The maximum regenerative power is 200 kW.
 
 ## Exterior
 
-The BYD Han, with dimensions of 4995 mm in length, 1910 mm in width, and 1495 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. You can choose between 6 different paint colors when ordering this model.
+The BYD Han, with dimensions of 4995 mm in length, 1910 mm in width, and 1495 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The BYD Han is available in a total of 6 solid paint colors.
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

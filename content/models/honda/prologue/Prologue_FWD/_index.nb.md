@@ -79,7 +79,7 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 ## Eksteriør
 
-Honda Prologue FWD, med dimensjoner på 4877 mm i lengde, 1989 mm i bredde og 1634 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
+Honda Prologue FWD, med dimensjoner på 4877 mm i lengde, 1989 mm i bredde og 1634 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Honda Prologue FWD er tilgjengelig i totalt 7 lakkfarger, inkludert solide, metalliske og perlemorsalternativer.
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

@@ -71,7 +71,7 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 ## Extérieur
 
-La Mini Cooper SE, avec des dimensions de 3900 mm de longueur, 1750 mm de largeur et 1450 mm de hauteur, appartient au segment B des voitures, également connu sous le nom de supermini. C'est une petite voiture généralement adaptée à la conduite urbaine, offrant un bon équilibre entre efficacité, taille et coût. Vous pouvez choisir entre 10 couleurs de peinture différentes lors de la commande de ce modèle.
+La Mini Cooper SE, avec des dimensions de 3900 mm de longueur, 1750 mm de largeur et 1450 mm de hauteur, appartient au segment B des voitures, également connu sous le nom de supermini. C'est une petite voiture généralement adaptée à la conduite urbaine, offrant un bon équilibre entre efficacité, taille et coût. La Mini Cooper SE est disponible en un total de 10 couleurs de peinture, comprenant des options à la fois solides et métalliques.
 De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 16 à 18 pouces.
 
 

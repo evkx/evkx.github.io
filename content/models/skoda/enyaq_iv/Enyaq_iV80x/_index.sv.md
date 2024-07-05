@@ -83,7 +83,7 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 ## Exteriör
 
-SKODA Enyaq iV80x, med dimensioner på 4649 mm i längd, 1879 mm i bredd och 1616 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Du kan välja mellan 9 olika färgfärger när du beställer den här modellen.
+SKODA Enyaq iV80x, med dimensioner på 4649 mm i längd, 1879 mm i bredd och 1616 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. SKODA Enyaq iV80x finns i totalt 9 lackfärger, inklusive solida, metalliska och pärlemorsalternativ.
 Dessutom kan du välja mellan 5 hjul i storlek från 19 till 21 tum.
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).

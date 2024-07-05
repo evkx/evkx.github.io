@@ -73,7 +73,7 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 ## Extérieur
 
-La Zeekr X Privilege AWD, avec des dimensions de 4432 mm de longueur, 1836 mm de largeur et 1566 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. Vous pouvez choisir entre 6 couleurs de peinture différentes lors de la commande de ce modèle.
+La Zeekr X Privilege AWD, avec des dimensions de 4432 mm de longueur, 1836 mm de largeur et 1566 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. La Zeekr X Privilege AWD est disponible en un total de 6 couleurs de peinture, toutes comprenant des options métalliques et nacrées.
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 
