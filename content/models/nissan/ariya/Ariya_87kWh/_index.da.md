@@ -77,7 +77,7 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 ## Udvendig
 
-Den Nissan Ariya 87kWh, med dimensioner på 4595 mm i længde, 1850 mm i bredde og 1660 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Nissan Ariya 87kWh fås i alt 9 lakfarver, herunder solide, metalliske og perlemorsmuligheder.
+Den Nissan Ariya 87kWh, med dimensioner på 4595 mm i længde, 1850 mm i bredde og 1660 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Nissan Ariya 87kWh fås i alt 9 lakfarver, herunder solide, metalliske og perlemorsmuligheder. Nogle af disse lakmuligheder inkluderer to-tone lak, hvor taget og den øverste del af karosseriet er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt look.
 Derudover kan du vælge mellem 2 hjul med størrelser fra 19 til 20 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
