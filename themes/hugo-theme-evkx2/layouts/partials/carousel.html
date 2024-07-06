@@ -10,6 +10,15 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/opel/frontera/frontera/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/opel/frontera/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Opel Frontera</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-ee8cb93d"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/cadillac/optiq/optiq_awd/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/cadillac/optiq/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -52,15 +61,6 @@
 				<div class="carousel-caption">
 					<h4>KGM Torres EVX</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-6ecc80b9"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/hyundai/inster/inster_standard_range/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/hyundai/inster/inster_standard_range/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>Hyundai INSTER Standard Range</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-ae995052"}}</p>
 				</div>
 			</div>
 		</div>

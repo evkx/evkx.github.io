@@ -33,6 +33,21 @@ Opel Astra is a hatcback / station wagon available in 2 variants.
 	</div>
 </div>
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Opel Frontera</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="frontera">
+                    <img src="https://media.evkx.net/multimedia/models/opel/frontera/main_1_st.jpg" class="img-fluid" alt="Opel Frontera" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+Opel Frontera is a crossover available in 1 variants.
+</p>
+	<a href="frontera/" class="btn btn-outline-primary" role="button">Go to model info</a>
+		</div>
+	</div>
+</div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
         <h3>Opel Mokka</h3>
         <div class="row">
             <div class="col col-12 col-md-6">

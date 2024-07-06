@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-ee8cb93d
+  translation: Opel Frontera er en helelektrisk crossover med en WLTP rekkevidde på opptil 306 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-13db8135
   translation: Cadillac OPTIQ AWD er en helelektrisk SUV med en EPA rekkevidde på opptil 483 km. EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-5993d701
   translation: Audi S e-tron GT er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 609 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-b8f3319f
-  translation: Audi RS e-tron GT performance er en helelektrisk luksussedan med en WLTP rekkevidde på opptil 598 km. EVKX.net har alle detaljene.
 

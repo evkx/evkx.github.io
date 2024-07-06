@@ -33,6 +33,21 @@ Opel Astra es un hatchback/camioneta disponible en 2 variantes.
 	</div>
 </div>
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Opel Frontera</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="frontera">
+                    <img src="https://media.evkx.net/multimedia/models/opel/frontera/main_1_st.jpg" class="img-fluid" alt="Opel Frontera" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+Opel Frontera es un crossover disponible en 1 variantes.
+</p>
+	<a href="frontera/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
+		</div>
+	</div>
+</div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
         <h3>Opel Mokka</h3>
         <div class="row">
             <div class="col col-12 col-md-6">

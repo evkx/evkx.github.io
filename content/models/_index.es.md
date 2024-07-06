@@ -500,7 +500,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 	<a href="opel/"><img src="https://media.evkx.net/multimedia/models/opel/brandevs_st.jpeg" class="img-fluid mb-2" alt="Opel" ></a>
 	<h2>Opel</h2>
 	<p>
-	Opel tiene 2 modelos con un total de 3 variantes.
+	Opel tiene 3 modelos con un total de 4 variantes.
 	</p>
 	<a href="opel/" class="btn btn-outline-primary" role="button">Ir a Opel descripción general del modelo EV</a>
 </div>
