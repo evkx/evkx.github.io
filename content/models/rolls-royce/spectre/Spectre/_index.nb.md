@@ -87,7 +87,7 @@ Bilen har to [selvmordsdører](../../../../technology/doors/) og et [bagasjelokk
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
-Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
+I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/exterior_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}

@@ -91,9 +91,9 @@ Des roues plus étroites amélioreront la consommation et donneront une plus gra
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 
-Vous pouvez choisir entre deux types de toits sur ce modèle. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Cette vitre rend l'intérieur de la voiture plus agréable. spacieux et lumineux, ce qui peut améliorer l'ambiance et le confort de l'occupant. Le verre a une fonction électrochrome qui vous permet de mélanger le verre sur plusieurs niveaux pour vous protéger du soleil.
+Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Cette vitre rend l'intérieur de la voiture plus agréable. spacieux et lumineux, ce qui peut améliorer l'ambiance et le confort de l'occupant. Le verre a une fonction électrochrome qui vous permet de mélanger le verre sur plusieurs niveaux pour vous protéger du soleil.
 
-Vous pouvez commander la voiture avec des vitres teintées à partir du montant B et à l'arrière.
+De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/exterior_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}

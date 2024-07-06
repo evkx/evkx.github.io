@@ -90,9 +90,9 @@ Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, med
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
-Du kan välja mellan två typer av tak på denna modell. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med taklucka. Glaset sträcker sig bara över första raden och passagerarna kan öppna det. Detta glas gör att bilens interiör känns mer rymlig och ljus, vilket kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
+Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med taklucka. Glaset sträcker sig bara över första raden och passagerarna kan öppna det. Detta glas gör att bilens interiör känns mer rymlig och ljus, vilket kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-Du kan beställa bilen med tonade rutor från B-stolpen bakåt.
+Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/exterior_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2017"  >}}

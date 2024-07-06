@@ -93,7 +93,7 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 
 Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Glaset sträcker ut större delen av taket, och passagerare kan öppna den främre delen. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra atmosfären och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-Du kan beställa bilen med tonade rutor från B-stolpen bakåt.
+Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/exterior_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}

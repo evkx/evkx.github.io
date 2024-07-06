@@ -90,9 +90,9 @@ Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil g
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
-Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Glasset er tonet for å beskytte mot varme fra solen.
+Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Standardtaket inkluderer et stort panoramaglastak som strekker seg fra front til bak, noe som forbedrer interiørets romslige og lyse følelse og dermed forbedrer stemningen og komforten til passasjerene. Dette glasset er tonet for å beskytte mot varme fra solen.
 
-Du kan bestille bilen med tonede vinduer fra B-stolpen og bak.
+I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/exterior_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}

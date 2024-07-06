@@ -95,9 +95,9 @@ Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, m
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). El cierre suave es la función un opcional para las puertas laterales.
 
-Puedes elegir entre dos tipos de techos en este modelo. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo corredizo. El cristal se extiende sólo sobre la primera fila y los ocupantes pueden abrirlo. Este cristal aporta una sensación de interior al coche. más espacioso y luminoso, lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
+Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo corredizo. El cristal se extiende sólo sobre la primera fila y los ocupantes pueden abrirlo. Este cristal aporta una sensación de interior al coche. más espacioso y luminoso, lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-Puedes pedir el auto con vidrios polarizados desde el pilar B y atrás.
+Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/exterior_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2255"  >}}

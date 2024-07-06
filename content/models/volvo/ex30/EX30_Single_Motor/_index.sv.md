@@ -84,7 +84,7 @@ Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, med
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
-Du kan välja mellan två typer av tak på denna modell. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
+Det finns två olika takalternativ att välja mellan. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/exterior_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2250"  >}}

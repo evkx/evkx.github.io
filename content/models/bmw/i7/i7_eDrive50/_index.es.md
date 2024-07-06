@@ -89,9 +89,9 @@ Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, m
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero. El cierre suave es la función un opcional para las puertas laterales.
 
-Puedes elegir entre dos tipos de techos en este modelo. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande amplio y luminoso, lo que puede mejorar el estado de ánimo y comodidad del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
+Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande amplio y luminoso, lo que puede mejorar el estado de ánimo y comodidad del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-Puedes pedir el auto con vidrios polarizados desde el pilar B y atrás.
+Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/exterior_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}

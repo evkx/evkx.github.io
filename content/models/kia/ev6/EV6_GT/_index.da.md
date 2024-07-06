@@ -89,7 +89,7 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 
 Der er kun ét tag til denne model. Standardtaget har soltag. Glasset strækker sig kun over forreste række, og beboerne kan åbne det. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
-Du kan bestille bilen med tonede ruder fra B-stolpen og bagpå.
+Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/exterior_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}

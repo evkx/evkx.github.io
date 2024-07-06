@@ -87,7 +87,7 @@ Bilen har to [selvmordsdøre](../../../../technology/doors/) og en [bagklap](../
 
 Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
 
-Du kan bestille bilen med tonede ruder fra B-stolpen og bagpå.
+Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/exterior_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}

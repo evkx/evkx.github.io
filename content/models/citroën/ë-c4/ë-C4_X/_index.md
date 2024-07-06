@@ -86,7 +86,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [boot lid]
 
 There is only one roof for this model.
 
-You can order the car with tinted windows from B-pillar and back.
+Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/exterior_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="2000"  >}}

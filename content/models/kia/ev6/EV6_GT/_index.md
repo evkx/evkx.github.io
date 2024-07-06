@@ -89,7 +89,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 
 There is only one roof for this model. The standard roof has a sunroof. The glass extends over only the front row, and occupants can open it. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
-You can order the car with tinted windows from B-pillar and back.
+Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/exterior_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}

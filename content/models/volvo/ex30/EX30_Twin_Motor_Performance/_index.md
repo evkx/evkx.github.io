@@ -84,7 +84,7 @@ More narrow wheels will improve consumption and give a longer range, while wider
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 
-You can choose between two types of roofs on this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
+There are two different roof options to select from. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/exterior_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2250"  >}}

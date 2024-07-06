@@ -89,7 +89,7 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [pu
 
 Sólo hay un techo para este modelo. El techo estándar tiene un techo corredizo. El vidrio se extiende sólo sobre la primera fila y los ocupantes pueden abrirlo. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-Puedes pedir el auto con vidrios polarizados desde el pilar B y atrás.
+Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/exterior_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}

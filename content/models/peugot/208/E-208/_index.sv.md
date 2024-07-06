@@ -86,7 +86,7 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 
 Det finns bara ett tak för denna modell.
 
-Du kan beställa bilen med tonade rutor från B-stolpen bakåt.
+Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 
 {{< sitefiguresized thumb="models/peugot/208/e-208/exterior_1_st.jpg" title="Peugot E-208" width="3000" height="1666"  >}}

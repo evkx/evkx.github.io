@@ -87,7 +87,7 @@ El auto tiene dos [puertas suicidas](../../../../technology/doors/) y una [tapa 
 
 Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.
 
-Puedes pedir el auto con vidrios polarizados desde el pilar B y atrás.
+Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/exterior_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}

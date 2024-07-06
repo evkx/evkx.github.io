@@ -87,7 +87,7 @@ The car has two [suicide doors](../../../../technology/doors/) and a [bootlid](.
 
 There is only one roof for this model. The standard is just a regular roof.
 
-You can order the car with tinted windows from B-pillar and back.
+Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/exterior_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}

@@ -87,9 +87,9 @@ Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' är valfritt-funktionen för sidodörrarna.
 
-Du kan välja mellan två typer av tak på denna modell. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig från framsidan till baksidan. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra ditt humör och komforten för den åkande. Glaset har en elektrokrom funktion som gör att du kan blanda glaset för att skydda mot solen.
+Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig från framsidan till baksidan. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra ditt humör och komforten för den åkande. Glaset har en elektrokrom funktion som gör att du kan blanda glaset för att skydda mot solen.
 
-Du kan beställa bilen med tonade rutor från B-stolpen bakåt.
+Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/exterior_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1999"  >}}

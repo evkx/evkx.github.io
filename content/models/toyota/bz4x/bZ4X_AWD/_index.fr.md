@@ -80,9 +80,9 @@ Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la m
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 
-Vous pouvez choisir entre deux types de toits sur ce modèle. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée. Cette vitre embellit l'intérieur de la voiture. se sentir plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Les deux panneaux de verre sont dotés d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
+Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée. Cette vitre embellit l'intérieur de la voiture. se sentir plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Les deux panneaux de verre sont dotés d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-Vous pouvez commander la voiture avec des vitres teintées à partir du montant B et à l'arrière.
+De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/exterior_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}

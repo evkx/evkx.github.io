@@ -88,7 +88,7 @@ The car has four [regular doors](../../../../technology/doors/) and a [split tai
 
 There is only one roof for this model. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
-The windows from B-pillar and back are tinted.
+The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_mp/exterior_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD MP" width="2880" height="1920"  >}}

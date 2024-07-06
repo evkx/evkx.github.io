@@ -87,7 +87,7 @@ Bilen har två [självmordsdörrar](../../../../technology/doors/) och ett [bakl
 
 Det finns bara ett tak för denna modell. Standardinställningen är bara ett vanligt tak.
 
-Du kan beställa bilen med tonade rutor från B-stolpen bakåt.
+Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/exterior_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
