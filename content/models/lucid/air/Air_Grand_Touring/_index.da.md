@@ -85,6 +85,8 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Lucid Air Grand To
 - 245/40 dæk på 20" fælge foran og 265/40 dæk på 20" fælge bagpå
 - 245/40 dæk på 21" fælge foran og 265/40 dæk på 21" fælge bagpå
 
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet.
 
 Der er kun ét tag til denne model. Forruden er panoramisk tilbage over første række. Derudover er der glaspanel over anden række. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen.

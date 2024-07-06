@@ -88,6 +88,8 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Lucid Gravity Drea
 - 265/40 dæk på 22" fælge foran og 285/40 dæk på 22" fælge bagpå
 - 265/35 dæk på 23" fælge foran og 285/35 dæk på 23" fælge bagpå
 
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Der er kun ét tag til denne model. Forruden er panoramisk tilbage over første række. Derudover er der glaspanel over anden række. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen.

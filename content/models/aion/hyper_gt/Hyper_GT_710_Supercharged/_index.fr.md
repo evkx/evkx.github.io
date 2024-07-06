@@ -81,6 +81,8 @@ Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur
 - Pneus 235/50 sur jantes de 18"
 - Pneus 235/45 sur jantes de 19"
 
+Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
+
 
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panoramique s'étendant de l'avant vers l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance et le confort. de l'occupant. Les vitres sont teintées pour protéger de la chaleur du soleil.

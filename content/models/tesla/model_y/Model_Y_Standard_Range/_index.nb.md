@@ -117,6 +117,8 @@ Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Tesla 
 - 255/40 dekk på 20" felger
 - 255/35 dekk på 21" felger foran og 275/35 dekk på 21" felger bak
 
+Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Glasset er tonet for å beskytte mot varme fra solen.

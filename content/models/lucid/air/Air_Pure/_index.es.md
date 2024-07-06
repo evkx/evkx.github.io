@@ -85,6 +85,8 @@ Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en
 - Neumáticos 245/40 en llantas de 20" delanteras y neumáticos 265/40 en llantas de 20" traseras
 - Neumáticos 245/40 en llantas de 21" delanteras y neumáticos 265/40 en llantas de 21" traseras
 
+Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
+
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero.
 
 Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.

@@ -79,6 +79,8 @@ You can select from multiple wheel options in different sizes on the Mini Cooper
 - 205/50 tires on 17" rims
 - 225/40 tires on 18" rims
 
+More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+
 
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.

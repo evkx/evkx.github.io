@@ -91,6 +91,8 @@ Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur
 - Pneus 245/40 sur jantes de 19" à l'avant et pneus 255/40 sur jantes de 19" à l'arrière
 - Pneus 245/35 sur jantes de 20" à l'avant et pneus 255/35 sur jantes de 20" à l'arrière
 
+Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). La fermeture douce est la fonction un facultatif pour les portes latérales.
 
 Vous pouvez choisir entre deux types de toits sur ce modèle. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit ouvrant. La vitre s'étend uniquement sur la première rangée et les occupants peuvent l'ouvrir. Cette vitre donne une impression d'intérieur à la voiture. plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.

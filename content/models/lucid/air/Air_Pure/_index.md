@@ -85,6 +85,8 @@ You can select from multiple wheel options in different sizes on the Lucid Air P
 - 245/40 tires on 20" rims front and 265/40 tires on 20" rims rear
 - 245/40 tires on 21" rims front and 265/40 tires on 21" rims rear
 
+More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 
 There is only one roof for this model. The standard is just a regular roof.

@@ -88,6 +88,8 @@ You can select from multiple wheel options in different sizes on the Lucid Gravi
 - 265/40 tires on 22" rims front and 285/40 tires on 22" rims rear
 - 265/35 tires on 23" rims front and 285/35 tires on 23" rims rear
 
+More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 There is only one roof for this model. The windshield is panoramic going back over the first row. In addition there is glasspanel over the second row. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.

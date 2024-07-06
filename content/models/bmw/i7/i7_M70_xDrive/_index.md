@@ -85,6 +85,8 @@ You can select from multiple wheel options in different sizes on the BMW i7 M70 
 - 255/45 tires on 20" rims front and 285/40 tires on 20" rims rear
 - 255/40 tires on 21" rims front and 285/35 tires on 21" rims rear
 
+More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. Soft close is an optional function for the side doors.
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.

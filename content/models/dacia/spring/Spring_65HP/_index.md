@@ -82,6 +82,8 @@ You can select from multiple wheel options in different sizes on the Dacia Sprin
 - 165/70 tires on 14" rims
 - 175/60 tires on 15" rims
 
+More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 There is only one roof for this model.

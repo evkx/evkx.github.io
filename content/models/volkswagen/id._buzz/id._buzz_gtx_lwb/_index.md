@@ -85,6 +85,8 @@ You can select from multiple wheel options in different sizes on the Volkswagen 
 - 235/50 tires on 20" rims front and 265/45 tires on 20" rims rear
 - 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
 
+More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+
 The car has two [regular doors](../../../../technology/doors/) in the first row, [sliding doors](../../../../technology/doors/) in the second row and a tailgate. Powered doors are a standard function for the side doors.
 
 There is only one roof for this model. The standard is just a regular roof.

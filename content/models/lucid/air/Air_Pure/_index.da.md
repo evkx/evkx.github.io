@@ -85,6 +85,8 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Lucid Air Pure, s�
 - 245/40 dæk på 20" fælge foran og 265/40 dæk på 20" fælge bagpå
 - 245/40 dæk på 21" fælge foran og 265/40 dæk på 21" fælge bagpå
 
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet.
 
 Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.

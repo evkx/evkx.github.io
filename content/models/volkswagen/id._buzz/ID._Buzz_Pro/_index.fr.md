@@ -89,6 +89,8 @@ Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur
 - Pneus 235/50 sur jantes de 20" à l'avant et pneus 265/45 sur jantes de 20" à l'arrière
 - Pneus 235/45 sur jantes de 21" à l'avant et pneus 255/40 sur jantes de 21" à l'arrière
 
+Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
+
 La voiture a deux [portes ordinaires](../../../../technology/doors/) dans la première rangée, [portes coulissantes](../../../../technology/doors/) en deuxième rangée et un hayon. Les portes motorisées sont une fonction un standard pour les portes latérales.
 
 Il n'y a qu'un seul toit pour ce modèle. Le standard est juste un toit ordinaire.

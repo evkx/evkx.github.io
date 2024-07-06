@@ -88,6 +88,8 @@ Du kan välja mellan flera hjulalternativ i olika storlekar på Renault Megane E
 - 235/55 tires on 19" rims
 - 255/45 tires on 20" rims
 
+Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
 Det finns bara ett tak för denna modell. Standardinställningen är bara ett vanligt tak.

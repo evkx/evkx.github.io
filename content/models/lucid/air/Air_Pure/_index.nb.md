@@ -85,6 +85,8 @@ Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Lucid 
 - 245/40 dekk på 20" felger foran og 265/40 dekk på 20" felger bak
 - 245/40 dekk på 21" felger foran og 265/40 dekk på 21" felger bak
 
+Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet.
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.

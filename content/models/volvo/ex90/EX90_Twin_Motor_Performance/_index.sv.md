@@ -80,6 +80,8 @@ Du kan välja mellan flera hjulalternativ i olika storlekar på Volvo EX90 Twin 
 - 265/45 däck på 21" fälgar fram och 295/45 däck på 21" fälgar bak
 - 265/40 däck på 22" fälgar fram och 295/40 däck på 22" fälgar bak
 
+Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate). 'Soft Close' är standard-funktionen för sidodörrarna.
 
 Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som spänner över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humöret och passagerarens komfort. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.

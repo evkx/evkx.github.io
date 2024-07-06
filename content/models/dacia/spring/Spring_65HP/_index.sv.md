@@ -82,6 +82,8 @@ Du kan välja mellan flera hjulalternativ i olika storlekar på Dacia Spring 65H
 - 165/70 tires on 14" rims
 - 175/60 tires on 15" rims
 
+Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
 Det finns bara ett tak för denna modell.

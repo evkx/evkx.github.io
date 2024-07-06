@@ -80,6 +80,8 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Volvo EX90 Twin Mo
 - 265/45 dæk på 21" fælge foran og 295/45 dæk på 21" fælge bagpå
 - 265/40 dæk på 22" fælge foran og 295/40 dæk på 22" fælge bagpå
 
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate). Soft close er en standard-funktion for sidedørene.
 
 Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.

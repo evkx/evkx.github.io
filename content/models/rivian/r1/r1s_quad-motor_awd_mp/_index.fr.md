@@ -98,6 +98,8 @@ Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur
 - Pneus 275/65 sur jantes de 20" à l'avant et pneus 275/65 sur jantes de 20" à l'arrière
 - Pneus 275/50 sur jantes de 22"
 
+Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon divisé](../../../../technology/doors/#split-tailgate) où la partie inférieure tombe et la partie supérieure se soulève.
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un grand toit panoramique s'étendant de l'avant vers l'arrière. Le verre est composé de deux panneaux. Un au-dessus de la première et de la deuxième rangée. Ce verre rend le L'intérieur de la voiture semble plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre a une fonction électrochrome qui vous permet de mélanger le verre sur plusieurs niveaux pour vous protéger du soleil.

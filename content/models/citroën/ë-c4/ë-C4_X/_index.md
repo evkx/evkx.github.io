@@ -80,6 +80,8 @@ You can select from multiple wheel options in different sizes on the Citroën ë
 - 215/60 tires on 17" rims
 - 215/55 tires on 18" rims
 
+More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 
 There is only one roof for this model.

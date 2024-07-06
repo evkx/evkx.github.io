@@ -88,6 +88,8 @@ You can select from multiple wheel options in different sizes on the Renault Meg
 - 235/55 tires on 19" rims
 - 255/45 tires on 20" rims
 
+More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 There is only one roof for this model. The standard is just a regular roof.

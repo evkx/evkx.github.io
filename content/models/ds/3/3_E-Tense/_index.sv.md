@@ -84,6 +84,8 @@ Du kan välja mellan flera hjulalternativ i olika storlekar på DS 3 E-Tense, vi
 - 215/60 tires on 17" rims
 - 215/55 tires on 18" rims
 
+Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
 Det finns bara ett tak för denna modell.

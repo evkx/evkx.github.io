@@ -86,6 +86,8 @@ Du kan välja mellan flera hjulalternativ i olika storlekar på Tesla Model S, v
 - 255/45 däck på 19" fälgar fram och 285/40 däck på 19" fälgar bak
 - 265/35 däck på 21" fälgar fram och 295/30 däck på 21" fälgar bak
 
+Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
 Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten hos den åkande. Glaset är tonat för att skydda mot värme från solen.

@@ -80,6 +80,8 @@ Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Citro�
 - 215/60 dekk på 17" felger
 - 215/55 dekk på 18" felger
 
+Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet.
 
 Det er bare ett tak for denne modellen.

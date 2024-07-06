@@ -101,6 +101,8 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Nio ET5 Touring, s
 - 255/50 dæk on 20" fælge
 - 255/45 dæk on 21" fælge
 
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Soft close er en standard-funktion for sidedørene.
 
 Der er kun ét tag til denne model. Standardtaget har en stor panoramaudsigt, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedres brugerens humør og komfort. Glasset har en elektrokrom funktion, der lader dig blande glasset i flere niveauer for at beskytte mod solen.

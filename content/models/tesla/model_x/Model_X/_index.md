@@ -86,6 +86,8 @@ You can select from multiple wheel options in different sizes on the Tesla Model
 - 255/45 tires on 19" rims front and 285/40 tires on 19" rims rear
 - 265/35 tires on 21" rims front and 295/30 tires on 21" rims rear
 
+More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 There is only one roof for this model. The windshield is panoramic going back over the first row. In addition there is skylights over the second row.

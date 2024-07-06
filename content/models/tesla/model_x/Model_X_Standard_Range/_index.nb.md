@@ -86,6 +86,8 @@ Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Tesla 
 - 255/45 dekk på 19" felger foran og 285/40 dekk på 19" felger bak
 - 265/35 dekk på 21" felger foran og 295/30 dekk på 21" felger bak
 
+Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Det er bare ett tak for denne modellen. Forruten er panoramautsikt over den første raden. I tillegg er det takvinduer over den andre raden.

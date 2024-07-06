@@ -98,6 +98,8 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Rivian R1S Quad-Mo
 - 275/65 dæk på 20" fælge foran og 275/65 dæk på 20" fælge bagpå
 - 275/50 dæk on 22" fælge
 
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [delt bagklap](../../../../technology/doors/#split-bagklap), hvor den nederste del falder og den øverste del løftes.
 
 Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig fra forsiden til bagsiden. Glasset har to paneler. Et over den første og den anden række. Dette glas gør bilens interiør føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passageren. Glasset har en elektrokrom funktion, der lader dig blande glasset i flere niveauer for at beskytte mod solen.

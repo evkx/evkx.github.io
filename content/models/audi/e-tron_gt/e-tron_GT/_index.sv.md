@@ -93,6 +93,8 @@ Du kan välja mellan flera hjulalternativ i olika storlekar på Audi e-tron GT, 
 - 245/45 däck på 20" fälgar fram och 285/40 däck på 20" fälgar bak
 - 265/35 däck på 21" fälgar fram och 305/30 däck på 21" fälgar bak
 
+Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
 Du kan välja mellan två typer av tak på denna modell. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten hos den åkande. Glaset är tonat för att skydda mot värme från solen.

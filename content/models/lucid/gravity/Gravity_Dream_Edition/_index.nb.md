@@ -88,6 +88,8 @@ Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Lucid 
 - 265/40 dekk på 22" felger foran og 285/40 dekk på 22" felger bak
 - 265/35 dekk på 23" felger foran og 285/35 dekk på 23" felger bak
 
+Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Det er bare ett tak for denne modellen. Forruten er panoramautsikt tilbake over den første raden. I tillegg er det glasspanel over den andre raden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.

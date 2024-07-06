@@ -80,6 +80,8 @@ You can select from multiple wheel options in different sizes on the Volvo EX90 
 - 265/45 tires on 21" rims front and 295/45 tires on 21" rims rear
 - 265/40 tires on 22" rims front and 295/40 tires on 22" rims rear
 
+More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Soft close is a standard function for the side doors.
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.

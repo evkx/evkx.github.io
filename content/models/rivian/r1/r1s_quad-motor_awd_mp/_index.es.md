@@ -98,6 +98,8 @@ Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en
 - Neumáticos 275/65 en llantas de 20" delanteras y neumáticos 275/65 en llantas de 20" traseras
 - Neumáticos 275/50 en llantas de 22
 
+Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
+
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero dividido](../../../../technology/doors/#split-tailgate) donde la parte inferior cae y la parte superior se levanta.
 
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. El vidrio tiene dos paneles. Uno sobre la primera y la segunda fila. Este vidrio hace que el El interior del automóvil se siente más espacioso y brillante, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio tiene una función electrocrómica que le permite combinar el vidrio en múltiples niveles para protegerse del sol

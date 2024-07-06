@@ -81,6 +81,8 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Aion Hyper GT 710 
 - 235/50 dæk on 18" fælge
 - 235/45 dæk on 19" fælge
 
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+
 
 
 Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Glasset er tonet for at beskytte mod varme fra solen.

@@ -98,6 +98,8 @@ Du kan välja mellan flera hjulalternativ i olika storlekar på Rivian R1S Quad-
 - 275/65 däck på 20" fälgar fram och 275/65 däck på 20" fälgar bak
 - 275/50 tires on 22" rims
 
+Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [delad baklucka](../../../../technology/doors/#split-baklucka) där den nedre delen faller och den övre delen lyfts.
 
 Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som sträcker sig från framsidan till baksidan. Glaset har två paneler. En över den första och den andra raden. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten för passageraren. Glaset har en elektrokrom funktion som låter dig blanda glaset i flera nivåer för att skydda mot solen.

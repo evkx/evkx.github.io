@@ -97,6 +97,8 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Audi RS e-tron GT 
 - 245/45 dæk på 20" fælge foran og 285/40 dæk på 20" fælge bagpå
 - 265/35 dæk på 21" fælge foran og 305/30 dæk på 21" fælge bagpå
 
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Du kan vælge mellem to typer tage på denne model. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Glasset er tonet for at beskytte mod varme fra solen.

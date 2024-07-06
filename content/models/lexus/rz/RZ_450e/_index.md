@@ -84,6 +84,8 @@ You can select from multiple wheel options in different sizes on the Lexus RZ 45
 - 235/60 tires on 18" rims front and 255/55 tires on 18" rims rear
 - 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
 
+More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.

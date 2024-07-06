@@ -82,6 +82,8 @@ Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Dacia 
 - 165/70 dekk på 14" felger
 - 175/60 dekk på 15" felger
 
+Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Det er bare ett tak for denne modellen.

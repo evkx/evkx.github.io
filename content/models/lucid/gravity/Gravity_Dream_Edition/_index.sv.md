@@ -88,6 +88,8 @@ Du kan välja mellan flera hjulalternativ i olika storlekar på Lucid Gravity Dr
 - 265/40 däck på 22" fälgar fram och 285/40 däck på 22" fälgar bak
 - 265/35 däck på 23" fälgar fram och 285/35 däck på 23" fälgar bak
 
+Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
 Det finns bara ett tak för denna modell. Vindrutan är en panoramavy bakåt över första raden. Dessutom finns det en glaspanel över andra raden. Detta glas gör att bilens interiör känns rymligare och ljus, vilket kan förbättra humöret och komforten för den åkande. Glaset är tonat för att skydda mot värme från solen.

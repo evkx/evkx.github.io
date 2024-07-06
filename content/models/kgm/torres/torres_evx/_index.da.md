@@ -82,6 +82,8 @@ Du kan vælge mellem flere hjul i forskellige størrelser på KGM Torres EVX, s�
 - 225/60 dæk on 18" fælge
 - 245/45 dæk on 20" fælge
 
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.

@@ -98,6 +98,8 @@ You can select from multiple wheel options in different sizes on the Rivian R1S 
 - 275/65 tires on 20" rims front and 275/65 tires on 20" rims rear
 - 275/50 tires on 22" rims
 
+More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
+
 The car has four [regular doors](../../../../technology/doors/) and a [split tailgate](../../../../technology/doors/#split-tailgate) where the bottom part falls and the top part lifts.
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. The glass has two panels. One over the first and the second rows. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass in multiple levels to protect against the sun.

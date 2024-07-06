@@ -80,6 +80,8 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Peugot E-208, så 
 - 215/60 dæk on 17" fælge
 - 215/55 dæk on 18" fælge
 
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Der er kun ét tag til denne model.

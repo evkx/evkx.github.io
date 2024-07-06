@@ -86,6 +86,8 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Opel Frontera, så
 - 205/55 dæk on 16" fælge
 - 205/50 dæk on 17" fælge
 
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Der er kun ét tag til denne model.

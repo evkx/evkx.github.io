@@ -96,6 +96,8 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Fisker Ocean Extre
 - 255/50 dæk on 20" fælge
 - 255/45 dæk on 22" fælge
 
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 
 Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset strækker det meste af taget, og passagererne kan åbne den forreste del. Dette glas får bilens interiør til at føles mere rummeligt og lyst. , som kan forbedre stemningen og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen.

@@ -82,6 +82,8 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Dacia Spring 65HP,
 - 165/70 dæk on 14" fælge
 - 175/60 dæk on 15" fælge
 
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Der er kun ét tag til denne model.

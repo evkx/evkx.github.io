@@ -91,6 +91,8 @@ Du kan vælge mellem flere hjul i forskellige størrelser på BMW i5 M60 xDrive 
 - 255/45 dæk på 20" fælge foran og 285/40 dæk på 20" fælge bagpå
 - 255/40 dæk på 21" fælge foran og 285/35 dæk på 21" fælge bagpå
 
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet. Soft close er en valgfri-funktion for sidedørene.
 
 Du kan vælge mellem to typer tage på denne model. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.

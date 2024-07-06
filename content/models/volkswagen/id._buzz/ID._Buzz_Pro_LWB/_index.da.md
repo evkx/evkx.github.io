@@ -89,6 +89,8 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Volkswagen ID. Buz
 - 235/50 dæk på 20" fælge foran og 265/45 dæk på 20" fælge bagpå
 - 235/45 dæk på 21" fælge foran og 255/40 dæk på 21" fælge bagpå
 
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+
 Bilen har to [almindelige døre](../../../../technology/doors/) i første række, [skydedøre](../../../../technology/doors/) på anden række og en bagklap. Elektriske døre er en standard funktion for sidedørene.
 
 Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.

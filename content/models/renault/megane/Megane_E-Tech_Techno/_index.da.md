@@ -88,6 +88,8 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Renault Megane E-T
 - 235/55 dæk on 19" fælge
 - 255/45 dæk on 20" fælge
 
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.

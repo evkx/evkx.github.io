@@ -88,6 +88,8 @@ Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Renaul
 - 235/55 dekk på 19" felger
 - 255/45 dekk på 20" felger
 
+Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.

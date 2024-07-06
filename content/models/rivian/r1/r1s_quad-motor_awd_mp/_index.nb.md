@@ -98,6 +98,8 @@ Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Rivian
 - 275/65 dekk på 20" felger foran og 275/65 dekk på 20" felger bak
 - 275/50 dekk på 22" felger
 
+Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [delt bakluke](../../../../technology/doors/#split-bakluke) der den nederste delen faller og den øvre delen løftes.
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra fronten til baksiden. Glasset har to paneler. Ett over den første og den andre raden. Dette glasset gjør bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til passasjeren. Glasset har en elektrokrom funksjon som lar deg blande glasset i flere nivåer for å beskytte mot solen.

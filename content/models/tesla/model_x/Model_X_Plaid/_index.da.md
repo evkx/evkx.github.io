@@ -86,6 +86,8 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Tesla Model X Plai
 - 255/45 dæk på 19" fælge foran og 285/40 dæk på 19" fælge bagpå
 - 265/35 dæk på 21" fælge foran og 295/30 dæk på 21" fælge bagpå
 
+Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Der er kun ét tag til denne model. Forruden er panoramisk og går tilbage over første række. Derudover er der ovenlys over anden række.

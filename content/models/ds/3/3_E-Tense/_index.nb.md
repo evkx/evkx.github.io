@@ -84,6 +84,8 @@ Du kan velge mellom flere hjulalternativer i forskjellige størrelser på DS 3 E
 - 215/60 dekk på 17" felger
 - 215/55 dekk på 18" felger
 
+Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 
 Det er bare ett tak for denne modellen.

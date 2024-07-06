@@ -85,6 +85,8 @@ Du kan välja mellan flera hjulalternativ i olika storlekar på Lucid Air Pure, 
 - 245/40 däck på 20" fälgar fram och 265/40 däck på 20" fälgar bak
 - 245/40 däck på 21" fälgar fram och 265/40 däck på 21" fälgar bak
 
+Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
+
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.
 
 Det finns bara ett tak för denna modell. Standardinställningen är bara ett vanligt tak.
