@@ -99,6 +99,8 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Puedes elegir entre dos tipos de techos en este modelo. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
 
+Puedes pedir el auto con vidrios polarizados desde el pilar B y atrás. Como opción, puedes equipar el modelo con ventanas laterales de doble acristalamiento. Estas ventanas reducen el ruido en la cabina.
+
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/exterior_1_st.jpg" title="Audi e-tron GT" width="3000" height="1999"  >}}
 

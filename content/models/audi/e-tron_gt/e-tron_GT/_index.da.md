@@ -99,6 +99,8 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Du kan vælge mellem to typer tage på denne model. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Glasset er tonet for at beskytte mod varme fra solen.
 
+Du kan bestille bilen med tonede ruder fra B-stolpen og bagpå. Som ekstraudstyr kan du udstyre modellen med termoruder i sideruder. Disse vinduer reducerer støj fra kabinen.
+
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/exterior_1_st.jpg" title="Audi e-tron GT" width="3000" height="1999"  >}}
 

@@ -109,6 +109,8 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Du kan velge mellom to typer tak på denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
+Du kan bestille bilen med tonede vinduer fra B-stolpen og bak. Som ekstrautstyr kan du utstyre modellen med doble sidevinduer. Disse vinduene reduserer støyen i kabinen.
+
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/exterior_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 

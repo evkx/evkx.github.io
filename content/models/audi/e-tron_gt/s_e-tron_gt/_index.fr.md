@@ -109,6 +109,8 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Vous pouvez choisir entre deux types de toits sur ce modèle. Le toit standard a un grand toit panoramique s'étendant de l'avant vers l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance et le confort. de l'occupant. Les vitres sont teintées pour protéger de la chaleur du soleil.
 
+Vous pouvez commander la voiture avec des vitres teintées à partir du montant B et à l'arrière. En option, vous pouvez équiper le modèle de vitres latérales à double vitrage. Ces vitres réduisent le bruit de l'habitacle.
+
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/exterior_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
