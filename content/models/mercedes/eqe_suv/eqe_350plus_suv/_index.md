@@ -81,7 +81,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-The Mercedes-EQ EQE 350+ SUV, with dimensions of 4863 mm in length, 1931 mm in width, and 1685 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Mercedes-EQ EQE 350+ SUV offers a selection of 7 paint colors, including solid and metallic options. Alongside the standard palette, exclusive colors are available from the '' palette.
+The Mercedes-EQ EQE 350+ SUV, with dimensions of 4863 mm in length, 1931 mm in width, and 1685 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Mercedes-EQ EQE 350+ SUV offers a selection of 7 paint colors, including solid and metallic options. Alongside the standard palette, exclusive colors are available from the 'MANUFAKTUR' palette.
 
 You can also choose several styling options to make your car more unique.
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 

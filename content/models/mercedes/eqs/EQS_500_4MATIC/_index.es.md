@@ -83,7 +83,7 @@ La potencia regenerativa máxima es de 300 kW.
 
 ## Exterior
 
-El Mercedes-EQ EQS 500 4MATIC, con dimensiones de 5216 mm de longitud, 1926 mm de anchura y 1512 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. El Mercedes-EQ EQS 500 4MATIC ofrece una selección de 11 colores de pintura, que incluyen opciones sólidas, metálicas y mate. Además de la paleta estándar, hay colores exclusivos disponibles en la paleta ''.
+El Mercedes-EQ EQS 500 4MATIC, con dimensiones de 5216 mm de longitud, 1926 mm de anchura y 1512 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. El Mercedes-EQ EQS 500 4MATIC ofrece una selección de 11 colores de pintura, que incluyen opciones sólidas, metálicas y mate. Además de la paleta estándar, hay colores exclusivos disponibles en la paleta 'MANUFAKTUR'.
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
 Adicionalmente, puedes elegir entre 9 ruedas con tamaños de 19 a 22 pulgadas.

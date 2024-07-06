@@ -77,7 +77,7 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 ## Exterior
 
-El Mercedes-EQ EQB 300 4MATIC, con dimensiones de 4684 mm de longitud, 1834 mm de anchura y 1701 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Mercedes-EQ EQB 300 4MATIC ofrece una selección de 10 colores de pintura, que incluyen opciones sólidas, metálicas y mate. Además de la paleta estándar, hay colores exclusivos disponibles en la paleta ''.
+El Mercedes-EQ EQB 300 4MATIC, con dimensiones de 4684 mm de longitud, 1834 mm de anchura y 1701 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Mercedes-EQ EQB 300 4MATIC ofrece una selección de 10 colores de pintura, que incluyen opciones sólidas, metálicas y mate. Además de la paleta estándar, hay colores exclusivos disponibles en la paleta 'MANUFAKTUR'.
 Adicionalmente, puedes elegir entre 6 ruedas con tamaños de 18 a 19 pulgadas.
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).

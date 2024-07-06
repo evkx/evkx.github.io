@@ -102,7 +102,7 @@ La potencia regenerativa máxima es de 220 kW.
 
 ## Exterior
 
-El Audi Q6 e-tron quattro, con dimensiones de 4771 mm de longitud, 1939 mm de anchura y 1685 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Audi Q6 e-tron quattro está disponible en un total de 56 colores de pintura, incluyendo opciones sólidas, metálicas y perladas. Además de la paleta estándar, algunos colores son de la exclusiva paleta ''.
+El Audi Q6 e-tron quattro, con dimensiones de 4771 mm de longitud, 1939 mm de anchura y 1685 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Audi Q6 e-tron quattro está disponible en un total de 56 colores de pintura, incluyendo opciones sólidas, metálicas y perladas. Además de la paleta estándar, algunos colores son de la exclusiva paleta 'Audi exclusive'.
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
 Adicionalmente, puedes elegir entre 9 ruedas con tamaños de 19 a 21 pulgadas.

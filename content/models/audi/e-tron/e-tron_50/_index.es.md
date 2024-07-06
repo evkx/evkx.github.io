@@ -100,7 +100,7 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-El Audi e-tron 50, con dimensiones de 4901 mm de longitud, 1935 mm de anchura y 1629 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El Audi e-tron 50 está disponible en un total de 61 colores de pintura, incluyendo opciones sólidas, metálicas y perladas. Además de la paleta estándar, algunos colores son de la exclusiva paleta ''.
+El Audi e-tron 50, con dimensiones de 4901 mm de longitud, 1935 mm de anchura y 1629 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El Audi e-tron 50 está disponible en un total de 61 colores de pintura, incluyendo opciones sólidas, metálicas y perladas. Además de la paleta estándar, algunos colores son de la exclusiva paleta 'Audi exclusive'.
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
 Adicionalmente, puedes elegir entre 10 ruedas con tamaños de 19 a 22 pulgadas.

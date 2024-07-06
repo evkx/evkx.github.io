@@ -83,7 +83,7 @@ La potencia regenerativa máxima es de 265 kW.
 
 ## Exterior
 
-El Audi e-tron GT, con dimensiones de 4989 mm de longitud, 1964 mm de anchura y 1396 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. El Audi e-tron GT está disponible en un total de 54 colores de pintura, incluyendo opciones perladas y metálicas. Además de la paleta estándar, algunos colores provienen de la exclusiva paleta ''.
+El Audi e-tron GT, con dimensiones de 4989 mm de longitud, 1964 mm de anchura y 1396 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. El Audi e-tron GT está disponible en un total de 54 colores de pintura, incluyendo opciones perladas y metálicas. Además de la paleta estándar, algunos colores provienen de la exclusiva paleta 'Audi exclusive'.
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
 Adicionalmente, puedes elegir entre 7 ruedas con tamaños de 19 a 21 pulgadas.

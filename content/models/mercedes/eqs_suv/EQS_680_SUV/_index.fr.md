@@ -79,7 +79,7 @@ La puissance régénérative maximale est de 300 kW.
 
 ## Extérieur
 
-La Mercedes-Maybach EQS 680 SUV, avec des dimensions de 5125 mm de longueur, 2034 mm de largeur et 1721 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. La Mercedes-Maybach EQS 680 SUV propose une sélection de 9 couleurs de peinture, comprenant des options unies et métallisées. En plus de la palette standard, des couleurs exclusives sont disponibles dans la palette ''.
+La Mercedes-Maybach EQS 680 SUV, avec des dimensions de 5125 mm de longueur, 2034 mm de largeur et 1721 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. La Mercedes-Maybach EQS 680 SUV propose une sélection de 9 couleurs de peinture, comprenant des options unies et métallisées. En plus de la palette standard, des couleurs exclusives sont disponibles dans la palette 'MANUFAKTUR'.
 
 Vous pouvez également choisir plusieurs options de style pour rendre votre voiture plus unique.
 De plus, vous pouvez choisir entre 4 roues avec des tailles allant de 21 à 22 pouces.

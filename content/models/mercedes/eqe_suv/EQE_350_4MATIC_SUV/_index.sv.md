@@ -81,7 +81,7 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 ## Exteriör
 
-Mercedes-EQ EQE 350 4MATIC SUV, med dimensioner på 4863 mm i längd, 1931 mm i bredd och 1685 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. Mercedes-EQ EQE 350 4MATIC SUV erbjuder ett urval av 7 lackfärger, inklusive enfärgade och metalliska alternativ. Vid sidan av standardpaletten finns exklusiva färger tillgängliga från ''-paletten.
+Mercedes-EQ EQE 350 4MATIC SUV, med dimensioner på 4863 mm i längd, 1931 mm i bredd och 1685 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. Mercedes-EQ EQE 350 4MATIC SUV erbjuder ett urval av 7 lackfärger, inklusive enfärgade och metalliska alternativ. Vid sidan av standardpaletten finns exklusiva färger tillgängliga från 'MANUFAKTUR'-paletten.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
 Dessutom kan du välja mellan 5 hjul i storlek från 20 till 22 tum.

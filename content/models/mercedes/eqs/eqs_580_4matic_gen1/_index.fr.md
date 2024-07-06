@@ -89,7 +89,7 @@ La puissance régénérative maximale est de 300 kW.
 
 ## Extérieur
 
-La Mercedes-EQ EQS 580 4MATIC, avec des dimensions de 5216 mm de longueur, 1926 mm de largeur et 1512 mm de hauteur, appartient au segment F des voitures, également connu sous le nom de voitures de luxe ou voitures de luxe de taille complète. Elles représentent le summum du luxe automobile, de la performance et de la technologie. Elles sont généralement de grandes berlines ou limousines conçues pour offrir le meilleur en termes de confort, de prestige et de fonctionnalités avancées. La Mercedes-EQ EQS 580 4MATIC propose une sélection de 11 couleurs de peinture, comprenant des options unies, métallisées et mates. En plus de la palette standard, des couleurs exclusives sont disponibles dans la palette ''
+La Mercedes-EQ EQS 580 4MATIC, avec des dimensions de 5216 mm de longueur, 1926 mm de largeur et 1512 mm de hauteur, appartient au segment F des voitures, également connu sous le nom de voitures de luxe ou voitures de luxe de taille complète. Elles représentent le summum du luxe automobile, de la performance et de la technologie. Elles sont généralement de grandes berlines ou limousines conçues pour offrir le meilleur en termes de confort, de prestige et de fonctionnalités avancées. La Mercedes-EQ EQS 580 4MATIC propose une sélection de 11 couleurs de peinture, comprenant des options unies, métallisées et mates. En plus de la palette standard, des couleurs exclusives sont disponibles dans la palette 'MANUFAKTUR'
 
 Vous pouvez également choisir plusieurs options de style pour rendre votre voiture plus unique.
 De plus, vous pouvez choisir entre 9 roues avec des tailles allant de 19 à 22 pouces.

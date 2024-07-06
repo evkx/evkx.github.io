@@ -79,7 +79,7 @@ The maximum regenerative power is 300 kW.
 
 ## Exterior
 
-The Mercedes-EQ EQS 450+, with dimensions of 5216 mm in length, 1926 mm in width, and 1512 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. The Mercedes-EQ EQS 450+ offers a selection of 11 paint colors, featuring solid, metallic, and matte options. Alongside the standard palette, exclusive colors are available from the '' palette.
+The Mercedes-EQ EQS 450+, with dimensions of 5216 mm in length, 1926 mm in width, and 1512 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. The Mercedes-EQ EQS 450+ offers a selection of 11 paint colors, featuring solid, metallic, and matte options. Alongside the standard palette, exclusive colors are available from the 'MANUFAKTUR' palette.
 
 You can also choose several styling options to make your car more unique.
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 

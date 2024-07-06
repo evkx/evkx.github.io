@@ -79,7 +79,7 @@ The maximum regenerative power is 300 kW.
 
 ## Exterior
 
-The Mercedes-EQ EQS 580 4MATIC SUV, with dimensions of 5125 mm in length, 1959 mm in width, and 1718 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Mercedes-EQ EQS 580 4MATIC SUV offers a selection of 9 paint colors, including solid and metallic options. Alongside the standard palette, exclusive colors are available from the '' palette.
+The Mercedes-EQ EQS 580 4MATIC SUV, with dimensions of 5125 mm in length, 1959 mm in width, and 1718 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Mercedes-EQ EQS 580 4MATIC SUV offers a selection of 9 paint colors, including solid and metallic options. Alongside the standard palette, exclusive colors are available from the 'MANUFAKTUR' palette.
 
 You can also choose several styling options to make your car more unique.
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 

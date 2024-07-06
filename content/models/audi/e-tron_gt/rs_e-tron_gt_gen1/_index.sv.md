@@ -87,7 +87,7 @@ Den maximala regenerativa effekten är 265 kW.
 
 ## Exteriör
 
-Audi RS e-tron GT (GEN1), med dimensioner på 4989 mm i längd, 1964 mm i bredd och 1396 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Audi RS e-tron GT (GEN1) finns i totalt 54 lackfärger, inklusive pärlemors- och metalliska alternativ. Förutom standardpaletten finns vissa färger från den exklusiva ''-paletten.
+Audi RS e-tron GT (GEN1), med dimensioner på 4989 mm i längd, 1964 mm i bredd och 1396 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Audi RS e-tron GT (GEN1) finns i totalt 54 lackfärger, inklusive pärlemors- och metalliska alternativ. Förutom standardpaletten finns vissa färger från den exklusiva 'Audi exclusive'-paletten.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
 Dessutom kan du välja mellan 7 hjul i storlek från 19 till 21 tum.

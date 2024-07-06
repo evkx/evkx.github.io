@@ -81,7 +81,7 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 ## Udvendig
 
-Den Mercedes-EQ EQA 350 4MATIC, med dimensioner på 4463 mm i længde, 1834 mm i bredde og 1620 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Mercedes-EQ EQA 350 4MATIC tilbyder et udvalg af 10 lakfarver, herunder ensfarvede, metalliske og matte muligheder. Ved siden af standardpaletten er der eksklusive farver tilgængelige fra ''-paletten.
+Den Mercedes-EQ EQA 350 4MATIC, med dimensioner på 4463 mm i længde, 1834 mm i bredde og 1620 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Mercedes-EQ EQA 350 4MATIC tilbyder et udvalg af 10 lakfarver, herunder ensfarvede, metalliske og matte muligheder. Ved siden af standardpaletten er der eksklusive farver tilgængelige fra 'MANUFAKTUR'-paletten.
 Derudover kan du vælge mellem 6 hjul med størrelser fra 18 til 19 tommer.
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).

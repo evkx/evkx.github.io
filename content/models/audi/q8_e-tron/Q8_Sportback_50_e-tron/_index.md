@@ -94,7 +94,7 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 ## Exterior
 
-The Audi Q8 Sportback 50 e-tron, with dimensions of 4901 mm in length, 1935 mm in width, and 1616 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. Audi Q8 Sportback 50 e-tron is available in a total of 61 paint colors, including solid, metallic, and pearlescent options. In addition to the standard palette, some colors are from the exclusive '' palette.
+The Audi Q8 Sportback 50 e-tron, with dimensions of 4901 mm in length, 1935 mm in width, and 1616 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. Audi Q8 Sportback 50 e-tron is available in a total of 61 paint colors, including solid, metallic, and pearlescent options. In addition to the standard palette, some colors are from the exclusive 'Audi exclusive' palette.
 
 You can also choose several styling options to make your car more unique.
  In addition, you can equip this model with an s-line exterior package. This package gives a more sporty design with a sporty diffusor and air intake. 

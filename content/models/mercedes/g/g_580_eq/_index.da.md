@@ -79,7 +79,7 @@ Den maksimale regenerative effekt er 300 kW.
 
 ## Udvendig
 
-Den Mercedes-EQ G 580 EQ, med dimensioner på 4624 mm i længde, 1931 mm i bredde og 1986 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Mercedes-EQ G 580 EQ tilbyder et udvalg af 19 lakfarver, herunder ensfarvede, metalliske og matte muligheder. Ved siden af standardpaletten er der eksklusive farver tilgængelige fra ''-paletten.
+Den Mercedes-EQ G 580 EQ, med dimensioner på 4624 mm i længde, 1931 mm i bredde og 1986 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Mercedes-EQ G 580 EQ tilbyder et udvalg af 19 lakfarver, herunder ensfarvede, metalliske og matte muligheder. Ved siden af standardpaletten er der eksklusive farver tilgængelige fra 'MANUFAKTUR'-paletten.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 Derudover kan du vælge mellem 4 hjul med størrelser fra 18 til 20 tommer.

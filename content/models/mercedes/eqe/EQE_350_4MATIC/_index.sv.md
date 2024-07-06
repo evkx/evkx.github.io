@@ -83,7 +83,7 @@ Den maximala regenerativa effekten är 186 kW.
 
 ## Exteriör
 
-Mercedes-EQ EQE 350 4MATIC, med dimensioner på 4946 mm i längd, 1961 mm i bredd och 1510 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Mercedes-EQ EQE 350 4MATIC erbjuder ett urval av 11 lackfärger, med enfärgade, metalliska och matta alternativ. Vid sidan av standardpaletten finns exklusiva färger tillgängliga från ''-paletten.
+Mercedes-EQ EQE 350 4MATIC, med dimensioner på 4946 mm i längd, 1961 mm i bredd och 1510 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Mercedes-EQ EQE 350 4MATIC erbjuder ett urval av 11 lackfärger, med enfärgade, metalliska och matta alternativ. Vid sidan av standardpaletten finns exklusiva färger tillgängliga från 'MANUFAKTUR'-paletten.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
 Dessutom kan du välja mellan 13 hjul i storlek från 19 till 21 tum.

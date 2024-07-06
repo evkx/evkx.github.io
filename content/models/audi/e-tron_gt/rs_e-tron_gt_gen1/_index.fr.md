@@ -87,7 +87,7 @@ La puissance régénérative maximale est de 265 kW.
 
 ## Extérieur
 
-La Audi RS e-tron GT (GEN1), avec des dimensions de 4989 mm de longueur, 1964 mm de largeur et 1396 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. La Audi RS e-tron GT (GEN1) est disponible en un total de 54 couleurs de peinture, y compris des options nacrées et métallisées. En plus de la palette standard, certaines couleurs sont issues de la palette exclusive ''.
+La Audi RS e-tron GT (GEN1), avec des dimensions de 4989 mm de longueur, 1964 mm de largeur et 1396 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. La Audi RS e-tron GT (GEN1) est disponible en un total de 54 couleurs de peinture, y compris des options nacrées et métallisées. En plus de la palette standard, certaines couleurs sont issues de la palette exclusive 'Audi exclusive'.
 
 Vous pouvez également choisir plusieurs options de style pour rendre votre voiture plus unique.
 De plus, vous pouvez choisir entre 7 roues avec des tailles allant de 19 à 21 pouces.

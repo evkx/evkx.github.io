@@ -92,7 +92,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-The Audi SQ8 e-tron, with dimensions of 4901 mm in length, 1935 mm in width, and 1629 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. Audi SQ8 e-tron is available in a total of 61 paint colors, including solid, metallic, and pearlescent options. In addition to the standard palette, some colors are from the exclusive '' palette.
+The Audi SQ8 e-tron, with dimensions of 4901 mm in length, 1935 mm in width, and 1629 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. Audi SQ8 e-tron is available in a total of 61 paint colors, including solid, metallic, and pearlescent options. In addition to the standard palette, some colors are from the exclusive 'Audi exclusive' palette.
 The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
 
 
