@@ -78,7 +78,12 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 ## Exteriör
 
 CUPRA BORN 58, med dimensioner på 4322 mm i längd, 1809 mm i bredd och 1540 mm i höjd, tillhör C-segmentet av bilar, även kallat kompakta bilar. Dessa bilar erbjuder en balans mellan storlek, prestanda och prisvärdhet, vilket gör dem mångsidiga för olika förare. CUPRA BORN 58 finns i totalt 5 lackfärger, inklusive både solida och metalliska alternativ.
-Dessutom kan du välja mellan 6 hjul i storlek från 18 till 20 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på CUPRA BORN 58, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 215/55 tires on 18" rims
+- 215/50 tires on 19" rims
+- 215/45 tires on 20" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

@@ -75,6 +75,10 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 Zeekr 009 ME Edition er tilgjengelig i totalt 3 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Zeekr 009 ME Edition, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 255/50 dekk på 19" felger
+
 Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er standard funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg over de fleste områder fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humør og komfort for beboeren. Glasset er tonet for å beskytte mot varme fra solen.

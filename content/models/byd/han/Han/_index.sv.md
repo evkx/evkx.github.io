@@ -85,6 +85,10 @@ Den maximala regenerativa effekten är 200 kW.
 
 BYD Han, med dimensioner på 4995 mm i längd, 1910 mm i bredd och 1495 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. BYD Han finns i totalt 6 enfärgade lackfärger.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på BYD Han, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 265/40 tires on 22" rims
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
 Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Glaset sträcker ut större delen av taket, och passagerare kan öppna den främre delen. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra atmosfären och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.

@@ -95,7 +95,11 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 ## Extérieur
 
 La Nio EL7, avec des dimensions de 4912 mm de longueur, 1987 mm de largeur et 1720 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Nio EL7 est disponible en un total de 7 couleurs de peinture unies.
-De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 20 à 21 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Nio EL7, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 255/50 sur jantes de 20"
+- Pneus 265/45 sur jantes de 21"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). La fermeture douce est la fonction un standard pour les portes latérales.
 

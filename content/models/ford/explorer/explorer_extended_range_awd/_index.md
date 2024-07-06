@@ -84,7 +84,11 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 ## Exterior
 
 The Ford Explorer Extended Range AWD, with dimensions of 4468 mm in length, 1871 mm in width, and 1639 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Ford Explorer Extended Range AWD is available in a total of 7 paint colors, including both solid and metallic options.
-Additionally, you can choose between 3 wheels with sizes from 20 to 21 inches.
+
+You can select from multiple wheel options in different sizes on the Ford Explorer Extended Range AWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
+- 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

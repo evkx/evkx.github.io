@@ -81,6 +81,10 @@ La potencia regenerativa máxima es de 200 kW.
 
 El BYD Seal AWD, con dimensiones de 4800 mm de longitud, 1875 mm de anchura y 1460 mm de altura, pertenece al segmento D de automóviles, también conocido como coches medianos o familiares. Estos coches ofrecen más espacio, comodidad y características que segmentos más pequeños, siendo adecuados para una variedad de conductores. El BYD Seal AWD está disponible en un total de 6 colores de pintura sólidos.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el BYD Seal AWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 265/40 en llantas de 22
+
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero.
 
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. El vidrio está tonificado para proteger contra el calor del sol.

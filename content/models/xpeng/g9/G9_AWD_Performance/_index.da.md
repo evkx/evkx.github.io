@@ -79,6 +79,9 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 Den XPENG G9 AWD Performance, med dimensioner på 4891 mm i længde, 1937 mm i bredde og 1670 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på XPENG G9 AWD Performance, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 
 Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.

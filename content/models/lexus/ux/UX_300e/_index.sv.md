@@ -78,7 +78,11 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 ## Exteriör
 
 Lexus UX 300e, med dimensioner på 4495 mm i längd, 1840 mm i bredd och 1545 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Lexus UX 300e finns i totalt 10 lackfärger, inklusive både solida och metalliska alternativ.
-Dessutom kan du välja mellan 2 hjul i storlek från 17 till 18 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Lexus UX 300e, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 215/60 tires on 17" rims
+- 225/50 tires on 18" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 

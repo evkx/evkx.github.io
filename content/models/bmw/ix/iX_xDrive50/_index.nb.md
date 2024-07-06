@@ -79,6 +79,10 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 BMW iX xDrive50, med dimensjoner på 4953 mm i lengde, 1967 mm i bredde og 1696 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Du kan velge mellom 9 forskjellige lakkfarger når du bestiller denne modellen.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på BMW iX xDrive50, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 255/50 dekk på 22" felger foran og 275/40 dekk på 22" felger bak
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' er tilvalg-funksjon for sidedørene.
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, som kan forbedre humøret og komforten til beboeren. Glasset har en elektrokrom funksjon som lar deg blande glasset for å beskytte mot solen.

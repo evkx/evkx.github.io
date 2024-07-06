@@ -82,7 +82,11 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 ## Exteriör
 
 SKODA Elroq 85x, med dimensioner på 4488 mm i längd, 1879 mm i bredd och 1625 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. SKODA Elroq 85x finns i totalt 9 lackfärger, inklusive solida, metalliska och pärlemorsalternativ.
-Dessutom kan du välja mellan 2 hjul i storlek från 20 till 21 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på SKODA Elroq 85x, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 235/50 däck på 20" fälgar fram och 255/45 däck på 20" fälgar bak
+- 235/45 däck på 21" fälgar fram och 255/40 däck på 21" fälgar bak
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

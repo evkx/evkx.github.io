@@ -76,7 +76,11 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 ## Extérieur
 
 La KGM Torres EVX, avec des dimensions de 4715 mm de longueur,  mm de largeur et 1725 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La KGM Torres EVX est disponible en un total de 6 couleurs de peinture, comprenant des options à la fois solides et métalliques.
-De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 18 à 20 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'KGM Torres EVX, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 225/60 sur jantes de 18"
+- Pneus 245/45 sur jantes de 20"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

@@ -77,6 +77,10 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 Polestar 3 Long Range Dual Motor Performance, med dimensioner på 4900 mm i längd, 1968 mm i bredd och 1614 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. Polestar 3 Long Range Dual Motor Performance finns i totalt 6 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Polestar 3 Long Range Dual Motor Performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 265/40 däck på 22" fälgar fram och 295/40 däck på 22" fälgar bak
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
 Du kan välja mellan två typer av tak på denna modell. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.

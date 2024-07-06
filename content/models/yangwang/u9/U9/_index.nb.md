@@ -94,6 +94,10 @@ Den maksimale regenerative effekten er 400 kW.
 
 YangWang U9 er tilgjengelig i totalt 5 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på YangWang U9, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 275/35 dekk på 21" felger foran og 325/30 dekk på 21" felger bak
+
 
 
 Det er bare ett tak for denne modellen.

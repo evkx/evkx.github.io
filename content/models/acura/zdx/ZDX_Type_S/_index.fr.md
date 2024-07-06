@@ -75,6 +75,10 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 La Acura ZDX Type S, avec des dimensions de 5022 mm de longueur, 1956 mm de largeur et 1636 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. La Acura ZDX Type S est disponible en un total de 6 couleurs de peinture, toutes comprenant des options métalliques et nacrées.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Acura ZDX Type S, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 275/40 sur jantes de 22"
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 
 Vous pouvez choisir entre deux types de toits sur ce modèle. Le toit standard a un grand toit panoramique s'étendant de l'avant vers l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance et le confort. de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil. En option, vous pouvez commander ce modèle avec un toit panoramique ouvrant. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir la partie avant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.

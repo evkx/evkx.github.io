@@ -78,7 +78,13 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 ## Exteriör
 
 Jaguar I-Pace EV400, med dimensioner på 4682 mm i längd, 2011 mm i bredd och 1566 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Jaguar I-Pace EV400 finns i totalt 9 lackfärger, inklusive både solida och metalliska alternativ.
-Dessutom kan du välja mellan 8 hjul i storlek från 18 till 22 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Jaguar I-Pace EV400, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 235/65 tires on 18" rims
+- 245/55 tires on 19" rims
+- 245/50 tires on 20" rims
+- 255/40 tires on 22" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

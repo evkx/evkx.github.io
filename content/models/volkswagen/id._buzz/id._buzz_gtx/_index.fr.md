@@ -78,7 +78,12 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 ## Extérieur
 
 La Volkswagen ID. Buzz GTX est disponible en un total de 12 couleurs de peinture, comprenant des options solides, métalliques et nacrées.
-De plus, vous pouvez choisir entre 5 roues avec des tailles allant de 19 à 21 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Volkswagen ID. Buzz GTX, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 235/55 sur jantes de 19" à l'avant et pneus 255/50 sur jantes de 19" à l'arrière
+- Pneus 235/50 sur jantes de 20" à l'avant et pneus 265/45 sur jantes de 20" à l'arrière
+- Pneus 235/45 sur jantes de 21" à l'avant et pneus 255/40 sur jantes de 21" à l'arrière
 
 La voiture a deux [portes ordinaires](../../../../technology/doors/) dans la première rangée, [portes coulissantes](../../../../technology/doors/) en deuxième rangée et un hayon. Les portes motorisées sont une fonction un standard pour les portes latérales.
 

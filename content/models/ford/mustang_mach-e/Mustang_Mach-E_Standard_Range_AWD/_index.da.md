@@ -78,7 +78,11 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 ## Udvendig
 
 Den Ford Mustang Mach-E Standard Range AWD, med dimensioner på 4713 mm i længde, 1881 mm i bredde og 1624 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Ford Mustang Mach-E Standard Range AWD fås i alt 8 lakfarver, herunder både solide og metalliske muligheder.
-Derudover kan du vælge mellem 2 hjul med størrelser fra 18 til 19 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Ford Mustang Mach-E Standard Range AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 225/60 dæk on 18" fælge
+- 225/60 dæk on 19" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 

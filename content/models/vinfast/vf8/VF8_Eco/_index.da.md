@@ -84,6 +84,10 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 Den VinFast VF8 Eco, med dimensioner på 4750 mm i længde, 1934 mm i bredde og 1667 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. VinFast VF8 Eco fås i alt 8 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på VinFast VF8 Eco, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 245/50 dæk on 19" fælge
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.

@@ -79,6 +79,9 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 Den MG MG5 Electric Long Range, med dimensioner på 4600 mm i længde, 1818 mm i bredde og 1543 mm i højde, tilhører D-segmentet af biler, også kendt som mellemstore eller familiebiler. Disse biler tilbyder mere plads, komfort og funktioner end mindre segmenter og er velegnede til forskellige førere. MG MG5 Electric Long Range fås i alt 4 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på MG MG5 Electric Long Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+
 
 
 Der er kun ét tag til denne model.

@@ -78,7 +78,12 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 ## Extérieur
 
 La CUPRA Tavascan Endurance, avec des dimensions de 4644 mm de longueur, 1861 mm de largeur et 1597 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La CUPRA Tavascan Endurance est disponible en un total de 5 couleurs de peinture, comprenant des options à la fois solides et métalliques.
-De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 19 à 21 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'CUPRA Tavascan Endurance, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 235/50 sur jantes de 19" à l'avant et pneus 255/50 sur jantes de 19" à l'arrière
+- Pneus 235/45 sur jantes de 20" à l'avant et pneus 255/45 sur jantes de 20" à l'arrière
+- Pneus 255/40 sur jantes de 21"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

@@ -81,6 +81,10 @@ Den maksimale regenerative effekten er 400 kW.
 
 Chevrolet Silverado EV 3WT er tilgjengelig i totalt 1 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Chevrolet Silverado EV 3WT, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 265/70 dekk på 18" felger
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#split-bakluke) der porten faller ned.
 
 Det er bare ett tak for denne modellen.

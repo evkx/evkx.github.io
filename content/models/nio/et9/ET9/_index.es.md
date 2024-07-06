@@ -84,6 +84,10 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 El Nio ET9, con dimensiones de 5325 mm de longitud, 2016 mm de anchura y 1620 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. El Nio ET9 está disponible en un total de 7 colores de pintura sólidos.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Nio ET9, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 265/40 en llantas de 23
+
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). El cierre suave es la función un estándar para las puertas laterales.
 
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. El vidrio está tonificado para proteger contra el calor del sol.

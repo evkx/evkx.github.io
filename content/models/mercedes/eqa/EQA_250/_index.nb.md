@@ -78,7 +78,11 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 ## Eksteriør
 
 Mercedes-EQ EQA 250, med dimensjoner på 4463 mm i lengde, 1834 mm i bredde og 1624 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Mercedes-EQ EQA 250 tilbyr et utvalg av 10 lakkfarger, inkludert ensfargede, metalliske og matte alternativer. Ved siden av standardpaletten er det eksklusive farger tilgjengelig fra 'MANUFAKTUR'-paletten.
-I tillegg kan du velge mellom 6 hjul med størrelser fra 18 til 19 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Mercedes-EQ EQA 250, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 235/55 dekk på 18" felger
+- 235/50 dekk på 19" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

@@ -80,7 +80,11 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 ## Eksteriør
 
 Volvo XC40 Recharge Single Motor ER, med dimensjoner på 4425 mm i lengde, 1873 mm i bredde og 1652 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Volvo XC40 Recharge Single Motor ER er tilgjengelig i totalt 9 lakkfarger, alle inkluderer metalliske og perlemorsalternativer.
-I tillegg kan du velge mellom 2 hjul med størrelser fra 19 til 20 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volvo XC40 Recharge Single Motor ER, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 235/50 dekk på 19" felger
+- 235/45 dekk på 20" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 

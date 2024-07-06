@@ -78,7 +78,12 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 ## Eksteriør
 
 Xiaomi SU7 Max, med dimensjoner på 4997 mm i lengde, 1963 mm i bredde og 1440 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Xiaomi SU7 Max er tilgjengelig i totalt 9 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
-I tillegg kan du velge mellom 4 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Xiaomi SU7 Max, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 245/45 dekk på 19" felger
+- 245/40 dekk på 20" felger foran og 265/40 dekk på 20" felger bak
+- 245/35 dekk på 21" felger foran og 265/35 dekk på 21" felger bak
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet. 'Soft Close' er standard-funksjon for sidedørene.
 

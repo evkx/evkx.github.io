@@ -78,7 +78,12 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 ## Eksteriør
 
 Lucid Air Pure, med dimensjoner på 4975 mm i lengde, 1939 mm i bredde og 1410 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Du kan velge mellom 4 forskjellige lakkfarger når du bestiller denne modellen.
-I tillegg kan du velge mellom 6 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Lucid Air Pure, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 245/45 dekk på 19" felger
+- 245/40 dekk på 20" felger foran og 265/40 dekk på 20" felger bak
+- 245/40 dekk på 21" felger foran og 265/40 dekk på 21" felger bak
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet.
 

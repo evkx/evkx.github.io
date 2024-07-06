@@ -103,6 +103,10 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 La Tesla Cybertruck AWD est disponible en un total de 3 couleurs de peinture unies.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Tesla Cybertruck AWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 285/65 sur jantes de 20"
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#split-tailgate) là où le portail tombe. La fermeture douce est la fonction un standard pour les portes latérales. Le hayon est alimenté électriquement.
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panoramique s'étendant de l'avant vers l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance et le confort. de l'occupant. Les vitres sont teintées pour protéger de la chaleur du soleil.

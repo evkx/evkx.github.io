@@ -81,6 +81,10 @@ Den maksimale regenerative effekten er 200 kW.
 
 BYD Atto 3, med dimensjoner på 4455 mm i lengde, 1875 mm i bredde og 1875 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. BYD Atto 3 er tilgjengelig i totalt 4 ensfargede lakkfarger.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på BYD Atto 3, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 235/50 dekk på 18" felger
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør at bilens interiør føles romsligere og lysere , som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.

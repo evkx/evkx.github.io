@@ -81,7 +81,11 @@ The Mercedes-EQ EQA 300 4MATIC, with dimensions of 4463 mm in length, 1834 mm in
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
 
-Additionally, you can choose between 6 wheels with sizes from 18 to 19 inches.
+
+You can select from multiple wheel options in different sizes on the Mercedes-EQ EQA 300 4MATIC, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 235/55 tires on 18" rims
+- 235/50 tires on 19" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

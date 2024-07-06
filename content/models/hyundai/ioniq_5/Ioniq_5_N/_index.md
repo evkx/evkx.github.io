@@ -77,6 +77,10 @@ The maximum regenerative power is 150 kW.
 
 The Hyundai Ioniq 5 N, with dimensions of 4715 mm in length, 1940 mm in width, and 1585 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Hyundai Ioniq 5 N is available in a total of 6 paint colors, including several striking metallic options.
 
+You can select from multiple wheel designs, all available in the same size, on the Hyundai Ioniq 5 N, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 275/35 tires on 21" rims
+
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. The standard roof has a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.

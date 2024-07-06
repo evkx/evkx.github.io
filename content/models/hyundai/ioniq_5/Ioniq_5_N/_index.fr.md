@@ -77,6 +77,10 @@ La puissance régénérative maximale est de 150 kW.
 
 La Hyundai Ioniq 5 N, avec des dimensions de 4715 mm de longueur, 1940 mm de largeur et 1585 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Hyundai Ioniq 5 N est disponible en un total de 6 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Hyundai Ioniq 5 N, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 275/35 sur jantes de 21"
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 
 Vous pouvez choisir entre deux types de toits sur ce modèle. Le standard est juste un toit ordinaire. Le toit standard est doté d'un grand toit panoramique s'étendant sur la plupart des zones de l'avant vers l'arrière. Ce verre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux, ce qui peut améliore l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.

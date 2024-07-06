@@ -75,6 +75,9 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The MG Marvel R Electric Performance, with dimensions of 4674 mm in length, 1919 mm in width, and 1618 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The MG Marvel R Electric Performance is available in a total of 5 paint colors, including several striking metallic options.
 
+You can select from multiple wheel designs, all available in the same size, on the MG Marvel R Electric Performance, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 There is only one roof for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.

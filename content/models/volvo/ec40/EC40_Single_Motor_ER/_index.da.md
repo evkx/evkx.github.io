@@ -78,7 +78,11 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 ## Udvendig
 
 Den Volvo EC40 Single Motor ER, med dimensioner på 4440 mm i længde, 1873 mm i bredde og 1596 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Volvo EC40 Single Motor ER fås i alt 9 lakfarver, som alle inkluderer metalliske og perlemorsmuligheder.
-Derudover kan du vælge mellem 2 hjul med størrelser fra 19 til 20 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Volvo EC40 Single Motor ER, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 235/50 dæk on 19" fælge
+- 235/45 dæk on 20" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 

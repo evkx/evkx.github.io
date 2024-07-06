@@ -74,7 +74,9 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 ## Udvendig
 
 Den Cadillac OPTIQ AWD, med dimensioner på 4820 mm i længde,  mm i bredde og 1644 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Cadillac OPTIQ AWD fås i alt 8 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
-Derudover kan du vælge mellem 2 hjul med størrelser fra 20 til 21 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Cadillac OPTIQ AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

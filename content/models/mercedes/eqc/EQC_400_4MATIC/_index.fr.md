@@ -78,7 +78,12 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 ## Extérieur
 
 La Mercedes-EQ EQC 400 4MATIC, avec des dimensions de 4762 mm de longueur, 1884 mm de largeur et 1624 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Mercedes-EQ EQC 400 4MATIC propose une sélection de 11 couleurs de peinture, comprenant des options unies, métallisées et mates. En plus de la palette standard, des couleurs exclusives sont disponibles dans la palette 'MANUFAKTUR'
-De plus, vous pouvez choisir entre 10 roues avec des tailles allant de 19 à 21 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Mercedes-EQ EQC 400 4MATIC, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 235/55 sur jantes de 19" à l'avant et pneus 255/50 sur jantes de 19" à l'arrière
+- Pneus 235/50 sur jantes de 20" à l'avant et pneus 255/45 sur jantes de 20" à l'arrière
+- Pneus 235/45 sur jantes de 21" à l'avant et pneus 255/40 sur jantes de 21" à l'arrière
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

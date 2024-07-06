@@ -76,7 +76,11 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 ## Extérieur
 
 La Dacia Spring 65HP, avec des dimensions de 3701 mm de longueur, 1622 mm de largeur et 1519 mm de hauteur, appartient au segment des voitures mini, également connues sous le nom de voitures citadines ou voitures du segment A. Elles sont la plus petite classe de voitures, conçues principalement pour les environnements urbains et offrent une taille compacte, une excellente maniabilité et un fonctionnement économique. La Dacia Spring 65HP est disponible en un total de 6 couleurs de peinture unies.
-De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 14 à 15 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Dacia Spring 65HP, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 165/70 sur jantes de 14"
+- Pneus 175/60 sur jantes de 15"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

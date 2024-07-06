@@ -79,6 +79,10 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 Den Lancia Ypsilon, med dimensioner på 4080 mm i længde, 1760 mm i bredde og 1440 mm i højde, tilhører B-segmentet af biler, også kendt som supermini. Det er en lille bil, der typisk er velegnet til bykørsel og tilbyder en god balance mellem effektivitet, størrelse og omkostninger. Lancia Ypsilon fås i alt 7 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Lancia Ypsilon, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 215/45 dæk på 18" fælge foran og 215/45 dæk på 18" fælge bagpå
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Du kan vælge mellem to typer tage på denne model. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset strækker det meste af taget, og beboerne kan åbne den forreste del. Dette glas gør bilens interiøret føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.

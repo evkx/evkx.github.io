@@ -84,7 +84,12 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 El Mercedes-EQ EQE 500 4MATIC SUV, con dimensiones de 4863 mm de longitud, 1931 mm de anchura y 1685 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El Mercedes-EQ EQE 500 4MATIC SUV ofrece una selección de 7 colores de pintura, que incluyen opciones sólidas y metálicas. Además de la paleta estándar, hay colores exclusivos disponibles en la paleta 'Mercedes-EQ EQE 500 4MATIC SUV'
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
-Adicionalmente, puedes elegir entre 5 ruedas con tamaños de 20 a 22 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Mercedes-EQ EQE 500 4MATIC SUV, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 265/40 en llantas de 20" delanteras y neumáticos 295/35 en llantas de 20" traseras
+- Neumáticos 265/35 en llantas de 21" delanteras y neumáticos 295/30 en llantas de 21" traseras
+- Neumáticos 265/35 en llantas de 22" delanteras y neumáticos 295/30 en llantas de 22" traseras
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

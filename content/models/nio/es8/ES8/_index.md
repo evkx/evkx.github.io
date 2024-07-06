@@ -95,7 +95,12 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 ## Exterior
 
 The Nio ES8, with dimensions of 5022 mm in length, 1962 mm in width, and 1756 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Nio ES8 is available in a total of 5 solid paint colors.
-Additionally, you can choose between 4 wheels with sizes from 19 to 21 inches.
+
+You can select from multiple wheel options in different sizes on the Nio ES8, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 265/55 tires on 19" rims
+- 265/50 tires on 20" rims
+- 265/45 tires on 21" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

@@ -101,7 +101,11 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 La Audi Q8 e-tron edition Dakar, avec des dimensions de 4901 mm de longueur, 1935 mm de largeur et 1629 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Audi Q8 e-tron edition Dakar propose une sélection de 3 couleurs de peinture, comprenant des options unies et métallisées. En plus de la palette standard, des couleurs exclusives sont disponibles dans la palette 'Audi exclusive'.
 
 Vous pouvez également choisir plusieurs options de style pour rendre votre voiture plus unique.
-De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 18 à 19 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Audi Q8 e-tron edition Dakar, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 265/60 sur jantes de 18"
+- Pneus 255/55 sur jantes de 19"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate). La fermeture douce est la fonction un facultatif pour les portes latérales.
 

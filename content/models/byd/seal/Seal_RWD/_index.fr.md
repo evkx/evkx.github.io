@@ -81,6 +81,10 @@ La puissance régénérative maximale est de 200 kW.
 
 La BYD Seal RWD, avec des dimensions de 4800 mm de longueur, 1875 mm de largeur et 1460 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. La BYD Seal RWD est disponible en un total de 6 couleurs de peinture unies.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'BYD Seal RWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 265/40 sur jantes de 22"
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre.
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panoramique s'étendant de l'avant vers l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance et le confort. de l'occupant. Les vitres sont teintées pour protéger de la chaleur du soleil.

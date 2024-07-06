@@ -74,7 +74,11 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 ## Exteriör
 
 XPENG G3i, med dimensioner på 4495 mm i längd, 1820 mm i bredd och 1610 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Du kan välja mellan 1 olika färgfärger när du beställer den här modellen.
-Dessutom kan du välja mellan 2 hjul i storlek från 17 till 18 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på XPENG G3i, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 215/55 tires on 17" rims
+- 215/55 tires on 18" rims
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.
 

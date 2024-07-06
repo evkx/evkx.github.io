@@ -78,7 +78,11 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 ## Exterior
 
 El Hyundai Kona Standard Range, con dimensiones de 4355 mm de longitud, 1825 mm de anchura y 1575 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El Hyundai Kona Standard Range ofrece una selección de 21 colores de pintura, que incluyen opciones sólidas, metálicas, perladas y mate.
-Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 17 a 19 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Hyundai Kona Standard Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 215/60 en llantas de 17
+- Neumáticos 235/45 en llantas de 19
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 

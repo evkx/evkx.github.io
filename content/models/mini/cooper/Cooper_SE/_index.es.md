@@ -72,7 +72,12 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 ## Exterior
 
 El Mini Cooper SE, con dimensiones de 3900 mm de longitud, 1750 mm de anchura y 1450 mm de altura, pertenece al segmento B de automóviles, también conocido como supermini. Es un coche pequeño típicamente adecuado para la conducción urbana, ofreciendo un buen equilibrio entre eficiencia, tamaño y costo. El Mini Cooper SE está disponible en un total de 10 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
-Adicionalmente, puedes elegir entre 3 ruedas con tamaños de 16 a 18 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Mini Cooper SE, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 215/55 en llantas de 16
+- Neumáticos 205/50 en llantas de 17
+- Neumáticos 225/40 en llantas de 18
 
 
 

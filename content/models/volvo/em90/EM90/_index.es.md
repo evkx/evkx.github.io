@@ -74,7 +74,11 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 ## Exterior
 
 El Volvo EM90 está disponible en un total de 3 colores de pintura, incluyendo varias opciones metálicas llamativas.
-Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 19 a 20 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Volvo EM90, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 255/50 en llantas de 19
+- Neumáticos 255/45 en llantas de 20
 
 El automóvil tiene dos [puertas normales](../../../../technology/doors/) en la primera fila, [puertas corredizas](../../../../technology/doors/) en la segunda fila y un portón trasero. Las puertas eléctricas tienen un estándar función para las puertas laterales.
 

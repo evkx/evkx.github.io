@@ -81,7 +81,12 @@ The Mercedes-EQ EQC 400 4MATIC, with dimensions of 4762 mm in length, 1884 mm in
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
 
-Additionally, you can choose between 10 wheels with sizes from 19 to 21 inches.
+
+You can select from multiple wheel options in different sizes on the Mercedes-EQ EQC 400 4MATIC, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
+- 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
+- 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

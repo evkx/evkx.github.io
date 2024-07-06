@@ -75,6 +75,10 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 Peugot E-308 SW, med dimensjoner på 4636 mm i lengde, 1859 mm i bredde og 1442 mm i høyde, tilhører D-segmentet av biler, også kjent som mellomstore eller familiebiler. Disse bilene tilbyr mer plass, komfort og funksjoner enn mindre segmenter, noe som gjør dem egnet for ulike sjåfører. Peugot E-308 SW er tilgjengelig i totalt 6 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Peugot E-308 SW, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 215/45 dekk på 18" felger foran og 215/45 dekk på 18" felger bak
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør bilens interiøret føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.

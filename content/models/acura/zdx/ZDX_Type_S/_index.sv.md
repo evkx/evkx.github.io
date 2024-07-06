@@ -75,6 +75,10 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 Acura ZDX Type S, med dimensioner på 5022 mm i längd, 1956 mm i bredd och 1636 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. 6 finns i totalt 6 lackfärger, alla inkluderar metalliska och pärlemorsalternativ.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Acura ZDX Type S, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 275/40 tires on 22" rims
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
 Du kan välja mellan två typer av tak på denna modell. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten på passageraren. Den har en elektrisk gardin som passagerarna kan använda för att skydda sig mot solen. Som tillval kan du beställa denna modell med panoramatak som går att öppna. Glaset har två paneler. En ovanför första och andra raden, och passagerarna kan öppna den främre delen. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.

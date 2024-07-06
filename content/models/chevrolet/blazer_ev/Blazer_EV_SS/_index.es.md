@@ -75,6 +75,10 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 El Chevrolet Blazer EV SS, con dimensiones de 5067 mm de longitud, 1963 mm de anchura y 1725 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. El Chevrolet Blazer EV SS está disponible en un total de 8 colores de pintura, incluyendo opciones sólidas, metálicas y perladas.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Chevrolet Blazer EV SS, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 275/40 en llantas de 22
+
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Puedes elegir entre dos tipos de techos en este modelo. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol. Como opción, puedes pedir este modelo con techo panorámico que se puede abrir. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir la parte delantera. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.

@@ -79,7 +79,12 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 ## Exterior
 
 El Ford F150 Lightning Extended Range está disponible en un total de 6 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
-Adicionalmente, puedes elegir entre 3 ruedas con tamaños de 18 a 22 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Ford F150 Lightning Extended Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 265/70 en llantas de 18
+- Neumáticos 275/60 en llantas de 20
+- Neumáticos 285/45 en llantas de 22
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#split-tailgate) donde la puerta cae.
 

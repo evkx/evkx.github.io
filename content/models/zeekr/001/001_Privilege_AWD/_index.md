@@ -79,6 +79,10 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The Zeekr 001 Privilege AWD, with dimensions of 4955 mm in length, 1999 mm in width, and 1548 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Zeekr 001 Privilege AWD is available in a total of 4 paint colors, including several striking metallic options.
 
+You can select from multiple wheel designs, all available in the same size, on the Zeekr 001 Privilege AWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 265/40 tires on 22" rims
+
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending over most areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.

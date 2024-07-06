@@ -84,6 +84,10 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 El VinFast VF8 Plus, con dimensiones de 4750 mm de longitud, 1934 mm de anchura y 1667 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El VinFast VF8 Plus está disponible en un total de 8 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el VinFast VF8 Plus, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 245/45 en llantas de 20
+
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámico. El vidrio extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso , lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.

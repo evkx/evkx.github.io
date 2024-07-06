@@ -94,7 +94,12 @@ Den maximala regenerativa effekten är 265 kW.
 ## Exteriör
 
 Audi RS e-tron GT, med dimensioner på 4989 mm i längd, 1964 mm i bredd och 1396 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Audi RS e-tron GT finns i totalt 54 lackfärger, inklusive pärlemors- och metalliska alternativ. Förutom standardpaletten finns vissa färger från den exklusiva 'Audi exclusive'-paletten.
-Dessutom kan du välja mellan 7 hjul i storlek från 19 till 21 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Audi RS e-tron GT, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 225/55 däck på 19" fälgar fram och 275/45 däck på 19" fälgar bak
+- 245/45 däck på 20" fälgar fram och 285/40 däck på 20" fälgar bak
+- 265/35 däck på 21" fälgar fram och 305/30 däck på 21" fälgar bak
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

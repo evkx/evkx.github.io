@@ -77,6 +77,10 @@ Den maximala regenerativa effekten är 150 kW.
 
 Hyundai Ioniq 5 N, med dimensioner på 4715 mm i längd, 1940 mm i bredd och 1585 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Hyundai Ioniq 5 N finns i totalt 6 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Hyundai Ioniq 5 N, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 275/35 tires on 21" rims
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
 Du kan välja mellan två typer av tak på denna modell. Standardinställningen är bara ett vanligt tak. Standardtaket har ett stort panoramatak som spänner över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humöret och passagerarens komfort. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.

@@ -78,7 +78,12 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 ## Udvendig
 
 Volkswagen ID. Buzz GTX LWB fås i alt 12 lakfarver, herunder solide, metalliske og perlemorsmuligheder.
-Derudover kan du vælge mellem 5 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Volkswagen ID. Buzz GTX LWB, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 235/55 dæk på 19" fælge foran og 255/50 dæk på 19" fælge bagpå
+- 235/50 dæk på 20" fælge foran og 265/45 dæk på 20" fælge bagpå
+- 235/45 dæk på 21" fælge foran og 255/40 dæk på 21" fælge bagpå
 
 Bilen har to [almindelige døre](../../../../technology/doors/) i første række, [skydedøre](../../../../technology/doors/) på anden række og en bagklap. Elektriske døre er en standard funktion for sidedørene.
 

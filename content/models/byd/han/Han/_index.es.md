@@ -85,6 +85,10 @@ La potencia regenerativa máxima es de 200 kW.
 
 El BYD Han, con dimensiones de 4995 mm de longitud, 1910 mm de anchura y 1495 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. El BYD Han está disponible en un total de 6 colores de pintura sólidos.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el BYD Han, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 265/40 en llantas de 22
+
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámico. El vidrio extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso , lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.

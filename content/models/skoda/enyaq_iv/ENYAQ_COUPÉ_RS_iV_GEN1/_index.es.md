@@ -88,7 +88,11 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 ## Exterior
 
 El SKODA ENYAQ COUPÉ RS iV (GEN1), con dimensiones de 4653 mm de longitud, 1879 mm de anchura y 1607 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El SKODA ENYAQ COUPÉ RS iV (GEN1) está disponible en un total de 9 colores de pintura, incluyendo opciones sólidas, metálicas y perladas.
-Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 20 a 21 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el SKODA ENYAQ COUPÉ RS iV (GEN1), lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 235/50 en llantas de 20" delanteras y neumáticos 255/45 en llantas de 20" traseras
+- Neumáticos 235/45 en llantas de 21" delanteras y neumáticos 255/40 en llantas de 21" traseras
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

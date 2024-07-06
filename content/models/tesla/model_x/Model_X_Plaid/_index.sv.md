@@ -80,7 +80,11 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 ## Exteriör
 
 Tesla Model X Plaid, med dimensioner på 5057 mm i längd, 1999 mm i bredd och 1680 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Tesla Model X Plaid finns i totalt 5 lackfärger, inklusive både solida och metalliska alternativ.
-Dessutom kan du välja mellan 2 hjul i storlek från 19 till 21 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Tesla Model X Plaid, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 255/45 däck på 19" fälgar fram och 285/40 däck på 19" fälgar bak
+- 265/35 däck på 21" fälgar fram och 295/30 däck på 21" fälgar bak
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

@@ -76,7 +76,11 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 ## Exteriör
 
 Fisker Ocean Ultra, med dimensioner på 4774 mm i längd, 1982 mm i bredd och 1631 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Fisker Ocean Ultra finns i totalt 12 lackfärger, inklusive flera iögonfallande metalliska alternativ.
-Dessutom kan du välja mellan 6 hjul i storlek från 20 till 22 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Fisker Ocean Ultra, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 255/50 tires on 20" rims
+- 255/45 tires on 22" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 

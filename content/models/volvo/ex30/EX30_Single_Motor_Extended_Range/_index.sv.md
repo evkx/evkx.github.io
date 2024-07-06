@@ -74,7 +74,11 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 ## Exteriör
 
 Volvo EX30 Single Motor Extended Range, med dimensioner på 4233 mm i längd, 1837 mm i bredd och 1549 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. 5 finns i totalt 5 lackfärger, alla inkluderar metalliska och pärlemorsalternativ.
-Dessutom kan du välja mellan 2 hjul i storlek från 18 till 20 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Volvo EX30 Single Motor Extended Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 225/55 tires on 18" rims
+- 235/45 tires on 20" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 

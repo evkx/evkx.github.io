@@ -85,7 +85,11 @@ You can also choose several styling options to make your car more unique.
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
 
-Additionally, you can choose between 4 wheels with sizes from 18 to 20 inches.
+
+You can select from multiple wheel options in different sizes on the Mercedes-EQ G 580 EQ, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 265/60 tires on 18" rims
+- 265/50 tires on 20" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

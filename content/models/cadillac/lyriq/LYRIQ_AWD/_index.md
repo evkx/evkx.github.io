@@ -74,7 +74,9 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 The Cadillac LYRIQ AWD, with dimensions of 4996 mm in length, 1977 mm in width, and 1623 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Cadillac LYRIQ AWD is available in a total of 8 paint colors, including several striking metallic options.
-Additionally, you can choose between 3 wheels with sizes from 20 to 22 inches.
+
+You can select from multiple wheel options in different sizes on the Cadillac LYRIQ AWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

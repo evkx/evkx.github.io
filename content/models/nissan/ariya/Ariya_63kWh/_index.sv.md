@@ -78,7 +78,11 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 ## Exteriör
 
 Nissan Ariya 63kWh, med dimensioner på 4595 mm i längd, 1850 mm i bredd och 1660 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Nissan Ariya 63kWh finns i totalt 9 lackfärger, inklusive solida, metalliska och pärlemorsalternativ. Vissa av dessa lackalternativ inkluderar tvåtonslack där taket och den övre delen av karossen är målade i en annan färg, vilket ger ett distinkt och stiligt utseende.
-Dessutom kan du välja mellan 2 hjul i storlek från 19 till 20 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Nissan Ariya 63kWh, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 235/55 tires on 19" rims
+- 255/45 tires on 20" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

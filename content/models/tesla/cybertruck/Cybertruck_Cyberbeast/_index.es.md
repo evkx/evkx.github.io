@@ -85,6 +85,10 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 El Tesla Cybertruck Cyberbeast está disponible en un total de 3 colores de pintura sólidos.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Tesla Cybertruck Cyberbeast, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 285/65 en llantas de 20
+
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#split-tailgate) donde la puerta cae. La puerta trasera funciona eléctricamente.
 
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. El vidrio está tonificado para proteger contra el calor del sol.

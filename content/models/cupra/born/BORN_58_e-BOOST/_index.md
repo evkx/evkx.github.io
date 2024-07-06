@@ -78,7 +78,12 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 ## Exterior
 
 The CUPRA BORN 58 e-BOOST, with dimensions of 4322 mm in length, 1809 mm in width, and 1540 mm in height, falls into the C-segment cars, also known as compact cars, strike a balance between size, performance, and affordability, making them versatile for a variety of drivers. The CUPRA BORN 58 e-BOOST is available in a total of 5 paint colors, including both solid and metallic options.
-Additionally, you can choose between 6 wheels with sizes from 18 to 20 inches.
+
+You can select from multiple wheel options in different sizes on the CUPRA BORN 58 e-BOOST, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 215/55 tires on 18" rims
+- 215/50 tires on 19" rims
+- 215/45 tires on 20" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

@@ -78,7 +78,12 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 ## Udvendig
 
 Ford F150 Lightning Standard Range fås i alt 6 lakfarver, herunder både solide og metalliske muligheder.
-Derudover kan du vælge mellem 3 hjul med størrelser fra 18 til 22 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Ford F150 Lightning Standard Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 265/70 dæk on 18" fælge
+- 275/60 dæk on 20" fælge
+- 285/45 dæk on 22" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-bagklap), hvor lågen falder ned.
 

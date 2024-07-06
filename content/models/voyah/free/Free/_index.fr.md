@@ -75,6 +75,10 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 La VOYAH FREE, avec des dimensions de 4905 mm de longueur, 1950 mm de largeur et 1645 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Vous pouvez choisir entre 6 couleurs de peinture différentes lors de la commande de ce modèle.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'VOYAH FREE, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 255/45 sur jantes de 20"
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance et le confort de l'occupant. Le verre a une fonction électrochrome qui permet de mélanger le verre sur plusieurs niveaux pour se protéger du soleil.

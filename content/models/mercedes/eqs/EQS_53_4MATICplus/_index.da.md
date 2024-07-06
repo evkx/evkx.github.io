@@ -86,7 +86,11 @@ Den maksimale regenerative effekt er 300 kW.
 ## Udvendig
 
 Den Mercedes-AMG EQS 53 4MATIC+, med dimensioner på 5223 mm i længde, 1926 mm i bredde og 1520 mm i højde, tilhører F-segmentet af biler, også kendt som luksus- eller fuldstørrelses luksusbiler. De repræsenterer toppen af ​​automobil luksus, ydeevne og teknologi. De er typisk store sedans eller limousiner og er designet til at tilbyde det ypperste inden for komfort, prestige og avancerede funktioner. Mercedes-AMG EQS 53 4MATIC+ tilbyder et udvalg af 11 lakfarver, herunder ensfarvede, metalliske og matte muligheder. Ved siden af standardpaletten er der eksklusive farver tilgængelige fra 'MANUFAKTUR'-paletten.
-Derudover kan du vælge mellem 4 hjul med størrelser fra 21 til 22 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Mercedes-AMG EQS 53 4MATIC+, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 265/40 dæk på 21" fælge foran og 295/35 dæk på 21" fælge bagpå
+- 265/35 dæk på 22" fælge foran og 295/30 dæk på 22" fælge bagpå
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

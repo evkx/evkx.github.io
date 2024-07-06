@@ -74,7 +74,9 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 ## Extérieur
 
 La Cadillac OPTIQ AWD, avec des dimensions de 4820 mm de longueur,  mm de largeur et 1644 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Cadillac OPTIQ AWD est disponible en un total de 8 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
-De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 20 à 21 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Cadillac OPTIQ AWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

@@ -75,6 +75,9 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 
 Toyota bZ4X AWD, med dimensioner på 4690 mm i längd, 1860 mm i bredd och 1550 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Du kan välja mellan 1 olika färgfärger när du beställer den här modellen.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Toyota bZ4X AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
 Du kan välja mellan två typer av tak på denna modell. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset har två paneler. En ovanför första och andra raden, och passagerarna kan öppna fronten del. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten för passageraren. Båda glaspanelerna har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.

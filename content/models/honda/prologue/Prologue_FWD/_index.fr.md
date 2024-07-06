@@ -81,6 +81,10 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 La Honda Prologue FWD, avec des dimensions de 4877 mm de longueur, 1989 mm de largeur et 1634 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Honda Prologue FWD est disponible en un total de 7 couleurs de peinture, comprenant des options solides, métalliques et nacrées.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Honda Prologue FWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 275/45 sur jantes de 21"
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 
 Vous pouvez choisir entre deux types de toits sur ce modèle. Le toit standard a un grand toit panoramique s'étendant de l'avant vers l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance et le confort. de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil. En option, vous pouvez commander ce modèle avec un toit panoramique ouvrant. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir la partie avant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.

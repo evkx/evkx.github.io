@@ -75,6 +75,10 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 Den Zeekr X Privilege AWD, med dimensioner på 4432 mm i længde, 1836 mm i bredde og 1566 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Zeekr X Privilege AWD fås i alt 6 lakfarver, som alle inkluderer metalliske og perlemorsmuligheder.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Zeekr X Privilege AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 245/45 dæk on 18" fælge
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 
 Du kan vælge mellem to typer tage på denne model. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.

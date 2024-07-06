@@ -74,7 +74,11 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 ## Exteriör
 
 Volvo EX90 Twin Motor, med dimensioner på 5037 mm i längd, 1964 mm i bredd och 1744 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Volvo EX90 Twin Motor finns i totalt 8 lackfärger, inklusive flera iögonfallande metalliska alternativ.
-Dessutom kan du välja mellan 2 hjul i storlek från 21 till 22 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Volvo EX90 Twin Motor, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 265/45 däck på 21" fälgar fram och 295/45 däck på 21" fälgar bak
+- 265/40 däck på 22" fälgar fram och 295/40 däck på 22" fälgar bak
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate). 'Soft Close' är standard-funktionen för sidodörrarna.
 

@@ -74,7 +74,11 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 ## Exteriör
 
 Alfa Romeo Junior Veloce, med dimensioner på 4170 mm i längd, 1780 mm i bredd och 1500 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Alfa Romeo Junior Veloce finns i totalt 5 enfärgade lackfärger.
-Dessutom kan du välja mellan 5 hjul i storlek från 17 till 18 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Alfa Romeo Junior Veloce, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 215/60 tires on 17" rims
+- 215/55 tires on 18" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

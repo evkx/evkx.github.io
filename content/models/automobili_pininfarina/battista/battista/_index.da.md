@@ -94,6 +94,10 @@ Den maksimale regenerative effekt er 400 kW.
 
 Automobili Pininfarina Battista fås i alt 5 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Automobili Pininfarina Battista, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 275/35 dæk på 20" fælge foran og 315/35 dæk på 20" fælge bagpå
+
 
 
 Der er kun ét tag til denne model.

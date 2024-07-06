@@ -75,6 +75,10 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 Zeekr X Long Range RWD, med dimensioner på 4432 mm i längd, 1836 mm i bredd och 1566 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. 6 finns i totalt 6 lackfärger, alla inkluderar metalliska och pärlemorsalternativ.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Zeekr X Long Range RWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 245/45 tires on 18" rims
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
 Du kan välja mellan två typer av tak på denna modell. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.

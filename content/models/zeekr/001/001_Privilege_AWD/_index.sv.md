@@ -79,6 +79,10 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 Zeekr 001 Privilege AWD, med dimensioner på 4955 mm i längd, 1999 mm i bredd och 1548 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Zeekr 001 Privilege AWD finns i totalt 4 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Zeekr 001 Privilege AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 265/40 tires on 22" rims
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
 Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som spänner över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humör och komfort för den boende. Glaset är tonat för att skydda mot värme från solen.

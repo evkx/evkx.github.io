@@ -79,6 +79,10 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 La HiPhi Y Performance, avec des dimensions de 4938 mm de longueur, 1958 mm de largeur et 1658 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'HiPhi Y Performance, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 275/40 sur jantes de 21"
+
 La voiture a deux [portes régulières](../../../../technology/doors/) à l'avant, une combinaison unique de portes régulières avec un toit en aile de mouette sur le deuxième rangée et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate) à l'arrière. Les portes motorisées sont une fonction un standard pour les portes latérales.
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'une vitre panoramique au-dessus de la première rangée et la partie du toit des portes gullving est également vitrée. Cette vitre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant.

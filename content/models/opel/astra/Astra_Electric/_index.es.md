@@ -79,6 +79,10 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 El Opel Astra Electric, con dimensiones de 4374 mm de longitud, 1860 mm de anchura y 1470 mm de altura, pertenece al segmento C de automóviles, también conocido como coches compactos. Estos coches logran un equilibrio entre tamaño, rendimiento y asequibilidad, lo que los hace versátiles para una variedad de conductores. El Opel Astra Electric está disponible en un total de 7 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Opel Astra Electric, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 215/45 en llantas de 18" delanteras y neumáticos 215/45 en llantas de 18" traseras
+
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Puedes elegir entre dos tipos de techos en este modelo. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este cristal hace que el coche sea más cómodo. El interior se siente más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.

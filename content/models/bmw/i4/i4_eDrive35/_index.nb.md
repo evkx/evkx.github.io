@@ -84,7 +84,12 @@ Den maksimale regenerative effekten er 116 kW.
 ## Eksteriør
 
 BMW i4 eDrive35, med dimensjoner på 4783 mm i lengde, 1852 mm i bredde og 1448 mm i høyde, tilhører D-segmentet av biler, også kjent som mellomstore eller familiebiler. Disse bilene tilbyr mer plass, komfort og funksjoner enn mindre segmenter, noe som gjør dem egnet for ulike sjåfører. Du kan velge mellom 12 forskjellige lakkfarger når du bestiller denne modellen.
-I tillegg kan du velge mellom 7 hjul med størrelser fra 18 til 20 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på BMW i4 eDrive35, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 245/45 dekk på 18" felger foran og 255/45 dekk på 18" felger bak
+- 245/40 dekk på 19" felger foran og 255/40 dekk på 19" felger bak
+- 245/35 dekk på 20" felger foran og 255/35 dekk på 20" felger bak
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' er tilvalg-funksjon for sidedørene.
 

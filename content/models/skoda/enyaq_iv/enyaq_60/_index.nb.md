@@ -78,7 +78,11 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 ## Eksteriør
 
 SKODA ENYAQ 60, med dimensjoner på 4653 mm i lengde, 1879 mm i bredde og 1607 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. SKODA ENYAQ 60 er tilgjengelig i totalt 9 lakkfarger, inkludert solide, metalliske og perlemorsalternativer.
-I tillegg kan du velge mellom 2 hjul med størrelser fra 20 til 21 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på SKODA ENYAQ 60, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 235/50 dekk på 20" felger foran og 255/45 dekk på 20" felger bak
+- 235/45 dekk på 21" felger foran og 255/40 dekk på 21" felger bak
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

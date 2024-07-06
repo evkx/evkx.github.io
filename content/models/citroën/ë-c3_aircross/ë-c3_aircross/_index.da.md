@@ -84,7 +84,11 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 ## Udvendig
 
 Den Citroën ë-C3 Aircross, med dimensioner på 4395 mm i længde, 1795 mm i bredde og 1660 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Citroën ë-C3 Aircross fås i alt 5 lakfarver, herunder både solide og metalliske muligheder.
-Derudover kan du vælge mellem 2 hjul med størrelser fra 16 til 17 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Citroën ë-C3 Aircross, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 205/55 dæk on 16" fælge
+- 205/50 dæk on 17" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

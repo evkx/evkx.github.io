@@ -107,7 +107,11 @@ You can also choose several styling options to make your car more unique.
 The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
 
 
-Additionally, you can choose between 2 wheels with sizes from 18 to 19 inches.
+
+You can select from multiple wheel options in different sizes on the Audi Q8 e-tron edition Dakar, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 265/60 tires on 18" rims
+- 255/55 tires on 19" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Soft close is an optional function for the side doors.
 

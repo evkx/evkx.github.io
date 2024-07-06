@@ -80,7 +80,11 @@ La puissance régénérative maximale est de 150 kW.
 ## Extérieur
 
 La Kia EV6 Long Range AWD, avec des dimensions de 4680 mm de longueur, 1880 mm de largeur et 1550 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. Vous pouvez choisir entre 11 couleurs de peinture différentes lors de la commande de ce modèle.
-De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 19 à 20 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Kia EV6 Long Range AWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 235/55 sur jantes de 19"
+- Pneus 255/45 sur jantes de 20"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 

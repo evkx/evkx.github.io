@@ -82,7 +82,11 @@ La puissance régénérative maximale est de 300 kW.
 La Mercedes-EQ EQS 580 4MATIC SUV, avec des dimensions de 5125 mm de longueur, 1959 mm de largeur et 1718 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. La Mercedes-EQ EQS 580 4MATIC SUV propose une sélection de 9 couleurs de peinture, comprenant des options unies et métallisées. En plus de la palette standard, des couleurs exclusives sont disponibles dans la palette 'MANUFAKTUR'.
 
 Vous pouvez également choisir plusieurs options de style pour rendre votre voiture plus unique.
-De plus, vous pouvez choisir entre 4 roues avec des tailles allant de 21 à 22 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Mercedes-EQ EQS 580 4MATIC SUV, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 265/45 sur jantes de 21"
+- Pneus 265/40 sur jantes de 22" à l'avant et pneus 295/40 sur jantes de 22" à l'arrière
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

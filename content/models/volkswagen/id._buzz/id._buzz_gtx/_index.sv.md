@@ -78,7 +78,12 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 ## Exteriör
 
 Volkswagen ID. Buzz GTX finns i totalt 12 lackfärger, inklusive solida, metalliska och pärlemorsalternativ.
-Dessutom kan du välja mellan 5 hjul i storlek från 19 till 21 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Volkswagen ID. Buzz GTX, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 235/55 däck på 19" fälgar fram och 255/50 däck på 19" fälgar bak
+- 235/50 däck på 20" fälgar fram och 265/45 däck på 20" fälgar bak
+- 235/45 däck på 21" fälgar fram och 255/40 däck på 21" fälgar bak
 
 Bilen har två [vanliga dörrar](../../../../technology/doors/) i första raden, [skjutdörrar](../../../../technology/doors/) i andra raden och en baklucka. Elektriska dörrar är standard funktion för sidodörrarna.
 

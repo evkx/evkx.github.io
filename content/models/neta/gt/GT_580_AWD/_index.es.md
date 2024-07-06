@@ -75,6 +75,10 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 
 El Neta GT 580 AWD, con dimensiones de 4715 mm de longitud, 1979 mm de anchura y 1415 mm de altura, pertenece al segmento D de automóviles, también conocido como coches medianos o familiares. Estos coches ofrecen más espacio, comodidad y características que segmentos más pequeños, siendo adecuados para una variedad de conductores. El Neta GT 580 AWD está disponible en un total de 6 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Neta GT 580 AWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 245/45 en llantas de 19
+
 
 
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. El vidrio está tonificado para proteger contra el calor del sol.

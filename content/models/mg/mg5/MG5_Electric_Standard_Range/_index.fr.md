@@ -79,6 +79,9 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 La MG MG5 Electric Standard Range, avec des dimensions de 4600 mm de longueur, 1818 mm de largeur et 1543 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. La MG MG5 Electric Standard Range est disponible en un total de 4 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'MG MG5 Electric Standard Range, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+
 
 
 Il n'y a qu'un seul toit pour ce modèle.

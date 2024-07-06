@@ -74,7 +74,11 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 ## Extérieur
 
 La Hyundai INSTER Standard Range, avec des dimensions de 3825 mm de longueur, 1610 mm de largeur et 1610 mm de hauteur, appartient au segment des voitures mini, également connues sous le nom de voitures citadines ou voitures du segment A. Elles sont la plus petite classe de voitures, conçues principalement pour les environnements urbains et offrent une taille compacte, une excellente maniabilité et un fonctionnement économique. La Hyundai INSTER Standard Range propose une sélection de 9 couleurs de peinture, comprenant des options unies, métallisées, nacrées et mates.
-De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 15 à 17 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Hyundai INSTER Standard Range, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 205/55 sur jantes de 15"
+- Pneus 205/45 sur jantes de 17"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 

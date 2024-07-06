@@ -79,6 +79,10 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 La Smart #3 Brabus, avec des dimensions de 4400 mm de longueur, 1844 mm de largeur et 1556 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. La Smart #3 Brabus est disponible en un total de 6 couleurs de peinture, toutes comprenant des options métalliques et nacrées.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Smart #3 Brabus, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 245/40 sur jantes de 20"
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 
 Vous pouvez choisir entre deux types de toits sur ce modèle. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Cette vitre donne à l'intérieur de la voiture une sensation plus agréable. spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil.

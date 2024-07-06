@@ -76,7 +76,11 @@ Den maksimale regenerative effekten er 150 kW.
 ## Eksteriør
 
 Hyundai Ioniq 6 Long Range AWD, med dimensjoner på 4855 mm i lengde, 1880 mm i bredde og 1495 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Hyundai Ioniq 6 Long Range AWD er tilgjengelig i totalt 9 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
-I tillegg kan du velge mellom 2 hjul med størrelser fra 18 til 20 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Hyundai Ioniq 6 Long Range AWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 225/55 dekk på 18" felger
+- 245/40 dekk på 20" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet.
 

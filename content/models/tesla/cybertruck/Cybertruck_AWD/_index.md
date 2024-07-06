@@ -103,6 +103,10 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Tesla Cybertruck AWD is available in a total of 3 solid paint colors.
 
+You can select from multiple wheel designs, all available in the same size, on the Tesla Cybertruck AWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 285/65 tires on 20" rims
+
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. Soft close is a standard function for the side doors. The tailgate is electrically powered.
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.

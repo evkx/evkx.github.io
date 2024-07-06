@@ -82,7 +82,12 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 ## Eksteriør
 
 Volkswagen ID.7 Pro, med dimensjoner på 4961 mm i lengde, 1862 mm i bredde og 1532 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Volkswagen ID.7 Pro er tilgjengelig i totalt 10 lakkfarger, inkludert både solide og metalliske alternativer.
-I tillegg kan du velge mellom 3 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volkswagen ID.7 Pro, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 235/55 dekk på 19" felger foran og 255/50 dekk på 19" felger bak
+- 235/50 dekk på 20" felger foran og 255/45 dekk på 20" felger bak
+- 235/45 dekk på 21" felger foran og 255/40 dekk på 21" felger bak
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

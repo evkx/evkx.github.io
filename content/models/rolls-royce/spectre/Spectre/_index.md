@@ -79,6 +79,10 @@ Dynamic steering is a standard feature on the Rolls-Royce Spectre. Dynamic steer
 
 The Rolls-Royce Spectre, with dimensions of 5475 mm in length, 2017 mm in width, and 1573 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. You can choose between 8 different paint colors when ordering this model.
 
+You can select from multiple wheel designs, all available in the same size, on the Rolls-Royce Spectre, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 255/50 tires on 23" rims front and 275/40 tires on 23" rims rear
+
 The car has two [suicide doors](../../../../technology/doors/) and a [bootlid](../../../../technology/doors/#bootlid) in the rear. Soft close is a standard function for the side doors. Powered doors are a standard function for the side doors.
 
 There is only one roof for this model. The standard is just a regular roof.

@@ -82,7 +82,12 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 ## Exterior
 
 El Volkswagen ID. Buzz Pro está disponible en un total de 12 colores de pintura, incluyendo opciones sólidas, metálicas y perladas.
-Adicionalmente, puedes elegir entre 5 ruedas con tamaños de 19 a 21 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Volkswagen ID. Buzz Pro, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 235/55 en llantas de 19" delanteras y neumáticos 255/50 en llantas de 19" traseras
+- Neumáticos 235/50 en llantas de 20" delanteras y neumáticos 265/45 en llantas de 20" traseras
+- Neumáticos 235/45 en llantas de 21" delanteras y neumáticos 255/40 en llantas de 21" traseras
 
 El automóvil tiene dos [puertas normales](../../../../technology/doors/) en la primera fila, [puertas corredizas](../../../../technology/doors/) en la segunda fila y un portón trasero. Las puertas eléctricas tienen un estándar función para las puertas laterales.
 

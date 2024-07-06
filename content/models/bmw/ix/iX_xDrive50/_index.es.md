@@ -79,6 +79,10 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 El BMW iX xDrive50, con dimensiones de 4953 mm de longitud, 1967 mm de anchura y 1696 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. Puedes elegir entre 9 colores de pintura diferentes al pedir este modelo.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el BMW iX xDrive50, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 255/50 en llantas de 22" delanteras y neumáticos 275/40 en llantas de 22" traseras
+
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). El cierre suave es la función un opcional para las puertas laterales.
 
 Puedes elegir entre dos tipos de techos en este modelo. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que Puede mejorar el estado de ánimo y la comodidad del ocupante. El cristal tiene una función electrocrómica que permite difuminar el cristal para protegerlo del sol

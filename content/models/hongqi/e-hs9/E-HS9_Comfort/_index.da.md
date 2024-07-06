@@ -78,7 +78,11 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 ## Udvendig
 
 Den Hongqi E-HS9 Comfort, med dimensioner på 5209 mm i længde, 2010 mm i bredde og 1713 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Hongqi E-HS9 Comfort fås i alt 6 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
-Derudover kan du vælge mellem 2 hjul med størrelser fra 21 til 22 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Hongqi E-HS9 Comfort, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 265/45 dæk on 21" fælge
+- 275/40 dæk on 22" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

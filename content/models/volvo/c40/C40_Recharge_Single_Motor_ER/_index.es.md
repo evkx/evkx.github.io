@@ -84,7 +84,11 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 ## Exterior
 
 El Volvo C40 Recharge Single Motor ER, con dimensiones de 4440 mm de longitud, 1873 mm de anchura y 1596 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El Volvo C40 Recharge Single Motor ER está disponible en un total de 9 colores de pintura, todos los cuales incluyen opciones metálicas y perladas.
-Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 19 a 20 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Volvo C40 Recharge Single Motor ER, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 235/50 en llantas de 19
+- Neumáticos 235/45 en llantas de 20
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 

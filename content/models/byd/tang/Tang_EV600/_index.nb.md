@@ -81,6 +81,10 @@ Den maksimale regenerative effekten er 200 kW.
 
 BYD Tang EV600, med dimensjoner på 4870 mm i lengde, 1950 mm i bredde og 1725 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. BYD Tang EV600 er tilgjengelig i totalt 5 ensfargede lakkfarger.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på BYD Tang EV600, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 265/40 dekk på 22" felger
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør at bilens interiør føles romsligere og lysere , som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.

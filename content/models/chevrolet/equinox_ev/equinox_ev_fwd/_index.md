@@ -74,7 +74,12 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 The Chevrolet Equinox EV FWD, with dimensions of 4867 mm in length, 1953 mm in width, and 1646 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Chevrolet Equinox EV FWD is available in a total of 8 paint colors, including solid, metallic, and pearlescent options.
-Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches.
+
+You can select from multiple wheel options in different sizes on the Chevrolet Equinox EV FWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 255/55 tires on 19" rims
+- 275/45 tires on 20" rims
+- 275/40 tires on 21" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

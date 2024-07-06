@@ -81,6 +81,10 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Smart #1, with dimensions of 4270 mm in length, 1822 mm in width, and 1636 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Smart #1 is available in a total of 6 paint colors, all of which include metallic and pearlescent options.
 
+You can select from multiple wheel designs, all available in the same size, on the Smart #1, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 245/40 tires on 19" rims
+
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.

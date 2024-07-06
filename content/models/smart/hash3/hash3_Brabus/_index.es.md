@@ -79,6 +79,10 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 El Smart #3 Brabus, con dimensiones de 4400 mm de longitud, 1844 mm de anchura y 1556 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El Smart #3 Brabus está disponible en un total de 6 colores de pintura, todos los cuales incluyen opciones metálicas y perladas.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Smart #3 Brabus, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 245/40 en llantas de 20
+
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
 Puedes elegir entre dos tipos de techos en este modelo. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.

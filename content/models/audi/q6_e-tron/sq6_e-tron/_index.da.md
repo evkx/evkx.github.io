@@ -105,7 +105,12 @@ Den maksimale regenerative effekt er 220 kW.
 Den Audi SQ6 e-tron, med dimensioner på 4771 mm i længde, 1939 mm i bredde og 1685 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Audi SQ6 e-tron fås i alt 56 lakfarver, herunder solide, metalliske og perlemorsmuligheder. Ud over standardpaletten er nogle farver fra den eksklusive 'Audi SQ6 e-tron' palette.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
-Derudover kan du vælge mellem 9 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Audi SQ6 e-tron, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 235/60 dæk på 19" fælge foran og 255/55 dæk på 19" fælge bagpå
+- 255/50 dæk på 20" fælge foran og 285/45 dæk på 20" fælge bagpå
+- 255/45 dæk på 21" fælge foran og 285/40 dæk på 21" fælge bagpå
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

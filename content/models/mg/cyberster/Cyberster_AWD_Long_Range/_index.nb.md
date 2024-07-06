@@ -75,6 +75,10 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 
 MG Cyberster AWD Long Range er tilgjengelig i totalt 7 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på MG Cyberster AWD Long Range, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 245/45 dekk på 19" felger foran og 275/40 dekk på 19" felger bak
+
 Bilen har to [saksedører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#bootlid) bak.
 
 Det er bare ett tak for denne modellen. Standardtaket er et stofftak topp som kan slås ned.

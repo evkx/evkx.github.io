@@ -78,7 +78,11 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 ## Exteriör
 
 Hongqi E-HS9 Premium, med dimensioner på 5209 mm i längd, 2010 mm i bredd och 1713 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Hongqi E-HS9 Premium finns i totalt 6 lackfärger, inklusive flera iögonfallande metalliska alternativ.
-Dessutom kan du välja mellan 2 hjul i storlek från 21 till 22 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Hongqi E-HS9 Premium, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 265/45 tires on 21" rims
+- 275/40 tires on 22" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' är standard-funktionen för sidodörrarna.
 

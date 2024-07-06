@@ -82,6 +82,9 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Rivian R1S Quad-Motor AWD, with dimensions of 5100 mm in length,  mm in width, and 1966 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Rivian R1S Quad-Motor AWD is available in a total of 9 paint colors, including several striking metallic options.
 
+You can select from multiple wheel designs, all available in the same size, on the Rivian R1S Quad-Motor AWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+
 The car has four [regular doors](../../../../technology/doors/) and a [split tailgate](../../../../technology/doors/#split-tailgate) where the bottom part falls and the top part lifts.
 
 There is only one roof for this model. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.

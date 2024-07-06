@@ -85,6 +85,10 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 Tesla Cybertruck Cyberbeast er tilgjengelig i totalt 3 ensfargede lakkfarger.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Tesla Cybertruck Cyberbeast, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 285/65 dekk på 20" felger
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#split-bakluke) der porten faller ned. Bakluken er elektrisk drevet.
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Glasset er tonet for å beskytte mot varme fra solen.

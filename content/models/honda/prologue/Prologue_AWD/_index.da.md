@@ -82,6 +82,10 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 Den Honda Prologue AWD, med dimensioner på 4877 mm i længde, 1989 mm i bredde og 1634 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Honda Prologue AWD fås i alt 7 lakfarver, herunder solide, metalliske og perlemorsmuligheder.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Honda Prologue AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 275/45 dæk on 21" fælge
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Du kan vælge mellem to typer tage på denne model. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen. Som ekstraudstyr kan du bestille denne model med panoramatag, der kan åbnes. Glasset har to paneler. Et over første og anden række, og beboerne kan åbne den forreste del. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.

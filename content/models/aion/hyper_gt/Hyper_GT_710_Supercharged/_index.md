@@ -74,7 +74,12 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 The Aion Hyper GT 710 Supercharged, with dimensions of 4886 mm in length, 1885 mm in width, and 1449 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Aion Hyper GT 710 Supercharged is available in a total of 5 paint colors, including several striking metallic options.
-Additionally, you can choose between 4 wheels with sizes from 17 to 19 inches.
+
+You can select from multiple wheel options in different sizes on the Aion Hyper GT 710 Supercharged, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 235/55 tires on 17" rims
+- 235/50 tires on 18" rims
+- 235/45 tires on 19" rims
 
 
 

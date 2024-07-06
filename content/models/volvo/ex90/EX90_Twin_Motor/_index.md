@@ -74,7 +74,11 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 The Volvo EX90 Twin Motor, with dimensions of 5037 mm in length, 1964 mm in width, and 1744 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Volvo EX90 Twin Motor is available in a total of 8 paint colors, including several striking metallic options.
-Additionally, you can choose between 2 wheels with sizes from 21 to 22 inches.
+
+You can select from multiple wheel options in different sizes on the Volvo EX90 Twin Motor, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 265/45 tires on 21" rims front and 295/45 tires on 21" rims rear
+- 265/40 tires on 22" rims front and 295/40 tires on 22" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Soft close is a standard function for the side doors.
 

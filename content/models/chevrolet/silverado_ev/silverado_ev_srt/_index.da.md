@@ -81,6 +81,10 @@ Den maksimale regenerative effekt er 400 kW.
 
 Chevrolet Silverado EV SRT fås i alt 1 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Chevrolet Silverado EV SRT, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 265/70 dæk on 18" fælge
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-bagklap), hvor lågen falder ned.
 
 Der er kun ét tag til denne model.

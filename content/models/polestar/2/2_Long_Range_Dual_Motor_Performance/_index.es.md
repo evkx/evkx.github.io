@@ -76,7 +76,11 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 ## Exterior
 
 El Polestar 2 Long Range Dual Motor Performance, con dimensiones de 4606 mm de longitud, 1859 mm de anchura y 1652 mm de altura, pertenece al segmento D de automóviles, también conocido como coches medianos o familiares. Estos coches ofrecen más espacio, comodidad y características que segmentos más pequeños, siendo adecuados para una variedad de conductores. El Polestar 2 Long Range Dual Motor Performance está disponible en un total de 6 colores de pintura, incluyendo varias opciones metálicas llamativas.
-Adicionalmente, puedes elegir entre 3 ruedas con tamaños de 19 a 20 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Polestar 2 Long Range Dual Motor Performance, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 245/45 en llantas de 19
+- Neumáticos 245/40 en llantas de 20
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 

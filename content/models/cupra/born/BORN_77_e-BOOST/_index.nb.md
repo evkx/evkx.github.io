@@ -78,7 +78,12 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 ## Eksteriør
 
 CUPRA BORN 77 e-BOOST, med dimensjoner på 4322 mm i lengde, 1809 mm i bredde og 1540 mm i høyde, tilhører C-segmentet av biler, også kjent som kompakte biler. Disse bilene oppnår en balanse mellom størrelse, ytelse og prisvennlighet, noe som gjør dem allsidige for ulike sjåfører. CUPRA BORN 77 e-BOOST er tilgjengelig i totalt 5 lakkfarger, inkludert både solide og metalliske alternativer.
-I tillegg kan du velge mellom 6 hjul med størrelser fra 18 til 20 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på CUPRA BORN 77 e-BOOST, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 215/55 dekk på 18" felger
+- 215/50 dekk på 19" felger
+- 215/45 dekk på 20" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

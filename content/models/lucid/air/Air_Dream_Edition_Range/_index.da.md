@@ -78,7 +78,12 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 ## Udvendig
 
 Den Lucid Air Dream Edition Range, med dimensioner på 4975 mm i længde, 1939 mm i bredde og 1410 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Du kan vælge mellem 4 forskellige malingsfarver, når du bestiller denne model.
-Derudover kan du vælge mellem 6 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Lucid Air Dream Edition Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 245/45 dæk on 19" fælge
+- 245/40 dæk på 20" fælge foran og 265/40 dæk på 20" fælge bagpå
+- 245/40 dæk på 21" fælge foran og 265/40 dæk på 21" fælge bagpå
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet.
 

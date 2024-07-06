@@ -78,7 +78,11 @@ Hyundai Kona Long Range har et forhjulsdriftssystem støttet av én motor på fo
 ## Eksteriør
 
 Hyundai Kona Long Range, med dimensjoner på 4355 mm i lengde, 1825 mm i bredde og 1575 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Hyundai Kona Long Range tilbyr et utvalg av 21 lakkfarger, inkludert ensfargede, metalliske, perlemors- og matte alternativer.
-I tillegg kan du velge mellom 2 hjul med størrelser fra 17 til 19 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Hyundai Kona Long Range, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 215/60 dekk på 17" felger
+- 235/45 dekk på 19" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 

@@ -88,7 +88,12 @@ La puissance régénérative maximale est de 275 kW.
 La Porsche Taycan Turbo S, avec des dimensions de 4963 mm de longueur, 1966 mm de largeur et 1381 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. La Porsche Taycan Turbo S est disponible en un total de 17 couleurs de peinture, comprenant des options à la fois solides et métalliques.
 
 Vous pouvez également choisir plusieurs options de style pour rendre votre voiture plus unique.
-De plus, vous pouvez choisir entre 8 roues avec des tailles allant de 19 à 21 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Porsche Taycan Turbo S, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 225/55 sur jantes de 19" à l'avant et pneus 275/45 sur jantes de 19" à l'arrière
+- Pneus 245/45 sur jantes de 20" à l'avant et pneus 285/40 sur jantes de 20" à l'arrière
+- Pneus 265/35 sur jantes de 21" à l'avant et pneus 305/30 sur jantes de 21" à l'arrière
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

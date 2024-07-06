@@ -81,6 +81,10 @@ The maximum regenerative power is 200 kW.
 
 The BYD Seal AWD, with dimensions of 4800 mm in length, 1875 mm in width, and 1460 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. The BYD Seal AWD is available in a total of 6 solid paint colors.
 
+You can select from multiple wheel designs, all available in the same size, on the BYD Seal AWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 265/40 tires on 22" rims
+
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.

@@ -78,7 +78,11 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 The Nissan Ariya 63kWh, with dimensions of 4595 mm in length, 1850 mm in width, and 1660 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Nissan Ariya 63kWh is available in a total of 9 paint colors, including solid, metallic, and pearlescent options. Some of these paint options include two-tone paints where the roof and upper part of the body are painted in a different color, providing a distinctive and stylish look.
-Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches.
+
+You can select from multiple wheel options in different sizes on the Nissan Ariya 63kWh, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 235/55 tires on 19" rims
+- 255/45 tires on 20" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

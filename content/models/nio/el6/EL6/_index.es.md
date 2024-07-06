@@ -95,7 +95,11 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 ## Exterior
 
 El Nio EL6, con dimensiones de 4854 mm de longitud, 1995 mm de anchura y 1703 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El Nio EL6 está disponible en un total de 7 colores de pintura sólidos.
-Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 20 a 21 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Nio EL6, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 255/50 en llantas de 20
+- Neumáticos 255/45 en llantas de 21
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). El cierre suave es la función un estándar para las puertas laterales.
 

@@ -78,7 +78,12 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 ## Exterior
 
 El Xiaomi SU7 Max, con dimensiones de 4997 mm de longitud, 1963 mm de anchura y 1440 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. El Xiaomi SU7 Max está disponible en un total de 9 colores de pintura, incluyendo varias opciones metálicas llamativas.
-Adicionalmente, puedes elegir entre 4 ruedas con tamaños de 19 a 21 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Xiaomi SU7 Max, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 245/45 en llantas de 19
+- Neumáticos 245/40 en llantas de 20" delanteras y neumáticos 265/40 en llantas de 20" traseras
+- Neumáticos 245/35 en llantas de 21" delanteras y neumáticos 265/35 en llantas de 21" traseras
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero. El cierre suave es la función un estándar para las puertas laterales.
 

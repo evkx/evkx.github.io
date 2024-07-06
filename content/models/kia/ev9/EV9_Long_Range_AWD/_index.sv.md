@@ -76,7 +76,12 @@ Den maximala regenerativa effekten är 150 kW.
 ## Exteriör
 
 Kia EV9 Long Range AWD, med dimensioner på 5010 mm i längd, 1980 mm i bredd och 1755 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Du kan välja mellan 7 olika färgfärger när du beställer den här modellen.
-Dessutom kan du välja mellan 3 hjul i storlek från 19 till 21 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Kia EV9 Long Range AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 235/55 tires on 19" rims
+- 255/45 tires on 20" rims
+- 285/45 tires on 21" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 

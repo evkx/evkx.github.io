@@ -80,7 +80,11 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 ## Exterior
 
 El Lotus Emeya, con dimensiones de 5139 mm de longitud, 2005 mm de anchura y 1464 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. El Lotus Emeya está disponible en un total de 6 colores de pintura, incluyendo varias opciones metálicas llamativas. Algunas de estas opciones de pintura incluyen pinturas de dos tonos, donde el techo y la parte superior de la carrocería están pintados en un color diferente, proporcionando un aspecto distintivo y elegante.
-Adicionalmente, puedes elegir entre 6 ruedas con tamaños de 20 a 21 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Lotus Emeya, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 245/45 en llantas de 20" delanteras y neumáticos 285/40 en llantas de 20" traseras
+- Neumáticos 265/40 en llantas de 21" delanteras y neumáticos 305/35 en llantas de 21" traseras
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 

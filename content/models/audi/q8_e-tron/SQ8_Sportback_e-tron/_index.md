@@ -96,7 +96,11 @@ The Audi SQ8 Sportback e-tron, with dimensions of 4901 mm in length, 1935 mm in 
 The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
 
 
-Additionally, you can choose between 4 wheels with sizes from 20 to 22 inches.
+
+You can select from multiple wheel options in different sizes on the Audi SQ8 Sportback e-tron, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 285/45 tires on 20" rims
+- 285/40 tires on 21" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Soft close is an optional function for the side doors.
 

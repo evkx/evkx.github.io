@@ -81,6 +81,9 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 Rivian R1T Performance Dual-Motor AWD LP er tilgjengelig i totalt 9 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Rivian R1T Performance Dual-Motor AWD LP, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#split-bakluke) der porten faller ned. Bakluken er elektrisk drevet.
 
 Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.

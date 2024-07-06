@@ -80,7 +80,11 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 ## Exterior
 
 The Lotus Emeya R, with dimensions of 5139 mm in length, 2005 mm in width, and 1464 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. The Lotus Emeya R is available in a total of 6 paint colors, including several striking metallic options. Some of these paint options include two-tone paints where the roof and upper part of the body are painted in a different color, providing a distinctive and stylish look.
-Additionally, you can choose between 11 wheels with sizes from 21 to 22 inches.
+
+You can select from multiple wheel options in different sizes on the Lotus Emeya R, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 265/40 tires on 21" rims front and 305/35 tires on 21" rims rear
+- 265/35 tires on 22" rims front and 305/30 tires on 22" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

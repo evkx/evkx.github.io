@@ -76,7 +76,12 @@ La potencia regenerativa máxima es de 150 kW.
 ## Exterior
 
 El Kia EV9 Long Range RWD, con dimensiones de 5010 mm de longitud, 1980 mm de anchura y 1755 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. Puedes elegir entre 7 colores de pintura diferentes al pedir este modelo.
-Adicionalmente, puedes elegir entre 3 ruedas con tamaños de 19 a 21 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Kia EV9 Long Range RWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 235/55 en llantas de 19
+- Neumáticos 255/45 en llantas de 20
+- Neumáticos 285/45 en llantas de 21
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 

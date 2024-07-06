@@ -74,7 +74,11 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 The Volvo EX30 Single Motor, with dimensions of 4233 mm in length, 1837 mm in width, and 1549 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Volvo EX30 Single Motor is available in a total of 5 paint colors, all of which include metallic and pearlescent options.
-Additionally, you can choose between 2 wheels with sizes from 18 to 20 inches.
+
+You can select from multiple wheel options in different sizes on the Volvo EX30 Single Motor, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 225/55 tires on 18" rims
+- 235/45 tires on 20" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

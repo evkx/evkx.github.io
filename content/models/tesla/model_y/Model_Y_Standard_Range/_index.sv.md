@@ -110,7 +110,12 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 ## Exteriör
 
 Tesla Model Y Standard Range, med dimensioner på 4751 mm i längd, 1921 mm i bredd och 1624 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Tesla Model Y Standard Range finns i totalt 5 lackfärger, inklusive både solida och metalliska alternativ.
-Dessutom kan du välja mellan 3 hjul i storlek från 19 till 21 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Tesla Model Y Standard Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 255/45 tires on 19" rims
+- 255/40 tires on 20" rims
+- 255/35 däck på 21" fälgar fram och 275/35 däck på 21" fälgar bak
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

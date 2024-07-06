@@ -78,7 +78,12 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 ## Exteriör
 
 BMW i7 eDrive50, med dimensioner på 5391 mm i längd, 1950 mm i bredd och 1544 mm i höjd, tillhör F-segmentet av bilar, även kallat lyxbilar eller fullstora lyxbilar. De representerar toppen av bilens lyx, prestanda och teknologi. De är vanligtvis stora sedaner eller limousiner designade för att erbjuda det bästa inom komfort, prestige och avancerade funktioner. Du kan välja mellan 12 olika färgfärger när du beställer den här modellen.
-Dessutom kan du välja mellan 8 hjul i storlek från 19 till 21 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på BMW i7 eDrive50, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 245/50 tires on 19" rims
+- 255/45 däck på 20" fälgar fram och 285/40 däck på 20" fälgar bak
+- 255/40 däck på 21" fälgar fram och 285/35 däck på 21" fälgar bak
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet. 'Soft Close' är valfritt-funktionen för sidodörrarna.
 

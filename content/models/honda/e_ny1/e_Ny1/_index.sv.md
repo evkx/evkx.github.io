@@ -75,6 +75,9 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 Honda e:Ny1, med dimensioner på 4390 mm i längd, 1790 mm i bredd och  mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Du kan välja mellan 1 olika färgfärger när du beställer den här modellen.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Honda e:Ny1, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+
 
 
 Det finns bara ett tak för denna modell.

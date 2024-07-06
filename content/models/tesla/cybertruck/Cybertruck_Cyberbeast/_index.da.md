@@ -85,6 +85,10 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 Tesla Cybertruck Cyberbeast fås i alt i 3 ensfarvede lakfarver.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Tesla Cybertruck Cyberbeast, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 285/65 dæk on 20" fælge
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#split-bagklap), hvor lågen falder ned. Bagklappen er elektrisk drevet.
 
 Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Glasset er tonet for at beskytte mod varme fra solen.

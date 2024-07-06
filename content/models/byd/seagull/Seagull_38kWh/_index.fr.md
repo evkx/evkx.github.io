@@ -81,6 +81,10 @@ La puissance régénérative maximale est de 200 kW.
 
 La BYD Seagull 38kWh, avec des dimensions de 3780 mm de longueur, 1715 mm de largeur et 1540 mm de hauteur, appartient au segment des voitures mini, également connues sous le nom de voitures citadines ou voitures du segment A. Elles sont la plus petite classe de voitures, conçues principalement pour les environnements urbains et offrent une taille compacte, une excellente maniabilité et un fonctionnement économique. La BYD Seagull 38kWh est disponible en un total de 4 couleurs de peinture unies.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'BYD Seagull 38kWh, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 235/50 sur jantes de 17"
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 
 Il n'y a qu'un seul toit pour ce modèle. Le standard est juste un toit ordinaire.

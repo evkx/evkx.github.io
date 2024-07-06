@@ -75,6 +75,10 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 Zeekr 007 AWD Performance, med dimensioner på 4865 mm i längd, 1900 mm i bredd och 1450 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Zeekr 007 AWD Performance finns i totalt 4 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Zeekr 007 AWD Performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 265/40 tires on 22" rims
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate). Elektriska dörrar är standard funktion för sidodörrarna.
 
 Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som spänner över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humör och komfort för den boende. Glaset är tonat för att skydda mot värme från solen.

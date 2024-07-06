@@ -86,7 +86,12 @@ La potencia regenerativa máxima es de 275 kW.
 El Porsche Taycan Turbo (GEN1), con dimensiones de 4963 mm de longitud, 1966 mm de anchura y 1381 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. El Porsche Taycan Turbo (GEN1) está disponible en un total de 17 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
-Adicionalmente, puedes elegir entre 8 ruedas con tamaños de 19 a 21 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Porsche Taycan Turbo (GEN1), lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 225/55 en llantas de 19" delanteras y neumáticos 275/45 en llantas de 19" traseras
+- Neumáticos 245/45 en llantas de 20" delanteras y neumáticos 285/40 en llantas de 20" traseras
+- Neumáticos 265/35 en llantas de 21" delanteras y neumáticos 305/30 en llantas de 21" traseras
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

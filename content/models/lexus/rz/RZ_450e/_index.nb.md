@@ -78,7 +78,11 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 ## Eksteriør
 
 Lexus RZ 450e, med dimensjoner på 4805 mm i lengde, 1860 mm i bredde og 1635 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Du kan velge mellom 1 forskjellige lakkfarger når du bestiller denne modellen.
-I tillegg kan du velge mellom 2 hjul med størrelser fra 18 til 20 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Lexus RZ 450e, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 235/60 dekk på 18" felger foran og 255/55 dekk på 18" felger bak
+- 235/50 dekk på 20" felger foran og 255/45 dekk på 20" felger bak
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 

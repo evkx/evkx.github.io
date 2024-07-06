@@ -95,7 +95,11 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 ## Exteriör
 
 Nio ET7, med dimensioner på 5101 mm i längd, 1987 mm i bredd och 1509 mm i höjd, tillhör F-segmentet av bilar, även kallat lyxbilar eller fullstora lyxbilar. De representerar toppen av bilens lyx, prestanda och teknologi. De är vanligtvis stora sedaner eller limousiner designade för att erbjuda det bästa inom komfort, prestige och avancerade funktioner. Nio ET7 finns i totalt 7 enfärgade lackfärger.
-Dessutom kan du välja mellan 2 hjul i storlek från 20 till 21 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Nio ET7, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 255/50 tires on 20" rims
+- 255/45 tires on 21" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' är standard-funktionen för sidodörrarna.
 

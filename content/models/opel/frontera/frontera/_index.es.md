@@ -79,8 +79,12 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 ## Exterior
 
-El Opel Frontera, con dimensiones de 4385 mm de longitud, 1795 mm de anchura y 1635 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El Opel Frontera está disponible en un total de 5 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
-Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 16 a 17 pulgadas.
+El Opel Frontera, con dimensiones de 4385 mm de longitud, 1795 mm de anchura y 1635 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El Opel Frontera está disponible en un total de 12 colores de pintura, incluyendo opciones tanto sólidas como metálicas. Algunas de estas opciones de pintura incluyen pinturas de dos tonos, donde el techo está pintado en un color diferente, proporcionando un aspecto distintivo y elegante.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Opel Frontera, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 205/55 en llantas de 16
+- Neumáticos 205/50 en llantas de 17
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

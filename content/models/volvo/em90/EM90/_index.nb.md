@@ -74,7 +74,11 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 ## Eksteriør
 
 Volvo EM90 er tilgjengelig i totalt 3 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
-I tillegg kan du velge mellom 2 hjul med størrelser fra 19 til 20 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volvo EM90, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 255/50 dekk på 19" felger
+- 255/45 dekk på 20" felger
 
 Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [skyvedører](../../../../technology/doors/) i andre rad og en bakluke. Elektriske dører er standard funksjon for sidedørene.
 

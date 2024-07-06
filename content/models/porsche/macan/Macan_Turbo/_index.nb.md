@@ -82,7 +82,12 @@ Den maksimale regenerative effekten er 275 kW.
 Porsche Macan Turbo, med dimensjoner på 4784 mm i lengde, 1938 mm i bredde og 1622 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Porsche Macan Turbo er tilgjengelig i totalt 13 lakkfarger, inkludert både solide og metalliske alternativer.
 
 Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
-I tillegg kan du velge mellom 8 hjul med størrelser fra 20 til 22 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Porsche Macan Turbo, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 235/55 dekk på 20" felger foran og 285/45 dekk på 20" felger bak
+- 245/45 dekk på 21" felger foran og 295/40 dekk på 21" felger bak
+- 255/40 dekk på 22" felger foran og 295/35 dekk på 22" felger bak
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

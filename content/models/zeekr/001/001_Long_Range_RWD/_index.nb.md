@@ -79,6 +79,10 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 Zeekr 001 Long Range RWD, med dimensjoner på 4955 mm i lengde, 1999 mm i bredde og 1560 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Zeekr 001 Long Range RWD er tilgjengelig i totalt 4 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Zeekr 001 Long Range RWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 255/45 dekk på 21" felger
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg over de fleste områder fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humør og komfort for beboeren. Glasset er tonet for å beskytte mot varme fra solen.

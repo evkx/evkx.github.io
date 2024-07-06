@@ -74,7 +74,11 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 ## Eksteriør
 
 Fiat 600e, med dimensjoner på 4171 mm i lengde, 1781 mm i bredde og 1523 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Fiat 600e er tilgjengelig i totalt 5 ensfargede lakkfarger.
-I tillegg kan du velge mellom 5 hjul med størrelser fra 17 til 18 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Fiat 600e, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 215/60 dekk på 17" felger
+- 215/55 dekk på 18" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

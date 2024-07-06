@@ -74,7 +74,11 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 ## Extérieur
 
 La Volvo EM90 est disponible en un total de 3 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
-De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 19 à 20 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Volvo EM90, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 255/50 sur jantes de 19"
+- Pneus 255/45 sur jantes de 20"
 
 La voiture a deux [portes ordinaires](../../../../technology/doors/) dans la première rangée, [portes coulissantes](../../../../technology/doors/) en deuxième rangée et un hayon. Les portes motorisées sont une fonction un standard pour les portes latérales.
 

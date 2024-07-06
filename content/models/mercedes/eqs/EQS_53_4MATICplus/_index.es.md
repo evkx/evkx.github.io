@@ -86,7 +86,11 @@ La potencia regenerativa máxima es de 300 kW.
 ## Exterior
 
 El Mercedes-AMG EQS 53 4MATIC+, con dimensiones de 5223 mm de longitud, 1926 mm de anchura y 1520 mm de altura, pertenece al segmento F de automóviles, también conocido como coches de lujo o de lujo de tamaño completo. Representan la cúspide del lujo automotriz, rendimiento y tecnología. Típicamente son grandes sedanes o limusinas diseñados para ofrecer lo máximo en confort, prestigio y características avanzadas. El Mercedes-AMG EQS 53 4MATIC+ ofrece una selección de 11 colores de pintura, que incluyen opciones sólidas, metálicas y mate. Además de la paleta estándar, hay colores exclusivos disponibles en la paleta 'MANUFAKTUR'.
-Adicionalmente, puedes elegir entre 4 ruedas con tamaños de 21 a 22 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Mercedes-AMG EQS 53 4MATIC+, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 265/40 en llantas de 21" delanteras y neumáticos 295/35 en llantas de 21" traseras
+- Neumáticos 265/35 en llantas de 22" delanteras y neumáticos 295/30 en llantas de 22" traseras
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

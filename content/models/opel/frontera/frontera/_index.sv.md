@@ -79,8 +79,12 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 ## Exteriör
 
-Opel Frontera, med dimensioner på 4385 mm i längd, 1795 mm i bredd och 1635 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Opel Frontera finns i totalt 5 lackfärger, inklusive både solida och metalliska alternativ.
-Dessutom kan du välja mellan 2 hjul i storlek från 16 till 17 tum.
+Opel Frontera, med dimensioner på 4385 mm i längd, 1795 mm i bredd och 1635 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Opel Frontera finns i totalt 12 lackfärger, inklusive både solida och metalliska alternativ. Vissa av dessa lackalternativ inkluderar tvåtonslack där taket är målat i en annan färg, vilket ger ett distinkt och stiligt utseende.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Opel Frontera, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 205/55 tires on 16" rims
+- 205/50 tires on 17" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

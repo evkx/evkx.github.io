@@ -80,7 +80,11 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 ## Eksteriør
 
 Peugot E-5008 Long Range, med dimensjoner på 4791 mm i lengde, 1895 mm i bredde og 1694 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Peugot E-5008 Long Range er tilgjengelig i totalt 6 lakkfarger, inkludert både solide og metalliske alternativer.
-I tillegg kan du velge mellom 2 hjul med størrelser fra 19 til 20 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Peugot E-5008 Long Range, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 235/55 dekk på 19" felger
+- 235/50 dekk på 20" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

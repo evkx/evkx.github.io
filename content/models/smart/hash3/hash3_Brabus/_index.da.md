@@ -79,6 +79,10 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 Den Smart #3 Brabus, med dimensioner på 4400 mm i længde, 1844 mm i bredde og 1556 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Smart #3 Brabus fås i alt 6 lakfarver, som alle inkluderer metalliske og perlemorsmuligheder.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Smart #3 Brabus, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 245/40 dæk on 20" fælge
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 
 Du kan vælge mellem to typer tage på denne model. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen.

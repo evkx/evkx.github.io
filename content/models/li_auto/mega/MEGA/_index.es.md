@@ -83,6 +83,10 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 El Li Auto MEGA está disponible en un total de 4 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Li Auto MEGA, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 245/60 en llantas de 18
+
 El automóvil tiene dos [puertas normales](../../../../technology/doors/) en la primera fila, [puertas corredizas](../../../../technology/doors/) en la segunda fila y un portón trasero. Las puertas eléctricas tienen un estándar función para las puertas laterales.
 
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende sobre la mayoría de las áreas desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar la estado de ánimo y comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.

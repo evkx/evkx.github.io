@@ -72,7 +72,12 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 ## Exteriör
 
 Mini Cooper SE, med dimensioner på 3900 mm i längd, 1750 mm i bredd och 1450 mm i höjd, tillhör B-segmentet av bilar, även kallat supermini. Det är en liten bil som vanligtvis passar bra för stadskörning och erbjuder en bra balans mellan effektivitet, storlek och kostnad. Mini Cooper SE finns i totalt 10 lackfärger, inklusive både solida och metalliska alternativ.
-Dessutom kan du välja mellan 3 hjul i storlek från 16 till 18 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Mini Cooper SE, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 215/55 tires on 16" rims
+- 205/50 tires on 17" rims
+- 225/40 tires on 18" rims
 
 
 

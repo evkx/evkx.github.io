@@ -86,7 +86,12 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 ## Udvendig
 
 Maserati GranCabrio Folgore fås i alt 8 lakfarver, herunder både solide og metalliske muligheder.
-Derudover kan du vælge mellem 3 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Maserati GranCabrio Folgore, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 255/50 dæk on 19" fælge
+- 255/45 dæk på 20" fælge foran og 295/40 dæk på 20" fælge bagpå
+- 255/40 dæk på 21" fælge foran og 295/35 dæk på 21" fælge bagpå
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

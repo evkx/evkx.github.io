@@ -74,7 +74,11 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ## Exterior
 
 The Peugot E-308, with dimensions of 4367 mm in length, 1852 mm in width, and 1441 mm in height, falls into the C-segment cars, also known as compact cars, strike a balance between size, performance, and affordability, making them versatile for a variety of drivers. The Peugot E-308 is available in a total of 6 paint colors, including several striking metallic options.
-Additionally, you can choose between 5 wheels with sizes from 17 to 18 inches.
+
+You can select from multiple wheel options in different sizes on the Peugot E-308, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 215/60 tires on 17" rims
+- 215/55 tires on 18" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

@@ -75,6 +75,10 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 Den Peugot E-308 SW, med dimensioner på 4636 mm i længde, 1859 mm i bredde og 1442 mm i højde, tilhører D-segmentet af biler, også kendt som mellemstore eller familiebiler. Disse biler tilbyder mere plads, komfort og funktioner end mindre segmenter og er velegnede til forskellige førere. Peugot E-308 SW fås i alt 6 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Peugot E-308 SW, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 215/45 dæk på 18" fælge foran og 215/45 dæk på 18" fælge bagpå
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Du kan vælge mellem to typer tage på denne model. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset strækker det meste af taget, og beboerne kan åbne den forreste del. Dette glas gør bilens interiøret føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.

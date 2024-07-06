@@ -78,7 +78,12 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 ## Exteriör
 
 Ford F150 Lightning Standard Range finns i totalt 6 lackfärger, inklusive både solida och metalliska alternativ.
-Dessutom kan du välja mellan 3 hjul i storlek från 18 till 22 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Ford F150 Lightning Standard Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 265/70 tires on 18" rims
+- 275/60 tires on 20" rims
+- 285/45 tires on 22" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka](../../../../technology/doors/#split-baklucka) där grinden faller ner.
 

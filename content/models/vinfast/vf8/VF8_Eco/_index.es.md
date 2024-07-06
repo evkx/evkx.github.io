@@ -84,6 +84,10 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 El VinFast VF8 Eco, con dimensiones de 4750 mm de longitud, 1934 mm de anchura y 1667 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El VinFast VF8 Eco está disponible en un total de 8 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el VinFast VF8 Eco, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 245/50 en llantas de 19
+
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.

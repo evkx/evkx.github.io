@@ -86,7 +86,12 @@ La potencia regenerativa máxima es de 186 kW.
 El Mercedes-EQ EQE 500 4MATIC, con dimensiones de 4946 mm de longitud, 1961 mm de anchura y 1510 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. El Mercedes-EQ EQE 500 4MATIC ofrece una selección de 11 colores de pintura, que incluyen opciones sólidas, metálicas y mate. Además de la paleta estándar, hay colores exclusivos disponibles en la paleta 'MANUFAKTUR'.
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
-Adicionalmente, puedes elegir entre 13 ruedas con tamaños de 19 a 21 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Mercedes-EQ EQE 500 4MATIC, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 235/50 en llantas de 19
+- Neumáticos 265/35 en llantas de 21" delanteras y neumáticos 295/30 en llantas de 21" traseras
+- Neumáticos 265/40 en llantas de 20" delanteras y neumáticos 295/35 en llantas de 20" traseras
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero.
 

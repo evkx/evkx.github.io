@@ -109,7 +109,12 @@ You can also choose several styling options to make your car more unique.
 The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
 
 
-Additionally, you can choose between 10 wheels with sizes from 19 to 22 inches.
+
+You can select from multiple wheel options in different sizes on the Audi e-tron 55, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 255/55 tires on 19" rims
+- 255/50 tires on 20" rims
+- 265/45 tires on 21" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate). Soft close is an optional function for the side doors.
 

@@ -74,7 +74,12 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 ## Exteriör
 
 Aion Hyper GT 710 Supercharged, med dimensioner på 4886 mm i längd, 1885 mm i bredd och 1449 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Aion Hyper GT 710 Supercharged finns i totalt 5 lackfärger, inklusive flera iögonfallande metalliska alternativ.
-Dessutom kan du välja mellan 4 hjul i storlek från 17 till 19 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Aion Hyper GT 710 Supercharged, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 235/55 tires on 17" rims
+- 235/50 tires on 18" rims
+- 235/45 tires on 19" rims
 
 
 

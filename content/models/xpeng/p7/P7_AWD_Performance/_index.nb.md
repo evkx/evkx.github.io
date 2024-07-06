@@ -75,6 +75,10 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 XPENG P7 AWD Performance, med dimensjoner på 4888 mm i lengde, 1896 mm i bredde og 1450 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på XPENG P7 AWD Performance, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 245/45 dekk på 19" felger
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.

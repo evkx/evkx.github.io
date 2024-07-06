@@ -86,7 +86,11 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 Den Mercedes-AMG EQE 53 4MATIC+, med dimensioner på 4964 mm i længde, 1961 mm i bredde og 1492 mm i højde, tilhører E-segmentet af biler, også kendt som executive biler. De er større og mere luksuriøse end deres D-segment modparter. De er designet til at tilbyde overlegen komfort, avanceret teknologi og høj ydelse, hvilket gør dem velegnede til en specifik gruppe førere. Mercedes-AMG EQE 53 4MATIC+ tilbyder et udvalg af 11 lakfarver, herunder ensfarvede, metalliske og matte muligheder. Ved siden af standardpaletten er der eksklusive farver tilgængelige fra 'MANUFAKTUR'-paletten.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
-Derudover kan du vælge mellem 4 hjul med størrelser fra 20 til 21 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Mercedes-AMG EQE 53 4MATIC+, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 265/40 dæk på 20" fælge foran og 295/35 dæk på 20" fælge bagpå
+- 265/35 dæk på 21" fælge foran og 295/30 dæk på 21" fælge bagpå
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet.
 

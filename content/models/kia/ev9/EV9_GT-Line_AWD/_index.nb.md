@@ -76,7 +76,12 @@ Den maksimale regenerative effekten er 150 kW.
 ## Eksteriør
 
 Kia EV9 GT-Line AWD, med dimensjoner på 5010 mm i lengde, 1980 mm i bredde og 1755 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Du kan velge mellom 7 forskjellige lakkfarger når du bestiller denne modellen.
-I tillegg kan du velge mellom 3 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Kia EV9 GT-Line AWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 235/55 dekk på 19" felger
+- 255/45 dekk på 20" felger
+- 285/45 dekk på 21" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 

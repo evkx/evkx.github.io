@@ -76,7 +76,11 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 ## Udvendig
 
 Den Dacia Spring 65HP, med dimensioner på 3701 mm i længde, 1622 mm i bredde og 1519 mm i højde, tilhører mini-segmentet af biler, også kendt som bybiler eller A-segment biler. Det er den mindste klasse af biler, designet primært til bymiljøer og tilbyder en kompakt størrelse, fremragende manøvredygtighed og økonomisk drift. Dacia Spring 65HP fås i alt i 6 ensfarvede lakfarver.
-Derudover kan du vælge mellem 2 hjul med størrelser fra 14 til 15 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Dacia Spring 65HP, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 165/70 dæk on 14" fælge
+- 175/60 dæk on 15" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

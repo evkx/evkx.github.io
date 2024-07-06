@@ -76,7 +76,12 @@ Den maksimale regenerative effekt er 150 kW.
 ## Udvendig
 
 Den Kia EV9 RWD, med dimensioner på 5010 mm i længde, 1980 mm i bredde og 1755 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Du kan vælge mellem 7 forskellige malingsfarver, når du bestiller denne model.
-Derudover kan du vælge mellem 3 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Kia EV9 RWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 235/55 dæk on 19" fælge
+- 255/45 dæk on 20" fælge
+- 285/45 dæk on 21" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 

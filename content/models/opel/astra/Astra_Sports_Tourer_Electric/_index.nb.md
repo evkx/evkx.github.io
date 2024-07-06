@@ -75,6 +75,10 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 
 Opel Astra Sports Tourer Electric, med dimensjoner på 4642 mm i lengde, 1860 mm i bredde og 1480 mm i høyde, tilhører D-segmentet av biler, også kjent som mellomstore eller familiebiler. Disse bilene tilbyr mer plass, komfort og funksjoner enn mindre segmenter, noe som gjør dem egnet for ulike sjåfører. Opel Astra Sports Tourer Electric er tilgjengelig i totalt 7 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Opel Astra Sports Tourer Electric, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 215/45 dekk på 18" felger foran og 215/45 dekk på 18" felger bak
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør bilens interiøret føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.

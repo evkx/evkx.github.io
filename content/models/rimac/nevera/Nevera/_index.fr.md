@@ -94,6 +94,10 @@ La puissance régénérative maximale est de 400 kW.
 
 La Rimac Nevera est disponible en un total de 5 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Rimac Nevera, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 275/35 sur jantes de 20" à l'avant et pneus 315/35 sur jantes de 20" à l'arrière
+
 
 
 Il n'y a qu'un seul toit pour ce modèle.

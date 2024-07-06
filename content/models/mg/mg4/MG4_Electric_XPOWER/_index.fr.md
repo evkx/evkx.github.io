@@ -79,6 +79,9 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 La MG MG4 Electric XPOWER, avec des dimensions de 4287 mm de longueur, 1836 mm de largeur et 1504 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. La MG MG4 Electric XPOWER est disponible en un total de 7 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'MG MG4 Electric XPOWER, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+
 
 
 Il n'y a qu'un seul toit pour ce modèle. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliore l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.

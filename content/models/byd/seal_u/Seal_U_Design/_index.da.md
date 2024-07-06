@@ -87,6 +87,10 @@ Den maksimale regenerative effekt er 200 kW.
 
 Den BYD Seal U Design, med dimensioner på 4785 mm i længde, 1890 mm i bredde og 1668 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. BYD Seal U Design fås i alt i 6 ensfarvede lakfarver.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på BYD Seal U Design, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 235/50 dæk on 19" fælge
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet.
 
 Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset strækker sig over det meste af taget, og passagererne kan åbne den forreste del. Dette glas får bilens interiør til at føles mere rummeligt og lyst. , som kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.

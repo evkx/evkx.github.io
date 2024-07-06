@@ -89,7 +89,11 @@ The Mercedes-AMG EQS 53 4MATIC+, with dimensions of 5223 mm in length, 1926 mm i
 The optional AMG Night Package finishes selected exterior elements in high-gloss black. Depending on the chosen paint color – this results in either strong contrasts or flowing transitions. 
 
 
-Additionally, you can choose between 4 wheels with sizes from 21 to 22 inches.
+
+You can select from multiple wheel options in different sizes on the Mercedes-AMG EQS 53 4MATIC+, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 265/40 tires on 21" rims front and 295/35 tires on 21" rims rear
+- 265/35 tires on 22" rims front and 295/30 tires on 22" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

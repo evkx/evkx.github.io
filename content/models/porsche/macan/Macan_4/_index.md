@@ -91,7 +91,12 @@ The optional SportDesign package contains a specially designed upper part front 
 The optional SportDesign package HighGloss black contains a specially designed upper part front apron, specially designed side skirts in Black with inlays painted in Black (high-gloss), specially designed rear diffusor in Black with side fins painted in Black (high-gloss),front licence plate carrier painted in exterior color. 
 
 
-Additionally, you can choose between 8 wheels with sizes from 20 to 22 inches.
+
+You can select from multiple wheel options in different sizes on the Porsche Macan 4, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 235/55 tires on 20" rims front and 285/45 tires on 20" rims rear
+- 245/45 tires on 21" rims front and 295/40 tires on 21" rims rear
+- 255/40 tires on 22" rims front and 295/35 tires on 22" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

@@ -84,7 +84,12 @@ Den maximala regenerativa effekten är 116 kW.
 ## Exteriör
 
 BMW i5 M60 xDrive, med dimensioner på 5060 mm i längd, 1900 mm i bredd och 1505 mm i höjd, tillhör F-segmentet av bilar, även kallat lyxbilar eller fullstora lyxbilar. De representerar toppen av bilens lyx, prestanda och teknologi. De är vanligtvis stora sedaner eller limousiner designade för att erbjuda det bästa inom komfort, prestige och avancerade funktioner. BMW i5 M60 xDrive finns i totalt 12 lackfärger, inklusive flera iögonfallande metalliska alternativ.
-Dessutom kan du välja mellan 8 hjul i storlek från 19 till 21 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på BMW i5 M60 xDrive, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 245/50 tires on 19" rims
+- 255/45 däck på 20" fälgar fram och 285/40 däck på 20" fälgar bak
+- 255/40 däck på 21" fälgar fram och 285/35 däck på 21" fälgar bak
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet. 'Soft Close' är valfritt-funktionen för sidodörrarna.
 

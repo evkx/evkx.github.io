@@ -81,6 +81,10 @@ The maximum regenerative power is 200 kW.
 
 The BYD Seagull 38kWh, with dimensions of 3780 mm in length, 1715 mm in width, and 1540 mm in height, falls into the Mini-segment cars, often referred to as city cars or A-segment cars, are the smallest class of cars. They are designed primarily for urban environments and offer a compact size, excellent maneuverability, and economical operation. . The BYD Seagull 38kWh is available in a total of 4 solid paint colors.
 
+You can select from multiple wheel designs, all available in the same size, on the BYD Seagull 38kWh, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 235/50 tires on 17" rims
+
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 There is only one roof for this model. The standard is just a regular roof.

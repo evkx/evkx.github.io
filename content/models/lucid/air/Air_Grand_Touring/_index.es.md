@@ -78,7 +78,12 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 ## Exterior
 
 El Lucid Air Grand Touring, con dimensiones de 4975 mm de longitud, 1939 mm de anchura y 1410 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. Puedes elegir entre 4 colores de pintura diferentes al pedir este modelo.
-Adicionalmente, puedes elegir entre 6 ruedas con tamaños de 19 a 21 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Lucid Air Grand Touring, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 245/45 en llantas de 19
+- Neumáticos 245/40 en llantas de 20" delanteras y neumáticos 265/40 en llantas de 20" traseras
+- Neumáticos 245/40 en llantas de 21" delanteras y neumáticos 265/40 en llantas de 21" traseras
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero.
 

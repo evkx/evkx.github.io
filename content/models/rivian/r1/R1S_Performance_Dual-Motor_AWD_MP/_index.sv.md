@@ -81,6 +81,9 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 Rivian R1S Performance Dual-Motor AWD MP, med dimensioner på 5100 mm i längd,  mm i bredd och 1966 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Rivian R1S Performance Dual-Motor AWD MP finns i totalt 9 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Rivian R1S Performance Dual-Motor AWD MP, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [delad baklucka](../../../../technology/doors/#split-baklucka) där den nedre delen faller och den övre delen lyfts.
 
 Det finns bara ett tak för denna modell. Som tillval kan du beställa denna modell med panoramatak. Glaset har två paneler. En ovanför första och andra raden, och passagerarna kan öppna främre delen. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten för passageraren. Båda glaspanelerna har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.

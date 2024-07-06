@@ -79,6 +79,9 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 MG MG5 Electric Standard Range, med dimensioner på 4600 mm i längd, 1818 mm i bredd och 1543 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. MG MG5 Electric Standard Range finns i totalt 4 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på MG MG5 Electric Standard Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+
 
 
 Det finns bara ett tak för denna modell.

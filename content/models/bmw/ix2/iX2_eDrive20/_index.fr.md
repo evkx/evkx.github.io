@@ -80,7 +80,12 @@ La puissance régénérative maximale est de 134 kW.
 ## Extérieur
 
 La BMW iX2 eDrive20, avec des dimensions de 4554 mm de longueur, 1845 mm de largeur et 1560 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. Vous pouvez choisir entre 12 couleurs de peinture différentes lors de la commande de ce modèle.
-De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 17 à 19 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'BMW iX2 eDrive20, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 205/65 sur jantes de 17"
+- Pneus 255/60 sur jantes de 18"
+- Pneus 205/55 sur jantes de 19"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

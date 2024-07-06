@@ -97,7 +97,12 @@ The Audi RS e-tron GT performance, with dimensions of 4989 mm in length, 1964 mm
 The black optics design package is an option. This package includes a black single-frame grille, black bezels around the windows, and if equipped with rails, black rails.
 
 
-Additionally, you can choose between 7 wheels with sizes from 19 to 21 inches.
+
+You can select from multiple wheel options in different sizes on the Audi RS e-tron GT performance, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 225/55 tires on 19" rims front and 275/45 tires on 19" rims rear
+- 245/45 tires on 20" rims front and 285/40 tires on 20" rims rear
+- 265/35 tires on 21" rims front and 305/30 tires on 21" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

@@ -80,7 +80,11 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 ## Udvendig
 
 Den Lotus Emeya, med dimensioner på 5139 mm i længde, 2005 mm i bredde og 1464 mm i højde, tilhører F-segmentet af biler, også kendt som luksus- eller fuldstørrelses luksusbiler. De repræsenterer toppen af ​​automobil luksus, ydeevne og teknologi. De er typisk store sedans eller limousiner og er designet til at tilbyde det ypperste inden for komfort, prestige og avancerede funktioner. Lotus Emeya fås i alt 6 lakfarver, herunder flere iøjnefaldende metalliske muligheder. Nogle af disse lakmuligheder inkluderer to-tone lak, hvor taget og den øverste del af karosseriet er malet i en anden farve, hvilket giver et karakteristisk og stilfuldt look.
-Derudover kan du vælge mellem 6 hjul med størrelser fra 20 til 21 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Lotus Emeya, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 245/45 dæk på 20" fælge foran og 285/40 dæk på 20" fælge bagpå
+- 265/40 dæk på 21" fælge foran og 305/35 dæk på 21" fælge bagpå
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 

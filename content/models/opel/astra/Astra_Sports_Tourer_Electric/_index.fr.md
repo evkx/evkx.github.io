@@ -75,6 +75,10 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 La Opel Astra Sports Tourer Electric, avec des dimensions de 4642 mm de longueur, 1860 mm de largeur et 1480 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. La Opel Astra Sports Tourer Electric est disponible en un total de 7 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Opel Astra Sports Tourer Electric, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 215/45 sur jantes de 18" à l'avant et pneus 215/45 sur jantes de 18" à l'arrière
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 
 Vous pouvez choisir entre deux types de toits sur ce modèle. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre prolonge la majeure partie du toit et les occupants peuvent ouvrir la partie avant. Cette vitre rend la voiture plus belle. l'intérieur semble plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.

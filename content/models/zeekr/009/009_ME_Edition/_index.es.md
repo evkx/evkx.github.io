@@ -75,6 +75,10 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 El Zeekr 009 ME Edition está disponible en un total de 3 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Zeekr 009 ME Edition, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 255/50 en llantas de 19
+
 El automóvil tiene dos [puertas normales](../../../../technology/doors/) en la primera fila, [puertas corredizas](../../../../technology/doors/) en la segunda fila y un portón trasero. Las puertas eléctricas tienen un estándar función para las puertas laterales.
 
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende sobre la mayoría de las áreas desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar la estado de ánimo y comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.

@@ -82,7 +82,11 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 ## Udvendig
 
 Den Renault Megane E-Tech Techno, med dimensioner på 4200 mm i længde, 1860 mm i bredde og 1860 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Renault Megane E-Tech Techno fås i alt i 6 ensfarvede lakfarver.
-Derudover kan du vælge mellem 2 hjul med størrelser fra 19 til 20 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Renault Megane E-Tech Techno, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 235/55 dæk on 19" fælge
+- 255/45 dæk on 20" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

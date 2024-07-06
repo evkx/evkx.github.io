@@ -78,7 +78,11 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 The Renault Scenic E-Tech electric High Range, with dimensions of 4470 mm in length, 1864 mm in width, and 1571 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Renault Scenic E-Tech electric High Range is available in a total of 6 solid paint colors.
-Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches.
+
+You can select from multiple wheel options in different sizes on the Renault Scenic E-Tech electric High Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 235/55 tires on 19" rims
+- 255/45 tires on 20" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

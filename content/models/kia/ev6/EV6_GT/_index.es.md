@@ -81,6 +81,10 @@ La potencia regenerativa máxima es de 150 kW.
 
 El Kia EV6 GT, con dimensiones de 4680 mm de longitud, 1880 mm de anchura y 1550 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. Puedes elegir entre 8 colores de pintura diferentes al pedir este modelo.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Kia EV6 GT, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 255/40 en llantas de 21
+
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
 Sólo hay un techo para este modelo. El techo estándar tiene un techo corredizo. El vidrio se extiende sólo sobre la primera fila y los ocupantes pueden abrirlo. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.

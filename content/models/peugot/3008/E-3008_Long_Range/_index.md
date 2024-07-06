@@ -76,7 +76,11 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 ## Exterior
 
 The Peugot E-3008 Long Range, with dimensions of 4542 mm in length, 1895 mm in width, and 1641 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Peugot E-3008 Long Range is available in a total of 6 paint colors, including both solid and metallic options.
-Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches.
+
+You can select from multiple wheel options in different sizes on the Peugot E-3008 Long Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 235/55 tires on 19" rims
+- 235/50 tires on 20" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

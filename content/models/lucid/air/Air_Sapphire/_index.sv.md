@@ -79,6 +79,10 @@ Bromsar bak och fram är [keramiska skivor](../../../../technology/brakes/#ceram
 
 Lucid Air Sapphire, med dimensioner på 4975 mm i längd, 1939 mm i bredd och 1410 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Du kan välja mellan 1 olika färgfärger när du beställer den här modellen.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Lucid Air Sapphire, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 265/35 däck på 21" fälgar fram och 295/30 däck på 21" fälgar bak
+
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet. 'Soft Close' är standard-funktionen för sidodörrarna.
 
 Det finns bara ett tak för denna modell. Standardinställningen är bara ett vanligt tak.

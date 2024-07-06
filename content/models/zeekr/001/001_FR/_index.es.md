@@ -75,6 +75,10 @@ Los frenos traseros y delanteros son [discos cerámicos](../../../../technology/
 
 El Zeekr 001 FR, con dimensiones de 4955 mm de longitud, 1999 mm de anchura y 1548 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. El Zeekr 001 FR está disponible en un total de 4 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Zeekr 001 FR, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 265/40 en llantas de 22
+
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende sobre la mayoría de las áreas desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar la estado de ánimo y comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.

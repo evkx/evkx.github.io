@@ -75,6 +75,10 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 The Neta GT 580 AWD, with dimensions of 4715 mm in length, 1979 mm in width, and 1415 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. The Neta GT 580 AWD is available in a total of 6 paint colors, including several striking metallic options.
 
+You can select from multiple wheel designs, all available in the same size, on the Neta GT 580 AWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 245/45 tires on 19" rims
+
 
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.

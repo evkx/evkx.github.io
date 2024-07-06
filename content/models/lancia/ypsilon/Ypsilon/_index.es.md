@@ -79,6 +79,10 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 El Lancia Ypsilon, con dimensiones de 4080 mm de longitud, 1760 mm de anchura y 1440 mm de altura, pertenece al segmento B de automóviles, también conocido como supermini. Es un coche pequeño típicamente adecuado para la conducción urbana, ofreciendo un buen equilibrio entre eficiencia, tamaño y costo. El Lancia Ypsilon está disponible en un total de 7 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Lancia Ypsilon, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 215/45 en llantas de 18" delanteras y neumáticos 215/45 en llantas de 18" traseras
+
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Puedes elegir entre dos tipos de techos en este modelo. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este cristal hace que el coche sea más cómodo. El interior se siente más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.

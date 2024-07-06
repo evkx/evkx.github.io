@@ -95,7 +95,11 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 ## Exterior
 
 The Nio EL7, with dimensions of 4912 mm in length, 1987 mm in width, and 1720 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Nio EL7 is available in a total of 7 solid paint colors.
-Additionally, you can choose between 2 wheels with sizes from 20 to 21 inches.
+
+You can select from multiple wheel options in different sizes on the Nio EL7, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 255/50 tires on 20" rims
+- 265/45 tires on 21" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is a standard function for the side doors.
 

@@ -76,7 +76,11 @@ The maximum regenerative power is 150 kW.
 ## Exterior
 
 The Hyundai Ioniq 6 Long Range AWD, with dimensions of 4855 mm in length, 1880 mm in width, and 1495 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Hyundai Ioniq 6 Long Range AWD is available in a total of 9 paint colors, including several striking metallic options.
-Additionally, you can choose between 2 wheels with sizes from 18 to 20 inches.
+
+You can select from multiple wheel options in different sizes on the Hyundai Ioniq 6 Long Range AWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 225/55 tires on 18" rims
+- 245/40 tires on 20" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 

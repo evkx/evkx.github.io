@@ -74,7 +74,11 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ## Exterior
 
 The Jeep Avenger, with dimensions of 4084 mm in length, 1776 mm in width, and 1528 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Jeep Avenger is available in a total of 5 solid paint colors.
-Additionally, you can choose between 5 wheels with sizes from 17 to 18 inches.
+
+You can select from multiple wheel options in different sizes on the Jeep Avenger, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 215/60 tires on 17" rims
+- 215/55 tires on 18" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

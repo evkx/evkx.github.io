@@ -81,6 +81,10 @@ Den maksimale regenerative effekt er 200 kW.
 
 Den BYD Seal RWD, med dimensioner på 4800 mm i længde, 1875 mm i bredde og 1460 mm i højde, tilhører D-segmentet af biler, også kendt som mellemstore eller familiebiler. Disse biler tilbyder mere plads, komfort og funktioner end mindre segmenter og er velegnede til forskellige førere. BYD Seal RWD fås i alt i 6 ensfarvede lakfarver.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på BYD Seal RWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 265/40 dæk on 22" fælge
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet.
 
 Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Glasset er tonet for at beskytte mod varme fra solen.

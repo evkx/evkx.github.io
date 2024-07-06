@@ -76,7 +76,11 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 ## Exterior
 
 The Polestar 2 Long Range Single Motor, with dimensions of 4606 mm in length, 1859 mm in width, and 1652 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. The Polestar 2 Long Range Single Motor is available in a total of 6 paint colors, including several striking metallic options.
-Additionally, you can choose between 3 wheels with sizes from 19 to 20 inches.
+
+You can select from multiple wheel options in different sizes on the Polestar 2 Long Range Single Motor, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 245/45 tires on 19" rims
+- 245/40 tires on 20" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

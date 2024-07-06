@@ -81,6 +81,10 @@ La puissance régénérative maximale est de 200 kW.
 
 La BYD Dolphin 60.4kWh, avec des dimensions de 4290 mm de longueur, 1770 mm de largeur et 1570 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. La BYD Dolphin 60.4kWh est disponible en un total de 4 couleurs de peinture unies.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'BYD Dolphin 60.4kWh, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 235/50 sur jantes de 17"
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panoramique s'étendant de l'avant vers l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance et le confort. de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.

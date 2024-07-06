@@ -84,7 +84,12 @@ Den maximala regenerativa effekten är 195 kW.
 ## Exteriör
 
 BMW i4 M50, med dimensioner på 4783 mm i längd, 1852 mm i bredd och 1448 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. Du kan välja mellan 12 olika färgfärger när du beställer den här modellen.
-Dessutom kan du välja mellan 7 hjul i storlek från 18 till 20 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på BMW i4 M50, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 245/45 däck på 18" fälgar fram och 255/45 däck på 18" fälgar bak
+- 245/40 däck på 19" fälgar fram och 255/40 däck på 19" fälgar bak
+- 245/35 däck på 20" fälgar fram och 255/35 däck på 20" fälgar bak
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' är valfritt-funktionen för sidodörrarna.
 

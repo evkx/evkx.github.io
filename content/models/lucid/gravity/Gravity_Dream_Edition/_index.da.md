@@ -80,7 +80,13 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 ## Udvendig
 
 Den Lucid Gravity Dream Edition, med dimensioner på 5034 mm i længde, 1999 mm i bredde og 1656 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Du kan vælge mellem 7 forskellige malingsfarver, når du bestiller denne model.
-Derudover kan du vælge mellem 6 hjul med størrelser fra 20 til 23 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Lucid Gravity Dream Edition, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 245/45 dæk on 20" fælge
+- 245/40 dæk på 21" fælge foran og 265/40 dæk på 21" fælge bagpå
+- 265/40 dæk på 22" fælge foran og 285/40 dæk på 22" fælge bagpå
+- 265/35 dæk på 23" fælge foran og 285/35 dæk på 23" fælge bagpå
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

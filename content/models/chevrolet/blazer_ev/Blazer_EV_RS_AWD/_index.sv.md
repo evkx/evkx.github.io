@@ -75,6 +75,10 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 Chevrolet Blazer EV RS AWD, med dimensioner på 5067 mm i längd, 1963 mm i bredd och 1725 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Chevrolet Blazer EV RS AWD finns i totalt 8 lackfärger, inklusive solida, metalliska och pärlemorsalternativ.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Chevrolet Blazer EV RS AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 275/45 tires on 21" rims
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
 Du kan välja mellan två typer av tak på denna modell. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten på passageraren. Den har en elektrisk gardin som passagerarna kan använda för att skydda sig mot solen. Som tillval kan du beställa denna modell med panoramatak som går att öppna. Glaset har två paneler. En ovanför första och andra raden, och passagerarna kan öppna den främre delen. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.

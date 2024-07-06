@@ -81,6 +81,10 @@ Den maksimale regenerative effekten er 200 kW.
 
 BYD Dolphin 60.4kWh, med dimensjoner på 4290 mm i lengde, 1770 mm i bredde og 1570 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. BYD Dolphin 60.4kWh er tilgjengelig i totalt 4 ensfargede lakkfarger.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på BYD Dolphin 60.4kWh, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 235/50 dekk på 17" felger
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.

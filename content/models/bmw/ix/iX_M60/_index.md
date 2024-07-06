@@ -83,6 +83,10 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The BMW iX M60, with dimensions of 4953 mm in length, 1967 mm in width, and 1696 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. You can choose between 9 different paint colors when ordering this model.
 
+You can select from multiple wheel designs, all available in the same size, on the BMW iX M60, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 255/50 tires on 22" rims front and 275/40 tires on 22" rims rear
+
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is an optional function for the side doors.
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.

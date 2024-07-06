@@ -81,6 +81,10 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Honda Prologue FWD, with dimensions of 4877 mm in length, 1989 mm in width, and 1634 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Honda Prologue FWD is available in a total of 7 paint colors, including solid, metallic, and pearlescent options.
 
+You can select from multiple wheel designs, all available in the same size, on the Honda Prologue FWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 275/45 tires on 21" rims
+
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 You can choose between two types of roofs on this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun. As an option, you can order this model with a panoramic roof that can be opened. The glass has two panels. One over the first and the second rows, and occupants can open the front part. It has an electric curtain that occupants can use to protect against the sun.

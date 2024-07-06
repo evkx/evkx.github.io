@@ -93,7 +93,11 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 ## Udvendig
 
 Den Audi SQ8 e-tron, med dimensioner på 4901 mm i længde, 1935 mm i bredde og 1629 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Audi SQ8 e-tron fås i alt 61 lakfarver, herunder solide, metalliske og perlemorsmuligheder. Ud over standardpaletten er nogle farver fra den eksklusive 'Audi SQ8 e-tron' palette.
-Derudover kan du vælge mellem 4 hjul med størrelser fra 20 til 22 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Audi SQ8 e-tron, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 285/45 dæk on 20" fælge
+- 285/40 dæk on 21" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate). Soft close er en valgfri-funktion for sidedørene.
 

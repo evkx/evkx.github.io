@@ -95,7 +95,11 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 ## Eksteriør
 
 Nio ET5 Touring, med dimensjoner på 4790 mm i lengde, 1960 mm i bredde og 1499 mm i høyde, tilhører D-segmentet av biler, også kjent som mellomstore eller familiebiler. Disse bilene tilbyr mer plass, komfort og funksjoner enn mindre segmenter, noe som gjør dem egnet for ulike sjåfører. Nio ET5 Touring er tilgjengelig i totalt 10 ensfargede lakkfarger.
-I tillegg kan du velge mellom 2 hjul med størrelser fra 20 til 21 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Nio ET5 Touring, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 255/50 dekk på 20" felger
+- 255/45 dekk på 21" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' er standard-funksjon for sidedørene.
 

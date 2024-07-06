@@ -78,7 +78,12 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 ## Udvendig
 
 Den BMW i7 M70 xDrive, med dimensioner på 5391 mm i længde, 1950 mm i bredde og 1544 mm i højde, tilhører F-segmentet af biler, også kendt som luksus- eller fuldstørrelses luksusbiler. De repræsenterer toppen af ​​automobil luksus, ydeevne og teknologi. De er typisk store sedans eller limousiner og er designet til at tilbyde det ypperste inden for komfort, prestige og avancerede funktioner. Du kan vælge mellem 12 forskellige malingsfarver, når du bestiller denne model.
-Derudover kan du vælge mellem 8 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på BMW i7 M70 xDrive, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 245/50 dæk on 19" fælge
+- 255/45 dæk på 20" fælge foran og 285/40 dæk på 20" fælge bagpå
+- 255/40 dæk på 21" fælge foran og 285/35 dæk på 21" fælge bagpå
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet. Soft close er en valgfri-funktion for sidedørene.
 

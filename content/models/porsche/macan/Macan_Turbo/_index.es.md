@@ -82,7 +82,12 @@ La potencia regenerativa máxima es de 275 kW.
 El Porsche Macan Turbo, con dimensiones de 4784 mm de longitud, 1938 mm de anchura y 1622 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Porsche Macan Turbo está disponible en un total de 13 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
 
 También puedes elegir varias opciones de estilo para hacer que tu auto sea más exclusivo.
-Adicionalmente, puedes elegir entre 8 ruedas con tamaños de 20 a 22 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Porsche Macan Turbo, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 235/55 en llantas de 20" delanteras y neumáticos 285/45 en llantas de 20" traseras
+- Neumáticos 245/45 en llantas de 21" delanteras y neumáticos 295/40 en llantas de 21" traseras
+- Neumáticos 255/40 en llantas de 22" delanteras y neumáticos 295/35 en llantas de 22" traseras
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

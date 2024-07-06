@@ -80,7 +80,12 @@ Den maksimale regenerative effekten er 134 kW.
 ## Eksteriør
 
 BMW iX1 eDrive20, med dimensjoner på 4500 mm i lengde, 1845 mm i bredde og 1616 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Du kan velge mellom 12 forskjellige lakkfarger når du bestiller denne modellen.
-I tillegg kan du velge mellom 3 hjul med størrelser fra 17 til 19 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på BMW iX1 eDrive20, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 205/65 dekk på 17" felger
+- 255/60 dekk på 18" felger
+- 205/55 dekk på 19" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

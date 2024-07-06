@@ -79,6 +79,10 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 HiPhi Y Performance, med dimensjoner på 4938 mm i lengde, 1958 mm i bredde og 1658 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på HiPhi Y Performance, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 275/40 dekk på 21" felger
+
 Bilen har to [vanlige dører](../../../../technology/doors/) foran, en unik kombinasjon av vanlige dører med måketak på andre rad, og en [hatchback-stil liftgate](../../../../technology/doors/#hatcback-style-liftgate) bak. Elektriske dører er standard funksjon for sidedørene.
 
 Det er bare ett tak for denne modellen. Standardtaket har panoramaglass over første rad i tillegg til at takdelen av gullvingdørene har glass. Dette glasset gjør at bilens interiør føles mer romslig og lyst, som kan forbedre humøret og komforten til beboeren.

@@ -99,7 +99,12 @@ The optional SportDesign package contains a specially designed upper part front 
 The optional SportDesign package HighGloss black contains a specially designed upper part front apron, specially designed side skirts in Black with inlays painted in Black (high-gloss), specially designed rear diffusor in Black with side fins painted in Black (high-gloss),front licence plate carrier painted in exterior color. 
 
 
-Additionally, you can choose between 8 wheels with sizes from 19 to 21 inches.
+
+You can select from multiple wheel options in different sizes on the Porsche Taycan Turbo Sport Turismo, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 225/55 tires on 19" rims front and 275/45 tires on 19" rims rear
+- 245/45 tires on 20" rims front and 285/40 tires on 20" rims rear
+- 265/35 tires on 21" rims front and 305/30 tires on 21" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

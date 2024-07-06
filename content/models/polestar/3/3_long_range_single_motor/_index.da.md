@@ -77,6 +77,10 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 Den Polestar 3 Long Range Single Motor, med dimensioner på 4900 mm i længde, 1968 mm i bredde og 1614 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Polestar 3 Long Range Single Motor fås i alt 6 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Polestar 3 Long Range Single Motor, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 265/40 dæk på 22" fælge foran og 295/40 dæk på 22" fælge bagpå
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 
 Du kan vælge mellem to typer tage på denne model. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen.

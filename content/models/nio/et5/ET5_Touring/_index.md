@@ -95,7 +95,11 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 ## Exterior
 
 The Nio ET5 Touring, with dimensions of 4790 mm in length, 1960 mm in width, and 1499 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. The Nio ET5 Touring is available in a total of 10 solid paint colors.
-Additionally, you can choose between 2 wheels with sizes from 20 to 21 inches.
+
+You can select from multiple wheel options in different sizes on the Nio ET5 Touring, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 255/50 tires on 20" rims
+- 255/45 tires on 21" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is a standard function for the side doors.
 

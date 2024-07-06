@@ -86,7 +86,12 @@ Den maksimale regenerative effekten er 186 kW.
 Mercedes-EQ EQE 500 4MATIC, med dimensjoner på 4946 mm i lengde, 1961 mm i bredde og 1510 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Mercedes-EQ EQE 500 4MATIC tilbyr et utvalg av 11 lakkfarger, inkludert ensfargede, metalliske og matte alternativer. Ved siden av standardpaletten er det eksklusive farger tilgjengelig fra 'MANUFAKTUR'-paletten.
 
 Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
-I tillegg kan du velge mellom 13 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Mercedes-EQ EQE 500 4MATIC, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 235/50 dekk på 19" felger
+- 265/35 dekk på 21" felger foran og 295/30 dekk på 21" felger bak
+- 265/40 dekk på 20" felger foran og 295/35 dekk på 20" felger bak
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet.
 

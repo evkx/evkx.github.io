@@ -81,6 +81,10 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 Den BMW iX xDrive40, med dimensioner på 4953 mm i længde, 1967 mm i bredde og 1696 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Du kan vælge mellem 9 forskellige malingsfarver, når du bestiller denne model.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på BMW iX xDrive40, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 255/50 dæk på 22" fælge foran og 275/40 dæk på 22" fælge bagpå
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Soft close er en valgfri-funktion for sidedørene.
 
 Du kan vælge mellem to typer tage på denne model. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset for at beskytte mod solen.

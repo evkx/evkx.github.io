@@ -86,7 +86,12 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 ## Exterior
 
 The Maserati GranCabrio Folgore is available in a total of 8 paint colors, including both solid and metallic options.
-Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches.
+
+You can select from multiple wheel options in different sizes on the Maserati GranCabrio Folgore, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 255/50 tires on 19" rims
+- 255/45 tires on 20" rims front and 295/40 tires on 20" rims rear
+- 255/40 tires on 21" rims front and 295/35 tires on 21" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

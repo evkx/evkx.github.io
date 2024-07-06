@@ -81,6 +81,10 @@ La potencia regenerativa máxima es de 400 kW.
 
 El Chevrolet Silverado EV 4WT está disponible en un total de 1 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Chevrolet Silverado EV 4WT, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 265/70 en llantas de 18
+
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [portón trasero](../../../../technology/doors/#split-tailgate) donde la puerta cae.
 
 Sólo hay un techo para este modelo.

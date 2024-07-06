@@ -74,7 +74,11 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 ## Udvendig
 
 Den Peugot E-2008, med dimensioner på 4304 mm i længde, 1775 mm i bredde og 1523 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Peugot E-2008 fås i alt i 5 ensfarvede lakfarver.
-Derudover kan du vælge mellem 5 hjul med størrelser fra 17 til 18 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Peugot E-2008, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 215/60 dæk on 17" fælge
+- 215/55 dæk on 18" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

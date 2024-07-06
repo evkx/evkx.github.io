@@ -84,7 +84,12 @@ La puissance régénérative maximale est de 116 kW.
 ## Extérieur
 
 La BMW i4 eDrive35, avec des dimensions de 4783 mm de longueur, 1852 mm de largeur et 1448 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. Vous pouvez choisir entre 12 couleurs de peinture différentes lors de la commande de ce modèle.
-De plus, vous pouvez choisir entre 7 roues avec des tailles allant de 18 à 20 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'BMW i4 eDrive35, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 245/45 sur jantes de 18" à l'avant et pneus 255/45 sur jantes de 18" à l'arrière
+- Pneus 245/40 sur jantes de 19" à l'avant et pneus 255/40 sur jantes de 19" à l'arrière
+- Pneus 245/35 sur jantes de 20" à l'avant et pneus 255/35 sur jantes de 20" à l'arrière
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). La fermeture douce est la fonction un facultatif pour les portes latérales.
 

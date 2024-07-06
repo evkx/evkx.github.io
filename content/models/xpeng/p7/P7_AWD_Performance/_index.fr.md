@@ -75,6 +75,10 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 La XPENG P7 AWD Performance, avec des dimensions de 4888 mm de longueur, 1896 mm de largeur et 1450 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'XPENG P7 AWD Performance, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 245/45 sur jantes de 19"
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panoramique s'étendant de l'avant vers l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance et le confort. de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.

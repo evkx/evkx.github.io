@@ -84,7 +84,11 @@ Den maksimale regenerative effekt er 134 kW.
 ## Udvendig
 
 Den BMW iX3, med dimensioner på 4734 mm i længde, 1891 mm i bredde og 1668 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
-Derudover kan du vælge mellem 2 hjul med størrelser fra 19 til 20 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på BMW iX3, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 245/50 dæk on 19" fælge
+- 245/45 dæk on 20" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

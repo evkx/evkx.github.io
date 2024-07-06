@@ -79,6 +79,9 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 El MG MG4 Electric Extended Range, con dimensiones de 4287 mm de longitud, 1836 mm de anchura y 1504 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El MG MG4 Electric Extended Range está disponible en un total de 7 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el MG MG4 Electric Extended Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+
 
 
 Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.

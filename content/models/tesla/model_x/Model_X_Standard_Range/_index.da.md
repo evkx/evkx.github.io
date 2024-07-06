@@ -80,7 +80,11 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 ## Udvendig
 
 Den Tesla Model X Standard Range, med dimensioner på 5057 mm i længde, 1999 mm i bredde og 1680 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Tesla Model X Standard Range fås i alt 5 lakfarver, herunder både solide og metalliske muligheder.
-Derudover kan du vælge mellem 2 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Tesla Model X Standard Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 255/45 dæk på 19" fælge foran og 285/40 dæk på 19" fælge bagpå
+- 265/35 dæk på 21" fælge foran og 295/30 dæk på 21" fælge bagpå
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

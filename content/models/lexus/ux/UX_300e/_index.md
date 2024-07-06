@@ -78,7 +78,11 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 ## Exterior
 
 The Lexus UX 300e, with dimensions of 4495 mm in length, 1840 mm in width, and 1545 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Lexus UX 300e is available in a total of 10 paint colors, including both solid and metallic options.
-Additionally, you can choose between 2 wheels with sizes from 17 to 18 inches.
+
+You can select from multiple wheel options in different sizes on the Lexus UX 300e, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 215/60 tires on 17" rims
+- 225/50 tires on 18" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

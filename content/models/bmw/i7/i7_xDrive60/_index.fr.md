@@ -78,7 +78,12 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 ## Extérieur
 
 La BMW i7 xDrive60, avec des dimensions de 5391 mm de longueur, 1950 mm de largeur et 1544 mm de hauteur, appartient au segment F des voitures, également connu sous le nom de voitures de luxe ou voitures de luxe de taille complète. Elles représentent le summum du luxe automobile, de la performance et de la technologie. Elles sont généralement de grandes berlines ou limousines conçues pour offrir le meilleur en termes de confort, de prestige et de fonctionnalités avancées. Vous pouvez choisir entre 12 couleurs de peinture différentes lors de la commande de ce modèle.
-De plus, vous pouvez choisir entre 8 roues avec des tailles allant de 19 à 21 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'BMW i7 xDrive60, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 245/50 sur jantes de 19"
+- Pneus 255/45 sur jantes de 20" à l'avant et pneus 285/40 sur jantes de 20" à l'arrière
+- Pneus 255/40 sur jantes de 21" à l'avant et pneus 285/35 sur jantes de 21" à l'arrière
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre. La fermeture douce est la fonction un facultatif pour les portes latérales.
 

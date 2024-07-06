@@ -84,7 +84,11 @@ The maximum regenerative power is 134 kW.
 ## Exterior
 
 The BMW iX3, with dimensions of 4734 mm in length, 1891 mm in width, and 1668 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 6 different paint colors when ordering this model.
-Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches.
+
+You can select from multiple wheel options in different sizes on the BMW iX3, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 245/50 tires on 19" rims
+- 245/45 tires on 20" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

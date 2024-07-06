@@ -87,6 +87,10 @@ La potencia regenerativa máxima es de 200 kW.
 
 El BYD Seal U Design, con dimensiones de 4785 mm de longitud, 1890 mm de anchura y 1668 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El BYD Seal U Design está disponible en un total de 6 colores de pintura sólidos.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el BYD Seal U Design, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 235/50 en llantas de 19
+
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero.
 
 Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámico. El vidrio extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso , lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.

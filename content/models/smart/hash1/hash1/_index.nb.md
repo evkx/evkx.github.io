@@ -81,6 +81,10 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 
 Smart #1, med dimensjoner på 4270 mm i lengde, 1822 mm i bredde og 1636 mm i høyde, tilhører B-SUV-segmentet av biler, også kjent som subkompakte SUV-er eller crossovere. De tilbyr en kombinasjon av kompakt størrelse og manøvrerbarhet fra B-segmentbiler med høyere kjøreposisjon, økt lasteplass og robust utseende fra en SUV. Smart #1 er tilgjengelig i totalt 6 lakkfarger, alle inkluderer metalliske og perlemorsalternativer.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Smart #1, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 245/40 dekk på 19" felger
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 
 Du kan velge mellom to typer tak på denne modellen. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.

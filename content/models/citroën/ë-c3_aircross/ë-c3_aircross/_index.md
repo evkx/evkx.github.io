@@ -84,7 +84,11 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 ## Exterior
 
 The Citroën ë-C3 Aircross, with dimensions of 4395 mm in length, 1795 mm in width, and 1660 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Citroën ë-C3 Aircross is available in a total of 5 paint colors, including both solid and metallic options.
-Additionally, you can choose between 2 wheels with sizes from 16 to 17 inches.
+
+You can select from multiple wheel options in different sizes on the Citroën ë-C3 Aircross, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 205/55 tires on 16" rims
+- 205/50 tires on 17" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

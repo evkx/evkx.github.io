@@ -84,7 +84,12 @@ The maximum regenerative power is 116 kW.
 ## Exterior
 
 The BMW i5 M60 xDrive, with dimensions of 5060 mm in length, 1900 mm in width, and 1505 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. The BMW i5 M60 xDrive is available in a total of 12 paint colors, including several striking metallic options.
-Additionally, you can choose between 8 wheels with sizes from 19 to 21 inches.
+
+You can select from multiple wheel options in different sizes on the BMW i5 M60 xDrive, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 245/50 tires on 19" rims
+- 255/45 tires on 20" rims front and 285/40 tires on 20" rims rear
+- 255/40 tires on 21" rims front and 285/35 tires on 21" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk. Soft close is an optional function for the side doors.
 

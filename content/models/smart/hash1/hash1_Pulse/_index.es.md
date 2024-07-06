@@ -81,6 +81,10 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 El Smart #1 Pulse, con dimensiones de 4300 mm de longitud, 1822 mm de anchura y 1636 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El Smart #1 Pulse está disponible en un total de 6 colores de pintura, todos los cuales incluyen opciones metálicas y perladas.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Smart #1 Pulse, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 245/40 en llantas de 19
+
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
 Puedes elegir entre dos tipos de techos en este modelo. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande amplio y luminoso, lo que puede mejorar el estado de ánimo y comodidad del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.

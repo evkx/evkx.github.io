@@ -83,6 +83,10 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 El Renault 5 E-Tech 52kWh 150hp, con dimensiones de 3920 mm de longitud, 1770 mm de anchura y 1500 mm de altura, pertenece al segmento B de automóviles, también conocido como supermini. Es un coche pequeño típicamente adecuado para la conducción urbana, ofreciendo un buen equilibrio entre eficiencia, tamaño y costo. El Renault 5 E-Tech 52kWh 150hp está disponible en un total de 5 colores de pintura sólidos.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Renault 5 E-Tech 52kWh 150hp, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 195/55 en llantas de 18
+
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.

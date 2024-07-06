@@ -101,7 +101,11 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 ## Extérieur
 
 La Audi e-tron S Sportback, avec des dimensions de 4901 mm de longueur, 1935 mm de largeur et 1615 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Audi e-tron S Sportback est disponible en un total de 61 couleurs de peinture, comprenant des options solides, métalliques et nacrées. En plus de la palette standard, certaines couleurs proviennent de la palette exclusive 'Audi exclusive'.
-De plus, vous pouvez choisir entre 4 roues avec des tailles allant de 20 à 22 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Audi e-tron S Sportback, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 285/45 sur jantes de 20"
+- Pneus 285/40 sur jantes de 21"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate). La fermeture douce est la fonction un facultatif pour les portes latérales.
 

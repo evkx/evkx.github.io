@@ -94,7 +94,12 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 La Audi Q4 40 e-tron, avec des dimensions de 4588 mm de longueur, 1865 mm de largeur et 1632 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. Vous pouvez choisir entre 8 couleurs de peinture différentes lors de la commande de ce modèle.
 
 Vous pouvez également choisir plusieurs options de style pour rendre votre voiture plus unique.
-De plus, vous pouvez choisir entre 11 roues avec des tailles allant de 19 à 21 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Audi Q4 40 e-tron, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 235/55 sur jantes de 19" à l'avant et pneus 255/50 sur jantes de 19" à l'arrière
+- Pneus 235/50 sur jantes de 20" à l'avant et pneus 255/45 sur jantes de 20" à l'arrière
+- Pneus 235/45 sur jantes de 21" à l'avant et pneus 255/40 sur jantes de 21" à l'arrière
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

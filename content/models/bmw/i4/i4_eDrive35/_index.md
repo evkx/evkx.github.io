@@ -84,7 +84,12 @@ The maximum regenerative power is 116 kW.
 ## Exterior
 
 The BMW i4 eDrive35, with dimensions of 4783 mm in length, 1852 mm in width, and 1448 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. You can choose between 12 different paint colors when ordering this model.
-Additionally, you can choose between 7 wheels with sizes from 18 to 20 inches.
+
+You can select from multiple wheel options in different sizes on the BMW i4 eDrive35, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 245/45 tires on 18" rims front and 255/45 tires on 18" rims rear
+- 245/40 tires on 19" rims front and 255/40 tires on 19" rims rear
+- 245/35 tires on 20" rims front and 255/35 tires on 20" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is an optional function for the side doors.
 

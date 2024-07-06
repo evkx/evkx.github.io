@@ -84,6 +84,10 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The VinFast VF8 Plus, with dimensions of 4750 mm in length, 1934 mm in width, and 1667 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The VinFast VF8 Plus is available in a total of 8 paint colors, including several striking metallic options.
 
+You can select from multiple wheel designs, all available in the same size, on the VinFast VF8 Plus, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 245/45 tires on 20" rims
+
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 There is only one roof for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.

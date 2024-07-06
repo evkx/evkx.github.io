@@ -74,7 +74,11 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 ## Exterior
 
 El Peugot E-2008, con dimensiones de 4304 mm de longitud, 1775 mm de anchura y 1523 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. El Peugot E-2008 está disponible en un total de 5 colores de pintura sólidos.
-Adicionalmente, puedes elegir entre 5 ruedas con tamaños de 17 a 18 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Peugot E-2008, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 215/60 en llantas de 17
+- Neumáticos 215/55 en llantas de 18
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

@@ -78,7 +78,11 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 ## Exteriör
 
 DS 3 E-Tense, med dimensioner på 4118 mm i längd, 1802 mm i bredd och 1534 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. DS 3 E-Tense finns i totalt 5 enfärgade lackfärger.
-Dessutom kan du välja mellan 5 hjul i storlek från 17 till 18 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på DS 3 E-Tense, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 215/60 tires on 17" rims
+- 215/55 tires on 18" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 

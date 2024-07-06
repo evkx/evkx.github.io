@@ -77,6 +77,10 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Polestar 4 Long range Single motor, with dimensions of 4840 mm in length, 2008 mm in width, and 1534 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The Polestar 4 Long range Single motor is available in a total of 6 paint colors, including several striking metallic options.
 
+You can select from multiple wheel designs, all available in the same size, on the Polestar 4 Long range Single motor, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 265/40 tires on 22" rims front and 295/40 tires on 22" rims rear
+
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 
 You can choose between two types of roofs on this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.

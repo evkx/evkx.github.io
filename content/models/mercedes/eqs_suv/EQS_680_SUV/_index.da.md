@@ -82,7 +82,11 @@ Den maksimale regenerative effekt er 300 kW.
 Den Mercedes-Maybach EQS 680 SUV, med dimensioner på 5125 mm i længde, 2034 mm i bredde og 1721 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Mercedes-Maybach EQS 680 SUV tilbyder et udvalg af 9 lakfarver, herunder ensfarvede og metalliske muligheder. Ved siden af standardpaletten er der eksklusive farver tilgængelige fra 'MANUFAKTUR'-paletten.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
-Derudover kan du vælge mellem 4 hjul med størrelser fra 21 til 22 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Mercedes-Maybach EQS 680 SUV, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 265/45 dæk on 21" fælge
+- 265/40 dæk på 22" fælge foran og 295/40 dæk på 22" fælge bagpå
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

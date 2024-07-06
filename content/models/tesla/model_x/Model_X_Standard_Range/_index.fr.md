@@ -80,7 +80,11 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 ## Extérieur
 
 La Tesla Model X Standard Range, avec des dimensions de 5057 mm de longueur, 1999 mm de largeur et 1680 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. La Tesla Model X Standard Range est disponible en un total de 5 couleurs de peinture, comprenant des options à la fois solides et métalliques.
-De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 19 à 21 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Tesla Model X Standard Range, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 255/45 sur jantes de 19" à l'avant et pneus 285/40 sur jantes de 19" à l'arrière
+- Pneus 265/35 sur jantes de 21" à l'avant et pneus 295/30 sur jantes de 21" à l'arrière
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

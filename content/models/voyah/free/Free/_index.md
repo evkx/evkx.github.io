@@ -75,6 +75,10 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The VOYAH FREE, with dimensions of 4905 mm in length, 1950 mm in width, and 1645 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. You can choose between 6 different paint colors when ordering this model.
 
+You can select from multiple wheel designs, all available in the same size, on the VOYAH FREE, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 255/45 tires on 20" rims
+
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 There is only one roof for this model. The standard roof has a large panoramic extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass in multiple levels to protect against the sun.

@@ -75,6 +75,10 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 XPENG G6 AWD Performance, med dimensioner på 4753 mm i längd, 1920 mm i bredd och 1650 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Du kan välja mellan 5 olika färgfärger när du beställer den här modellen.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på XPENG G6 AWD Performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 255/45 tires on 20" rims
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
 Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som spänner över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humöret och passagerarens komfort. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.

@@ -84,7 +84,12 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 Den Mercedes-EQ EQE 350+ SUV, med dimensioner på 4863 mm i længde, 1931 mm i bredde og 1685 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Mercedes-EQ EQE 350+ SUV tilbyder et udvalg af 7 lakfarver, herunder ensfarvede og metalliske muligheder. Ved siden af standardpaletten er der eksklusive farver tilgængelige fra 'MANUFAKTUR'-paletten.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
-Derudover kan du vælge mellem 5 hjul med størrelser fra 20 til 22 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Mercedes-EQ EQE 350+ SUV, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 265/40 dæk på 20" fælge foran og 295/35 dæk på 20" fælge bagpå
+- 265/35 dæk på 21" fælge foran og 295/30 dæk på 21" fælge bagpå
+- 265/35 dæk på 22" fælge foran og 295/30 dæk på 22" fælge bagpå
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

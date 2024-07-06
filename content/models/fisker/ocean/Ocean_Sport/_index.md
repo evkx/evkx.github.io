@@ -76,7 +76,11 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 ## Exterior
 
 The Fisker Ocean Sport, with dimensions of 4774 mm in length, 1982 mm in width, and 1631 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Fisker Ocean Sport is available in a total of 12 paint colors, including several striking metallic options.
-Additionally, you can choose between 6 wheels with sizes from 20 to 22 inches.
+
+You can select from multiple wheel options in different sizes on the Fisker Ocean Sport, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 255/50 tires on 20" rims
+- 255/45 tires on 22" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

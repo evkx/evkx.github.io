@@ -86,7 +86,12 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 ## Extérieur
 
 La Maserati GranCabrio Folgore est disponible en un total de 8 couleurs de peinture, comprenant des options à la fois solides et métalliques.
-De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 19 à 21 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Maserati GranCabrio Folgore, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 255/50 sur jantes de 19"
+- Pneus 255/45 sur jantes de 20" à l'avant et pneus 295/40 sur jantes de 20" à l'arrière
+- Pneus 255/40 sur jantes de 21" à l'avant et pneus 295/35 sur jantes de 21" à l'arrière
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

@@ -80,7 +80,11 @@ Den maksimale regenerative effekten er 150 kW.
 ## Eksteriør
 
 Kia EV6 Long Range 2WD, med dimensjoner på 4680 mm i lengde, 1880 mm i bredde og 1550 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Du kan velge mellom 11 forskjellige lakkfarger når du bestiller denne modellen.
-I tillegg kan du velge mellom 2 hjul med størrelser fra 19 til 20 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Kia EV6 Long Range 2WD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 235/55 dekk på 19" felger
+- 255/45 dekk på 20" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 

@@ -78,7 +78,12 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 ## Exteriör
 
 Xiaomi SU7, med dimensioner på 4997 mm i längd, 1963 mm i bredd och 1455 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Xiaomi SU7 finns i totalt 9 lackfärger, inklusive flera iögonfallande metalliska alternativ.
-Dessutom kan du välja mellan 4 hjul i storlek från 19 till 21 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Xiaomi SU7, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 245/45 tires on 19" rims
+- 245/40 däck på 20" fälgar fram och 265/40 däck på 20" fälgar bak
+- 245/35 däck på 21" fälgar fram och 265/35 däck på 21" fälgar bak
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.
 

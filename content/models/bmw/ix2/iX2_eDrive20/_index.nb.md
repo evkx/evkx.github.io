@@ -80,7 +80,12 @@ Den maksimale regenerative effekten er 134 kW.
 ## Eksteriør
 
 BMW iX2 eDrive20, med dimensjoner på 4554 mm i lengde, 1845 mm i bredde og 1560 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Du kan velge mellom 12 forskjellige lakkfarger når du bestiller denne modellen.
-I tillegg kan du velge mellom 3 hjul med størrelser fra 17 til 19 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på BMW iX2 eDrive20, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 205/65 dekk på 17" felger
+- 255/60 dekk på 18" felger
+- 205/55 dekk på 19" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

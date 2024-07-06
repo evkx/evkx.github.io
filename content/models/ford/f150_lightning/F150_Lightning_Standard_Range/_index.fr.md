@@ -78,7 +78,12 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 ## Extérieur
 
 La Ford F150 Lightning Standard Range est disponible en un total de 6 couleurs de peinture, comprenant des options à la fois solides et métalliques.
-De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 18 à 22 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Ford F150 Lightning Standard Range, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 265/70 sur jantes de 18"
+- Pneus 275/60 sur jantes de 20"
+- Pneus 285/45 sur jantes de 22"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#split-tailgate) là où le portail tombe.
 

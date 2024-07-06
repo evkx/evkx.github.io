@@ -82,7 +82,12 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 ## Exterior
 
 The Volkswagen ID.7 Pro, with dimensions of 4961 mm in length, 1862 mm in width, and 1532 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Volkswagen ID.7 Pro is available in a total of 10 paint colors, including both solid and metallic options.
-Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches.
+
+You can select from multiple wheel options in different sizes on the Volkswagen ID.7 Pro, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
+- 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
+- 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

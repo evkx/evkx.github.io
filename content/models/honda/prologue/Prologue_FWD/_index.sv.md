@@ -81,6 +81,10 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 
 Honda Prologue FWD, med dimensioner på 4877 mm i längd, 1989 mm i bredd och 1634 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. Honda Prologue FWD finns i totalt 7 lackfärger, inklusive solida, metalliska och pärlemorsalternativ.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Honda Prologue FWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 275/45 tires on 21" rims
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
 Du kan välja mellan två typer av tak på denna modell. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten på passageraren. Den har en elektrisk gardin som passagerarna kan använda för att skydda sig mot solen. Som tillval kan du beställa denna modell med panoramatak som går att öppna. Glaset har två paneler. En ovanför första och andra raden, och passagerarna kan öppna den främre delen. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.

@@ -82,7 +82,11 @@ La puissance régénérative maximale est de 300 kW.
 La Mercedes-EQ G 580 EQ, avec des dimensions de 4624 mm de longueur, 1931 mm de largeur et 1986 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Mercedes-EQ G 580 EQ propose une sélection de 19 couleurs de peinture, comprenant des options unies, métallisées et mates. En plus de la palette standard, des couleurs exclusives sont disponibles dans la palette 'MANUFAKTUR'
 
 Vous pouvez également choisir plusieurs options de style pour rendre votre voiture plus unique.
-De plus, vous pouvez choisir entre 4 roues avec des tailles allant de 18 à 20 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Mercedes-EQ G 580 EQ, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 265/60 sur jantes de 18"
+- Pneus 265/50 sur jantes de 20"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

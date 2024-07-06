@@ -75,6 +75,10 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The XPENG G6 RWD Long Range, with dimensions of 4753 mm in length, 1920 mm in width, and 1650 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 5 different paint colors when ordering this model.
 
+You can select from multiple wheel designs, all available in the same size, on the XPENG G6 RWD Long Range, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 255/45 tires on 20" rims
+
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.

@@ -76,7 +76,11 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 ## Extérieur
 
 La Fisker Ocean Ultra, avec des dimensions de 4774 mm de longueur, 1982 mm de largeur et 1631 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Fisker Ocean Ultra est disponible en un total de 12 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
-De plus, vous pouvez choisir entre 6 roues avec des tailles allant de 20 à 22 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Fisker Ocean Ultra, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 255/50 sur jantes de 20"
+- Pneus 255/45 sur jantes de 22"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 

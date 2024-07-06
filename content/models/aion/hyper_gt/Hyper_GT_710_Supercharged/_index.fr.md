@@ -74,7 +74,12 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 ## Extérieur
 
 La Aion Hyper GT 710 Supercharged, avec des dimensions de 4886 mm de longueur, 1885 mm de largeur et 1449 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. La Aion Hyper GT 710 Supercharged est disponible en un total de 5 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
-De plus, vous pouvez choisir entre 4 roues avec des tailles allant de 17 à 19 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Aion Hyper GT 710 Supercharged, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 235/55 sur jantes de 17"
+- Pneus 235/50 sur jantes de 18"
+- Pneus 235/45 sur jantes de 19"
 
 
 

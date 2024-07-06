@@ -76,7 +76,11 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 ## Extérieur
 
 La Polestar 2 Long Range Single Motor, avec des dimensions de 4606 mm de longueur, 1859 mm de largeur et 1652 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. La Polestar 2 Long Range Single Motor est disponible en un total de 6 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
-De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 19 à 20 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Polestar 2 Long Range Single Motor, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 245/45 sur jantes de 19"
+- Pneus 245/40 sur jantes de 20"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 

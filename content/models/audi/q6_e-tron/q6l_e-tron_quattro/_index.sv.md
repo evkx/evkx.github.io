@@ -101,7 +101,12 @@ Den maximala regenerativa effekten är 220 kW.
 Audi Q6L e-tron quattro, med dimensioner på 4884 mm i längd, 1939 mm i bredd och 1687 mm i höjd, tillhör mellanstora SUV:ar och erbjuder en blandning av utrymme, komfort, prestanda och mångsidighet, vilket gör dem lämpliga för ett brett spektrum av förare med olika behov. Audi Q6L e-tron quattro finns i totalt 56 lackfärger, inklusive solida, metalliska och pärlemorsalternativ. Utöver standardpaletten är några färger från den exklusiva paletten 'Audi exclusive'.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
-Dessutom kan du välja mellan 9 hjul i storlek från 19 till 21 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Audi Q6L e-tron quattro, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 235/60 däck på 19" fälgar fram och 255/55 däck på 19" fälgar bak
+- 255/50 däck på 20" fälgar fram och 285/45 däck på 20" fälgar bak
+- 255/45 däck på 21" fälgar fram och 285/40 däck på 21" fälgar bak
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

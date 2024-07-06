@@ -79,6 +79,10 @@ Los frenos traseros y delanteros son [discos cerámicos](../../../../technology/
 
 El Lucid Air Sapphire, con dimensiones de 4975 mm de longitud, 1939 mm de anchura y 1410 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. Puedes elegir entre 1 colores de pintura diferentes al pedir este modelo.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Lucid Air Sapphire, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 265/35 en llantas de 21" delanteras y neumáticos 295/30 en llantas de 21" traseras
+
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#boot-lid) para el maletero. El cierre suave es la función un estándar para las puertas laterales.
 
 Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.

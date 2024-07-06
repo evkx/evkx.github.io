@@ -75,6 +75,10 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 MG Cyberster AWD Long Range finns i totalt 7 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på MG Cyberster AWD Long Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 245/45 däck på 19" fälgar fram och 275/40 däck på 19" fälgar bak
+
 Bilen har två [saxdörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#bootlid) bakom.
 
 Det finns bara ett tak för denna modell. Standardtaket är ett stofftak topp som kan slås ned.

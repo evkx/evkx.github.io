@@ -79,6 +79,10 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The HiPhi Y Performance, with dimensions of 4938 mm in length, 1958 mm in width, and 1658 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. You can choose between 5 different paint colors when ordering this model.
 
+You can select from multiple wheel designs, all available in the same size, on the HiPhi Y Performance, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 275/40 tires on 21" rims
+
 The car has two [regular doors](../../../../technology/doors/) in front, a unique combination of regular doors with a gullwing roof on the second row, and a  [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate) in the rear. Powered doors are a standard function for the side doors.
 
 There is only one roof for this model. The standard roof has a panoramic glass over first row in addition to the roof part of the gullving doors have glass. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant.

@@ -80,7 +80,11 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 ## Exterior
 
 The Lotus Eletre R, with dimensions of 5105 mm in length,  mm in width, and 1630 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Lotus Eletre R is available in a total of 6 paint colors, including several striking metallic options.
-Additionally, you can choose between 10 wheels with sizes from 22 to 23 inches.
+
+You can select from multiple wheel options in different sizes on the Lotus Eletre R, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 275/40 tires on 22" rims front and 315/35 tires on 22" rims rear
+- 285/35 tires on 23" rims front and 325/30 tires on 23" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

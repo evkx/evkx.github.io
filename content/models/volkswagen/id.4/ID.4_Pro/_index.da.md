@@ -80,7 +80,12 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 ## Udvendig
 
 Den Volkswagen ID.4 Pro, med dimensioner på 4584 mm i længde, 1865 mm i bredde og 1634 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Volkswagen ID.4 Pro fås i alt 10 lakfarver, herunder både solide og metalliske muligheder.
-Derudover kan du vælge mellem 3 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Volkswagen ID.4 Pro, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 235/55 dæk på 19" fælge foran og 255/50 dæk på 19" fælge bagpå
+- 235/50 dæk på 20" fælge foran og 255/45 dæk på 20" fælge bagpå
+- 235/45 dæk på 21" fælge foran og 255/40 dæk på 21" fælge bagpå
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

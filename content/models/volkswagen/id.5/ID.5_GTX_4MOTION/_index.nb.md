@@ -80,7 +80,11 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 ## Eksteriør
 
 Volkswagen ID.5 GTX 4MOTION, med dimensjoner på 4599 mm i lengde, 1852 mm i bredde og 1615 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Volkswagen ID.5 GTX 4MOTION er tilgjengelig i totalt 5 lakkfarger, inkludert både solide og metalliske alternativer.
-I tillegg kan du velge mellom 3 hjul med størrelser fra 20 til 21 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volkswagen ID.5 GTX 4MOTION, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 235/50 dekk på 20" felger foran og 255/45 dekk på 20" felger bak
+- 235/45 dekk på 21" felger foran og 255/40 dekk på 21" felger bak
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

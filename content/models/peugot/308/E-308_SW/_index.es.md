@@ -75,6 +75,10 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 El Peugot E-308 SW, con dimensiones de 4636 mm de longitud, 1859 mm de anchura y 1442 mm de altura, pertenece al segmento D de automóviles, también conocido como coches medianos o familiares. Estos coches ofrecen más espacio, comodidad y características que segmentos más pequeños, siendo adecuados para una variedad de conductores. El Peugot E-308 SW está disponible en un total de 6 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Peugot E-308 SW, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 215/45 en llantas de 18" delanteras y neumáticos 215/45 en llantas de 18" traseras
+
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Puedes elegir entre dos tipos de techos en este modelo. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este cristal hace que el coche sea más cómodo. El interior se siente más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.

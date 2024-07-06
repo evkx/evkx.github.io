@@ -78,7 +78,12 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 ## Exteriör
 
 Lucid Air Grand Touring, med dimensioner på 4975 mm i längd, 1939 mm i bredd och 1410 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Du kan välja mellan 4 olika färgfärger när du beställer den här modellen.
-Dessutom kan du välja mellan 6 hjul i storlek från 19 till 21 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Lucid Air Grand Touring, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 245/45 tires on 19" rims
+- 245/40 däck på 20" fälgar fram och 265/40 däck på 20" fälgar bak
+- 245/40 däck på 21" fälgar fram och 265/40 däck på 21" fälgar bak
 
 Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [baklucka](../../../../technology/doors/#boot-lock) för bagageutrymmet.
 

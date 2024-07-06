@@ -83,6 +83,10 @@ However, it is not considered full one-pedal driving since, at low speeds, the v
 
 The HiPhi X 6 Seater, with dimensions of 5200 mm in length,  mm in width, and 1618 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs You can choose between 5 different paint colors when ordering this model.
 
+You can select from multiple wheel designs, all available in the same size, on the HiPhi X 6 Seater, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 255/45 tires on 22" rims
+
 The car has two [regular doors](../../../../technology/doors/) in front, a unique combination of suicide doors with a gullwing roof on the second row, and a [liftgate](../../../../technology/doors/#liftgate) in the rear. Powered doors are a standard function for the side doors.
 
 There is only one roof for this model. The standard roof has a panoramic glass over first row in addition to the roof part of the gullving doors have glass. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant.

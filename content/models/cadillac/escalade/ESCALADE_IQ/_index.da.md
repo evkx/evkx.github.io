@@ -77,6 +77,10 @@ Den maksimale regenerative effekt er 400 kW.
 
 Den Cadillac ESCALADE IQ, med dimensioner på 5697 mm i længde, 2167 mm i bredde og 1934 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Cadillac ESCALADE IQ fås i alt 1 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Cadillac ESCALADE IQ, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 275/50 dæk on 24" fælge
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Elektriske døre er en standard funktion for sidedørene.
 
 Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen.

@@ -90,7 +90,11 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 ## Eksteriør
 
 Tesla Model 3 (GEN1), med dimensjoner på 4694 mm i lengde, 1849 mm i bredde og 1443 mm i høyde, tilhører D-segmentet av biler, også kjent som mellomstore eller familiebiler. Disse bilene tilbyr mer plass, komfort og funksjoner enn mindre segmenter, noe som gjør dem egnet for ulike sjåfører. Tesla Model 3 (GEN1) er tilgjengelig i totalt 5 lakkfarger, inkludert både solide og metalliske alternativer.
-I tillegg kan du velge mellom 2 hjul med størrelser fra 18 til 19 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Tesla Model 3 (GEN1), slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 255/45 dekk på 18" felger
+- 255/45 dekk på 19" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet.
 

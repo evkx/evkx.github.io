@@ -72,7 +72,12 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 ## Eksteriør
 
 Mini Cooper SE, med dimensjoner på 3900 mm i lengde, 1750 mm i bredde og 1450 mm i høyde, tilhører B-segmentet av biler, også kjent som supermini. Dette er en liten bil som typisk er egnet for bykjøring, og den tilbyr en god balanse mellom effektivitet, størrelse og kostnad. Mini Cooper SE er tilgjengelig i totalt 10 lakkfarger, inkludert både solide og metalliske alternativer.
-I tillegg kan du velge mellom 3 hjul med størrelser fra 16 til 18 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Mini Cooper SE, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 215/55 dekk på 16" felger
+- 205/50 dekk på 17" felger
+- 225/40 dekk på 18" felger
 
 
 

@@ -79,6 +79,10 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 
 MG ZS EV Long Range, med dimensioner på 4323 mm i längd, 1809 mm i bredd och 1649 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. MG ZS EV Long Range finns i totalt 5 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på MG ZS EV Long Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 215/55 tires on 17" rims
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
 Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Glaset sträcker ut större delen av taket, och passagerare kan öppna den främre delen. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra atmosfären och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.

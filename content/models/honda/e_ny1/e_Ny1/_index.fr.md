@@ -75,6 +75,9 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 La Honda e:Ny1, avec des dimensions de 4390 mm de longueur, 1790 mm de largeur et  mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. Vous pouvez choisir entre 1 couleurs de peinture différentes lors de la commande de ce modèle.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Honda e:Ny1, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+
 
 
 Il n'y a qu'un seul toit pour ce modèle.

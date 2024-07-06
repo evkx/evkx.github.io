@@ -95,7 +95,11 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 ## Udvendig
 
 Den Nio EL6, med dimensioner på 4854 mm i længde, 1995 mm i bredde og 1703 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Nio EL6 fås i alt i 7 ensfarvede lakfarver.
-Derudover kan du vælge mellem 2 hjul med størrelser fra 20 til 21 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Nio EL6, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 255/50 dæk on 20" fælge
+- 255/45 dæk on 21" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Soft close er en standard-funktion for sidedørene.
 

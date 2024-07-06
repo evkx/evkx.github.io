@@ -76,7 +76,11 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 ## Udvendig
 
 Den Polestar 2 Long Range Single Motor, med dimensioner på 4606 mm i længde, 1859 mm i bredde og 1652 mm i højde, tilhører D-segmentet af biler, også kendt som mellemstore eller familiebiler. Disse biler tilbyder mere plads, komfort og funktioner end mindre segmenter og er velegnede til forskellige førere. Polestar 2 Long Range Single Motor fås i alt 6 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
-Derudover kan du vælge mellem 3 hjul med størrelser fra 19 til 20 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Polestar 2 Long Range Single Motor, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 245/45 dæk on 19" fælge
+- 245/40 dæk on 20" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 

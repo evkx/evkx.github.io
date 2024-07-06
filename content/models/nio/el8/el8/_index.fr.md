@@ -95,7 +95,11 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 ## Extérieur
 
 La Nio EL8, avec des dimensions de 5099 mm de longueur, 1989 mm de largeur et 1750 mm de hauteur, appartient aux SUV de taille complète qui offrent le plus d'espace, de puissance et de capacité parmi les catégories de SUV, les rendant adaptés à un groupe spécifique de conducteurs ayant des besoins uniques. La Nio EL8 est disponible en un total de 5 couleurs de peinture unies.
-De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 20 à 21 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Nio EL8, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 265/50 sur jantes de 20"
+- Pneus 265/45 sur jantes de 21"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

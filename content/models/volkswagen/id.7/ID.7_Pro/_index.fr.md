@@ -82,7 +82,12 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 ## Extérieur
 
 La Volkswagen ID.7 Pro, avec des dimensions de 4961 mm de longueur, 1862 mm de largeur et 1532 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. La Volkswagen ID.7 Pro est disponible en un total de 10 couleurs de peinture, comprenant des options à la fois solides et métalliques.
-De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 19 à 21 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Volkswagen ID.7 Pro, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 235/55 sur jantes de 19" à l'avant et pneus 255/50 sur jantes de 19" à l'arrière
+- Pneus 235/50 sur jantes de 20" à l'avant et pneus 255/45 sur jantes de 20" à l'arrière
+- Pneus 235/45 sur jantes de 21" à l'avant et pneus 255/40 sur jantes de 21" à l'arrière
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

@@ -81,6 +81,10 @@ La puissance régénérative maximale est de 400 kW.
 
 La Chevrolet Silverado EV 3WT est disponible en un total de 1 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Chevrolet Silverado EV 3WT, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 265/70 sur jantes de 18"
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#split-tailgate) là où le portail tombe.
 
 Il n'y a qu'un seul toit pour ce modèle.

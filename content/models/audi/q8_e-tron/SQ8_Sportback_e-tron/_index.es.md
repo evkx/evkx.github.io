@@ -93,7 +93,11 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 ## Exterior
 
 El Audi SQ8 Sportback e-tron, con dimensiones de 4901 mm de longitud, 1935 mm de anchura y 1615 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El Audi SQ8 Sportback e-tron está disponible en un total de 61 colores de pintura, incluyendo opciones sólidas, metálicas y perladas. Además de la paleta estándar, algunos colores son de la exclusiva paleta 'Audi exclusive'.
-Adicionalmente, puedes elegir entre 4 ruedas con tamaños de 20 a 22 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Audi SQ8 Sportback e-tron, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 285/45 en llantas de 20
+- Neumáticos 285/40 en llantas de 21
 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate). El cierre suave es la función un opcional para las puertas laterales.
 

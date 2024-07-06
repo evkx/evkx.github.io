@@ -75,6 +75,10 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 
 Neta GT 580 AWD, med dimensioner på 4715 mm i längd, 1979 mm i bredd och 1415 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. Neta GT 580 AWD finns i totalt 6 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Neta GT 580 AWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 245/45 tires on 19" rims
+
 
 
 Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten hos den åkande. Glaset är tonat för att skydda mot värme från solen.

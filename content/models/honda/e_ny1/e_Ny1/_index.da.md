@@ -75,6 +75,9 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 Den Honda e:Ny1, med dimensioner på 4390 mm i længde, 1790 mm i bredde og  mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Du kan vælge mellem 1 forskellige malingsfarver, når du bestiller denne model.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Honda e:Ny1, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+
 
 
 Der er kun ét tag til denne model.

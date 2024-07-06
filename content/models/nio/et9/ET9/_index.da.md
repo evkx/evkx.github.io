@@ -84,6 +84,10 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 
 Den Nio ET9, med dimensioner på 5325 mm i længde, 2016 mm i bredde og 1620 mm i højde, tilhører F-segmentet af biler, også kendt som luksus- eller fuldstørrelses luksusbiler. De repræsenterer toppen af ​​automobil luksus, ydeevne og teknologi. De er typisk store sedans eller limousiner og er designet til at tilbyde det ypperste inden for komfort, prestige og avancerede funktioner. Nio ET9 fås i alt i 7 ensfarvede lakfarver.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Nio ET9, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 265/40 dæk on 23" fælge
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate). Soft close er en standard-funktion for sidedørene.
 
 Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Glasset er tonet for at beskytte mod varme fra solen.

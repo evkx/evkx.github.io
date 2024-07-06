@@ -90,7 +90,11 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 ## Exterior
 
 The Tesla Model 3 Long Range (GEN1), with dimensions of 4694 mm in length, 1849 mm in width, and 1443 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. The Tesla Model 3 Long Range (GEN1) is available in a total of 5 paint colors, including both solid and metallic options.
-Additionally, you can choose between 2 wheels with sizes from 18 to 19 inches.
+
+You can select from multiple wheel options in different sizes on the Tesla Model 3 Long Range (GEN1), allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 255/45 tires on 18" rims
+- 255/45 tires on 19" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 

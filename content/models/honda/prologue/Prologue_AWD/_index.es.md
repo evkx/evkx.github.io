@@ -82,6 +82,10 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 El Honda Prologue AWD, con dimensiones de 4877 mm de longitud, 1989 mm de anchura y 1634 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El Honda Prologue AWD está disponible en un total de 7 colores de pintura, incluyendo opciones sólidas, metálicas y perladas.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Honda Prologue AWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 275/45 en llantas de 21
+
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Puedes elegir entre dos tipos de techos en este modelo. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol. Como opción, puedes pedir este modelo con techo panorámico que se puede abrir. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir la parte delantera. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.

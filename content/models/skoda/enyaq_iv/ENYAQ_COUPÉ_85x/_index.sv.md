@@ -82,7 +82,11 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 ## Exteriör
 
 SKODA ENYAQ COUPÉ 85x, med dimensioner på 4653 mm i längd, 1879 mm i bredd och 1607 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. SKODA ENYAQ COUPÉ 85x finns i totalt 9 lackfärger, inklusive solida, metalliska och pärlemorsalternativ.
-Dessutom kan du välja mellan 2 hjul i storlek från 20 till 21 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på SKODA ENYAQ COUPÉ 85x, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 235/50 däck på 20" fälgar fram och 255/45 däck på 20" fälgar bak
+- 235/45 däck på 21" fälgar fram och 255/40 däck på 21" fälgar bak
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

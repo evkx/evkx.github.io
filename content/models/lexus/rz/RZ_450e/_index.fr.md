@@ -78,7 +78,11 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 ## Extérieur
 
 La Lexus RZ 450e, avec des dimensions de 4805 mm de longueur, 1860 mm de largeur et 1635 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. Vous pouvez choisir entre 1 couleurs de peinture différentes lors de la commande de ce modèle.
-De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 18 à 20 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Lexus RZ 450e, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 235/60 sur jantes de 18" à l'avant et pneus 255/55 sur jantes de 18" à l'arrière
+- Pneus 235/50 sur jantes de 20" à l'avant et pneus 255/45 sur jantes de 20" à l'arrière
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 

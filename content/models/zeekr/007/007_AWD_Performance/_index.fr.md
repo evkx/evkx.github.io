@@ -75,6 +75,10 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 La Zeekr 007 AWD Performance, avec des dimensions de 4865 mm de longueur, 1900 mm de largeur et 1450 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. La Zeekr 007 AWD Performance est disponible en un total de 4 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Zeekr 007 AWD Performance, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 265/40 sur jantes de 22"
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate). Les portes motorisées sont une fonction un standard pour les portes latérales.
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un grand toit panoramique s'étendant sur la plupart des zones de l'avant vers l'arrière. Ce verre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance. humeur et confort de l'occupant. Les vitrages sont teintés pour protéger de la chaleur du soleil.

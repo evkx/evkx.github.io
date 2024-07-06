@@ -76,7 +76,11 @@ La puissance régénérative maximale est de 150 kW.
 ## Extérieur
 
 La Hyundai Ioniq 6 Long Range AWD, avec des dimensions de 4855 mm de longueur, 1880 mm de largeur et 1495 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. La Hyundai Ioniq 6 Long Range AWD est disponible en un total de 9 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
-De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 18 à 20 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Hyundai Ioniq 6 Long Range AWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 225/55 sur jantes de 18"
+- Pneus 245/40 sur jantes de 20"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre.
 

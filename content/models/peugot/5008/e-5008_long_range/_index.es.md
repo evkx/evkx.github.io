@@ -80,7 +80,11 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 ## Exterior
 
 El Peugot E-5008 Long Range, con dimensiones de 4791 mm de longitud, 1895 mm de anchura y 1694 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Peugot E-5008 Long Range está disponible en un total de 6 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
-Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 19 a 20 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Peugot E-5008 Long Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 235/55 en llantas de 19
+- Neumáticos 235/50 en llantas de 20
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

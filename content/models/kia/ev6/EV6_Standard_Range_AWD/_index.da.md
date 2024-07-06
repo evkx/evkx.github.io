@@ -80,7 +80,11 @@ Den maksimale regenerative effekt er 150 kW.
 ## Udvendig
 
 Den Kia EV6 Standard Range AWD, med dimensioner på 4680 mm i længde, 1880 mm i bredde og 1550 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 11 forskellige malingsfarver, når du bestiller denne model.
-Derudover kan du vælge mellem 2 hjul med størrelser fra 19 til 20 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Kia EV6 Standard Range AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 235/55 dæk on 19" fælge
+- 255/45 dæk on 20" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 

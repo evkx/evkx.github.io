@@ -75,6 +75,10 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The MG Cyberster AWD Long Range is available in a total of 7 paint colors, including several striking metallic options.
 
+You can select from multiple wheel designs, all available in the same size, on the MG Cyberster AWD Long Range, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 245/45 tires on 19" rims front and 275/40 tires on 19" rims rear
+
 The car has two [scissor doors](../../../../technology/doors/) and a [bootlid](../../../../technology/doors/#bootlid) in the rear.
 
 There is only one roof for this model. The standard roof is a soft top that can be folded down.

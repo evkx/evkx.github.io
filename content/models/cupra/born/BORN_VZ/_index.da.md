@@ -78,7 +78,12 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 ## Udvendig
 
 Den CUPRA BORN VZ, med dimensioner på 4322 mm i længde, 1809 mm i bredde og 1540 mm i højde, tilhører C-segmentet af biler, også kendt som kompakte biler. Disse biler opnår en balance mellem størrelse, ydelse og overkommelighed, hvilket gør dem alsidige for en række førere. CUPRA BORN VZ fås i alt 7 lakfarver, herunder både solide og metalliske muligheder.
-Derudover kan du vælge mellem 6 hjul med størrelser fra 18 til 20 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på CUPRA BORN VZ, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 215/55 dæk on 18" fælge
+- 215/50 dæk on 19" fælge
+- 215/45 dæk on 20" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

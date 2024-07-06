@@ -79,6 +79,10 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 La MG ZS EV Standard Range, avec des dimensions de 4323 mm de longueur, 1809 mm de largeur et 1649 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. La MG ZS EV Standard Range est disponible en un total de 5 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'MG ZS EV Standard Range, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 215/55 sur jantes de 17"
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit panoramique. La vitre s'étend sur la majeure partie du toit et les occupants peuvent ouvrir la partie avant. Cette vitre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux. , ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.

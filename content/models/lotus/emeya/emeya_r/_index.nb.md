@@ -80,7 +80,11 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 ## Eksteriør
 
 Lotus Emeya R, med dimensjoner på 5139 mm i lengde, 2005 mm i bredde og 1464 mm i høyde, tilhører F-segmentet av biler, også kjent som luksus- eller fullstørrelse luksusbiler. De representerer det ypperste innen bil-luksus, ytelse og teknologi. De er typisk store sedaner eller limousiner designet for å tilby det beste innen komfort, prestisje og avanserte funksjoner. Lotus Emeya R er tilgjengelig i totalt 6 lakkfarger, inkludert flere iøynefallende metalliske alternativer. Noen av disse lakkalternativene inkluderer to-tonet lakk hvor taket og den øvre delen av karosseriet er malt i en annen farge, noe som gir et karakteristisk og stilfullt utseende
-I tillegg kan du velge mellom 11 hjul med størrelser fra 21 til 22 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Lotus Emeya R, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 265/40 dekk på 21" felger foran og 305/35 dekk på 21" felger bak
+- 265/35 dekk på 22" felger foran og 305/30 dekk på 22" felger bak
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 

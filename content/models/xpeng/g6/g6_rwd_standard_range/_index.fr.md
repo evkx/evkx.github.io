@@ -75,6 +75,10 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 
 La XPENG G6 RWD Standard Range, avec des dimensions de 4753 mm de longueur, 1920 mm de largeur et 1650 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. Vous pouvez choisir entre 5 couleurs de peinture différentes lors de la commande de ce modèle.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'XPENG G6 RWD Standard Range, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 255/45 sur jantes de 20"
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un grand toit panoramique s'étendant sur la plupart des zones de l'avant vers l'arrière. Ce verre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux, ce qui peut améliore l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.

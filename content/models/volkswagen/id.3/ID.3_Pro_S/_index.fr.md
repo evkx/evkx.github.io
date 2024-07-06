@@ -78,7 +78,12 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 ## Extérieur
 
 La Volkswagen ID.3 Pro S, avec des dimensions de 4261 mm de longueur, 1809 mm de largeur et 1568 mm de hauteur, appartient au segment C des voitures, également connu sous le nom de voitures compactes. Ces voitures atteignent un équilibre entre taille, performance et abordabilité, les rendant polyvalentes pour une variété de conducteurs. La Volkswagen ID.3 Pro S est disponible en un total de 5 couleurs de peinture, comprenant des options à la fois solides et métalliques.
-De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 18 à 20 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Volkswagen ID.3 Pro S, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 215/55 sur jantes de 18"
+- Pneus 215/50 sur jantes de 19"
+- Pneus 215/45 sur jantes de 20"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

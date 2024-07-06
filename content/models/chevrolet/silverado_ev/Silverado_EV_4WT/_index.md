@@ -81,6 +81,10 @@ The maximum regenerative power is 400 kW.
 
 The Chevrolet Silverado EV 4WT is available in a total of 1 paint colors, including several striking metallic options.
 
+You can select from multiple wheel designs, all available in the same size, on the Chevrolet Silverado EV 4WT, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 265/70 tires on 18" rims
+
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 
 There is only one roof for this model.

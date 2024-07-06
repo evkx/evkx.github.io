@@ -86,7 +86,12 @@ Den maximala regenerativa effekten är 275 kW.
 Porsche Taycan Turbo S Cross Turismo, med dimensioner på 4974 mm i längd, 1967 mm i bredd och 1407 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Porsche Taycan Turbo S Cross Turismo finns i totalt 17 lackfärger, inklusive både solida och metalliska alternativ.
 
 Du kan också välja flera stilalternativ för att göra din bil mer unik.
-Dessutom kan du välja mellan 8 hjul i storlek från 19 till 21 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Porsche Taycan Turbo S Cross Turismo, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 225/55 däck på 19" fälgar fram och 275/45 däck på 19" fälgar bak
+- 245/45 däck på 20" fälgar fram och 285/40 däck på 20" fälgar bak
+- 265/35 däck på 21" fälgar fram och 305/30 däck på 21" fälgar bak
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

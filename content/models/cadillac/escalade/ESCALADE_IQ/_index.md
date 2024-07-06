@@ -77,6 +77,10 @@ The maximum regenerative power is 400 kW.
 
 The Cadillac ESCALADE IQ, with dimensions of 5697 mm in length, 2167 mm in width, and 1934 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Cadillac ESCALADE IQ is available in a total of 1 paint colors, including several striking metallic options.
 
+You can select from multiple wheel designs, all available in the same size, on the Cadillac ESCALADE IQ, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 275/50 tires on 24" rims
+
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Powered doors are a standard function for the side doors.
 
 There is only one roof for this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.

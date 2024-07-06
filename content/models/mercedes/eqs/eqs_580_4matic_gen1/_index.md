@@ -95,7 +95,13 @@ You can also choose several styling options to make your car more unique.
  In addition, you can equip this model with an AMG line exterior package. This package gives a more sporty design with a sporty diffusor and a new twin blade grill. 
 
 
-Additionally, you can choose between 9 wheels with sizes from 19 to 22 inches.
+
+You can select from multiple wheel options in different sizes on the Mercedes-EQ EQS 580 4MATIC, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 235/55 tires on 19" rims
+- 265/40 tires on 21" rims front and 295/35 tires on 21" rims rear
+- 265/40 tires on 20" rims front and 295/35 tires on 20" rims rear
+- 265/35 tires on 22" rims front and 295/30 tires on 22" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

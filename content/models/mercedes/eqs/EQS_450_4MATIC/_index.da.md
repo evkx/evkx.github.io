@@ -86,7 +86,13 @@ Den maksimale regenerative effekt er 300 kW.
 Den Mercedes-EQ EQS 450 4MATIC, med dimensioner på 5216 mm i længde, 1926 mm i bredde og 1512 mm i højde, tilhører F-segmentet af biler, også kendt som luksus- eller fuldstørrelses luksusbiler. De repræsenterer toppen af ​​automobil luksus, ydeevne og teknologi. De er typisk store sedans eller limousiner og er designet til at tilbyde det ypperste inden for komfort, prestige og avancerede funktioner. Mercedes-EQ EQS 450 4MATIC tilbyder et udvalg af 11 lakfarver, herunder ensfarvede, metalliske og matte muligheder. Ved siden af standardpaletten er der eksklusive farver tilgængelige fra 'MANUFAKTUR'-paletten.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
-Derudover kan du vælge mellem 9 hjul med størrelser fra 19 til 22 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Mercedes-EQ EQS 450 4MATIC, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 235/55 dæk on 19" fælge
+- 265/40 dæk på 21" fælge foran og 295/35 dæk på 21" fælge bagpå
+- 265/40 dæk på 20" fælge foran og 295/35 dæk på 20" fælge bagpå
+- 265/35 dæk på 22" fælge foran og 295/30 dæk på 22" fælge bagpå
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

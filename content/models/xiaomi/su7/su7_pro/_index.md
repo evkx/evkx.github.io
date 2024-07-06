@@ -78,7 +78,12 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 The Xiaomi SU7 Pro, with dimensions of 4997 mm in length,  mm in width, and 1455 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. The Xiaomi SU7 Pro is available in a total of 9 paint colors, including several striking metallic options.
-Additionally, you can choose between 4 wheels with sizes from 19 to 21 inches.
+
+You can select from multiple wheel options in different sizes on the Xiaomi SU7 Pro, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 245/45 tires on 19" rims
+- 245/40 tires on 20" rims front and 265/40 tires on 20" rims rear
+- 245/35 tires on 21" rims front and 265/35 tires on 21" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [boot lid](../../../../technology/doors/#boot-lid) for the trunk.
 

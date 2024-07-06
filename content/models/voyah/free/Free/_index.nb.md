@@ -75,6 +75,10 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 VOYAH FREE, med dimensjoner på 4905 mm i lengde, 1950 mm i bredde og 1645 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Du kan velge mellom 6 forskjellige lakkfarger når du bestiller denne modellen.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på VOYAH FREE, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 255/45 dekk på 20" felger
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Det er bare ett tak for denne modellen. Standardtaket har en stor panoramautsikt som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedres stemningen og komforten til beboeren. Glasset har en elektrokrom funksjon som lar deg blande glasset i flere nivåer for å beskytte mot solen.

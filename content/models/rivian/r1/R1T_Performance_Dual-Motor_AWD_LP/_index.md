@@ -81,6 +81,9 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Rivian R1T Performance Dual-Motor AWD LP is available in a total of 9 paint colors, including several striking metallic options.
 
+You can select from multiple wheel designs, all available in the same size, on the Rivian R1T Performance Dual-Motor AWD LP, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down. The tailgate is electrically powered.
 
 There is only one roof for this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.

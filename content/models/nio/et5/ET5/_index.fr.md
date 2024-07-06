@@ -95,7 +95,11 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 ## Extérieur
 
 La Nio ET5, avec des dimensions de 4790 mm de longueur, 1960 mm de largeur et 1499 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. La Nio ET5 est disponible en un total de 10 couleurs de peinture unies.
-De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 20 à 21 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Nio ET5, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 255/50 sur jantes de 20"
+- Pneus 255/45 sur jantes de 21"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate). La fermeture douce est la fonction un standard pour les portes latérales.
 

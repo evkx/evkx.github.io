@@ -74,7 +74,11 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 ## Eksteriør
 
 Peugot E-308, med dimensjoner på 4367 mm i lengde, 1852 mm i bredde og 1441 mm i høyde, tilhører C-segmentet av biler, også kjent som kompakte biler. Disse bilene oppnår en balanse mellom størrelse, ytelse og prisvennlighet, noe som gjør dem allsidige for ulike sjåfører. Peugot E-308 er tilgjengelig i totalt 6 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
-I tillegg kan du velge mellom 5 hjul med størrelser fra 17 til 18 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Peugot E-308, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 215/60 dekk på 17" felger
+- 215/55 dekk på 18" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

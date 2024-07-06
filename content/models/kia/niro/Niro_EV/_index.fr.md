@@ -80,7 +80,11 @@ La puissance régénérative maximale est de 150 kW.
 ## Extérieur
 
 La Kia Niro EV, avec des dimensions de 4420 mm de longueur, 1825 mm de largeur et 1545 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. Vous pouvez choisir entre 11 couleurs de peinture différentes lors de la commande de ce modèle.
-De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 19 à 20 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Kia Niro EV, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 235/55 sur jantes de 19"
+- Pneus 255/45 sur jantes de 20"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 

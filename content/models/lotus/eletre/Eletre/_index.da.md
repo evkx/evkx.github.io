@@ -80,7 +80,11 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 ## Udvendig
 
 Den Lotus Eletre, med dimensioner på 5105 mm i længde,  mm i bredde og 1630 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Lotus Eletre fås i alt 2 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
-Derudover kan du vælge mellem 2 hjul med størrelser fra 20 til 22 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Lotus Eletre, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 255/50 dæk på 20" fælge foran og 285/45 dæk på 20" fælge bagpå
+- 275/40 dæk på 22" fælge foran og 315/35 dæk på 22" fælge bagpå
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 

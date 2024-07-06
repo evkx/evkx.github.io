@@ -86,7 +86,13 @@ Den maksimale regenerative effekten er 300 kW.
 Mercedes-EQ EQS 580 4MATIC, med dimensjoner på 5216 mm i lengde, 1926 mm i bredde og 1512 mm i høyde, tilhører F-segmentet av biler, også kjent som luksus- eller fullstørrelse luksusbiler. De representerer det ypperste innen bil-luksus, ytelse og teknologi. De er typisk store sedaner eller limousiner designet for å tilby det beste innen komfort, prestisje og avanserte funksjoner. Mercedes-EQ EQS 580 4MATIC tilbyr et utvalg av 11 lakkfarger, inkludert ensfargede, metalliske og matte alternativer. Ved siden av standardpaletten er det eksklusive farger tilgjengelig fra 'MANUFAKTUR'-paletten.
 
 Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
-I tillegg kan du velge mellom 9 hjul med størrelser fra 19 til 22 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Mercedes-EQ EQS 580 4MATIC, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 235/55 dekk på 19" felger
+- 265/40 dekk på 21" felger foran og 295/35 dekk på 21" felger bak
+- 265/40 dekk på 20" felger foran og 295/35 dekk på 20" felger bak
+- 265/35 dekk på 22" felger foran og 295/30 dekk på 22" felger bak
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

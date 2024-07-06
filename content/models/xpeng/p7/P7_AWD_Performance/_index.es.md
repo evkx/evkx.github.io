@@ -75,6 +75,10 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 
 El XPENG P7 AWD Performance, con dimensiones de 4888 mm de longitud, 1896 mm de anchura y 1450 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el XPENG P7 AWD Performance, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 245/45 en llantas de 19
+
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.

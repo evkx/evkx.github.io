@@ -75,6 +75,10 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 Opel Astra Sports Tourer Electric, med dimensioner på 4642 mm i längd, 1860 mm i bredd och 1480 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. Opel Astra Sports Tourer Electric finns i totalt 7 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Opel Astra Sports Tourer Electric, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 215/45 däck på 18" fälgar fram och 215/45 däck på 18" fälgar bak
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
 Du kan välja mellan två typer av tak på denna modell. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset sträcker ut större delen av taket, och passagerarna kan öppna den främre delen. Detta glas gör bilens interiören känns rymligare och ljusare, något som kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.

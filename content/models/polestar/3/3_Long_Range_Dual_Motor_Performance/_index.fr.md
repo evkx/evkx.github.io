@@ -77,6 +77,10 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 La Polestar 3 Long Range Dual Motor Performance, avec des dimensions de 4900 mm de longueur, 1968 mm de largeur et 1614 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Polestar 3 Long Range Dual Motor Performance est disponible en un total de 6 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Polestar 3 Long Range Dual Motor Performance, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 265/40 sur jantes de 22" à l'avant et pneus 295/40 sur jantes de 22" à l'arrière
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 
 Vous pouvez choisir entre deux types de toits sur ce modèle. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil.

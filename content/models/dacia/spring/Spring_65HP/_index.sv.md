@@ -76,7 +76,11 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 ## Exteriör
 
 Dacia Spring 65HP, med dimensioner på 3701 mm i längd, 1622 mm i bredd och 1519 mm i höjd, tillhör mini-segmentet av bilar, även kallat stadsvagnar eller A-segmentbilar. Detta är den minsta klassen av bilar, designade främst för stadsmiljöer, och de erbjuder en kompakt storlek, utmärkt manövrerbarhet och ekonomisk drift. Dacia Spring 65HP finns i totalt 6 enfärgade lackfärger.
-Dessutom kan du välja mellan 2 hjul i storlek från 14 till 15 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Dacia Spring 65HP, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 165/70 tires on 14" rims
+- 175/60 tires on 15" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

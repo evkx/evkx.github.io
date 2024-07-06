@@ -74,7 +74,11 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 ## Extérieur
 
 La Citroën ë-C4 X, avec des dimensions de 4118 mm de longueur, 1802 mm de largeur et 1534 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. La Citroën ë-C4 X est disponible en un total de 5 couleurs de peinture unies.
-De plus, vous pouvez choisir entre 5 roues avec des tailles allant de 17 à 18 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Citroën ë-C4 X, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 215/60 sur jantes de 17"
+- Pneus 215/55 sur jantes de 18"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre.
 

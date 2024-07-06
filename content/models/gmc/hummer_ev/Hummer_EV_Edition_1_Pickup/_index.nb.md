@@ -77,6 +77,9 @@ Den maksimale regenerative effekten er 400 kW.
 
 GMC Hummer EV Edition 1 Pickup er tilgjengelig i totalt 1 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på GMC Hummer EV Edition 1 Pickup, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](../../../../technology/doors/#split-bakluke) der porten faller ned.
 
 Det er bare ett tak for denne modellen. Standardtaket har 4 separate glasspaneler som kan fjernes, noe som gjør dette til en cabriolet.

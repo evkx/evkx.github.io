@@ -84,7 +84,12 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 Audi Q4 Sportback 40 e-tron, med dimensjoner på 4588 mm i lengde, 1865 mm i bredde og 1614 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Du kan velge mellom 8 forskjellige lakkfarger når du bestiller denne modellen.
 
 Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
-I tillegg kan du velge mellom 11 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Audi Q4 Sportback 40 e-tron, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 235/55 dekk på 19" felger foran og 255/50 dekk på 19" felger bak
+- 235/50 dekk på 20" felger foran og 255/45 dekk på 20" felger bak
+- 235/45 dekk på 21" felger foran og 255/40 dekk på 21" felger bak
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

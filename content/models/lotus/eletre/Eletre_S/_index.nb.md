@@ -80,7 +80,11 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 ## Eksteriør
 
 Lotus Eletre S, med dimensjoner på 5105 mm i lengde,  mm i bredde og 1630 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Lotus Eletre S er tilgjengelig i totalt 6 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
-I tillegg kan du velge mellom 10 hjul med størrelser fra 22 til 23 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Lotus Eletre S, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 275/40 dekk på 22" felger foran og 315/35 dekk på 22" felger bak
+- 285/35 dekk på 23" felger foran og 325/30 dekk på 23" felger bak
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 

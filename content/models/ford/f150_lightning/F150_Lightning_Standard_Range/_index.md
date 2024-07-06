@@ -78,7 +78,12 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 ## Exterior
 
 The Ford F150 Lightning Standard Range is available in a total of 6 paint colors, including both solid and metallic options.
-Additionally, you can choose between 3 wheels with sizes from 18 to 22 inches.
+
+You can select from multiple wheel options in different sizes on the Ford F150 Lightning Standard Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 265/70 tires on 18" rims
+- 275/60 tires on 20" rims
+- 285/45 tires on 22" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [tailgate](../../../../technology/doors/#split-tailgate) where the gate falls down.
 

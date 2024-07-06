@@ -80,7 +80,12 @@ La puissance régénérative maximale est de 134 kW.
 ## Extérieur
 
 La BMW iX1 xDrive30, avec des dimensions de 4500 mm de longueur, 1845 mm de largeur et 1616 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. Vous pouvez choisir entre 12 couleurs de peinture différentes lors de la commande de ce modèle.
-De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 17 à 19 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'BMW iX1 xDrive30, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 205/65 sur jantes de 17"
+- Pneus 255/60 sur jantes de 18"
+- Pneus 205/55 sur jantes de 19"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

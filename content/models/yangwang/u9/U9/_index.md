@@ -94,6 +94,10 @@ The maximum regenerative power is 400 kW.
 
 The YangWang U9 is available in a total of 5 paint colors, including several striking metallic options.
 
+You can select from multiple wheel designs, all available in the same size, on the YangWang U9, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 275/35 tires on 21" rims front and 325/30 tires on 21" rims rear
+
 
 
 There is only one roof for this model.

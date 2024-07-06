@@ -84,6 +84,10 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The VinFast VF8 Eco, with dimensions of 4750 mm in length, 1934 mm in width, and 1667 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The VinFast VF8 Eco is available in a total of 8 paint colors, including several striking metallic options.
 
+You can select from multiple wheel designs, all available in the same size, on the VinFast VF8 Eco, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 245/50 tires on 19" rims
+
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 There is only one roof for this model. The standard is just a regular roof.

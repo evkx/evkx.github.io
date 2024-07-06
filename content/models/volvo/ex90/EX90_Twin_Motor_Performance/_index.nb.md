@@ -74,7 +74,11 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 ## Eksteriør
 
 Volvo EX90 Twin Motor Performance, med dimensjoner på 5037 mm i lengde, 1964 mm i bredde og 1744 mm i høyde, tilhører fullstørrelse SUV-er som tilbyr mest plass, kraft og kapasitet blant SUV-kategorier, noe som gjør dem egnet for en spesifikk gruppe sjåfører med unike behov. Volvo EX90 Twin Motor Performance er tilgjengelig i totalt 8 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
-I tillegg kan du velge mellom 2 hjul med størrelser fra 21 til 22 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Volvo EX90 Twin Motor Performance, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 265/45 dekk på 21" felger foran og 295/45 dekk på 21" felger bak
+- 265/40 dekk på 22" felger foran og 295/40 dekk på 22" felger bak
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate). 'Soft Close' er standard-funksjon for sidedørene.
 

@@ -83,6 +83,10 @@ Det betragtes dog ikke som fuld en-pedal kørsel, da køretøjet ved lave hastig
 
 Den HiPhi X 6 Seater, med dimensioner på 5200 mm i længde,  mm i bredde og 1618 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Du kan vælge mellem 5 forskellige malingsfarver, når du bestiller denne model.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på HiPhi X 6 Seater, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 255/45 dæk on 22" fælge
+
 Bilen har to [almindelige døre](../../../../technology/doors/) foran, en unik kombination af selvmordsdøre med mågevingetag på anden række og en [liftgate](../../../../technology/doors/#liftgate) bagerst. Elektriske døre er en standard funktion for sidedørene.
 
 Der er kun ét tag til denne model. Standardtaget har panoramaglas over første række udover at tagdelen af mågedørene har glas. Dette glas får bilens interiør til at føles mere rummeligt og lyst, som kan forbedre stemningen og komforten for beboeren.

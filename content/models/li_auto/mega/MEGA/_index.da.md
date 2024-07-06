@@ -83,6 +83,10 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 Li Auto MEGA fås i alt 4 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Li Auto MEGA, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 245/60 dæk on 18" fælge
+
 Bilen har to [almindelige døre](../../../../technology/doors/) i første række, [skydedøre](../../../../technology/doors/) på anden række og en bagklap. Elektriske døre er en standard funktion for sidedørene.
 
 Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humør og komfort for beboeren. Glasset er tonet for at beskytte mod varme fra solen.

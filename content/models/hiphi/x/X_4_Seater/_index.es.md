@@ -83,6 +83,10 @@ Sin embargo, no se considera una verdadera conducción con un solo pedal, ya que
 
 El HiPhi X 4 Seater, con dimensiones de 5200 mm de longitud,  mm de anchura y 1618 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. Puedes elegir entre 5 colores de pintura diferentes al pedir este modelo.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el HiPhi X 4 Seater, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 255/45 en llantas de 22
+
 El auto tiene dos [puertas normales](../../../../technology/doors/) en el frente, una combinación única de puertas suicidas con un techo de ala de gaviota en el segunda fila y una [puerta levadiza](../../../../technology/doors/#liftgate) en la parte trasera. Las puertas eléctricas tienen un estándar función para las puertas laterales.
 
 Sólo hay un techo para este modelo. El techo estándar tiene un vidrio panorámico sobre la primera fila, además de que la parte del techo de las puertas abatibles tiene vidrio. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso. lo que puede mejorar el estado de ánimo y la comodidad del ocupante.

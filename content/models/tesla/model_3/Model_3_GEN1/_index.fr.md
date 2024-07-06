@@ -90,7 +90,11 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 ## Extérieur
 
 La Tesla Model 3 (GEN1), avec des dimensions de 4694 mm de longueur, 1849 mm de largeur et 1443 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. La Tesla Model 3 (GEN1) est disponible en un total de 5 couleurs de peinture, comprenant des options à la fois solides et métalliques.
-De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 18 à 19 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Tesla Model 3 (GEN1), ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 255/45 sur jantes de 18"
+- Pneus 255/45 sur jantes de 19"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre.
 

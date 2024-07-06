@@ -80,7 +80,12 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 ## Extérieur
 
 La Lotus Emeya S, avec des dimensions de 5139 mm de longueur, 2005 mm de largeur et 1464 mm de hauteur, appartient au segment F des voitures, également connu sous le nom de voitures de luxe ou voitures de luxe de taille complète. Elles représentent le summum du luxe automobile, de la performance et de la technologie. Elles sont généralement de grandes berlines ou limousines conçues pour offrir le meilleur en termes de confort, de prestige et de fonctionnalités avancées. La Lotus Emeya S est disponible en un total de 6 couleurs de peinture, y compris plusieurs options métalliques saisissantes. Certaines de ces options de peinture incluent des peintures bicolores où le toit et la partie supérieure de la carrosserie sont peints dans une couleur différente, offrant un look distinctif et élégant.
-De plus, vous pouvez choisir entre 12 roues avec des tailles allant de 20 à 22 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Lotus Emeya S, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 245/45 sur jantes de 20" à l'avant et pneus 285/40 sur jantes de 20" à l'arrière
+- Pneus 265/40 sur jantes de 21" à l'avant et pneus 305/35 sur jantes de 21" à l'arrière
+- Pneus 265/35 sur jantes de 22" à l'avant et pneus 305/30 sur jantes de 22" à l'arrière
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 

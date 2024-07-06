@@ -84,7 +84,11 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 ## Exteriör
 
 Ford Explorer Extended Range RWD, med dimensioner på 4468 mm i längd, 1871 mm i bredd och 1639 mm i höjd, tillhör B-SUV-segmentet av bilar, även kallat subkompakta SUV:ar eller crossovers. De erbjuder en kombination av kompakt storlek och smidighet från B-segmentbilar med högre körposition, ökat lastutrymme och robust utformning från en SUV. Ford Explorer Extended Range RWD finns i totalt 7 lackfärger, inklusive både solida och metalliska alternativ.
-Dessutom kan du välja mellan 3 hjul i storlek från 20 till 21 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Ford Explorer Extended Range RWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 235/50 däck på 20" fälgar fram och 255/45 däck på 20" fälgar bak
+- 235/45 däck på 21" fälgar fram och 255/40 däck på 21" fälgar bak
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

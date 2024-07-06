@@ -94,7 +94,12 @@ La potencia regenerativa máxima es de 265 kW.
 ## Exterior
 
 El Audi RS e-tron GT performance, con dimensiones de 4989 mm de longitud, 1964 mm de anchura y 1396 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. El Audi RS e-tron GT performance está disponible en un total de 54 colores de pintura, incluyendo opciones perladas y metálicas. Además de la paleta estándar, algunos colores provienen de la exclusiva paleta 'Audi exclusive'.
-Adicionalmente, puedes elegir entre 7 ruedas con tamaños de 19 a 21 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Audi RS e-tron GT performance, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 225/55 en llantas de 19" delanteras y neumáticos 275/45 en llantas de 19" traseras
+- Neumáticos 245/45 en llantas de 20" delanteras y neumáticos 285/40 en llantas de 20" traseras
+- Neumáticos 265/35 en llantas de 21" delanteras y neumáticos 305/30 en llantas de 21" traseras
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

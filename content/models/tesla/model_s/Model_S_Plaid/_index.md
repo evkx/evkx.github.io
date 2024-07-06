@@ -80,7 +80,11 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 ## Exterior
 
 The Tesla Model S Plaid, with dimensions of 5021 mm in length, 1987 mm in width, and 1431 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. The Tesla Model S Plaid is available in a total of 5 paint colors, including both solid and metallic options.
-Additionally, you can choose between 2 wheels with sizes from 19 to 21 inches.
+
+You can select from multiple wheel options in different sizes on the Tesla Model S Plaid, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 255/45 tires on 19" rims front and 285/40 tires on 19" rims rear
+- 265/35 tires on 21" rims front and 295/30 tires on 21" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

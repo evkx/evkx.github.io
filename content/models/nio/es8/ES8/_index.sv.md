@@ -95,7 +95,12 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 ## Exteriör
 
 Nio ES8, med dimensioner på 5022 mm i längd, 1962 mm i bredd och 1756 mm i höjd, tillhör fullstora SUV:ar som erbjuder mest utrymme, kraft och kapacitet bland SUV-kategorier, vilket gör dem lämpliga för en specifik grupp förare med unika behov. Nio ES8 finns i totalt 5 enfärgade lackfärger.
-Dessutom kan du välja mellan 4 hjul i storlek från 19 till 21 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Nio ES8, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 265/55 tires on 19" rims
+- 265/50 tires on 20" rims
+- 265/45 tires on 21" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

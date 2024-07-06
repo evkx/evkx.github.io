@@ -97,7 +97,12 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 Den Audi Q8 Sportback 50 e-tron, med dimensioner på 4901 mm i længde, 1935 mm i bredde og 1616 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Audi Q8 Sportback 50 e-tron fås i alt 61 lakfarver, herunder solide, metalliske og perlemorsmuligheder. Ud over standardpaletten er nogle farver fra den eksklusive 'Audi Q8 Sportback 50 e-tron' palette.
 
 Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
-Derudover kan du vælge mellem 10 hjul med størrelser fra 19 til 22 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Audi Q8 Sportback 50 e-tron, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 255/55 dæk on 19" fælge
+- 255/50 dæk on 20" fælge
+- 265/45 dæk on 21" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate). Soft close er en valgfri-funktion for sidedørene.
 

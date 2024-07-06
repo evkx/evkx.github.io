@@ -83,6 +83,10 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 Den HiPhi Z 5 Seater, med dimensioner på 5036 mm i længde, 2018 mm i bredde og 1439 mm i højde, tilhører F-segmentet af biler, også kendt som luksus- eller fuldstørrelses luksusbiler. De repræsenterer toppen af ​​automobil luksus, ydeevne og teknologi. De er typisk store sedans eller limousiner og er designet til at tilbyde det ypperste inden for komfort, prestige og avancerede funktioner. Du kan vælge mellem 6 forskellige malingsfarver, når du bestiller denne model.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på HiPhi Z 5 Seater, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 255/45 dæk på 22" fælge foran og 285/40 dæk på 22" fælge bagpå
+
 Bilen har to [almindelige døre](../../../../technology/doors/) foran, [selvmordsdøre](../../../../technology/doors/) på anden række, og et [bagklap](../../../../technology/doors/#bootlid) bagerst. Elektriske døre er en standard funktion for sidedørene.
 
 Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Glasset er tonet for at beskytte mod varme fra solen.

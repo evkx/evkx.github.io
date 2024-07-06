@@ -78,7 +78,13 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 The Jaguar I-Pace EV400, with dimensions of 4682 mm in length, 2011 mm in width, and 1566 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Jaguar I-Pace EV400 is available in a total of 9 paint colors, including both solid and metallic options.
-Additionally, you can choose between 8 wheels with sizes from 18 to 22 inches.
+
+You can select from multiple wheel options in different sizes on the Jaguar I-Pace EV400, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 235/65 tires on 18" rims
+- 245/55 tires on 19" rims
+- 245/50 tires on 20" rims
+- 255/40 tires on 22" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

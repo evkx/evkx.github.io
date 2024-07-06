@@ -74,7 +74,12 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 ## Udvendig
 
 Den Chevrolet Equinox EV AWD, med dimensioner på 4867 mm i længde, 1953 mm i bredde og 1646 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Chevrolet Equinox EV AWD fås i alt 8 lakfarver, herunder solide, metalliske og perlemorsmuligheder.
-Derudover kan du vælge mellem 3 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Chevrolet Equinox EV AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 255/55 dæk on 19" fælge
+- 275/45 dæk on 20" fælge
+- 275/40 dæk on 21" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

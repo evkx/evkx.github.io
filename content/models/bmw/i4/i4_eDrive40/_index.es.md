@@ -84,7 +84,12 @@ La potencia regenerativa máxima es de 116 kW.
 ## Exterior
 
 El BMW i4 eDrive40, con dimensiones de 4783 mm de longitud, 1852 mm de anchura y 1448 mm de altura, pertenece al segmento D de automóviles, también conocido como coches medianos o familiares. Estos coches ofrecen más espacio, comodidad y características que segmentos más pequeños, siendo adecuados para una variedad de conductores. Puedes elegir entre 12 colores de pintura diferentes al pedir este modelo.
-Adicionalmente, puedes elegir entre 7 ruedas con tamaños de 18 a 20 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el BMW i4 eDrive40, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 245/45 en llantas de 18" delanteras y neumáticos 255/45 en llantas de 18" traseras
+- Neumáticos 245/40 en llantas de 19" delanteras y neumáticos 255/40 en llantas de 19" traseras
+- Neumáticos 245/35 en llantas de 20" delanteras y neumáticos 255/35 en llantas de 20" traseras
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate). El cierre suave es la función un opcional para las puertas laterales.
 

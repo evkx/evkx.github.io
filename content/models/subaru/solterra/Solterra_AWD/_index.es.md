@@ -75,6 +75,9 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 
 El Subaru Solterra AWD, con dimensiones de 4690 mm de longitud, 1860 mm de anchura y 1650 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. Puedes elegir entre 1 colores de pintura diferentes al pedir este modelo.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Subaru Solterra AWD, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
 Puedes elegir entre dos tipos de techos en este modelo. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila. Este cristal embellece el interior del coche. Siéntete más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Ambos paneles de vidrio tienen una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.

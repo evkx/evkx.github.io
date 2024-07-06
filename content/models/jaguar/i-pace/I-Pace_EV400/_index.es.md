@@ -78,7 +78,13 @@ Los frenos traseros y delanteros son [discos de hierro fundido](../../../../tech
 ## Exterior
 
 El Jaguar I-Pace EV400, con dimensiones de 4682 mm de longitud, 2011 mm de anchura y 1566 mm de altura, pertenece a los SUV compactos, también conocidos como C-SUVs. Ofrecen un equilibrio entre la practicidad y maniobrabilidad de vehículos más pequeños y el espacio y versatilidad de SUV más grandes. El Jaguar I-Pace EV400 está disponible en un total de 9 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
-Adicionalmente, puedes elegir entre 8 ruedas con tamaños de 18 a 22 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Jaguar I-Pace EV400, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 235/65 en llantas de 18
+- Neumáticos 245/55 en llantas de 19
+- Neumáticos 245/50 en llantas de 20
+- Neumáticos 255/40 en llantas de 22
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

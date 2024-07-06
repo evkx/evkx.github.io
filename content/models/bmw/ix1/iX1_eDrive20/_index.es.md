@@ -80,7 +80,12 @@ La potencia regenerativa máxima es de 134 kW.
 ## Exterior
 
 El BMW iX1 eDrive20, con dimensiones de 4500 mm de longitud, 1845 mm de anchura y 1616 mm de altura, pertenece al segmento B-SUV, también conocido como SUV subcompactos o crossovers. Ofrecen una combinación del tamaño compacto y la maniobrabilidad de los coches del segmento B con la posición de conducción más alta, mayor espacio de carga y estilo robusto de un SUV. Puedes elegir entre 12 colores de pintura diferentes al pedir este modelo.
-Adicionalmente, puedes elegir entre 3 ruedas con tamaños de 17 a 19 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el BMW iX1 eDrive20, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 205/65 en llantas de 17
+- Neumáticos 255/60 en llantas de 18
+- Neumáticos 205/55 en llantas de 19
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

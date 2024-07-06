@@ -81,6 +81,10 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 
 La Smart #1, avec des dimensions de 4270 mm de longueur, 1822 mm de largeur et 1636 mm de hauteur, appartient au segment des SUV sous-compacts, également connus sous le nom de sous-compact SUVs ou crossovers. Ils offrent une combinaison de la taille compacte et de la maniabilité des voitures du segment B avec la position de conduite plus haute, un espace de chargement accru et un style robuste d'un SUV. La Smart #1 est disponible en un total de 6 couleurs de peinture, toutes comprenant des options métalliques et nacrées.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'Smart #1, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 245/40 sur jantes de 19"
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 
 Vous pouvez choisir entre deux types de toits sur ce modèle. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant vers l'arrière. Cette vitre rend l'intérieur de la voiture plus agréable. spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.

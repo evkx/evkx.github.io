@@ -78,7 +78,12 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 ## Exteriör
 
 Volkswagen ID.7 Tourer Pro S, med dimensioner på 4961 mm i längd, 1862 mm i bredd och 1532 mm i höjd, tillhör E-segmentet av bilar, även kallat lyxbilar eller executive-bilar. De är större och mer lyxiga än sina D-segment-motsvarigheter. De är utformade för att erbjuda överlägsen komfort, avancerad teknik och hög prestanda, vilket gör dem lämpliga för en specifik grupp förare. Volkswagen ID.7 Tourer Pro S finns i totalt 10 lackfärger, inklusive både solida och metalliska alternativ.
-Dessutom kan du välja mellan 3 hjul i storlek från 19 till 21 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Volkswagen ID.7 Tourer Pro S, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 235/55 däck på 19" fälgar fram och 255/50 däck på 19" fälgar bak
+- 235/50 däck på 20" fälgar fram och 255/45 däck på 20" fälgar bak
+- 235/45 däck på 21" fälgar fram och 255/40 däck på 21" fälgar bak
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

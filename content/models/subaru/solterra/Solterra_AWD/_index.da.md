@@ -75,6 +75,9 @@ Subaru Solterra AWD har et firehjulstræk, der understøttes af to motorer, en p
 
 Den Subaru Solterra AWD, med dimensioner på 4690 mm i længde, 1860 mm i bredde og 1650 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 1 forskellige malingsfarver, når du bestiller denne model.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Subaru Solterra AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 
 Du kan vælge mellem to typer tage på denne model. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset har to paneler. Et over den første og den anden række. Dette glas gør bilens interiør føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Begge glaspaneler har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.

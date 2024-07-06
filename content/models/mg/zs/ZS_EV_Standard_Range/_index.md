@@ -79,6 +79,10 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 The MG ZS EV Standard Range, with dimensions of 4323 mm in length, 1809 mm in width, and 1649 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The MG ZS EV Standard Range is available in a total of 5 paint colors, including several striking metallic options.
 
+You can select from multiple wheel designs, all available in the same size, on the MG ZS EV Standard Range, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 215/55 tires on 17" rims
+
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 There is only one roof for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.

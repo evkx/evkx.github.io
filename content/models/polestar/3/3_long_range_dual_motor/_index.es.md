@@ -77,6 +77,10 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 
 El Polestar 3 Long Range Dual Motor, con dimensiones de 4900 mm de longitud, 1968 mm de anchura y 1614 mm de altura, pertenece a los SUV de tamaño mediano y ofrece una mezcla de espacio, confort, rendimiento y versatilidad, siendo adecuados para una amplia gama de conductores con necesidades diversas. El Polestar 3 Long Range Dual Motor está disponible en un total de 6 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el Polestar 3 Long Range Dual Motor, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 265/40 en llantas de 22" delanteras y neumáticos 295/40 en llantas de 22" traseras
+
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
 Puedes elegir entre dos tipos de techos en este modelo. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.

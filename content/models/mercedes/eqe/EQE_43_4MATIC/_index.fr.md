@@ -84,7 +84,11 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 La Mercedes-AMG EQE 43 4MATIC, avec des dimensions de 4964 mm de longueur, 1961 mm de largeur et 1492 mm de hauteur, appartient au segment E des voitures, également connu sous le nom de voitures de luxe ou exécutives. Elles sont plus grandes et plus luxueuses que leurs homologues du segment D. Elles sont conçues pour offrir un confort supérieur, une technologie avancée et des performances élevées, les rendant adaptées à un groupe spécifique de conducteurs. La Mercedes-AMG EQE 43 4MATIC propose une sélection de 11 couleurs de peinture, comprenant des options unies, métallisées et mates. En plus de la palette standard, des couleurs exclusives sont disponibles dans la palette 'MANUFAKTUR'
 
 Vous pouvez également choisir plusieurs options de style pour rendre votre voiture plus unique.
-De plus, vous pouvez choisir entre 4 roues avec des tailles allant de 20 à 21 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Mercedes-AMG EQE 43 4MATIC, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 265/40 sur jantes de 20" à l'avant et pneus 295/35 sur jantes de 20" à l'arrière
+- Pneus 265/35 sur jantes de 21" à l'avant et pneus 295/30 sur jantes de 21" à l'arrière
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [couvercle de coffre](../../../../technology/doors/#boot-lid) pour le coffre.
 

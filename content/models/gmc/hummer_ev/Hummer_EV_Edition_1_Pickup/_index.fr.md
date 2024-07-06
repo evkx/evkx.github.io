@@ -77,6 +77,9 @@ La puissance régénérative maximale est de 400 kW.
 
 La GMC Hummer EV Edition 1 Pickup est disponible en un total de 1 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'GMC Hummer EV Edition 1 Pickup, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technology/doors/#split-tailgate) là où le portail tombe.
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard comporte 4 panneaux de verre séparés qui peuvent être retirés, ce qui en fait un cabriolet.

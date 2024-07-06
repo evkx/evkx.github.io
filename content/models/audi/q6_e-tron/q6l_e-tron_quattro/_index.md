@@ -101,7 +101,12 @@ The maximum regenerative power is 220 kW.
 The Audi Q6L e-tron quattro, with dimensions of 4884 mm in length, 1939 mm in width, and 1687 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. Audi Q6L e-tron quattro is available in a total of 56 paint colors, including solid, metallic, and pearlescent options. In addition to the standard palette, some colors are from the exclusive 'Audi exclusive' palette.
 
 You can also choose several styling options to make your car more unique.
-Additionally, you can choose between 9 wheels with sizes from 19 to 21 inches.
+
+You can select from multiple wheel options in different sizes on the Audi Q6L e-tron quattro, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 235/60 tires on 19" rims front and 255/55 tires on 19" rims rear
+- 255/50 tires on 20" rims front and 285/45 tires on 20" rims rear
+- 255/45 tires on 21" rims front and 285/40 tires on 21" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

@@ -78,7 +78,11 @@ Les freins arrière et avant sont des [disques en fonte](../../../../technology/
 ## Extérieur
 
 La Nissan Ariya 87kWh e-4ORCE, avec des dimensions de 4595 mm de longueur, 1850 mm de largeur et 1660 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Nissan Ariya 87kWh e-4ORCE est disponible en un total de 9 couleurs de peinture, comprenant des options solides, métalliques et nacrées. Certaines de ces options de peinture incluent des peintures bicolores où le toit et la partie supérieure de la carrosserie sont peints dans une couleur différente, offrant un look distinctif et élégant.
-De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 19 à 20 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Nissan Ariya 87kWh e-4ORCE, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 235/55 sur jantes de 19"
+- Pneus 255/45 sur jantes de 20"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

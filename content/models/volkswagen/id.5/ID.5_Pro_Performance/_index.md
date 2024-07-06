@@ -90,7 +90,12 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 ## Exterior
 
 The Volkswagen ID.5 Pro Performance, with dimensions of 4599 mm in length, 1852 mm in width, and 1615 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Volkswagen ID.5 Pro Performance is available in a total of 5 paint colors, including both solid and metallic options.
-Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches.
+
+You can select from multiple wheel options in different sizes on the Volkswagen ID.5 Pro Performance, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
+- 235/50 tires on 20" rims front and 255/45 tires on 20" rims rear
+- 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 

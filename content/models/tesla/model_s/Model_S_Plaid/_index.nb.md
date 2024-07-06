@@ -80,7 +80,11 @@ I tillegg kan du justere styrken på den regenerative bremsingen når du løfter
 ## Eksteriør
 
 Tesla Model S Plaid, med dimensjoner på 5021 mm i lengde, 1987 mm i bredde og 1431 mm i høyde, tilhører F-segmentet av biler, også kjent som luksus- eller fullstørrelse luksusbiler. De representerer det ypperste innen bil-luksus, ytelse og teknologi. De er typisk store sedaner eller limousiner designet for å tilby det beste innen komfort, prestisje og avanserte funksjoner. Tesla Model S Plaid er tilgjengelig i totalt 5 lakkfarger, inkludert både solide og metalliske alternativer.
-I tillegg kan du velge mellom 2 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Tesla Model S Plaid, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 255/45 dekk på 19" felger foran og 285/40 dekk på 19" felger bak
+- 265/35 dekk på 21" felger foran og 295/30 dekk på 21" felger bak
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

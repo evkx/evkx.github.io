@@ -74,7 +74,11 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 ## Udvendig
 
 Den Peugot E-308, med dimensioner på 4367 mm i længde, 1852 mm i bredde og 1441 mm i højde, tilhører C-segmentet af biler, også kendt som kompakte biler. Disse biler opnår en balance mellem størrelse, ydelse og overkommelighed, hvilket gør dem alsidige for en række førere. Peugot E-308 fås i alt 6 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
-Derudover kan du vælge mellem 5 hjul med størrelser fra 17 til 18 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Peugot E-308, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 215/60 dæk on 17" fælge
+- 215/55 dæk on 18" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

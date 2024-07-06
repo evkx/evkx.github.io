@@ -75,6 +75,10 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 
 Den Chevrolet Blazer EV SS, med dimensioner på 5067 mm i længde, 1963 mm i bredde og 1725 mm i højde, tilhører fuldstørrelses SUV'er, der tilbyder mest plads, kraft og kapacitet blandt SUV-kategorier, hvilket gør dem velegnede til en specifik gruppe førere med unikke behov. Chevrolet Blazer EV SS fås i alt 8 lakfarver, herunder solide, metalliske og perlemorsmuligheder.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Chevrolet Blazer EV SS, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 275/40 dæk on 22" fælge
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Du kan vælge mellem to typer tage på denne model. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen. Som ekstraudstyr kan du bestille denne model med panoramatag, der kan åbnes. Glasset har to paneler. Et over første og anden række, og beboerne kan åbne den forreste del. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.

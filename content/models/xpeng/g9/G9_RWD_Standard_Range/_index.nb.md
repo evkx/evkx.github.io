@@ -79,6 +79,9 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 
 XPENG G9 RWD Standard Range, med dimensjoner på 4891 mm i lengde, 1937 mm i bredde og 1670 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Du kan velge mellom 5 forskjellige lakkfarger når du bestiller denne modellen.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på XPENG G9 RWD Standard Range, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback type bagasjeromsluke](../../../../technology/doors/#hatcback-style-liftgate).
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.

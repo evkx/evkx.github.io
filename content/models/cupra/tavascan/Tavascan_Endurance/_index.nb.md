@@ -78,7 +78,12 @@ Det [regenerative bremsesystemet](../../../../technology/regen/) i denne modelle
 ## Eksteriør
 
 CUPRA Tavascan Endurance, med dimensjoner på 4644 mm i lengde, 1861 mm i bredde og 1597 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. CUPRA Tavascan Endurance er tilgjengelig i totalt 5 lakkfarger, inkludert både solide og metalliske alternativer.
-I tillegg kan du velge mellom 3 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på CUPRA Tavascan Endurance, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 235/50 dekk på 19" felger foran og 255/50 dekk på 19" felger bak
+- 235/45 dekk på 20" felger foran og 255/45 dekk på 20" felger bak
+- 255/40 dekk på 21" felger
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

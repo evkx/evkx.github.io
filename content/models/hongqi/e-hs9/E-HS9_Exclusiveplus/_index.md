@@ -78,7 +78,11 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 The Hongqi E-HS9 Exclusive+, with dimensions of 5209 mm in length, 2010 mm in width, and 1713 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs The Hongqi E-HS9 Exclusive+ is available in a total of 6 paint colors, including several striking metallic options.
-Additionally, you can choose between 2 wheels with sizes from 21 to 22 inches.
+
+You can select from multiple wheel options in different sizes on the Hongqi E-HS9 Exclusive+, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 265/45 tires on 21" rims
+- 275/40 tires on 22" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is a standard function for the side doors.
 

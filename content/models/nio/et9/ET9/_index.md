@@ -84,6 +84,10 @@ Additionally, you can adjust the strength of the regenerative braking when you l
 
 The Nio ET9, with dimensions of 5325 mm in length, 2016 mm in width, and 1620 mm in height, falls into F-segment cars, also known as luxury or full-size luxury cars, represent the pinnacle of automotive luxury, performance, and technology. They are typically large sedans or limousines and are designed to offer the utmost in comfort, prestige, and advanced features. The Nio ET9 is available in a total of 7 solid paint colors.
 
+You can select from multiple wheel designs, all available in the same size, on the Nio ET9, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 265/40 tires on 23" rims
+
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is a standard function for the side doors.
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.

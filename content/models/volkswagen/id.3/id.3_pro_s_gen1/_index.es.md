@@ -78,7 +78,12 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 ## Exterior
 
 El Volkswagen ID.3 Pro S (GEN1), con dimensiones de 4261 mm de longitud, 1809 mm de anchura y 1568 mm de altura, pertenece al segmento C de automóviles, también conocido como coches compactos. Estos coches logran un equilibrio entre tamaño, rendimiento y asequibilidad, lo que los hace versátiles para una variedad de conductores. El Volkswagen ID.3 Pro S (GEN1) está disponible en un total de 5 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
-Adicionalmente, puedes elegir entre 3 ruedas con tamaños de 18 a 20 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Volkswagen ID.3 Pro S (GEN1), lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 215/55 en llantas de 18
+- Neumáticos 215/50 en llantas de 19
+- Neumáticos 215/45 en llantas de 20
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

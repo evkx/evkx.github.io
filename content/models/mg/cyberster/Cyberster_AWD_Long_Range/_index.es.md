@@ -75,6 +75,10 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 
 El MG Cyberster AWD Long Range está disponible en un total de 7 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
+Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el mismo tamaño, en el MG Cyberster AWD Long Range, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 245/45 en llantas de 19" delanteras y neumáticos 275/40 en llantas de 19" traseras
+
 El auto tiene dos [puertas de tijera](../../../../technology/doors/) y una [tapa del maletero](../../../../technology/doors/#bootlid) en la parte trasera.
 
 Sólo hay un techo para este modelo. El techo estándar es una capota blanda que se puede plegar.

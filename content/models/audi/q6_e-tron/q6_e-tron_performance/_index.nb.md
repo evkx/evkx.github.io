@@ -105,7 +105,12 @@ Den maksimale regenerative effekten er 220 kW.
 Audi Q6 e-tron performance, med dimensjoner på 4771 mm i lengde, 1939 mm i bredde og 1685 mm i høyde, tilhører kompakte SUV-er, også kjent som C-SUV-er. De tilbyr en balanse mellom praktikalitet og manøvrerbarhet til mindre kjøretøyer og plass og allsidighet til større SUV-er. Audi Q6 e-tron performance er tilgjengelig i totalt 56 lakkfarger, inkludert solide, metalliske og perlemorsalternativer. I tillegg til standardpaletten er noen farger fra den eksklusive 'Audi exclusive' paletten.
 
 Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
-I tillegg kan du velge mellom 9 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Audi Q6 e-tron performance, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 235/60 dekk på 19" felger foran og 255/55 dekk på 19" felger bak
+- 255/50 dekk på 20" felger foran og 285/45 dekk på 20" felger bak
+- 255/45 dekk på 21" felger foran og 285/40 dekk på 21" felger bak
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

@@ -76,7 +76,12 @@ The maximum regenerative power is 150 kW.
 ## Exterior
 
 The Kia EV9 GT-Line AWD, with dimensions of 5010 mm in length, 1980 mm in width, and 1755 mm in height, falls into the Full-size SUVs offer the most space, power, and capability among SUV categories, making them suitable for a specific set of drivers with unique needs You can choose between 7 different paint colors when ordering this model.
-Additionally, you can choose between 3 wheels with sizes from 19 to 21 inches.
+
+You can select from multiple wheel options in different sizes on the Kia EV9 GT-Line AWD, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 235/55 tires on 19" rims
+- 255/45 tires on 20" rims
+- 285/45 tires on 21" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

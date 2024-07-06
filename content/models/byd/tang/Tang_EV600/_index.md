@@ -81,6 +81,10 @@ The maximum regenerative power is 200 kW.
 
 The BYD Tang EV600, with dimensions of 4870 mm in length, 1950 mm in width, and 1725 mm in height, falls into the Mid-size SUVs offer a blend of space, comfort, performance, and versatility, making them suitable for a wide range of drivers with diverse needs. The BYD Tang EV600 is available in a total of 5 solid paint colors.
 
+You can select from multiple wheel designs, all available in the same size, on the BYD Tang EV600, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 265/40 tires on 22" rims
+
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 There is only one roof for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.

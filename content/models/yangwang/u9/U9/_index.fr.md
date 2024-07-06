@@ -94,6 +94,10 @@ La puissance régénérative maximale est de 400 kW.
 
 La YangWang U9 est disponible en un total de 5 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
+Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la même taille, sur l'YangWang U9, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 275/35 sur jantes de 21" à l'avant et pneus 325/30 sur jantes de 21" à l'arrière
+
 
 
 Il n'y a qu'un seul toit pour ce modèle.

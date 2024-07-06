@@ -74,7 +74,9 @@ Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc
 ## Eksteriør
 
 Cadillac LYRIQ RWD, med dimensjoner på 4996 mm i lengde, 1977 mm i bredde og 1623 mm i høyde, tilhører mellomstore SUV-er og tilbyr en blanding av plass, komfort, ytelse og allsidighet, noe som gjør dem egnet for et bredt spekter av sjåfører med ulike behov. Cadillac LYRIQ RWD er tilgjengelig i totalt 8 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
-I tillegg kan du velge mellom 3 hjul med størrelser fra 20 til 22 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Cadillac LYRIQ RWD, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

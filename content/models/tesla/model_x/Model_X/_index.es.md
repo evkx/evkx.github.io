@@ -80,7 +80,11 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 ## Exterior
 
 El Tesla Model X, con dimensiones de 5057 mm de longitud, 1999 mm de anchura y 1680 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. El Tesla Model X está disponible en un total de 5 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
-Adicionalmente, puedes elegir entre 2 ruedas con tamaños de 19 a 21 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Tesla Model X, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 255/45 en llantas de 19" delanteras y neumáticos 285/40 en llantas de 19" traseras
+- Neumáticos 265/35 en llantas de 21" delanteras y neumáticos 295/30 en llantas de 21" traseras
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

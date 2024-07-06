@@ -74,7 +74,9 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 ## Udvendig
 
 Den Cadillac LYRIQ AWD, med dimensioner på 4996 mm i længde, 1977 mm i bredde og 1623 mm i højde, tilhører mellemstore SUV'er og tilbyder en blanding af plads, komfort, ydelse og alsidighed, hvilket gør dem velegnede til en bred vifte af førere med forskellige behov. Cadillac LYRIQ AWD fås i alt 8 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
-Derudover kan du vælge mellem 3 hjul med størrelser fra 20 til 22 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Cadillac LYRIQ AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

@@ -80,7 +80,11 @@ La puissance régénérative maximale est de 150 kW.
 ## Extérieur
 
 La Hyundai Ioniq 5 Long Range AWD, avec des dimensions de 4635 mm de longueur, 1890 mm de largeur et 1605 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Hyundai Ioniq 5 Long Range AWD est disponible en un total de 6 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
-De plus, vous pouvez choisir entre 2 roues avec des tailles allant de 19 à 20 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Hyundai Ioniq 5 Long Range AWD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 235/55 sur jantes de 19"
+- Pneus 255/45 sur jantes de 20"
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon de style hayon](../../../../technology/doors/#hatcback-style-liftgate).
 

@@ -74,7 +74,11 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 The Volvo EM90 is available in a total of 3 paint colors, including several striking metallic options.
-Additionally, you can choose between 2 wheels with sizes from 19 to 20 inches.
+
+You can select from multiple wheel options in different sizes on the Volvo EM90, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 255/50 tires on 19" rims
+- 255/45 tires on 20" rims
 
 The car has two [regular doors](../../../../technology/doors/) in the first row, [sliding doors](../../../../technology/doors/) in the second row and a tailgate. Powered doors are a standard function for the side doors.
 

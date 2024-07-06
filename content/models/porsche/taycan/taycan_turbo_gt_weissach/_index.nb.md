@@ -84,7 +84,12 @@ Den maksimale regenerative effekten er 275 kW.
 Porsche Taycan Turbo GT Weissach, med dimensjoner på 4963 mm i lengde, 1966 mm i bredde og 1381 mm i høyde, tilhører E-segmentet av biler, også kjent som luksusbiler eller executive biler. De er større og mer luksuriøse enn sine D-segment motparter. De er designet for å tilby overlegen komfort, avansert teknologi og høy ytelse, og er egnet for en spesifikk gruppe sjåfører. Porsche Taycan Turbo GT Weissach er tilgjengelig i totalt 17 lakkfarger, inkludert både solide og metalliske alternativer.
 
 Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
-I tillegg kan du velge mellom 8 hjul med størrelser fra 19 til 21 tommer.
+
+Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Porsche Taycan Turbo GT Weissach, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 225/55 dekk på 19" felger foran og 275/45 dekk på 19" felger bak
+- 245/45 dekk på 20" felger foran og 285/40 dekk på 20" felger bak
+- 265/35 dekk på 21" felger foran og 305/30 dekk på 21" felger bak
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

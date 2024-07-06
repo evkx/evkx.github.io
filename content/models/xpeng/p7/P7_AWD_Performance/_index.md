@@ -75,6 +75,10 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 
 The XPENG P7 AWD Performance, with dimensions of 4888 mm in length, 1896 mm in width, and 1450 mm in height, falls into E-segment cars, also known as executive cars, are larger and more luxurious than their D-segment counterparts. They are designed to offer superior comfort, advanced technology, and high performance, making them suitable for a specific set of drivers. You can choose between 5 different paint colors when ordering this model.
 
+You can select from multiple wheel designs, all available in the same size, on the XPENG P7 AWD Performance, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+- 245/45 tires on 19" rims
+
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.

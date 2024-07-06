@@ -81,6 +81,10 @@ Den maksimale regenerative effekt er 150 kW.
 
 Den Kia EV6 GT, med dimensioner på 4680 mm i længde, 1880 mm i bredde og 1550 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Du kan vælge mellem 8 forskellige malingsfarver, når du bestiller denne model.
 
+Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, på Kia EV6 GT, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 255/40 dæk on 21" fælge
+
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 
 Der er kun ét tag til denne model. Standardtaget har soltag. Glasset strækker sig kun over forreste række, og beboerne kan åbne det. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.

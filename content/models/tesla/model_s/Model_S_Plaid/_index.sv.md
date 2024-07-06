@@ -80,7 +80,11 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 ## Exteriör
 
 Tesla Model S Plaid, med dimensioner på 5021 mm i längd, 1987 mm i bredd och 1431 mm i höjd, tillhör F-segmentet av bilar, även kallat lyxbilar eller fullstora lyxbilar. De representerar toppen av bilens lyx, prestanda och teknologi. De är vanligtvis stora sedaner eller limousiner designade för att erbjuda det bästa inom komfort, prestige och avancerade funktioner. Tesla Model S Plaid finns i totalt 5 lackfärger, inklusive både solida och metalliska alternativ.
-Dessutom kan du välja mellan 2 hjul i storlek från 19 till 21 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Tesla Model S Plaid, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 255/45 däck på 19" fälgar fram och 285/40 däck på 19" fälgar bak
+- 265/35 däck på 21" fälgar fram och 295/30 däck på 21" fälgar bak
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

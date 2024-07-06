@@ -74,7 +74,11 @@ The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#d
 ## Exterior
 
 The Hyundai INSTER Long Range, with dimensions of 3825 mm in length, 1610 mm in width, and 1610 mm in height, falls into the Mini-segment cars, often referred to as city cars or A-segment cars, are the smallest class of cars. They are designed primarily for urban environments and offer a compact size, excellent maneuverability, and economical operation. . The Hyundai INSTER Long Range offers a selection of 9 paint colors, featuring solid, metallic, pearlescent, and matte options.
-Additionally, you can choose between 3 wheels with sizes from 15 to 17 inches.
+
+You can select from multiple wheel options in different sizes on the Hyundai INSTER Long Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 205/55 tires on 15" rims
+- 205/45 tires on 17" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

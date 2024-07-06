@@ -80,7 +80,11 @@ Desuden kan du justere styrken af den regenerative bremsning, når du løfter fo
 ## Udvendig
 
 Den Tesla Model 3 Long Range, med dimensioner på 4694 mm i længde, 1849 mm i bredde og 1443 mm i højde, tilhører D-segmentet af biler, også kendt som mellemstore eller familiebiler. Disse biler tilbyder mere plads, komfort og funktioner end mindre segmenter og er velegnede til forskellige førere. Tesla Model 3 Long Range fås i alt 5 lakfarver, herunder både solide og metalliske muligheder.
-Derudover kan du vælge mellem 2 hjul med størrelser fra 18 til 19 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Tesla Model 3 Long Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 255/45 dæk on 18" fælge
+- 255/45 dæk on 19" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap](../../../../technology/doors/#boot-lid) til bagagerummet.
 

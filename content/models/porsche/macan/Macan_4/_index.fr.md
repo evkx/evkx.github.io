@@ -82,7 +82,12 @@ La puissance régénérative maximale est de 275 kW.
 La Porsche Macan 4, avec des dimensions de 4784 mm de longueur, 1938 mm de largeur et 1622 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Porsche Macan 4 est disponible en un total de 13 couleurs de peinture, comprenant des options à la fois solides et métalliques.
 
 Vous pouvez également choisir plusieurs options de style pour rendre votre voiture plus unique.
-De plus, vous pouvez choisir entre 8 roues avec des tailles allant de 20 à 22 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Porsche Macan 4, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 235/55 sur jantes de 20" à l'avant et pneus 285/45 sur jantes de 20" à l'arrière
+- Pneus 245/45 sur jantes de 21" à l'avant et pneus 295/40 sur jantes de 21" à l'arrière
+- Pneus 255/40 sur jantes de 22" à l'avant et pneus 295/35 sur jantes de 22" à l'arrière
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

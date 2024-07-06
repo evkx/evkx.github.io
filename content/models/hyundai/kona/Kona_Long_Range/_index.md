@@ -78,7 +78,11 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 ## Exterior
 
 The Hyundai Kona Long Range, with dimensions of 4355 mm in length, 1825 mm in width, and 1575 mm in height, falls into the B-SUV segment cars, also known as subcompact SUVs or crossovers, offer a combination of the compact size and maneuverability of B-segment cars with the higher driving position, increased cargo space, and rugged styling of an SUV. The Hyundai Kona Long Range offers a selection of 21 paint colors, featuring solid, metallic, pearlescent, and matte options.
-Additionally, you can choose between 2 wheels with sizes from 17 to 19 inches.
+
+You can select from multiple wheel options in different sizes on the Hyundai Kona Long Range, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 215/60 tires on 17" rims
+- 235/45 tires on 19" rims
 
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 

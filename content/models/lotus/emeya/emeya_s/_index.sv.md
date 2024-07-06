@@ -80,7 +80,12 @@ Dessutom kan du justera styrkan på den regenerativa bromsningen när du lyfter 
 ## Exteriör
 
 Lotus Emeya S, med dimensioner på 5139 mm i längd, 2005 mm i bredd och 1464 mm i höjd, tillhör F-segmentet av bilar, även kallat lyxbilar eller fullstora lyxbilar. De representerar toppen av bilens lyx, prestanda och teknologi. De är vanligtvis stora sedaner eller limousiner designade för att erbjuda det bästa inom komfort, prestige och avancerade funktioner. Lotus Emeya S finns i totalt 6 lackfärger, inklusive flera iögonfallande metalliska alternativ. Vissa av dessa lackalternativ inkluderar tvåtonslack där taket och den övre delen av karossen är målade i en annan färg, vilket ger ett distinkt och stiligt utseende.
-Dessutom kan du välja mellan 12 hjul i storlek från 20 till 22 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Lotus Emeya S, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 245/45 däck på 20" fälgar fram och 285/40 däck på 20" fälgar bak
+- 265/40 däck på 21" fälgar fram och 305/35 däck på 21" fälgar bak
+- 265/35 däck på 22" fälgar fram och 305/30 däck på 22" fälgar bak
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 

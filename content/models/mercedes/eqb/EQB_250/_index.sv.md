@@ -78,7 +78,11 @@ Det [regenerativa bromssystemet](../../../../technology/regen/) i denna modell e
 ## Exteriör
 
 Mercedes-EQ EQB 250, med dimensioner på 4684 mm i längd, 1834 mm i bredd och 1688 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Mercedes-EQ EQB 250 erbjuder ett urval av 10 lackfärger, med enfärgade, metalliska och matta alternativ. Vid sidan av standardpaletten finns exklusiva färger tillgängliga från 'MANUFAKTUR'-paletten.
-Dessutom kan du välja mellan 6 hjul i storlek från 18 till 19 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Mercedes-EQ EQB 250, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 235/55 tires on 18" rims
+- 235/50 tires on 19" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 

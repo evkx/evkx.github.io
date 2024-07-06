@@ -82,7 +82,12 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 ## Exterior
 
 The Volkswagen ID. Buzz Pro LWB is available in a total of 12 paint colors, including solid, metallic, and pearlescent options.
-Additionally, you can choose between 5 wheels with sizes from 19 to 21 inches.
+
+You can select from multiple wheel options in different sizes on the Volkswagen ID. Buzz Pro LWB, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 235/55 tires on 19" rims front and 255/50 tires on 19" rims rear
+- 235/50 tires on 20" rims front and 265/45 tires on 20" rims rear
+- 235/45 tires on 21" rims front and 255/40 tires on 21" rims rear
 
 The car has two [regular doors](../../../../technology/doors/) in the first row, [sliding doors](../../../../technology/doors/) in the second row and a tailgate. Powered doors are a standard function for the side doors.
 

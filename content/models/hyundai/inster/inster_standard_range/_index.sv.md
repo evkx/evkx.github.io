@@ -74,7 +74,11 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 ## Exteriör
 
 Hyundai INSTER Standard Range, med dimensioner på 3825 mm i längd, 1610 mm i bredd och 1610 mm i höjd, tillhör mini-segmentet av bilar, även kallat stadsvagnar eller A-segmentbilar. Detta är den minsta klassen av bilar, designade främst för stadsmiljöer, och de erbjuder en kompakt storlek, utmärkt manövrerbarhet och ekonomisk drift. Hyundai INSTER Standard Range erbjuder ett urval av 9 lackfärger, inklusive enfärgade, metalliska, pärlemors- och matta alternativ
-Dessutom kan du välja mellan 3 hjul i storlek från 15 till 17 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Hyundai INSTER Standard Range, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 205/55 tires on 15" rims
+- 205/45 tires on 17" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 

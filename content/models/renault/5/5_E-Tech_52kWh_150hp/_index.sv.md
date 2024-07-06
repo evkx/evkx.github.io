@@ -83,6 +83,10 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 
 Renault 5 E-Tech 52kWh 150hp, med dimensioner på 3920 mm i längd, 1770 mm i bredd och 1500 mm i höjd, tillhör B-segmentet av bilar, även kallat supermini. Det är en liten bil som vanligtvis passar bra för stadskörning och erbjuder en bra balans mellan effektivitet, storlek och kostnad. Renault 5 E-Tech 52kWh 150hp finns i totalt 5 enfärgade lackfärger.
 
+Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på Renault 5 E-Tech 52kWh 150hp, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 195/55 tires on 18" rims
+
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
 
 Det finns bara ett tak för denna modell. Standardinställningen är bara ett vanligt tak.

@@ -72,7 +72,12 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ## Exterior
 
 The Mini Cooper SE, with dimensions of 3900 mm in length, 1750 mm in width, and 1450 mm in height, falls into the B-segment car, often referred to as a supermini, is a small car typically suitable for urban driving, offering a good balance of efficiency, size, and cost. The Mini Cooper SE is available in a total of 10 paint colors, including both solid and metallic options.
-Additionally, you can choose between 3 wheels with sizes from 16 to 18 inches.
+
+You can select from multiple wheel options in different sizes on the Mini Cooper SE, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
+
+- 215/55 tires on 16" rims
+- 205/50 tires on 17" rims
+- 225/40 tires on 18" rims
 
 
 

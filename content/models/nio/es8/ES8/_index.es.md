@@ -95,7 +95,12 @@ Además, puedes ajustar la intensidad de la frenada regenerativa cuando levantas
 ## Exterior
 
 El Nio ES8, con dimensiones de 5022 mm de longitud, 1962 mm de anchura y 1756 mm de altura, pertenece a los SUV de tamaño completo que ofrecen el mayor espacio, potencia y capacidad entre las categorías de SUV, siendo adecuados para un grupo específico de conductores con necesidades únicas. El Nio ES8 está disponible en un total de 5 colores de pintura sólidos.
-Adicionalmente, puedes elegir entre 4 ruedas con tamaños de 19 a 21 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Nio ES8, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 265/55 en llantas de 19
+- Neumáticos 265/50 en llantas de 20
+- Neumáticos 265/45 en llantas de 21
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

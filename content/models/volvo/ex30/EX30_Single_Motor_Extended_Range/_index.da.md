@@ -74,7 +74,11 @@ Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#dis
 ## Udvendig
 
 Den Volvo EX30 Single Motor Extended Range, med dimensioner på 4233 mm i længde, 1837 mm i bredde og 1549 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Volvo EX30 Single Motor Extended Range fås i alt 5 lakfarver, som alle inkluderer metalliske og perlemorsmuligheder.
-Derudover kan du vælge mellem 2 hjul med størrelser fra 18 til 20 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Volvo EX30 Single Motor Extended Range, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 225/55 dæk on 18" fælge
+- 235/45 dæk on 20" fælge
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 

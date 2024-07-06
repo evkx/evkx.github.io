@@ -82,7 +82,12 @@ El sistema de [frenado regenerativo](../../../../technology/regen/) en este mode
 ## Exterior
 
 El Volkswagen ID.7 Pro, con dimensiones de 4961 mm de longitud, 1862 mm de anchura y 1532 mm de altura, pertenece al segmento E de automóviles, también conocido como coches ejecutivos. Son más grandes y lujosos que sus contrapartes del segmento D. Están diseñados para ofrecer confort superior, tecnología avanzada y alto rendimiento, siendo adecuados para un grupo específico de conductores. El Volkswagen ID.7 Pro está disponible en un total de 10 colores de pintura, incluyendo opciones tanto sólidas como metálicas.
-Adicionalmente, puedes elegir entre 3 ruedas con tamaños de 19 a 21 pulgadas.
+
+Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Volkswagen ID.7 Pro, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
+
+- Neumáticos 235/55 en llantas de 19" delanteras y neumáticos 255/50 en llantas de 19" traseras
+- Neumáticos 235/50 en llantas de 20" delanteras y neumáticos 255/45 en llantas de 20" traseras
+- Neumáticos 235/45 en llantas de 21" delanteras y neumáticos 255/40 en llantas de 21" traseras
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 

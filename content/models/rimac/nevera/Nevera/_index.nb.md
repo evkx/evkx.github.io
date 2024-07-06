@@ -94,6 +94,10 @@ Den maksimale regenerative effekten er 400 kW.
 
 Rimac Nevera er tilgjengelig i totalt 5 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
+Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på Rimac Nevera, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
+
+- 275/35 dekk på 20" felger foran og 315/35 dekk på 20" felger bak
+
 
 
 Det er bare ett tak for denne modellen.

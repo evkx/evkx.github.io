@@ -78,7 +78,11 @@ Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-
 ## Exteriör
 
 Ford Mustang Mach-E Standard Range RWD, med dimensioner på 4713 mm i längd, 1881 mm i bredd och 1624 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Ford Mustang Mach-E Standard Range RWD finns i totalt 8 lackfärger, inklusive både solida och metalliska alternativ.
-Dessutom kan du välja mellan 2 hjul i storlek från 18 till 19 tum.
+
+Du kan välja mellan flera hjulalternativ i olika storlekar på Ford Mustang Mach-E Standard Range RWD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
+
+- 225/60 tires on 18" rims
+- 225/60 tires on 19" rims
 
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 

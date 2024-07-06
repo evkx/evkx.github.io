@@ -90,7 +90,12 @@ De plus, vous pouvez ajuster la force du freinage régénératif lorsque vous le
 ## Extérieur
 
 La Maserati Grecale Folgore, avec des dimensions de 4865 mm de longueur, 1948 mm de largeur et 1651 mm de hauteur, appartient aux SUV de taille moyenne et offre un mélange d'espace, de confort, de performances et de polyvalence, les rendant adaptés à une large gamme de conducteurs aux besoins divers. La Maserati Grecale Folgore est disponible en un total de 8 couleurs de peinture, comprenant des options à la fois solides et métalliques.
-De plus, vous pouvez choisir entre 3 roues avec des tailles allant de 19 à 21 pouces.
+
+Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Maserati Grecale Folgore, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
+
+- Pneus 255/50 sur jantes de 19"
+- Pneus 255/45 sur jantes de 20" à l'avant et pneus 295/40 sur jantes de 20" à l'arrière
+- Pneus 255/40 sur jantes de 21" à l'avant et pneus 295/35 sur jantes de 21" à l'arrière
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 

@@ -84,7 +84,11 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 ## Udvendig
 
 Den Ford Explorer Extended Range AWD, med dimensioner på 4468 mm i længde, 1871 mm i bredde og 1639 mm i højde, tilhører B-SUV segmentet af biler, også kendt som subkompakte SUV'er eller crossovers. De tilbyder en kombination af den kompakte størrelse og manøvredygtighed fra B-segment biler med den højere kørestilling, øgede lastkapacitet og robuste styling af en SUV. Ford Explorer Extended Range AWD fås i alt 7 lakfarver, herunder både solide og metalliske muligheder.
-Derudover kan du vælge mellem 3 hjul med størrelser fra 20 til 21 tommer.
+
+Du kan vælge mellem flere hjul i forskellige størrelser på Ford Explorer Extended Range AWD, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
+
+- 235/50 dæk på 20" fælge foran og 255/45 dæk på 20" fælge bagpå
+- 235/45 dæk på 21" fælge foran og 255/40 dæk på 21" fælge bagpå
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 

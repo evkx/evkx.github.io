@@ -75,6 +75,9 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 The Subaru Solterra AWD, with dimensions of 4690 mm in length, 1860 mm in width, and 1650 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV You can choose between 1 different paint colors when ordering this model.
 
+You can select from multiple wheel designs, all available in the same size, on the Subaru Solterra AWD, allowing you to personalize your vehicle to match your style and driving preferences. The available tire and wheel combinations include:
+
+
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 
 You can choose between two types of roofs on this model. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
