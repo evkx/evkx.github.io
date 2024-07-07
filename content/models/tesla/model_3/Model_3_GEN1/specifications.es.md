@@ -440,6 +440,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Tamaño frunk
+			</td>
+			<td>
+				88 litro (3 pies cúbicos)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Peso máximo del remolque frenado
 			</td>
 			<td>

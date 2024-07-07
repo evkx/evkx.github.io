@@ -624,6 +624,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
+				Taille du coffre
+			</td>
+			<td>
+				117 litre (4 pieds cubes)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Poids maximum de la remorque freinée
 			</td>
 			<td>

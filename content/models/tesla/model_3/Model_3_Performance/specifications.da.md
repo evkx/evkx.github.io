@@ -392,6 +392,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Størrelse frunk
+			</td>
+			<td>
+				88 liter (3 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Max trailervægt bremset
 			</td>
 			<td>

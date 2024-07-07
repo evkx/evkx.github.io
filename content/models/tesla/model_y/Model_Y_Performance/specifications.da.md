@@ -408,6 +408,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Størrelse frunk
+			</td>
+			<td>
+				117 liter (4 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Max trailervægt bremset
 			</td>
 			<td>

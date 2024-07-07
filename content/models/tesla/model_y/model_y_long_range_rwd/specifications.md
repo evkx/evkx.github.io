@@ -424,6 +424,14 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 		</tr>
 		<tr>
 			<td>
+				<a href="/technology/cargoandtowing/frunkcargo/">Size frunk</a>
+			</td>
+			<td>
+				117 liter (4 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="/technology/cargoandtowing/towing/">Max trailer weight braked</a>
 			</td>
 			<td>

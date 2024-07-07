@@ -440,6 +440,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Storlek frunk
+			</td>
+			<td>
+				88 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Max släpvagnsvikt, bromsad
 			</td>
 			<td>

@@ -232,7 +232,7 @@ Il utilise sept [cameras](../../../../technology/sensorsandcameras/cameras/) pou
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 593 litres. Avec la banquette arrière rabattue, elle est de 1234 litres. Sur le toit, vous pouvez charger jusqu'à 70 kg (154,3 lbs). Le poids maximum de la voiture est de 2149 kg (4738 lbs), et avec le poids de base de 1760 kg (3880 lbs), vous pouvez charger au maximum 389 kg (858 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 593 litres. Avec la banquette arrière rabattue, elle est de 1234 litres. Sur le toit, vous pouvez charger jusqu'à 70 kg (154,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 88 litres (3,1 CU FT). Le poids maximum de la voiture est de 2149 kg (4738 lbs), et avec le poids de base de 1760 kg (3880 lbs), vous pouvez charger au maximum 389 kg (858 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Une barre d'attelage est un équipement standard sur ce modèle. Le poids total maximum sur une remorque freinée est de 1000, et sur une remorque non freinée, il est de 750 kg (2205/1653 lbs).
 ### Disponibilité et prix

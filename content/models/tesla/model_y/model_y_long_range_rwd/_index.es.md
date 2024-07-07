@@ -246,7 +246,7 @@ Utiliza ocho [cámaras](../../../../technology/sensorsandcameras/cameras/) para 
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 854 litros. Con el asiento trasero abatido, es de 2158 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2600 kg (5732 lbs), y con el peso base de 1959 kg (4319 lbs), puedes cargar como máximo 641 kg (1413 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 854 litros. Con el asiento trasero abatido, es de 2158 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 117 litros (4,1 CU FT). El peso máximo del automóvil es 2600 kg (5732 lbs), y con el peso base de 1959 kg (4319 lbs), puedes cargar como máximo 641 kg (1413 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Una barra de remolque es equipo estándar en este modelo. El peso total máximo en un remolque con freno es 1600, y sin freno, es 750 kg (3527/1653 lbs).
 ### Disponibilidad y precios
