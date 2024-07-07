@@ -163,6 +163,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 		</tr>
 		<tr>
 			<td>
+				Max laddningskapacitet
+			</td>
+			<td>
+				148 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Nominell spänning
 			</td>
 			<td>
@@ -539,6 +547,22 @@ Modellen erbjuder 2 fjädringsvarianter
 				Skruvfjäder
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Hjulupphängning foran
+			</td>
+			<td>
+				Dubbel länkarmsfjädring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjulupphängning bak
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -642,6 +666,22 @@ Modellen erbjuder 2 fjädringsvarianter
 			</td>
 			<td>
 				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjulupphängning foran
+			</td>
+			<td>
+				Dubbel länkarmsfjädring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjulupphängning bak
+			</td>
+			<td>
+				Multi-link
 			</td>
 		</tr>
 	</tbody>

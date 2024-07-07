@@ -163,6 +163,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
+				Max DC-opladning
+			</td>
+			<td>
+				148 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Nominel spænding
 			</td>
 			<td>
@@ -539,6 +547,22 @@ Modellen tilbyder 2 affjedringsvarianter
 				Spiralfjeder
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Ophængstype foran
+			</td>
+			<td>
+				Dobbelt wishbone suspension
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type bag
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -642,6 +666,22 @@ Modellen tilbyder 2 affjedringsvarianter
 			</td>
 			<td>
 				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ophængstype foran
+			</td>
+			<td>
+				Dobbelt wishbone suspension
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type bag
+			</td>
+			<td>
+				Multi-link
 			</td>
 		</tr>
 	</tbody>

@@ -37,7 +37,7 @@ La batterie haute capacité a une capacité brute de 76,6 kWh et une capacité n
 
 Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 425 et 372 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 16,7 kWh/100 km pour le modèle de base et à 19,1 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de kW. Une charge complète de 0 à 100 % prendrait 61 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 34 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 42 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 93kW. Chaque session de charge prendrait 19 minutes et 43 secondes.
+La vitesse de charge DC maximale est de 148kW. Une charge complète de 0 à 100 % prendrait 61 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 34 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 42 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 93kW. Chaque session de charge prendrait 19 minutes et 43 secondes.
 
 Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 24 kWh/100 km, le voyage prendrait environ 10 heures et 9 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 41%, avec un temps de recharge total de 110 minutes.
 
@@ -60,9 +60,9 @@ BMW iX xDrive40 dispose d'un système de transmission intégrale pris en charge 
 
 ### Suspension
 
-La suspension Standard est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 202 mm.
+La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension Standard est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 202 mm.
 
-Vous pouvez commander BMW iX xDrive40 avec une suspension alternative Adaptive Air Suspension. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 193 mm et la garde au sol maximale est de 223 mm.
+Vous pouvez commander BMW iX xDrive40 avec une suspension alternative Adaptive Air Suspension. La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 193 mm et la garde au sol maximale est de 223 mm.
 
 ### Pilotage
 

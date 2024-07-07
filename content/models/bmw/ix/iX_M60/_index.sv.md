@@ -64,7 +64,7 @@ BMW iX M60 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje 
 
 ### Hjulupphängning
 
-Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 193 mm, och maximal är 223 mm.
+Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 193 mm, och maximal är 223 mm.
 
 ### Styrning
 

@@ -163,6 +163,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Carga CC máxima
+			</td>
+			<td>
+				148 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Tensión nominal
 			</td>
 			<td>
@@ -539,6 +547,22 @@ El modelo ofrece 2 variantes de suspensión
 				Resorte helicoidal
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión delantera
+			</td>
+			<td>
+				Suspensión de doble horquilla
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión trasera
+			</td>
+			<td>
+				Multienlace
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -642,6 +666,22 @@ El modelo ofrece 2 variantes de suspensión
 			</td>
 			<td>
 				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión delantera
+			</td>
+			<td>
+				Suspensión de doble horquilla
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión trasera
+			</td>
+			<td>
+				Multienlace
 			</td>
 		</tr>
 	</tbody>

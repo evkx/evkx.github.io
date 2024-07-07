@@ -163,6 +163,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
+				Maks DC-lading
+			</td>
+			<td>
+				148 kW
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Nominell spenning
 			</td>
 			<td>
@@ -539,6 +547,22 @@ Modellen tilbyr 2 fjæringsvarianter
 				Spiralfjær
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Hjuloppheng foran
+			</td>
+			<td>
+				Dobbelt bærearmsoppheng
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng bak
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -642,6 +666,22 @@ Modellen tilbyr 2 fjæringsvarianter
 			</td>
 			<td>
 				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng foran
+			</td>
+			<td>
+				Dobbelt bærearmsoppheng
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng bak
+			</td>
+			<td>
+				Multi-link
 			</td>
 		</tr>
 	</tbody>

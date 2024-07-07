@@ -535,6 +535,22 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Air
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Ophængstype foran
+			</td>
+			<td>
+				Dobbelt wishbone suspension
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Suspension type bag
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
 	</tbody>
 </table>
 

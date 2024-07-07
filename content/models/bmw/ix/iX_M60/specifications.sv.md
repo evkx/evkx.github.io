@@ -535,6 +535,22 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Air
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Hjulupphängning foran
+			</td>
+			<td>
+				Dubbel länkarmsfjädring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjulupphängning bak
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
 	</tbody>
 </table>
 

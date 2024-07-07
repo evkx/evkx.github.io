@@ -37,7 +37,7 @@ La batería de alta capacidad tiene una capacidad bruta de 76,6 kWh y una capaci
 
 Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 425 y 372 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 16,7 kWh/100 km para el modelo base y 19,1 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 61 minutos, mientras que un escenario más común del 10 al 80 % tardaría 34 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 42%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 93kW. Cada sesión de carga tardaría 19 minutos y 43 segundos.
+La velocidad máxima de carga de CC es 148kW. Una carga completa del 0 al 100 % tardaría 61 minutos, mientras que un escenario más común del 10 al 80 % tardaría 34 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 42%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 93kW. Cada sesión de carga tardaría 19 minutos y 43 segundos.
 
 En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 24 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 9 minutos. Este viaje requeriría dos paradas de carga del 1% al 41%, con un tiempo total de carga de 110 minutos.
 
@@ -60,9 +60,9 @@ BMW iX xDrive40 tiene un sistema de tracción total sostenido por dos motores, u
 
 ### Suspensión
 
-La suspensión Standard tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 202 mm.
+La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión Standard tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 202 mm.
 
-Puedes pedir BMW iX xDrive40 con una suspensión alternativa Adaptive Air Suspension. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 193 mm y la máxima es 223 mm.
+Puedes pedir BMW iX xDrive40 con una suspensión alternativa Adaptive Air Suspension. La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 193 mm y la máxima es 223 mm.
 
 ### Dirección
 
