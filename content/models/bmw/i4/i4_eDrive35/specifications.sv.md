@@ -523,6 +523,22 @@ Modellen erbjuder 2 fjädringsvarianter
 				Air
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Hjulupphängning foran
+			</td>
+			<td>
+				Dubbel länkarmsfjädring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjulupphängning bak
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -626,6 +642,22 @@ Modellen erbjuder 2 fjädringsvarianter
 			</td>
 			<td>
 				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjulupphängning foran
+			</td>
+			<td>
+				Dubbel länkarmsfjädring
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjulupphängning bak
+			</td>
+			<td>
+				Multi-link
 			</td>
 		</tr>
 	</tbody>

@@ -37,7 +37,7 @@ The high-capacity battery has a gross capacity of 66 kWh and a net usable capaci
 
 According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range is 420 km (261 miles), with an energy consumption rate of 13.3 kWh/100 km (3 mi/kWh). For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 89 minutes, while a more typical charging scenario from 10% to 80% takes 51 minutes with an average charging speed at 46 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 8% to 79%. This results in an effective charging speed, including time lost, of 42 kW, with each charging session taking about 57 minutes and 43 seconds..
+The vehicle supports fast DC charging with a maximum power of 50 kW. Charging from 0% to 100% takes approximately 89 minutes, while a more typical charging scenario from 10% to 80% takes 51 minutes with an average charging speed at 46 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 8% to 79%. This results in an effective charging speed, including time lost, of 42 kW, with each charging session taking about 57 minutes and 43 seconds..
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 25 kWh/100 km, the trip would take approximately 12 hours and 59 minutes. This journey would require five charging stops from 9% to 79%, with a total charging time of 280 minutes.
 
@@ -126,7 +126,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in two zones for the driver and passenger.
+There is one climate system available. The  climate system supports different temperatures in two zones for the driver and passenger. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
 ## Comfort
 
@@ -178,7 +178,7 @@ With the standard system the model offers no driving automation.
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 380 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2110 kg (4652 lbs), and with the base weight of 1660 kg (3660 lbs), you can max load 450 kg (992 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 380 liters. With the rear seat down, it is 760 liters. On the roof, you can load up to 80 kg (176.4 lbs). The maxium weight of the car is 2110 kg (4652 lbs), and with the base weight of 1660 kg (3660 lbs), you can max load 450 kg (992 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

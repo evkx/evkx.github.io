@@ -37,7 +37,7 @@ Det højkapacitetsbatteri har en bruttokapacitet på 66 kWh og en nettoanvendeli
 
 Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er bilens rækkevidde 420 km, med et energiforbrugsrate på 13,3 kWh/100 km. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
-Den maksimale DC-opladningshastighed er kW. En fuld opladning fra 0 - 100 % ville tage 89 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 51 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 8% til 79%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 42kW. Hver opladningssession ville tage 57 minutter og 43 sekunder.
+Den maksimale DC-opladningshastighed er 50kW. En fuld opladning fra 0 - 100 % ville tage 89 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 51 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 8% til 79%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 42kW. Hver opladningssession ville tage 57 minutter og 43 sekunder.
 
 I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 25 kWh/100 km, ville turen tage cirka 12 timer og 59 minutter. Denne rejse ville kræve to opladningsstop fra 9% til 79%, med en samlet opladningstid på 280 minutter
 
@@ -126,7 +126,7 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem. Klimasystemet  understøtter forskellige temperaturer i to zoner for fører og passager.
+Der er et tilgængeligt klimasystem. Klimasystemet  understøtter forskellige temperaturer i to zoner for fører og passager. Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
 
 ## Komfort
 
@@ -178,7 +178,7 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 380 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2110 kg (4652 lbs), og med basisvægten på 1660 kg (3660 lbs), kan du maksimalt laste 450 kg (992 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 380 liter. Med bagsædet nede er det 760 liter. På taget kan du laste op til 80 kg (176,4 lbs). Bilens maksimale vægt er 2110 kg (4652 lbs), og med basisvægten på 1660 kg (3660 lbs), kan du maksimalt laste 450 kg (992 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

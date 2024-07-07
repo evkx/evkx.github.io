@@ -129,6 +129,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				55,9 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Charge CC maximale
+			</td>
+			<td>
+				50 kW
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -153,7 +161,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Tapez chargeport Europe
 			</td>
 			<td>
-				CCS2
+				CHAdeMO
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +315,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Faire du chargement sur le toit
 			</td>
 			<td>
-				75 kg (165 lbs)
+				80 kg (176 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -316,6 +324,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				380 litre (13 pieds cubes)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capacité du coffre avec tous les sièges arrière rabattus
+			</td>
+			<td>
+				760 litre (27 pieds cubes)
 			</td>
 		</tr>
 	</tbody>

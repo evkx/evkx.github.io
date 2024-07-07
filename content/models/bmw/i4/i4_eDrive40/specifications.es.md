@@ -523,6 +523,22 @@ El modelo ofrece 2 variantes de suspensión
 				Air
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión delantera
+			</td>
+			<td>
+				Suspensión de doble horquilla
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión trasera
+			</td>
+			<td>
+				Multienlace
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -626,6 +642,22 @@ El modelo ofrece 2 variantes de suspensión
 			</td>
 			<td>
 				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión delantera
+			</td>
+			<td>
+				Suspensión de doble horquilla
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Tipo de suspensión trasera
+			</td>
+			<td>
+				Multienlace
 			</td>
 		</tr>
 	</tbody>

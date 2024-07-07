@@ -523,6 +523,22 @@ Modellen tilbyr 2 fjæringsvarianter
 				Air
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Hjuloppheng foran
+			</td>
+			<td>
+				Dobbelt bærearmsoppheng
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng bak
+			</td>
+			<td>
+				Multi-link
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -626,6 +642,22 @@ Modellen tilbyr 2 fjæringsvarianter
 			</td>
 			<td>
 				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng foran
+			</td>
+			<td>
+				Dobbelt bærearmsoppheng
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Hjuloppheng bak
+			</td>
+			<td>
+				Multi-link
 			</td>
 		</tr>
 	</tbody>

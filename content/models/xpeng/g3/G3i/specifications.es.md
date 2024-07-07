@@ -129,6 +129,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				55,9 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Carga CC máxima
+			</td>
+			<td>
+				50 kW
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -153,7 +161,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tipo puerto de carga Europa
 			</td>
 			<td>
-				CCS2
+				CHAdeMO
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +315,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Hace carga en el techo
 			</td>
 			<td>
-				75 kg (165 lbs)
+				80 kg (176 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -316,6 +324,14 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				380 litro (13 pies cúbicos)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Capacidad del maletero con todos los asientos traseros plegados
+			</td>
+			<td>
+				760 litro (27 pies cúbicos)
 			</td>
 		</tr>
 	</tbody>

@@ -129,6 +129,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				55,9 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Max DC-opladning
+			</td>
+			<td>
+				50 kW
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -153,7 +161,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Typ ladeport Europa
 			</td>
 			<td>
-				CCS2
+				CHAdeMO
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +315,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Masser taglast
 			</td>
 			<td>
-				75 kg (165 lbs)
+				80 kg (176 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -316,6 +324,14 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 			</td>
 			<td>
 				380 liter (13 cu-ft)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bagumskapacitet med alle bagsæder foldet
+			</td>
+			<td>
+				760 liter (27 cu-ft)
 			</td>
 		</tr>
 	</tbody>

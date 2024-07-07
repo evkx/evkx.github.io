@@ -129,6 +129,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				55,9 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Maks DC-lading
+			</td>
+			<td>
+				50 kW
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -153,7 +161,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Type ladeport Europa
 			</td>
 			<td>
-				CCS2
+				CHAdeMO
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +315,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks taklast
 			</td>
 			<td>
-				75 kg
+				80 kg
 			</td>
 		</tr>
 		<tr>
@@ -316,6 +324,14 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 			</td>
 			<td>
 				380 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Størrelse med alle bakseter lagt ned
+			</td>
+			<td>
+				760 liter
 			</td>
 		</tr>
 	</tbody>

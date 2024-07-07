@@ -129,6 +129,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				55,9 kWh
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Max laddningskapacitet
+			</td>
+			<td>
+				50 kW
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -153,7 +161,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Typ laddport Europa
 			</td>
 			<td>
-				CCS2
+				CHAdeMO
 			</td>
 		</tr>
 		<tr>
@@ -307,7 +315,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten taklast
 			</td>
 			<td>
-				75 kg
+				80 kg
 			</td>
 		</tr>
 		<tr>
@@ -316,6 +324,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				380 liter
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Bagagerumsvolym, med nedfällda säten
+			</td>
+			<td>
+				760 liter
 			</td>
 		</tr>
 	</tbody>

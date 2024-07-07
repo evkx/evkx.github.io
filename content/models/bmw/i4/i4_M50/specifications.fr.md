@@ -519,6 +519,22 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Air
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Type de suspension avant
+			</td>
+			<td>
+				Suspension à double triangulation
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension arrière
+			</td>
+			<td>
+				Multi-liens
+			</td>
+		</tr>
 	</tbody>
 </table>
 

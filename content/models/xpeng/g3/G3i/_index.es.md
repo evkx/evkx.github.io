@@ -37,7 +37,7 @@ La batería de alta capacidad tiene una capacidad bruta de 66 kWh y una capacida
 
 Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), la autonomía del vehículo es de 420 km, con una tasa de consumo de energía de 13,3 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 89 minutos, mientras que un escenario más común del 10 al 80 % tardaría 51 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 8% al 79%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 42kW. Cada sesión de carga tardaría 57 minutos y 43 segundos.
+La velocidad máxima de carga de CC es 50kW. Una carga completa del 0 al 100 % tardaría 89 minutos, mientras que un escenario más común del 10 al 80 % tardaría 51 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 8% al 79%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 42kW. Cada sesión de carga tardaría 57 minutos y 43 segundos.
 
 En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 25 kWh/100 km, el viaje tomaría aproximadamente 12 horas y 59 minutos. Este viaje requeriría dos paradas de carga del 9% al 79%, con un tiempo total de carga de 280 minutos.
 
@@ -126,7 +126,7 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático  admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
+Hay un sistema climático disponible. El sistema climático  admite diferentes temperaturas en dos zonas para el conductor y el pasajero. Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
 
 ## Comodidad
 
@@ -178,7 +178,7 @@ Con el sistema estándar, el modelo no ofrece automatización de conducción.
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 380 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2110 kg (4652 lbs), y con el peso base de 1660 kg (3660 lbs), puedes cargar como máximo 450 kg (992 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 380 litros. Con el asiento trasero abatido, es de 760 litros. En el techo, puedes cargar hasta 80 kg (176,4 lbs). El peso máximo del automóvil es 2110 kg (4652 lbs), y con el peso base de 1660 kg (3660 lbs), puedes cargar como máximo 450 kg (992 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

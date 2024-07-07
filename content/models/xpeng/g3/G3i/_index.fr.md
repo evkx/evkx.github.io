@@ -37,7 +37,7 @@ La batterie haute capacité a une capacité brute de 66 kWh et une capacité net
 
 Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure), l'autonomie du véhicule est de 420 km, avec une consommation d'énergie de 13,3 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de kW. Une charge complète de 0 à 100 % prendrait 89 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 51 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 8 % et 79 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 42kW. Chaque session de charge prendrait 57 minutes et 43 secondes.
+La vitesse de charge DC maximale est de 50kW. Une charge complète de 0 à 100 % prendrait 89 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 51 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 8 % et 79 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 42kW. Chaque session de charge prendrait 57 minutes et 43 secondes.
 
 Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 25 kWh/100 km, le voyage prendrait environ 12 heures et 59 minutes. Ce trajet nécessiterait deux arrêts de recharge de 9% à 79%, avec un temps de recharge total de 280 minutes.
 
@@ -126,7 +126,7 @@ Il n'y a qu'un seul type de volant disponible.
 
 ## Système climatique
 
-Un système climatique est disponible. Le système climatique  prend en charge différentes températures dans deux zones pour le conducteur et le passager.
+Un système climatique est disponible. Le système climatique  prend en charge différentes températures dans deux zones pour le conducteur et le passager. Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.
 
 ## Confort
 
@@ -178,7 +178,7 @@ Avec le système standard, le modèle n'offre aucune automatisation de conduite.
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement du coffre est de 380 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2110 kg (4652 lbs), et avec le poids de base de 1660 kg (3660 lbs), vous pouvez charger au maximum 450 kg (992 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 380 litres. Avec la banquette arrière rabattue, elle est de 760 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Le poids maximum de la voiture est de 2110 kg (4652 lbs), et avec le poids de base de 1660 kg (3660 lbs), vous pouvez charger au maximum 450 kg (992 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">

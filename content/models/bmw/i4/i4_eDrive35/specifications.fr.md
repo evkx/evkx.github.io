@@ -523,6 +523,22 @@ Le modèle propose 2 variantes de suspension
 				Air
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Type de suspension avant
+			</td>
+			<td>
+				Suspension à double triangulation
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension arrière
+			</td>
+			<td>
+				Multi-liens
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -626,6 +642,22 @@ Le modèle propose 2 variantes de suspension
 			</td>
 			<td>
 				Air
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension avant
+			</td>
+			<td>
+				Suspension à double triangulation
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Type de suspension arrière
+			</td>
+			<td>
+				Multi-liens
 			</td>
 		</tr>
 	</tbody>

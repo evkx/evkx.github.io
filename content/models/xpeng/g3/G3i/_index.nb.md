@@ -37,7 +37,7 @@ Høykapasitetsbatteriet har en brutto kapasitet på 66 kWh og en netto brukbar k
 
 I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standarden er kjøretøyets rekkevidde 420 km, med et energiforbruk på 13,3 kWh/100 km. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 89 minutter, mens et mer vanlig scenario på 10-80 % vil ta 51 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 79%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 42kW. Hver ladeøkt vil ta 57 minutter og 43 sekunder.
+Maksimal DC-ladehastighet er 50 kW. En full lading fra 0 - 100 % vil ta 89 minutter, mens et mer vanlig scenario på 10-80 % vil ta 51 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 8% til 79%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 42kW. Hver ladeøkt vil ta 57 minutter og 43 sekunder.
 
 I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 25 kWh/100 km, ville turen ta omtrent 12 timer og 59 minutter. Denne reisen ville kreve to ladestopp fra 9% til 79%, med en total ladetid på 280 minutter.
 
@@ -126,7 +126,7 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem. Klimasystemet  støtter forskjellige temperaturer i to soner for sjåfør og passasjer.
+Det er ett tilgjengelig klimasystem. Klimasystemet  støtter forskjellige temperaturer i to soner for sjåfør og passasjer. Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
 ## Komfort
 
@@ -178,7 +178,7 @@ Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 380 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2110 kg, og med basisvekten på 1660 kg kan du maksimalt laste 450 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 380 liter. Med baksetet nede er det 760 liter. På taket kan du laste opptil 80 kg. Maksimumsvekten til bilen er 2110 kg, og med basisvekten på 1660 kg kan du maksimalt laste 450 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
