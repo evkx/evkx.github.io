@@ -29,7 +29,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The BMW i4 eDrive35 delivers a solid performance with a maximum power of 250 kW (340 hp / 335 bhp) and a total torque of 400 Nm (295 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6 seconds and reaches a top speed of 190 km/h (118 mph), making it competitive within its class.
+The BMW i4 eDrive35 delivers a solid performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 400 Nm (295 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6 seconds and reaches a top speed of 190 km/h (118 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
@@ -72,7 +72,7 @@ Dynamic steering is a standard feature on the BMW i4 eDrive35. Dynamic steering 
 
 ### Brakes
 
-
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
 
 ### Regenerative braking
@@ -83,7 +83,7 @@ The maximum regenerative power is 116 kW.
 
 ## Exterior
 
-The BMW i4 eDrive35, with dimensions of 4783 mm in length, 1852 mm in width, and 1448 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. The BMW i4 eDrive35 is available in a total of 12 paint colors, including several striking metallic options.
+The BMW i4 eDrive35, with dimensions of 4783 mm in length, 1852 mm in width, and 1448 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. The BMW i4 eDrive35 is available in a total of 14 paint colors, including several striking metallic options.
 
 You can select from multiple wheel options in different sizes on the BMW i4 eDrive35, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
@@ -237,7 +237,7 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 470 liters. With the rear seat down, it is 1290 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2545 kg (5611 lbs), and with the base weight of 1990 kg (4387 lbs), you can max load 555 kg (1224 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 470 liters. With the rear seat down, it is 1290 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2545 kg (5611 lbs), and with the base weight of 2000 kg (4409 lbs), you can max load 545 kg (1202 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
 

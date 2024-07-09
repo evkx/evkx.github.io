@@ -29,7 +29,7 @@ Vi har delat in vår beskrivning av BMW i4 eDrive35 i avsnitt. Om du vill vänta
 
 ## Prestanda
 
-BMW i4 eDrive35 levererar en solid prestanda med en maximal effekt på 250 kW (340 hk) och ett totalt vridmoment på 400 Nm. Den kan accelerera från 0 till 100 km/h på 6 sekunder och når en topphastighet på 190 km/h, vilket gör den konkurrenskraftig i sin klass.
+BMW i4 eDrive35 levererar en solid prestanda med en maximal effekt på 210 kW (286 hk) och ett totalt vridmoment på 400 Nm. Den kan accelerera från 0 till 100 km/h på 6 sekunder och når en topphastighet på 190 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 
@@ -72,7 +72,7 @@ Dynamisk styrning är standard-funktionen för BMW i4 eDrive35. Dynamisk styrnin
 
 ### Bromsar
 
-
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
 
 
 ### Regenerativ bromsning
@@ -83,7 +83,7 @@ Den maximala regenerativa effekten är 116 kW.
 
 ## Exteriör
 
-BMW i4 eDrive35, med dimensioner på 4783 mm i längd, 1852 mm i bredd och 1448 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. BMW i4 eDrive35 finns i totalt 12 lackfärger, inklusive flera iögonfallande metalliska alternativ.
+BMW i4 eDrive35, med dimensioner på 4783 mm i längd, 1852 mm i bredd och 1448 mm i höjd, tillhör D-segmentet av bilar, även kallat mellanstora eller familjebilar. Dessa bilar erbjuder mer utrymme, komfort och funktioner än mindre segment, vilket gör dem lämpliga för olika förare. BMW i4 eDrive35 finns i totalt 14 lackfärger, inklusive flera iögonfallande metalliska alternativ.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på BMW i4 eDrive35, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
@@ -237,7 +237,7 @@ Med Driving Assistant Professional  nivå 2-systemet får du fler körautomatise
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 470 liter. Med baksätet nedfällt är det 1290 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 2545 kg, och med basvikten på 1990 kg kan du lasta maximalt 555 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 470 liter. Med baksätet nedfällt är det 1290 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 2545 kg, och med basvikten på 2000 kg kan du lasta maximalt 545 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1600, och på en obromsad är den 750 kg.
 

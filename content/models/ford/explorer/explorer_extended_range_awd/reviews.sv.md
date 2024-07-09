@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The New Ford Explorer Is Finally Here…</h3>
+<p>Fully Charged Show: 09.07.2024</p>
+
+{{< youtube uqrW1Zv9Zlo >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>FIRST DRIVE Ford Explorer Electric: Worth waiting for?</h3>
 <p>Electrifying: 16.06.2024</p>
 

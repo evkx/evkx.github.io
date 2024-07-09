@@ -29,7 +29,7 @@ Vi har opdelt vores BMW i4 eDrive35 artikel i sektioner. Hvis du vil vente med a
 
 ## Ydeevne
 
-BMW i4 eDrive35 leverer en solid præstation med en maksimal effekt på 250 kW (340 hk) og et totalt drejningsmoment på 400 Nm. Den kan accelerere fra 0 til 100 km/t på 6 sekunder og når en topfart på 190 km/t, hvilket gør den konkurrencedygtig i sin klasse.
+BMW i4 eDrive35 leverer en solid præstation med en maksimal effekt på 210 kW (286 hk) og et totalt drejningsmoment på 400 Nm. Den kan accelerere fra 0 til 100 km/t på 6 sekunder og når en topfart på 190 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 
@@ -72,7 +72,7 @@ Dynamisk styring er en standard-funktion på BMW i4 eDrive35. Dynamisk styring v
 
 ### Bremser
 
-
+Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
 
 
 ### Regenerativ bremsning
@@ -83,7 +83,7 @@ Den maksimale regenerative effekt er 116 kW.
 
 ## Udvendig
 
-Den BMW i4 eDrive35, med dimensioner på 4783 mm i længde, 1852 mm i bredde og 1448 mm i højde, tilhører D-segmentet af biler, også kendt som mellemstore eller familiebiler. Disse biler tilbyder mere plads, komfort og funktioner end mindre segmenter og er velegnede til forskellige førere. BMW i4 eDrive35 fås i alt 12 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
+Den BMW i4 eDrive35, med dimensioner på 4783 mm i længde, 1852 mm i bredde og 1448 mm i højde, tilhører D-segmentet af biler, også kendt som mellemstore eller familiebiler. Disse biler tilbyder mere plads, komfort og funktioner end mindre segmenter og er velegnede til forskellige førere. BMW i4 eDrive35 fås i alt 14 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på BMW i4 eDrive35, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
@@ -237,7 +237,7 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 470 liter. Med bagsædet nede er det 1290 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2545 kg (5611 lbs), og med basisvægten på 1990 kg (4387 lbs), kan du maksimalt laste 555 kg (1224 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 470 liter. Med bagsædet nede er det 1290 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2545 kg (5611 lbs), og med basisvægten på 2000 kg (4409 lbs), kan du maksimalt laste 545 kg (1202 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
 

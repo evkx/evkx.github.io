@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for BMW i4 eDrive35. K
 				Popeffekt
 			</td>
 			<td>
-				250 KW (340 hk /335 hk)
+				210 KW (286 hk /282 hk)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Køreklar vægt
 			</td>
 			<td>
-				1990 kg (4387 lbs)
+				2000 kg (4409 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Maksimal belastning inklusive vægtdriver
 			</td>
 			<td>
-				555 kg (1224 lbs)
+				545 kg (1202 lbs)
 			</td>
 		</tr>
 		<tr>

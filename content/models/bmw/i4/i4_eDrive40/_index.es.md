@@ -72,7 +72,7 @@ La dirección dinámica es una característica un estándar en el BMW i4 eDrive4
 
 ### Frenos
 
-
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
 
 
 ### Frenado regenerativo
@@ -83,7 +83,7 @@ La potencia regenerativa máxima es de 116 kW.
 
 ## Exterior
 
-El BMW i4 eDrive40, con dimensiones de 4783 mm de longitud, 1852 mm de anchura y 1448 mm de altura, pertenece al segmento D de automóviles, también conocido como coches medianos o familiares. Estos coches ofrecen más espacio, comodidad y características que segmentos más pequeños, siendo adecuados para una variedad de conductores. Puedes elegir entre 12 colores de pintura diferentes al pedir este modelo.
+El BMW i4 eDrive40, con dimensiones de 4783 mm de longitud, 1852 mm de anchura y 1448 mm de altura, pertenece al segmento D de automóviles, también conocido como coches medianos o familiares. Estos coches ofrecen más espacio, comodidad y características que segmentos más pequeños, siendo adecuados para una variedad de conductores. El BMW i4 eDrive40 está disponible en un total de 11 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el BMW i4 eDrive40, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 

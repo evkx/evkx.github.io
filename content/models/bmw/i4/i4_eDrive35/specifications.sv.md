@@ -31,7 +31,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för BMW i4 eDrive35. Klick
 				Max effekt
 			</td>
 			<td>
-				250 KW (340 hk)
+				210 KW (286 hk)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				1990 kg
+				2000 kg
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				555 kg
+				545 kg
 			</td>
 		</tr>
 		<tr>

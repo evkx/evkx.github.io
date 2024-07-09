@@ -29,7 +29,7 @@ Hemos separado nuestro artículo BMW i4 eDrive35 en secciones. Si desea esperar 
 
 ## Rendimiento
 
-El BMW i4 eDrive35 ofrece un rendimiento sólido con una potencia máxima de 250 kW (340 hp) y un par total de 400 Nm. Puede acelerar de 0 a 100 km/h en 6 segundos y alcanza una velocidad máxima de 190 km/h, lo que lo hace competitivo en su clase.
+El BMW i4 eDrive35 ofrece un rendimiento sólido con una potencia máxima de 210 kW (286 hp) y un par total de 400 Nm. Puede acelerar de 0 a 100 km/h en 6 segundos y alcanza una velocidad máxima de 190 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 
@@ -72,7 +72,7 @@ La dirección dinámica es una característica un estándar en el BMW i4 eDrive3
 
 ### Frenos
 
-
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
 
 
 ### Frenado regenerativo
@@ -83,7 +83,7 @@ La potencia regenerativa máxima es de 116 kW.
 
 ## Exterior
 
-El BMW i4 eDrive35, con dimensiones de 4783 mm de longitud, 1852 mm de anchura y 1448 mm de altura, pertenece al segmento D de automóviles, también conocido como coches medianos o familiares. Estos coches ofrecen más espacio, comodidad y características que segmentos más pequeños, siendo adecuados para una variedad de conductores. El BMW i4 eDrive35 está disponible en un total de 12 colores de pintura, incluyendo varias opciones metálicas llamativas.
+El BMW i4 eDrive35, con dimensiones de 4783 mm de longitud, 1852 mm de anchura y 1448 mm de altura, pertenece al segmento D de automóviles, también conocido como coches medianos o familiares. Estos coches ofrecen más espacio, comodidad y características que segmentos más pequeños, siendo adecuados para una variedad de conductores. El BMW i4 eDrive35 está disponible en un total de 14 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el BMW i4 eDrive35, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
@@ -237,7 +237,7 @@ Con el sistema Driving Assistant Professional  nivel 2, obtienes funciones de au
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 470 litros. Con el asiento trasero abatido, es de 1290 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2545 kg (5611 lbs), y con el peso base de 1990 kg (4387 lbs), puedes cargar como máximo 555 kg (1224 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 470 litros. Con el asiento trasero abatido, es de 1290 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2545 kg (5611 lbs), y con el peso base de 2000 kg (4409 lbs), puedes cargar como máximo 545 kg (1202 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1600, y sin freno, es de 750 kg (3527/1653 lbs).
 

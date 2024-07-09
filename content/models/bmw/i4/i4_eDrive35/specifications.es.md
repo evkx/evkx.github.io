@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para BMW i4 eDrive35. H
 				Potencia máxima
 			</td>
 			<td>
-				250 KW (340 hp /335 bhp)
+				210 KW (286 hp /282 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				1990 kg (4387 lbs)
+				2000 kg (4409 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				555 kg (1224 lbs)
+				545 kg (1202 lbs)
 			</td>
 		</tr>
 		<tr>

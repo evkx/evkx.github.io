@@ -72,7 +72,7 @@ Dynamisk styring er standard-funksjonen på BMW i4 eDrive40. Dynamisk styring va
 
 ### Bremser
 
-
+Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
 
 
 ### Regenerativ bremsing
@@ -83,7 +83,7 @@ Den maksimale regenerative effekten er 116 kW.
 
 ## Eksteriør
 
-BMW i4 eDrive40, med dimensjoner på 4783 mm i lengde, 1852 mm i bredde og 1448 mm i høyde, tilhører D-segmentet av biler, også kjent som mellomstore eller familiebiler. Disse bilene tilbyr mer plass, komfort og funksjoner enn mindre segmenter, noe som gjør dem egnet for ulike sjåfører. Du kan velge mellom 12 forskjellige lakkfarger når du bestiller denne modellen.
+BMW i4 eDrive40, med dimensjoner på 4783 mm i lengde, 1852 mm i bredde og 1448 mm i høyde, tilhører D-segmentet av biler, også kjent som mellomstore eller familiebiler. Disse bilene tilbyr mer plass, komfort og funksjoner enn mindre segmenter, noe som gjør dem egnet for ulike sjåfører. BMW i4 eDrive40 er tilgjengelig i totalt 11 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på BMW i4 eDrive40, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 

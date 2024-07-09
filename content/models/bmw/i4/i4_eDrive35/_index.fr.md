@@ -29,7 +29,7 @@ Nous avons séparé notre article BMW i4 eDrive35 en sections. Si vous souhaitez
 
 ## Performances
 
-La BMW i4 eDrive35 offre des performances solides avec une puissance maximale de 250 kW (340 ch) et un couple total de 400 Nm. Elle peut accélérer de 0 à 100 km/h en 6 secondes et atteindre une vitesse maximale de 190 km/h, ce qui la rend compétitive dans sa catégorie.
+La BMW i4 eDrive35 offre des performances solides avec une puissance maximale de 210 kW (286 ch) et un couple total de 400 Nm. Elle peut accélérer de 0 à 100 km/h en 6 secondes et atteindre une vitesse maximale de 190 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 
@@ -72,7 +72,7 @@ La direction dynamique est une fonctionnalité un standard sur le BMW i4 eDrive3
 
 ### Freins
 
-
+Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
 
 
 ### Freinage régénératif
@@ -83,7 +83,7 @@ La puissance régénérative maximale est de 116 kW.
 
 ## Extérieur
 
-La BMW i4 eDrive35, avec des dimensions de 4783 mm de longueur, 1852 mm de largeur et 1448 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. La BMW i4 eDrive35 est disponible en un total de 12 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
+La BMW i4 eDrive35, avec des dimensions de 4783 mm de longueur, 1852 mm de largeur et 1448 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. La BMW i4 eDrive35 est disponible en un total de 14 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'BMW i4 eDrive35, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
@@ -237,7 +237,7 @@ Avec le système Driving Assistant Professional  niveau 2, vous bénéficiez de 
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 470 litres. Avec la banquette arrière rabattue, elle est de 1290 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2545 kg (5611 lbs), et avec le poids de base de 1990 kg (4387 lbs), vous pouvez charger au maximum 555 kg (1224 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 470 litres. Avec la banquette arrière rabattue, elle est de 1290 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2545 kg (5611 lbs), et avec le poids de base de 2000 kg (4409 lbs), vous pouvez charger au maximum 545 kg (1202 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1600, et sur une remorque non freinée, il est de 750 kg (3527/1653 lbs).
 

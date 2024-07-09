@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for BMW i4 eDrive35. Cli
 				Peak power
 			</td>
 			<td>
-				250 KW (340 hp /335 bhp)
+				210 KW (286 hp /282 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -355,7 +355,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				1990 kg (4387 lbs)
+				2000 kg (4409 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -371,7 +371,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				555 kg (1224 lbs)
+				545 kg (1202 lbs)
 			</td>
 		</tr>
 		<tr>
