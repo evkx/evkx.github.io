@@ -33,17 +33,17 @@ La BMW i4 eDrive35 offre des performances solides avec une puissance maximale de
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 70,2 kWh et une capacité nette utilisable de 66 kWh, offrant une réserve de 4,2 kWh (6,0%) pour la protection de la batterie. Avec une tension nominale de 399 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 70,3 kWh et une capacité nette utilisable de 67,1 kWh, offrant une réserve de 3,2 kWh (4,6%) pour la protection de la batterie. Avec une tension nominale de 399 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 490 et 406 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 13,5 kWh/100 km pour le modèle de base et à 16,3 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 490 et 406 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 13,7 kWh/100 km pour le modèle de base et à 16,5 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de kW. Une charge complète de 0 à 100 % prendrait 46 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 24 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 51 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 111kW. Chaque session de charge prendrait 17 minutes et 4 secondes.
+La vitesse de charge DC maximale est de 180kW. Une charge complète de 0 à 100 % prendrait 47 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 24 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 51 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 112kW. Chaque session de charge prendrait 17 minutes et 16 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 18 kWh/100 km, le voyage prendrait environ 9 heures et 22 minutes. Ce trajet nécessiterait deux arrêts de recharge de 2% à 60%, avec un temps de recharge total de 63 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 18 kWh/100 km, le voyage prendrait environ 9 heures et 22 minutes. Ce trajet nécessiterait deux arrêts de recharge de 3% à 46%, avec un temps de recharge total de 62 minutes.
 
 ### Chargeur embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 6 heures et 0 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 6 heures et 6 minutes à domicile.
 
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/charging_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2001"  >}}
@@ -83,7 +83,7 @@ La puissance régénérative maximale est de 116 kW.
 
 ## Extérieur
 
-La BMW i4 eDrive35, avec des dimensions de 4783 mm de longueur, 1852 mm de largeur et 1448 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. Vous pouvez choisir entre 12 couleurs de peinture différentes lors de la commande de ce modèle.
+La BMW i4 eDrive35, avec des dimensions de 4783 mm de longueur, 1852 mm de largeur et 1448 mm de hauteur, appartient au segment D des voitures, également connu sous le nom de voitures familiales ou de taille moyenne. Ces voitures offrent plus d'espace, de confort et de fonctionnalités que les segments plus petits, les rendant adaptées à une variété de conducteurs. La BMW i4 eDrive35 est disponible en un total de 12 couleurs de peinture, y compris plusieurs options métalliques saisissantes.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'BMW i4 eDrive35, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 

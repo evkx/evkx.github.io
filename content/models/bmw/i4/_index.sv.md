@@ -11,7 +11,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="i4_edrive35/"><img src="https://media.evkx.net/multimedia/models/bmw/i4/i4_edrive35/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="i4 eDrive35" ></a>
-<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 70,2 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 70,3 kWh <i class="bi bi-ev-station"></i> 180 kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

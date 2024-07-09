@@ -33,17 +33,17 @@ The BMW i4 eDrive35 delivers a solid performance with a maximum power of 250 kW 
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 70,2 kWh and a net usable capacity of 66 kWh, providing an 4,2 kWh buffer (6.0%) for battery protection. With a nominal voltage of 399 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
+The high-capacity battery has a gross capacity of 70,3 kWh and a net usable capacity of 67,1 kWh, providing an 3,2 kWh buffer (4.6%) for battery protection. With a nominal voltage of 399 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 490 to 406 km (305-252 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.5 kWh/100 km for the base model and 16.3 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 490 to 406 km (305-252 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.7 kWh/100 km for the base model and 16.5 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 46 minutes, while a more typical charging scenario from 10% to 80% takes 24 minutes with an average charging speed at 116 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 51%. This results in an effective charging speed, including time lost, of 111 kW, with each charging session taking about 17 minutes and 4 seconds..
+The vehicle supports fast DC charging with a maximum power of 180 kW. Charging from 0% to 100% takes approximately 47 minutes, while a more typical charging scenario from 10% to 80% takes 24 minutes with an average charging speed at 116 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 51%. This results in an effective charging speed, including time lost, of 112 kW, with each charging session taking about 17 minutes and 16 seconds..
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 18 kWh/100 km, the trip would take approximately 9 hours and 22 minutes. This journey would require three charging stops from 2% to 60%, with a total charging time of 63 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 18 kWh/100 km, the trip would take approximately 9 hours and 22 minutes. This journey would require four charging stops from 3% to 46%, with a total charging time of 62 minutes.
 
 ### Onboard charger
 
-The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 0 minutes using a home charging setup.
+The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 6 minutes using a home charging setup.
 
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/charging_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2001"  >}}
@@ -83,7 +83,7 @@ The maximum regenerative power is 116 kW.
 
 ## Exterior
 
-The BMW i4 eDrive35, with dimensions of 4783 mm in length, 1852 mm in width, and 1448 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. You can choose between 12 different paint colors when ordering this model.
+The BMW i4 eDrive35, with dimensions of 4783 mm in length, 1852 mm in width, and 1448 mm in height, falls into D-segment cars, also known as mid-size or family cars, offer more space, comfort, and features than smaller segments, making them suitable for a variety of drivers. The BMW i4 eDrive35 is available in a total of 12 paint colors, including several striking metallic options.
 
 You can select from multiple wheel options in different sizes on the BMW i4 eDrive35, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 

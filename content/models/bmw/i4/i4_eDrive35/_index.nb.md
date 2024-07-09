@@ -33,17 +33,17 @@ BMW i4 eDrive35 leverer solid ytelse med en maksimal effekt på 250 kW (340 hk) 
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 70,2 kWh og en netto brukbar kapasitet på 66 kWh, som gir en buffer på 4,2 kWh (6,0%) for batteribeskyttelse. Med en nominell spenning på 399 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
+Høykapasitetsbatteriet har en brutto kapasitet på 70,3 kWh og en netto brukbar kapasitet på 67,1 kWh, som gir en buffer på 3,2 kWh (4,6%) for batteribeskyttelse. Med en nominell spenning på 399 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
 
-I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 490 og 406 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 13,5 kWh/100 km for basismodellen og 16,3 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 490 og 406 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 13,7 kWh/100 km for basismodellen og 16,5 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 46 minutter, mens et mer vanlig scenario på 10-80 % vil ta 24 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 51%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 111kW. Hver ladeøkt vil ta 17 minutter og 4 sekunder.
+Maksimal DC-ladehastighet er 180 kW. En full lading fra 0 - 100 % vil ta 47 minutter, mens et mer vanlig scenario på 10-80 % vil ta 24 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 51%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 112kW. Hver ladeøkt vil ta 17 minutter og 16 sekunder.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 18 kWh/100 km, ville turen ta omtrent 9 timer og 22 minutter. Denne reisen ville kreve to ladestopp fra 2% til 60%, med en total ladetid på 63 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 18 kWh/100 km, ville turen ta omtrent 9 timer og 22 minutter. Denne reisen ville kreve to ladestopp fra 3% til 46%, med en total ladetid på 62 minutter.
 
 ### Ombordlader
 
-Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 6 timer og 0 minutter med en hjemmelader.
+Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 6 timer og 6 minutter med en hjemmelader.
 
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/charging_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2001"  >}}
@@ -83,7 +83,7 @@ Den maksimale regenerative effekten er 116 kW.
 
 ## Eksteriør
 
-BMW i4 eDrive35, med dimensjoner på 4783 mm i lengde, 1852 mm i bredde og 1448 mm i høyde, tilhører D-segmentet av biler, også kjent som mellomstore eller familiebiler. Disse bilene tilbyr mer plass, komfort og funksjoner enn mindre segmenter, noe som gjør dem egnet for ulike sjåfører. Du kan velge mellom 12 forskjellige lakkfarger når du bestiller denne modellen.
+BMW i4 eDrive35, med dimensjoner på 4783 mm i lengde, 1852 mm i bredde og 1448 mm i høyde, tilhører D-segmentet av biler, også kjent som mellomstore eller familiebiler. Disse bilene tilbyr mer plass, komfort og funksjoner enn mindre segmenter, noe som gjør dem egnet for ulike sjåfører. BMW i4 eDrive35 er tilgjengelig i totalt 12 lakkfarger, inkludert flere iøynefallende metalliske alternativer.
 
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på BMW i4 eDrive35, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 

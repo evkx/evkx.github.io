@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi har samlat in tester från våra [favorittestare av elbilar](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>FIRST DRIVE: Alfa Romeo Junior - the sportiest electric hot hatch yet?</h3>
+<p>Electrifying: 09.07.2024</p>
+
+{{< youtube Ucgz_PqzG_I >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>ALL NEW JEEP AVENGER: the new superhero of small electric cars?</h3>
 <p>Electrifying: 20.01.2023</p>
 
