@@ -1,7 +1,7 @@
 ---
 title: Ford Explorer Standard Range RWD
 linktitle: "Explorer Standard Range RWD"
-description: "Ford Explorer Standard Range RWD er en helelektrisk SUV med en WLTP rekkevidde på opptil 380 km. EVKX.net har alle detaljene."
+description: "Ford Explorer Standard Range RWD er en helelektrisk crossover med en WLTP rekkevidde på opptil 380 km. EVKX.net har alle detaljene."
 weight: 10
 hidden: true
 shownavtabs: true

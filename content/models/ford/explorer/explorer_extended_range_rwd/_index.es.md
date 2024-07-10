@@ -1,7 +1,7 @@
 ---
 title: Ford Explorer Extended Range RWD
 linktitle: "Explorer Extended Range RWD"
-description: "Ford Explorer Extended Range RWD es un SUV totalmente eléctrico con una autonomía WLTP de hasta 602 km (374 millas). EVKX.net tiene todos los detalles."
+description: "Ford Explorer Extended Range RWD es un crossover totalmente eléctrico con un WLTP alcance de hasta 602 km (374 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -225,7 +225,7 @@ Con el sistema Assistantpackage  nivel 2, obtienes funciones de automatización 
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 536 litros. Con el asiento trasero abatido, es de 1422 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2675 kg (5897 lbs), y con el peso base de 2192 kg (4833 lbs), puedes cargar como máximo 483 kg (1065 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga. 483kg se considera bajo para este tipo de automóvil y podría restringir la cantidad de cosas que puedes llevar además de los pasajeros.
+La capacidad de carga en el maletero es de 536 litros. Con el asiento trasero abatido, es de 1422 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2675 kg (5897 lbs), y con el peso base de 2192 kg (4833 lbs), puedes cargar como máximo 483 kg (1065 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1000, y sin freno, es de 750 kg (2205/1653 lbs).
 ### Disponibilidad y precios

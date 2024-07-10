@@ -10,6 +10,24 @@
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active image-box">
+				<a href="{{ with .Site.GetPage `/models/ford/capri/capri_extended_range_awd/`}}{{.RelPermalink}}{{end}}">
+					<img src="" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Ford Capri Extended Range AWD</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-8839c318"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
+				<a href="{{ with .Site.GetPage `/models/ford/capri/capri_extended_range_rwd/`}}{{.RelPermalink}}{{end}}">
+					<img src="https://media.evkx.net/multimedia/models/ford/capri/capri_extended_range_rwd/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
+				</a>
+				<div class="carousel-caption">
+					<h4>Ford Capri Extended Range RWD</h4>
+					<p class="d-none d-md-block">{{T "frontpage-description-a9c21461"}}</p>
+				</div>
+			</div>
+			<div class="carousel-item  image-box">
 				<a href="{{ with .Site.GetPage `/models/opel/frontera/frontera/`}}{{.RelPermalink}}{{end}}">
 					<img src="https://media.evkx.net/multimedia/models/opel/frontera/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
 				</a>
@@ -43,24 +61,6 @@
 				<div class="carousel-caption">
 					<h4>Polestar 3 Long Range Dual Motor</h4>
 					<p class="d-none d-md-block">{{T "frontpage-description-eec779be"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/skoda/elroq/elroq_85x/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/skoda/elroq/elroq_85x/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>SKODA Elroq 85x</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-23e9b22b"}}</p>
-				</div>
-			</div>
-			<div class="carousel-item  image-box">
-				<a href="{{ with .Site.GetPage `/models/kgm/torres/torres_evx/`}}{{.RelPermalink}}{{end}}">
-					<img src="https://media.evkx.net/multimedia/models/kgm/torres/torres_evx/main_1_mt.jpg" class="d-block w-100 image-cropped-calc" alt="...">
-				</a>
-				<div class="carousel-caption">
-					<h4>KGM Torres EVX</h4>
-					<p class="d-none d-md-block">{{T "frontpage-description-6ecc80b9"}}</p>
 				</div>
 			</div>
 		</div>

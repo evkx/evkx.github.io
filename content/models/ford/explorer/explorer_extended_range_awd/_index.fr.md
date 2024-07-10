@@ -1,7 +1,7 @@
 ---
 title: Ford Explorer Extended Range AWD
 linktitle: "Explorer Extended Range AWD"
-description: "Ford Explorer Extended Range AWD est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 566 km (352 miles). EVKX.net a tous les détails."
+description: "Ford Explorer Extended Range AWD est un crossover entièrement électrique avec une autonomie de WLTP allant jusqu'à 566 km (352 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -225,7 +225,7 @@ Avec le système Assistantpackage  niveau 2, vous bénéficiez de fonctionnalit�
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 536 litres. Avec la banquette arrière rabattue, elle est de 1422 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2740 kg (6041 lbs), et avec le poids de base de 2267 kg (4998 lbs), vous pouvez charger au maximum 473 kg (1043 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 473kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
+La capacité de chargement dans le coffre est de 536 litres. Avec la banquette arrière rabattue, elle est de 1422 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2740 kg (6041 lbs), et avec le poids de base de 2267 kg (4998 lbs), vous pouvez charger au maximum 473 kg (1043 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1200, et sur une remorque non freinée, il est de 750 kg (2646/1653 lbs).
 ### Disponibilité et prix

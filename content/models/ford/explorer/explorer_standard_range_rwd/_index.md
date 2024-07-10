@@ -1,7 +1,7 @@
 ---
 title: Ford Explorer Standard Range RWD
 linktitle: "Explorer Standard Range RWD"
-description: "Ford Explorer Standard Range RWD is an all-electric SUV with a WLTP range of up to 380 km (236 miles). EVKX.net has all the details."
+description: "Ford Explorer Standard Range RWD is an all-electric crossover with a WLTP range of up to 380 km (236 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true

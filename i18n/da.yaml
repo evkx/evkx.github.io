@@ -112,6 +112,12 @@
 - id: common-section-latest-reviews
   translation: Seneste tests og anmeldelser
 
+- id: frontpage-description-8839c318
+  translation: Ford Capri Extended Range AWD er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 627 km (390 miles). EVKX.net har alle detaljerne.
+
+- id: frontpage-description-a9c21461
+  translation: Ford Capri Extended Range RWD er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 627 km (390 miles). EVKX.net har alle detaljerne.
+
 - id: frontpage-description-ee8cb93d
   translation: Opel Frontera er en fuldelektrisk crossover med en WLTP rækkevidde på op til 306 km (190 miles). EVKX.net har alle detaljerne.
 
@@ -153,10 +159,4 @@
 
 - id: frontpage-description-6f3fd0c2
   translation: SKODA ENYAQ 85x er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 539 km (335 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-8a37b11c
-  translation: Audi RS e-tron GT er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 598 km (372 miles). EVKX.net har alle detaljerne.
-
-- id: frontpage-description-5993d701
-  translation: Audi S e-tron GT er en fuldelektrisk luksussedan med en WLTP rækkevidde på op til 609 km (379 miles). EVKX.net har alle detaljerne.
 

@@ -112,6 +112,12 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-8839c318
+  translation: Ford Capri Extended Range AWD es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 627 km (390 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-a9c21461
+  translation: Ford Capri Extended Range RWD es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 627 km (390 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-ee8cb93d
   translation: Opel Frontera es un crossover totalmente eléctrico con un WLTP alcance de hasta 306 km (190 millas). EVKX.net tiene todos los detalles.
 
@@ -153,10 +159,4 @@
 
 - id: frontpage-description-6f3fd0c2
   translation: SKODA ENYAQ 85x es un SUV totalmente eléctrico con una autonomía WLTP de hasta 539 km (335 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-8a37b11c
-  translation: Audi RS e-tron GT es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 598 km (372 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-5993d701
-  translation: Audi S e-tron GT es un sedán de lujo totalmente eléctrico con un WLTP alcance de hasta 609 km (379 millas). EVKX.net tiene todos los detalles.
 

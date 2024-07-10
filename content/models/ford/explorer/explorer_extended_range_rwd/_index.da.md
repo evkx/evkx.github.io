@@ -1,7 +1,7 @@
 ---
 title: Ford Explorer Extended Range RWD
 linktitle: "Explorer Extended Range RWD"
-description: "Ford Explorer Extended Range RWD er en fuldelektrisk SUV med en rækkevidde på WLTP på op til 602 km (374 miles). EVKX.net har alle detaljerne."
+description: "Ford Explorer Extended Range RWD er en fuldelektrisk crossover med en WLTP rækkevidde på op til 602 km (374 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -225,7 +225,7 @@ Med Assistantpackage  niveau 2-systemet får du yderligere køreautomatiseringsf
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 536 liter. Med bagsædet nede er det 1422 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2675 kg (5897 lbs), og med basisvægten på 2192 kg (4833 lbs), kan du maksimalt laste 483 kg (1065 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 483kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
+Lagekapaciteten i bagagerummet er 536 liter. Med bagsædet nede er det 1422 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2675 kg (5897 lbs), og med basisvægten på 2192 kg (4833 lbs), kan du maksimalt laste 483 kg (1065 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
 ### Tilgængelighed og priser

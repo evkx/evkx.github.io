@@ -18,6 +18,21 @@ weight: 30
         <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
             <div class="accordion-body">
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Ford Capri</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="capri">
+                    <img src="https://media.evkx.net/multimedia/models/ford/capri/capri_extended_range_rwd/main_1_st.jpg" class="img-fluid" alt="Ford Capri" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+Ford Capri er en Coupe SUV tilgængelig i 2 varianter.
+</p>
+	<a href="capri/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
+		</div>
+	</div>
+</div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
         <h3>Ford Explorer</h3>
         <div class="row">
             <div class="col col-12 col-md-6">
@@ -26,7 +41,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Ford Explorer er en SUV tilgængelig i 3 varianter.
+Ford Explorer er en crossover tilgængelig i 3 varianter.
 </p>
 	<a href="explorer/" class="btn btn-outline-primary" role="button">Gå til modelinfo</a>
 		</div>

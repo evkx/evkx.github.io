@@ -317,7 +317,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="ford/"><img src="https://media.evkx.net/multimedia/models/ford/brandevs_st.jpeg" class="img-fluid mb-2" alt="Ford" ></a>
 	<h2>Ford</h2>
 	<p>
-	Ford har 3 modeller med i alt 10 varianter.
+	Ford har 4 modeller med i alt 12 varianter.
 	</p>
 	<a href="ford/" class="btn btn-outline-primary" role="button">Gå til Ford EV-modeloversigt</a>
 </div>

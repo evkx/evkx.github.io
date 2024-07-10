@@ -1,7 +1,7 @@
 ---
 title: Ford Explorer Extended Range AWD
 linktitle: "Explorer Extended Range AWD"
-description: "Ford Explorer Extended Range AWD is an all-electric SUV with a WLTP range of up to 566 km (352 miles). EVKX.net has all the details."
+description: "Ford Explorer Extended Range AWD is an all-electric crossover with a WLTP range of up to 566 km (352 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -225,7 +225,7 @@ With the Assistantpackage  level 2 system, you get additional driving automation
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 536 liters. With the rear seat down, it is 1422 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2740 kg (6041 lbs), and with the base weight of 2267 kg (4998 lbs), you can max load 473 kg (1043 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 473kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
+The cargo capacity in the trunk is 536 liters. With the rear seat down, it is 1422 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2740 kg (6041 lbs), and with the base weight of 2267 kg (4998 lbs), you can max load 473 kg (1043 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
 ### Availability & Pricing
