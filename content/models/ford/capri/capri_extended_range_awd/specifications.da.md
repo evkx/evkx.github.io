@@ -8,6 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/main_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250" >}}
 EVKX.net søger at have de mest komplette specifikationer for Ford Capri Extended Range AWD. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Ford Capri Extended Range AWD, besøg [chargeinfo](../chargecurve/) for Ford Capri Extended Range AWD med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 

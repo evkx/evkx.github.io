@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/main_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
+
 Vi har delt vår beskrivelse av Ford Capri Extended Range AWD i seksjoner. Hvis du vil vente med å lese hele artikkelen, klikker du på lenkene nedenfor til de forskjellige seksjonene. Vi har også en oversikt over [fullstendige spesifikasjoner](specifications/), [detaljer om rekkevidde](rangeandconsumption/),  et [bildegalleri](gallery/), detaljert informasjon om [ladeytelse](chargingcurve/), og noen [online anmeldelser](reviews/). Våre seksjoner:
 
 - [Ytelse](#ytelse)
@@ -40,6 +44,10 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 ### Ombordlader
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 10 minutter med en hjemmelader.
+
+
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/charging_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
+
 
 ### Ladeport
 
@@ -89,6 +97,10 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
+
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/exterior_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -117,6 +129,10 @@ Følgende funksjoner er tilgjengelige på **Ergo** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrert hodestøtte
 - [massasje](../../../../technology/seats/adjustment/#massage)
+
+
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/frontseats_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
+
 
 ### Seter på andre rad
 
@@ -149,6 +165,10 @@ Du har trådløs lading for telefonen din.
 
 Ford Capri Extended Range AWD har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5,0 tommer stor. touch-skjermen i dashbordets sentrum er 14,6 tommer stor.
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
+
+
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/screens_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
+
 
 ## Infotainment
 
@@ -207,6 +227,10 @@ Med Assistantpackage  nivå 2-systemet får du flere kjøreautomatiseringsfunksj
 Lastkapasiteten i bagasjerommet er 627 liter. Med baksetet nede er det 1510 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2685 kg, og med basisvekten på 2098 kg kan du maksimalt laste 587 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750 kg.
+
+
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/trunk_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
+
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 11.07.2024, og leveringene startet i November 2024.<div class="mt-3 mb-3">

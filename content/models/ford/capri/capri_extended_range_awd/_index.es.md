@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/main_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
+
 Hemos separado nuestro artículo Ford Capri Extended Range AWD en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
 - [Rendimiento](#rendimiento)
@@ -40,6 +44,10 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 ### Cargador a bordo
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 10 minutos usando un cargador en casa.
+
+
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/charging_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
+
 
 ### Puerto de carga
 
@@ -89,6 +97,10 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
+
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/exterior_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -117,6 +129,10 @@ Las siguientes funcionalidades están disponibles en el asiento **Ergo**.
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - reposacabezas integrado
 - [masaje](../../../../technology/seats/adjustment/#massage)
+
+
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/frontseats_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
+
 
 ### Asiento de segunda fila
 
@@ -149,6 +165,10 @@ Tienes carga inalámbrica para tu teléfono.
 
 El Ford Capri Extended Range AWD tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla en la columna de dirección mide 5,0 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 14,6 pulgadas de tamaño.
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
+
+
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/screens_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
+
 
 ## Infoentretenimiento
 
@@ -207,6 +227,10 @@ Con el sistema Assistantpackage  nivel 2, obtienes funciones de automatización 
 La capacidad de carga en el maletero es de 627 litros. Con el asiento trasero abatido, es de 1510 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2685 kg (5919 lbs), y con el peso base de 2098 kg (4625 lbs), puedes cargar como máximo 587 kg (1294 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1000, y sin freno, es de 750 kg (2205/1653 lbs).
+
+
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/trunk_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 11.07.2024 y las entregas comenzaron en November 2024.<div class="mt-3 mb-3">

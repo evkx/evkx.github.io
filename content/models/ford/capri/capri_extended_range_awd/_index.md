@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/main_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
+
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
 - [Performance](#performance)
@@ -40,6 +44,10 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 ### Onboard charger
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 10 minutes using a home charging setup.
+
+
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/charging_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
+
 
 ### Charge port
 
@@ -89,6 +97,10 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
+
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/exterior_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -117,6 +129,10 @@ The following functionalities are available on the **Ergo** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrated headrest
 - [massage](../../../../technology/seats/adjustment/#massage)
+
+
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/frontseats_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
+
 
 ### Second-row seat
 
@@ -149,6 +165,10 @@ You have wireless charging for your phone.
 
 The Ford Capri Extended Range AWD has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column is 5.0 inches large. The touch screen on the dashboard's center is 14.6 inches large.
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+
+
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/screens_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
+
 
 ## Infotainment
 
@@ -207,6 +227,10 @@ With the Assistantpackage  level 2 system, you get additional driving automation
 The cargo capacity in the trunk is 627 liters. With the rear seat down, it is 1510 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2685 kg (5919 lbs), and with the base weight of 2098 kg (4625 lbs), you can max load 587 kg (1294 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
+
+
+{{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/trunk_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
+
 ### Availability & Pricing
 
 This model had a world premiere on 11.07.2024, and deliveries started in November 2024.<div class="mt-3 mb-3">
