@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-51783471
+  translation: Rivian R1S Dual-Motor AWD SP er en helelektrisk premium-SUV med en EPA rekkevidde på opptil 434 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-8839c318
   translation: Ford Capri Extended Range AWD er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 592 km. EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-3c5df9ce
   translation: SKODA ENYAQ 85 er en helelektrisk SUV med en WLTP rekkevidde på opptil 566 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-6f3fd0c2
-  translation: SKODA ENYAQ 85x er en helelektrisk SUV med en WLTP rekkevidde på opptil 539 km. EVKX.net har alle detaljene.
 

@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Rivian R1 er en premium pick-up/SUV som er tilgjengelig i 7 varianter.
+Rivian R1 er en premium pick-up/SUV som er tilgjengelig i 8 varianter.
 </p>
 	<a href="r1/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

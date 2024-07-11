@@ -548,7 +548,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="rivian/"><img src="https://media.evkx.net/multimedia/models/rivian/brandevs_st.jpg" class="img-fluid mb-2" alt="Rivian" ></a>
 	<h2>Rivian</h2>
 	<p>
-	Rivian a 1 modèles avec un total de 7 variantes.
+	Rivian a 1 modèles avec un total de 8 variantes.
 	</p>
 	<a href="rivian/" class="btn btn-outline-primary" role="button">Aller à la Rivian présentation du modèle EV</a>
 </div>

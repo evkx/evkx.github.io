@@ -545,7 +545,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="rivian/"><img src="https://media.evkx.net/multimedia/models/rivian/brandevs_st.jpg" class="img-fluid mb-2" alt="Rivian" ></a>
 	<h2>Rivian</h2>
 	<p>
-	Rivian har 1 modell(er) med totalt 7 varianter.
+	Rivian har 1 modell(er) med totalt 8 varianter.
 	</p>
 	<a href="rivian/" class="btn btn-outline-primary" role="button">Gå til Rivian modelloversikt</a>
 </div>
