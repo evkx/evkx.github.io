@@ -1,7 +1,7 @@
 ---
 title: Ford Capri Extended Range AWD
 linktitle: "Capri Extended Range AWD"
-description: "Ford Capri Extended Range AWD is an all-electric coupe SUV with a WLTP range of up to 627 km (390 miles). EVKX.net has all the details."
+description: "Ford Capri Extended Range AWD is an all-electric coupe SUV with a WLTP range of up to 592 km (368 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ The Ford Capri Extended Range AWD delivers a solid performance with a maximum po
 
 The high-capacity battery has a gross capacity of 82 kWh and a net usable capacity of 79 kWh, providing an 3 kWh buffer (3.7%) for battery protection. With a nominal voltage of 350 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 627 to 597 km (390-371 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.6 kWh/100 km for the base model and 13.2 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 592 to 560 km (368-348 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 13.3 kWh/100 km for the base model and 14.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 185 kW. Charging from 0% to 100% takes approximately 64 minutes, while a more typical charging scenario from 10% to 80% takes 35 minutes with an average charging speed at 94 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 2% to 43%. This results in an effective charging speed, including time lost, of 102 kW, with each charging session taking about 19 minutes and 4 seconds..
 
@@ -64,7 +64,7 @@ Ford Capri Extended Range AWD features an all-wheel drive system powered by two 
 
 ### Suspension
 
-The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 135 mm.
+The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The standard suspension has steel springs with a fixed height but an optional damping adjustment. The ground clearance with this suspension is 138 mm.
 
 ### Steering
 
@@ -224,9 +224,9 @@ With the Assistantpackage  level 2 system, you get additional driving automation
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 627 liters. With the rear seat down, it is 1510 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2685 kg (5919 lbs), and with the base weight of 2098 kg (4625 lbs), you can max load 587 kg (1294 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 627 liters. With the rear seat down, it is 1510 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2745 kg (6052 lbs), and with the base weight of 2174 kg (4793 lbs), you can max load 571 kg (1259 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
+You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/trunk_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}

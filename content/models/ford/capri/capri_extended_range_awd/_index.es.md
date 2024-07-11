@@ -1,7 +1,7 @@
 ---
 title: Ford Capri Extended Range AWD
 linktitle: "Capri Extended Range AWD"
-description: "Ford Capri Extended Range AWD es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 627 km (390 millas). EVKX.net tiene todos los detalles."
+description: "Ford Capri Extended Range AWD es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 592 km (368 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ El Ford Capri Extended Range AWD ofrece un rendimiento sólido con una potencia 
 
 La batería de alta capacidad tiene una capacidad bruta de 82 kWh y una capacidad neta utilizable de 79 kWh, proporcionando un buffer de 3 kWh (3,7%) para la protección de la batería. Con un voltaje nominal de 350 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 627 y 597 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 12,6 kWh/100 km para el modelo base y 13,2 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 592 y 560 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 13,3 kWh/100 km para el modelo base y 14,1 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 185kW. Una carga completa del 0 al 100 % tardaría 64 minutos, mientras que un escenario más común del 10 al 80 % tardaría 35 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 43%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 102kW. Cada sesión de carga tardaría 19 minutos y 4 segundos.
 
@@ -64,7 +64,7 @@ Ford Capri Extended Range AWD tiene un sistema de tracción total sostenido por 
 
 ### Suspensión
 
-La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión standard tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 135 mm.
+La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión standard tiene resortes de acero con una altura fija pero con un ajuste de amortiguación opcional. La distancia al suelo con esta suspensión es 138 mm.
 
 ### Dirección
 
@@ -224,9 +224,9 @@ Con el sistema Assistantpackage  nivel 2, obtienes funciones de automatización 
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 627 litros. Con el asiento trasero abatido, es de 1510 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2685 kg (5919 lbs), y con el peso base de 2098 kg (4625 lbs), puedes cargar como máximo 587 kg (1294 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 627 litros. Con el asiento trasero abatido, es de 1510 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2745 kg (6052 lbs), y con el peso base de 2174 kg (4793 lbs), puedes cargar como máximo 571 kg (1259 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1000, y sin freno, es de 750 kg (2205/1653 lbs).
+Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1200, y sin freno, es de 750 kg (2646/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/trunk_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}

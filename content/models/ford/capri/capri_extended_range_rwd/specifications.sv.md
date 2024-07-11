@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				13,0 kWh/100km
+				13,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -331,22 +331,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				1571 mm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Dragkoefficient
-			</td>
-			<td>
-				0,28
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Frontalområde
-			</td>
-			<td>
-				2,56
 			</td>
 		</tr>
 		<tr>

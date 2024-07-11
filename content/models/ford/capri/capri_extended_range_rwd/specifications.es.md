@@ -99,7 +99,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico con pérdida de carga
 			</td>
 			<td>
-				13,0 kWh/100km
+				13,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -331,22 +331,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				1571 mm (61,9")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Coeficiente de arrastre
-			</td>
-			<td>
-				0,28
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Área frontal
-			</td>
-			<td>
-				2,56
 			</td>
 		</tr>
 		<tr>

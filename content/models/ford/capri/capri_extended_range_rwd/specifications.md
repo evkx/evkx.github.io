@@ -99,7 +99,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption with charging loss</a>
 			</td>
 			<td>
-				13,0 kWh/100km
+				13,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -331,22 +331,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				1571 mm (61,9")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Drag coefficient
-			</td>
-			<td>
-				0,28
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Frontal area
-			</td>
-			<td>
-				2,56
 			</td>
 		</tr>
 		<tr>

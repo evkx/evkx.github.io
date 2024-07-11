@@ -1,7 +1,7 @@
 ---
 title: Ford Capri Extended Range AWD
 linktitle: "Capri Extended Range AWD"
-description: "Ford Capri Extended Range AWD er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 627 km (390 miles). EVKX.net har alle detaljerne."
+description: "Ford Capri Extended Range AWD er en fuldelektrisk coupé-SUV med en WLTP rækkevidde på op til 592 km (368 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Ford Capri Extended Range AWD leverer en solid præstation med en maksimal effek
 
 Det højkapacitetsbatteri har en bruttokapacitet på 82 kWh og en nettoanvendelig kapacitet på 79 kWh, hvilket giver en buffer på 3 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 350 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
 
-Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 627 og 597 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 12,6 kWh/100 km for basismodellen og 13,2 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 592 og 560 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 13,3 kWh/100 km for basismodellen og 14,1 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 185kW. En fuld opladning fra 0 - 100 % ville tage 64 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 35 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 2% til 43%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 102kW. Hver opladningssession ville tage 19 minutter og 4 sekunder.
 
@@ -64,7 +64,7 @@ Ford Capri Extended Range AWD har et firehjulstræk, der understøttes af to mot
 
 ### Hjulophæng
 
-Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 135 mm.
+Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. standard-ophænget har stålfjedre med en fast højde, men en valgfri dæmpningsjustering. Mindste frihøjde med denne affjedring er 138 mm.
 
 ### Styring
 
@@ -224,9 +224,9 @@ Med Assistantpackage  niveau 2-systemet får du yderligere køreautomatiseringsf
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 627 liter. Med bagsædet nede er det 1510 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2685 kg (5919 lbs), og med basisvægten på 2098 kg (4625 lbs), kan du maksimalt laste 587 kg (1294 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 627 liter. Med bagsædet nede er det 1510 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2745 kg (6052 lbs), og med basisvægten på 2174 kg (4793 lbs), kan du maksimalt laste 571 kg (1259 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
+Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1200, og på ubremset er den 750 kg (2646/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/trunk_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}

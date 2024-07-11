@@ -1,7 +1,7 @@
 ---
 title: Ford Capri Extended Range AWD
 linktitle: "Capri Extended Range AWD"
-description: "Ford Capri Extended Range AWD är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 627 km. EVKX.net har alla detaljer."
+description: "Ford Capri Extended Range AWD är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 592 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Ford Capri Extended Range AWD levererar en solid prestanda med en maximal effekt
 
 Högkapacitetsbatteriet har en bruttokapacitet på 82 kWh och en nettoanvändbar kapacitet på 79 kWh, vilket ger en buffert på 3 kWh (3,7%) för batteriskydd. Med en nominell spänning på 350 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 627 och 597 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 12,6 kWh/100 km för basmodellen och 13,2 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 592 och 560 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 13,3 kWh/100 km för basmodellen och 14,1 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 185 kW. En full laddning från 0 - 100 % tar 64 minuter, medan ett vanligare scenario på 10-80 % tar 35 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 43%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 102kW. Varje laddningssession tar 19 minuter och 4 sekunder.
 
@@ -64,7 +64,7 @@ Ford Capri Extended Range AWD har ett fyrhjulsdriftsystem som stöds av två mot
 
 ### Hjulupphängning
 
-Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 135 mm.
+Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. standard-Fjädringen har stålfjädrar med fast höjd, men en valfri dämpningsjustering. Markfrigången med denna fjädring är 138 mm.
 
 ### Styrning
 
@@ -224,9 +224,9 @@ Med Assistantpackage  nivå 2-systemet får du fler körautomatiseringsfunktione
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 627 liter. Med baksätet nedfällt är det 1510 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2685 kg, och med basvikten på 2098 kg kan du lasta maximalt 587 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 627 liter. Med baksätet nedfällt är det 1510 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2745 kg, och med basvikten på 2174 kg kan du lasta maximalt 571 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1000, och på en obromsad är den 750 kg.
+Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1200, och på en obromsad är den 750 kg.
 
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/trunk_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}

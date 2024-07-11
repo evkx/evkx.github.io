@@ -99,7 +99,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP trim de base avec perte de charge
 			</td>
 			<td>
-				13,0 kWh/100km
+				13,3 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -331,22 +331,6 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				1571 mm (61,9")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Coefficient de traînée
-			</td>
-			<td>
-				0,28
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Zone frontale
-			</td>
-			<td>
-				2,56
 			</td>
 		</tr>
 		<tr>
