@@ -29,7 +29,7 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Rivian R1S Dual-Motor AWD SP packs an impressive punch with a maximum power of 489 kW (665 hp / 656 bhp) and a commanding total torque of 1123 Nm (829 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.5 seconds, and it reaches a top speed of 201 km/h (125 mph), making it a standout in its class.
+The Rivian R1S Dual-Motor AWD SP delivers a solid performance with a maximum power of 398 kW (541 hp / 534 bhp) and a total torque of 827 Nm (610 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and reaches a top speed of 201 km/h (125 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 

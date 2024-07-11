@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Rivian R1
 				Puissance de pointe
 			</td>
 			<td>
-				489 KW (665 ch /656 bhp)
+				398 KW (541 ch /534 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Rivian R1
 				Couple de sortie électrique
 			</td>
 			<td>
-				1123 nm (829 lb-ft)
+				827 nm (610 lb-ft)
 			</td>
 		</tr>
 		<tr>

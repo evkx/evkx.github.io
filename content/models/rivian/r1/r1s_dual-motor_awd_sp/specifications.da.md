@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Rivian R1S Dual-Mo
 				Popeffekt
 			</td>
 			<td>
-				489 KW (665 hk /656 hk)
+				398 KW (541 hk /534 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Rivian R1S Dual-Mo
 				Elektrisk momentudgang
 			</td>
 			<td>
-				1123 nm (829 lb-ft)
+				827 nm (610 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Rivian R1S Dual-Moto
 				Peak power
 			</td>
 			<td>
-				489 KW (665 hp /656 bhp)
+				398 KW (541 hp /534 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net seeks to have the most complete specifications for Rivian R1S Dual-Moto
 				Electrical torque output
 			</td>
 			<td>
-				1123 nm (829 lb-ft)
+				827 nm (610 lb-ft)
 			</td>
 		</tr>
 		<tr>

@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Rivian R1S Dual-Motor AWD SP i seksjoner. Hvis d
 
 ## Ytelse
 
-Rivian R1S Dual-Motor AWD SP imponerer med en imponerende kraft på 489 kW (665 hk) og et betydelig dreiemoment på 1123 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,5 sekunder og har en toppfart på 201 km/t, noe som gjør den til en markant modell i sin klasse.
+Rivian R1S Dual-Motor AWD SP leverer solid ytelse med en maksimal effekt på 398 kW (541 hk) og et totalt dreiemoment på 827 Nm. Den kan akselerere fra 0 til 100 km/t på 4,5 sekunder og når en topphastighet på 201 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

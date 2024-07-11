@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Rivian R1S Dual-Mo
 				Potencia máxima
 			</td>
 			<td>
-				489 KW (665 hp /656 bhp)
+				398 KW (541 hp /534 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Rivian R1S Dual-Mo
 				Salida de par eléctrico
 			</td>
 			<td>
-				1123 nm (829 pies-libra)
+				827 nm (610 pies-libra)
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Rivian R1S Dual-Mot
 				Maks effekt
 			</td>
 			<td>
-				489 KW (665 hk)
+				398 KW (541 hk)
 			</td>
 		</tr>
 		<tr>
@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Rivian R1S Dual-Mot
 				Dreiemoment
 			</td>
 			<td>
-				1123 nm
+				827 nm
 			</td>
 		</tr>
 		<tr>
