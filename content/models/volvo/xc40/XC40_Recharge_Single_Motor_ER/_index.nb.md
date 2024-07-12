@@ -108,7 +108,7 @@ Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 Bare én type forsete er tilgjengelig i Volvo XC40 Recharge Single Motor ER.
 
-Alternativet zero er en tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
+Følgende funksjoner er tilgjengelige på **** setet.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)

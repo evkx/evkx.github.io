@@ -577,7 +577,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/types/">Seat type</a>
 			</td>
 			<td>
-				Three-seat bench
+				Driver and Passenger Seat
 			</td>
 		</tr>
 		<tr>
@@ -599,6 +599,14 @@ This model is available with a seat configuration with five seats.
 		<tr>
 			<td>
 				Backrest angle adjustment
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				Unknown

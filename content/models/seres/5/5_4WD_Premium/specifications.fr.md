@@ -520,7 +520,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Type de siège
 			</td>
 			<td>
-				None
+				Siège conducteur et passager
 			</td>
 		</tr>
 		<tr>

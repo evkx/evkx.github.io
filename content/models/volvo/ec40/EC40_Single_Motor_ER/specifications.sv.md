@@ -577,7 +577,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Säte typ
 			</td>
 			<td>
-				Tre-sits bänk
+				Förar- och passagerarsäte
 			</td>
 		</tr>
 		<tr>
@@ -599,6 +599,14 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		<tr>
 			<td>
 				Justering ryggstödsvinkel
+			</td>
+			<td>
+				<i class="bi-question-lg"></i> Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

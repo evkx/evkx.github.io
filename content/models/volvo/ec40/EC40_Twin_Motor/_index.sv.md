@@ -106,7 +106,7 @@ Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
 Endast en typ av framsäte är tillgänglig i Volvo EC40 Twin Motor.
 
-Alternativet zero är en tresitssbänk med en -sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
+Följande funktioner är tillgängliga på **** sätet.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)

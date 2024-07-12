@@ -102,7 +102,7 @@ The seat layout is the traditional five seats with two in front and three in the
 
 Only one front seat type is available in the Volvo EX40 Twin Motor.
 
-The zero option is a three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
+The following functionalities are available on the **** seat.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)

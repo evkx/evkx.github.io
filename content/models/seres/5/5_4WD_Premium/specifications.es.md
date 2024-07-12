@@ -520,7 +520,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tipo de asiento
 			</td>
 			<td>
-				None
+				Asiento del conductor y del pasajero
 			</td>
 		</tr>
 		<tr>

@@ -520,7 +520,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Säte typ
 			</td>
 			<td>
-				None
+				Förar- och passagerarsäte
 			</td>
 		</tr>
 		<tr>

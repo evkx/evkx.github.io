@@ -102,7 +102,7 @@ Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
 Kun én type forsæde er tilgængelig i Volvo EX40 Single Motor ER.
 
-Muligheden zero er en tre-sædet bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
+Følgende funktioner er tilgængelige på **** sædet.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)

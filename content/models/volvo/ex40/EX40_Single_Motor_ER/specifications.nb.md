@@ -577,7 +577,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Tre-seters benk
+				Sjåfør- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -599,6 +599,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		<tr>
 			<td>
 				Justering av ryggstøttevinkel
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				Ukjent

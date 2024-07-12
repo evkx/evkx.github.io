@@ -520,7 +520,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sædetype
 			</td>
 			<td>
-				None
+				Fører- og passagersæde
 			</td>
 		</tr>
 		<tr>

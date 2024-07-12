@@ -520,7 +520,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/types/">Seat type</a>
 			</td>
 			<td>
-				None
+				Driver and Passenger Seat
 			</td>
 		</tr>
 		<tr>

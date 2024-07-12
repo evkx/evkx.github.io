@@ -441,7 +441,7 @@ Interior.Seatlayout.OnlySix
 				Setedybdejustering
 			</td>
 			<td>
-				Standardfunksjon
+				Ukjent
 			</td>
 		</tr>
 		<tr>

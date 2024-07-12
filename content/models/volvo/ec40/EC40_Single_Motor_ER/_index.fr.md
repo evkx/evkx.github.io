@@ -106,7 +106,7 @@ La disposition des sièges est la traditionnelle cinq sièges avec deux à l'ava
 
 Un seul type de siège avant est disponible dans le Volvo EC40 Single Motor ER.
 
-L'option zero est une banquette à trois places avec une séparation  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
+Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)

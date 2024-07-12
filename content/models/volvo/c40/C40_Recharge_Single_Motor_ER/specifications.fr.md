@@ -577,7 +577,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Type de siège
 			</td>
 			<td>
-				Banquette trois places
+				Siège conducteur et passager
 			</td>
 		</tr>
 		<tr>
@@ -599,6 +599,14 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		<tr>
 			<td>
 				Réglage de l'angle du dossier
+			</td>
+			<td>
+				Inconnu
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				Inconnu

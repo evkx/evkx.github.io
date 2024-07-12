@@ -520,7 +520,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Setetype
 			</td>
 			<td>
-				None
+				Sjåfør- og passasjersete
 			</td>
 		</tr>
 		<tr>

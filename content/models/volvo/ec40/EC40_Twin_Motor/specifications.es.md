@@ -577,7 +577,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Tipo de asiento
 			</td>
 			<td>
-				Banco de tres plazas
+				Asiento del conductor y del pasajero
 			</td>
 		</tr>
 		<tr>
@@ -599,6 +599,14 @@ Este modelo está disponible con una configuración de cinco asientos.
 		<tr>
 			<td>
 				Ajuste del ángulo del respaldo
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				Desconocido

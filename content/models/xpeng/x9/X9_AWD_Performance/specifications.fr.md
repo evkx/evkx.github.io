@@ -441,7 +441,7 @@ Interior.Seatlayout.OnlySix
 				Réglage de la profondeur du siège
 			</td>
 			<td>
-				Fonctionnalité standard
+				Inconnu
 			</td>
 		</tr>
 		<tr>

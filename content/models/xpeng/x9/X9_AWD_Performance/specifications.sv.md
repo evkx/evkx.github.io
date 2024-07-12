@@ -441,7 +441,7 @@ Interior.Seatlayout.OnlySix
 				Justering sätesdjup
 			</td>
 			<td>
-				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+				<i class="bi-question-lg"></i> Okänd
 			</td>
 		</tr>
 		<tr>

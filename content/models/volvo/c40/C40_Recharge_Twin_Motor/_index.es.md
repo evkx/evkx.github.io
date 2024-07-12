@@ -112,7 +112,7 @@ La disposición de los asientos es la tradicional de cinco asientos, dos delante
 
 Sólo hay un tipo de asiento delantero disponible en el Volvo C40 Recharge Twin Motor.
 
-La opción zero es un banco de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
+Las siguientes funcionalidades están disponibles en el asiento ****.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)

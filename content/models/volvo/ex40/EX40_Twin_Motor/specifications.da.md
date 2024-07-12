@@ -577,7 +577,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædetype
 			</td>
 			<td>
-				Tre-sædet bænk
+				Fører- og passagersæde
 			</td>
 		</tr>
 		<tr>
@@ -599,6 +599,14 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		<tr>
 			<td>
 				Justering af ryglænets vinkel
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				Ukendt
