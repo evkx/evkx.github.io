@@ -812,6 +812,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Elektrisk justering av høyde, hvile og vinkel
 			</td>
 			<td>
@@ -966,6 +974,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		<tr>
 			<td>
 				Justering av ryggstøttevinkel
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				Ukjent
@@ -1134,6 +1150,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Elektrisk justering av høyde, hvile og vinkel
 			</td>
 			<td>
@@ -1295,6 +1319,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Elektrisk justering av høyde, hvile og vinkel
 			</td>
 			<td>
@@ -1449,6 +1481,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		<tr>
 			<td>
 				Justering av ryggstøttevinkel
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				Ukjent

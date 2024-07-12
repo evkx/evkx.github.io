@@ -852,6 +852,14 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Inconnu
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
 			</td>
 			<td>
@@ -1006,6 +1014,14 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		<tr>
 			<td>
 				Réglage de l'angle du dossier
+			</td>
+			<td>
+				Inconnu
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				Inconnu
@@ -1174,6 +1190,14 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Inconnu
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
 			</td>
 			<td>
@@ -1335,6 +1359,14 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Inconnu
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
 			</td>
 			<td>
@@ -1489,6 +1521,14 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		<tr>
 			<td>
 				Réglage de l'angle du dossier
+			</td>
+			<td>
+				Inconnu
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				Inconnu

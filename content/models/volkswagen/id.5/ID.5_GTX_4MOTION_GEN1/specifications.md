@@ -782,6 +782,14 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="/technology/seats/adjustment/#adjustment">Electric adjustment of height, recline and angle</a>
 			</td>
 			<td>
@@ -936,6 +944,14 @@ This model is available with a seat configuration with five seats.
 		<tr>
 			<td>
 				Backrest angle adjustment
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				Unknown

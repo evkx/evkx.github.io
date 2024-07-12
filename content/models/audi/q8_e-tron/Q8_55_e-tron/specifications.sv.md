@@ -868,6 +868,14 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				<i class="bi-question-lg"></i> Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Elektrisk justering av höjd, lutning och vinkel
 			</td>
 			<td>
@@ -1022,6 +1030,14 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		<tr>
 			<td>
 				Justering ryggstödsvinkel
+			</td>
+			<td>
+				<i class="bi-question-lg"></i> Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd
@@ -1190,6 +1206,14 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				<i class="bi-question-lg"></i> Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Elektrisk justering av höjd, lutning och vinkel
 			</td>
 			<td>
@@ -1351,6 +1375,14 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				<i class="bi-question-lg"></i> Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Elektrisk justering av höjd, lutning och vinkel
 			</td>
 			<td>
@@ -1505,6 +1537,14 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		<tr>
 			<td>
 				Justering ryggstödsvinkel
+			</td>
+			<td>
+				<i class="bi-question-lg"></i> Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

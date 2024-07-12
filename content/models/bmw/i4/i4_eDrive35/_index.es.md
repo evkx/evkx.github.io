@@ -83,7 +83,7 @@ La potencia regenerativa máxima es de 116 kW.
 
 ## Exterior
 
-El BMW i4 eDrive35, con dimensiones de 4783 mm de longitud, 1852 mm de anchura y 1448 mm de altura, pertenece al segmento D de automóviles, también conocido como coches medianos o familiares. Estos coches ofrecen más espacio, comodidad y características que segmentos más pequeños, siendo adecuados para una variedad de conductores. El BMW i4 eDrive35 está disponible en un total de 14 colores de pintura, incluyendo varias opciones metálicas llamativas.
+El BMW i4 eDrive35, con dimensiones de 4783 mm de longitud, 1852 mm de anchura y 1448 mm de altura, pertenece al segmento D de automóviles, también conocido como coches medianos o familiares. Estos coches ofrecen más espacio, comodidad y características que segmentos más pequeños, siendo adecuados para una variedad de conductores. El BMW i4 eDrive35 está disponible en un total de 11 colores de pintura, incluyendo varias opciones metálicas llamativas.
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el BMW i4 eDrive35, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 

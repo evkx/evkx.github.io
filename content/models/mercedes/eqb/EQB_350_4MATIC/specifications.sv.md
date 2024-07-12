@@ -569,6 +569,14 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				<i class="bi-question-lg"></i> Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Elektrisk justering av höjd, lutning och vinkel
 			</td>
 			<td>
@@ -723,6 +731,14 @@ Denna modell är tillgänglig med en konfiguration med fem eller sju säten.
 		<tr>
 			<td>
 				Justering ryggstödsvinkel
+			</td>
+			<td>
+				<i class="bi-question-lg"></i> Okänd
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

@@ -695,6 +695,14 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Elektrisk justering af højde, tilbagelæning og vinkel
 			</td>
 			<td>
@@ -849,6 +857,14 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		<tr>
 			<td>
 				Justering af ryglænets vinkel
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				Ukendt

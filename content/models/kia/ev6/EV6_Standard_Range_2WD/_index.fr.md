@@ -79,7 +79,7 @@ La puissance régénérative maximale est de 150 kW.
 
 ## Extérieur
 
-La Kia EV6 Standard Range 2WD, avec des dimensions de 4680 mm de longueur, 1880 mm de largeur et 1550 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. Vous pouvez choisir entre 11 couleurs de peinture différentes lors de la commande de ce modèle.
+La Kia EV6 Standard Range 2WD, avec des dimensions de 4680 mm de longueur, 1880 mm de largeur et 1550 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Kia EV6 Standard Range 2WD est disponible en un total de 11 couleurs de peinture, toutes comprenant des options métalliques et nacrées.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Kia EV6 Standard Range 2WD, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 

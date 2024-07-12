@@ -553,6 +553,14 @@ Denne model er tilgængelig med en sædekonfiguration med seks sæder.
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Ukendt
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Elektrisk justering af højde, tilbagelæning og vinkel
 			</td>
 			<td>

@@ -561,6 +561,14 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Inconnu
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
 			</td>
 			<td>

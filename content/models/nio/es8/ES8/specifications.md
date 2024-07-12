@@ -673,6 +673,14 @@ This model is available with a seat configuration with six or seven seats.
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Unknown
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="/technology/seats/adjustment/#adjustment">Electric adjustment of height, recline and angle</a>
 			</td>
 			<td>

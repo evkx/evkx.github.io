@@ -695,6 +695,14 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Ajuste eléctrico de altura, reclinación y ángulo
 			</td>
 			<td>
@@ -856,6 +864,14 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Ajuste eléctrico de altura, reclinación y ángulo
 			</td>
 			<td>
@@ -1010,6 +1026,14 @@ Este modelo está disponible con una configuración de cinco asientos.
 		<tr>
 			<td>
 				Ajuste del ángulo del respaldo
+			</td>
+			<td>
+				Desconocido
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
 			</td>
 			<td>
 				Desconocido

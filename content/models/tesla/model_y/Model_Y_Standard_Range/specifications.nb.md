@@ -833,6 +833,14 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 		</tr>
 		<tr>
 			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Ukjent
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Elektrisk justering av høyde, hvile og vinkel
 			</td>
 			<td>

@@ -83,7 +83,7 @@ Den maksimale regenerative effekt er 116 kW.
 
 ## Udvendig
 
-Den BMW i4 eDrive35, med dimensioner på 4783 mm i længde, 1852 mm i bredde og 1448 mm i højde, tilhører D-segmentet af biler, også kendt som mellemstore eller familiebiler. Disse biler tilbyder mere plads, komfort og funktioner end mindre segmenter og er velegnede til forskellige førere. BMW i4 eDrive35 fås i alt 14 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
+Den BMW i4 eDrive35, med dimensioner på 4783 mm i længde, 1852 mm i bredde og 1448 mm i højde, tilhører D-segmentet af biler, også kendt som mellemstore eller familiebiler. Disse biler tilbyder mere plads, komfort og funktioner end mindre segmenter og er velegnede til forskellige førere. BMW i4 eDrive35 fås i alt 11 lakfarver, herunder flere iøjnefaldende metalliske muligheder.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på BMW i4 eDrive35, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 

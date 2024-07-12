@@ -79,7 +79,7 @@ Den maximala regenerativa effekten är 150 kW.
 
 ## Exteriör
 
-Kia EV6 Standard Range 2WD, med dimensioner på 4680 mm i längd, 1880 mm i bredd och 1550 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. Du kan välja mellan 11 olika färgfärger när du beställer den här modellen.
+Kia EV6 Standard Range 2WD, med dimensioner på 4680 mm i längd, 1880 mm i bredd och 1550 mm i höjd, tillhör kompakta SUV:ar, även kända som C-SUV:ar. De erbjuder en balans mellan praktiskt användande och smidighet hos mindre fordon samt utrymme och mångsidighet hos större SUV:ar. 11 finns i totalt 11 lackfärger, alla inkluderar metalliska och pärlemorsalternativ.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Kia EV6 Standard Range 2WD, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
