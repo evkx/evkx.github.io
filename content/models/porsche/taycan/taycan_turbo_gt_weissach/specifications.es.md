@@ -611,7 +611,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste de la profundidad del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
@@ -780,7 +780,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste de la profundidad del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>

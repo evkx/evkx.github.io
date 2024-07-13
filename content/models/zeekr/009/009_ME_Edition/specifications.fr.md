@@ -524,7 +524,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Réglage de la profondeur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -556,7 +556,7 @@ Ce modèle est disponible avec une configuration de sièges à six places.
 				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>

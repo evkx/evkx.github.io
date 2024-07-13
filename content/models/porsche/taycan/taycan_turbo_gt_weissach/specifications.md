@@ -611,7 +611,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Seat depth adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>
@@ -780,7 +780,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Seat depth adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>

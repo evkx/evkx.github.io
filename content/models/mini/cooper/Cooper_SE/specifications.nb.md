@@ -529,7 +529,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fire seter.
 				Elektrisk justering av høyde, hvile og vinkel
 			</td>
 			<td>
-				Ukjent
+				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>

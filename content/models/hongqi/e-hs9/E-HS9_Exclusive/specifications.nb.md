@@ -540,7 +540,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks seter.
 				Setedybdejustering
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>

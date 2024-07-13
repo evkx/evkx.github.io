@@ -464,7 +464,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ajuste eléctrico de altura, reclinación y ángulo
 			</td>
 			<td>
-				Desconocido
+				No disponible
 			</td>
 		</tr>
 		<tr>

@@ -588,7 +588,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Réglage de la profondeur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>
@@ -757,7 +757,7 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				Réglage de la profondeur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>

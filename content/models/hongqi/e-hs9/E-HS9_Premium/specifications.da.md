@@ -540,7 +540,7 @@ Interior.Seatlayout.OnlySix
 				Sædedybdejustering
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

@@ -633,7 +633,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
 			</td>
 			<td>
-				Inconnu
+				Non disponible
 			</td>
 		</tr>
 		<tr>

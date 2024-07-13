@@ -612,7 +612,7 @@ Interior.Seatlayout.OnlySix
 				Ajuste de la profundidad del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>

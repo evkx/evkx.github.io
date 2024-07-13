@@ -588,7 +588,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Sædedybdejustering
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>
@@ -757,7 +757,7 @@ Denne model er tilgængelig med en sædekonfiguration med seks eller syv sæder.
 				Sædedybdejustering
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

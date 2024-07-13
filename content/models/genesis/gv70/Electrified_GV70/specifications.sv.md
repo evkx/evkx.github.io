@@ -576,7 +576,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Justering sätesdjup
 			</td>
 			<td>
-				<i class="bi-question-lg"></i> Okänd
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
 			</td>
 		</tr>
 		<tr>
