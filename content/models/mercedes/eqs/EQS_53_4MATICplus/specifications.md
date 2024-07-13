@@ -721,14 +721,6 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				<a href="/technology/seats/adjustment/#adjustment">Electric adjustable thigh support</a>
-			</td>
-			<td>
-				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
 			</td>
 			<td>
@@ -886,14 +878,6 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				Not Available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/seats/adjustment/#adjustment">Electric adjustable thigh support</a>
-			</td>
-			<td>
-				Standard feature
 			</td>
 		</tr>
 		<tr>

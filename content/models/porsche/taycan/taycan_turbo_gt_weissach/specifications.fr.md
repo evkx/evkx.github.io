@@ -704,14 +704,6 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 		</tr>
 		<tr>
 			<td>
-				Appui de cuisse réglable électriquement
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Repose-pieds passagers
 			</td>
 			<td>
@@ -869,14 +861,6 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				Fonctionnalité standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Appui de cuisse réglable électriquement
-			</td>
-			<td>
-				Non disponible
 			</td>
 		</tr>
 		<tr>

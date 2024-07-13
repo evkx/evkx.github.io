@@ -669,14 +669,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Soporte para muslos ajustable eléctricamente
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Pasajeros con reposapiés
 			</td>
 			<td>

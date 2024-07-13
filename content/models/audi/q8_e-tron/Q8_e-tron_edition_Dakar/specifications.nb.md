@@ -900,14 +900,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justerbar lårstøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Fotstøttepassasjerer
 			</td>
 			<td>
@@ -1062,14 +1054,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		<tr>
 			<td>
 				Justering av setepute, sidestøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
 				Ikke tilgjengelig
@@ -1238,14 +1222,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justerbar lårstøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Fotstøttepassasjerer
 			</td>
 			<td>
@@ -1407,14 +1383,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justerbar lårstøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Fotstøttepassasjerer
 			</td>
 			<td>
@@ -1569,14 +1537,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		<tr>
 			<td>
 				Justering av setepute, sidestøtte
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
 				Standardfunksjon

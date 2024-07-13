@@ -665,14 +665,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem eller syv seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justerbar lårstøtte
-			</td>
-			<td>
-				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Fotstøttepassasjerer
 			</td>
 			<td>

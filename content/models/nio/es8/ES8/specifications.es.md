@@ -745,14 +745,6 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 		</tr>
 		<tr>
 			<td>
-				Soporte para muslos ajustable eléctricamente
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Pasajeros con reposapiés
 			</td>
 			<td>

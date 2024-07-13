@@ -614,14 +614,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Soporte para muslos ajustable eléctricamente
-			</td>
-			<td>
-				Función estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Pasajeros con reposapiés
 			</td>
 			<td>

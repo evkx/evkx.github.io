@@ -654,14 +654,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Elektriskt justerbart lårstöd
-			</td>
-			<td>
-				<i class="bi-question-lg"></i> Okänd
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Fotstödspassagerare
 			</td>
 			<td>

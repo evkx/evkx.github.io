@@ -681,14 +681,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Appui de cuisse réglable électriquement
-			</td>
-			<td>
-				Fonctionnalité standard
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Repose-pieds passagers
 			</td>
 			<td>

@@ -785,14 +785,6 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justerbar lårstøtte
-			</td>
-			<td>
-				Valgfri funktion
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Fodstøttepassagerer
 			</td>
 			<td>

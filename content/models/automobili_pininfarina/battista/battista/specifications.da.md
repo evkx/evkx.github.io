@@ -589,14 +589,6 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justerbar lårstøtte
-			</td>
-			<td>
-				Ukendt
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Fodstøttepassagerer
 			</td>
 			<td>

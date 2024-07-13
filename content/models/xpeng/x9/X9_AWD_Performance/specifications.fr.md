@@ -534,14 +534,6 @@ Interior.Seatlayout.OnlySix
 		</tr>
 		<tr>
 			<td>
-				Appui de cuisse réglable électriquement
-			</td>
-			<td>
-				Fonctionnalité standard
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Repose-pieds passagers
 			</td>
 			<td>

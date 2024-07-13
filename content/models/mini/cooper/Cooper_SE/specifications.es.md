@@ -590,14 +590,6 @@ Este modelo está disponible con una configuración de cuatro asientos.
 		</tr>
 		<tr>
 			<td>
-				Soporte para muslos ajustable eléctricamente
-			</td>
-			<td>
-				Desconocido
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Pasajeros con reposapiés
 			</td>
 			<td>

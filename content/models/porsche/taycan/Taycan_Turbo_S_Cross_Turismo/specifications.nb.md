@@ -900,14 +900,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justerbar lårstøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Fotstøttepassasjerer
 			</td>
 			<td>
@@ -1065,14 +1057,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 			</td>
 			<td>
 				Standardfunksjon
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Elektrisk justerbar lårstøtte
-			</td>
-			<td>
-				Ikke tilgjengelig
 			</td>
 		</tr>
 		<tr>
