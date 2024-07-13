@@ -122,13 +122,9 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 
 
-Las siguientes funcionalidades están disponibles en el asiento ****.
+La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-
-Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
-
-
 
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/secondrowseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="2250"  >}}

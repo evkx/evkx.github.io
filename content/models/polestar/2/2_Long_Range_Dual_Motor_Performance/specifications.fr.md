@@ -741,7 +741,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Type de siège
 			</td>
 			<td>
-				Siège conducteur et passager
+				Banquette trois places
 			</td>
 		</tr>
 		<tr>

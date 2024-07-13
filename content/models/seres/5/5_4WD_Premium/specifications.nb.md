@@ -681,7 +681,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Setetype
 			</td>
 			<td>
-				None
+				Tre-seters benk
 			</td>
 		</tr>
 		<tr>

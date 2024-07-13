@@ -741,7 +741,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/types/">Seat type</a>
 			</td>
 			<td>
-				Driver and Passenger Seat
+				Three-seat bench
 			</td>
 		</tr>
 		<tr>

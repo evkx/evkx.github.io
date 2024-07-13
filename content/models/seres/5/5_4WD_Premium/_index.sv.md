@@ -127,18 +127,9 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 
 
-Följande funktioner är tillgängliga på **** sätet.
+Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-
-Du kan välja mellan 5 olika material/färger för denna sitstyp.
-- Brown [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-- Brown [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-- Beige [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-- Red [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-- Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-
-
 
 Det finns bara en typ av ratt tillgänglig.
 

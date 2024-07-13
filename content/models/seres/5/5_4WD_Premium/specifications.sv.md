@@ -681,7 +681,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Säte typ
 			</td>
 			<td>
-				None
+				Tre-sits bänk
 			</td>
 		</tr>
 		<tr>

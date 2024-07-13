@@ -741,7 +741,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Tipo de asiento
 			</td>
 			<td>
-				Asiento del conductor y del pasajero
+				Banco de tres plazas
 			</td>
 		</tr>
 		<tr>

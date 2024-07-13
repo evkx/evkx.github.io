@@ -681,7 +681,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tipo de asiento
 			</td>
 			<td>
-				None
+				Banco de tres plazas
 			</td>
 		</tr>
 		<tr>

@@ -127,18 +127,9 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 
 
 
-Les fonctionnalités suivantes sont disponibles sur le siège ****.
+La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-
-Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
-- Brown [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-- Brown [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-- Beige [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-- Red [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-- Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-
-
 
 Il n'y a qu'un seul type de volant disponible.
 

@@ -741,7 +741,7 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med fem seter.
 				Setetype
 			</td>
 			<td>
-				Sjåfør- og passasjersete
+				Tre-seters benk
 			</td>
 		</tr>
 		<tr>

@@ -741,7 +741,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædetype
 			</td>
 			<td>
-				Fører- og passagersæde
+				Tre-sædet bænk
 			</td>
 		</tr>
 		<tr>

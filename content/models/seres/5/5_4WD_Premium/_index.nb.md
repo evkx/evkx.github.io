@@ -127,18 +127,9 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 
 
-Følgende funksjoner er tilgjengelige på **** setet.
+Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-
-Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
-- Brown [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
-- Brown [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
-- Beige [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
-- Red [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
-- Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
-
-
 
 Det er bare én type ratt tilgjengelig.
 

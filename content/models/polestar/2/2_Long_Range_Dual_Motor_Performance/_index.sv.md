@@ -122,13 +122,9 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 
 
-Följande funktioner är tillgängliga på **** sätet.
+Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-
-Du kan välja mellan 5 olika material/färger för denna sitstyp.
-
-
 
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/secondrowseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="2250"  >}}

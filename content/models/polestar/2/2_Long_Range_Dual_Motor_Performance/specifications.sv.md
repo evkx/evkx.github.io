@@ -741,7 +741,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Säte typ
 			</td>
 			<td>
-				Förar- och passagerarsäte
+				Tre-sits bänk
 			</td>
 		</tr>
 		<tr>

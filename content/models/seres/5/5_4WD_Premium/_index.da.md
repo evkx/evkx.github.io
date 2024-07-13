@@ -127,18 +127,9 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 
 
-Følgende funktioner er tilgængelige på **** sædet.
+Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
-Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
-- Brown [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
-- Brown [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
-- Beige [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
-- Red [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
-- Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
-
-
 
 Der er kun én type rat tilgængelig.
 

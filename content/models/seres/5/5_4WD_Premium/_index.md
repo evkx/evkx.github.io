@@ -127,18 +127,9 @@ You can choose from 5 different materials/colors for this seat type.
 
 
 
-The following functionalities are available on the **** seat.
+The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
-You can choose from 5 different materials/colors for this seat type.
-- Brown [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
-- Brown [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
-- Beige [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
-- Red [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
-- Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
-
-
 
 There is only one type of steering wheel available.
 

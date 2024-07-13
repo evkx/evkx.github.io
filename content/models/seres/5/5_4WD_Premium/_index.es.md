@@ -127,18 +127,9 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 
 
-Las siguientes funcionalidades están disponibles en el asiento ****.
+La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-
-Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
-- Brown [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-- Brown [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-- Beige [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-- Red [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-- Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-
-
 
 Sólo hay un tipo de volante disponible.
 

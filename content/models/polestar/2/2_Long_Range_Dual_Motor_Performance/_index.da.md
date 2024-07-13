@@ -122,13 +122,9 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 
 
-Følgende funktioner er tilgængelige på **** sædet.
+Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
-Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
-
-
 
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/secondrowseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="2250"  >}}

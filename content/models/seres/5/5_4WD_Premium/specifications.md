@@ -681,7 +681,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/seats/types/">Seat type</a>
 			</td>
 			<td>
-				None
+				Three-seat bench
 			</td>
 		</tr>
 		<tr>

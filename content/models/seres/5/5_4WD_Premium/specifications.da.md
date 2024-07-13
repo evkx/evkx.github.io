@@ -681,7 +681,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Sædetype
 			</td>
 			<td>
-				None
+				Tre-sædet bænk
 			</td>
 		</tr>
 		<tr>
