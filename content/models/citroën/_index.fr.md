@@ -48,6 +48,21 @@ Citroën ë-C3 Aircross est un crossover disponible en 1 variantes.
 	</div>
 </div>
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Citroën ë-C3 Aircross</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="ë-c3_aircross">
+                    <img src="https://media.evkx.net/multimedia/models/citroën/ë-c3_aircross/ë-c3_aircross/main_1_st.jpg" class="img-fluid" alt="Citroën ë-C3 Aircross" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+Citroën ë-C3 Aircross est un crossover disponible en 1 variantes.
+</p>
+	<a href="ë-c3_aircross/" class="btn btn-outline-primary" role="button">Aller aux informations sur le modèle</a>
+		</div>
+	</div>
+</div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
         <h3>Citroën ë-C4</h3>
         <div class="row">
             <div class="col col-12 col-md-6">

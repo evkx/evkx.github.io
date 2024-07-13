@@ -269,7 +269,7 @@ Haga clic en los logotipos a continuación para ir directamente a la página de 
 	<a href="citroën/"><img src="https://media.evkx.net/multimedia/models/citroën/brandevs_st.jpg" class="img-fluid mb-2" alt="Citroën" ></a>
 	<h2>Citroën</h2>
 	<p>
-	Citroën tiene 3 modelos con un total de 3 variantes.
+	Citroën tiene 4 modelos con un total de 4 variantes.
 	</p>
 	<a href="citroën/" class="btn btn-outline-primary" role="button">Ir a Citroën descripción general del modelo EV</a>
 </div>

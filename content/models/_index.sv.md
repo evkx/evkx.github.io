@@ -269,7 +269,7 @@ Klicka på logotyperna nedan för att gå direkt till varumärkessidan, eller sc
 	<a href="citroën/"><img src="https://media.evkx.net/multimedia/models/citroën/brandevs_st.jpg" class="img-fluid mb-2" alt="Citroën" ></a>
 	<h2>Citroën</h2>
 	<p>
-	Citroën har 3 modell(er) med totalt 3 varianter.
+	Citroën har 4 modell(er) med totalt 4 varianter.
 	</p>
 	<a href="citroën/" class="btn btn-outline-primary" role="button">Gå till Citroën modellöversikt</a>
 </div>
