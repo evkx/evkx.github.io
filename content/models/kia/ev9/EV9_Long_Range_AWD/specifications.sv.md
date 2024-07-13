@@ -767,14 +767,6 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 		</tr>
 		<tr>
 			<td>
-				Elektriskt justerbart lårstöd
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Fotstödspassagerare
 			</td>
 			<td>
@@ -880,14 +872,6 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 		</tr>
 		<tr>
 			<td>
-				Elektriskt justerbart lårstöd
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Fotstödspassagerare
 			</td>
 			<td>
@@ -983,14 +967,6 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 		<tr>
 			<td>
 				Justering av sittdyna, sidostöd
-			</td>
-			<td>
-				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Elektriskt justerbart lårstöd
 			</td>
 			<td>
 				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt

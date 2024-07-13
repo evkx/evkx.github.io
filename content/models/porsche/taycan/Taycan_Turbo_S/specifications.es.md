@@ -1036,14 +1036,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Soporte para muslos ajustable eléctricamente
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Pasajeros con reposapiés
 			</td>
 			<td>
@@ -1142,14 +1134,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 		<tr>
 			<td>
 				Ajuste del refuerzo lateral del cojín del asiento
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Soporte para muslos ajustable eléctricamente
 			</td>
 			<td>
 				No disponible

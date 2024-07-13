@@ -1131,14 +1131,6 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Elektriskt justerbart lårstöd
-			</td>
-			<td>
-				<i class="bi-question-lg"></i> Okänd
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Fotstödspassagerare
 			</td>
 			<td>
@@ -1237,14 +1229,6 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		<tr>
 			<td>
 				Justering av sittdyna, sidostöd
-			</td>
-			<td>
-				<i class="bi-question-lg"></i> Okänd
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Elektriskt justerbart lårstöd
 			</td>
 			<td>
 				<i class="bi-question-lg"></i> Okänd

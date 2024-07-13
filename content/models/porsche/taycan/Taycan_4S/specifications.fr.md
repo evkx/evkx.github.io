@@ -1514,14 +1514,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Appui de cuisse réglable électriquement
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Repose-pieds passagers
 			</td>
 			<td>
@@ -1620,14 +1612,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		<tr>
 			<td>
 				Réglage des traversins latéraux du coussin de siège
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Appui de cuisse réglable électriquement
 			</td>
 			<td>
 				Non disponible

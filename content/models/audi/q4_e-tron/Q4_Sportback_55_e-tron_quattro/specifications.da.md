@@ -1107,14 +1107,6 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Elektrisk justerbar lårstøtte
-			</td>
-			<td>
-				Ukendt
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Fodstøttepassagerer
 			</td>
 			<td>
@@ -1213,14 +1205,6 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		<tr>
 			<td>
 				Justering af sædehyndes sidestøtte
-			</td>
-			<td>
-				Ukendt
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Elektrisk justerbar lårstøtte
 			</td>
 			<td>
 				Ukendt
