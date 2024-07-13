@@ -29,6 +29,12 @@ BMS regulerer opladning og afladning af batteripakken i overensstemmelse hermed 
 
 Nogle gange vælger producenten at ændre bufferstørrelsen med softwareopdateringer. Denne ændring sker normalt, når producenten ved mere om, hvordan et nyt batteri yder med hensyn til nedbrydning.
 
+### Bruger producenter buffer til at skjule nedbrydning?
+
+En almindelig misforståelse er, at bufferen i elbilbatterier bruges til at skjule nedbrydningen af den brugbare batterikapacitet. Dette er dog ikke en praksis, som producenterne anvender. Justering af bufferen for at maskere nedbrydning ville faktisk fremskynde nedbrydningsprocessen, da det ville kræve ændring af cellernes maksimale og/eller minimale spændingsgrænser. Så vidt vi ved, bruger ingen producenter denne strategi.
+
+En indikation på, at en bufferjustering bruges til at skjule nedbrydning, vil være mærkbare ændringer i spændings-/opladningsniveauerne (SOC). For eksempel, hvis et batteri ved 98% SOC måler 4,16 volt, når det er nyt, men senere måler 4,19 volt ved samme SOC, kan det tyde på, at buffersize er blevet ændret.
+
 ## Skjult tilgængelig buffer
 
 Nogle producenter skjuler noget tilgængelig batterikapacitet i en skjult tilgængelig buffer. Hvad betyder det?

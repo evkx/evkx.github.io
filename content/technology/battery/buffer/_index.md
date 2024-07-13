@@ -28,6 +28,12 @@ The BMS regulates the charging and discharging of the battery pack accordingly t
 
 Sometimes, the manufacturer chooses to change the buffer's size with software updates. This change typically happens when the manufacturer knows more about how a new battery performs regarding degradation.
 
+### Do Manufacturers Use Buffer for Hiding Degradation?
+
+A common misconception is that the buffer in electric vehicle (EV) batteries is used to hide the degradation of the usable battery capacity. However, this is not a practice that manufacturers employ. Adjusting the buffer to mask degradation would actually accelerate the degradation process, as it would require changing the maximum and/or minimum voltage limits of the cells. To our knowledge, no manufacturers employ this strategy.
+
+An indication that a buffer adjustment is being used to hide degradation would be noticeable changes in the voltage/State of Charge (SOC) levels. For instance, if a battery at 98% SOC measures 4.16 volts when new but later measures 4.19 volts at the same SOC, it could suggest that the buffer size has been altered.
+
 ## Hidden usable buffer
 
 Some manufacturers hide some available battery capacity in a hidden usable buffer. What does that mean?

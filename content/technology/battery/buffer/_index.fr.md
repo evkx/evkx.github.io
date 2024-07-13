@@ -28,6 +28,12 @@ Le BMS régule la charge et la décharge de la batterie en conséquence pour la 
 
 Parfois, le fabricant choisit de modifier la taille du tampon avec des mises à jour logicielles. Ce changement se produit généralement lorsque le fabricant en sait plus sur les performances d'une nouvelle batterie en matière de dégradation.
 
+### Les fabricants utilisent-ils un buffer pour cacher la dégradation?
+
+Une idée fausse courante est que le buffer dans les batteries de véhicules électriques (VE) est utilisé pour cacher la dégradation de la capacité utilisable de la batterie. Cependant, ce n'est pas une pratique utilisée par les fabricants. Ajuster le buffer pour masquer la dégradation accélérerait en réalité le processus de dégradation, car cela nécessiterait de changer les limites de tension maximale et/ou minimale des cellules. À notre connaissance, aucun fabricant n'utilise cette stratégie.
+
+Un indice qu'un ajustement du buffer est utilisé pour cacher la dégradation serait des changements notables dans les niveaux de tension/état de charge (SOC). Par exemple, si une batterie à 98 % de SOC mesure 4,16 volts lorsqu'elle est neuve mais mesure ensuite 4,19 volts au même SOC, cela pourrait indiquer que la taille du buffer a été modifiée.
+
 ## Tampon utilisable caché
 
 Certains fabricants cachent une partie de la capacité disponible de la batterie dans un tampon utilisable caché. Qu'est-ce que cela signifie?

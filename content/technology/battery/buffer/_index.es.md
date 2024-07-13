@@ -27,6 +27,12 @@ El BMS regula la carga y descarga del paquete de baterías en consecuencia para 
 
 A veces, el fabricante opta por cambiar el tamaño del búfer con actualizaciones de software. Este cambio suele ocurrir cuando el fabricante sabe más sobre cómo se comporta una batería nueva con respecto a la degradación.
 
+### ¿Utilizan los fabricantes un buffer para ocultar la degradación?
+
+Una idea errónea común es que el buffer en las baterías de vehículos eléctricos (EV) se utiliza para ocultar la degradación de la capacidad utilizable de la batería. Sin embargo, esta no es una práctica que empleen los fabricantes. Ajustar el buffer para enmascarar la degradación en realidad aceleraría el proceso de degradación, ya que requeriría cambiar los límites de voltaje máximo y/o mínimo de las celdas. Según nuestro conocimiento, ningún fabricante emplea esta estrategia.
+
+Una indicación de que se está utilizando un ajuste de buffer para ocultar la degradación serían los cambios notables en los niveles de voltaje/Estado de Carga (SOC). Por ejemplo, si una batería al 98% SOC mide 4.16 voltios cuando es nueva pero luego mide 4.19 voltios en el mismo SOC, podría sugerir que el tamaño del buffer ha sido alterado.
+
 ## Búfer utilizable oculto
 
 Algunos fabricantes ocultan parte de la capacidad disponible de la batería en un búfer utilizable oculto. ¿Qué significa eso?

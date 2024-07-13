@@ -28,6 +28,12 @@ BMS reglerar laddning och urladdning av batteripaketet i enlighet med detta för
 
 Ibland väljer tillverkaren att ändra buffertstorleken med programuppdateringar. Denna förändring sker vanligtvis när tillverkaren vet mer om hur ett nytt batteri presterar när det gäller nedbrytning.
 
+### Använder tillverkare buffer för att dölja nedbrytning?
+
+En vanlig missuppfattning är att bufferten i elbilsbatterier används för att dölja nedbrytningen av den användbara batterikapaciteten. Detta är dock inte en praxis som tillverkarna använder. Att justera bufferten för att maskera nedbrytning skulle faktiskt påskynda nedbrytningsprocessen, eftersom det skulle kräva att ändra cellernas maximala och/eller minimala spänningsgränser. Såvitt vi vet, använder inga tillverkare denna strategi.
+
+En indikation på att en bufferjustering används för att dölja nedbrytning skulle vara märkbara förändringar i spännings-/laddningsnivåerna (SOC). Till exempel, om ett batteri på 98 % SOC mäter 4,16 volt när det är nytt men senare mäter 4,19 volt vid samma SOC, kan det tyda på att bufferstorleken har ändrats.
+
 ## Dold användbar buffert
 
 Vissa tillverkare döljer viss tillgänglig batterikapacitet i en dold användbar buffert. Vad betyder det?
