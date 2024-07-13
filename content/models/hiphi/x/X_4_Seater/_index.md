@@ -133,7 +133,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 For the second row, this model has two captain chairs. In addition, the following functionalities are available.
 
-- electric adjustment
 - [heating](../../../../technology/seats/adjustment/#heating)
 - integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)

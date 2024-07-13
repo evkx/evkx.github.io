@@ -149,7 +149,6 @@ Du kan vælge to sædetyper til anden række i Nio EL8.
 
 Muligheden standard er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
 
-- elektrisk justering
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
@@ -157,7 +156,6 @@ Muligheden standard er to kaptajnstole. Derudover er følgende funktionaliteter 
 
 Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
 
-- elektrisk justering
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)

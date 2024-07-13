@@ -149,7 +149,6 @@ Du kan velge to setetyper for den andre raden i Nio EL8.
 
 Alternativet standard er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
 
-- elektrisk justering
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
@@ -157,7 +156,6 @@ Alternativet standard er to kapteinstoler. I tillegg er følgende funksjoner til
 
 Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
 
-- elektrisk justering
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)

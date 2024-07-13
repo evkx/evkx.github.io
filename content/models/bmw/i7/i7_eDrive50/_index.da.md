@@ -150,7 +150,6 @@ Muligheden standard er en tre-sædet bænk med en  del, hvor du kan folde hver s
 
 Muligheden second er et [executive-sæde kombineret med en to-sædet bænk](../../../../technology/seats/types/#executive-sæde--to-sædet-bænk). Derudover er følgende funktionaliteter tilgængelige.
 
-- elektrisk justering
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [elektrisk justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integreret nakkestøtte

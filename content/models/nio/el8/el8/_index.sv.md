@@ -149,7 +149,6 @@ Du kan välja två sätestyper för den andra raden i Nio EL8.
 
 Alternativ standard är två kaptensstolar. Dessutom är följande funktioner tillgängliga.
 
-- elektrisk justering
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
@@ -157,7 +156,6 @@ Alternativ standard är två kaptensstolar. Dessutom är följande funktioner ti
 
 Alternativ second är två kaptensstolar. Dessutom är följande funktioner tillgängliga.
 
-- elektrisk justering
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)

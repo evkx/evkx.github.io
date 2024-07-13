@@ -127,7 +127,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 For the second row, this model has two captain chairs. In addition, the following functionalities are available.
 
-- electric adjustment
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)

@@ -150,7 +150,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
-- elektrisk justering
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 Der er kun én type rat tilgængelig.

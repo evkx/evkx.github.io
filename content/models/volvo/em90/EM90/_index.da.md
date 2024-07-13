@@ -126,7 +126,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 For anden række har denne model to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
 
-- elektrisk justering
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)

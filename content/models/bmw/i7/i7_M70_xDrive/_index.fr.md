@@ -139,7 +139,6 @@ L'option standard est une banquette à trois places avec une séparation  où vo
 
 L'option second est un [siège exécutif combiné à une banquette à deux places](../../../../technology/seats/types/#executive-siège--banquette-deux-places). De plus, les fonctionnalités suivantes sont disponibles.
 
-- réglage électrique
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 - [support de cuisse réglable électriquement](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - appui-tête intégré

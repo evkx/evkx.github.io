@@ -149,7 +149,6 @@ Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Nio 
 
 L'option standard est deux sièges capitaine. De plus, les fonctionnalités suivantes sont disponibles.
 
-- réglage électrique
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
@@ -157,7 +156,6 @@ L'option standard est deux sièges capitaine. De plus, les fonctionnalités suiv
 
 L'option second est deux sièges capitaine. De plus, les fonctionnalités suivantes sont disponibles.
 
-- réglage électrique
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)

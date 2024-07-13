@@ -150,7 +150,6 @@ Du kan välja två sätestyper för den andra raden i Nio ES8.
 
 Alternativet standard är en tresitssbänk med en 60:40-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
-- elektrisk justering
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
 Alternativ standard är två kaptensstolar. Dessutom är följande funktioner tillgängliga.

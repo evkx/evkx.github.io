@@ -120,7 +120,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:60 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
-- réglage électrique
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 
 Il n'y a qu'un seul type de volant disponible.

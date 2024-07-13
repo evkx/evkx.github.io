@@ -145,7 +145,6 @@ You can choose from 3 different materials/colors for this seat type.
 
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
-- electric adjustment
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)

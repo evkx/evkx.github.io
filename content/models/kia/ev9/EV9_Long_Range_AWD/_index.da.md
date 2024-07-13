@@ -140,7 +140,6 @@ Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter ti
 
 Muligheden third er to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
 
-- elektrisk justering
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)

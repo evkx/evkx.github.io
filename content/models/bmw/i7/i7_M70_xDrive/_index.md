@@ -139,7 +139,6 @@ The standard option is a three-seat bench with a  split where you can fold each 
 
 The second option is an [executive seat combined with a two-seat bench](../../../../technology/seats/types/#executive-seat--two-seat-bench). In addition, the following functionalities are available.
 
-- electric adjustment
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrated headrest

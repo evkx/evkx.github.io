@@ -140,7 +140,6 @@ L'option second est deux sièges capitaine. De plus, les fonctionnalités suivan
 
 L'option third est deux sièges capitaine. De plus, les fonctionnalités suivantes sont disponibles.
 
-- réglage électrique
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)

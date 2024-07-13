@@ -150,7 +150,6 @@ Alternativet standard är en tresitssbänk med en -sektion där du kan vika varj
 
 Alternativet second är en [executive-stol kombinerad med en tvåsitsbänk](../../../../technology/seats/types/#executive-sits--tvåsitsig-bänk). Dessutom är följande funktioner tillgängliga.
 
-- elektrisk justering
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [elektriskt justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - integrerat nackstöd

@@ -138,7 +138,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 För den andra raden har den här modellen dubbla [executive-säten](../../../../technology/seats/types/#twin-executive-säten). Dessutom är följande funktioner tillgängliga.
 
-- elektrisk justering
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)

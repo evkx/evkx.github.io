@@ -140,7 +140,6 @@ Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgj
 
 Alternativet third er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
 
-- elektrisk justering
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)

@@ -150,7 +150,6 @@ Alternativet standard er en tre-seters benk med en -del hvor du kan folde hver s
 
 second-alternativet er et [executive sete kombinert med en to-seters benk](../../../../technology/seats/types/#executive-sete--to-seters-benk). I tillegg er følgende funksjoner tilgjengelige.
 
-- elektrisk justering
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - [elektrisk justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrert hodestøtte

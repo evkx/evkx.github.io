@@ -133,7 +133,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las siguientes funcionalidades están disponibles.
 
-- ajuste eléctrico
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - reposacabezas integrado
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)

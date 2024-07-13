@@ -138,7 +138,6 @@ Du kan vælge mellem 7 forskellige materialer/farver til denne sædetype.
 
 For anden række har denne model to [executive-sæder](../../../../technology/seats/types/#twin-executive-sæder). Derudover er følgende funktionaliteter tilgængelige.
 
-- elektrisk justering
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integreret nakkestøtte

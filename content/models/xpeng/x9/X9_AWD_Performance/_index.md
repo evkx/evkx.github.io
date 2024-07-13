@@ -125,7 +125,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 For the second row, this model has two captain chairs. In addition, the following functionalities are available.
 
-- electric adjustment
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)

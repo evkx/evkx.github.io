@@ -150,7 +150,6 @@ Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Nio 
 
 L'option standard est une banquette à trois places avec une séparation 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
-- réglage électrique
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
 L'option standard est deux sièges capitaine. De plus, les fonctionnalités suivantes sont disponibles.

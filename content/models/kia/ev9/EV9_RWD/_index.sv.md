@@ -140,7 +140,6 @@ Alternativ second är två kaptensstolar. Dessutom är följande funktioner till
 
 Alternativ third är två kaptensstolar. Dessutom är följande funktioner tillgängliga.
 
-- elektrisk justering
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)

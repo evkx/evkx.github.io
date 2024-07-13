@@ -133,7 +133,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 For anden række har denne model to kaptajnstole. Derudover er følgende funktionaliteter tilgængelige.
 
-- elektrisk justering
 - [heating](../../../../technology/seats/adjustment/#heating)
 - integreret nakkestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)

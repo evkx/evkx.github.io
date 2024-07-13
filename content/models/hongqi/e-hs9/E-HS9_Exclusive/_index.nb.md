@@ -127,7 +127,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
 
-- elektrisk justering
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)

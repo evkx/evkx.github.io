@@ -139,7 +139,6 @@ La opción standard es un banco de tres asientos con una división  donde puedes
 
 La opción second es un [asiento ejecutivo combinado con un banco de dos asientos](../../../../technology/seats/types/#executive -asiento--banco-de-dos-asientos). Además, las siguientes funcionalidades están disponibles.
 
-- ajuste eléctrico
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [soporte para muslos ajustable eléctricamente](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - reposacabezas integrado

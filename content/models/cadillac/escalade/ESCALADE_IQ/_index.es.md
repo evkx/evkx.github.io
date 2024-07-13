@@ -127,7 +127,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 Para la segunda fila, este modelo tiene [asientos ejecutivos] gemelos(../../../../technology/seats/types/#twin-executive- asientos). Además, las siguientes funcionalidades están disponibles.
 
-- ajuste eléctrico
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)

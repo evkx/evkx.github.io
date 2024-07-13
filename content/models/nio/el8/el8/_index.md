@@ -149,7 +149,6 @@ You can choose two seat types for the second row in the Nio EL8.
 
 The standard option is two captain chairs. In addition, the following functionalities are available.
 
-- electric adjustment
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
@@ -157,7 +156,6 @@ The standard option is two captain chairs. In addition, the following functional
 
 The second option is two captain chairs. In addition, the following functionalities are available.
 
-- electric adjustment
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)

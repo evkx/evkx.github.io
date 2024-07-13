@@ -120,7 +120,6 @@ You can choose from 5 different materials/colors for this seat type.
 
 The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
-- electric adjustment
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 There is only one type of steering wheel available.

@@ -138,7 +138,6 @@ Vous pouvez choisir parmi 7 différents matériaux/couleurs pour ce type de siè
 
 Pour la deuxième rangée, ce modèle est doté de deux [sièges exécutifs](../../../../technology/seats/types/#twin-executive- des places). De plus, les fonctionnalités suivantes sont disponibles.
 
-- réglage électrique
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - appui-tête intégré

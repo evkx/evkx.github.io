@@ -140,7 +140,6 @@ The second option is two captain chairs. In addition, the following functionalit
 
 The third option is two captain chairs. In addition, the following functionalities are available.
 
-- electric adjustment
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)

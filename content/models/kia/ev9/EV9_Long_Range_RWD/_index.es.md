@@ -140,7 +140,6 @@ La opción second son dos sillas estilo capitán. Además, las siguientes funcio
 
 La opción third son dos sillas estilo capitán. Además, las siguientes funcionalidades están disponibles.
 
-- ajuste eléctrico
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)

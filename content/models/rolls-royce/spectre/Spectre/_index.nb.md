@@ -138,7 +138,6 @@ Du kan velge mellom 7 forskjellige materialer/farger for denne setetypen.
 
 For den andre raden har denne modellen doble [executive-seter](../../../../technology/seats/types/#twin-executive-seter). I tillegg er følgende funksjoner tilgjengelige.
 
-- elektrisk justering
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - integrert hodestøtte

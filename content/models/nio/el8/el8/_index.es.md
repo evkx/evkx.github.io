@@ -149,7 +149,6 @@ Puedes elegir dos tipos de asientos para la segunda fila en el Nio EL8.
 
 La opción standard son dos sillas estilo capitán. Además, las siguientes funcionalidades están disponibles.
 
-- ajuste eléctrico
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
@@ -157,7 +156,6 @@ La opción standard son dos sillas estilo capitán. Además, las siguientes func
 
 La opción second son dos sillas estilo capitán. Además, las siguientes funcionalidades están disponibles.
 
-- ajuste eléctrico
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)

@@ -125,7 +125,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
 
-- elektrisk justering
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
