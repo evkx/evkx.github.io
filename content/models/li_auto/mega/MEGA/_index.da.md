@@ -111,6 +111,7 @@ Kun én type forsæde er tilgængelig i Li Auto MEGA.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
+- elektrisk justering
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)

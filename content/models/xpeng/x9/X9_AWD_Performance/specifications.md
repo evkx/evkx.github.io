@@ -433,7 +433,7 @@ Interior.Seatlayout.OnlySix
 				<a href="/technology/seats/types/">Seat type</a>
 			</td>
 			<td>
-				None
+				Driver and Passenger Seat
 			</td>
 		</tr>
 		<tr>
@@ -441,7 +441,7 @@ Interior.Seatlayout.OnlySix
 				Seat depth adjustment
 			</td>
 			<td>
-				Unknown
+				Standard feature
 			</td>
 		</tr>
 		<tr>

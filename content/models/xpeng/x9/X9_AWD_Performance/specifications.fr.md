@@ -433,7 +433,7 @@ Interior.Seatlayout.OnlySix
 				Type de siège
 			</td>
 			<td>
-				None
+				Siège conducteur et passager
 			</td>
 		</tr>
 		<tr>
@@ -441,7 +441,7 @@ Interior.Seatlayout.OnlySix
 				Réglage de la profondeur du siège
 			</td>
 			<td>
-				Inconnu
+				Fonctionnalité standard
 			</td>
 		</tr>
 		<tr>

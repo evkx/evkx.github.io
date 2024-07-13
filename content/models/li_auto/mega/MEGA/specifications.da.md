@@ -548,7 +548,7 @@ Interior.Seatlayout.OnlySix
 				Elektrisk justering af højde, tilbagelæning og vinkel
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

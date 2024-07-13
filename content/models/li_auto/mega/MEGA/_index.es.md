@@ -111,6 +111,7 @@ Sólo hay un tipo de asiento delantero disponible en el Li Auto MEGA.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
+- ajuste eléctrico
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)

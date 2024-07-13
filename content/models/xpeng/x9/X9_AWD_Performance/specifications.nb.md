@@ -433,7 +433,7 @@ Interior.Seatlayout.OnlySix
 				Setetype
 			</td>
 			<td>
-				None
+				Sjåfør- og passasjersete
 			</td>
 		</tr>
 		<tr>
@@ -441,7 +441,7 @@ Interior.Seatlayout.OnlySix
 				Setedybdejustering
 			</td>
 			<td>
-				Ukjent
+				Standardfunksjon
 			</td>
 		</tr>
 		<tr>

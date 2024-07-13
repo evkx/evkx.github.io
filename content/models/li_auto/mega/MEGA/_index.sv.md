@@ -111,6 +111,7 @@ Endast en typ av framsäte är tillgänglig i Li Auto MEGA.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
+- elektrisk justering
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)

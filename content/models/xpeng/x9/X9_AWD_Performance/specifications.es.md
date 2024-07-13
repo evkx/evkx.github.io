@@ -433,7 +433,7 @@ Interior.Seatlayout.OnlySix
 				Tipo de asiento
 			</td>
 			<td>
-				None
+				Asiento del conductor y del pasajero
 			</td>
 		</tr>
 		<tr>
@@ -441,7 +441,7 @@ Interior.Seatlayout.OnlySix
 				Ajuste de la profundidad del asiento
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>

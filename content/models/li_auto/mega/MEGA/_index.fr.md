@@ -111,6 +111,7 @@ Un seul type de siège avant est disponible dans le Li Auto MEGA.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
+- réglage électrique
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)

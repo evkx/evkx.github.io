@@ -111,6 +111,7 @@ Only one front seat type is available in the Li Auto MEGA.
 
 The following functionalities are available on the **standard** seat.
 
+- electric adjustment
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)

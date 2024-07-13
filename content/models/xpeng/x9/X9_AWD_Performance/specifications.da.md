@@ -433,7 +433,7 @@ Interior.Seatlayout.OnlySix
 				Sædetype
 			</td>
 			<td>
-				None
+				Fører- og passagersæde
 			</td>
 		</tr>
 		<tr>
@@ -441,7 +441,7 @@ Interior.Seatlayout.OnlySix
 				Sædedybdejustering
 			</td>
 			<td>
-				Ukendt
+				Standardfunktion
 			</td>
 		</tr>
 		<tr>

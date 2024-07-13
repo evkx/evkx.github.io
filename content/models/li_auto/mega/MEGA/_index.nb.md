@@ -111,6 +111,7 @@ Bare én type forsete er tilgjengelig i Li Auto MEGA.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
+- elektrisk justering
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)

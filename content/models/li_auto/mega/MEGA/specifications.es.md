@@ -548,7 +548,7 @@ Interior.Seatlayout.OnlySix
 				Ajuste eléctrico de altura, reclinación y ángulo
 			</td>
 			<td>
-				Desconocido
+				Función estándar
 			</td>
 		</tr>
 		<tr>
