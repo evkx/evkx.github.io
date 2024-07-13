@@ -1728,6 +1728,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Control de gestos
 			</td>
 			<td>
+				No disponible
 			</td>
 		</tr>
 		<tr>

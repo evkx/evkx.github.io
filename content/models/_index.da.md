@@ -269,7 +269,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="citroën/"><img src="https://media.evkx.net/multimedia/models/citroën/brandevs_st.jpg" class="img-fluid mb-2" alt="Citroën" ></a>
 	<h2>Citroën</h2>
 	<p>
-	Citroën har 4 modeller med i alt 4 varianter.
+	Citroën har 3 modeller med i alt 3 varianter.
 	</p>
 	<a href="citroën/" class="btn btn-outline-primary" role="button">Gå til Citroën EV-modeloversigt</a>
 </div>
@@ -301,7 +301,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 	<a href="fiat/"><img src="https://media.evkx.net/multimedia/models/fiat/brandevs_st.jpg" class="img-fluid mb-2" alt="Fiat" ></a>
 	<h2>Fiat</h2>
 	<p>
-	Fiat har 1 modeller med i alt 1 varianter.
+	Fiat har 2 modeller med i alt 2 varianter.
 	</p>
 	<a href="fiat/" class="btn btn-outline-primary" role="button">Gå til Fiat EV-modeloversigt</a>
 </div>

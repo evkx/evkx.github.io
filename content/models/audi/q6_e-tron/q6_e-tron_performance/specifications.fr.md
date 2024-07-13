@@ -1728,6 +1728,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Contrôle gestuel
 			</td>
 			<td>
+				Non disponible
 			</td>
 		</tr>
 		<tr>

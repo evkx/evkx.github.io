@@ -32,6 +32,21 @@ Fiat 600e es un crossover disponible en 1 variantes.
 		</div>
 	</div>
 </div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Fiat Grande Panda</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="grande_panda">
+                    <img src="https://media.evkx.net/multimedia/models/fiat/grande_panda/grande_panda/main_1_st.jpg" class="img-fluid" alt="Fiat Grande Panda" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+Fiat Grande Panda es un crossover disponible en 1 variantes.
+</p>
+	<a href="grande_panda/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
+		</div>
+	</div>
+</div>
         </div>
     </div>
 </div></div>

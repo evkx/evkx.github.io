@@ -269,7 +269,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="citroën/"><img src="https://media.evkx.net/multimedia/models/citroën/brandevs_st.jpg" class="img-fluid mb-2" alt="Citroën" ></a>
 	<h2>Citroën</h2>
 	<p>
-	Citroën har 4 modell(er) med totalt 4 varianter.
+	Citroën har 3 modell(er) med totalt 3 varianter.
 	</p>
 	<a href="citroën/" class="btn btn-outline-primary" role="button">Gå til Citroën modelloversikt</a>
 </div>
@@ -301,7 +301,7 @@ Klikk på logoene nedenfor for å gå direkte til merkevaresiden, eller scroll n
 	<a href="fiat/"><img src="https://media.evkx.net/multimedia/models/fiat/brandevs_st.jpg" class="img-fluid mb-2" alt="Fiat" ></a>
 	<h2>Fiat</h2>
 	<p>
-	Fiat har 1 modell(er) med totalt 1 varianter.
+	Fiat har 2 modell(er) med totalt 2 varianter.
 	</p>
 	<a href="fiat/" class="btn btn-outline-primary" role="button">Gå til Fiat modelloversikt</a>
 </div>

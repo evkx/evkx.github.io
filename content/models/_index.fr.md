@@ -269,7 +269,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="citroën/"><img src="https://media.evkx.net/multimedia/models/citroën/brandevs_st.jpg" class="img-fluid mb-2" alt="Citroën" ></a>
 	<h2>Citroën</h2>
 	<p>
-	Citroën a 4 modèles avec un total de 4 variantes.
+	Citroën a 3 modèles avec un total de 3 variantes.
 	</p>
 	<a href="citroën/" class="btn btn-outline-primary" role="button">Aller à la Citroën présentation du modèle EV</a>
 </div>
@@ -301,7 +301,7 @@ Cliquez sur les logos ci-dessous pour accéder directement à la page de la marq
 	<a href="fiat/"><img src="https://media.evkx.net/multimedia/models/fiat/brandevs_st.jpg" class="img-fluid mb-2" alt="Fiat" ></a>
 	<h2>Fiat</h2>
 	<p>
-	Fiat a 1 modèles avec un total de 1 variantes.
+	Fiat a 2 modèles avec un total de 2 variantes.
 	</p>
 	<a href="fiat/" class="btn btn-outline-primary" role="button">Aller à la Fiat présentation du modèle EV</a>
 </div>
