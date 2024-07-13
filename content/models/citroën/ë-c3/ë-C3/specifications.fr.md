@@ -833,7 +833,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Type de siège
 			</td>
 			<td>
-				None
+				Banquette deux places
 			</td>
 		</tr>
 		<tr>
@@ -946,7 +946,7 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				Type de siège
 			</td>
 			<td>
-				None
+				Banquette deux places
 			</td>
 		</tr>
 		<tr>

@@ -833,7 +833,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/types/">Seat type</a>
 			</td>
 			<td>
-				None
+				Two-seat bench
 			</td>
 		</tr>
 		<tr>
@@ -946,7 +946,7 @@ This model is available with a seat configuration with five seats.
 				<a href="/technology/seats/types/">Seat type</a>
 			</td>
 			<td>
-				None
+				Two-seat bench
 			</td>
 		</tr>
 		<tr>

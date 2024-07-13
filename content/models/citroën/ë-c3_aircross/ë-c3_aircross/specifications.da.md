@@ -833,7 +833,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædetype
 			</td>
 			<td>
-				None
+				To-sædet bænk
 			</td>
 		</tr>
 		<tr>
@@ -946,7 +946,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædetype
 			</td>
 			<td>
-				None
+				To-sædet bænk
 			</td>
 		</tr>
 		<tr>

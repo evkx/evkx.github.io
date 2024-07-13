@@ -132,18 +132,12 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 Du kan velge to setetyper for den andre raden i Opel Frontera.
 
-Følgende funksjoner er tilgjengelige på **Standard** setet.
+Alternativet standard er en tre-seters benk med en 100-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - høydejusterbar hodestøtte
-
-Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-- black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-
-
 
 Følgende funksjoner er tilgjengelige på **Advanced Comfort** setet.
 
-- høydejusterbar hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - black/grey [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)

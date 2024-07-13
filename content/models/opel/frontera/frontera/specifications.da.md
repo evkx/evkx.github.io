@@ -833,7 +833,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Sædetype
 			</td>
 			<td>
-				None
+				Tre-sædet bænk
 			</td>
 		</tr>
 		<tr>

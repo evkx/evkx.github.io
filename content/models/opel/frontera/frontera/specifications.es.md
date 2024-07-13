@@ -833,7 +833,7 @@ Este modelo está disponible con una configuración de cinco asientos.
 				Tipo de asiento
 			</td>
 			<td>
-				None
+				Banco de tres plazas
 			</td>
 		</tr>
 		<tr>

@@ -132,18 +132,12 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 Du kan vælge to sædetyper til anden række i Opel Frontera.
 
-Følgende funktioner er tilgængelige på **Standard** sædet.
+Muligheden standard er en tre-sædet bænk med en 100 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
-
-Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-- black [stofpolstring](../../../../technology/seats/materials/#fabric)
-
-
 
 Følgende funktioner er tilgængelige på **Advanced Comfort** sædet.
 
-- højdejusterbar nakkestøtte
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - black/grey [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)

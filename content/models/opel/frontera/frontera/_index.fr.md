@@ -132,18 +132,12 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Opel Frontera.
 
-Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
+L'option standard est une banquette à trois places avec une séparation 100 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
-
-Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-- black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
-
-
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Advanced Comfort**.
 
-- appui-tête réglable en hauteur
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 - black/grey [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)

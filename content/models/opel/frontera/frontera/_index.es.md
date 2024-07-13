@@ -132,18 +132,12 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 Puedes elegir dos tipos de asientos para la segunda fila en el Opel Frontera.
 
-Las siguientes funcionalidades están disponibles en el asiento **Standard**.
+La opción standard es un banco de tres asientos con una división 100 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
-
-Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-- black [tapizado de tela](../../../../technology/seats/materials/#fabric)
-
-
 
 Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfort**.
 
-- reposacabezas ajustable en altura
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - black/grey [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)

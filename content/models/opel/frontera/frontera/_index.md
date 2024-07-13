@@ -132,18 +132,12 @@ You can choose from 1 different materials/colors for this seat type.
 
 You can choose two seat types for the second row in the Opel Frontera.
 
-The following functionalities are available on the **Standard** seat.
+The standard option is a three-seat bench with a 100 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - height adjustable headrest
-
-You can choose from 1 different materials/colors for this seat type.
-- black [fabric upholstering](../../../../technology/seats/materials/#fabric)
-
-
 
 The following functionalities are available on the **Advanced Comfort** seat.
 
-- height adjustable headrest
 
 You can choose from 1 different materials/colors for this seat type.
 - black/grey [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)

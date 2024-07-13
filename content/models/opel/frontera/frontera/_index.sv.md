@@ -132,18 +132,12 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 Du kan välja två sätestyper för den andra raden i Opel Frontera.
 
-Följande funktioner är tillgängliga på **Standard** sätet.
+Alternativet standard är en tresitssbänk med en 100-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
-
-Du kan välja mellan 1 olika material/färger för denna sitstyp.
-- black [tygklädsel](../../../../technology/seats/materials/#fabric)
-
-
 
 Följande funktioner är tillgängliga på **Advanced Comfort** sätet.
 
-- höjdjusterbart nackstöd
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - black/grey [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)

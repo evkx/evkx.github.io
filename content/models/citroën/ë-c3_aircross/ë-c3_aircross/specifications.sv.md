@@ -833,7 +833,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Säte typ
 			</td>
 			<td>
-				None
+				Tvåsits bänk
 			</td>
 		</tr>
 		<tr>
@@ -946,7 +946,7 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				Säte typ
 			</td>
 			<td>
-				None
+				Tvåsits bänk
 			</td>
 		</tr>
 		<tr>
