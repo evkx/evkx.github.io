@@ -108,7 +108,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Justering af sædepude sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [elektrisk justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.

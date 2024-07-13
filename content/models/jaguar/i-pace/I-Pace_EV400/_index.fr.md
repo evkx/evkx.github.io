@@ -137,7 +137,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (facultatif)
 - [Réglage des traversins latéraux du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (facultatif)
-- [support de cuisse réglable électriquement](../../../../technology/seats/adjustment/#thigh-support-adjustment) (facultatif)
+- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (facultatif)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siège.

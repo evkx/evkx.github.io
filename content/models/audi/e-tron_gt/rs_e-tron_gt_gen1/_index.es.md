@@ -127,7 +127,6 @@ Las siguientes funcionalidades están disponibles en el asiento **sport**.
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
-- reposacabezas integrado
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
@@ -155,7 +154,6 @@ Las siguientes funcionalidades están disponibles en el asiento **sport pro**.
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Ajuste de los refuerzos laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- reposacabezas integrado
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 

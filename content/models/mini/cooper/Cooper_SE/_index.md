@@ -107,7 +107,6 @@ The following functionalities are available on the **** seat.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
-- integrated headrest
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 1 different materials/colors for this seat type.

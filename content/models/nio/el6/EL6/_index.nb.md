@@ -131,7 +131,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
-- [elektrisk justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)

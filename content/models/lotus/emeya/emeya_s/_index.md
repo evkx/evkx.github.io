@@ -119,7 +119,6 @@ The following functionalities are available on the **standard** seat.
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
-- integrated headrest
 
 You can choose from 5 different materials/colors for this seat type.
 - Red/Black [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)

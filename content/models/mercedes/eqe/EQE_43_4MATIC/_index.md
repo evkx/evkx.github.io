@@ -142,7 +142,7 @@ The following functionalities are available on the **multicontour** seat.
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [massage](../../../../technology/seats/adjustment/#massage)
 

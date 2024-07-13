@@ -139,7 +139,6 @@ The following functionalities are available on the **sport** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- integrated headrest
 
 You can choose from 4 different materials/colors for this seat type.
 

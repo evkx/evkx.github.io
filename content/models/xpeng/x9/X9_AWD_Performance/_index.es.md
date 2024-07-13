@@ -106,7 +106,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
-- [soporte para muslos ajustable eléctricamente](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 - [reposapiés para pasajero](../../../../technology/seats/adjustment/#footrest)

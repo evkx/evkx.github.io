@@ -136,7 +136,6 @@ Følgende funktioner er tilgængelige på **Normal** sædet.
 
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-- integreret nakkestøtte
 
 Følgende funktioner er tilgængelige på **Sport** sædet.
 
@@ -145,7 +144,6 @@ Følgende funktioner er tilgængelige på **Sport** sædet.
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- integreret nakkestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
 Følgende funktioner er tilgængelige på **Sport Plus** sædet.
@@ -159,7 +157,6 @@ Følgende funktioner er tilgængelige på **Sport Plus** sædet.
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Justering af sædepude sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- integreret nakkestøtte
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 ### Sæde på anden række

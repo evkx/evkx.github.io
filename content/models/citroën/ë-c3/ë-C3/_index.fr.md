@@ -116,7 +116,6 @@ Vous pouvez choisir parmi deux types de sièges pour la première rangée du Cit
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Start**.
 
-- appui-tête intégré
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Advanced Comfort**.
 

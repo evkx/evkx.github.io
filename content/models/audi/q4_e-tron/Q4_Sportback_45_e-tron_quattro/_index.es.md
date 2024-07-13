@@ -133,7 +133,6 @@ Las siguientes funcionalidades están disponibles en el asiento **sport**.
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- reposacabezas integrado
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 

@@ -142,7 +142,6 @@ Følgende funksjoner er tilgjengelige på **ergoActive Top-Sport** setet.
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- integrert hodestøtte
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.

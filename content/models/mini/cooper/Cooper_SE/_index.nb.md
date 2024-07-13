@@ -107,7 +107,6 @@ Følgende funksjoner er tilgjengelige på **** setet.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
-- integrert hodestøtte
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.

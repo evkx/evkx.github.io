@@ -121,7 +121,6 @@ Sólo hay un tipo de asiento delantero disponible en el Automobili Pininfarina B
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
 - ajuste eléctrico
-- reposacabezas integrado
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - Black [tapizado Alcantara](../../../../technology/seats/materials/#alcantara)

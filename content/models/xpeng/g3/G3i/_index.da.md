@@ -107,7 +107,6 @@ Følgende funktioner er tilgængelige på **** sædet.
 - elektrisk justering
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
-- integreret nakkestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.

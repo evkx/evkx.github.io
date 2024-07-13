@@ -119,7 +119,6 @@ The following functionalities are available on the **Standard** seat.
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
-- integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
@@ -135,7 +134,6 @@ The following functionalities are available on the **Sport** seat.
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
@@ -154,7 +152,6 @@ You can choose from 3 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- integrated headrest
 
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/secondrowseats_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2250"  >}}

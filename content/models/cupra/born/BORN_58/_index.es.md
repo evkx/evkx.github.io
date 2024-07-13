@@ -116,7 +116,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (opcional)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (opcional)
-- reposacabezas integrado
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.

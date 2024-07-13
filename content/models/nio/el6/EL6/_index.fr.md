@@ -131,7 +131,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [siège passager à mémoire](../../../../technology/seats/adjustment/#seat-memory)
-- [support de cuisse réglable électriquement](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)

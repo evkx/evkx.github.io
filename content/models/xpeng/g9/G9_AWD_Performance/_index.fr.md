@@ -112,7 +112,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Réglage des traversins latéraux du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [support de cuisse réglable électriquement](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)

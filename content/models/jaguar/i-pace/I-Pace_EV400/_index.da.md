@@ -137,7 +137,7 @@ Følgende funktioner er tilgængelige på **Sport** sædet.
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (valgfrit)
 - [Justering af sædepude sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (valgfrit)
-- [elektrisk justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (valgfrit)
+- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (valgfrit)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
 Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.

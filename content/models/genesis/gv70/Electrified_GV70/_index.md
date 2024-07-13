@@ -116,7 +116,7 @@ The following functionalities are available on the **** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 6 different materials/colors for this seat type.

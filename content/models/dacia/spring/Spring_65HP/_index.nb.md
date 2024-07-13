@@ -106,7 +106,6 @@ Bare én type forsete er tilgjengelig i Dacia Spring 65HP.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
-- integrert hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)

@@ -113,7 +113,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
-- reposacabezas integrado
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.

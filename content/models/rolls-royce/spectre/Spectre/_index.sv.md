@@ -113,7 +113,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet) (valfritt)
-- integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
@@ -140,7 +139,6 @@ För den andra raden har den här modellen dubbla [executive-säten](../../../..
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 

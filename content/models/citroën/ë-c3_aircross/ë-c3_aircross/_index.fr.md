@@ -116,7 +116,6 @@ Vous pouvez choisir parmi deux types de sièges pour la première rangée du Cit
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 
-- appui-tête intégré
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 - black [revêtement en tissu](../../../../technology/seats/materials/#fabric)

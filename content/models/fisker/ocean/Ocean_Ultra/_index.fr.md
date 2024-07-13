@@ -109,7 +109,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - réglage électrique
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [siège passager à mémoire](../../../../technology/seats/adjustment/#seat-memory)
-- appui-tête intégré
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)

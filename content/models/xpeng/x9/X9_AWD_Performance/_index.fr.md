@@ -106,7 +106,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [siège passager à mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
-- [support de cuisse réglable électriquement](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest)

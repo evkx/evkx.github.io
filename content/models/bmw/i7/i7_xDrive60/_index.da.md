@@ -116,7 +116,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 - [hukommelsespassagersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (valgfrit)
-- integreret nakkestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
 
@@ -146,13 +145,11 @@ Du kan vælge to sædetyper til anden række i BMW i7 xDrive60.
 Muligheden standard er en tre-sædet bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-- integreret nakkestøtte
 
 Muligheden second er et [executive-sæde kombineret med en to-sædet bænk](../../../../technology/seats/types/#executive-sæde--to-sædet-bænk). Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-- [elektrisk justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- integreret nakkestøtte
+- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)

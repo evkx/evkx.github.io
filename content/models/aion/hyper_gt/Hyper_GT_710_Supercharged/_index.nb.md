@@ -108,7 +108,6 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - elektrisk justering
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
-- integrert hodestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 

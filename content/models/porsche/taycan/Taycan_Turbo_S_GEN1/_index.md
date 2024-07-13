@@ -154,7 +154,6 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
@@ -173,12 +172,10 @@ You can choose two seat types for the second row in the Porsche Taycan Turbo S (
 The standard option is two integrated seats in the second row. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- integrated headrest
 
 The second option is two integrated seats in the second row with a third smaller seat in between. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- integrated headrest
 
 There is only one type of steering wheel available.
 

@@ -118,7 +118,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (valfritt)
-- integrerat nackstöd
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
 - Red/Black [klädselmikrofiber/nappaläder](../../../../technology/seats/materials/#nappaleather)

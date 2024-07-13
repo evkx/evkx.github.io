@@ -107,7 +107,6 @@ Följande funktioner är tillgängliga på **** sätet.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (valfritt)
-- integrerat nackstöd
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.

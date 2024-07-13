@@ -106,7 +106,6 @@ Kun én type forsæde er tilgængelig i Dacia Spring 65HP.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
-- integreret nakkestøtte
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - Black [stof/læderbetræk](../../../../technology/seats/materials/#fabric)

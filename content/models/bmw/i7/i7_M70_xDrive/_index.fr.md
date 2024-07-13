@@ -116,7 +116,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
 - [siège passager à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (facultatif)
-- appui-tête intégré
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
 
@@ -135,13 +134,11 @@ Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le BMW 
 L'option standard est une banquette à trois places avec une séparation  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-- appui-tête intégré
 
 L'option second est un [siège exécutif combiné à une banquette à deux places](../../../../technology/seats/types/#executive-siège--banquette-deux-places). De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-- [support de cuisse réglable électriquement](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- appui-tête intégré
+- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)

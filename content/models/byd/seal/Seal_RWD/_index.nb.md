@@ -113,7 +113,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
-- integrert hodestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.

@@ -127,7 +127,6 @@ Følgende funktioner er tilgængelige på **Ergo** sædet.
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- integreret nakkestøtte
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 

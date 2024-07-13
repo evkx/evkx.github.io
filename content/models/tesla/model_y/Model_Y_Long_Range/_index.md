@@ -132,7 +132,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
-- integrated headrest
 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/secondrowseats_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2000"  >}}

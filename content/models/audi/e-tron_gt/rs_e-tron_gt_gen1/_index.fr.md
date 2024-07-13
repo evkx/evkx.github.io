@@ -127,7 +127,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **sport**.
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
-- appui-tête intégré
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
@@ -155,7 +154,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **sport pro**.
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Réglage des traversins latéraux du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- appui-tête intégré
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
 

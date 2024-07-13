@@ -106,7 +106,6 @@ Only one front seat type is available in the Dacia Spring 65HP.
 
 The following functionalities are available on the **** seat.
 
-- integrated headrest
 
 You can choose from 1 different materials/colors for this seat type.
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)

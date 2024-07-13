@@ -134,7 +134,6 @@ Følgende funktioner er tilgængelige på **ergoActive Top-Sport** sædet.
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- integreret nakkestøtte
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.

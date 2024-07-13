@@ -108,7 +108,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - réglage électrique
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
-- appui-tête intégré
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
 

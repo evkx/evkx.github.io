@@ -137,7 +137,7 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet) (valfritt)
 - [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna) (valfritt)
-- [elektriskt justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (valfritt)
+- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (valfritt)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 6 olika material/färger för denna sitstyp.

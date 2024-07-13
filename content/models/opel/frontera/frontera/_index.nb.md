@@ -112,7 +112,6 @@ Det er to setetyper du kan velge mellom for første rad i Opel Frontera.
 
 Følgende funksjoner er tilgjengelige på **Standard** setet.
 
-- integrert hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - black [stoffpolstring](../../../../technology/seats/materials/#fabric)

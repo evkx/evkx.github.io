@@ -117,7 +117,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
-- integrert hodestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
@@ -135,7 +134,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- integrert hodestøtte
 
 Det er bare én type ratt tilgjengelig.
 

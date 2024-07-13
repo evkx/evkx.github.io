@@ -116,7 +116,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [siège passager à mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
-- appui-tête intégré
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
@@ -138,7 +137,7 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 Pour la deuxième rangée, ce modèle est doté de deux [sièges exécutifs](../../../../technology/seats/types/#twin-executive- des places). De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-- [support de cuisse réglable électriquement](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 

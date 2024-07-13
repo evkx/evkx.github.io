@@ -139,7 +139,6 @@ Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 - [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
@@ -158,12 +157,10 @@ Du kan välja två sätestyper för den andra raden i Porsche Taycan Turbo S.
 Alternativet standard är två integrerade säten i andra raden. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-- integrerat nackstöd
 
 Alternativet second är två integrerade säten i andra raden med en tredje mindre säte emellan. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-- integrerat nackstöd
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="1688"  >}}

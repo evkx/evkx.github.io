@@ -124,7 +124,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (tilvalg)
-- integrert hodestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 Du kan velge mellom 21 forskjellige materialer/farger for denne setetypen.
@@ -140,7 +139,6 @@ Følgende funksjoner er tilgjengelige på **M Sport** setet.
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- integrert hodestøtte
 
 Du kan velge mellom 21 forskjellige materialer/farger for denne setetypen.
 
@@ -157,7 +155,6 @@ Du kan velge mellom 21 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-- integrert hodestøtte
 
 Det er bare én type ratt tilgjengelig. stock-rattet er oppvarmet, og du kan kontrollere lydsystemet med knapper på rattet.
 

@@ -116,7 +116,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (opcional)
-- reposacabezas integrado
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
@@ -146,13 +145,11 @@ Puedes elegir dos tipos de asientos para la segunda fila en el BMW i7 eDrive50.
 La opción standard es un banco de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-- reposacabezas integrado
 
 La opción second es un [asiento ejecutivo combinado con un banco de dos asientos](../../../../technology/seats/types/#executive -asiento--banco-de-dos-asientos). Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-- [soporte para muslos ajustable eléctricamente](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- reposacabezas integrado
+- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)

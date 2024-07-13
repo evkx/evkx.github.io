@@ -128,7 +128,6 @@ Følgende funktioner er tilgængelige på **Sport** sædet.
 - [hukommelsespassagersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfrit)
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (valgfrit)
-- integreret nakkestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
 Følgende funktioner er tilgængelige på **Comfort seats** sædet.
@@ -140,7 +139,6 @@ Følgende funktioner er tilgængelige på **Comfort seats** sædet.
 - [hukommelsespassagersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfrit)
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- integreret nakkestøtte
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/frontseats_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2249"  >}}
@@ -153,7 +151,6 @@ Følgende funktioner er tilgængelige på **Comfort seats** sædet.
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-- integreret nakkestøtte
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/secondrowseats_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2249"  >}}

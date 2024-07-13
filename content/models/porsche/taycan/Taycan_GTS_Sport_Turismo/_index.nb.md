@@ -121,7 +121,6 @@ Følgende funksjoner er tilgjengelige på **Comfort** setet.
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
-- integrert hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
@@ -149,7 +148,6 @@ Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- integrert hodestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
@@ -168,12 +166,10 @@ Du kan velge to setetyper for den andre raden i Porsche Taycan GTS Sport Turismo
 Alternativet standard er to integrerte seter i andre rad. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-- integrert hodestøtte
 
 Alternativet second er to integrerte seter i andre rad med et tredje mindre sete i mellom. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-- integrert hodestøtte
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="1991"  >}}

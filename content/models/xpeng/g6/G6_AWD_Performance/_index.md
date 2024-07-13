@@ -108,7 +108,7 @@ The following functionalities are available on the **** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 

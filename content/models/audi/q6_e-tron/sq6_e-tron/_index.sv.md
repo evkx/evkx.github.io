@@ -140,7 +140,6 @@ Följande funktioner är tillgängliga på **Normal** sätet.
 
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-- integrerat nackstöd
 
 Följande funktioner är tillgängliga på **Sport** sätet.
 
@@ -149,7 +148,6 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Följande funktioner är tillgängliga på **Sport Plus** sätet.
@@ -163,7 +161,6 @@ Följande funktioner är tillgängliga på **Sport Plus** sätet.
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 - [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- integrerat nackstöd
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 

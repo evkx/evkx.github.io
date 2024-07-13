@@ -119,7 +119,6 @@ Följande funktioner är tillgängliga på **Standard** sätet.
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (valfritt)
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet) (valfritt)
-- integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
@@ -135,7 +134,6 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet) (valfritt)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
@@ -150,7 +148,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-- integrerat nackstöd
 
 Det finns bara en typ av ratt tillgänglig. Ratten stock är uppvärmd och du kan styra ljudsystemet med knappar på ratten.
 

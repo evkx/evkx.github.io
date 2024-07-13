@@ -109,7 +109,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - elektrisk justering
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
-- integrert hodestøtte
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)

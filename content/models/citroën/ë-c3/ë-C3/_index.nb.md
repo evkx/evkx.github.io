@@ -116,7 +116,6 @@ Det er to setetyper du kan velge mellom for første rad i Citroën ë-C3.
 
 Følgende funksjoner er tilgjengelige på **Start** setet.
 
-- integrert hodestøtte
 
 Følgende funksjoner er tilgjengelige på **Advanced Comfort** setet.
 

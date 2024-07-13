@@ -113,7 +113,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
-- integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.

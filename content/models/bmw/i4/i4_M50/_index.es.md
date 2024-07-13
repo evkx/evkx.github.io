@@ -124,7 +124,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (opcional)
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (opcional)
-- reposacabezas integrado
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 21 diferentes materiales/colores para este tipo de asiento.
@@ -140,7 +139,6 @@ Las siguientes funcionalidades están disponibles en el asiento **M Sport**.
 - [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (opcional)
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- reposacabezas integrado
 
 Puedes elegir entre 21 diferentes materiales/colores para este tipo de asiento.
 
@@ -157,7 +155,6 @@ Puedes elegir entre 21 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-- reposacabezas integrado
 
 Sólo hay un tipo de volante disponible. El volante stock tiene calefacción y puedes controlar el sistema de audio con los botones en el volante.
 

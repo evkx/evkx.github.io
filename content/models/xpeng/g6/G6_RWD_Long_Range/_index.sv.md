@@ -108,7 +108,7 @@ Följande funktioner är tillgängliga på **** sätet.
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 - [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)
-- [elektriskt justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
+- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.

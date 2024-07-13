@@ -137,7 +137,7 @@ The following functionalities are available on the **Sport** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
 - [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement) (optional)
-- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
+- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 6 different materials/colors for this seat type.

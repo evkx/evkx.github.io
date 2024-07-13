@@ -106,7 +106,6 @@ Sólo hay un tipo de asiento delantero disponible en el Dacia Spring 65HP.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
-- reposacabezas integrado
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)

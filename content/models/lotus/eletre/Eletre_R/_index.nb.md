@@ -118,7 +118,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (tilvalg)
-- integrert hodestøtte
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Red/Black [polstring av mikrofiber/nappaskinn](../../../../technology/seats/materials/#nappaleather)

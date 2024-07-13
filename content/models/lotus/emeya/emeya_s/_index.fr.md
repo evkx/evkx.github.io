@@ -119,7 +119,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [siège passager à mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (facultatif)
-- appui-tête intégré
 
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
 - Red/Black [revêtement en microfibre/cuir nappa](../../../../technology/seats/materials/#nappaleather)

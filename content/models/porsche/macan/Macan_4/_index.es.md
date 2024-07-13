@@ -119,7 +119,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Comfortseats**
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (opcional)
-- reposacabezas integrado
 
 Las siguientes funcionalidades están disponibles en el asiento **Comfortseats with memory**.
 
@@ -128,7 +127,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Comfortseats w
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- reposacabezas integrado
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
@@ -147,7 +145,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Pl
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Ajuste de los refuerzos laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- reposacabezas integrado
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
@@ -161,7 +158,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-- reposacabezas integrado
 
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4/secondrowseats_1_st.jpg" title="Porsche Macan 4" width="3000" height="2250"  >}}

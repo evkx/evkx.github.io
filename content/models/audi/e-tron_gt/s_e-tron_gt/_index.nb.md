@@ -133,7 +133,6 @@ Følgende funksjoner er tilgjengelige på **sport** setet.
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
-- integrert hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
@@ -161,7 +160,6 @@ Følgende funksjoner er tilgjengelige på **sport pro** setet.
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- integrert hodestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 

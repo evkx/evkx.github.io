@@ -114,7 +114,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 - [hukommelsespassagersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (valgfrit)
-- integreret nakkestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
 
@@ -133,7 +132,6 @@ Du kan vælge mellem 7 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-- integreret nakkestøtte
 
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/secondrowseats_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1999"  >}}

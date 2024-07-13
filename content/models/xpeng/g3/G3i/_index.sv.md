@@ -107,7 +107,6 @@ Följande funktioner är tillgängliga på **** sätet.
 - elektrisk justering
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
-- integrerat nackstöd
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.

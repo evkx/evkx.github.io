@@ -114,7 +114,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (tilvalg)
-- integrert hodestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
@@ -133,7 +132,6 @@ Du kan velge mellom 7 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-- integrert hodestøtte
 
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/secondrowseats_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1999"  >}}

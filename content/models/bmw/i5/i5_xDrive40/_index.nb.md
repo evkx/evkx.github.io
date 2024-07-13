@@ -128,7 +128,6 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (tilvalg)
-- integrert hodestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 Følgende funksjoner er tilgjengelige på **Comfort seats** setet.
@@ -140,7 +139,6 @@ Følgende funksjoner er tilgjengelige på **Comfort seats** setet.
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- integrert hodestøtte
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/frontseats_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
@@ -153,7 +151,6 @@ Følgende funksjoner er tilgjengelige på **Comfort seats** setet.
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-- integrert hodestøtte
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/secondrowseats_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}

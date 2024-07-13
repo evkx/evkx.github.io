@@ -137,7 +137,6 @@ Følgende funktioner er tilgængelige på **sport** sædet.
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- integreret nakkestøtte
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 

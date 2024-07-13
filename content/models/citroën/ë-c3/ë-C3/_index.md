@@ -116,7 +116,6 @@ There are two seat types you can choose from for the front row in the CitroÃ«n Ã
 
 The following functionalities are available on the **Start** seat.
 
-- integrated headrest
 
 The following functionalities are available on the **Advanced Comfort** seat.
 

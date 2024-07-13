@@ -113,7 +113,6 @@ The following functionalities are available on the **standard** seat.
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
-- integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
@@ -140,7 +139,6 @@ For the second row, this model has twin [executive seats](../../../../technology
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 

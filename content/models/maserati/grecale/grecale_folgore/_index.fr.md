@@ -128,7 +128,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- appui-tête intégré
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.

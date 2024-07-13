@@ -116,7 +116,6 @@ Der er to sædetyper, du kan vælge imellem til forreste række i Citroën ë-C3
 
 Følgende funktioner er tilgængelige på **Start** sædet.
 
-- integreret nakkestøtte
 
 Følgende funktioner er tilgængelige på **Advanced Comfort** sædet.
 

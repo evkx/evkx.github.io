@@ -127,7 +127,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Ergo**.
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- appui-tête intégré
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 

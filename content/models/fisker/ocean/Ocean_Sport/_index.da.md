@@ -110,7 +110,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
 - [hukommelsespassagersæde](../../../../technology/seats/adjustment/#seat-memory)
-- integreret nakkestøtte
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)

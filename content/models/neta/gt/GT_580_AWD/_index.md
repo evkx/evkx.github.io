@@ -104,7 +104,6 @@ The following functionalities are available on the **** seat.
 - electric adjustment
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
-- integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 You can choose from 1 different materials/colors for this seat type.

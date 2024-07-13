@@ -107,7 +107,6 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar) (opcional)
-- reposacabezas integrado
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.

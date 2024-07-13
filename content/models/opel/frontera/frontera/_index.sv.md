@@ -112,7 +112,6 @@ Det finns två sätestyper du kan välja mellan för den främre raden av Opel F
 
 Följande funktioner är tillgängliga på **Standard** sätet.
 
-- integrerat nackstöd
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - black [tygklädsel](../../../../technology/seats/materials/#fabric)

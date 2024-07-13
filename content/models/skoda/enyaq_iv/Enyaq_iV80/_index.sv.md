@@ -136,7 +136,6 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- integrerat nackstöd
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.

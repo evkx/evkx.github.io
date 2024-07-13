@@ -115,8 +115,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [support de cuisse réglable électriquement](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- appui-tête intégré
+- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 

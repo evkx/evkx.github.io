@@ -124,7 +124,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [hukommelsespassagersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfrit)
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (valgfrit)
-- integreret nakkestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
 Du kan vælge mellem 21 forskellige materialer/farver til denne sædetype.
@@ -140,7 +139,6 @@ Følgende funktioner er tilgængelige på **M Sport** sædet.
 - [hukommelsespassagersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfrit)
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- integreret nakkestøtte
 
 Du kan vælge mellem 21 forskellige materialer/farver til denne sædetype.
 
@@ -157,7 +155,6 @@ Du kan vælge mellem 21 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-- integreret nakkestøtte
 
 Der er kun én type rat tilgængelig. stock-rattet er opvarmet, og du kan styre lydsystemet med knapper på rattet.
 

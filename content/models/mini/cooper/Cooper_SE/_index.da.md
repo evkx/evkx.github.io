@@ -107,7 +107,6 @@ Følgende funktioner er tilgængelige på **** sædet.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfrit)
-- integreret nakkestøtte
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.

@@ -133,7 +133,6 @@ Følgende funksjoner er tilgjengelige på **sport** setet.
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory) (tilvalg)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- integrert hodestøtte
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 

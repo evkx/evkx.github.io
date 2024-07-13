@@ -137,7 +137,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Réglage des traversins latéraux du coussin de siège](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- appui-tête intégré
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
 
@@ -156,12 +155,10 @@ Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Pors
 L'option standard consiste en deux sièges intégrés dans la deuxième rangée. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-- appui-tête intégré
 
 L'option second consiste en deux sièges intégrés dans la deuxième rangée avec un troisième siège plus petit entre les deux. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-- appui-tête intégré
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}

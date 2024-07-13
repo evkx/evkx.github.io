@@ -132,7 +132,6 @@ Las siguientes funcionalidades están disponibles en el asiento **ergoActive Top
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory) (opcional)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- reposacabezas integrado
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.

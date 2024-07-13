@@ -107,7 +107,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (facultatif)
-- appui-tête intégré
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.

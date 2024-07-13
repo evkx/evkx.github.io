@@ -116,7 +116,6 @@ Det finns två sätestyper du kan välja mellan för den främre raden av Citro�
 
 Följande funktioner är tillgängliga på **Start** sätet.
 
-- integrerat nackstöd
 
 Följande funktioner är tillgängliga på **Advanced Comfort** sätet.
 

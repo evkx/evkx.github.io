@@ -121,7 +121,6 @@ Kun én type forsæde er tilgængelig i Automobili Pininfarina Battista.
 Følgende funktioner er tilgængelige på **** sædet.
 
 - elektrisk justering
-- integreret nakkestøtte
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - Black [Alcantara polstring](../../../../technology/seats/materials/#alcantara)

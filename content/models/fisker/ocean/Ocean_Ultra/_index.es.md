@@ -109,7 +109,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - ajuste eléctrico
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory)
-- reposacabezas integrado
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)

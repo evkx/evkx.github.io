@@ -140,7 +140,6 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 

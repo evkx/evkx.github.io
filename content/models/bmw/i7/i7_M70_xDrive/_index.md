@@ -116,7 +116,6 @@ The following functionalities are available on the **standard** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
-- integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
@@ -135,13 +134,11 @@ You can choose two seat types for the second row in the BMW i7 M70 xDrive.
 The standard option is a three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- integrated headrest
 
 The second option is an [executive seat combined with a two-seat bench](../../../../technology/seats/types/#executive-seat--two-seat-bench). In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- integrated headrest
+- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)

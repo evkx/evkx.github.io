@@ -128,7 +128,6 @@ Följande funktioner är tillgängliga på **ergoActive Top-Sport** sätet.
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
-- integrerat nackstöd
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.

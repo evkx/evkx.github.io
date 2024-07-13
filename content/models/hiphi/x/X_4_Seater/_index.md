@@ -116,7 +116,6 @@ The following functionalities are available on the **standard** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
@@ -134,7 +133,6 @@ You can choose from 2 different materials/colors for this seat type.
 For the second row, this model has two captain chairs. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-- integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)

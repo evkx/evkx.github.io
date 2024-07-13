@@ -139,7 +139,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **sport**.
 - [siège conducteur à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- appui-tête intégré
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 

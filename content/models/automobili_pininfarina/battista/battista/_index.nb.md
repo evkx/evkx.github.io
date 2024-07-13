@@ -121,7 +121,6 @@ Bare én type forsete er tilgjengelig i Automobili Pininfarina Battista.
 Følgende funksjoner er tilgjengelige på **** setet.
 
 - elektrisk justering
-- integrert hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - Black [polstring av Alcantara](../../../../technology/seats/materials/#alcantara)

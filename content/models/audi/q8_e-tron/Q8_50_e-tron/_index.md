@@ -181,7 +181,6 @@ The following functionalities are available on the **s sport** seat.
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- integrated headrest
 
 You can choose from 4 different materials/colors for this seat type.
 
@@ -198,7 +197,7 @@ The following functionalities are available on the **multicontour** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
-- [electrically adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
+- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 

@@ -106,7 +106,6 @@ Un seul type de siège avant est disponible dans le Dacia Spring 65HP.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
-- appui-tête intégré
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 - Black [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)

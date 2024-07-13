@@ -135,7 +135,6 @@ The following functionalities are available on the **standard** seat.
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory)
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory)
-- integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 You can choose from 1 different materials/colors for this seat type.
@@ -153,7 +152,6 @@ You can choose from 1 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-- integrated headrest
 
 There is only one type of steering wheel available.
 

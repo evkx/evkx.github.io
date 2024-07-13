@@ -116,7 +116,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
-- reposacabezas integrado
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
@@ -134,7 +133,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- reposacabezas integrado
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)

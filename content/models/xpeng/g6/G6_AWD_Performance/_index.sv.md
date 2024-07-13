@@ -108,7 +108,7 @@ Följande funktioner är tillgängliga på **** sätet.
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 - [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)
-- [elektriskt justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
+- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 

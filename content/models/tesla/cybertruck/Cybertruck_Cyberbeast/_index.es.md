@@ -117,7 +117,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory)
-- reposacabezas integrado
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
@@ -135,7 +134,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-- reposacabezas integrado
 
 Sólo hay un tipo de volante disponible.
 

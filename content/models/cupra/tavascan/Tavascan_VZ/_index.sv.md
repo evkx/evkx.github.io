@@ -116,7 +116,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory) (valfritt)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (valfritt)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (valfritt)
-- integrerat nackstöd
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.

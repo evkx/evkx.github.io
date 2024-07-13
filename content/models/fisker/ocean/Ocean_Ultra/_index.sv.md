@@ -109,7 +109,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - elektrisk justering
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
 - [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
-- integrerat nackstöd
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)

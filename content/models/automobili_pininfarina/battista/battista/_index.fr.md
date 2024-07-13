@@ -121,7 +121,6 @@ Un seul type de siège avant est disponible dans le Automobili Pininfarina Batti
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 - réglage électrique
-- appui-tête intégré
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 - Black [Revêtement Alcantara](../../../../technology/seats/materials/#alcantara)

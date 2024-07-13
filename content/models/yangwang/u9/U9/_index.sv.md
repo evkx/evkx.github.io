@@ -121,7 +121,6 @@ Endast en typ av framsäte är tillgänglig i YangWang U9.
 Följande funktioner är tillgängliga på **** sätet.
 
 - elektrisk justering
-- integrerat nackstöd
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - Black [Alcantara klädsel](../../../../technology/seats/materials/#alcantara)

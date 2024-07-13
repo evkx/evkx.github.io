@@ -116,7 +116,6 @@ Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el
 
 Las siguientes funcionalidades están disponibles en el asiento **Start**.
 
-- reposacabezas integrado
 
 Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfort**.
 

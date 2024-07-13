@@ -112,7 +112,6 @@ Der er to sædetyper, du kan vælge imellem til forreste række i Opel Frontera.
 
 Følgende funktioner er tilgængelige på **Standard** sædet.
 
-- integreret nakkestøtte
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - black [stofpolstring](../../../../technology/seats/materials/#fabric)

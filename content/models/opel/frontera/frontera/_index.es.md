@@ -112,7 +112,6 @@ Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el
 
 Las siguientes funcionalidades están disponibles en el asiento **Standard**.
 
-- reposacabezas integrado
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - black [tapizado de tela](../../../../technology/seats/materials/#fabric)

@@ -124,7 +124,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [siège passager à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (facultatif)
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (facultatif)
-- appui-tête intégré
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 Vous pouvez choisir parmi 21 différents matériaux/couleurs pour ce type de siège.
@@ -140,7 +139,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **M Sport**.
 - [siège passager à mémoire](../../../../technology/seats/adjustment/#seat-memory) (facultatif)
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (facultatif)
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- appui-tête intégré
 
 Vous pouvez choisir parmi 21 différents matériaux/couleurs pour ce type de siège.
 
@@ -157,7 +155,6 @@ Vous pouvez choisir parmi 21 différents matériaux/couleurs pour ce type de si�
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-- appui-tête intégré
 
 Il n'y a qu'un seul type de volant disponible. Le volant stock est chauffant et vous pouvez contrôler le système audio avec les boutons sur le volant.
 

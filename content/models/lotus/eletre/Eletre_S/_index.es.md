@@ -118,7 +118,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (opcional)
-- reposacabezas integrado
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Red/Black [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)

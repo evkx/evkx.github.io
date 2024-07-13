@@ -116,7 +116,6 @@ There are two seat types you can choose from for the front row in the CitroÃ«n Ã
 
 The following functionalities are available on the **Standard** seat.
 
-- integrated headrest
 
 You can choose from 1 different materials/colors for this seat type.
 - black [fabric upholstering](../../../../technology/seats/materials/#fabric)

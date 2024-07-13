@@ -119,7 +119,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [hukommelsespassagersæde](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (valgfrit)
-- integreret nakkestøtte
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 - Red/Black [polstring af mikrofiber/nappalæder](../../../../technology/seats/materials/#nappalæder)

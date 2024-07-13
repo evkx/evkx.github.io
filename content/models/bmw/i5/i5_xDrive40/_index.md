@@ -128,7 +128,6 @@ The following functionalities are available on the **Sport** seat.
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment) (optional)
-- integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 The following functionalities are available on the **Comfort seats** seat.
@@ -140,7 +139,6 @@ The following functionalities are available on the **Comfort seats** seat.
 - [memory passenger seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- integrated headrest
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/frontseats_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
@@ -153,7 +151,6 @@ The following functionalities are available on the **Comfort seats** seat.
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-- integrated headrest
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/secondrowseats_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}

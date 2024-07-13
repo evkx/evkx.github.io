@@ -116,7 +116,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory) (valgfrit)
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support) (valgfrit)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (valgfrit)
-- integreret nakkestøtte
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.

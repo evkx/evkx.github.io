@@ -129,7 +129,6 @@ The following functionalities are available on the **sport** seat.
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [memory driver seat](../../../../technology/seats/adjustment/#seat-memory) (optional)
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
-- integrated headrest
 
 You can choose from 1 different materials/colors for this seat type.
 
@@ -157,7 +156,6 @@ The following functionalities are available on the **sport pro** seat.
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [Seat cushion side bolsters adjustment](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
-- integrated headrest
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 

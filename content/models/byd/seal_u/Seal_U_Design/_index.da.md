@@ -118,7 +118,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - elektrisk justering
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
-- integreret nakkestøtte
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
