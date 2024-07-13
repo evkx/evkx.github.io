@@ -132,7 +132,6 @@ Den anden række har en standard tre-sæders bænk med en  del, hvor du kan fold
 
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
-- [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 Der er kun én type rat tilgængelig.
 

@@ -132,7 +132,6 @@ Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hv
 
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-- [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 
 Det er bare én type ratt tilgjengelig.
 

@@ -132,7 +132,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-- [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 
 Il n'y a qu'un seul type de volant disponible.
 

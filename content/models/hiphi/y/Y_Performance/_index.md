@@ -132,7 +132,6 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
-- [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
 There is only one type of steering wheel available.
 

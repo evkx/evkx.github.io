@@ -132,7 +132,6 @@ Den andra raden har en standardbänk med tre sittplatser med en -sektion där du
 
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-- [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 Det finns bara en typ av ratt tillgänglig.
 
