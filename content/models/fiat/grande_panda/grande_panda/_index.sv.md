@@ -116,7 +116,7 @@ Fiat Grande Panda rymmer fem passagerare med två säten fram och en tre-sitsig 
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Fiat Grande Panda.
+För första raden erbjuder Fiat Grande Panda två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **Standard** sätet.
 

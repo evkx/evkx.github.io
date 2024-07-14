@@ -64,11 +64,11 @@ Audi SQ6 e-tron har et firehjulstræk, der understøttes af to motorer, en på h
 
 ### Hjulophæng
 
-Standard affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 184 mm.
+Sport affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 164 mm.
 
-Du kan bestille Audi SQ6 e-tron med en alternativ Sport hjulophæng. Sport affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 164 mm.
+Du kan bestille Audi SQ6 e-tron med en alternativ Adaptive Air Suspension Sport hjulophæng. Forhjulsophænget og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 185 mm, og maksimum er 224 mm.
 
-Du kan bestille Audi SQ6 e-tron med en alternativ Adaptive Air Suspension hjulophæng. Forhjulsophænget og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 185 mm, og maksimum er 224 mm.
+For lettere lastning kan luftaffjedringen sænkes ved hjælp af betjeningsknapper i bagagerummet.
 
 ### Styring
 
@@ -130,7 +130,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-
+Audi SQ6 e-tron har et førerfokuseret interiør, der forbedrer cockpitfølelsen, med premium materialer i alle vigtige områder. Derudover inkluderer det en traditionel midterkonsol, der adskiller fører og passager, og giver praktisk opbevaring og funktionalitet.
 
 ### Sæder
 
@@ -138,12 +138,7 @@ Audi SQ6 e-tron har plads til fem passagerer med to sæder foran og en tre-perso
 
 #### Første række sæder
 
-Der er tre sædetyper, du kan vælge imellem til forreste række i Audi SQ6 e-tron.
-
-Følgende funktioner er tilgængelige på **Normal** sædet.
-
-- højdejusterbar nakkestøtte
-- [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
+For første række tilbyder Audi SQ6 e-tron to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **Sport** sædet.
 

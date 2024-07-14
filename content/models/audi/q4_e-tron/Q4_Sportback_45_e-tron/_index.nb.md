@@ -117,7 +117,7 @@ Audi Q4 Sportback 45 e-tron har plass til fem passasjerer med to seter foran og 
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Audi Q4 Sportback 45 e-tron.
+For første rad tilbyr Audi Q4 Sportback 45 e-tron to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 

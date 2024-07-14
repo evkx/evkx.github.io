@@ -116,7 +116,7 @@ Le Citroën ë-C3 Aircross peut accueillir cinq passagers avec deux sièges à l
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi deux types de sièges pour la première rangée du Citroën ë-C3 Aircross.
+Pour la première rangée, l'Citroën ë-C3 Aircross propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 

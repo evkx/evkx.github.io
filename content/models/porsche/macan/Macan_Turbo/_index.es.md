@@ -115,7 +115,7 @@ El Porsche Macan Turbo tiene capacidad para cinco pasajeros con dos asientos del
 
 #### Asientos de primera fila
 
-Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Porsche Macan Turbo.
+Para la primera fila, el Porsche Macan Turbo ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **Comfortseats with memory**.
 

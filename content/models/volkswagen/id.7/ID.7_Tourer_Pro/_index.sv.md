@@ -111,7 +111,7 @@ Volkswagen ID.7 Tourer Pro rymmer fem passagerare med två säten fram och en tr
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Volkswagen ID.7 Tourer Pro.
+För första raden erbjuder Volkswagen ID.7 Tourer Pro två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

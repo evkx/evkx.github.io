@@ -138,7 +138,7 @@ Audi Q6 e-tron quattro har plass til fem passasjerer med to seter foran og en tr
 
 #### Forseter
 
-Det er tre setetyper du kan velge mellom for første rad i Audi Q6 e-tron quattro.
+For første rad tilbyr Audi Q6 e-tron quattro tre forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **Normal** setet.
 

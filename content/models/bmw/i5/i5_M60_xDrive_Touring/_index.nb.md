@@ -117,7 +117,7 @@ BMW i5 M60 xDrive Touring har plass til fem passasjerer med to seter foran og en
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i BMW i5 M60 xDrive Touring.
+For første rad tilbyr BMW i5 M60 xDrive Touring to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 

@@ -113,7 +113,7 @@ Le Volkswagen ID.4 Pro 4MOTION peut accueillir cinq passagers avec deux sièges 
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi deux types de sièges pour la première rangée du Volkswagen ID.4 Pro 4MOTION.
+Pour la première rangée, l'Volkswagen ID.4 Pro 4MOTION propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 

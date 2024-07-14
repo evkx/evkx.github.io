@@ -117,7 +117,7 @@ Le Mercedes-EQ EQE 350 4MATIC peut accueillir cinq passagers avec deux sièges �
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi deux types de sièges pour la première rangée du Mercedes-EQ EQE 350 4MATIC.
+Pour la première rangée, l'Mercedes-EQ EQE 350 4MATIC propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 

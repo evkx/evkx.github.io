@@ -130,7 +130,7 @@ Audi Q8 Sportback 55 e-tron rymmer fem passagerare med två säten fram och en t
 
 #### Framsäten
 
-Det finns fem sätestyper du kan välja mellan för den främre raden av Audi Q8 Sportback 55 e-tron.
+För första raden erbjuder Audi Q8 Sportback 55 e-tron fem olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

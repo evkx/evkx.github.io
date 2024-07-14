@@ -111,7 +111,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Volkswagen ID. Buzz GTX LWB.
+For første rad tilbyr Volkswagen ID. Buzz GTX LWB to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 

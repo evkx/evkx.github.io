@@ -108,7 +108,7 @@ Derudover tilbyder modellen et traditionelt fem-sædet layout eller et valgfrit 
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Mercedes-EQ EQB 250.
+For første række tilbyder Mercedes-EQ EQB 250 to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

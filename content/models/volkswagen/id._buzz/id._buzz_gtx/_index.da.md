@@ -111,7 +111,7 @@ Volkswagen ID. Buzz GTX har plads til fem passagerer med to sæder foran og en t
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Volkswagen ID. Buzz GTX.
+For første række tilbyder Volkswagen ID. Buzz GTX to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

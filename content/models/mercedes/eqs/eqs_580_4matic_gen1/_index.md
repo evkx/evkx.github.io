@@ -123,7 +123,7 @@ The Mercedes-EQ EQS 580 4MATIC accommodates five passengers with two seats in th
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the Mercedes-EQ EQS 580 4MATIC.
+For the front row, the Mercedes-EQ EQS 580 4MATIC offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **standard** seat.
 

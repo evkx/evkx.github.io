@@ -112,7 +112,7 @@ Le Mercedes-EQ G 580 EQ peut accueillir cinq passagers avec deux sièges à l'av
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi deux types de sièges pour la première rangée du Mercedes-EQ G 580 EQ.
+Pour la première rangée, l'Mercedes-EQ G 580 EQ propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 

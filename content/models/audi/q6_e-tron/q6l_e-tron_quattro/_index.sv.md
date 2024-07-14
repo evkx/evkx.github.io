@@ -134,7 +134,7 @@ Audi Q6L e-tron quattro rymmer fem passagerare med två säten fram och en tre-s
 
 #### Framsäten
 
-Det finns tre sätestyper du kan välja mellan för den främre raden av Audi Q6L e-tron quattro.
+För första raden erbjuder Audi Q6L e-tron quattro tre olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **Normal** sätet.
 

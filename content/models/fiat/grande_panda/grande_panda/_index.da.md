@@ -116,7 +116,7 @@ Fiat Grande Panda har plads til fem passagerer med to sæder foran og en tre-per
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Fiat Grande Panda.
+For første række tilbyder Fiat Grande Panda to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **Standard** sædet.
 

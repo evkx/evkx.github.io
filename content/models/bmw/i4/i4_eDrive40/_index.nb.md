@@ -117,7 +117,7 @@ BMW i4 eDrive40 har plass til fem passasjerer med to seter foran og en tre-seter
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i BMW i4 eDrive40.
+For første rad tilbyr BMW i4 eDrive40 to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 

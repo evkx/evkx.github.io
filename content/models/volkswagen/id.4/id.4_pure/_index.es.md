@@ -113,7 +113,7 @@ El Volkswagen ID.4 Pure tiene capacidad para cinco pasajeros con dos asientos de
 
 #### Asientos de primera fila
 
-Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Volkswagen ID.4 Pure.
+Para la primera fila, el Volkswagen ID.4 Pure ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 

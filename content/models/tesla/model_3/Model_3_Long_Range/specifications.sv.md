@@ -193,6 +193,14 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				357
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Katodmaterial
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
 	</tbody>
 </table>
 

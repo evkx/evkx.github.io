@@ -136,7 +136,7 @@ Audi e-tron 50 rymmer fem passagerare med två säten fram och en tre-sitsig bä
 
 #### Framsäten
 
-Det finns fem sätestyper du kan välja mellan för den främre raden av Audi e-tron 50.
+För första raden erbjuder Audi e-tron 50 fem olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

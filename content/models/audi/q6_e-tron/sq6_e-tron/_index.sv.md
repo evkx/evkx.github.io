@@ -64,11 +64,11 @@ Audi SQ6 e-tron har ett fyrhjulsdriftsystem som stöds av två motorer, en på v
 
 ### Hjulupphängning
 
-Standard-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 184 mm.
+Sport-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 164 mm.
 
-Du kan beställa Audi SQ6 e-tron med en alternativ Sport-upphängning. Sport-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 164 mm.
+Du kan beställa Audi SQ6 e-tron med en alternativ Adaptive Air Suspension Sport-upphängning. Fjädringen fram och bak är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 185 mm, och maximal är 224 mm.
 
-Du kan beställa Audi SQ6 e-tron med en alternativ Adaptive Air Suspension-upphängning. Fjädringen fram och bak är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 185 mm, och maximal är 224 mm.
+För enklare lastning kan luftfjädringen sänkas med hjälp av kontroller i bagageutrymmet
 
 ### Styrning
 
@@ -130,7 +130,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-
+Audi SQ6 e-tron har en förarfokuserad interiör som förbättrar cockpitkänslan, med premiummaterial i alla viktiga områden. Dessutom inkluderar den en traditionell mittkonsol som skiljer föraren från passageraren och ger praktisk förvaring och funktionalitet.
 
 ### Säten
 
@@ -138,12 +138,7 @@ Audi SQ6 e-tron rymmer fem passagerare med två säten fram och en tre-sitsig b�
 
 #### Framsäten
 
-Det finns tre sätestyper du kan välja mellan för den främre raden av Audi SQ6 e-tron.
-
-Följande funktioner är tillgängliga på **Normal** sätet.
-
-- höjdjusterbart nackstöd
-- [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
+För första raden erbjuder Audi SQ6 e-tron två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **Sport** sätet.
 

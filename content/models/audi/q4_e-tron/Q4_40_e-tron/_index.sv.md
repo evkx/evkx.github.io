@@ -127,7 +127,7 @@ Audi Q4 40 e-tron rymmer fem passagerare med två säten fram och en tre-sitsig 
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Audi Q4 40 e-tron.
+För första raden erbjuder Audi Q4 40 e-tron två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

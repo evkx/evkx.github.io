@@ -118,7 +118,7 @@ Volkswagen ID.5 GTX 4MOTION (GEN1) rymmer fem passagerare med två säten fram o
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Volkswagen ID.5 GTX 4MOTION (GEN1).
+För första raden erbjuder Volkswagen ID.5 GTX 4MOTION (GEN1) två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

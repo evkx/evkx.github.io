@@ -125,7 +125,7 @@ Audi SQ8 Sportback e-tron har plass til fem passasjerer med to seter foran og en
 
 #### Forseter
 
-Det er tre setetyper du kan velge mellom for første rad i Audi SQ8 Sportback e-tron.
+For første rad tilbyr Audi SQ8 Sportback e-tron tre forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **s-line sport** setet.
 

@@ -123,7 +123,7 @@ El Audi RS e-tron GT (GEN1) tiene capacidad para cinco pasajeros con dos asiento
 
 #### Asientos de primera fila
 
-Hay tres tipos de asientos entre los que puedes elegir para la primera fila en el Audi RS e-tron GT (GEN1).
+Para la primera fila, el Audi RS e-tron GT (GEN1) ofrece tres tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **sport**.
 

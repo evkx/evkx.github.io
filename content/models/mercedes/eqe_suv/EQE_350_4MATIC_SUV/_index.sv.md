@@ -115,7 +115,7 @@ Mercedes-EQ EQE 350 4MATIC SUV rymmer fem passagerare med två säten fram och e
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Mercedes-EQ EQE 350 4MATIC SUV.
+För första raden erbjuder Mercedes-EQ EQE 350 4MATIC SUV två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

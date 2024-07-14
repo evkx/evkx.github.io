@@ -117,7 +117,7 @@ The BMW i4 eDrive40 accommodates five passengers with two seats in the front and
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the BMW i4 eDrive40.
+For the front row, the BMW i4 eDrive40 offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **standard** seat.
 

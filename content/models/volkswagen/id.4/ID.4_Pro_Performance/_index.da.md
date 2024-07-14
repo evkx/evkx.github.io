@@ -117,7 +117,7 @@ Volkswagen ID.4 Pro Performance har plads til fem passagerer med to sæder foran
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Volkswagen ID.4 Pro Performance.
+For første række tilbyder Volkswagen ID.4 Pro Performance to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

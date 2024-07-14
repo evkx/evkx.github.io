@@ -112,7 +112,7 @@ Opel Frontera har plads til fem passagerer med to sæder foran og en tre-persone
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Opel Frontera.
+For første række tilbyder Opel Frontera to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **Standard** sædet.
 

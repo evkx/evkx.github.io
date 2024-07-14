@@ -120,7 +120,7 @@ Mercedes-EQ EQS 580 4MATIC har plass til fem passasjerer med to seter foran og e
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Mercedes-EQ EQS 580 4MATIC.
+For første rad tilbyr Mercedes-EQ EQS 580 4MATIC to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 

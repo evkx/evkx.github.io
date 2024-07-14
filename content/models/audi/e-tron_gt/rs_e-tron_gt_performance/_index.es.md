@@ -127,7 +127,7 @@ El Audi RS e-tron GT performance tiene capacidad para cinco pasajeros con dos as
 
 #### Asientos de primera fila
 
-Hay tres tipos de asientos entre los que puedes elegir para la primera fila en el Audi RS e-tron GT performance.
+Para la primera fila, el Audi RS e-tron GT performance ofrece tres tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **sport**.
 

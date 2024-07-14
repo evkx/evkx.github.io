@@ -115,7 +115,7 @@ Porsche Macan 4 har plads til fem passagerer med to sæder foran og en tre-perso
 
 #### Første række sæder
 
-Der er tre sædetyper, du kan vælge imellem til forreste række i Porsche Macan 4.
+For første række tilbyder Porsche Macan 4 tre forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **Comfortseats** sædet.
 

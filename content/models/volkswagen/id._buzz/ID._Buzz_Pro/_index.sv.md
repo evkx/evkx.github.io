@@ -115,7 +115,7 @@ Volkswagen ID. Buzz Pro rymmer fem passagerare med två säten fram och en tre-s
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Volkswagen ID. Buzz Pro.
+För första raden erbjuder Volkswagen ID. Buzz Pro två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

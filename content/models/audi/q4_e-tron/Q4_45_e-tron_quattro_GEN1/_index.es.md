@@ -127,7 +127,7 @@ El Audi Q4 45 e-tron quattro (GEN1) tiene capacidad para cinco pasajeros con dos
 
 #### Asientos de primera fila
 
-Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Audi Q4 45 e-tron quattro (GEN1).
+Para la primera fila, el Audi Q4 45 e-tron quattro (GEN1) ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 

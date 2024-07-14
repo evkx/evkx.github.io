@@ -117,7 +117,7 @@ Ce modèle offre une configuration à quatre places ou une configuration 4+1 en 
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi trois types de sièges pour la première rangée du Porsche Taycan 4 Cross Turismo.
+Pour la première rangée, l'Porsche Taycan 4 Cross Turismo propose trois types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfort**.
 

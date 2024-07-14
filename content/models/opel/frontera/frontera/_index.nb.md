@@ -112,7 +112,7 @@ Opel Frontera har plass til fem passasjerer med to seter foran og en tre-seters 
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Opel Frontera.
+For første rad tilbyr Opel Frontera to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **Standard** setet.
 

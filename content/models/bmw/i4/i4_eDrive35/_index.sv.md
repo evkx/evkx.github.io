@@ -117,7 +117,7 @@ BMW i4 eDrive35 rymmer fem passagerare med två säten fram och en tre-sitsig b�
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av BMW i4 eDrive35.
+För första raden erbjuder BMW i4 eDrive35 två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

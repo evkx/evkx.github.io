@@ -115,7 +115,7 @@ Le Volkswagen ID.7 Pro peut accueillir cinq passagers avec deux sièges à l'ava
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi deux types de sièges pour la première rangée du Volkswagen ID.7 Pro.
+Pour la première rangée, l'Volkswagen ID.7 Pro propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 

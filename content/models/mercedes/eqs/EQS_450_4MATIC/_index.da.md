@@ -114,7 +114,7 @@ Mercedes-EQ EQS 450 4MATIC har plads til fem passagerer med to sæder foran og e
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Mercedes-EQ EQS 450 4MATIC.
+For første række tilbyder Mercedes-EQ EQS 450 4MATIC to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

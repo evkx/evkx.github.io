@@ -117,7 +117,7 @@ El BMW i4 M50 tiene capacidad para cinco pasajeros con dos asientos delanteros y
 
 #### Asientos de primera fila
 
-Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el BMW i4 M50.
+Para la primera fila, el BMW i4 M50 ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 

@@ -115,7 +115,7 @@ Volkswagen ID.7 Pro S rymmer fem passagerare med två säten fram och en tre-sit
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Volkswagen ID.7 Pro S.
+För första raden erbjuder Volkswagen ID.7 Pro S två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

@@ -115,7 +115,7 @@ Le Porsche Macan 4 peut accueillir cinq passagers avec deux sièges à l'avant e
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi trois types de sièges pour la première rangée du Porsche Macan 4.
+Pour la première rangée, l'Porsche Macan 4 propose trois types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats**.
 

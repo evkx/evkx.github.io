@@ -121,7 +121,7 @@ BMW i5 xDrive40 har plass til fem passasjerer med to seter foran og en tre-seter
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i BMW i5 xDrive40.
+For første rad tilbyr BMW i5 xDrive40 to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 

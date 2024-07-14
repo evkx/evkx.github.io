@@ -119,7 +119,7 @@ Volkswagen ID.4 Pro 4MOTION (GEN1) har plass til fem passasjerer med to seter fo
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Volkswagen ID.4 Pro 4MOTION (GEN1).
+For første rad tilbyr Volkswagen ID.4 Pro 4MOTION (GEN1) to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 

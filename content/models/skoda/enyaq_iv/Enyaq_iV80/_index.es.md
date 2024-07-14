@@ -117,7 +117,7 @@ El SKODA Enyaq iV80 tiene capacidad para cinco pasajeros con dos asientos delant
 
 #### Asientos de primera fila
 
-Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el SKODA Enyaq iV80.
+Para la primera fila, el SKODA Enyaq iV80 ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 

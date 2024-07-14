@@ -116,7 +116,7 @@ Citroën ë-C3 har plads til fem passagerer med to sæder foran og en tre-person
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Citroën ë-C3.
+For første række tilbyder Citroën ë-C3 to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **Start** sædet.
 

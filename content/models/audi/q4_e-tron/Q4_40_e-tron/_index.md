@@ -133,7 +133,7 @@ The Audi Q4 40 e-tron accommodates five passengers with two seats in the front a
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the Audi Q4 40 e-tron.
+For the front row, the Audi Q4 40 e-tron offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **standard** seat.
 

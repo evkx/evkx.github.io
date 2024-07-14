@@ -121,7 +121,7 @@ The Mercedes-EQ EQE 350+ SUV accommodates five passengers with two seats in the 
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the Mercedes-EQ EQE 350+ SUV.
+For the front row, the Mercedes-EQ EQE 350+ SUV offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **standard** seat.
 

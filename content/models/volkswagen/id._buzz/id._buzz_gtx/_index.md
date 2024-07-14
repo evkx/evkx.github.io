@@ -111,7 +111,7 @@ The Volkswagen ID. Buzz GTX accommodates five passengers with two seats in the f
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the Volkswagen ID. Buzz GTX.
+For the front row, the Volkswagen ID. Buzz GTX offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **standard** seat.
 

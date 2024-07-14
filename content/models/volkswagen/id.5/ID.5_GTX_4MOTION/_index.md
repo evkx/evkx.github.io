@@ -112,7 +112,7 @@ The Volkswagen ID.5 GTX 4MOTION accommodates five passengers with two seats in t
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the Volkswagen ID.5 GTX 4MOTION.
+For the front row, the Volkswagen ID.5 GTX 4MOTION offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **standard** seat.
 

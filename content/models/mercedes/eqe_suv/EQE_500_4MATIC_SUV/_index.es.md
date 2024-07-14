@@ -115,7 +115,7 @@ El Mercedes-EQ EQE 500 4MATIC SUV tiene capacidad para cinco pasajeros con dos a
 
 #### Asientos de primera fila
 
-Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Mercedes-EQ EQE 500 4MATIC SUV.
+Para la primera fila, el Mercedes-EQ EQE 500 4MATIC SUV ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 

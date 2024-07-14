@@ -125,7 +125,7 @@ Denna modell erbjuder en fyra-sits layout eller en valfri 4+1 layout.
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Porsche Taycan Turbo S (GEN1).
+För första raden erbjuder Porsche Taycan Turbo S (GEN1) två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **Comfortseats with memory** sätet.
 

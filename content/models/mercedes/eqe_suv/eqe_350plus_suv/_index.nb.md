@@ -115,7 +115,7 @@ Mercedes-EQ EQE 350+ SUV har plass til fem passasjerer med to seter foran og en 
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Mercedes-EQ EQE 350+ SUV.
+For første rad tilbyr Mercedes-EQ EQE 350+ SUV to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 

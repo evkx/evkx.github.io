@@ -120,7 +120,7 @@ The Mercedes-AMG EQE 43 4MATIC accommodates five passengers with two seats in th
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the Mercedes-AMG EQE 43 4MATIC.
+For the front row, the Mercedes-AMG EQE 43 4MATIC offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **standard** seat.
 

@@ -113,7 +113,7 @@ Le Mercedes-AMG EQE 53 4MATIC+ SUV peut accueillir cinq passagers avec deux siè
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi deux types de sièges pour la première rangée du Mercedes-AMG EQE 53 4MATIC+ SUV.
+Pour la première rangée, l'Mercedes-AMG EQE 53 4MATIC+ SUV propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 

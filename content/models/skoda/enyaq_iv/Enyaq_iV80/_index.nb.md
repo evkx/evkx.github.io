@@ -117,7 +117,7 @@ SKODA Enyaq iV80 har plass til fem passasjerer med to seter foran og en tre-sete
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i SKODA Enyaq iV80.
+For første rad tilbyr SKODA Enyaq iV80 to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 

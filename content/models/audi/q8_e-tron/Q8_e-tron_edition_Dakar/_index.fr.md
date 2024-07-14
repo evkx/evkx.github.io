@@ -133,7 +133,7 @@ Le Audi Q8 e-tron edition Dakar peut accueillir cinq passagers avec deux sièges
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi cinq types de sièges pour la première rangée du Audi Q8 e-tron edition Dakar.
+Pour la première rangée, l'Audi Q8 e-tron edition Dakar propose cinq types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 

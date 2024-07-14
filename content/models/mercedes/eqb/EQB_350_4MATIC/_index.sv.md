@@ -108,7 +108,7 @@ Dessutom erbjuder modellen en traditionell femsitslayout eller en valfri sjusits
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Mercedes-EQ EQB 350 4MATIC.
+För första raden erbjuder Mercedes-EQ EQB 350 4MATIC två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

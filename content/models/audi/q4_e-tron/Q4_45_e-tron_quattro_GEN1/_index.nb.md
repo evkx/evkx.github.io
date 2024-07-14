@@ -127,7 +127,7 @@ Audi Q4 45 e-tron quattro (GEN1) har plass til fem passasjerer med to seter fora
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Audi Q4 45 e-tron quattro (GEN1).
+For første rad tilbyr Audi Q4 45 e-tron quattro (GEN1) to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 

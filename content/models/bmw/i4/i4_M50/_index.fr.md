@@ -117,7 +117,7 @@ Le BMW i4 M50 peut accueillir cinq passagers avec deux sièges à l'avant et une
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi deux types de sièges pour la première rangée du BMW i4 M50.
+Pour la première rangée, l'BMW i4 M50 propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 

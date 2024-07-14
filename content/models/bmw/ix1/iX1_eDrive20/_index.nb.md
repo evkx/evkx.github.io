@@ -113,7 +113,7 @@ BMW iX1 eDrive20 har plass til fem passasjerer med to seter foran og en tre-sete
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i BMW iX1 eDrive20.
+For første rad tilbyr BMW iX1 eDrive20 to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **Standard** setet.
 

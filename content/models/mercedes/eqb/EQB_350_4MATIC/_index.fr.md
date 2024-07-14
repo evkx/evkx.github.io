@@ -108,7 +108,7 @@ De plus, le modèle propose une configuration traditionnelle à cinq places ou u
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi deux types de sièges pour la première rangée du Mercedes-EQ EQB 350 4MATIC.
+Pour la première rangée, l'Mercedes-EQ EQB 350 4MATIC propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 

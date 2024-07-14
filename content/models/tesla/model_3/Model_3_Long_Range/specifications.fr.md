@@ -193,6 +193,14 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				357
 			</td>
 		</tr>
+		<tr>
+			<td>
+				Matériaux cathodiques
+			</td>
+			<td>
+				NMC
+			</td>
+		</tr>
 	</tbody>
 </table>
 

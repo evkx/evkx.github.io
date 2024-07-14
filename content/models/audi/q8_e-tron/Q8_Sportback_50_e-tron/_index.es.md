@@ -130,7 +130,7 @@ El Audi Q8 Sportback 50 e-tron tiene capacidad para cinco pasajeros con dos asie
 
 #### Asientos de primera fila
 
-Hay cinco tipos de asientos entre los que puedes elegir para la primera fila en el Audi Q8 Sportback 50 e-tron.
+Para la primera fila, el Audi Q8 Sportback 50 e-tron ofrece cinco tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 

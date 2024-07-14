@@ -113,7 +113,7 @@ BMW iX1 xDrive30 har plads til fem passagerer med to sæder foran og en tre-pers
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i BMW iX1 xDrive30.
+For første række tilbyder BMW iX1 xDrive30 to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **Standard** sædet.
 

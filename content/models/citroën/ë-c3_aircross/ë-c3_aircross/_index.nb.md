@@ -116,7 +116,7 @@ Citroën ë-C3 Aircross har plass til fem passasjerer med to seter foran og en t
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Citroën ë-C3 Aircross.
+For første rad tilbyr Citroën ë-C3 Aircross to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **Standard** setet.
 

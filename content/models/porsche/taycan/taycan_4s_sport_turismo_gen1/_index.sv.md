@@ -135,7 +135,7 @@ Denna modell erbjuder en fyra-sits layout eller en valfri 4+1 layout.
 
 #### Framsäten
 
-Det finns tre sätestyper du kan välja mellan för den främre raden av Porsche Taycan 4S Sport Turismo (GEN1).
+För första raden erbjuder Porsche Taycan 4S Sport Turismo (GEN1) tre olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **Comfort** sätet.
 

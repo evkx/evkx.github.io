@@ -64,11 +64,11 @@ Audi SQ6 e-tron har et firehjulsdriftssystem som støttes av to motorer, en på 
 
 ### Hjuloppheng
 
-Standard-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 184 mm.
+Sport-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 164 mm.
 
-Du kan bestille Audi SQ6 e-tron med en alternativ Sport hjuloppheng. Sport-fjæringen har stålfjærer med fast høyde, men du kan justere demping for å passe til din kjørestil eller veiforhold. Bakkeklaringen med dette hjulopphenget er 164 mm.
+Du kan bestille Audi SQ6 e-tron med en alternativ Adaptive Air Suspension Sport hjuloppheng. Hjulopphenget foran og bak er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 185 mm, og maksimum er 224 mm.
 
-Du kan bestille Audi SQ6 e-tron med en alternativ Adaptive Air Suspension hjuloppheng. Hjulopphenget foran og bak er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 185 mm, og maksimum er 224 mm.
+For enklere lasting kan luftfjæringen senkes ved hjelp av kontroller i bagasjerommet.
 
 ### Styring
 
@@ -130,7 +130,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-
+Audi SQ6 e-tron har et førerfokusert interiør som forbedrer cockpitfølelsen, med førsteklasses materialer i alle viktige områder. I tillegg inkluderer den en tradisjonell midtkonsoll som skiller fører og passasjer, og gir praktisk oppbevaring og funksjonalitet.
 
 ### Seter
 
@@ -138,12 +138,7 @@ Audi SQ6 e-tron har plass til fem passasjerer med to seter foran og en tre-seter
 
 #### Forseter
 
-Det er tre setetyper du kan velge mellom for første rad i Audi SQ6 e-tron.
-
-Følgende funksjoner er tilgjengelige på **Normal** setet.
-
-- høydejusterbar hodestøtte
-- [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
+For første rad tilbyr Audi SQ6 e-tron to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 

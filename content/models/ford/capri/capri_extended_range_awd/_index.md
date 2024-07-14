@@ -115,7 +115,7 @@ The Ford Capri Extended Range AWD accommodates five passengers with two seats in
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the Ford Capri Extended Range AWD.
+For the front row, the Ford Capri Extended Range AWD offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **Sport** seat.
 

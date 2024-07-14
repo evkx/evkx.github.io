@@ -144,7 +144,7 @@ This model offers a four-seat layout or an optional 4+1 layout.
 
 #### First row seats
 
-There are three seat types you can choose from for the front row in the Porsche Taycan (GEN1).
+For the front row, the Porsche Taycan (GEN1) offers three different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **Comfort** seat.
 

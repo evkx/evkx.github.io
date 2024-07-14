@@ -136,7 +136,7 @@ Le Audi e-tron 50 Sportback peut accueillir cinq passagers avec deux sièges à 
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi cinq types de sièges pour la première rangée du Audi e-tron 50 Sportback.
+Pour la première rangée, l'Audi e-tron 50 Sportback propose cinq types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 

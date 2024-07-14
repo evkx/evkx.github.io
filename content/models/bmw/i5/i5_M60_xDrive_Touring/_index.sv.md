@@ -117,7 +117,7 @@ BMW i5 M60 xDrive Touring rymmer fem passagerare med två säten fram och en tre
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av BMW i5 M60 xDrive Touring.
+För första raden erbjuder BMW i5 M60 xDrive Touring två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **Sport** sätet.
 

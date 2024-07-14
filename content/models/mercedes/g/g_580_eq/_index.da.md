@@ -112,7 +112,7 @@ Mercedes-EQ G 580 EQ har plads til fem passagerer med to sæder foran og en tre-
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Mercedes-EQ G 580 EQ.
+For første række tilbyder Mercedes-EQ G 580 EQ to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

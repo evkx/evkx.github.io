@@ -112,7 +112,7 @@ Volkswagen ID.4 GTX 4MOTION rymmer fem passagerare med två säten fram och en t
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Volkswagen ID.4 GTX 4MOTION.
+För första raden erbjuder Volkswagen ID.4 GTX 4MOTION två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

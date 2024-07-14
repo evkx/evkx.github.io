@@ -115,7 +115,7 @@ Volkswagen ID. Buzz Pro har plass til fem passasjerer med to seter foran og en t
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Volkswagen ID. Buzz Pro.
+For første rad tilbyr Volkswagen ID. Buzz Pro to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 

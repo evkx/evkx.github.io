@@ -121,7 +121,7 @@ BMW i5 xDrive40 har plads til fem passagerer med to sæder foran og en tre-perso
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i BMW i5 xDrive40.
+For første række tilbyder BMW i5 xDrive40 to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **Sport** sædet.
 

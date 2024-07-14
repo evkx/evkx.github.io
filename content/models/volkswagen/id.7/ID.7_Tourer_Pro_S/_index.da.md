@@ -111,7 +111,7 @@ Volkswagen ID.7 Tourer Pro S har plads til fem passagerer med to sæder foran og
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Volkswagen ID.7 Tourer Pro S.
+For første række tilbyder Volkswagen ID.7 Tourer Pro S to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

@@ -127,7 +127,7 @@ Audi RS e-tron GT performance rymmer fem passagerare med två säten fram och en
 
 #### Framsäten
 
-Det finns tre sätestyper du kan välja mellan för den främre raden av Audi RS e-tron GT performance.
+För första raden erbjuder Audi RS e-tron GT performance tre olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **sport** sätet.
 

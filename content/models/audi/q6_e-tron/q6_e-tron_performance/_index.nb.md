@@ -138,7 +138,7 @@ Audi Q6 e-tron performance har plass til fem passasjerer med to seter foran og e
 
 #### Forseter
 
-Det er tre setetyper du kan velge mellom for første rad i Audi Q6 e-tron performance.
+For første rad tilbyr Audi Q6 e-tron performance tre forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **Normal** setet.
 

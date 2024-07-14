@@ -116,7 +116,7 @@ Ford Explorer Extended Range RWD har plass til fem passasjerer med to seter fora
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Ford Explorer Extended Range RWD.
+For første rad tilbyr Ford Explorer Extended Range RWD to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 

@@ -127,7 +127,7 @@ Audi RS e-tron GT performance har plass til fem passasjerer med to seter foran o
 
 #### Forseter
 
-Det er tre setetyper du kan velge mellom for første rad i Audi RS e-tron GT performance.
+For første rad tilbyr Audi RS e-tron GT performance tre forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **sport** setet.
 

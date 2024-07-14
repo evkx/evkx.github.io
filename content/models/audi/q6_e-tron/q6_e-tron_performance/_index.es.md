@@ -138,7 +138,7 @@ El Audi Q6 e-tron performance tiene capacidad para cinco pasajeros con dos asien
 
 #### Asientos de primera fila
 
-Hay tres tipos de asientos entre los que puedes elegir para la primera fila en el Audi Q6 e-tron performance.
+Para la primera fila, el Audi Q6 e-tron performance ofrece tres tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **Normal**.
 

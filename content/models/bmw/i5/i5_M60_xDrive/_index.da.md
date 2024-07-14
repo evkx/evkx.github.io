@@ -117,7 +117,7 @@ BMW i5 M60 xDrive har plads til fem passagerer med to sæder foran og en tre-per
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i BMW i5 M60 xDrive.
+For første række tilbyder BMW i5 M60 xDrive to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **Sport** sædet.
 

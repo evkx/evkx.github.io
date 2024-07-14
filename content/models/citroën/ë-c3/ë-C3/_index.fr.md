@@ -116,7 +116,7 @@ Le Citroën ë-C3 peut accueillir cinq passagers avec deux sièges à l'avant et
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi deux types de sièges pour la première rangée du Citroën ë-C3.
+Pour la première rangée, l'Citroën ë-C3 propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Start**.
 

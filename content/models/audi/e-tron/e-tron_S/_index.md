@@ -136,7 +136,7 @@ The Audi e-tron S accommodates five passengers with two seats in the front and a
 
 #### First row seats
 
-There are three seat types you can choose from for the front row in the Audi e-tron S.
+For the front row, the Audi e-tron S offers three different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **s-line sport** seat.
 

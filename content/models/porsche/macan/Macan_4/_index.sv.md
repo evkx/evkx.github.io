@@ -115,7 +115,7 @@ Porsche Macan 4 rymmer fem passagerare med två säten fram och en tre-sitsig b�
 
 #### Framsäten
 
-Det finns tre sätestyper du kan välja mellan för den främre raden av Porsche Macan 4.
+För första raden erbjuder Porsche Macan 4 tre olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **Comfortseats** sätet.
 

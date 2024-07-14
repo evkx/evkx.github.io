@@ -111,7 +111,7 @@ The Volkswagen ID.7 Tourer Pro accommodates five passengers with two seats in th
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the Volkswagen ID.7 Tourer Pro.
+For the front row, the Volkswagen ID.7 Tourer Pro offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **standard** seat.
 

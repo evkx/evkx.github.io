@@ -112,7 +112,7 @@ The Jaguar I-Pace EV400 accommodates five passengers with two seats in the front
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the Jaguar I-Pace EV400.
+For the front row, the Jaguar I-Pace EV400 offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **Performance** seat.
 

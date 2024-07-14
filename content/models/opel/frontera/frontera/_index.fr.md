@@ -112,7 +112,7 @@ Le Opel Frontera peut accueillir cinq passagers avec deux sièges à l'avant et 
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi deux types de sièges pour la première rangée du Opel Frontera.
+Pour la première rangée, l'Opel Frontera propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 

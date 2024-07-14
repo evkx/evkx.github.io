@@ -123,7 +123,7 @@ Audi RS e-tron GT (GEN1) har plads til fem passagerer med to sæder foran og en 
 
 #### Første række sæder
 
-Der er tre sædetyper, du kan vælge imellem til forreste række i Audi RS e-tron GT (GEN1).
+For første række tilbyder Audi RS e-tron GT (GEN1) tre forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **sport** sædet.
 

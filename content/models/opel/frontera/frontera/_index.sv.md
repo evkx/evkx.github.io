@@ -112,7 +112,7 @@ Opel Frontera rymmer fem passagerare med två säten fram och en tre-sitsig bän
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Opel Frontera.
+För första raden erbjuder Opel Frontera två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **Standard** sätet.
 

@@ -115,7 +115,7 @@ The Mercedes-EQ EQA 250+ accommodates five passengers with two seats in the fron
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the Mercedes-EQ EQA 250+.
+For the front row, the Mercedes-EQ EQA 250+ offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **standard** seat.
 

@@ -113,7 +113,7 @@ Volkswagen ID.4 Pure rymmer fem passagerare med två säten fram och en tre-sits
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Volkswagen ID.4 Pure.
+För första raden erbjuder Volkswagen ID.4 Pure två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

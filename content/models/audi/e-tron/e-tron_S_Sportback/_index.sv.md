@@ -133,7 +133,7 @@ Audi e-tron S Sportback rymmer fem passagerare med två säten fram och en tre-s
 
 #### Framsäten
 
-Det finns tre sätestyper du kan välja mellan för den främre raden av Audi e-tron S Sportback.
+För första raden erbjuder Audi e-tron S Sportback tre olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **s-line sport** sätet.
 

@@ -134,7 +134,7 @@ Audi Q6L e-tron quattro har plads til fem passagerer med to sæder foran og en t
 
 #### Første række sæder
 
-Der er tre sædetyper, du kan vælge imellem til forreste række i Audi Q6L e-tron quattro.
+For første række tilbyder Audi Q6L e-tron quattro tre forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **Normal** sædet.
 

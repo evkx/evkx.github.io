@@ -142,7 +142,7 @@ The Audi e-tron 50 Sportback accommodates five passengers with two seats in the 
 
 #### First row seats
 
-There are five seat types you can choose from for the front row in the Audi e-tron 50 Sportback.
+For the front row, the Audi e-tron 50 Sportback offers five different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **standard** seat.
 

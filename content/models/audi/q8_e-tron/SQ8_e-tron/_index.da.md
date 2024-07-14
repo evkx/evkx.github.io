@@ -125,7 +125,7 @@ Audi SQ8 e-tron har plads til fem passagerer med to sæder foran og en tre-perso
 
 #### Første række sæder
 
-Der er tre sædetyper, du kan vælge imellem til forreste række i Audi SQ8 e-tron.
+For første række tilbyder Audi SQ8 e-tron tre forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **s-line sport** sædet.
 

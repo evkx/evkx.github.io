@@ -125,7 +125,7 @@ El Audi SQ8 e-tron tiene capacidad para cinco pasajeros con dos asientos delante
 
 #### Asientos de primera fila
 
-Hay tres tipos de asientos entre los que puedes elegir para la primera fila en el Audi SQ8 e-tron.
+Para la primera fila, el Audi SQ8 e-tron ofrece tres tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **s-line sport**.
 

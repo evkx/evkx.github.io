@@ -130,7 +130,7 @@ The Audi RS e-tron GT performance accommodates five passengers with two seats in
 
 #### First row seats
 
-There are three seat types you can choose from for the front row in the Audi RS e-tron GT performance.
+For the front row, the Audi RS e-tron GT performance offers three different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **sport** seat.
 

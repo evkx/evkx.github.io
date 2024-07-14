@@ -116,7 +116,7 @@ Le Fiat Grande Panda peut accueillir cinq passagers avec deux sièges à l'avant
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi deux types de sièges pour la première rangée du Fiat Grande Panda.
+Pour la première rangée, l'Fiat Grande Panda propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 

@@ -136,7 +136,7 @@ Audi e-tron 55 Sportback har plass til fem passasjerer med to seter foran og en 
 
 #### Forseter
 
-Det er fem setetyper du kan velge mellom for første rad i Audi e-tron 55 Sportback.
+For første rad tilbyr Audi e-tron 55 Sportback fem forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 

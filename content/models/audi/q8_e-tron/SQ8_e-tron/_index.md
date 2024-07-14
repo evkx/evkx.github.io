@@ -128,7 +128,7 @@ The Audi SQ8 e-tron accommodates five passengers with two seats in the front and
 
 #### First row seats
 
-There are three seat types you can choose from for the front row in the Audi SQ8 e-tron.
+For the front row, the Audi SQ8 e-tron offers three different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **s-line sport** seat.
 

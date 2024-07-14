@@ -119,7 +119,7 @@ The Mercedes-EQ EQE 300 accommodates five passengers with two seats in the front
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the Mercedes-EQ EQE 300.
+For the front row, the Mercedes-EQ EQE 300 offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **standard** seat.
 

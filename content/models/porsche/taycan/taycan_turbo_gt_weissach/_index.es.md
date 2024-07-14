@@ -115,7 +115,7 @@ Hay tres opciones de techo diferentes para elegir. El estándar es simplemente u
 
 #### Asientos de primera fila
 
-Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Porsche Taycan Turbo GT Weissach.
+Para la primera fila, el Porsche Taycan Turbo GT Weissach ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **Lightweight bucket seat**.
 

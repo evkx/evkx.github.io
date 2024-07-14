@@ -115,7 +115,7 @@ Mercedes-EQ EQE 500 4MATIC SUV har plass til fem passasjerer med to seter foran 
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Mercedes-EQ EQE 500 4MATIC SUV.
+For første rad tilbyr Mercedes-EQ EQE 500 4MATIC SUV to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 

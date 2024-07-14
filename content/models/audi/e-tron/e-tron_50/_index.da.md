@@ -136,7 +136,7 @@ Audi e-tron 50 har plads til fem passagerer med to sæder foran og en tre-person
 
 #### Første række sæder
 
-Der er fem sædetyper, du kan vælge imellem til forreste række i Audi e-tron 50.
+For første række tilbyder Audi e-tron 50 fem forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

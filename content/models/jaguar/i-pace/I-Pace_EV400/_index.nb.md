@@ -112,7 +112,7 @@ Jaguar I-Pace EV400 har plass til fem passasjerer med to seter foran og en tre-s
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Jaguar I-Pace EV400.
+For første rad tilbyr Jaguar I-Pace EV400 to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **Performance** setet.
 

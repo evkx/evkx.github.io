@@ -117,7 +117,7 @@ BMW i4 M50 har plads til fem passagerer med to sæder foran og en tre-personers 
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i BMW i4 M50.
+For første række tilbyder BMW i4 M50 to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

@@ -115,7 +115,7 @@ Mercedes-EQ EQE 350+ SUV har plads til fem passagerer med to sæder foran og en 
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Mercedes-EQ EQE 350+ SUV.
+For første række tilbyder Mercedes-EQ EQE 350+ SUV to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

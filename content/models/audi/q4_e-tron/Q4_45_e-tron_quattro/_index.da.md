@@ -121,7 +121,7 @@ Audi Q4 45 e-tron quattro har plads til fem passagerer med to sæder foran og en
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Audi Q4 45 e-tron quattro.
+For første række tilbyder Audi Q4 45 e-tron quattro to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

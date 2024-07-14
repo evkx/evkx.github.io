@@ -121,7 +121,7 @@ Le BMW i5 eDrive40 Touring peut accueillir cinq passagers avec deux sièges à l
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi deux types de sièges pour la première rangée du BMW i5 eDrive40 Touring.
+Pour la première rangée, l'BMW i5 eDrive40 Touring propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 

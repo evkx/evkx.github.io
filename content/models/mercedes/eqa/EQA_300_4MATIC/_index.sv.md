@@ -108,7 +108,7 @@ Mercedes-EQ EQA 300 4MATIC rymmer fem passagerare med två säten fram och en tr
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Mercedes-EQ EQA 300 4MATIC.
+För första raden erbjuder Mercedes-EQ EQA 300 4MATIC två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

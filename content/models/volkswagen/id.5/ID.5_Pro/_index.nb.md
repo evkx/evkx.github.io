@@ -117,7 +117,7 @@ Volkswagen ID.5 Pro har plass til fem passasjerer med to seter foran og en tre-s
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Volkswagen ID.5 Pro.
+For første rad tilbyr Volkswagen ID.5 Pro to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 

@@ -117,7 +117,7 @@ The SKODA Enyaq iV80 accommodates five passengers with two seats in the front an
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the SKODA Enyaq iV80.
+For the front row, the SKODA Enyaq iV80 offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **standard** seat.
 

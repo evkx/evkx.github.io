@@ -115,7 +115,7 @@ Le Ford Capri Extended Range RWD peut accueillir cinq passagers avec deux siège
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi deux types de sièges pour la première rangée du Ford Capri Extended Range RWD.
+Pour la première rangée, l'Ford Capri Extended Range RWD propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 

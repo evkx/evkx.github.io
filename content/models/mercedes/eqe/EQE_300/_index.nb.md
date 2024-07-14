@@ -113,7 +113,7 @@ Mercedes-EQ EQE 300 har plass til fem passasjerer med to seter foran og en tre-s
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Mercedes-EQ EQE 300.
+For første rad tilbyr Mercedes-EQ EQE 300 to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 

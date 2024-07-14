@@ -111,7 +111,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the Volkswagen ID. Buzz GTX LWB.
+For the front row, the Volkswagen ID. Buzz GTX LWB offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **standard** seat.
 

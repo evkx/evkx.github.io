@@ -116,7 +116,7 @@ Ford Explorer Extended Range AWD har plads til fem passagerer med to sæder fora
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Ford Explorer Extended Range AWD.
+For første række tilbyder Ford Explorer Extended Range AWD to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **Sport** sædet.
 

@@ -111,7 +111,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Volkswagen ID. Buzz GTX LWB.
+For første række tilbyder Volkswagen ID. Buzz GTX LWB to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

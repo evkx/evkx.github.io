@@ -125,7 +125,7 @@ Audi SQ8 e-tron rymmer fem passagerare med två säten fram och en tre-sitsig b�
 
 #### Framsäten
 
-Det finns tre sätestyper du kan välja mellan för den främre raden av Audi SQ8 e-tron.
+För första raden erbjuder Audi SQ8 e-tron tre olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **s-line sport** sätet.
 

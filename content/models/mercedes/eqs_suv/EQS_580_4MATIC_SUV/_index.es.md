@@ -112,7 +112,7 @@ Además, el modelo ofrece una disposición tradicional de cinco asientos o una d
 
 #### Asientos de primera fila
 
-Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Mercedes-EQ EQS 580 4MATIC SUV.
+Para la primera fila, el Mercedes-EQ EQS 580 4MATIC SUV ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 

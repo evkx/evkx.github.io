@@ -138,7 +138,7 @@ The Audi Q6 e-tron quattro accommodates five passengers with two seats in the fr
 
 #### First row seats
 
-There are three seat types you can choose from for the front row in the Audi Q6 e-tron quattro.
+For the front row, the Audi Q6 e-tron quattro offers three different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **Normal** seat.
 

@@ -133,7 +133,7 @@ Audi e-tron S Sportback har plads til fem passagerer med to sæder foran og en t
 
 #### Første række sæder
 
-Der er tre sædetyper, du kan vælge imellem til forreste række i Audi e-tron S Sportback.
+For første række tilbyder Audi e-tron S Sportback tre forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **s-line sport** sædet.
 

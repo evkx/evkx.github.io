@@ -136,7 +136,7 @@ El Audi e-tron 55 Sportback tiene capacidad para cinco pasajeros con dos asiento
 
 #### Asientos de primera fila
 
-Hay cinco tipos de asientos entre los que puedes elegir para la primera fila en el Audi e-tron 55 Sportback.
+Para la primera fila, el Audi e-tron 55 Sportback ofrece cinco tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 

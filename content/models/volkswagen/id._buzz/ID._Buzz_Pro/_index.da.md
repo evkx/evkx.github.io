@@ -115,7 +115,7 @@ Volkswagen ID. Buzz Pro har plads til fem passagerer med to sæder foran og en t
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Volkswagen ID. Buzz Pro.
+For første række tilbyder Volkswagen ID. Buzz Pro to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

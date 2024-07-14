@@ -117,7 +117,7 @@ Denne modellen tilbyr en fire-seters layout eller en valgfri 4+1 layout.
 
 #### Forseter
 
-Det er tre setetyper du kan velge mellom for første rad i Porsche Taycan Turbo (GEN1).
+For første rad tilbyr Porsche Taycan Turbo (GEN1) tre forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **Comfort** setet.
 

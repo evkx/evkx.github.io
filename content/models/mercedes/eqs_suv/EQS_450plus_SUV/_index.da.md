@@ -112,7 +112,7 @@ Derudover tilbyder modellen et traditionelt fem-sædet layout eller et valgfrit 
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Mercedes-EQ EQS 450+ SUV.
+For første række tilbyder Mercedes-EQ EQS 450+ SUV to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

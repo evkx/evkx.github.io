@@ -113,7 +113,7 @@ Le BMW iX2 eDrive20 peut accueillir cinq passagers avec deux sièges à l'avant 
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi deux types de sièges pour la première rangée du BMW iX2 eDrive20.
+Pour la première rangée, l'BMW iX2 eDrive20 propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 

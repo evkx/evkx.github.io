@@ -121,7 +121,7 @@ El Audi Q4 45 e-tron tiene capacidad para cinco pasajeros con dos asientos delan
 
 #### Asientos de primera fila
 
-Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Audi Q4 45 e-tron.
+Para la primera fila, el Audi Q4 45 e-tron ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 

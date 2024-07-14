@@ -116,7 +116,7 @@ Citroën ë-C3 rymmer fem passagerare med två säten fram och en tre-sitsig bä
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Citroën ë-C3.
+För första raden erbjuder Citroën ë-C3 två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **Start** sätet.
 

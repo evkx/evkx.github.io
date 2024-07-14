@@ -138,7 +138,7 @@ Audi Q6 e-tron performance rymmer fem passagerare med två säten fram och en tr
 
 #### Framsäten
 
-Det finns tre sätestyper du kan välja mellan för den främre raden av Audi Q6 e-tron performance.
+För första raden erbjuder Audi Q6 e-tron performance tre olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **Normal** sätet.
 

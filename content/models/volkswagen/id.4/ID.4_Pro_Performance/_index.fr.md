@@ -117,7 +117,7 @@ Le Volkswagen ID.4 Pro Performance peut accueillir cinq passagers avec deux siè
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi deux types de sièges pour la première rangée du Volkswagen ID.4 Pro Performance.
+Pour la première rangée, l'Volkswagen ID.4 Pro Performance propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 

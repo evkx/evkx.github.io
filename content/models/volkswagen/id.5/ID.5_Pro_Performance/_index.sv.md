@@ -123,7 +123,7 @@ Volkswagen ID.5 Pro Performance rymmer fem passagerare med två säten fram och 
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Volkswagen ID.5 Pro Performance.
+För första raden erbjuder Volkswagen ID.5 Pro Performance två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

@@ -113,7 +113,7 @@ Mercedes-AMG EQE 53 4MATIC+ SUV rymmer fem passagerare med två säten fram och 
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Mercedes-AMG EQE 53 4MATIC+ SUV.
+För första raden erbjuder Mercedes-AMG EQE 53 4MATIC+ SUV två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

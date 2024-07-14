@@ -115,7 +115,7 @@ Il existe trois options de toit différentes à choisir. Le standard est juste u
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi deux types de sièges pour la première rangée du Porsche Taycan Turbo GT Weissach.
+Pour la première rangée, l'Porsche Taycan Turbo GT Weissach propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Lightweight bucket seat**.
 

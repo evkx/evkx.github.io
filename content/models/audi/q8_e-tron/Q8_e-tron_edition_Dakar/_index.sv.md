@@ -133,7 +133,7 @@ Audi Q8 e-tron edition Dakar rymmer fem passagerare med två säten fram och en 
 
 #### Framsäten
 
-Det finns fem sätestyper du kan välja mellan för den främre raden av Audi Q8 e-tron edition Dakar.
+För första raden erbjuder Audi Q8 e-tron edition Dakar fem olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

@@ -112,7 +112,7 @@ Mercedes-EQ EQA 250+ har plads til fem passagerer med to sæder foran og en tre-
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Mercedes-EQ EQA 250+.
+For første række tilbyder Mercedes-EQ EQA 250+ to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

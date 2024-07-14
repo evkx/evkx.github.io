@@ -123,7 +123,7 @@ Denne model tilbyder et layout med fire sæder eller et valgfrit 4+1 layout.
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Porsche Taycan Turbo S Cross Turismo (GEN1).
+For første række tilbyder Porsche Taycan Turbo S Cross Turismo (GEN1) to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **Comfortseats with memory** sædet.
 

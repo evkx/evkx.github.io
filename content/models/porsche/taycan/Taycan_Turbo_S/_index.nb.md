@@ -119,7 +119,7 @@ Denne modellen tilbyr en fire-seters layout eller en valgfri 4+1 layout.
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Porsche Taycan Turbo S.
+For første rad tilbyr Porsche Taycan Turbo S to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **Comfortseats with memory** setet.
 

@@ -64,11 +64,11 @@ Audi SQ6 e-tron dispose d'un système de transmission intégrale pris en charge 
 
 ### Suspension
 
-La suspension Standard est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 184 mm.
+La suspension Sport est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 164 mm.
 
-Vous pouvez commander Audi SQ6 e-tron avec une suspension alternative Sport. La suspension Sport est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 164 mm.
+Vous pouvez commander Audi SQ6 e-tron avec une suspension alternative Adaptive Air Suspension Sport. La suspension avant et la suspension arrière sont [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 185 mm et la garde au sol maximale est de 224 mm.
 
-Vous pouvez commander Audi SQ6 e-tron avec une suspension alternative Adaptive Air Suspension. La suspension avant et la suspension arrière sont [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 185 mm et la garde au sol maximale est de 224 mm.
+Pour faciliter le chargement, la suspension pneumatique peut être abaissée à l'aide des commandes dans le coffre.
 
 ### Pilotage
 
@@ -130,7 +130,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-
+L'Audi SQ6 e-tron présente un intérieur axé sur le conducteur qui améliore la sensation de cockpit, avec des matériaux de qualité supérieure dans toutes les zones importantes. De plus, il comprend une console centrale traditionnelle qui sépare le conducteur et le passager, offrant un rangement et une fonctionnalité pratiques.
 
 ### Sièges
 
@@ -138,12 +138,7 @@ Le Audi SQ6 e-tron peut accueillir cinq passagers avec deux sièges à l'avant e
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi trois types de sièges pour la première rangée du Audi SQ6 e-tron.
-
-Les fonctionnalités suivantes sont disponibles sur le siège **Normal**.
-
-- appui-tête réglable en hauteur
-- [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
+Pour la première rangée, l'Audi SQ6 e-tron propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 

@@ -133,7 +133,7 @@ El Audi Q8 e-tron edition Dakar tiene capacidad para cinco pasajeros con dos asi
 
 #### Asientos de primera fila
 
-Hay cinco tipos de asientos entre los que puedes elegir para la primera fila en el Audi Q8 e-tron edition Dakar.
+Para la primera fila, el Audi Q8 e-tron edition Dakar ofrece cinco tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 

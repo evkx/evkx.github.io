@@ -115,7 +115,7 @@ Ford Capri Extended Range RWD har plass til fem passasjerer med to seter foran o
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Ford Capri Extended Range RWD.
+For første rad tilbyr Ford Capri Extended Range RWD to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 

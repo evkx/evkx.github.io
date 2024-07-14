@@ -136,7 +136,7 @@ Audi e-tron 55 Sportback rymmer fem passagerare med två säten fram och en tre-
 
 #### Framsäten
 
-Det finns fem sätestyper du kan välja mellan för den främre raden av Audi e-tron 55 Sportback.
+För första raden erbjuder Audi e-tron 55 Sportback fem olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

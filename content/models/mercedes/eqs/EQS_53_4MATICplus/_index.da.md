@@ -116,7 +116,7 @@ Mercedes-AMG EQS 53 4MATIC+ har plads til fem passagerer med to sæder foran og 
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Mercedes-AMG EQS 53 4MATIC+.
+For første række tilbyder Mercedes-AMG EQS 53 4MATIC+ to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

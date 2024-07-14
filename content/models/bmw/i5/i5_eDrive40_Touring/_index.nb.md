@@ -121,7 +121,7 @@ BMW i5 eDrive40 Touring har plass til fem passasjerer med to seter foran og en t
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i BMW i5 eDrive40 Touring.
+For første rad tilbyr BMW i5 eDrive40 Touring to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 

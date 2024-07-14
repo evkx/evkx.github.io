@@ -112,7 +112,7 @@ Volkswagen ID.5 GTX 4MOTION har plass til fem passasjerer med to seter foran og 
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Volkswagen ID.5 GTX 4MOTION.
+For første rad tilbyr Volkswagen ID.5 GTX 4MOTION to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 

@@ -121,7 +121,7 @@ El BMW i5 eDrive40 Touring tiene capacidad para cinco pasajeros con dos asientos
 
 #### Asientos de primera fila
 
-Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el BMW i5 eDrive40 Touring.
+Para la primera fila, el BMW i5 eDrive40 Touring ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 

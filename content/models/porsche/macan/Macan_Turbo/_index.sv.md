@@ -115,7 +115,7 @@ Porsche Macan Turbo rymmer fem passagerare med två säten fram och en tre-sitsi
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Porsche Macan Turbo.
+För första raden erbjuder Porsche Macan Turbo två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **Comfortseats with memory** sätet.
 

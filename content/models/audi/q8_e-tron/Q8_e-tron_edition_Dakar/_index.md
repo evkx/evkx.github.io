@@ -139,7 +139,7 @@ The Audi Q8 e-tron edition Dakar accommodates five passengers with two seats in 
 
 #### First row seats
 
-There are five seat types you can choose from for the front row in the Audi Q8 e-tron edition Dakar.
+For the front row, the Audi Q8 e-tron edition Dakar offers five different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **standard** seat.
 

@@ -117,7 +117,7 @@ Le Audi Q4 Sportback 55 e-tron quattro peut accueillir cinq passagers avec deux 
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi deux types de sièges pour la première rangée du Audi Q4 Sportback 55 e-tron quattro.
+Pour la première rangée, l'Audi Q4 Sportback 55 e-tron quattro propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 

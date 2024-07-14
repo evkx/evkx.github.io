@@ -129,7 +129,7 @@ Denne model tilbyder et layout med fire sæder eller et valgfrit 4+1 layout.
 
 #### Første række sæder
 
-Der er tre sædetyper, du kan vælge imellem til forreste række i Porsche Taycan Sport Turismo.
+For første række tilbyder Porsche Taycan Sport Turismo tre forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **Comfort** sædet.
 

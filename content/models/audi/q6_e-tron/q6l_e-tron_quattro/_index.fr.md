@@ -134,7 +134,7 @@ Le Audi Q6L e-tron quattro peut accueillir cinq passagers avec deux sièges à l
 
 #### Sièges de première rangée
 
-Vous pouvez choisir parmi trois types de sièges pour la première rangée du Audi Q6L e-tron quattro.
+Pour la première rangée, l'Audi Q6L e-tron quattro propose trois types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Normal**.
 

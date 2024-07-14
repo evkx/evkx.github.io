@@ -117,7 +117,7 @@ Audi Q4 Sportback 55 e-tron quattro rymmer fem passagerare med två säten fram 
 
 #### Framsäten
 
-Det finns två sätestyper du kan välja mellan för den främre raden av Audi Q4 Sportback 55 e-tron quattro.
+För första raden erbjuder Audi Q4 Sportback 55 e-tron quattro två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

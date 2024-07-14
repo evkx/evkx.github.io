@@ -113,7 +113,7 @@ El Mercedes-EQ EQE 350+ tiene capacidad para cinco pasajeros con dos asientos de
 
 #### Asientos de primera fila
 
-Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Mercedes-EQ EQE 350+.
+Para la primera fila, el Mercedes-EQ EQE 350+ ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 

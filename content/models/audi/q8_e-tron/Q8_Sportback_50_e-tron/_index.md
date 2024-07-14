@@ -136,7 +136,7 @@ The Audi Q8 Sportback 50 e-tron accommodates five passengers with two seats in t
 
 #### First row seats
 
-There are five seat types you can choose from for the front row in the Audi Q8 Sportback 50 e-tron.
+For the front row, the Audi Q8 Sportback 50 e-tron offers five different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **standard** seat.
 

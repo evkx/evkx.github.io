@@ -129,7 +129,7 @@ Audi S e-tron GT har plads til fem passagerer med to sæder foran og en tre-pers
 
 #### Første række sæder
 
-Der er tre sædetyper, du kan vælge imellem til forreste række i Audi S e-tron GT.
+For første række tilbyder Audi S e-tron GT tre forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **sport** sædet.
 

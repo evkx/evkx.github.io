@@ -130,7 +130,7 @@ Audi Q8 50 e-tron har plass til fem passasjerer med to seter foran og en tre-set
 
 #### Forseter
 
-Det er fem setetyper du kan velge mellom for første rad i Audi Q8 50 e-tron.
+For første rad tilbyr Audi Q8 50 e-tron fem forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 

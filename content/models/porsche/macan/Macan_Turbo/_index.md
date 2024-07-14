@@ -124,7 +124,7 @@ The Porsche Macan Turbo accommodates five passengers with two seats in the front
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the Porsche Macan Turbo.
+For the front row, the Porsche Macan Turbo offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **Comfortseats with memory** seat.
 

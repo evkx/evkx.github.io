@@ -124,7 +124,7 @@ The Porsche Macan 4 accommodates five passengers with two seats in the front and
 
 #### First row seats
 
-There are three seat types you can choose from for the front row in the Porsche Macan 4.
+For the front row, the Porsche Macan 4 offers three different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **Comfortseats** seat.
 

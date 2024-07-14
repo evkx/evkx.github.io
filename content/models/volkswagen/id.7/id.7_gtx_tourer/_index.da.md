@@ -111,7 +111,7 @@ Volkswagen ID.7 GTX Tourer har plads til fem passagerer med to sæder foran og e
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Volkswagen ID.7 GTX Tourer.
+For første række tilbyder Volkswagen ID.7 GTX Tourer to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

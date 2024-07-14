@@ -116,7 +116,7 @@ The Fiat Grande Panda accommodates five passengers with two seats in the front a
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the Fiat Grande Panda.
+For the front row, the Fiat Grande Panda offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **Standard** seat.
 

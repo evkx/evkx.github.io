@@ -124,7 +124,7 @@ There are three different roof options to select from. The standard is just a re
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the Porsche Taycan Turbo GT Weissach.
+For the front row, the Porsche Taycan Turbo GT Weissach offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **Lightweight bucket seat** seat.
 

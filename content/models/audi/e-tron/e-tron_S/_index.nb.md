@@ -133,7 +133,7 @@ Audi e-tron S har plass til fem passasjerer med to seter foran og en tre-seters 
 
 #### Forseter
 
-Det er tre setetyper du kan velge mellom for første rad i Audi e-tron S.
+For første rad tilbyr Audi e-tron S tre forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **s-line sport** setet.
 

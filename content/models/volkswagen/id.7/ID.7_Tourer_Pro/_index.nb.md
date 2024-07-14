@@ -111,7 +111,7 @@ Volkswagen ID.7 Tourer Pro har plass til fem passasjerer med to seter foran og e
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Volkswagen ID.7 Tourer Pro.
+For første rad tilbyr Volkswagen ID.7 Tourer Pro to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 

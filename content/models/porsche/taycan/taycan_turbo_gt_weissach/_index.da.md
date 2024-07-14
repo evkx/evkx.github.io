@@ -115,7 +115,7 @@ Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et al
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Porsche Taycan Turbo GT Weissach.
+For første række tilbyder Porsche Taycan Turbo GT Weissach to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **Lightweight bucket seat** sædet.
 

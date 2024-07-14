@@ -115,7 +115,7 @@ Volkswagen ID.7 Pro S har plass til fem passasjerer med to seter foran og en tre
 
 #### Forseter
 
-Det er to setetyper du kan velge mellom for første rad i Volkswagen ID.7 Pro S.
+For første rad tilbyr Volkswagen ID.7 Pro S to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 

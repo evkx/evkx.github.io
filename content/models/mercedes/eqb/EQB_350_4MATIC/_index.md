@@ -111,7 +111,7 @@ In addition, the model offers a traditional five-seat layout or an optional seve
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the Mercedes-EQ EQB 350 4MATIC.
+For the front row, the Mercedes-EQ EQB 350 4MATIC offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **standard** seat.
 

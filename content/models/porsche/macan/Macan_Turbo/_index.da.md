@@ -115,7 +115,7 @@ Porsche Macan Turbo har plads til fem passagerer med to sæder foran og en tre-p
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Porsche Macan Turbo.
+For første række tilbyder Porsche Macan Turbo to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **Comfortseats with memory** sædet.
 

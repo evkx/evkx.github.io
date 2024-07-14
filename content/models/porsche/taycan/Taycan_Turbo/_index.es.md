@@ -117,7 +117,7 @@ Este modelo ofrece una disposición de cuatro asientos o una disposición opcion
 
 #### Asientos de primera fila
 
-Hay tres tipos de asientos entre los que puedes elegir para la primera fila en el Porsche Taycan Turbo.
+Para la primera fila, el Porsche Taycan Turbo ofrece tres tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
 
 Las siguientes funcionalidades están disponibles en el asiento **Comfort**.
 

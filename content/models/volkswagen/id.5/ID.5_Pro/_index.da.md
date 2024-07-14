@@ -117,7 +117,7 @@ Volkswagen ID.5 Pro har plads til fem passagerer med to sæder foran og en tre-p
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Volkswagen ID.5 Pro.
+For første række tilbyder Volkswagen ID.5 Pro to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

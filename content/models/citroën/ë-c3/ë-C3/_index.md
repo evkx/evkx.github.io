@@ -116,7 +116,7 @@ The Citroën ë-C3 accommodates five passengers with two seats in the front and 
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the Citroën ë-C3.
+For the front row, the Citroën ë-C3 offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **Start** seat.
 

@@ -117,7 +117,7 @@ Audi Q4 Sportback 35 e-tron har plads til fem passagerer med to sæder foran og 
 
 #### Første række sæder
 
-Der er to sædetyper, du kan vælge imellem til forreste række i Audi Q4 Sportback 35 e-tron.
+For første række tilbyder Audi Q4 Sportback 35 e-tron to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

@@ -115,7 +115,7 @@ The Mercedes-EQ G 580 EQ accommodates five passengers with two seats in the fron
 
 #### First row seats
 
-There are two seat types you can choose from for the front row in the Mercedes-EQ G 580 EQ.
+For the front row, the Mercedes-EQ G 580 EQ offers two different seat types to choose from, catering to a range of comfort and style preferences.
 
 The following functionalities are available on the **standard** seat.
 
