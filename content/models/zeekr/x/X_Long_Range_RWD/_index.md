@@ -106,7 +106,7 @@ The following functionalities are available on the **** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 You can choose from 1 different materials/colors for this seat type.
-- White & Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- White/Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 
 

@@ -118,7 +118,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-- Grey [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
+- Gray [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
 
 
 

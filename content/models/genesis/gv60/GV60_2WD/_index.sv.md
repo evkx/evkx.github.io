@@ -118,10 +118,10 @@ Följande funktioner är tillgängliga på **** sätet.
 Du kan välja mellan 6 olika material/färger för denna sitstyp.
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 - Black [läderklädsel](../../../../technology/seats/materials/#leather)
-- Black & White [läderklädsel](../../../../technology/seats/materials/#leather)
-- Grey [läderklädsel](../../../../technology/seats/materials/#leather)
-- Grey [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
-- Grey [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
+- Black/White [läderklädsel](../../../../technology/seats/materials/#leather)
+- Gray [läderklädsel](../../../../technology/seats/materials/#leather)
+- Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
+- Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
 
 

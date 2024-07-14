@@ -121,20 +121,20 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 15 different materials/colors for this seat type.
 - Black/Burgundy [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Mokka [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Mocha [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Cognac [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Amarone [leather upholstering](../../../../technology/seats/materials/#leather)
+- Burgundy [leather upholstering](../../../../technology/seats/materials/#leather)
 - Smoke [leather upholstering](../../../../technology/seats/materials/#leather)
 - Mocha [leather upholstering](../../../../technology/seats/materials/#leather)
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
-- Tartufo [leather upholstering](../../../../technology/seats/materials/#leather)
-- Smoke White/Light gr [wool/leather upholstering](../../../../technology/seats/materials/#wool)
-- Caramel/Atlas Grey [leather upholstering](../../../../technology/seats/materials/#leather)
-- Taupegrau/Nachtblau [leather upholstering](../../../../technology/seats/materials/#leather)
-- Black/Grey [wool/leather upholstering](../../../../technology/seats/materials/#wool)
-- Tartufo [leather upholstering](../../../../technology/seats/materials/#leather)
-- Smoke White [leather upholstering](../../../../technology/seats/materials/#leather)
+- Truffle [leather upholstering](../../../../technology/seats/materials/#leather)
+- Smoke/Gray [wool/leather upholstering](../../../../technology/seats/materials/#wool)
+- Caramel/Gray [leather upholstering](../../../../technology/seats/materials/#leather)
+- Gray/Blue [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black/Gray [wool/leather upholstering](../../../../technology/seats/materials/#wool)
+- Truffle [leather upholstering](../../../../technology/seats/materials/#leather)
+- Smoke [leather upholstering](../../../../technology/seats/materials/#leather)
 
 
 

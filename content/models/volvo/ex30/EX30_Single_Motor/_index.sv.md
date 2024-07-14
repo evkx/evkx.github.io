@@ -110,7 +110,7 @@ Följande funktioner är tillgängliga på **** sätet.
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - White [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
-- Grey [ullklädsel](../../../../technology/seats/materials/#wool)
+- Gray [ullklädsel](../../../../technology/seats/materials/#wool)
 - Brown [ull/läderklädsel](../../../../technology/seats/materials/#wool)
 - Blue [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 

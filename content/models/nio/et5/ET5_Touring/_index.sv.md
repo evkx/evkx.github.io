@@ -142,7 +142,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Brown [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Grey [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 
 

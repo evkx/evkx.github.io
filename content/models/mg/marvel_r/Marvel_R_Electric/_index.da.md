@@ -106,7 +106,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
-- Grey [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
+- Gray [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 - Beige [Alcantara/læderbetræk](../../../../technology/seats/materials/#alcantara)
 
 

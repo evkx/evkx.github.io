@@ -121,9 +121,9 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Red/Black [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
-- Antracite/Grey [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
-- Grey/Yellow [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-- Antracite/Grey [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
+- Antracite/Gray [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
+- Gray/Yellow [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Antracite/Gray [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
 - Red/Black [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
 
 

@@ -122,10 +122,10 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Green [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- BlackAndWhite [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Black/White [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 - Green [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-- BlackAndWhite [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Black/White [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
 
 

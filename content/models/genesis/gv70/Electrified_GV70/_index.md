@@ -122,10 +122,10 @@ The following functionalities are available on the **** seat.
 You can choose from 6 different materials/colors for this seat type.
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
 - Green [leather upholstering](../../../../technology/seats/materials/#leather)
-- BlackAndWhite [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black/White [leather upholstering](../../../../technology/seats/materials/#leather)
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Green [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
-- BlackAndWhite [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Black/White [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
 
 

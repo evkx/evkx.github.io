@@ -121,20 +121,20 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 Vous pouvez choisir parmi 15 différents matériaux/couleurs pour ce type de siège.
 - Black/Burgundy [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-- Mokka [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Mocha [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Cognac [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-- Amarone [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Burgundy [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Smoke [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Mocha [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
-- Tartufo [revêtement en cuir](../../../../technology/seats/materials/#leather)
-- Smoke White/Light gr [revêtement en laine/cuir](../../../../technology/seats/materials/#wool)
-- Caramel/Atlas Grey [revêtement en cuir](../../../../technology/seats/materials/#leather)
-- Taupegrau/Nachtblau [revêtement en cuir](../../../../technology/seats/materials/#leather)
-- Black/Grey [revêtement en laine/cuir](../../../../technology/seats/materials/#wool)
-- Tartufo [revêtement en cuir](../../../../technology/seats/materials/#leather)
-- Smoke White [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Truffle [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Smoke/Gray [revêtement en laine/cuir](../../../../technology/seats/materials/#wool)
+- Caramel/Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Gray/Blue [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Black/Gray [revêtement en laine/cuir](../../../../technology/seats/materials/#wool)
+- Truffle [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Smoke [revêtement en cuir](../../../../technology/seats/materials/#leather)
 
 
 

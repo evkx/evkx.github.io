@@ -121,20 +121,20 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 Du kan vælge mellem 15 forskellige materialer/farver til denne sædetype.
 - Black/Burgundy [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- Mokka [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Mocha [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Cognac [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- Amarone [læderpolstring](../../../../technology/seats/materials/#leather)
+- Burgundy [læderpolstring](../../../../technology/seats/materials/#leather)
 - Smoke [læderpolstring](../../../../technology/seats/materials/#leather)
 - Mocha [læderpolstring](../../../../technology/seats/materials/#leather)
 - Black [læderpolstring](../../../../technology/seats/materials/#leather)
-- Tartufo [læderpolstring](../../../../technology/seats/materials/#leather)
-- Smoke White/Light gr [uld/læderpolstring](../../../../technology/seats/materials/#wool)
-- Caramel/Atlas Grey [læderpolstring](../../../../technology/seats/materials/#leather)
-- Taupegrau/Nachtblau [læderpolstring](../../../../technology/seats/materials/#leather)
-- Black/Grey [uld/læderpolstring](../../../../technology/seats/materials/#wool)
-- Tartufo [læderpolstring](../../../../technology/seats/materials/#leather)
-- Smoke White [læderpolstring](../../../../technology/seats/materials/#leather)
+- Truffle [læderpolstring](../../../../technology/seats/materials/#leather)
+- Smoke/Gray [uld/læderpolstring](../../../../technology/seats/materials/#wool)
+- Caramel/Gray [læderpolstring](../../../../technology/seats/materials/#leather)
+- Gray/Blue [læderpolstring](../../../../technology/seats/materials/#leather)
+- Black/Gray [uld/læderpolstring](../../../../technology/seats/materials/#wool)
+- Truffle [læderpolstring](../../../../technology/seats/materials/#leather)
+- Smoke [læderpolstring](../../../../technology/seats/materials/#leather)
 
 
 

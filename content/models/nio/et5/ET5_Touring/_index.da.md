@@ -142,7 +142,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Brown [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- Grey [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Gray [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 
 

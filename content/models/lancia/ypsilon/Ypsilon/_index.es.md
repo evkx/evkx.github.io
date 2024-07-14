@@ -115,7 +115,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-- Grey [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Gray [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 - Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
 

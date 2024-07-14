@@ -121,7 +121,7 @@ The following functionalities are available on the **standard** seat.
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
 You can choose from 2 different materials/colors for this seat type.
-- Grey [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - White [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
 

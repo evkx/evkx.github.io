@@ -140,7 +140,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Brown [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Grey [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Gray [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 
 

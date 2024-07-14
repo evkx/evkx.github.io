@@ -121,7 +121,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
-- Grey [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Gray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 

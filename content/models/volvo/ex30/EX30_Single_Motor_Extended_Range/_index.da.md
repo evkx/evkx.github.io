@@ -110,7 +110,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 - White [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
-- Grey [uldpolstring](../../../../technology/seats/materials/#wool)
+- Gray [uldpolstring](../../../../technology/seats/materials/#wool)
 - Brown [uld/læderbetræk](../../../../technology/seats/materials/#wool)
 - Blue [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 

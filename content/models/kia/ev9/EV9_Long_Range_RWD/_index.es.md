@@ -119,10 +119,10 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 - Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 - Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Black & White [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Grey [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Grey [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
-- Grey [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
+- Black/White [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
+- Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
 
 

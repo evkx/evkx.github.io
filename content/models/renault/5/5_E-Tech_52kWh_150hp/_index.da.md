@@ -113,7 +113,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-- Grey [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
+- Gray [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 
 
 

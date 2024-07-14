@@ -121,20 +121,20 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 15 olika material/färger för denna sitstyp.
 - Black/Burgundy [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Mokka [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Mocha [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Cognac [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Amarone [läderklädsel](../../../../technology/seats/materials/#leather)
+- Burgundy [läderklädsel](../../../../technology/seats/materials/#leather)
 - Smoke [läderklädsel](../../../../technology/seats/materials/#leather)
 - Mocha [läderklädsel](../../../../technology/seats/materials/#leather)
 - Black [läderklädsel](../../../../technology/seats/materials/#leather)
-- Tartufo [läderklädsel](../../../../technology/seats/materials/#leather)
-- Smoke White/Light gr [ull/läderklädsel](../../../../technology/seats/materials/#wool)
-- Caramel/Atlas Grey [läderklädsel](../../../../technology/seats/materials/#leather)
-- Taupegrau/Nachtblau [läderklädsel](../../../../technology/seats/materials/#leather)
-- Black/Grey [ull/läderklädsel](../../../../technology/seats/materials/#wool)
-- Tartufo [läderklädsel](../../../../technology/seats/materials/#leather)
-- Smoke White [läderklädsel](../../../../technology/seats/materials/#leather)
+- Truffle [läderklädsel](../../../../technology/seats/materials/#leather)
+- Smoke/Gray [ull/läderklädsel](../../../../technology/seats/materials/#wool)
+- Caramel/Gray [läderklädsel](../../../../technology/seats/materials/#leather)
+- Gray/Blue [läderklädsel](../../../../technology/seats/materials/#leather)
+- Black/Gray [ull/läderklädsel](../../../../technology/seats/materials/#wool)
+- Truffle [läderklädsel](../../../../technology/seats/materials/#leather)
+- Smoke [läderklädsel](../../../../technology/seats/materials/#leather)
 
 
 

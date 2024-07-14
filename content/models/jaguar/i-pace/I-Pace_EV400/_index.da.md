@@ -124,7 +124,7 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 - Black [læderpolstring](../../../../technology/seats/materials/#leather)
 - Beige [læderpolstring](../../../../technology/seats/materials/#leather)
 - Red [læderpolstring](../../../../technology/seats/materials/#leather)
-- Grey [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -146,7 +146,7 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 - Black [læderpolstring](../../../../technology/seats/materials/#leather)
 - Beige [læderpolstring](../../../../technology/seats/materials/#leather)
 - Red [læderpolstring](../../../../technology/seats/materials/#leather)
-- Grey [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
 
 
 

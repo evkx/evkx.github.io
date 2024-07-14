@@ -114,7 +114,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Grey [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
+- Gray [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
 

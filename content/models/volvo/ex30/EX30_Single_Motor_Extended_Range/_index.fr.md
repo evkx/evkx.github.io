@@ -110,7 +110,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 - White [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
-- Grey [revêtement en laine](../../../../technology/seats/materials/#wool)
+- Gray [revêtement en laine](../../../../technology/seats/materials/#wool)
 - Brown [revêtement en laine/similicuir](../../../../technology/seats/materials/#wool)
 - Blue [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
 

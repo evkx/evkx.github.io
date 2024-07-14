@@ -115,9 +115,9 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 4 different materials/colors for this seat type.
 - White [fabric upholstering](../../../../technology/seats/materials/#fabric)
-- Grey [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
-- Grey [wool upholstering](../../../../technology/seats/materials/#wool)
+- Gray [wool upholstering](../../../../technology/seats/materials/#wool)
 
 
 

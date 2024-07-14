@@ -120,9 +120,9 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siège.
 - Black [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-- Grey [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
-- Grey [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-- Grey [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
+- Gray [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
+- Gray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 - Green [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 

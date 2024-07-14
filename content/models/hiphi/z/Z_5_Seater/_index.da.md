@@ -121,7 +121,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
-- Grey [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - White [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 

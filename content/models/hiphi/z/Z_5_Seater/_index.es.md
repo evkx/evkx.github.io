@@ -121,7 +121,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
-- Grey [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
+- Gray [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 - White [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
 

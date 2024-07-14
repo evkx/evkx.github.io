@@ -117,8 +117,8 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Grey [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Grey [skinntrekk](../../../../technology/seats/materials/#leather)
+- Gray [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Gray [skinntrekk](../../../../technology/seats/materials/#leather)
 
 
 

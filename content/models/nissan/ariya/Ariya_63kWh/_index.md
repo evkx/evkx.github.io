@@ -119,9 +119,9 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 5 different materials/colors for this seat type.
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
-- Grey [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
+- Gray [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Black [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
-- Grey [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+- Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 
 

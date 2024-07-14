@@ -115,9 +115,9 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 - White [revêtement en tissu](../../../../technology/seats/materials/#fabric)
-- Grey [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Gray [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
-- Grey [revêtement en laine](../../../../technology/seats/materials/#wool)
+- Gray [revêtement en laine](../../../../technology/seats/materials/#wool)
 
 
 

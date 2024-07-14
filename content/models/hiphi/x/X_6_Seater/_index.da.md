@@ -121,7 +121,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
-- Grey [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Gray [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 

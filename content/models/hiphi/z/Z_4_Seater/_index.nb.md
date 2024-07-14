@@ -121,7 +121,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
-- Grey [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Gray [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 - White [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 

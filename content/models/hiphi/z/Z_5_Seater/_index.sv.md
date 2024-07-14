@@ -121,7 +121,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
-- Grey [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
+- Gray [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - White [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
 

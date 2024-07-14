@@ -124,7 +124,7 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leather)
 - Beige [läderklädsel](../../../../technology/seats/materials/#leather)
 - Red [läderklädsel](../../../../technology/seats/materials/#leather)
-- Grey [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Gray [tygklädsel](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -146,7 +146,7 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leather)
 - Beige [läderklädsel](../../../../technology/seats/materials/#leather)
 - Red [läderklädsel](../../../../technology/seats/materials/#leather)
-- Grey [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Gray [tygklädsel](../../../../technology/seats/materials/#fabric)
 
 
 

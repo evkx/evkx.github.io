@@ -124,7 +124,7 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 - Black [skinntrekk](../../../../technology/seats/materials/#leather)
 - Beige [skinntrekk](../../../../technology/seats/materials/#leather)
 - Red [skinntrekk](../../../../technology/seats/materials/#leather)
-- Grey [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Gray [stoffpolstring](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -146,7 +146,7 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 - Black [skinntrekk](../../../../technology/seats/materials/#leather)
 - Beige [skinntrekk](../../../../technology/seats/materials/#leather)
 - Red [skinntrekk](../../../../technology/seats/materials/#leather)
-- Grey [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Gray [stoffpolstring](../../../../technology/seats/materials/#fabric)
 
 
 

@@ -110,7 +110,7 @@ The following functionalities are available on the **** seat.
 
 You can choose from 4 different materials/colors for this seat type.
 - White [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
-- Grey [wool upholstering](../../../../technology/seats/materials/#wool)
+- Gray [wool upholstering](../../../../technology/seats/materials/#wool)
 - Brown [wool/leatherette upholstering](../../../../technology/seats/materials/#wool)
 - Blue [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 

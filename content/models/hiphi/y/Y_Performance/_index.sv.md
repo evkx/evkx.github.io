@@ -119,7 +119,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
-- Grey [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 

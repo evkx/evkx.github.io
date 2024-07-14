@@ -118,7 +118,7 @@ Följande funktioner är tillgängliga på **Standard** sätet.
 
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
-- black [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -127,7 +127,7 @@ Följande funktioner är tillgängliga på **Advanced Comfort** sätet.
 - höjdjusterbart nackstöd
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
-- black/grey [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
 
 

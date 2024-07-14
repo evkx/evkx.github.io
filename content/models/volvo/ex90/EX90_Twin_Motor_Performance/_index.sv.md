@@ -115,9 +115,9 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - White [tygklädsel](../../../../technology/seats/materials/#fabric)
-- Grey [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Gray [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
-- Grey [ullklädsel](../../../../technology/seats/materials/#wool)
+- Gray [ullklädsel](../../../../technology/seats/materials/#wool)
 
 
 

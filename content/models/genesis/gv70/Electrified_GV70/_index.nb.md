@@ -122,10 +122,10 @@ Følgende funksjoner er tilgjengelige på **** setet.
 Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 - Black [skinntrekk](../../../../technology/seats/materials/#leather)
 - Green [skinntrekk](../../../../technology/seats/materials/#leather)
-- BlackAndWhite [skinntrekk](../../../../technology/seats/materials/#leather)
+- Black/White [skinntrekk](../../../../technology/seats/materials/#leather)
 - Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 - Green [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
-- BlackAndWhite [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
+- Black/White [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 
 

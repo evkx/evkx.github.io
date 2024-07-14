@@ -117,7 +117,7 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-- Grey [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
+- Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 
 

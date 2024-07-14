@@ -108,7 +108,7 @@ Följande funktioner är tillgängliga på **** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
-- White & Blue [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- White/Blue [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 
 

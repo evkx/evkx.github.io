@@ -112,7 +112,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-- White & Blue [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- White/Blue [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 
 

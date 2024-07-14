@@ -121,20 +121,20 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 Du kan velge mellom 15 forskjellige materialer/farger for denne setetypen.
 - Black/Burgundy [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Mokka [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Mocha [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Cognac [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Amarone [skinntrekk](../../../../technology/seats/materials/#leather)
+- Burgundy [skinntrekk](../../../../technology/seats/materials/#leather)
 - Smoke [skinntrekk](../../../../technology/seats/materials/#leather)
 - Mocha [skinntrekk](../../../../technology/seats/materials/#leather)
 - Black [skinntrekk](../../../../technology/seats/materials/#leather)
-- Tartufo [skinntrekk](../../../../technology/seats/materials/#leather)
-- Smoke White/Light gr [ull/skinntrekk](../../../../technology/seats/materials/#wool)
-- Caramel/Atlas Grey [skinntrekk](../../../../technology/seats/materials/#leather)
-- Taupegrau/Nachtblau [skinntrekk](../../../../technology/seats/materials/#leather)
-- Black/Grey [ull/skinntrekk](../../../../technology/seats/materials/#wool)
-- Tartufo [skinntrekk](../../../../technology/seats/materials/#leather)
-- Smoke White [skinntrekk](../../../../technology/seats/materials/#leather)
+- Truffle [skinntrekk](../../../../technology/seats/materials/#leather)
+- Smoke/Gray [ull/skinntrekk](../../../../technology/seats/materials/#wool)
+- Caramel/Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Gray/Blue [skinntrekk](../../../../technology/seats/materials/#leather)
+- Black/Gray [ull/skinntrekk](../../../../technology/seats/materials/#wool)
+- Truffle [skinntrekk](../../../../technology/seats/materials/#leather)
+- Smoke [skinntrekk](../../../../technology/seats/materials/#leather)
 
 
 

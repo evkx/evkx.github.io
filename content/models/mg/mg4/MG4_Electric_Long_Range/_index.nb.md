@@ -108,7 +108,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Grey [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
+- Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
 
 

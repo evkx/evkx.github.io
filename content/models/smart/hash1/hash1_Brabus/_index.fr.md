@@ -108,7 +108,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-- White & Blue [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- White/Blue [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 
 

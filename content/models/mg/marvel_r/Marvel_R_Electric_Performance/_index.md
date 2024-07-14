@@ -106,7 +106,7 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 3 different materials/colors for this seat type.
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
-- Grey [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
+- Gray [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Beige [Alcantara/leatherette upholstering](../../../../technology/seats/materials/#alcantara)
 
 

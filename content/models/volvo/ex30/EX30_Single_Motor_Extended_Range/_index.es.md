@@ -110,7 +110,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - White [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
-- Grey [tapicería de lana](../../../../technology/seats/materials/#wool)
+- Gray [tapicería de lana](../../../../technology/seats/materials/#wool)
 - Brown [tapicería de lana/piel sintética](../../../../technology/asientos/materiales/#lana)
 - Blue [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 

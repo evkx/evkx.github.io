@@ -121,7 +121,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
-- Grey [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Gray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 

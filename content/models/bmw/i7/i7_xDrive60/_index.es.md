@@ -121,20 +121,20 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 15 diferentes materiales/colores para este tipo de asiento.
 - Black/Burgundy [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-- Mokka [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Mocha [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Cognac [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-- Amarone [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Burgundy [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Smoke [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Mocha [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Tartufo [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Smoke White/Light gr [tapicería de lana/cuero](../../../../technology/asientos/materiales/#lana)
-- Caramel/Atlas Grey [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Taupegrau/Nachtblau [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Black/Grey [tapicería de lana/cuero](../../../../technology/asientos/materiales/#lana)
-- Tartufo [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Smoke White [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Truffle [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Smoke/Gray [tapicería de lana/cuero](../../../../technology/asientos/materiales/#lana)
+- Caramel/Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Gray/Blue [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Black/Gray [tapicería de lana/cuero](../../../../technology/asientos/materiales/#lana)
+- Truffle [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Smoke [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
 
 

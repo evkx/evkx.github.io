@@ -122,10 +122,10 @@ Følgende funktioner er tilgængelige på **** sædet.
 Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 - Black [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 - Black [læderpolstring](../../../../technology/seats/materials/#leather)
-- Black & White [læderpolstring](../../../../technology/seats/materials/#leather)
-- Grey [læderpolstring](../../../../technology/seats/materials/#leather)
-- Grey [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
-- Grey [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
+- Black/White [læderpolstring](../../../../technology/seats/materials/#leather)
+- Gray [læderpolstring](../../../../technology/seats/materials/#leather)
+- Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
+- Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
 
 

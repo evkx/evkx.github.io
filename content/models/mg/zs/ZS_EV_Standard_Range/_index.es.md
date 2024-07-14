@@ -113,7 +113,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
-- Grey [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
+- Gray [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 
 
 

@@ -122,10 +122,10 @@ Följande funktioner är tillgängliga på **** sätet.
 Du kan välja mellan 6 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leather)
 - Green [läderklädsel](../../../../technology/seats/materials/#leather)
-- BlackAndWhite [läderklädsel](../../../../technology/seats/materials/#leather)
+- Black/White [läderklädsel](../../../../technology/seats/materials/#leather)
 - Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Green [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-- BlackAndWhite [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
+- Black/White [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
 
 

@@ -118,7 +118,7 @@ The following functionalities are available on the **Standard** seat.
 
 
 You can choose from 1 different materials/colors for this seat type.
-- black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -127,7 +127,7 @@ The following functionalities are available on the **Advanced Comfort** seat.
 - height adjustable headrest
 
 You can choose from 1 different materials/colors for this seat type.
-- black/grey [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 
 

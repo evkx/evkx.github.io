@@ -118,7 +118,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-- black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -127,7 +127,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Advanced Comfort
 - appui-tête réglable en hauteur
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-- black/grey [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
 
 
@@ -144,7 +144,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Standard**.
 - appui-tête réglable en hauteur
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-- black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -153,7 +153,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Advanced Comfort
 - appui-tête réglable en hauteur
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-- black/grey [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
 
 

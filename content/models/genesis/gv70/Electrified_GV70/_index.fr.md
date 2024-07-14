@@ -122,10 +122,10 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siège.
 - Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Green [revêtement en cuir](../../../../technology/seats/materials/#leather)
-- BlackAndWhite [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Black/White [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 - Green [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-- BlackAndWhite [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
+- Black/White [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 
 

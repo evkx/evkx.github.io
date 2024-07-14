@@ -121,9 +121,9 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
 - Red/Black [revêtement en microfibre/cuir nappa](../../../../technology/seats/materials/#nappaleather)
-- Antracite/Grey [revêtement en microfibre/cuir nappa](../../../../technology/seats/materials/#nappaleather)
-- Grey/Yellow [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-- Antracite/Grey [revêtement en microfibre/cuir nappa](../../../../technology/seats/materials/#nappaleather)
+- Antracite/Gray [revêtement en microfibre/cuir nappa](../../../../technology/seats/materials/#nappaleather)
+- Gray/Yellow [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Antracite/Gray [revêtement en microfibre/cuir nappa](../../../../technology/seats/materials/#nappaleather)
 - Red/Black [revêtement en microfibre/cuir nappa](../../../../technology/seats/materials/#nappaleather)
 
 

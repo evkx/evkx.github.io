@@ -106,7 +106,7 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-- White & Blue [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- White/Blue [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 
 

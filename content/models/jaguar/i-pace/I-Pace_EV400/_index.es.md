@@ -124,7 +124,7 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Beige [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Red [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Grey [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -146,7 +146,7 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Beige [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Red [tapicería de cuero](../../../../technology/seats/materials/#leather)
-- Grey [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
 
 
 

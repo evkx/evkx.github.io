@@ -121,7 +121,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
-- Grey [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Gray [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 

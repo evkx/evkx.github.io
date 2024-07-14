@@ -120,9 +120,9 @@ Följande funktioner är tillgängliga på **standard** sätet.
 Du kan välja mellan 6 olika material/färger för denna sitstyp.
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Grey [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
-- Grey [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Grey [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
+- Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
+- Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 - Green [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 

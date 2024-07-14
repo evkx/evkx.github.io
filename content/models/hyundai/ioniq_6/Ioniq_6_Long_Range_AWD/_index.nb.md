@@ -117,7 +117,7 @@ Følgende funksjoner er tilgjengelige på **** setet.
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Grey [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Gray [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 
 

@@ -122,9 +122,9 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 - Red/Black [polstring af mikrofiber/nappalæder](../../../../technology/seats/materials/#nappalæder)
-- Antracite/Grey [polstring af mikrofiber/nappalæder](../../../../technology/seats/materials/#nappalæder)
-- Grey/Yellow [læderbetræk](../../../../technology/seats/materials/#leatherette)
-- Antracite/Grey [polstring af mikrofiber/nappalæder](../../../../technology/seats/materials/#nappalæder)
+- Antracite/Gray [polstring af mikrofiber/nappalæder](../../../../technology/seats/materials/#nappalæder)
+- Gray/Yellow [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Antracite/Gray [polstring af mikrofiber/nappalæder](../../../../technology/seats/materials/#nappalæder)
 - Red/Black [polstring af mikrofiber/nappalæder](../../../../technology/seats/materials/#nappalæder)
 
 

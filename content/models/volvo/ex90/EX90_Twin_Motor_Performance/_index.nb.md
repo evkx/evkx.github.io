@@ -115,9 +115,9 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 - White [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Grey [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Gray [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
-- Grey [ullpolstring](../../../../technology/seats/materials/#wool)
+- Gray [ullpolstring](../../../../technology/seats/materials/#wool)
 
 
 

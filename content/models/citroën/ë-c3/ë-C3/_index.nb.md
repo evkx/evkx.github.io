@@ -122,7 +122,7 @@ Følgende funksjoner er tilgjengelige på **Advanced Comfort** setet.
 - høydejusterbar hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-- black/grey [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 
 
@@ -139,7 +139,7 @@ Følgende funksjoner er tilgjengelige på **Standard** setet.
 - høydejusterbar hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-- black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -148,7 +148,7 @@ Følgende funksjoner er tilgjengelige på **Advanced Comfort** setet.
 - høydejusterbar hodestøtte
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-- black/grey [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 
 

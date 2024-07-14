@@ -114,7 +114,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Standard**.
 
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-- black [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -123,7 +123,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfo
 - reposacabezas ajustable en altura
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-- black/grey [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
 
 
@@ -139,7 +139,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfo
 
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-- black/grey [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
 
 

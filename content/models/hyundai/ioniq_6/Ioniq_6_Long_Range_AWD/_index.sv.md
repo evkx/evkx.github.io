@@ -117,7 +117,7 @@ Följande funktioner är tillgängliga på **** sätet.
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
-- Grey [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 
 

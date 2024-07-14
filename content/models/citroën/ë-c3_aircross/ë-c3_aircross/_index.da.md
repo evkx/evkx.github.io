@@ -118,7 +118,7 @@ Følgende funktioner er tilgængelige på **Standard** sædet.
 
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-- black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -127,7 +127,7 @@ Følgende funktioner er tilgængelige på **Advanced Comfort** sædet.
 - højdejusterbar nakkestøtte
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-- black/grey [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
 
 
@@ -144,7 +144,7 @@ Følgende funktioner er tilgængelige på **Standard** sædet.
 - højdejusterbar nakkestøtte
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-- black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -153,7 +153,7 @@ Følgende funktioner er tilgængelige på **Advanced Comfort** sædet.
 - højdejusterbar nakkestøtte
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-- black/grey [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
+- Black/Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
 
 

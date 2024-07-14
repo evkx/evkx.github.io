@@ -117,7 +117,7 @@ Följande funktioner är tillgängliga på **** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
-- Grey [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
+- Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
 
 

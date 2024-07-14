@@ -121,9 +121,9 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 5 different materials/colors for this seat type.
 - Red/Black [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
-- Antracite/Grey [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
-- Grey/Yellow [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Antracite/Grey [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
+- Antracite/Gray [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
+- Gray/Yellow [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Antracite/Gray [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
 - Red/Black [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
 
 

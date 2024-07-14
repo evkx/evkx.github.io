@@ -115,8 +115,8 @@ You can choose from 5 different materials/colors for this seat type.
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
-- Grey [fabric upholstering](../../../../technology/seats/materials/#fabric)
-- Grey [leather upholstering](../../../../technology/seats/materials/#leather)
+- Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Gray [leather upholstering](../../../../technology/seats/materials/#leather)
 
 
 

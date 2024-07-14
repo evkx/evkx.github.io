@@ -119,10 +119,10 @@ Følgende funksjoner er tilgjengelige på **** setet.
 Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 - Black [skinntrekk](../../../../technology/seats/materials/#leather)
-- Black & White [skinntrekk](../../../../technology/seats/materials/#leather)
-- Grey [skinntrekk](../../../../technology/seats/materials/#leather)
-- Grey [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
-- Grey [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
+- Black/White [skinntrekk](../../../../technology/seats/materials/#leather)
+- Gray [skinntrekk](../../../../technology/seats/materials/#leather)
+- Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
+- Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 
 

@@ -122,7 +122,7 @@ The following functionalities are available on the **standard** seat.
 You can choose from 4 different materials/colors for this seat type.
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-- Grey [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
+- Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
 

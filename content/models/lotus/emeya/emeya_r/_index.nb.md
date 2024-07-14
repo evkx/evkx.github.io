@@ -121,9 +121,9 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Red/Black [polstring av mikrofiber/nappaskinn](../../../../technology/seats/materials/#nappaleather)
-- Antracite/Grey [polstring av mikrofiber/nappaskinn](../../../../technology/seats/materials/#nappaleather)
-- Grey/Yellow [lærpolstring](../../../../technology/seats/materials/#leatherette)
-- Antracite/Grey [polstring av mikrofiber/nappaskinn](../../../../technology/seats/materials/#nappaleather)
+- Antracite/Gray [polstring av mikrofiber/nappaskinn](../../../../technology/seats/materials/#nappaleather)
+- Gray/Yellow [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Antracite/Gray [polstring av mikrofiber/nappaskinn](../../../../technology/seats/materials/#nappaleather)
 - Red/Black [polstring av mikrofiber/nappaskinn](../../../../technology/seats/materials/#nappaleather)
 
 

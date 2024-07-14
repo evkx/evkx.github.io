@@ -124,7 +124,7 @@ You can choose from 6 different materials/colors for this seat type.
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
 - Beige [leather upholstering](../../../../technology/seats/materials/#leather)
 - Red [leather upholstering](../../../../technology/seats/materials/#leather)
-- Grey [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -146,7 +146,7 @@ You can choose from 6 different materials/colors for this seat type.
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
 - Beige [leather upholstering](../../../../technology/seats/materials/#leather)
 - Red [leather upholstering](../../../../technology/seats/materials/#leather)
-- Grey [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 
 

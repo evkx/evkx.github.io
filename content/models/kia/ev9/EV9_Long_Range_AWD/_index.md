@@ -119,10 +119,10 @@ The following functionalities are available on the **** seat.
 You can choose from 6 different materials/colors for this seat type.
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
-- Black & White [leather upholstering](../../../../technology/seats/materials/#leather)
-- Grey [leather upholstering](../../../../technology/seats/materials/#leather)
-- Grey [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
-- Grey [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+- Black/White [leather upholstering](../../../../technology/seats/materials/#leather)
+- Gray [leather upholstering](../../../../technology/seats/materials/#leather)
+- Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+- Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 
 

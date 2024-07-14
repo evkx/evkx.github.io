@@ -122,10 +122,10 @@ Følgende funktioner er tilgængelige på **** sædet.
 Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 - Black [læderpolstring](../../../../technology/seats/materials/#leather)
 - Green [læderpolstring](../../../../technology/seats/materials/#leather)
-- BlackAndWhite [læderpolstring](../../../../technology/seats/materials/#leather)
+- Black/White [læderpolstring](../../../../technology/seats/materials/#leather)
 - Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - Green [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
-- BlackAndWhite [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
+- Black/White [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 
 
