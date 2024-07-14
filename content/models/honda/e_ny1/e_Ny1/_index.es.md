@@ -101,6 +101,10 @@ Sólo hay un tipo de asiento delantero disponible en el Honda e:Ny1.
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
 
+Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+
+
+
 ### Asiento de segunda fila
 
 

@@ -114,6 +114,10 @@ The following functionalities are available on the **** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
+You can choose from 1 different materials/colors for this seat type.
+
+
+
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/frontseats_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="1920" height="1080"  >}}
 

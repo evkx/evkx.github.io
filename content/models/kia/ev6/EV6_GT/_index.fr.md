@@ -117,6 +117,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+- Grey [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
 
 

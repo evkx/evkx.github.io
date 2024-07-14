@@ -104,7 +104,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-
+Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Første række sæder
 
@@ -120,6 +120,12 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
 Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
+- Black [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
+- Black [læderpolstring](../../../../technology/seats/materials/#leather)
+- Black & White [læderpolstring](../../../../technology/seats/materials/#leather)
+- Grey [læderpolstring](../../../../technology/seats/materials/#leather)
+- Grey [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
+- Grey [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
 
 

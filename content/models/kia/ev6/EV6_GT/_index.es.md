@@ -117,6 +117,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+- Grey [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
 
 

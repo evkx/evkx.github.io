@@ -95,7 +95,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
+Der er én sædetype, du kan vælge i forskellige materialer. Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
 ### Første række sæder
 
@@ -110,6 +110,11 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Grey [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Grey [læderpolstring](../../../../technology/seats/materials/#leather)
 
 
 

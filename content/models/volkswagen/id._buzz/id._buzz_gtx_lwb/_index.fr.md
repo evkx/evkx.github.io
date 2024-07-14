@@ -115,6 +115,12 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 
 Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siège.
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- White [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
+- Green [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Yellow [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Orange [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Blue [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -128,6 +134,11 @@ Les fonctionnalités suivantes sont disponibles sur le siège **comfort**.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
+- White [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
+- Green [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Yellow [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Orange [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Blue [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 
 
 

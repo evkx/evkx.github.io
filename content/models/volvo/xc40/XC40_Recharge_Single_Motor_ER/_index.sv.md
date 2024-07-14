@@ -114,6 +114,10 @@ Följande funktioner är tillgängliga på **** sätet.
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
+
+
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor_er/frontseats_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" width="1920" height="1080"  >}}
 

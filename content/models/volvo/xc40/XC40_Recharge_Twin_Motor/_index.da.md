@@ -114,6 +114,10 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
+Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+
+
+
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_twin_motor/frontseats_1_st.jpg" title="Volvo XC40 Recharge Twin Motor" width="1920" height="1080"  >}}
 

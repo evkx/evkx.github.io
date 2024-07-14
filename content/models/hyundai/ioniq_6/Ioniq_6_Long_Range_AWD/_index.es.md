@@ -116,6 +116,8 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
+- Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Grey [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 
 

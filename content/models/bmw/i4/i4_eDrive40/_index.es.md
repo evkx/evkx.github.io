@@ -127,6 +127,26 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 21 diferentes materiales/colores para este tipo de asiento.
+- Beige [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Red [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Cognac [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Red [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Mocha [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Oyster [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Cognac [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- White [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Red [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Brown [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Brown [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Brown [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Brown [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Brown [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Blue [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
 
 
@@ -141,6 +161,26 @@ Las siguientes funcionalidades están disponibles en el asiento **M Sport**.
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
 Puedes elegir entre 21 diferentes materiales/colores para este tipo de asiento.
+- Beige [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Red [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Cognac [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Red [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- Mocha [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Oyster [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Cognac [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- White [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Red [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Brown [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Brown [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Brown [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Brown [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Brown [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Blue [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
 
 

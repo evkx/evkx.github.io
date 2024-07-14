@@ -112,6 +112,10 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
+Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
+
+
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/frontseats_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
 

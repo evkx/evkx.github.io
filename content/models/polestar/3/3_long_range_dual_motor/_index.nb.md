@@ -95,7 +95,7 @@ Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du 
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 ### Forseter
 
@@ -110,6 +110,11 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Grey [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Grey [skinntrekk](../../../../technology/seats/materials/#leather)
 
 
 

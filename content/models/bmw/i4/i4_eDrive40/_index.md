@@ -127,6 +127,26 @@ The following functionalities are available on the **standard** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 21 different materials/colors for this seat type.
+- Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Red [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Cognac [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Red [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Mocha [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Oyster [leather upholstering](../../../../technology/seats/materials/#leather)
+- Cognac [leather upholstering](../../../../technology/seats/materials/#leather)
+- White [leather upholstering](../../../../technology/seats/materials/#leather)
+- Red [leather upholstering](../../../../technology/seats/materials/#leather)
+- Brown [leather upholstering](../../../../technology/seats/materials/#leather)
+- Brown [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Brown [leather upholstering](../../../../technology/seats/materials/#leather)
+- Brown [leather upholstering](../../../../technology/seats/materials/#leather)
+- Brown [leather upholstering](../../../../technology/seats/materials/#leather)
+- Blue [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
 
 
 
@@ -141,6 +161,26 @@ The following functionalities are available on the **M Sport** seat.
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
 You can choose from 21 different materials/colors for this seat type.
+- Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Red [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Cognac [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Red [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Mocha [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Oyster [leather upholstering](../../../../technology/seats/materials/#leather)
+- Cognac [leather upholstering](../../../../technology/seats/materials/#leather)
+- White [leather upholstering](../../../../technology/seats/materials/#leather)
+- Red [leather upholstering](../../../../technology/seats/materials/#leather)
+- Brown [leather upholstering](../../../../technology/seats/materials/#leather)
+- Brown [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Brown [leather upholstering](../../../../technology/seats/materials/#leather)
+- Brown [leather upholstering](../../../../technology/seats/materials/#leather)
+- Brown [leather upholstering](../../../../technology/seats/materials/#leather)
+- Blue [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
 
 
 

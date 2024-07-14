@@ -98,7 +98,7 @@ Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du b
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
+Der er én sædetype, du kan vælge i forskellige materialer. Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
 ### Første række sæder
 
@@ -111,6 +111,11 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Grey [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Grey [læderpolstring](../../../../technology/seats/materials/#leather)
 
 
 

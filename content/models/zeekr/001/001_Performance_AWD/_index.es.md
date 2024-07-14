@@ -99,7 +99,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
+Hay un tipo de asiento que puedes seleccionar en diferentes materiales. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
 ### Asientos de primera fila
 
@@ -112,6 +112,11 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
+- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Grey [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Grey [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
 
 

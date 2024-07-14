@@ -112,6 +112,10 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
+
+
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_twin_motor/frontseats_1_st.jpg" title="Volvo EC40 Twin Motor" width="3000" height="2000"  >}}
 

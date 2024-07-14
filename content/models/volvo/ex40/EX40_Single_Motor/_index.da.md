@@ -108,6 +108,10 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [elektrisk lændestøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
+Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+
+
+
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor/frontseats_1_st.jpg" title="Volvo EX40 Single Motor" width="1920" height="1080"  >}}
 

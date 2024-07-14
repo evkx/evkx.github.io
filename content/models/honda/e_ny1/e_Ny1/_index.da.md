@@ -101,6 +101,10 @@ Kun én type forsæde er tilgængelig i Honda e:Ny1.
 Følgende funktioner er tilgængelige på **** sædet.
 
 
+Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+
+
+
 ### Sæde på anden række
 
 

@@ -102,7 +102,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
+Il existe un type de siège que vous pouvez sélectionner dans différents matériaux. La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
 ### Sièges de première rangée
 
@@ -118,6 +118,10 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
+- Black [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
+- Grey [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
+- Black [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
+- Grey [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
 
 

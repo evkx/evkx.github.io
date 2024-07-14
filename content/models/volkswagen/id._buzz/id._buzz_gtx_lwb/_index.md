@@ -115,6 +115,12 @@ The following functionalities are available on the **standard** seat.
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 You can choose from 6 different materials/colors for this seat type.
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- White [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+- Green [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Yellow [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Orange [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Blue [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -128,6 +134,11 @@ The following functionalities are available on the **comfort** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 5 different materials/colors for this seat type.
+- White [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+- Green [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Yellow [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Orange [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Blue [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 
 

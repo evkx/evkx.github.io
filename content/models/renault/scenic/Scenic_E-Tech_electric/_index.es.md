@@ -118,6 +118,7 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+- Grey [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 
 
 

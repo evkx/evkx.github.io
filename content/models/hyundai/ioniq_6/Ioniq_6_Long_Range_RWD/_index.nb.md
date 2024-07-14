@@ -116,6 +116,8 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+- Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- Grey [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 
 

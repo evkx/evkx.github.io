@@ -101,6 +101,10 @@ Only one front seat type is available in the Honda e:Ny1.
 The following functionalities are available on the **** seat.
 
 
+You can choose from 1 different materials/colors for this seat type.
+
+
+
 ### Second-row seat
 
 

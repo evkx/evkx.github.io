@@ -100,7 +100,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-
+Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
 ### Sièges de première rangée
 
@@ -116,6 +116,12 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siège.
+- Black [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
+- Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Black & White [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Grey [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Grey [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
+- Grey [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
 
 

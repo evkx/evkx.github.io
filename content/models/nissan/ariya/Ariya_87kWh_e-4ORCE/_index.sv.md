@@ -102,7 +102,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
+Det finns en sätestyp du kan välja i olika material. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
 ### Framsäten
 
@@ -118,6 +118,10 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
+- Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
+- Grey [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
+- Black [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
+- Grey [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
 
 

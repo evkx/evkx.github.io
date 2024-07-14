@@ -108,6 +108,10 @@ The following functionalities are available on the **** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
+You can choose from 1 different materials/colors for this seat type.
+
+
+
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/frontseats_1_st.jpg" title="Volvo EX40 Single Motor ER" width="1920" height="1080"  >}}
 

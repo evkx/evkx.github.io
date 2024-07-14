@@ -101,7 +101,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-
+Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos de primera fila
 
@@ -117,6 +117,12 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
+- Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
+- Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Black & White [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Grey [tapicería de cuero](../../../../technology/seats/materials/#leather)
+- Grey [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
+- Grey [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
 
 

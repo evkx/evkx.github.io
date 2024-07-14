@@ -123,6 +123,7 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
+- Grey [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
 
 

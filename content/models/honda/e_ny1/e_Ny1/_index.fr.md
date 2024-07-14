@@ -101,6 +101,10 @@ Un seul type de siège avant est disponible dans le Honda e:Ny1.
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 
+Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
+
+
 ### Siège de deuxième rangée
 
 

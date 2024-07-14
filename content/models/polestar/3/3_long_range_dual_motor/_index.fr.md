@@ -95,7 +95,7 @@ Il existe deux options de toit différentes à choisir. En option, vous pouvez c
 
 ## Intérieur
 
-La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
+Il existe un type de siège que vous pouvez sélectionner dans différents matériaux. La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
 ### Sièges de première rangée
 
@@ -110,6 +110,11 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Grey [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Grey [revêtement en cuir](../../../../technology/seats/materials/#leather)
 
 
 

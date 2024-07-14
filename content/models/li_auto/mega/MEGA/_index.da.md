@@ -103,7 +103,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Sædelayoutet er syv sæder med to foran, to sæder på anden række og tre sæder på tredje række.
+Der er én sædetype, du kan vælge i forskellige materialer. Sædelayoutet er syv sæder med to foran, to sæder på anden række og tre sæder på tredje række.
 
 ### Første række sæder
 
@@ -122,6 +122,11 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest)
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Grey [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Grey [læderpolstring](../../../../technology/seats/materials/#leather)
 
 
 

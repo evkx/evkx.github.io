@@ -102,7 +102,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 ### Forseter
 
@@ -118,6 +118,10 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
+- Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
+- Grey [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
+- Black [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
+- Grey [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 
 

@@ -119,6 +119,12 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
 Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
+- Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- White [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
+- Green [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Yellow [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Orange [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Blue [tapizado de tela](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -132,6 +138,11 @@ Las siguientes funcionalidades están disponibles en el asiento **comfort**.
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
+- White [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
+- Green [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Yellow [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Orange [tapizado de tela](../../../../technology/seats/materials/#fabric)
+- Blue [tapizado de tela](../../../../technology/seats/materials/#fabric)
 
 
 

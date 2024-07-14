@@ -118,6 +118,10 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
+Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
+
+
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/frontseats_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}
 

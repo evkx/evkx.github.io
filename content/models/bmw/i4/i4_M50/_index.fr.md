@@ -127,6 +127,26 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 Vous pouvez choisir parmi 21 différents matériaux/couleurs pour ce type de siège.
+- Beige [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Red [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Cognac [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Red [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Mocha [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Oyster [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Cognac [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- White [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Red [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Brown [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Brown [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Brown [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Brown [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Brown [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Blue [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 
 
 
@@ -141,6 +161,26 @@ Les fonctionnalités suivantes sont disponibles sur le siège **M Sport**.
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
 Vous pouvez choisir parmi 21 différents matériaux/couleurs pour ce type de siège.
+- Beige [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Red [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Cognac [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Red [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Mocha [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Oyster [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Cognac [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- White [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Red [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Brown [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Brown [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Brown [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Brown [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Brown [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Blue [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 
 
 

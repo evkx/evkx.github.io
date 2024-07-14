@@ -98,7 +98,7 @@ Det finns två olika takalternativ att välja mellan. Som ekstrautstyr kan du be
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
+Det finns en sätestyp du kan välja i olika material. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
 ### Framsäten
 
@@ -111,6 +111,11 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
+- Black [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Black [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Black [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Grey [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Grey [läderklädsel](../../../../technology/seats/materials/#leather)
 
 
 

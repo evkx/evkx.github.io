@@ -115,6 +115,12 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 
 Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- White [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
+- Green [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Yellow [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Orange [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Blue [stoffpolstring](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -128,6 +134,11 @@ Følgende funksjoner er tilgjengelige på **comfort** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
+- White [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
+- Green [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Yellow [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Orange [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Blue [stoffpolstring](../../../../technology/seats/materials/#fabric)
 
 
 

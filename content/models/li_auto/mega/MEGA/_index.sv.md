@@ -103,7 +103,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Sittlayouten är sju platser med två fram, två platser på andra raden och tre platser på tredje raden.
+Det finns en sätestyp du kan välja i olika material. Sittlayouten är sju platser med två fram, två platser på andra raden och tre platser på tredje raden.
 
 ### Framsäten
 
@@ -122,6 +122,11 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd)
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
+- Black [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Black [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Black [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Grey [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Grey [läderklädsel](../../../../technology/seats/materials/#leather)
 
 
 

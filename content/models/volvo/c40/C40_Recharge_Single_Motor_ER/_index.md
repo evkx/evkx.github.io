@@ -118,6 +118,10 @@ The following functionalities are available on the **** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
+You can choose from 1 different materials/colors for this seat type.
+
+
+
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/frontseats_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000"  >}}
 

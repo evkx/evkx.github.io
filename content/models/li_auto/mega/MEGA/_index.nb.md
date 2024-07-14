@@ -103,7 +103,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Seteoppsettet er syv seter med to foran, to seter på andre rad og tre seter på tredje rad.
+Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er syv seter med to foran, to seter på andre rad og tre seter på tredje rad.
 
 ### Forseter
 
@@ -122,6 +122,11 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest)
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Grey [stoffpolstring](../../../../technology/seats/materials/#fabric)
+- Grey [skinntrekk](../../../../technology/seats/materials/#leather)
 
 
 

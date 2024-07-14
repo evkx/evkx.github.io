@@ -108,6 +108,10 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
+Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
+
+
+
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor/frontseats_1_st.jpg" title="Volvo EX40 Single Motor" width="1920" height="1080"  >}}
 

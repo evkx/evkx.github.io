@@ -112,6 +112,10 @@ Följande funktioner är tillgängliga på **** sätet.
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
+Du kan välja mellan 1 olika material/färger för denna sitstyp.
+
+
+
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/frontseats_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
 

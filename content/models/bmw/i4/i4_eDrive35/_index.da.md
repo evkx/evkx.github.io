@@ -127,6 +127,26 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
 Du kan vælge mellem 21 forskellige materialer/farver til denne sædetype.
+- Beige [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Red [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Cognac [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Red [læderpolstring](../../../../technology/seats/materials/#leather)
+- Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Mocha [læderpolstring](../../../../technology/seats/materials/#leather)
+- Black [læderpolstring](../../../../technology/seats/materials/#leather)
+- Oyster [læderpolstring](../../../../technology/seats/materials/#leather)
+- Cognac [læderpolstring](../../../../technology/seats/materials/#leather)
+- White [læderpolstring](../../../../technology/seats/materials/#leather)
+- Red [læderpolstring](../../../../technology/seats/materials/#leather)
+- Brown [læderpolstring](../../../../technology/seats/materials/#leather)
+- Brown [læderpolstring](../../../../technology/seats/materials/#leather)
+- Black [læderpolstring](../../../../technology/seats/materials/#leather)
+- Brown [læderpolstring](../../../../technology/seats/materials/#leather)
+- Brown [læderpolstring](../../../../technology/seats/materials/#leather)
+- Brown [læderpolstring](../../../../technology/seats/materials/#leather)
+- Blue [læderpolstring](../../../../technology/seats/materials/#leather)
+- Black [læderpolstring](../../../../technology/seats/materials/#leather)
 
 
 
@@ -141,6 +161,26 @@ Følgende funktioner er tilgængelige på **M Sport** sædet.
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
 Du kan vælge mellem 21 forskellige materialer/farver til denne sædetype.
+- Beige [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Red [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Cognac [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Red [læderpolstring](../../../../technology/seats/materials/#leather)
+- Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- Mocha [læderpolstring](../../../../technology/seats/materials/#leather)
+- Black [læderpolstring](../../../../technology/seats/materials/#leather)
+- Oyster [læderpolstring](../../../../technology/seats/materials/#leather)
+- Cognac [læderpolstring](../../../../technology/seats/materials/#leather)
+- White [læderpolstring](../../../../technology/seats/materials/#leather)
+- Red [læderpolstring](../../../../technology/seats/materials/#leather)
+- Brown [læderpolstring](../../../../technology/seats/materials/#leather)
+- Brown [læderpolstring](../../../../technology/seats/materials/#leather)
+- Black [læderpolstring](../../../../technology/seats/materials/#leather)
+- Brown [læderpolstring](../../../../technology/seats/materials/#leather)
+- Brown [læderpolstring](../../../../technology/seats/materials/#leather)
+- Brown [læderpolstring](../../../../technology/seats/materials/#leather)
+- Blue [læderpolstring](../../../../technology/seats/materials/#leather)
+- Black [læderpolstring](../../../../technology/seats/materials/#leather)
 
 
 

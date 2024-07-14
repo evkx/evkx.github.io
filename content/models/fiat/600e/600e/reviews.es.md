@@ -9,6 +9,20 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>New test: Fiat 600e battery stress test</h3>
+<p>Bjørn Nyland: 14.07.2024</p>
+
+{{< youtube 6tkDJ5z2QZ4 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Fiat 600e range test</h3>
+<p>Bjørn Nyland: 13.07.2024</p>
+
+{{< youtube eKU57vULEEM >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Fiat 600e banana box test</h3>
 <p>Bjørn Nyland: 09.07.2024</p>
 

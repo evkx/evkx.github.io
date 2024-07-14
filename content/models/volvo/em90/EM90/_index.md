@@ -98,7 +98,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-The seat layout is six seats with two in front, two captain chairs in the second row, and a two-seat bench in the third row.
+There is one seat type you can select in different materials. The seat layout is six seats with two in front, two captain chairs in the second row, and a two-seat bench in the third row.
 
 ### First row seats
 
@@ -113,6 +113,11 @@ The following functionalities are available on the **standard** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 5 different materials/colors for this seat type.
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Grey [fabric upholstering](../../../../technology/seats/materials/#fabric)
+- Grey [leather upholstering](../../../../technology/seats/materials/#leather)
 
 
 

@@ -113,6 +113,7 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+- Grey [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
 
 

@@ -112,6 +112,10 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
+Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+
+
+
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_twin_motor/frontseats_1_st.jpg" title="Volvo EC40 Twin Motor" width="3000" height="2000"  >}}
 

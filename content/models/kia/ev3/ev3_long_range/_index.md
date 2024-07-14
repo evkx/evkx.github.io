@@ -100,7 +100,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-
+There is one seat type you can select in different materials.
 
 ### First row seats
 
@@ -116,6 +116,12 @@ The following functionalities are available on the **** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 6 different materials/colors for this seat type.
+- Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
+- Black [leather upholstering](../../../../technology/seats/materials/#leather)
+- Black & White [leather upholstering](../../../../technology/seats/materials/#leather)
+- Grey [leather upholstering](../../../../technology/seats/materials/#leather)
+- Grey [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+- Grey [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 
 

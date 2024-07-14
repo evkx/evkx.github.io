@@ -114,6 +114,10 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
+
+
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/frontseats_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="1920" height="1080"  >}}
 

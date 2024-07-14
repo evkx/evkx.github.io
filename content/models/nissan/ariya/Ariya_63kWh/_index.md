@@ -102,7 +102,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
+There is one seat type you can select in different materials. The seat layout is the traditional five seats with two in front and three in the rear.
 
 ### First row seats
 
@@ -118,6 +118,10 @@ The following functionalities are available on the **standard** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 5 different materials/colors for this seat type.
+- Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
+- Grey [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
+- Black [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
+- Grey [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 
 

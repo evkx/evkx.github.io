@@ -127,6 +127,26 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 21 olika material/färger för denna sitstyp.
+- Beige [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Red [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Cognac [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Red [läderklädsel](../../../../technology/seats/materials/#leather)
+- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Mocha [läderklädsel](../../../../technology/seats/materials/#leather)
+- Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Oyster [läderklädsel](../../../../technology/seats/materials/#leather)
+- Cognac [läderklädsel](../../../../technology/seats/materials/#leather)
+- White [läderklädsel](../../../../technology/seats/materials/#leather)
+- Red [läderklädsel](../../../../technology/seats/materials/#leather)
+- Brown [läderklädsel](../../../../technology/seats/materials/#leather)
+- Brown [läderklädsel](../../../../technology/seats/materials/#leather)
+- Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Brown [läderklädsel](../../../../technology/seats/materials/#leather)
+- Brown [läderklädsel](../../../../technology/seats/materials/#leather)
+- Brown [läderklädsel](../../../../technology/seats/materials/#leather)
+- Blue [läderklädsel](../../../../technology/seats/materials/#leather)
+- Black [läderklädsel](../../../../technology/seats/materials/#leather)
 
 
 
@@ -141,6 +161,26 @@ Följande funktioner är tillgängliga på **M Sport** sätet.
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 
 Du kan välja mellan 21 olika material/färger för denna sitstyp.
+- Beige [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Red [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Cognac [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Red [läderklädsel](../../../../technology/seats/materials/#leather)
+- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- Mocha [läderklädsel](../../../../technology/seats/materials/#leather)
+- Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Oyster [läderklädsel](../../../../technology/seats/materials/#leather)
+- Cognac [läderklädsel](../../../../technology/seats/materials/#leather)
+- White [läderklädsel](../../../../technology/seats/materials/#leather)
+- Red [läderklädsel](../../../../technology/seats/materials/#leather)
+- Brown [läderklädsel](../../../../technology/seats/materials/#leather)
+- Brown [läderklädsel](../../../../technology/seats/materials/#leather)
+- Black [läderklädsel](../../../../technology/seats/materials/#leather)
+- Brown [läderklädsel](../../../../technology/seats/materials/#leather)
+- Brown [läderklädsel](../../../../technology/seats/materials/#leather)
+- Brown [läderklädsel](../../../../technology/seats/materials/#leather)
+- Blue [läderklädsel](../../../../technology/seats/materials/#leather)
+- Black [läderklädsel](../../../../technology/seats/materials/#leather)
 
 
 

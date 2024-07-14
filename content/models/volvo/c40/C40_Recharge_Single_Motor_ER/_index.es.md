@@ -118,6 +118,10 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
+Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
+
+
+
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/frontseats_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000"  >}}
 

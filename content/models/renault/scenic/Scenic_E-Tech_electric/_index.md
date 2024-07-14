@@ -118,6 +118,7 @@ The following functionalities are available on the **standard** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 1 different materials/colors for this seat type.
+- Grey [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
 
 

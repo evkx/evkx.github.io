@@ -117,6 +117,7 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+- Grey [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
 
 

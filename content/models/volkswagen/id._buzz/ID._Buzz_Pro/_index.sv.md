@@ -119,6 +119,12 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
 Du kan välja mellan 6 olika material/färger för denna sitstyp.
+- Black [tygklädsel](../../../../technology/seats/materials/#fabric)
+- White [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
+- Green [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Yellow [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Orange [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Blue [tygklädsel](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -132,6 +138,11 @@ Följande funktioner är tillgängliga på **comfort** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
+- White [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
+- Green [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Yellow [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Orange [tygklädsel](../../../../technology/seats/materials/#fabric)
+- Blue [tygklädsel](../../../../technology/seats/materials/#fabric)
 
 
 

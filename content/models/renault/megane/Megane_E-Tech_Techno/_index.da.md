@@ -123,6 +123,7 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
+- Grey [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 
 
 

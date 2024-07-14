@@ -119,6 +119,12 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [heating](../../../../technology/seats/adjustment/#heating)
 
 Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
+- Black [stofpolstring](../../../../technology/seats/materials/#fabric)
+- White [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
+- Green [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Yellow [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Orange [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Blue [stofpolstring](../../../../technology/seats/materials/#fabric)
 
 
 
@@ -132,6 +138,11 @@ Følgende funktioner er tilgængelige på **comfort** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
+- White [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
+- Green [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Yellow [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Orange [stofpolstring](../../../../technology/seats/materials/#fabric)
+- Blue [stofpolstring](../../../../technology/seats/materials/#fabric)
 
 
 

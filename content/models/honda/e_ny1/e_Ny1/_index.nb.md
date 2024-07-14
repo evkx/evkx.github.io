@@ -101,6 +101,10 @@ Bare én type forsete er tilgjengelig i Honda e:Ny1.
 Følgende funksjoner er tilgjengelige på **** setet.
 
 
+Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
+
+
+
 ### Seter på andre rad
 
 

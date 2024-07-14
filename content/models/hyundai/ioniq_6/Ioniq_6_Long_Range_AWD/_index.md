@@ -116,6 +116,8 @@ The following functionalities are available on the **** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 2 different materials/colors for this seat type.
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- Grey [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 
 

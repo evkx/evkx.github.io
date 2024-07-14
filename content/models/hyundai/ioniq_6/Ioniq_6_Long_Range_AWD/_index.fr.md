@@ -116,6 +116,8 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+- Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- Grey [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 
 
