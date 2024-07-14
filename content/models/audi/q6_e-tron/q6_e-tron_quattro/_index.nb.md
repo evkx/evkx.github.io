@@ -70,6 +70,8 @@ Du kan bestille Audi Q6 e-tron quattro med en alternativ Sport hjuloppheng. Spor
 
 Du kan bestille Audi Q6 e-tron quattro med en alternativ Adaptive Air Suspension hjuloppheng. Hjulopphenget foran og bak er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 185 mm, og maksimum er 224 mm.
 
+For enklere lasting kan luftfjæringen senkes ved hjelp av kontroller i bagasjerommet.
+
 ### Styring
 
 Dynamisk styring er standard-funksjonen på Audi Q6 e-tron quattro. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
@@ -130,7 +132,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-
+Audi Q6 e-tron quattro har et førerfokusert interiør som forbedrer cockpitfølelsen, med førsteklasses materialer i alle viktige områder. I tillegg inkluderer den en tradisjonell midtkonsoll som skiller fører og passasjer, og gir praktisk oppbevaring og funksjonalitet.
 
 ### Seter
 
@@ -157,13 +159,9 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 
 - elektrisk justering
-- høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
-- [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
-- [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Justering av setepute sidestøtter](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massasje](../../../../technology/seats/adjustment/#massage)
 

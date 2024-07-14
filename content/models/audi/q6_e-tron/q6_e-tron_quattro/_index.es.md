@@ -70,6 +70,8 @@ Puedes pedir Audi Q6 e-tron quattro con una suspensión alternativa Sport. La su
 
 Puedes pedir Audi Q6 e-tron quattro con una suspensión alternativa Adaptive Air Suspension. La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 185 mm y la máxima es 224 mm.
 
+Para facilitar la carga, la suspensión neumática puede bajarse utilizando los controles en el maletero.
+
 ### Dirección
 
 La dirección dinámica es una característica un estándar en el Audi Q6 e-tron quattro. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción.
@@ -130,7 +132,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-
+El Audi Q6 e-tron quattro cuenta con un interior centrado en el conductor que mejora la sensación de cabina, con materiales de primera calidad en todas las áreas importantes. Además, incluye una consola central tradicional que separa al conductor del pasajero, proporcionando almacenamiento y funcionalidad convenientes.
 
 ### Asientos
 
@@ -157,13 +159,9 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 
 - ajuste eléctrico
-- reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [asiento del conductor con memoria](../../../../technology/seats/adjustment/#seat-memory)
-- [asiento del pasajero con memoria](../../../../technology/seats/adjustment/#seat-memory)
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
-- [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
-- [Ajuste de los refuerzos laterales del cojín del asiento](../../../../technology/seats/adjustment/#seat-cushion-side-bolster-adjustement)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
