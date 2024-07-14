@@ -100,7 +100,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
+Der er én sædetype, du kan vælge i forskellige materialer. Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
 ### Første række sæder
 

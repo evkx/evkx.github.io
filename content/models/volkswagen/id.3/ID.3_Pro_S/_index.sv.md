@@ -103,7 +103,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Du kan välja mellan två typer av säten med förkonfigurerade material. Denna modell erbjuder en fyra-sits layout eller en valfri 4+1 layout.
+Denna modell erbjuder en fyra-sits layout eller en valfri 4+1 layout.
 
 ### Framsäten
 

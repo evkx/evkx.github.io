@@ -104,7 +104,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Sittlayouten är sju platser med två fram, tre platser på andra raden och två platser på tredje raden.
+Det finns en sätestyp du kan välja i olika material. Sittlayouten är sju platser med två fram, tre platser på andra raden och två platser på tredje raden.
 
 ### Framsäten
 

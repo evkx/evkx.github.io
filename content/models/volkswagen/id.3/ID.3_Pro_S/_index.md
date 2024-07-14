@@ -103,7 +103,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-You can choose between two types of seats with preconfigured materials. This model offers a four-seat layout or an optional 4+1 layout.
+This model offers a four-seat layout or an optional 4+1 layout.
 
 ### First row seats
 

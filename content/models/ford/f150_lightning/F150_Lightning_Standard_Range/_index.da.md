@@ -101,7 +101,7 @@ Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
+Der er én sædetype, du kan vælge i forskellige materialer. Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
 ### Første række sæder
 

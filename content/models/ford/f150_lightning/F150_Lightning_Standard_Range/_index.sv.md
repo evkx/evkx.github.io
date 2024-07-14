@@ -101,7 +101,7 @@ Det finns bara ett tak för denna modell. Som tillval kan du beställa denna mod
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
+Det finns en sätestyp du kan välja i olika material. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
 ### Framsäten
 

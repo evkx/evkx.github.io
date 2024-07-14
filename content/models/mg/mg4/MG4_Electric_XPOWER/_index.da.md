@@ -96,7 +96,7 @@ Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sædematerialer og interiørdesign.
+Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Første række sæder
 

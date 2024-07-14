@@ -104,7 +104,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-Hay un tipo de asiento que puedes seleccionar en diferentes materiales. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
+interior.intro.minimalistic.highquality.traditional Puedes elegir entre varios diseños de interiores. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
 ### Asientos de primera fila
 
@@ -133,6 +133,7 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
+- reposacabezas ajustable en altura
 
 Sólo hay un tipo de volante disponible.
 
@@ -164,6 +165,8 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/screens_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
+
+Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.
 
 ## Infoentretenimiento
 

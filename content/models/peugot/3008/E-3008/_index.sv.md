@@ -100,7 +100,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
+Det finns en sätestyp du kan välja i olika material. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
 ### Framsäten
 

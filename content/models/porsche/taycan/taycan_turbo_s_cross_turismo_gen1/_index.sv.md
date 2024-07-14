@@ -115,7 +115,7 @@ Det finns tre olika takalternativ att välja mellan. Standardinställningen är 
 
 ## Interiör
 
-Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Denna modell erbjuder en fyra-sits layout eller en valfri 4+1 layout.
+Denna modell erbjuder en fyra-sits layout eller en valfri 4+1 layout.
 
 ### Framsäten
 

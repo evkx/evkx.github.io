@@ -103,7 +103,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Du kan velge mellom to typer seter med forhåndskonfigurerte materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 ### Forseter
 

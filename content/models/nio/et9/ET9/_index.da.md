@@ -102,7 +102,7 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sæder, sædematerialer og interiørdesign. Sædeopsætningen er to sæder foran og to sæder bagved.
+Sædeopsætningen er to sæder foran og to sæder bagved.
 
 ### Første række sæder
 

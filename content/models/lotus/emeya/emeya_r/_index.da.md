@@ -104,7 +104,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Denne model tilbyder et layout med fire sæder eller et valgfrit 4+1 layout.
+Der er én sædetype, du kan vælge i forskellige materialer. Denne model tilbyder et layout med fire sæder eller et valgfrit 4+1 layout.
 
 ### Første række sæder
 

@@ -117,7 +117,7 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panor
 
 ## Intérieur
 
-Vous pouvez choisir entre différents types de sièges, matériaux de siège et style intérieur. La disposition des sièges est de six sièges, dont deux à l'avant, deux sièges capitaine dans la deuxième rangée et une banquette à deux places dans la troisième rangée.
+La disposition des sièges est de six sièges, dont deux à l'avant, deux sièges capitaine dans la deuxième rangée et une banquette à deux places dans la troisième rangée.
 
 ### Sièges de première rangée
 

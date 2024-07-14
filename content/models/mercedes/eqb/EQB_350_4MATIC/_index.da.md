@@ -100,7 +100,7 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sæder, sædematerialer og interiørdesign. Derudover tilbyder modellen et traditionelt fem-sædet layout eller et valgfrit syv-sædet layout.
+Derudover tilbyder modellen et traditionelt fem-sædet layout eller et valgfrit syv-sædet layout.
 
 ### Første række sæder
 

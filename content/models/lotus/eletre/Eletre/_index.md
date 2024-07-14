@@ -104,7 +104,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
+There is one seat type you can select in different materials. The seat layout is the traditional five seats with two in front and three in the rear.
 
 ### First row seats
 

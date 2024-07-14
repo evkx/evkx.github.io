@@ -101,7 +101,7 @@ Det finns bara ett tak för denna modell. Standardinställningen är bara ett va
 
 ## Interiör
 
-Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
+Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
 ### Framsäten
 

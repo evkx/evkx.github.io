@@ -115,7 +115,7 @@ Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et al
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sæder, sædematerialer og interiørdesign. Denne model tilbyder et layout med fire sæder eller et valgfrit 4+1 layout.
+Denne model tilbyder et layout med fire sæder eller et valgfrit 4+1 layout.
 
 ### Første række sæder
 

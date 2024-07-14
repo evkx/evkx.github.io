@@ -98,7 +98,7 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 ## Interior
 
-You can choose between different types of seat materials and interior styling. The seat layout is the traditional five seats with two in front and three in the rear.
+There is one seat type you can select in different materials. The seat layout is the traditional five seats with two in front and three in the rear.
 
 ### First row seats
 

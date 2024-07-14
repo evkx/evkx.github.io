@@ -104,7 +104,7 @@ Det er bare ett tak for denne modellen. Forruten er panoramautsikt tilbake over 
 
 ## Interiør
 
-Du kan velge mellom flere interiørdesign. Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
+Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge mellom flere interiørdesign. Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
 
 ### Forseter
 

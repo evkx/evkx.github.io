@@ -104,7 +104,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-Il existe un type de siège que vous pouvez sélectionner dans différents matériaux. La disposition des sièges est de sept sièges, dont deux à l'avant, trois sièges dans la deuxième rangée et deux sièges dans la troisième rangée.
+La disposition des sièges est de sept sièges, dont deux à l'avant, trois sièges dans la deuxième rangée et deux sièges dans la troisième rangée.
 
 ### Sièges de première rangée
 

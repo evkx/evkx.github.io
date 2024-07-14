@@ -102,7 +102,7 @@ Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con 
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
+Hay un tipo de asiento que puedes seleccionar en diferentes materiales. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
 ### Asientos de primera fila
 

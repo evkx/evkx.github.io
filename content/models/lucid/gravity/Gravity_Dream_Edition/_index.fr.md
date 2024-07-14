@@ -104,7 +104,7 @@ Il n'y a qu'un seul toit pour ce modèle. Le pare-brise est panoramique en remon
 
 ## Intérieur
 
-Vous pouvez choisir entre plusieurs aménagements intérieurs. La disposition des sièges est de sept sièges, dont deux à l'avant, trois sièges dans la deuxième rangée et deux sièges dans la troisième rangée.
+Vous pouvez choisir entre différents types de matériaux de siège et de style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs. La disposition des sièges est de sept sièges, dont deux à l'avant, trois sièges dans la deuxième rangée et deux sièges dans la troisième rangée.
 
 ### Sièges de première rangée
 

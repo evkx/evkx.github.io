@@ -104,7 +104,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+interior.intro.minimalistic.highquality.traditional Du kan velge mellom flere interiørdesign. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 ### Forseter
 
@@ -133,6 +133,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
+- høydejusterbar hodestøtte
 
 Det er bare én type ratt tilgjengelig.
 
@@ -164,6 +165,8 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/screens_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
+
+Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.
 
 ## Infotainment
 

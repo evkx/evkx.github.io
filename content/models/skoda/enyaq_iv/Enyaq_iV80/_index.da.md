@@ -109,7 +109,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Du kan vælge mellem to typer sæder med prækonfigurerede materialer. Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
+Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
 ### Første række sæder
 

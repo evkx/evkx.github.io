@@ -98,7 +98,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
+Hay un tipo de asiento que puedes seleccionar en diferentes materiales. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
 ### Asientos de primera fila
 

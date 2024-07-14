@@ -111,7 +111,7 @@ Il existe trois options de toit différentes à choisir. Le standard est juste u
 
 ## Intérieur
 
-Vous pouvez choisir entre différents types de sièges, matériaux de siège et style intérieur. Ce modèle offre une configuration à quatre places ou une configuration 4+1 en option.
+Ce modèle offre une configuration à quatre places ou une configuration 4+1 en option.
 
 ### Sièges de première rangée
 

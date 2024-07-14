@@ -93,7 +93,7 @@ Der er kun ét tag til denne model. Standardtaget er en blød top, der kan folde
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sædematerialer og interiørdesign.
+Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Første række sæder
 

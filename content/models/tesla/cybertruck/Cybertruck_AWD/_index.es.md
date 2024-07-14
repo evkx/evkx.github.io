@@ -123,7 +123,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-Hay un tipo de asiento que puedes seleccionar en diferentes materiales. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
+La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
 ### Asientos de primera fila
 

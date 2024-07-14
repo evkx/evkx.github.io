@@ -103,7 +103,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-Puedes elegir entre dos tipos de asientos con materiales preconfigurados.
+
 
 ### Asientos de primera fila
 

@@ -107,7 +107,7 @@ Det er tre forskjellige takalternativer å velge mellom. Standarden er bare et v
 
 ## Interiør
 
-Du kan velge mellom ulike typer seter, setematerialer og interiørstil.
+
 
 ### Forseter
 

@@ -96,7 +96,7 @@ Il n'y a qu'un seul toit pour ce modèle. En option, vous pouvez commander ce mo
 
 ## Intérieur
 
-Vous pouvez choisir entre différents types de matériaux de siège et de style intérieur.
+Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
 ### Sièges de première rangée
 

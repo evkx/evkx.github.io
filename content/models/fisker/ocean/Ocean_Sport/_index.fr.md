@@ -98,7 +98,7 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 
 ## Intérieur
 
-Vous pouvez choisir entre différents types de matériaux de siège et de style intérieur. La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
+Il existe un type de siège que vous pouvez sélectionner dans différents matériaux. La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
 ### Sièges de première rangée
 

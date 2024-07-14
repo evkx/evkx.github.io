@@ -96,7 +96,7 @@ There are two different roof options to select from. As an option, you can order
 
 ## Interior
 
-You can choose between several interior designs. The seat layout is the traditional five seats with two in front and three in the rear.
+You can choose between different types of seat materials and interior styling. You can choose between several interior designs. The seat layout is the traditional five seats with two in front and three in the rear.
 
 ### First row seats
 

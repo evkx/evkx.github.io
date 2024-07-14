@@ -103,7 +103,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-Vous pouvez choisir entre deux types de sièges avec des matériaux préconfigurés. Ce modèle offre une configuration à quatre places ou une configuration 4+1 en option.
+Ce modèle offre une configuration à quatre places ou une configuration 4+1 en option.
 
 ### Sièges de première rangée
 

@@ -103,7 +103,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 ### Forseter
 

@@ -103,7 +103,7 @@ There are two different roof options to select from. The standard is just a regu
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling. In addition, the model offers a traditional five-seat layout or an optional seven-seat layout.
+In addition, the model offers a traditional five-seat layout or an optional seven-seat layout.
 
 ### First row seats
 

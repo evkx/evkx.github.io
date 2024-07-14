@@ -97,7 +97,7 @@ Adem√°s, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr√
 
 ## Interior
 
-Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior.
+Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos de primera fila
 

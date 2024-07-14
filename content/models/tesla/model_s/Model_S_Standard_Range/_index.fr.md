@@ -104,7 +104,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-Il existe un type de siège que vous pouvez sélectionner dans différents matériaux. La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
+La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
 ### Sièges de première rangée
 

@@ -100,7 +100,7 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 
 ## Interiör
 
-Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Sittlayouten är sex platser med två framför, två kaptensstolar på andra raden och en tvåsitssbänk på tredje raden.
+Sittlayouten är sex platser med två framför, två kaptensstolar på andra raden och en tvåsitssbänk på tredje raden.
 
 ### Framsäten
 

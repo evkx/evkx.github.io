@@ -103,7 +103,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Du kan vælge mellem to typer sæder med prækonfigurerede materialer. Denne model tilbyder et layout med fire sæder eller et valgfrit 4+1 layout.
+Denne model tilbyder et layout med fire sæder eller et valgfrit 4+1 layout.
 
 ### Første række sæder
 

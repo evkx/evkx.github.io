@@ -100,7 +100,7 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 ## Interior
 
-Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior. Además, el modelo ofrece una disposición tradicional de cinco asientos o una disposición opcional de siete asientos.
+Además, el modelo ofrece una disposición tradicional de cinco asientos o una disposición opcional de siete asientos.
 
 ### Asientos de primera fila
 

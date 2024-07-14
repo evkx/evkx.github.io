@@ -135,7 +135,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Der er én sædetype, du kan vælge i forskellige materialer. Derudover tilbyder modellen et traditionelt fem-sædet layout eller et valgfrit syv-sædet layout.
+Derudover tilbyder modellen et traditionelt fem-sædet layout eller et valgfrit syv-sædet layout.
 
 ### Første række sæder
 

@@ -104,7 +104,7 @@ Der er kun ét tag til denne model. Forruden er panoramisk tilbage over første 
 
 ## Interiør
 
-Du kan vælge mellem flere interiørdesigns. Sædelayoutet er syv sæder med to foran, tre sæder på anden række og to sæder på tredje række.
+Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns. Sædelayoutet er syv sæder med to foran, tre sæder på anden række og to sæder på tredje række.
 
 ### Første række sæder
 

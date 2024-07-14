@@ -99,7 +99,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sæder, sædematerialer og interiørdesign. Sædeopsætningen er to sæder foran og to sæder bagved.
+Sædeopsætningen er to sæder foran og to sæder bagved.
 
 ### Første række sæder
 

@@ -101,7 +101,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-Vous pouvez choisir entre différents types de sièges, matériaux de siège et style intérieur. La disposition des sièges est deux sièges à l'avant et deux sièges à l'arrière.
+La disposition des sièges est deux sièges à l'avant et deux sièges à l'arrière.
 
 ### Sièges de première rangée
 

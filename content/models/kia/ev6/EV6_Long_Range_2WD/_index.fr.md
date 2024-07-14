@@ -104,7 +104,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-Vous pouvez choisir entre différents types de matériaux de siège et de style intérieur.
+
 
 ### Sièges de première rangée
 

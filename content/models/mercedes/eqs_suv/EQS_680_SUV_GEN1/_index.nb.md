@@ -110,7 +110,7 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 ## Interiør
 
-Du kan velge mellom ulike typer seter, setematerialer og interiørstil. I tillegg tilbyr modellen en tradisjonell fem-seters layout eller en valgfri syv-seter layout.
+I tillegg tilbyr modellen en tradisjonell fem-seters layout eller en valgfri syv-seter layout.
 
 ### Forseter
 

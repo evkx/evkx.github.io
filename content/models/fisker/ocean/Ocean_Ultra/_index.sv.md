@@ -98,7 +98,7 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 
 ## Interiör
 
-Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
+Det finns en sätestyp du kan välja i olika material. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
 ### Framsäten
 

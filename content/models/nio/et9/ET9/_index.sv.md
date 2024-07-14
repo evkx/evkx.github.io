@@ -102,7 +102,7 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 
 ## Interiör
 
-Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Sittlayouten är två säten fram och två säten bak.
+Sittlayouten är två säten fram och två säten bak.
 
 ### Framsäten
 

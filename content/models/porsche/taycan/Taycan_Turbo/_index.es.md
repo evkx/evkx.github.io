@@ -109,7 +109,7 @@ Hay tres opciones de techo diferentes para elegir. El estándar es simplemente u
 
 ## Interior
 
-Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior. Este modelo ofrece una disposición de cuatro asientos o una disposición opcional de 4+1.
+Este modelo ofrece una disposición de cuatro asientos o una disposición opcional de 4+1.
 
 ### Asientos de primera fila
 

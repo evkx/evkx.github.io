@@ -97,7 +97,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sædematerialer og interiørdesign.
+Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Første række sæder
 

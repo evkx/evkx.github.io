@@ -100,7 +100,7 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling. The seat layout is seven seats with two in front, three seats in the second row and two seats on third row.
+The seat layout is seven seats with two in front, three seats in the second row and two seats on third row.
 
 ### First row seats
 

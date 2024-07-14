@@ -105,7 +105,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-Este modelo ofrece una disposición de cuatro asientos o una disposición opcional de 4+1.
+Hay un tipo de asiento que puedes seleccionar en diferentes materiales. Este modelo ofrece una disposición de cuatro asientos o una disposición opcional de 4+1.
 
 ### Asientos de primera fila
 

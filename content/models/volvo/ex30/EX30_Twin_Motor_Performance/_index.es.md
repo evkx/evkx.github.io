@@ -96,7 +96,7 @@ Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este
 
 ## Interior
 
-Puedes elegir entre varios diseños de interiores. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
+Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
 ### Asientos de primera fila
 

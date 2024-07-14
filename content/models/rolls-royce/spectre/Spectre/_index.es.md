@@ -99,7 +99,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior. La disposición de los asientos es dos asientos delanteros y dos asientos traseros.
+La disposición de los asientos es dos asientos delanteros y dos asientos traseros.
 
 ### Asientos de primera fila
 

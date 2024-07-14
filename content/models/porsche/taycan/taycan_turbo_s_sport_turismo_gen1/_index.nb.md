@@ -113,7 +113,7 @@ Det er tre forskjellige takalternativer å velge mellom. Standarden er bare et v
 
 ## Interiør
 
-Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Denne modellen tilbyr en fire-seters layout eller en valgfri 4+1 layout.
+Denne modellen tilbyr en fire-seters layout eller en valgfri 4+1 layout.
 
 ### Forseter
 

@@ -101,7 +101,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
+Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
 
 ### Forseter
 

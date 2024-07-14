@@ -104,7 +104,7 @@ There is only one roof for this model. The windshield is panoramic going back ov
 
 ## Interior
 
-You can choose between several interior designs. The seat layout is seven seats with two in front, three seats in the second row and two seats on third row.
+You can choose between different types of seat materials and interior styling. You can choose between several interior designs. The seat layout is seven seats with two in front, three seats in the second row and two seats on third row.
 
 ### First row seats
 

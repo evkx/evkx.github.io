@@ -102,7 +102,7 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 
 ## Interior
 
-Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior. La disposición de los asientos es dos asientos delanteros y dos asientos traseros.
+La disposición de los asientos es dos asientos delanteros y dos asientos traseros.
 
 ### Asientos de primera fila
 

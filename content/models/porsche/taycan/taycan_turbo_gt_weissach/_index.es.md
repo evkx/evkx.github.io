@@ -107,7 +107,7 @@ Hay tres opciones de techo diferentes para elegir. El estándar es simplemente u
 
 ## Interior
 
-Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior.
+
 
 ### Asientos de primera fila
 

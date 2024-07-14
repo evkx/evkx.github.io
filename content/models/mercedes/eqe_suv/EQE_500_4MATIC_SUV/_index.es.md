@@ -107,7 +107,7 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 ## Interior
 
-Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
+La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
 ### Asientos de primera fila
 

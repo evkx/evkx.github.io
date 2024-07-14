@@ -104,7 +104,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-There is one seat type you can select in different materials. The seat layout is seven seats with two in front, three seats in the second row and two seats on third row.
+The seat layout is seven seats with two in front, three seats in the second row and two seats on third row.
 
 ### First row seats
 

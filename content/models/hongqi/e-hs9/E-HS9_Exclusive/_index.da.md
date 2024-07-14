@@ -100,7 +100,7 @@ Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset stræ
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sæder, sædematerialer og interiørdesign. Sædelayoutet er seks sæder med to foran, to kaptajnstole på anden række og en to-sædet bænk på tredje række.
+Sædelayoutet er seks sæder med to foran, to kaptajnstole på anden række og en to-sædet bænk på tredje række.
 
 ### Første række sæder
 

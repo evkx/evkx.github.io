@@ -110,7 +110,7 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 ## Intérieur
 
-Vous pouvez choisir entre différents types de sièges, matériaux de siège et style intérieur. De plus, le modèle propose une configuration traditionnelle à cinq places ou une configuration optionnelle à sept places.
+De plus, le modèle propose une configuration traditionnelle à cinq places ou une configuration optionnelle à sept places.
 
 ### Sièges de première rangée
 

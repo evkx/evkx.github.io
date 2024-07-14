@@ -105,7 +105,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Det er én setetype du kan velge i forskjellige materialer. I tillegg tilbyr modellen en tradisjonell fem-seters layout eller en valgfri syv-seter layout.
+I tillegg tilbyr modellen en tradisjonell fem-seters layout eller en valgfri syv-seter layout.
 
 ### Forseter
 

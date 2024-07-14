@@ -96,7 +96,7 @@ Det finns två olika takalternativ att välja mellan. Som ekstrautstyr kan du be
 
 ## Interiör
 
-Du kan välja mellan flera inredningsdesigner. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
+Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
 ### Framsäten
 

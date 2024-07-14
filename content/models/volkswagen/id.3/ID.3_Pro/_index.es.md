@@ -103,7 +103,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-Puedes elegir entre dos tipos de asientos con materiales preconfigurados. Este modelo ofrece una disposición de cuatro asientos o una disposición opcional de 4+1.
+Este modelo ofrece una disposición de cuatro asientos o una disposición opcional de 4+1.
 
 ### Asientos de primera fila
 

@@ -117,7 +117,7 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 
 ## Interiør
 
-Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteoppsettet er seks seter med to foran, to kapteinstoler på andre rad, og en to-seters benk på tredje rad.
+Seteoppsettet er seks seter med to foran, to kapteinstoler på andre rad, og en to-seters benk på tredje rad.
 
 ### Forseter
 

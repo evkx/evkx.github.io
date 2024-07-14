@@ -105,7 +105,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-Ce modèle offre une configuration à quatre places ou une configuration 4+1 en option.
+Il existe un type de siège que vous pouvez sélectionner dans différents matériaux. Ce modèle offre une configuration à quatre places ou une configuration 4+1 en option.
 
 ### Sièges de première rangée
 

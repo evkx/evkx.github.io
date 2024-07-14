@@ -96,7 +96,7 @@ Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du 
 
 ## Interiør
 
-Du kan velge mellom flere interiørdesign. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge mellom flere interiørdesign. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 ### Forseter
 

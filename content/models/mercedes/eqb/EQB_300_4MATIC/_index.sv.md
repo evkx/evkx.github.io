@@ -100,7 +100,7 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 ## Interiör
 
-Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Dessutom erbjuder modellen en traditionell femsitslayout eller en valfri sjusitslayout.
+Dessutom erbjuder modellen en traditionell femsitslayout eller en valfri sjusitslayout.
 
 ### Framsäten
 

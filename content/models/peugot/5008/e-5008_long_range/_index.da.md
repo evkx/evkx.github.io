@@ -104,7 +104,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Sædelayoutet er syv sæder med to foran, tre sæder på anden række og to sæder på tredje række.
+Der er én sædetype, du kan vælge i forskellige materialer. Sædelayoutet er syv sæder med to foran, tre sæder på anden række og to sæder på tredje række.
 
 ### Første række sæder
 

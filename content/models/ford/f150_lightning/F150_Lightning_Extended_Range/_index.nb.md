@@ -102,7 +102,7 @@ Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne m
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 ### Forseter
 

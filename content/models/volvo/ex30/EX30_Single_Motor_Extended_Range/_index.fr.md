@@ -96,7 +96,7 @@ Il existe deux options de toit différentes à choisir. En option, vous pouvez c
 
 ## Intérieur
 
-Vous pouvez choisir entre plusieurs aménagements intérieurs. La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
+Vous pouvez choisir entre différents types de matériaux de siège et de style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs. La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
 ### Sièges de première rangée
 

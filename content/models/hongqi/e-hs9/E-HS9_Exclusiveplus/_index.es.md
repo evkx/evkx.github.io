@@ -100,7 +100,7 @@ Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámi
 
 ## Interior
 
-Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior. La disposición de los asientos es de seis asientos, dos al frente, dos sillas estilo capitán en la segunda fila y un banco de dos asientos en la tercera fila.
+La disposición de los asientos es de seis asientos, dos al frente, dos sillas estilo capitán en la segunda fila y un banco de dos asientos en la tercera fila.
 
 ### Asientos de primera fila
 

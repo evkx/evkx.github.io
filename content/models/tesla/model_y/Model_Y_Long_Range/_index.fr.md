@@ -105,7 +105,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-Il existe un type de siège que vous pouvez sélectionner dans différents matériaux. De plus, le modèle propose une configuration traditionnelle à cinq places ou une configuration optionnelle à sept places.
+De plus, le modèle propose une configuration traditionnelle à cinq places ou une configuration optionnelle à sept places.
 
 ### Sièges de première rangée
 

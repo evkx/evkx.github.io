@@ -104,7 +104,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-This model offers a four-seat layout or an optional 4+1 layout.
+There is one seat type you can select in different materials. This model offers a four-seat layout or an optional 4+1 layout.
 
 ### First row seats
 

@@ -96,7 +96,7 @@ Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du b
 
 ## Interiør
 
-Du kan vælge mellem flere interiørdesigns. Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
+Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns. Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
 ### Første række sæder
 

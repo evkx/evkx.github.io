@@ -96,7 +96,7 @@ There is only one roof for this model.
 
 ## Interior
 
-You can choose between different types of seat materials and interior styling.
+There is one seat type you can select in different materials.
 
 ### First row seats
 

@@ -102,7 +102,7 @@ Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panora
 
 ## Interiør
 
-Du kan velge mellom ulike typer seter, setematerialer og interiørstil. Seteoppsettet er to seter foran og to seter bak.
+Seteoppsettet er to seter foran og to seter bak.
 
 ### Forseter
 

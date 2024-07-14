@@ -102,7 +102,7 @@ There is only one roof for this model. As an option, you can order this model wi
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
+There is one seat type you can select in different materials. The seat layout is the traditional five seats with two in front and three in the rear.
 
 ### First row seats
 

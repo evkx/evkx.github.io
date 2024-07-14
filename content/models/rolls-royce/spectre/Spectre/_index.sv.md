@@ -99,7 +99,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Sittlayouten är två säten fram och två säten bak.
+Sittlayouten är två säten fram och två säten bak.
 
 ### Framsäten
 

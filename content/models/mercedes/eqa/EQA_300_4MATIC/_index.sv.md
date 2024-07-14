@@ -100,7 +100,7 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 ## Interiör
 
-Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
+Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
 ### Framsäten
 

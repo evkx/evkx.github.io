@@ -103,7 +103,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Du kan velge mellom to typer seter med forhåndskonfigurerte materialer. Denne modellen tilbyr en fire-seters layout eller en valgfri 4+1 layout.
+Denne modellen tilbyr en fire-seters layout eller en valgfri 4+1 layout.
 
 ### Forseter
 

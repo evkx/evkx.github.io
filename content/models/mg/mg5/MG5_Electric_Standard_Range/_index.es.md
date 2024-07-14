@@ -96,7 +96,7 @@ Sólo hay un techo para este modelo.
 
 ## Interior
 
-Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior.
+Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos de primera fila
 

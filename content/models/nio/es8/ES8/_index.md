@@ -118,7 +118,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling.
+
 
 ### First row seats
 

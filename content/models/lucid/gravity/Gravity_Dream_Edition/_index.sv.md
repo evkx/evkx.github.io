@@ -104,7 +104,7 @@ Det finns bara ett tak för denna modell. Vindrutan är en panoramavy bakåt öv
 
 ## Interiör
 
-Du kan välja mellan flera inredningsdesigner. Sittlayouten är sju platser med två fram, tre platser på andra raden och två platser på tredje raden.
+Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner. Sittlayouten är sju platser med två fram, tre platser på andra raden och två platser på tredje raden.
 
 ### Framsäten
 

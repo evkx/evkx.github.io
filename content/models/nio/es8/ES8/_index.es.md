@@ -118,7 +118,7 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 
 ## Interior
 
-Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior.
+
 
 ### Asientos de primera fila
 

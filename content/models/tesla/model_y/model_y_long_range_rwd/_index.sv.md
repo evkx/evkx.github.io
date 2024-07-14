@@ -105,7 +105,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Det finns en sätestyp du kan välja i olika material. Dessutom erbjuder modellen en traditionell femsitslayout eller en valfri sjusitslayout.
+Dessutom erbjuder modellen en traditionell femsitslayout eller en valfri sjusitslayout.
 
 ### Framsäten
 

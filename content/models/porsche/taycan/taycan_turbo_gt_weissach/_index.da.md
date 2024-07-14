@@ -107,7 +107,7 @@ Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et al
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sæder, sædematerialer og interiørdesign.
+
 
 ### Første række sæder
 

@@ -103,7 +103,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-You can choose between two types of seats with preconfigured materials.
+
 
 ### First row seats
 

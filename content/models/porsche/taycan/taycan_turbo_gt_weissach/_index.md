@@ -116,7 +116,7 @@ There are three different roof options to select from. The standard is just a re
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling.
+
 
 ### First row seats
 

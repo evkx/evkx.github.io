@@ -118,7 +118,7 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panor
 
 ## Intérieur
 
-Vous pouvez choisir entre différents types de sièges, matériaux de siège et style intérieur.
+
 
 ### Sièges de première rangée
 

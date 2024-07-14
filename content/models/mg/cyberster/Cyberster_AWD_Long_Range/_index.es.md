@@ -93,7 +93,7 @@ Sólo hay un techo para este modelo. El techo estándar es una capota blanda que
 
 ## Interior
 
-Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior.
+Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos de primera fila
 

@@ -104,7 +104,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-Il existe un type de siège que vous pouvez sélectionner dans différents matériaux. La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
+interior.intro.minimalistic.highquality.traditional Vous pouvez choisir entre plusieurs aménagements intérieurs. La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
 ### Sièges de première rangée
 
@@ -133,6 +133,7 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
+- appui-tête réglable en hauteur
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -164,6 +165,8 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/screens_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
+
+Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
 
 ## Infodivertissement
 

@@ -117,7 +117,7 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
+Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
 ### Første række sæder
 

@@ -112,7 +112,7 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sæder, sædematerialer og interiørdesign. Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
+Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
 ### Første række sæder
 

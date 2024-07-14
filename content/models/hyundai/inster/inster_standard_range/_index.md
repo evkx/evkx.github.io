@@ -98,7 +98,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-You can choose between different types of seat materials and interior styling. You can choose between several interior designs. The seat layout is the two seats in front and two seats in the rear.
+You can choose between several interior designs. The seat layout is the two seats in front and two seats in the rear.
 
 ### First row seats
 

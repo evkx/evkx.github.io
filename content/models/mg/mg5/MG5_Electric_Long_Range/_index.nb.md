@@ -96,7 +96,7 @@ Det er bare ett tak for denne modellen.
 
 ## Interiør
 
-Du kan velge mellom ulike typer setematerialer og interiørstil.
+Det er én setetype du kan velge i forskjellige materialer.
 
 ### Forseter
 

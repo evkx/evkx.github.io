@@ -104,7 +104,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Denna modell erbjuder en fyra-sits layout eller en valfri 4+1 layout.
+Det finns en sätestyp du kan välja i olika material. Denna modell erbjuder en fyra-sits layout eller en valfri 4+1 layout.
 
 ### Framsäten
 

@@ -96,7 +96,7 @@ Det finns bara ett tak för denna modell. Som tillval kan du beställa denna mod
 
 ## Interiör
 
-Du kan välja mellan olika typer av sitsmaterial och inredningsstilar.
+Det finns en sätestyp du kan välja i olika material.
 
 ### Framsäten
 

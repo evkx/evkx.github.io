@@ -111,7 +111,7 @@ There are two different roof options to select from. The standard is just a regu
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling. The seat layout is the traditional five seats with two in front and three in the rear.
+The seat layout is the traditional five seats with two in front and three in the rear.
 
 ### First row seats
 

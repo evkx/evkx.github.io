@@ -107,7 +107,7 @@ Il existe trois options de toit différentes à choisir. Le standard est juste u
 
 ## Intérieur
 
-Vous pouvez choisir entre différents types de sièges, matériaux de siège et style intérieur.
+
 
 ### Sièges de première rangée
 

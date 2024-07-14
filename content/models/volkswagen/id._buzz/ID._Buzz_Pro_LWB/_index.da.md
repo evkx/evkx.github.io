@@ -107,7 +107,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Du kan vælge mellem to typer sæder med prækonfigurerede materialer.
+
 
 ### Første række sæder
 

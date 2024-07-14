@@ -117,7 +117,7 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling. The seat layout is six seats with two in front, two captain chairs in the second row, and a two-seat bench in the third row.
+The seat layout is six seats with two in front, two captain chairs in the second row, and a two-seat bench in the third row.
 
 ### First row seats
 

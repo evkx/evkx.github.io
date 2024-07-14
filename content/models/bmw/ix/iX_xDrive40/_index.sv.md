@@ -101,7 +101,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
+Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
 ### Framsäten
 

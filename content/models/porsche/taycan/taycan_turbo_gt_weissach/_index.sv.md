@@ -107,7 +107,7 @@ Det finns tre olika takalternativ att välja mellan. Standardinställningen är 
 
 ## Interiör
 
-Du kan välja mellan olika typer av säten, sätesmaterial och interiörstil.
+
 
 ### Framsäten
 

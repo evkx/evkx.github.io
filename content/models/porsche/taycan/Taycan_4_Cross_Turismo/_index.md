@@ -118,7 +118,7 @@ There are three different roof options to select from. The standard is just a re
 
 ## Interior
 
-You can choose between different types of seats, seat materials, and interior styling. This model offers a four-seat layout or an optional 4+1 layout.
+This model offers a four-seat layout or an optional 4+1 layout.
 
 ### First row seats
 

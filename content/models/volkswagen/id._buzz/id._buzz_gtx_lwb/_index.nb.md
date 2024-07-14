@@ -103,7 +103,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Du kan velge mellom to typer seter med forhåndskonfigurerte materialer.
+
 
 ### Forseter
 

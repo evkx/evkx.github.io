@@ -104,7 +104,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Denne modellen tilbyr en fire-seters layout eller en valgfri 4+1 layout.
+Det er én setetype du kan velge i forskjellige materialer. Denne modellen tilbyr en fire-seters layout eller en valgfri 4+1 layout.
 
 ### Forseter
 

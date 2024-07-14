@@ -101,7 +101,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-Puedes elegir entre diferentes tipos de asientos, materiales de asientos y estilo interior. La distribución de los asientos es de siete asientos, dos al frente, tres en la segunda fila y dos en la tercera fila.
+La distribución de los asientos es de siete asientos, dos al frente, tres en la segunda fila y dos en la tercera fila.
 
 ### Asientos de primera fila
 
