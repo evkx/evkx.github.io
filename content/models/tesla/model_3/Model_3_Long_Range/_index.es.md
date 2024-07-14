@@ -104,7 +104,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-interior.intro.minimalistic.highquality.traditional Puedes elegir entre varios diseños de interiores. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
+El interior del Tesla Model 3 Long Range es minimalista y cuenta con materiales de alta calidad en varias áreas en lugar de plástico duro. Además, incluye una consola central tradicional que separa al conductor y al pasajero, proporcionando almacenamiento y funcionalidad convenientes. Puedes elegir entre varios diseños de interiores. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
 ### Asientos de primera fila
 

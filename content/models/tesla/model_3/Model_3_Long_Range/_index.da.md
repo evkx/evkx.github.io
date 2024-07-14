@@ -104,7 +104,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-interior.intro.minimalistic.highquality.traditional Du kan vælge mellem flere interiørdesigns. Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
+Interiøret i Tesla Model 3 Long Range er minimalistisk og har materialer af høj kvalitet i flere områder i stedet for hård plast. Derudover inkluderer det en traditionel midterkonsol, der adskiller føreren og passageren, hvilket giver praktisk opbevaring og funktionalitet. Du kan vælge mellem flere interiørdesigns. Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
 ### Første række sæder
 

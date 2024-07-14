@@ -104,7 +104,7 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-interior.intro.minimalistic.highquality.traditional Du kan välja mellan flera inredningsdesigner. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
+Interiören i Tesla Model 3 Long Range är minimalistisk och har material av hög kvalitet på flera områden istället för hård plast. Dessutom inkluderar den en traditionell mittkonsol som skiljer föraren och passageraren, vilket ger praktisk förvaring och funktionalitet. Du kan välja mellan flera inredningsdesigner. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
 ### Framsäten
 

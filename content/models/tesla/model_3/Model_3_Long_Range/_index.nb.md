@@ -104,7 +104,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-interior.intro.minimalistic.highquality.traditional Du kan velge mellom flere interiørdesign. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Interiøret i Tesla Model 3 Long Range er minimalistisk, med materialer av høy kvalitet på flere områder i stedet for hard plast. I tillegg inkluderer det en tradisjonell midtkonsoll som skiller føreren og passasjeren, og gir praktisk oppbevaring og funksjonalitet. Du kan velge mellom flere interiørdesign. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
 ### Forseter
 
