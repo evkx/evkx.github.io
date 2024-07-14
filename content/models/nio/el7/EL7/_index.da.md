@@ -117,11 +117,15 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
 
-Kun én type forsæde er tilgængelig i Nio EL7.
+### Sæder
+
+Nio EL7 har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
+
+Nio EL7 tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -144,7 +148,7 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/nio/el7/el7/frontseats_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

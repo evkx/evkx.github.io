@@ -94,9 +94,13 @@ There is only one roof for this model.
 
 
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Honda e:Ny1.
+
+
+#### First row seats
+
+The Honda e:Ny1 offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -105,7 +109,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

@@ -96,9 +96,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Subaru Solterra AWD.
+
+
+#### First row seats
+
+The Subaru Solterra AWD offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -116,7 +120,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/frontseats_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

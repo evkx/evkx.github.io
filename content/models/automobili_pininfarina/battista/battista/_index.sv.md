@@ -114,9 +114,13 @@ Det finns bara ett tak för denna modell.
 
 
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Automobili Pininfarina Battista.
+
+
+#### Framsäten
+
+Automobili Pininfarina Battista erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 

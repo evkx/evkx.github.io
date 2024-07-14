@@ -103,11 +103,15 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-Hay un tipo de asiento que puedes seleccionar en diferentes materiales. La disposición de los asientos es de siete asientos, dos al frente, dos en la segunda fila y tres en la tercera fila.
+Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Li Auto MEGA.
+La disposición de los asientos es de siete asientos, dos al frente, dos en la segunda fila y tres en la tercera fila.
+
+#### Asientos de primera fila
+
+El Li Auto MEGA ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -134,7 +138,7 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/li_auto/mega/mega/frontseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 
@@ -149,7 +153,7 @@ Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las s
 {{< sitefiguresized thumb="models/li_auto/mega/mega/secondrowseats_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
 
-### Asientos de tercera fila
+#### Asientos de tercera fila
 
 
 

@@ -95,11 +95,15 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Der er én sædetype, du kan vælge i forskellige materialer. Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
+Der er én sædetype, du kan vælge i forskellige materialer.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Zeekr 007 AWD Performance.
+Zeekr 007 AWD Performance har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
+
+Zeekr 007 AWD Performance tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -122,7 +126,7 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/frontseats_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

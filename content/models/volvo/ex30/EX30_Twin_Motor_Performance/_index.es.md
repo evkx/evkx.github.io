@@ -96,11 +96,15 @@ Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este
 
 ## Interior
 
-Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
+Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Volvo EX30 Twin Motor Performance.
+El Volvo EX30 Twin Motor Performance tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
+
+El Volvo EX30 Twin Motor Performance ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -116,7 +120,7 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

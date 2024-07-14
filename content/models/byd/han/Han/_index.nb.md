@@ -105,11 +105,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i BYD Han.
+### Seter
+
+BYD Han har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+BYD Han Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -131,7 +135,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/byd/han/han/frontseats_1_st.jpg" title="BYD Han" width="1920" height="1156"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

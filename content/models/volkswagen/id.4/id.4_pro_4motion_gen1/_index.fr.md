@@ -111,9 +111,13 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
-### Sièges de première rangée
+
+### Sièges
+
+Le Volkswagen ID.4 Pro 4MOTION (GEN1) peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
+#### Sièges de première rangée
 
 Vous pouvez choisir parmi deux types de sièges pour la première rangée du Volkswagen ID.4 Pro 4MOTION (GEN1).
 
@@ -148,7 +152,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/frontseats_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

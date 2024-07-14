@@ -103,11 +103,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er syv seter med to foran, to seter på andre rad og tre seter på tredje rad.
+Det er én setetype du kan velge i forskjellige materialer.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Li Auto MEGA.
+Seteoppsettet er syv seter med to foran, to seter på andre rad og tre seter på tredje rad.
+
+#### Forseter
+
+Li Auto MEGA Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -134,7 +138,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/li_auto/mega/mega/frontseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 
@@ -149,7 +153,7 @@ For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/secondrowseats_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

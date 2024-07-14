@@ -95,11 +95,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er seks seter med to foran, to kapteinstoler på andre rad, og en to-seters benk på tredje rad.
+Det er én setetype du kan velge i forskjellige materialer.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Zeekr 009 ME Edition.
+Seteoppsettet er seks seter med to foran, to kapteinstoler på andre rad, og en to-seters benk på tredje rad.
+
+#### Forseter
+
+Zeekr 009 ME Edition Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -118,7 +122,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 
@@ -133,7 +137,7 @@ For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/secondrowseats_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

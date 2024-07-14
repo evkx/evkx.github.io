@@ -116,11 +116,15 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
+
+
+### Sièges
+
 La disposition des sièges est de sept sièges, dont deux à l'avant, trois sièges dans la deuxième rangée et deux sièges dans la troisième rangée.
 
-### Sièges de première rangée
+#### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le Rivian R1S Quad-Motor AWD MP.
+Le Rivian R1S Quad-Motor AWD MP propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
@@ -142,7 +146,7 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/frontseats_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 
@@ -151,7 +155,7 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-### Sièges de troisième rangée
+#### Sièges de troisième rangée
 
 
 

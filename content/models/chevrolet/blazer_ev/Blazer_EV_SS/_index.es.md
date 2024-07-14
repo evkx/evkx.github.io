@@ -95,9 +95,13 @@ Hay dos opciones de techo diferentes para elegir El techo estándar tiene un gra
 
 
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Chevrolet Blazer EV SS.
+
+
+#### Asientos de primera fila
+
+El Chevrolet Blazer EV SS ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -118,7 +122,7 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

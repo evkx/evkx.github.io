@@ -105,11 +105,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
+
+
+### Seats
+
 In addition, the model offers a traditional five-seat layout or an optional seven-seat layout.
 
-### First row seats
+#### First row seats
 
-Only one front seat type is available in the Tesla Model Y Performance.
+The Tesla Model Y Performance offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -126,7 +130,7 @@ You can choose from 2 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/frontseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 
@@ -137,7 +141,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/secondrowseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
 
 
-### Third-row seats
+#### Third-row seats
 
 
 

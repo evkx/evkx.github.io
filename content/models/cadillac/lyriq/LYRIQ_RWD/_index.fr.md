@@ -94,11 +94,15 @@ Il existe deux options de toit différentes à choisir. Le toit standard a un gr
 
 ## Intérieur
 
-La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
-### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le Cadillac LYRIQ RWD.
+### Sièges
+
+Le Cadillac LYRIQ RWD peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
+#### Sièges de première rangée
+
+Le Cadillac LYRIQ RWD propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
@@ -119,7 +123,7 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/frontseats_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2700"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

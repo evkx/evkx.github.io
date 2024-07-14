@@ -93,11 +93,15 @@ There are two different roof options to select from. As an option, you can order
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the Zeekr X Long Range RWD.
+### Seats
+
+The Zeekr X Long Range RWD accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Zeekr X Long Range RWD offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -114,7 +118,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/frontseats_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="2000"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

@@ -107,9 +107,13 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
-### Asientos de primera fila
+
+### Asientos
+
+El Mercedes-EQ EQE 350+ SUV tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
 
 Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Mercedes-EQ EQE 350+ SUV.
 
@@ -149,7 +153,7 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350plus_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQE 350+ SUV" width="3000" height="2250"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

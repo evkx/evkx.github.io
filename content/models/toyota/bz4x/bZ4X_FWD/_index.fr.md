@@ -96,9 +96,13 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le Toyota bZ4X FWD.
+
+
+#### Sièges de première rangée
+
+Le Toyota bZ4X FWD propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -112,7 +116,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

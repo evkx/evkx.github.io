@@ -128,9 +128,13 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
-### Sièges de première rangée
+
+### Sièges
+
+Le Audi e-tron 55 Sportback peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
+#### Sièges de première rangée
 
 Vous pouvez choisir parmi cinq types de sièges pour la première rangée du Audi e-tron 55 Sportback.
 
@@ -209,7 +213,7 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/frontseats_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="2249"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

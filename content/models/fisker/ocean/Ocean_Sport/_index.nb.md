@@ -98,11 +98,15 @@ Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panora
 
 ## Interiør
 
-Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Det er én setetype du kan velge i forskjellige materialer.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Fisker Ocean Sport.
+Fisker Ocean Sport har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Fisker Ocean Sport Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -123,7 +127,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/frontseats_2_st.jpg" title="Fisker Ocean Sport" width="3000" height="1687"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

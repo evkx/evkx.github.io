@@ -93,11 +93,15 @@ Det finns två olika takalternativ att välja mellan. Som tillval kan du bestäl
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Zeekr X Privilege AWD.
+### Säten
+
+Zeekr X Privilege AWD rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+Zeekr X Privilege AWD erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -114,7 +118,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/frontseats_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

@@ -100,9 +100,13 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 ## Interiør
 
+
+
+### Sæder
+
 Derudover tilbyder modellen et traditionelt fem-sædet layout eller et valgfrit syv-sædet layout.
 
-### Første række sæder
+#### Første række sæder
 
 Der er to sædetyper, du kan vælge imellem til forreste række i Mercedes-EQ EQB 250.
 
@@ -143,7 +147,7 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/frontseats_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1999"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 
@@ -151,7 +155,7 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 
 - højdejusterbar nakkestøtte
 
-### Sæder på tredje række
+#### Sæder på tredje række
 
 
 

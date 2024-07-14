@@ -117,9 +117,13 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Maserati Grecale Folgore.
+
+
+#### Framsäten
+
+Maserati Grecale Folgore erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **Sport** sätet.
 
@@ -134,7 +138,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

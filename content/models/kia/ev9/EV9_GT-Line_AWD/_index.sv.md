@@ -103,9 +103,13 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 Det finns en sätestyp du kan välja i olika material.
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Kia EV9 GT-Line AWD.
+
+
+#### Framsäten
+
+Kia EV9 GT-Line AWD erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -130,7 +134,7 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/frontseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 Du kan välja tre sätestyper för den andra raden i Kia EV9 GT-Line AWD.
 
@@ -154,7 +158,7 @@ Alternativ third är två kaptensstolar. Dessutom är följande funktioner tillg
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/secondrowseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

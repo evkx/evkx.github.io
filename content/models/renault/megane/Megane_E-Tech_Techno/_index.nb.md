@@ -106,11 +106,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i Renault Megane E-Tech Techno.
+### Seter
+
+Renault Megane E-Tech Techno har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Renault Megane E-Tech Techno Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -131,7 +135,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/frontseats_1_st.jpg" title="Renault Megane E-Tech Techno" width="1920" height="1080"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

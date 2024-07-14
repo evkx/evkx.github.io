@@ -106,11 +106,15 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
-### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le SKODA Elroq 85x.
+### Sièges
+
+Le SKODA Elroq 85x peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
+#### Sièges de première rangée
+
+Le SKODA Elroq 85x propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 
@@ -125,7 +129,7 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

@@ -91,11 +91,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
+
+
+### Seats
+
 The seat layout is seven seats with two in front, two seats in the second row and three seats on third row.
 
-### First row seats
+#### First row seats
 
-Only one front seat type is available in the XPENG X9 AWD Performance.
+The XPENG X9 AWD Performance offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -119,7 +123,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/frontseats_1_st.png" title="XPENG X9 AWD Performance" width="3000" height="1514"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 
@@ -134,7 +138,7 @@ For the second row, this model has two captain chairs. In addition, the followin
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/secondrowseats_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1687"  >}}
 
 
-### Third-row seats
+#### Third-row seats
 
 
 

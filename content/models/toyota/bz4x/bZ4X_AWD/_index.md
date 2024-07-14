@@ -96,9 +96,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Toyota bZ4X AWD.
+
+
+#### First row seats
+
+The Toyota bZ4X AWD offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -112,7 +116,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

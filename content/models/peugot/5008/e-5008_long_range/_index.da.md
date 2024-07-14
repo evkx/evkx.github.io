@@ -104,11 +104,15 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Der er én sædetype, du kan vælge i forskellige materialer. Sædelayoutet er syv sæder med to foran, tre sæder på anden række og to sæder på tredje række.
+Der er én sædetype, du kan vælge i forskellige materialer.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Peugot E-5008 Long Range.
+Sædelayoutet er syv sæder med to foran, tre sæder på anden række og to sæder på tredje række.
+
+#### Første række sæder
+
+Peugot E-5008 Long Range tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -127,7 +131,7 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 
@@ -140,7 +144,7 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/secondrowseats_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 
 
-### Sæder på tredje række
+#### Sæder på tredje række
 
 
 

@@ -103,11 +103,15 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
 
-Endast en typ av framsäte är tillgänglig i CUPRA BORN 77 e-BOOST.
+### Säten
+
+CUPRA BORN 77 e-BOOST rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+CUPRA BORN 77 e-BOOST erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -126,7 +130,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/frontseats_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="2110"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

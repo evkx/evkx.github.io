@@ -107,9 +107,13 @@ There are two different roof options to select from. The standard is just a regu
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
+
+### Seats
+
+The Mercedes-EQ EQA 250+ accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
 
 There are two seat types you can choose from for the front row in the Mercedes-EQ EQA 250+.
 
@@ -150,7 +154,7 @@ You can choose from 5 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/frontseats_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

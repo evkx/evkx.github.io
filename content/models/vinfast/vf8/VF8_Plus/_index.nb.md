@@ -106,9 +106,13 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 Du kan velge mellom flere interiørdesign.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i VinFast VF8 Plus.
+
+
+#### Forseter
+
+VinFast VF8 Plus Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -127,7 +131,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

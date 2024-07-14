@@ -127,9 +127,13 @@ Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et al
 
 ## Interiør
 
+
+
+### Sæder
+
 Denne model tilbyder et layout med fire sæder eller et valgfrit 4+1 layout.
 
-### Første række sæder
+#### Første række sæder
 
 Der er tre sædetyper, du kan vælge imellem til forreste række i Porsche Taycan (GEN1).
 
@@ -177,7 +181,7 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gen1/frontseats_1_st.jpg" title="Porsche Taycan (GEN1)" width="2048" height="1536"  >}}
 
 
-### Sæder på anden række
+#### Sæder på anden række
 
 Du kan vælge to sædetyper til anden række i Porsche Taycan (GEN1).
 

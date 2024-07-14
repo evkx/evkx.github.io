@@ -95,9 +95,13 @@ Der er to forskellige tagmuligheder at vælge imellem. Standardtaget har et stor
 
 
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Chevrolet Blazer EV SS.
+
+
+#### Første række sæder
+
+Chevrolet Blazer EV SS tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -118,7 +122,7 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

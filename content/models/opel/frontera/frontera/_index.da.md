@@ -104,9 +104,13 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
+
+### Sæder
+
+Opel Frontera har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
 
 Der er to sædetyper, du kan vælge imellem til forreste række i Opel Frontera.
 
@@ -127,7 +131,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæder på anden række
+#### Sæder på anden række
 
 Du kan vælge to sædetyper til anden række i Opel Frontera.
 

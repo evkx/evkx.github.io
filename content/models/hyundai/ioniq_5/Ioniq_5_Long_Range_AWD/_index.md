@@ -106,9 +106,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Hyundai Ioniq 5 Long Range AWD.
+
+
+#### First row seats
+
+The Hyundai Ioniq 5 Long Range AWD offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -133,7 +137,7 @@ You can choose from 6 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/frontseats_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

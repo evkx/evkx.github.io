@@ -102,9 +102,13 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Hyundai Ioniq 6 Long Range AWD.
+
+
+#### Forseter
+
+Hyundai Ioniq 6 Long Range AWD Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -125,7 +129,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/frontseats_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2000"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

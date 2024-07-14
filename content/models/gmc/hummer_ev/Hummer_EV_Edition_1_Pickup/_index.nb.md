@@ -94,11 +94,15 @@ Det er bare ett tak for denne modellen. Standardtaket har 4 separate glasspanele
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i GMC Hummer EV Edition 1 Pickup.
+### Seter
+
+GMC Hummer EV Edition 1 Pickup har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+GMC Hummer EV Edition 1 Pickup Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -114,7 +118,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

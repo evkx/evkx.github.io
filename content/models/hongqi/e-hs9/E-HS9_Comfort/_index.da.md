@@ -100,11 +100,15 @@ Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset stræ
 
 ## Interiør
 
+
+
+### Sæder
+
 Sædelayoutet er syv sæder med to foran, tre sæder på anden række og to sæder på tredje række.
 
-### Første række sæder
+#### Første række sæder
 
-Kun én type forsæde er tilgængelig i Hongqi E-HS9 Comfort.
+Hongqi E-HS9 Comfort tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -120,7 +124,7 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 
@@ -129,7 +133,7 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
 
-### Sæder på tredje række
+#### Sæder på tredje række
 
 
 

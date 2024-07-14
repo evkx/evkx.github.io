@@ -100,11 +100,15 @@ Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámi
 
 ## Interior
 
+
+
+### Asientos
+
 La disposición de los asientos es de seis asientos, dos al frente, dos sillas estilo capitán en la segunda fila y un banco de dos asientos en la tercera fila.
 
-### Asientos de primera fila
+#### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el Hongqi E-HS9 Exclusive+.
+El Hongqi E-HS9 Exclusive+ ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -121,7 +125,7 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 
@@ -131,7 +135,7 @@ Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las s
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
-### Asientos de tercera fila
+#### Asientos de tercera fila
 
 
 

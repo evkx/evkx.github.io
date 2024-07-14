@@ -101,11 +101,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i BYD Atto 3.
+### Seter
+
+BYD Atto 3 har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+BYD Atto 3 Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -127,7 +131,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/frontseats_1_st.jpg" title="BYD Atto 3" width="1600" height="1203"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

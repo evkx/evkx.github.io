@@ -103,11 +103,15 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i CUPRA BORN VZ.
+### Seter
+
+CUPRA BORN VZ har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+CUPRA BORN VZ Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -126,7 +130,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/cupra/born/born_vz/frontseats_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="2191"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

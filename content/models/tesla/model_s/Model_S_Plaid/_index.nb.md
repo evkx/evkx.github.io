@@ -104,11 +104,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i Tesla Model S Plaid.
+### Seter
+
+Tesla Model S Plaid har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Tesla Model S Plaid Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -123,7 +127,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

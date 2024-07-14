@@ -98,11 +98,15 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
-### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le XPENG G9 RWD Standard Range.
+### Sièges
+
+Le XPENG G9 RWD Standard Range peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
+#### Sièges de première rangée
+
+Le XPENG G9 RWD Standard Range propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
@@ -127,7 +131,7 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/frontseats_1_st.jpeg" title="XPENG G9 RWD Standard Range" width="3000" height="2250"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

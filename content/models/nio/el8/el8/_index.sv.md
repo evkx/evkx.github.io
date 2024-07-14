@@ -117,11 +117,15 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 
 ## Interiör
 
+
+
+### Säten
+
 Sittlayouten är sex platser med två framför, två kaptensstolar på andra raden och en tvåsitssbänk på tredje raden.
 
-### Framsäten
+#### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Nio EL8.
+Nio EL8 erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -143,7 +147,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 Du kan välja två sätestyper för den andra raden i Nio EL8.
 
@@ -166,7 +170,7 @@ Alternativ second är två kaptensstolar. Dessutom är följande funktioner till
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

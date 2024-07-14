@@ -99,11 +99,15 @@ There are two different roof options to select from. The standard is just a regu
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the Smart #1 Pulse.
+### Seats
+
+The Smart #1 Pulse accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Smart #1 Pulse offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -116,7 +120,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

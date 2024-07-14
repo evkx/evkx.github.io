@@ -117,11 +117,15 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Nio ET7.
+### Säten
+
+Nio ET7 rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+Nio ET7 erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -139,7 +143,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

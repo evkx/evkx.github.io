@@ -117,11 +117,15 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 ## Interior
 
+
+
+### Seats
+
 The seat layout is six seats with two in front, two captain chairs in the second row, and a two-seat bench in the third row.
 
-### First row seats
+#### First row seats
 
-Only one front seat type is available in the Nio EL8.
+The Nio EL8 offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -143,7 +147,7 @@ You can choose from 3 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 
-### Second-row seats
+#### Second-row seats
 
 You can choose two seat types for the second row in the Nio EL8.
 
@@ -166,7 +170,7 @@ The second option is two captain chairs. In addition, the following functionalit
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 
-### Third-row seats
+#### Third-row seats
 
 
 

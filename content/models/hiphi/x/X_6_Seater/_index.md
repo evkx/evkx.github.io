@@ -103,11 +103,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
+
+
+### Seats
+
 The seat layout is six seats with two in front, two captain chairs in the second row, and a two-seat bench in the third row.
 
-### First row seats
+#### First row seats
 
-Only one front seat type is available in the HiPhi X 6 Seater.
+The HiPhi X 6 Seater offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -126,7 +130,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 
@@ -137,7 +141,7 @@ For the second row, this model has two captain chairs. In addition, the followin
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
-### Third-row seats
+#### Third-row seats
 
 
 

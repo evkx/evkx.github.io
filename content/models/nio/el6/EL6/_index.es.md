@@ -117,11 +117,15 @@ Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámi
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
-### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el Nio EL6.
+### Asientos
+
+El Nio EL6 tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
+
+El Nio EL6 ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -145,7 +149,7 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/nio/el6/el6/frontseats_1_st.jpg" title="Nio EL6" width="2880" height="2316"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

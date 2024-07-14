@@ -96,9 +96,13 @@ Il existe deux options de toit différentes à choisir. Le toit standard a un gr
 
 
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le Cadillac OPTIQ AWD.
+
+
+#### Sièges de première rangée
+
+Le Cadillac OPTIQ AWD propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
@@ -119,7 +123,7 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/cadillac/optiq/frontseats_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="1684"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

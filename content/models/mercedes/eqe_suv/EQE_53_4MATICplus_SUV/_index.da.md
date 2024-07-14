@@ -105,9 +105,13 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
+
+### Sæder
+
+Mercedes-AMG EQE 53 4MATIC+ SUV har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
 
 Der er to sædetyper, du kan vælge imellem til forreste række i Mercedes-AMG EQE 53 4MATIC+ SUV.
 
@@ -143,7 +147,7 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

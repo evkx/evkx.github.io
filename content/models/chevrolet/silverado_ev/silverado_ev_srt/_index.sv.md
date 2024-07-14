@@ -99,11 +99,15 @@ Det finns bara ett tak för denna modell.
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Chevrolet Silverado EV SRT.
+### Säten
+
+Chevrolet Silverado EV SRT rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+Chevrolet Silverado EV SRT erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -117,7 +121,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

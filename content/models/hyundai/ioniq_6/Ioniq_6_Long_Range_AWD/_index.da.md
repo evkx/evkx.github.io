@@ -102,9 +102,13 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Hyundai Ioniq 6 Long Range AWD.
+
+
+#### Første række sæder
+
+Hyundai Ioniq 6 Long Range AWD tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -125,7 +129,7 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/frontseats_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2000"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

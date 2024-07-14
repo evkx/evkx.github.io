@@ -96,9 +96,13 @@ Der er to forskellige tagmuligheder at vælge imellem. Standardtaget har et stor
 
 
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Cadillac LYRIQ AWD.
+
+
+#### Første række sæder
+
+Cadillac LYRIQ AWD tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -119,7 +123,7 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/frontseats_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2700"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

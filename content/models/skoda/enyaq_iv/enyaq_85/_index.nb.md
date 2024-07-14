@@ -102,11 +102,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i SKODA ENYAQ 85.
+### Seter
+
+SKODA ENYAQ 85 har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+SKODA ENYAQ 85 Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 
@@ -125,7 +129,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/frontseats_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="2107"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

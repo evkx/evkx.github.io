@@ -103,11 +103,15 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
+
+
+### Säten
+
 Denna modell erbjuder en fyra-sits layout eller en valfri 4+1 layout.
 
-### Framsäten
+#### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Volkswagen ID.3 Pro.
+Volkswagen ID.3 Pro erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -123,7 +127,7 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/frontseats_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

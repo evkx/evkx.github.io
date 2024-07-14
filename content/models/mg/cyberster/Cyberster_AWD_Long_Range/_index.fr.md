@@ -95,9 +95,13 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est une capote souple
 
 Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le MG Cyberster AWD Long Range.
+
+
+#### Sièges de première rangée
+
+Le MG Cyberster AWD Long Range propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 

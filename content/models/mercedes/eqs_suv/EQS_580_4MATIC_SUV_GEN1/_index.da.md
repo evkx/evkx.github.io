@@ -104,9 +104,13 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 ## Interiør
 
+
+
+### Sæder
+
 Derudover tilbyder modellen et traditionelt fem-sædet layout eller et valgfrit syv-sædet layout.
 
-### Første række sæder
+#### Første række sæder
 
 Der er to sædetyper, du kan vælge imellem til forreste række i Mercedes-EQ EQS 580 4MATIC SUV.
 
@@ -146,7 +150,7 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1687"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 
@@ -159,7 +163,7 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="2250"  >}}
 
 
-### Sæder på tredje række
+#### Sæder på tredje række
 
 
 

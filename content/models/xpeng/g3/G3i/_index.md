@@ -96,11 +96,15 @@ There is only one roof for this model.
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the XPENG G3i.
+### Seats
+
+The XPENG G3i accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The XPENG G3i offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -113,7 +117,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

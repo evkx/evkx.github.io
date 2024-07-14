@@ -103,11 +103,15 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Du kan vælge mellem flere interiørdesigns. Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
+Du kan vælge mellem flere interiørdesigns.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Xiaomi SU7 Max.
+Xiaomi SU7 Max har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
+
+Xiaomi SU7 Max tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -126,7 +130,7 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/frontseats_1_st.jpg" title="Xiaomi SU7 Max" width="1760" height="1000"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

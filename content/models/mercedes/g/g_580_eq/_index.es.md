@@ -104,9 +104,13 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
-### Asientos de primera fila
+
+### Asientos
+
+El Mercedes-EQ G 580 EQ tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
 
 Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Mercedes-EQ G 580 EQ.
 
@@ -146,7 +150,7 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/frontseats_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

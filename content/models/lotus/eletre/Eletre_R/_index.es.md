@@ -104,11 +104,15 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-Hay un tipo de asiento que puedes seleccionar en diferentes materiales. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
+Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Lotus Eletre R.
+El Lotus Eletre R tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
+
+El Lotus Eletre R ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -132,7 +136,7 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/frontseats_1_st.jpg" title="Lotus Eletre R" width="3000" height="1783"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

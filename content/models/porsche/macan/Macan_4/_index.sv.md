@@ -107,9 +107,13 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
+
+### Säten
+
+Porsche Macan 4 rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
 
 Det finns tre sätestyper du kan välja mellan för den främre raden av Porsche Macan 4.
 
@@ -151,7 +155,7 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

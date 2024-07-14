@@ -98,11 +98,15 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Det finns en sätestyp du kan välja i olika material. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
+Det finns en sätestyp du kan välja i olika material.
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Volvo EX90 Twin Motor.
+Volvo EX90 Twin Motor rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+Volvo EX90 Twin Motor erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -125,7 +129,7 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/frontseats_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 
@@ -137,7 +141,7 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion d�
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

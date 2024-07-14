@@ -105,9 +105,13 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
-### Asientos de primera fila
+
+### Asientos
+
+El Mercedes-AMG EQE 53 4MATIC+ SUV tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
 
 Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Mercedes-AMG EQE 53 4MATIC+ SUV.
 
@@ -143,7 +147,7 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

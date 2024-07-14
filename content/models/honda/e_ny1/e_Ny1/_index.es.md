@@ -94,9 +94,13 @@ Sólo hay un techo para este modelo.
 
 
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Honda e:Ny1.
+
+
+#### Asientos de primera fila
+
+El Honda e:Ny1 ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -105,7 +109,7 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

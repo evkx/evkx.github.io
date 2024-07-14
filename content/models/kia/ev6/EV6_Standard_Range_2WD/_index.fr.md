@@ -106,9 +106,13 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le Kia EV6 Standard Range 2WD.
+
+
+#### Sièges de première rangée
+
+Le Kia EV6 Standard Range 2WD propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
@@ -133,7 +137,7 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_2wd/frontseats_1_st.jpg" title="Kia EV6 Standard Range 2WD" width="3000" height="1999"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

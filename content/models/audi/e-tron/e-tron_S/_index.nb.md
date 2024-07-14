@@ -125,9 +125,13 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
+
+### Seter
+
+Audi e-tron S har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
 
 Det er tre setetyper du kan velge mellom for første rad i Audi e-tron S.
 
@@ -180,7 +184,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/frontseats_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

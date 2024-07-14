@@ -108,9 +108,13 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
+
+### Seter
+
+Mercedes-AMG EQS 53 4MATIC+ har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
 
 Det er to setetyper du kan velge mellom for første rad i Mercedes-AMG EQS 53 4MATIC+.
 
@@ -150,7 +154,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/frontseats_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="2000"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Mercedes-AMG EQS 53 4MATIC+.
 

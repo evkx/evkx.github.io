@@ -93,11 +93,15 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 
 ## Intérieur
 
+
+
+### Sièges
+
 La disposition des sièges est deux sièges à l'avant et deux sièges à l'arrière.
 
-### Sièges de première rangée
+#### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le Neta GT 580 AWD.
+Le Neta GT 580 AWD propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
@@ -114,7 +118,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/frontseats_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="1081"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

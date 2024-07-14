@@ -105,11 +105,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the BYD Han.
+### Seats
+
+The BYD Han accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The BYD Han offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -131,7 +135,7 @@ You can choose from 3 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/byd/han/han/frontseats_1_st.jpg" title="BYD Han" width="1920" height="1156"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

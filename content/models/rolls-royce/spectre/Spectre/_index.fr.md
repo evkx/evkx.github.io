@@ -99,11 +99,15 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
+
+
+### Sièges
+
 La disposition des sièges est deux sièges à l'avant et deux sièges à l'arrière.
 
-### Sièges de première rangée
+#### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le Rolls-Royce Spectre.
+Le Rolls-Royce Spectre propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -131,7 +135,7 @@ Vous pouvez choisir parmi 7 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1687"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

@@ -111,9 +111,13 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
+
+### Sæder
+
+Volkswagen ID.4 Pro 4MOTION (GEN1) har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
 
 Der er to sædetyper, du kan vælge imellem til forreste række i Volkswagen ID.4 Pro 4MOTION (GEN1).
 
@@ -148,7 +152,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/frontseats_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

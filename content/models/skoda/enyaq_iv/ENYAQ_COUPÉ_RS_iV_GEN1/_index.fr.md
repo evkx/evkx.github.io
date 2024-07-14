@@ -112,11 +112,15 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
-### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le SKODA ENYAQ COUPÉ RS iV (GEN1).
+### Sièges
+
+Le SKODA ENYAQ COUPÉ RS iV (GEN1) peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
+#### Sièges de première rangée
+
+Le SKODA ENYAQ COUPÉ RS iV (GEN1) propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 
@@ -135,7 +139,7 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/frontseats_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV (GEN1)" width="3000" height="2001"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

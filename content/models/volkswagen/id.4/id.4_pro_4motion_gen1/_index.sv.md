@@ -111,9 +111,13 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
+
+### Säten
+
+Volkswagen ID.4 Pro 4MOTION (GEN1) rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
 
 Det finns två sätestyper du kan välja mellan för den främre raden av Volkswagen ID.4 Pro 4MOTION (GEN1).
 
@@ -148,7 +152,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/frontseats_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

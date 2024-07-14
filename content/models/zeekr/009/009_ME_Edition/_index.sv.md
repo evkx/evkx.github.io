@@ -95,11 +95,15 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Det finns en sätestyp du kan välja i olika material. Sittlayouten är sex platser med två framför, två kaptensstolar på andra raden och en tvåsitssbänk på tredje raden.
+Det finns en sätestyp du kan välja i olika material.
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Zeekr 009 ME Edition.
+Sittlayouten är sex platser med två framför, två kaptensstolar på andra raden och en tvåsitssbänk på tredje raden.
+
+#### Framsäten
+
+Zeekr 009 ME Edition erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -118,7 +122,7 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 
@@ -133,7 +137,7 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/secondrowseats_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

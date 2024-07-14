@@ -97,11 +97,15 @@ Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panora
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i Aion Hyper GT 710 Supercharged.
+### Seter
+
+Aion Hyper GT 710 Supercharged har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Aion Hyper GT 710 Supercharged Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -120,7 +124,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/frontseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1875" height="1250"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

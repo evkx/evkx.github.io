@@ -101,11 +101,15 @@ Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model
 
 ## Interiør
 
-Der er én sædetype, du kan vælge i forskellige materialer. Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
+Der er én sædetype, du kan vælge i forskellige materialer.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Ford F150 Lightning Standard Range.
+Ford F150 Lightning Standard Range har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
+
+Ford F150 Lightning Standard Range tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -126,7 +130,7 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/frontseats_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1687"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

@@ -101,11 +101,15 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
+
+
+### Asientos
+
 La distribución de los asientos es de siete asientos, dos al frente, tres en la segunda fila y dos en la tercera fila.
 
-### Asientos de primera fila
+#### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el BYD Tang EV600.
+El BYD Tang EV600 ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -123,7 +127,7 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 
@@ -135,7 +139,7 @@ La segunda fila tiene un banco estándar de tres asientos con una división 60:4
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="1921" height="1080"  >}}
 
 
-### Asientos de tercera fila
+#### Asientos de tercera fila
 
 
 

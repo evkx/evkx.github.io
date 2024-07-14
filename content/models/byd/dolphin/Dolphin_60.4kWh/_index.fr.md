@@ -101,11 +101,15 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
-### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le BYD Dolphin 60.4kWh.
+### Sièges
+
+Le BYD Dolphin 60.4kWh peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
+#### Sièges de première rangée
+
+Le BYD Dolphin 60.4kWh propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -127,7 +131,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/frontseats_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1579"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

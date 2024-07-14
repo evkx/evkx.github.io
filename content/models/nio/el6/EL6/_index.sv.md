@@ -117,11 +117,15 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Nio EL6.
+### Säten
+
+Nio EL6 rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+Nio EL6 erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -145,7 +149,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/nio/el6/el6/frontseats_1_st.jpg" title="Nio EL6" width="2880" height="2316"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

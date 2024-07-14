@@ -108,11 +108,15 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
-### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el BMW iX3.
+### Asientos
+
+El BMW iX3 tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
+
+El BMW iX3 ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
@@ -128,7 +132,7 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

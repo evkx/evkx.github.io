@@ -117,11 +117,15 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 
 ## Interiør
 
+
+
+### Sæder
+
 Sædelayoutet er seks sæder med to foran, to kaptajnstole på anden række og en to-sædet bænk på tredje række.
 
-### Første række sæder
+#### Første række sæder
 
-Kun én type forsæde er tilgængelig i Nio EL8.
+Nio EL8 tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -143,7 +147,7 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 
-### Sæder på anden række
+#### Sæder på anden række
 
 Du kan vælge to sædetyper til anden række i Nio EL8.
 
@@ -166,7 +170,7 @@ Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter ti
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 
-### Sæder på tredje række
+#### Sæder på tredje række
 
 
 

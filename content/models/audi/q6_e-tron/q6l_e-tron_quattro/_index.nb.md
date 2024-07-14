@@ -126,9 +126,13 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
+
+### Seter
+
+Audi Q6L e-tron quattro har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
 
 Det er tre setetyper du kan velge mellom for første rad i Audi Q6L e-tron quattro.
 
@@ -159,7 +163,7 @@ Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

@@ -103,11 +103,15 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
+
+
+### Säten
+
 Sittlayouten är sex platser med två framför, två kaptensstolar på andra raden och en tvåsitssbänk på tredje raden.
 
-### Framsäten
+#### Framsäten
 
-Endast en typ av framsäte är tillgänglig i HiPhi X 6 Seater.
+HiPhi X 6 Seater erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -126,7 +130,7 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 
@@ -137,7 +141,7 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

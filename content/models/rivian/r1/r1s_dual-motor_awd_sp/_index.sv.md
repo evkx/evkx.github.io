@@ -96,11 +96,15 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
+
+
+### Säten
+
 Sittlayouten är sju platser med två fram, tre platser på andra raden och två platser på tredje raden.
 
-### Framsäten
+#### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Rivian R1S Dual-Motor AWD SP.
+Rivian R1S Dual-Motor AWD SP erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -122,7 +126,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/frontseats_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 
@@ -131,7 +135,7 @@ Den andra raden har en standardbänk med tre sittplatser med en -sektion där du
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

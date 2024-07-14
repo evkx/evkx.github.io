@@ -102,11 +102,15 @@ There is only one roof for this model. The standard roof includes a large panora
 
 ## Interior
 
+
+
+### Seats
+
 The seat layout is the two seats in front and two seats in the rear.
 
-### First row seats
+#### First row seats
 
-Only one front seat type is available in the Nio ET9.
+The Nio ET9 offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -128,7 +132,7 @@ You can choose from 3 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/nio/et9/et9/frontseats_1_st.jpg" title="Nio ET9" width="1170" height="759"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

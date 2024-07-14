@@ -95,9 +95,13 @@ Det er to forskjellige takalternativer å velge mellom. Standardtaket har et sto
 
 
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Chevrolet Blazer EV RS AWD.
+
+
+#### Forseter
+
+Chevrolet Blazer EV RS AWD Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -118,7 +122,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/frontseats_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

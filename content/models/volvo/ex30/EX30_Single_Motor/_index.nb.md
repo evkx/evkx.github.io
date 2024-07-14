@@ -96,11 +96,15 @@ Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du 
 
 ## Interiør
 
-Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge mellom flere interiørdesign. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Volvo EX30 Single Motor.
+Volvo EX30 Single Motor har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Volvo EX30 Single Motor Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -116,7 +120,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

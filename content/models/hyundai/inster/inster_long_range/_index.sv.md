@@ -100,9 +100,13 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 Du kan välja mellan flera inredningsdesigner.
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Hyundai INSTER Long Range.
+
+
+#### Framsäten
+
+Hyundai INSTER Long Range erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -124,7 +128,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/frontseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

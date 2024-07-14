@@ -113,9 +113,13 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
+
+### Säten
+
+Audi Q4 50 e-tron quattro rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
 
 Det finns två sätestyper du kan välja mellan för den främre raden av Audi Q4 50 e-tron quattro.
 
@@ -146,7 +150,7 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q4 50 e-tron quattro" width="3000" height="1998"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 Du kan välja två sätestyper för den andra raden i Audi Q4 50 e-tron quattro.
 

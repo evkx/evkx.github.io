@@ -108,11 +108,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i Tesla Model 3 Performance (GEN1).
+### Seter
+
+Tesla Model 3 Performance (GEN1) har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Tesla Model 3 Performance (GEN1) Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -130,7 +134,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/frontseats_1_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="2000"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

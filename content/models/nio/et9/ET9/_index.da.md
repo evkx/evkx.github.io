@@ -102,11 +102,15 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 
 ## Interiør
 
+
+
+### Sæder
+
 Sædeopsætningen er to sæder foran og to sæder bagved.
 
-### Første række sæder
+#### Første række sæder
 
-Kun én type forsæde er tilgængelig i Nio ET9.
+Nio ET9 tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -128,7 +132,7 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/nio/et9/et9/frontseats_1_st.jpg" title="Nio ET9" width="1170" height="759"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

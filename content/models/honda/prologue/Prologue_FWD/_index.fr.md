@@ -101,9 +101,13 @@ Il existe deux options de toit différentes à choisir. Le toit standard a un gr
 
 Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le Honda Prologue FWD.
+
+
+#### Sièges de première rangée
+
+Le Honda Prologue FWD propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
@@ -121,7 +125,7 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

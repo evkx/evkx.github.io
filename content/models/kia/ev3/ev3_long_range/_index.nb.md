@@ -102,9 +102,13 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 Det er én setetype du kan velge i forskjellige materialer.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Kia EV3 Long Range.
+
+
+#### Forseter
+
+Kia EV3 Long Range Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -125,7 +129,7 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

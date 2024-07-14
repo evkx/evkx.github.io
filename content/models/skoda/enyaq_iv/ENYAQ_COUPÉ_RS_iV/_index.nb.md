@@ -106,11 +106,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i SKODA ENYAQ COUPÉ RS iV.
+### Seter
+
+SKODA ENYAQ COUPÉ RS iV har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+SKODA ENYAQ COUPÉ RS iV Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 
@@ -129,7 +133,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/frontseats_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" width="3000" height="2001"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

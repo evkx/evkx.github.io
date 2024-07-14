@@ -101,11 +101,15 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
-### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el BMW iX xDrive40.
+### Asientos
+
+El BMW iX xDrive40 tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
+
+El BMW iX xDrive40 ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -125,7 +129,7 @@ Puedes elegir entre 7 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/frontseat_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1999"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

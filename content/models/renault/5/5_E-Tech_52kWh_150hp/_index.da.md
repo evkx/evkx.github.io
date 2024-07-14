@@ -101,11 +101,15 @@ Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
 
-Kun én type forsæde er tilgængelig i Renault 5 E-Tech 52kWh 150hp.
+### Sæder
+
+Renault 5 E-Tech 52kWh 150hp har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
+
+Renault 5 E-Tech 52kWh 150hp tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -121,7 +125,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/frontseats_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

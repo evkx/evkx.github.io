@@ -109,9 +109,13 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
+
+### Säten
+
+BMW i4 eDrive40 rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
 
 Det finns två sätestyper du kan välja mellan för den främre raden av BMW i4 eDrive40.
 
@@ -188,7 +192,7 @@ Du kan välja mellan 21 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/frontseats_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2121"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

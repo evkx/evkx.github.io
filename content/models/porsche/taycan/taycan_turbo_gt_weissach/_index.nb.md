@@ -109,7 +109,11 @@ Det er tre forskjellige takalternativer å velge mellom. Standarden er bare et v
 
 
 
-### Forseter
+### Seter
+
+
+
+#### Forseter
 
 Det er to setetyper du kan velge mellom for første rad i Porsche Taycan Turbo GT Weissach.
 

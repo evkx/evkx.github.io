@@ -95,11 +95,15 @@ Det finns bara ett tak för denna modell. Som ekstrautstyr kan du bestille denne
 
 ## Interiör
 
+
+
+### Säten
+
 Sittlayouten är sju platser med två fram, två platser på andra raden och tre platser på tredje raden.
 
-### Framsäten
+#### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Cadillac ESCALADE IQ.
+Cadillac ESCALADE IQ erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -121,7 +125,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 
@@ -137,7 +141,7 @@ För den andra raden har den här modellen dubbla [executive-säten](../../../..
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2003"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

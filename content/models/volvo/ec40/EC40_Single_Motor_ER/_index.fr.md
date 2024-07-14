@@ -100,11 +100,15 @@ Il existe deux options de toit différentes à choisir. En option, vous pouvez c
 
 ## Intérieur
 
-La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
-### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le Volvo EC40 Single Motor ER.
+### Sièges
+
+Le Volvo EC40 Single Motor ER peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
+#### Sièges de première rangée
+
+Le Volvo EC40 Single Motor ER propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
@@ -120,7 +124,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/frontseats_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

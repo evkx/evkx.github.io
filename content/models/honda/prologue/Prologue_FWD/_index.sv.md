@@ -101,9 +101,13 @@ Det finns två olika takalternativ att välja mellan. Standardtaket har ett stor
 
 Du kan välja mellan flera inredningsdesigner.
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Honda Prologue FWD.
+
+
+#### Framsäten
+
+Honda Prologue FWD erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -121,7 +125,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

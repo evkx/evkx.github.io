@@ -96,11 +96,15 @@ Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du b
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns. Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
+Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Volvo EX30 Single Motor.
+Volvo EX30 Single Motor har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
+
+Volvo EX30 Single Motor tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -116,7 +120,7 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

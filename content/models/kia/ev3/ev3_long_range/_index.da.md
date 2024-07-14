@@ -102,9 +102,13 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 Der er én sædetype, du kan vælge i forskellige materialer.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Kia EV3 Long Range.
+
+
+#### Første række sæder
+
+Kia EV3 Long Range tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -125,7 +129,7 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

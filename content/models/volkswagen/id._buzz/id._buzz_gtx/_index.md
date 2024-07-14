@@ -103,9 +103,13 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
+
+### Seats
+
+The Volkswagen ID. Buzz GTX accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
 
 There are two seat types you can choose from for the front row in the Volkswagen ID. Buzz GTX.
 
@@ -146,7 +150,7 @@ You can choose from 5 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/frontseats_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="2010"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

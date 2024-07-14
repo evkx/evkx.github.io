@@ -103,9 +103,13 @@ There are two different roof options to select from. The standard is just a regu
 
 ## Interior
 
+
+
+### Seats
+
 In addition, the model offers a traditional five-seat layout or an optional seven-seat layout.
 
-### First row seats
+#### First row seats
 
 There are two seat types you can choose from for the front row in the Mercedes-EQ EQB 250.
 
@@ -146,7 +150,7 @@ You can choose from 5 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/frontseats_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1999"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 
@@ -154,7 +158,7 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 - height adjustable headrest
 
-### Third-row seats
+#### Third-row seats
 
 
 

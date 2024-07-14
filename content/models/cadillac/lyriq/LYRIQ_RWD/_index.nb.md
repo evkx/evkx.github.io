@@ -94,11 +94,15 @@ Det er to forskjellige takalternativer å velge mellom. Standardtaket har et sto
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i Cadillac LYRIQ RWD.
+### Seter
+
+Cadillac LYRIQ RWD har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Cadillac LYRIQ RWD Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -119,7 +123,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/frontseats_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2700"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

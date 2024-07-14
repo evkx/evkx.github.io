@@ -109,9 +109,13 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
-### Asientos de primera fila
+
+### Asientos
+
+El SKODA Enyaq iV80x tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
 
 Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el SKODA Enyaq iV80x.
 
@@ -146,7 +150,7 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/frontseats_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="1999"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

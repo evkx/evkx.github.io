@@ -100,11 +100,15 @@ Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset stræ
 
 ## Interiør
 
+
+
+### Sæder
+
 Sædelayoutet er seks sæder med to foran, to kaptajnstole på anden række og en to-sædet bænk på tredje række.
 
-### Første række sæder
+#### Første række sæder
 
-Kun én type forsæde er tilgængelig i Hongqi E-HS9 Exclusive.
+Hongqi E-HS9 Exclusive tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -121,7 +125,7 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 
@@ -131,7 +135,7 @@ For anden række har denne model to kaptajnstole. Derudover er følgende funktio
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-### Sæder på tredje række
+#### Sæder på tredje række
 
 
 

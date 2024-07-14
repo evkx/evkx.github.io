@@ -114,9 +114,13 @@ Det er bare ett tak for denne modellen.
 
 
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i YangWang U9.
+
+
+#### Forseter
+
+YangWang U9 Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 

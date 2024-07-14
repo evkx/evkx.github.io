@@ -101,11 +101,15 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
+
+
+### Säten
+
 Sittlayouten är sju platser med två fram, tre platser på andra raden och två platser på tredje raden.
 
-### Framsäten
+#### Framsäten
 
-Endast en typ av framsäte är tillgänglig i BYD Tang EV600.
+BYD Tang EV600 erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -123,7 +127,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 
@@ -135,7 +139,7 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="1921" height="1080"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

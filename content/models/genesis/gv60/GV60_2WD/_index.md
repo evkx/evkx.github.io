@@ -102,9 +102,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Genesis GV60 2WD.
+
+
+#### First row seats
+
+The Genesis GV60 2WD offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -129,7 +133,7 @@ You can choose from 6 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/frontseats_1_st.jpg" title="Genesis GV60 2WD" width="1500" height="1090"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

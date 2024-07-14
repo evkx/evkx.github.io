@@ -98,11 +98,15 @@ Det finns två olika takalternativ att välja mellan. Som ekstrautstyr kan du be
 
 ## Interiör
 
-Det finns en sätestyp du kan välja i olika material. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
+Det finns en sätestyp du kan välja i olika material.
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Polestar 2 Long Range Dual Motor Performance.
+Polestar 2 Long Range Dual Motor Performance rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+Polestar 2 Long Range Dual Motor Performance erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -123,7 +127,7 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/frontseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="1687"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

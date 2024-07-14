@@ -128,9 +128,13 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
-### Asientos de primera fila
+
+### Asientos
+
+El Audi e-tron 55 tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
 
 Hay cinco tipos de asientos entre los que puedes elegir para la primera fila en el Audi e-tron 55.
 
@@ -209,7 +213,7 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55/frontseats_1_st.jpg" title="Audi e-tron 55" width="3000" height="1999"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

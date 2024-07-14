@@ -114,9 +114,13 @@ Sólo hay un techo para este modelo.
 
 
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Rimac Nevera.
+
+
+#### Asientos de primera fila
+
+El Rimac Nevera ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 

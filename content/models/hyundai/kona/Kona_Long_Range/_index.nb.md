@@ -104,9 +104,13 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Hyundai Kona Long Range.
+
+
+#### Forseter
+
+Hyundai Kona Long Range Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -127,7 +131,7 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

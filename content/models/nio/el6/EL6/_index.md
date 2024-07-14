@@ -117,11 +117,15 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the Nio EL6.
+### Seats
+
+The Nio EL6 accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Nio EL6 offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -145,7 +149,7 @@ You can choose from 3 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/nio/el6/el6/frontseats_1_st.jpg" title="Nio EL6" width="2880" height="2316"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

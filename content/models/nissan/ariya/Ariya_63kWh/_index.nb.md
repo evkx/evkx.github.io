@@ -102,11 +102,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Det er én setetype du kan velge i forskjellige materialer.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Nissan Ariya 63kWh.
+Nissan Ariya 63kWh har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Nissan Ariya 63kWh Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -125,7 +129,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

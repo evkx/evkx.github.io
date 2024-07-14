@@ -104,11 +104,15 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-L'intérieur du Tesla Model 3 Long Range est minimaliste, avec des matériaux de haute qualité dans plusieurs zones au lieu de plastique dur. De plus, il comprend une console centrale traditionnelle qui sépare le conducteur et le passager, offrant un rangement et une fonctionnalité pratiques. Vous pouvez choisir entre plusieurs aménagements intérieurs. La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
+L'intérieur du Tesla Model 3 Long Range est minimaliste, avec des matériaux de haute qualité dans plusieurs zones au lieu de plastique dur. De plus, il comprend une console centrale traditionnelle qui sépare le conducteur et le passager, offrant un rangement et une fonctionnalité pratiques. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le Tesla Model 3 Long Range.
+Le Tesla Model 3 Long Range peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
+#### Sièges de première rangée
+
+Le Tesla Model 3 Long Range propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -120,6 +124,8 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
+- Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
+- White [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 
 
@@ -127,7 +133,7 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/frontseats_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

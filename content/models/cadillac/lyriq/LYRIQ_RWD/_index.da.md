@@ -94,11 +94,15 @@ Der er to forskellige tagmuligheder at vælge imellem. Standardtaget har et stor
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
 
-Kun én type forsæde er tilgængelig i Cadillac LYRIQ RWD.
+### Sæder
+
+Cadillac LYRIQ RWD har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
+
+Cadillac LYRIQ RWD tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -119,7 +123,7 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/frontseats_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2700"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

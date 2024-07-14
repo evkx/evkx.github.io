@@ -107,9 +107,13 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
-### Asientos de primera fila
+
+### Asientos
+
+El Ford Capri Extended Range AWD tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
 
 Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Ford Capri Extended Range AWD.
 
@@ -133,7 +137,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Ergo**.
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/frontseats_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

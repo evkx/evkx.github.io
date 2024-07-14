@@ -104,11 +104,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Interiøret i Tesla Model 3 Long Range er minimalistisk, med materialer av høy kvalitet på flere områder i stedet for hard plast. I tillegg inkluderer det en tradisjonell midtkonsoll som skiller føreren og passasjeren, og gir praktisk oppbevaring og funksjonalitet. Du kan velge mellom flere interiørdesign. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Interiøret i Tesla Model 3 Long Range er minimalistisk, med materialer av høy kvalitet på flere områder i stedet for hard plast. I tillegg inkluderer det en tradisjonell midtkonsoll som skiller føreren og passasjeren, og gir praktisk oppbevaring og funksjonalitet. Du kan velge mellom flere interiørdesign.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Tesla Model 3 Long Range.
+Tesla Model 3 Long Range har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Tesla Model 3 Long Range Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -120,6 +124,8 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+- Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- White [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 
 
@@ -127,7 +133,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/frontseats_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

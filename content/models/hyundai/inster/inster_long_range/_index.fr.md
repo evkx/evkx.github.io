@@ -100,9 +100,13 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le Hyundai INSTER Long Range.
+
+
+#### Sièges de première rangée
+
+Le Hyundai INSTER Long Range propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -124,7 +128,7 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/frontseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

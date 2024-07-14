@@ -96,9 +96,13 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 Vous pouvez choisir entre différents types de matériaux de siège et de style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le MG Marvel R Electric Performance.
+
+
+#### Sièges de première rangée
+
+Le MG Marvel R Electric Performance propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -115,7 +119,7 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/frontseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1999"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

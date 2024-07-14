@@ -102,11 +102,15 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Det finns en sätestyp du kan välja i olika material. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
+Det finns en sätestyp du kan välja i olika material.
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Nissan Ariya 63kWh.
+Nissan Ariya 63kWh rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+Nissan Ariya 63kWh erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -125,7 +129,7 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

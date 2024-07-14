@@ -100,9 +100,13 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 ## Intérieur
 
+
+
+### Sièges
+
 De plus, le modèle propose une configuration traditionnelle à cinq places ou une configuration optionnelle à sept places.
 
-### Sièges de première rangée
+#### Sièges de première rangée
 
 Vous pouvez choisir parmi deux types de sièges pour la première rangée du Mercedes-EQ EQB 300 4MATIC.
 
@@ -143,7 +147,7 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_300_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" width="3000" height="1999"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 
@@ -151,7 +155,7 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - appui-tête réglable en hauteur
 
-### Sièges de troisième rangée
+#### Sièges de troisième rangée
 
 
 

@@ -103,9 +103,13 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
-### Asientos de primera fila
+
+### Asientos
+
+El Volkswagen ID.7 Tourer Pro S tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
 
 Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Volkswagen ID.7 Tourer Pro S.
 
@@ -140,7 +144,7 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro_s/frontseats_1_st.jpg" title="Volkswagen ID.7 Tourer Pro S" width="3000" height="2000"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

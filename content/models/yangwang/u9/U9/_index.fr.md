@@ -114,9 +114,13 @@ Il n'y a qu'un seul toit pour ce modèle.
 
 
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le YangWang U9.
+
+
+#### Sièges de première rangée
+
+Le YangWang U9 propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 

@@ -104,11 +104,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-The interior of the Tesla Model 3 Long Range is minimalistic, featuring high-quality materials in several areas in place of hard plastic. Additionally, it includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality. You can choose between several interior designs. The seat layout is the traditional five seats with two in front and three in the rear.
+The interior of the Tesla Model 3 Long Range is minimalistic, featuring high-quality materials in several areas in place of hard plastic. Additionally, it includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality. You can choose between several interior designs.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Tesla Model 3 Long Range.
+The Tesla Model 3 Long Range accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Tesla Model 3 Long Range offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -120,6 +124,8 @@ The following functionalities are available on the **standard** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 You can choose from 2 different materials/colors for this seat type.
+- Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
+- White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 
 
@@ -127,7 +133,7 @@ You can choose from 2 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/frontseats_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

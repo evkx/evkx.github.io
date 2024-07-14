@@ -109,9 +109,13 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
+
+### Seats
+
+The SKODA Enyaq iV80x accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
 
 There are two seat types you can choose from for the front row in the SKODA Enyaq iV80x.
 
@@ -146,7 +150,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/frontseats_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="1999"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

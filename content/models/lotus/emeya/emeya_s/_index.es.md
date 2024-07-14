@@ -105,11 +105,15 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-Hay un tipo de asiento que puedes seleccionar en diferentes materiales. Este modelo ofrece una disposición de cuatro asientos o una disposición opcional de 4+1.
+Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Lotus Emeya S.
+Este modelo ofrece una disposición de cuatro asientos o una disposición opcional de 4+1.
+
+#### Asientos de primera fila
+
+El Lotus Emeya S ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -133,7 +137,7 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/frontseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
 
-### Asientos de la segunda fila
+#### Asientos de la segunda fila
 
 Puedes elegir dos tipos de asientos para la segunda fila en el Lotus Emeya S.
 

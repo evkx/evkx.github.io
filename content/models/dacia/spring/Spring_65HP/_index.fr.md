@@ -98,11 +98,15 @@ Il n'y a qu'un seul toit pour ce modèle.
 
 ## Intérieur
 
+
+
+### Sièges
+
 La disposition des sièges est deux sièges à l'avant et deux sièges à l'arrière.
 
-### Sièges de première rangée
+#### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le Dacia Spring 65HP.
+Le Dacia Spring 65HP propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
@@ -116,7 +120,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/frontseats_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

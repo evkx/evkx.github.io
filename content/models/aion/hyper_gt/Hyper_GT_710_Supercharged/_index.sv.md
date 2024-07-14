@@ -97,11 +97,15 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Aion Hyper GT 710 Supercharged.
+### Säten
+
+Aion Hyper GT 710 Supercharged rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+Aion Hyper GT 710 Supercharged erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -120,7 +124,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/frontseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1875" height="1250"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

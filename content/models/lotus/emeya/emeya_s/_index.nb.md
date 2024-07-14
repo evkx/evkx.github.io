@@ -105,11 +105,15 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Det er én setetype du kan velge i forskjellige materialer. Denne modellen tilbyr en fire-seters layout eller en valgfri 4+1 layout.
+Det er én setetype du kan velge i forskjellige materialer.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Lotus Emeya S.
+Denne modellen tilbyr en fire-seters layout eller en valgfri 4+1 layout.
+
+#### Forseter
+
+Lotus Emeya S Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -133,7 +137,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/frontseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Lotus Emeya S.
 

@@ -97,11 +97,15 @@ Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
 
-Kun én type forsæde er tilgængelig i Lucid Air Sapphire.
+### Sæder
+
+Lucid Air Sapphire har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
+
+Lucid Air Sapphire tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -123,7 +127,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/frontseats_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2001"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

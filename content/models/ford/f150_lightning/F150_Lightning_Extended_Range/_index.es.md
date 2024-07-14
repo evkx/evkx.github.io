@@ -102,11 +102,15 @@ Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con 
 
 ## Interior
 
-Hay un tipo de asiento que puedes seleccionar en diferentes materiales. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
+Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Ford F150 Lightning Extended Range.
+El Ford F150 Lightning Extended Range tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
+
+El Ford F150 Lightning Extended Range ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -127,7 +131,7 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

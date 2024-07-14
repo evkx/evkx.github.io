@@ -109,9 +109,13 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
+
+### Sæder
+
+Audi Q4 Sportback 40 e-tron har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
 
 Der er to sædetyper, du kan vælge imellem til forreste række i Audi Q4 Sportback 40 e-tron.
 
@@ -142,7 +146,7 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_40_e-tron/frontseats_1_st.jpg" title="Audi Q4 Sportback 40 e-tron" width="3000" height="2001"  >}}
 
 
-### Sæder på anden række
+#### Sæder på anden række
 
 Du kan vælge to sædetyper til anden række i Audi Q4 Sportback 40 e-tron.
 

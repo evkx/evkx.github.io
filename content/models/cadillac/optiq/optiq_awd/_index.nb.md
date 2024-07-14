@@ -96,9 +96,13 @@ Det er to forskjellige takalternativer å velge mellom. Standardtaket har et sto
 
 
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Cadillac OPTIQ AWD.
+
+
+#### Forseter
+
+Cadillac OPTIQ AWD Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -119,7 +123,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/cadillac/optiq/frontseats_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="1684"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

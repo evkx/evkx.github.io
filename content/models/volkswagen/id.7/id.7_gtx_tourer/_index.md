@@ -103,9 +103,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
+
+### Seats
+
+The Volkswagen ID.7 GTX Tourer accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
 
 There are two seat types you can choose from for the front row in the Volkswagen ID.7 GTX Tourer.
 
@@ -140,7 +144,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/frontseats_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

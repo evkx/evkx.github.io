@@ -108,9 +108,13 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
+
+### Sæder
+
+Ford Explorer Extended Range AWD har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
 
 Der er to sædetyper, du kan vælge imellem til forreste række i Ford Explorer Extended Range AWD.
 
@@ -130,7 +134,7 @@ Følgende funktioner er tilgængelige på **Ergo** sædet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

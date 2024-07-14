@@ -98,11 +98,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i XPENG G9 AWD Performance.
+### Seter
+
+XPENG G9 AWD Performance har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+XPENG G9 AWD Performance Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -127,7 +131,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/frontseats_1_st.jpeg" title="XPENG G9 AWD Performance" width="3000" height="2250"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

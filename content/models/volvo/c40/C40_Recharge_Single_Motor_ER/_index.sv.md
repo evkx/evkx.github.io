@@ -106,11 +106,15 @@ Det finns två olika takalternativ att välja mellan. Som tillval kan du bestäl
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Volvo C40 Recharge Single Motor ER.
+### Säten
+
+Volvo C40 Recharge Single Motor ER rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+Volvo C40 Recharge Single Motor ER erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -126,7 +130,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/frontseats_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

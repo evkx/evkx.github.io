@@ -99,11 +99,15 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i Smart #1 Pulse.
+### Seter
+
+Smart #1 Pulse har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Smart #1 Pulse Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -116,7 +120,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

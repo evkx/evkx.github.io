@@ -106,9 +106,13 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el VinFast VF8 Eco.
+
+
+#### Asientos de primera fila
+
+El VinFast VF8 Eco ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -123,7 +127,7 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

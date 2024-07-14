@@ -120,9 +120,13 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Nio ES8.
+
+
+#### First row seats
+
+The Nio ES8 offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -144,7 +148,7 @@ You can choose from 3 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/nio/es8/es8/frontseats_1_st.jpg" title="Nio ES8" width="2880" height="1784"  >}}
 
 
-### Second-row seats
+#### Second-row seats
 
 You can choose two seat types for the second row in the Nio ES8.
 
@@ -157,7 +161,7 @@ The standard option is two captain chairs. In addition, the following functional
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
-### Third-row seats
+#### Third-row seats
 
 
 

@@ -103,9 +103,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Kia EV9 Long Range RWD.
+
+
+#### First row seats
+
+The Kia EV9 Long Range RWD offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -130,7 +134,7 @@ You can choose from 6 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/frontseats_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
 
 
-### Second-row seats
+#### Second-row seats
 
 You can choose three seat types for the second row in the Kia EV9 Long Range RWD.
 
@@ -154,7 +158,7 @@ The third option is two captain chairs. In addition, the following functionaliti
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/secondrowseats_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
 
 
-### Third-row seats
+#### Third-row seats
 
 
 

@@ -98,9 +98,13 @@ Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne m
 
 Det er én setetype du kan velge i forskjellige materialer.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i MG MG4 Electric Long Range.
+
+
+#### Forseter
+
+MG MG4 Electric Long Range Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -116,7 +120,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/frontseats_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2000"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

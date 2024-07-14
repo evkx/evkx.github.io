@@ -99,11 +99,15 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
 
-Endast en typ av framsäte är tillgänglig i BMW iX xDrive50.
+### Säten
+
+BMW iX xDrive50 rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+BMW iX xDrive50 erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -123,7 +127,7 @@ Du kan välja mellan 7 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/frontseat_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1999"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

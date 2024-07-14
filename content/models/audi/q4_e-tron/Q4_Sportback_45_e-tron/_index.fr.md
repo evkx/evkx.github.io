@@ -109,9 +109,13 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
-### Sièges de première rangée
+
+### Sièges
+
+Le Audi Q4 Sportback 45 e-tron peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
+#### Sièges de première rangée
 
 Vous pouvez choisir parmi deux types de sièges pour la première rangée du Audi Q4 Sportback 45 e-tron.
 
@@ -142,7 +146,7 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron/frontseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron" width="3000" height="2001"  >}}
 
 
-### Sièges de deuxième rangée
+#### Sièges de deuxième rangée
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Audi Q4 Sportback 45 e-tron.
 

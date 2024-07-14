@@ -104,9 +104,13 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Lexus UX 300e.
+
+
+#### Asientos de primera fila
+
+El Lexus UX 300e ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -125,7 +129,7 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/frontseats_1_st.jpg" title="Lexus UX 300e" width="2281" height="1521"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

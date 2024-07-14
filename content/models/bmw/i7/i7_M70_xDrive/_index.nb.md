@@ -103,11 +103,15 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i BMW i7 M70 xDrive.
+### Seter
+
+BMW i7 M70 xDrive har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+BMW i7 M70 xDrive Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -127,7 +131,7 @@ Du kan velge mellom 7 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/frontseats_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2001"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i BMW i7 M70 xDrive.
 

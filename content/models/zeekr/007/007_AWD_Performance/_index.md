@@ -95,11 +95,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-There is one seat type you can select in different materials. The seat layout is the traditional five seats with two in front and three in the rear.
+There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Zeekr 007 AWD Performance.
+The Zeekr 007 AWD Performance accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Zeekr 007 AWD Performance offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -122,7 +126,7 @@ You can choose from 5 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/frontseats_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

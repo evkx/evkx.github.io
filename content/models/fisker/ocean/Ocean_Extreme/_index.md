@@ -112,11 +112,15 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 ## Interior
 
-There is one seat type you can select in different materials. The seat layout is the traditional five seats with two in front and three in the rear.
+There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Fisker Ocean Extreme.
+The Fisker Ocean Extreme accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Fisker Ocean Extreme offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -137,7 +141,7 @@ You can choose from 4 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/frontseats_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="1687"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

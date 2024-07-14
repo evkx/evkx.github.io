@@ -96,9 +96,13 @@ Hay dos opciones de techo diferentes para elegir El techo estándar tiene un gra
 
 
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Cadillac OPTIQ AWD.
+
+
+#### Asientos de primera fila
+
+El Cadillac OPTIQ AWD ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -119,7 +123,7 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/cadillac/optiq/frontseats_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="1684"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

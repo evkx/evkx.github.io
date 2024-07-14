@@ -107,11 +107,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the BYD Seal U Design.
+### Seats
+
+The BYD Seal U Design accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The BYD Seal U Design offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -128,7 +132,7 @@ You can choose from 3 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/frontseats_1_st.jpg" title="BYD Seal U Design" width="3000" height="1687"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

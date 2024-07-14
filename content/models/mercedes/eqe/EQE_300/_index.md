@@ -111,9 +111,13 @@ There are two different roof options to select from. The standard is just a regu
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
+
+### Seats
+
+The Mercedes-EQ EQE 300 accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
 
 There are two seat types you can choose from for the front row in the Mercedes-EQ EQE 300.
 
@@ -153,7 +157,7 @@ You can choose from 5 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_300/frontseats_1_st.jpg" title="Mercedes-EQ EQE 300" width="3000" height="2000"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

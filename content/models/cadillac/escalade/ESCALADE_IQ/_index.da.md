@@ -95,11 +95,15 @@ Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model
 
 ## Interiør
 
+
+
+### Sæder
+
 Sædelayoutet er syv sæder med to foran, to sæder på anden række og tre sæder på tredje række.
 
-### Første række sæder
+#### Første række sæder
 
-Kun én type forsæde er tilgængelig i Cadillac ESCALADE IQ.
+Cadillac ESCALADE IQ tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -121,7 +125,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 
@@ -137,7 +141,7 @@ For anden række har denne model to [executive-sæder](../../../../technology/se
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2003"  >}}
 
 
-### Sæder på tredje række
+#### Sæder på tredje række
 
 
 

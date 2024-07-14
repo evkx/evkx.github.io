@@ -104,9 +104,13 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Hyundai Kona Standard Range.
+
+
+#### Asientos de primera fila
+
+El Hyundai Kona Standard Range ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -127,7 +131,7 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

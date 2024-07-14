@@ -104,9 +104,13 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
+
+### Säten
+
+Jaguar I-Pace EV400 rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
 
 Det finns två sätestyper du kan välja mellan för den främre raden av Jaguar I-Pace EV400.
 
@@ -154,7 +158,7 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/frontseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1946"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 Du kan välja två sätestyper för den andra raden i Jaguar I-Pace EV400.
 

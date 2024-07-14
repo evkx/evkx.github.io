@@ -112,9 +112,13 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
+
+### Säten
+
+Mercedes-EQ EQS 580 4MATIC rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
 
 Det finns två sätestyper du kan välja mellan för den främre raden av Mercedes-EQ EQS 580 4MATIC.
 
@@ -154,7 +158,7 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic_gen1/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2250"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 Du kan välja två sätestyper för den andra raden i Mercedes-EQ EQS 580 4MATIC.
 

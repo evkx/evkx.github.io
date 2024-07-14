@@ -106,11 +106,15 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
 
-Endast en typ av framsäte är tillgänglig i SKODA ENYAQ COUPÉ 85.
+### Säten
+
+SKODA ENYAQ COUPÉ 85 rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+SKODA ENYAQ COUPÉ 85 erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **Sport** sätet.
 
@@ -129,7 +133,7 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85/frontseats_1_st.jpg" title="SKODA ENYAQ COUPÉ 85" width="3000" height="2001"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

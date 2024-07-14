@@ -106,11 +106,15 @@ Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du 
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i Volvo C40 Recharge Single Motor ER.
+### Seter
+
+Volvo C40 Recharge Single Motor ER har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Volvo C40 Recharge Single Motor ER Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -126,7 +130,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/frontseats_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

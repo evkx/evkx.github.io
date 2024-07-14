@@ -98,9 +98,13 @@ Det finns bara ett tak för denna modell.
 
 Det finns en sätestyp du kan välja i olika material.
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i MG MG5 Electric Standard Range.
+
+
+#### Framsäten
+
+MG MG5 Electric Standard Range erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -117,7 +121,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/frontseats_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="2005"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

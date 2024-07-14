@@ -96,11 +96,15 @@ There are two different roof options to select from. As an option, you can order
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the Volvo EX40 Twin Motor.
+### Seats
+
+The Volvo EX40 Twin Motor accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Volvo EX40 Twin Motor offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -116,7 +120,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_twin_motor/frontseats_1_st.jpg" title="Volvo EX40 Twin Motor" width="1920" height="1080"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

@@ -104,9 +104,13 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
+
+### Seter
+
+Jaguar I-Pace EV400 har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
 
 Det er to setetyper du kan velge mellom for første rad i Jaguar I-Pace EV400.
 
@@ -154,7 +158,7 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/frontseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1946"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Jaguar I-Pace EV400.
 

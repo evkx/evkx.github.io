@@ -103,11 +103,15 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Du kan välja mellan flera inredningsdesigner. Sittlayouten är den traditionella fem sätena med två fram och tre bak.
+Du kan välja mellan flera inredningsdesigner.
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Xiaomi SU7 Pro.
+Xiaomi SU7 Pro rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+Xiaomi SU7 Pro erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -126,7 +130,7 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/frontseats_1_st.jpg" title="Xiaomi SU7 Pro" width="1760" height="1000"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

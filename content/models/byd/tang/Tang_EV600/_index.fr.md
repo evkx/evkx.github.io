@@ -101,11 +101,15 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
+
+
+### Sièges
+
 La disposition des sièges est de sept sièges, dont deux à l'avant, trois sièges dans la deuxième rangée et deux sièges dans la troisième rangée.
 
-### Sièges de première rangée
+#### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le BYD Tang EV600.
+Le BYD Tang EV600 propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -123,7 +127,7 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 
@@ -135,7 +139,7 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="1921" height="1080"  >}}
 
 
-### Sièges de troisième rangée
+#### Sièges de troisième rangée
 
 
 

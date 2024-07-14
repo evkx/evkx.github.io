@@ -91,11 +91,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
+
+
+### Seter
+
 Seteoppsettet er syv seter med to foran, to seter på andre rad og tre seter på tredje rad.
 
-### Forseter
+#### Forseter
 
-Bare én type forsete er tilgjengelig i XPENG X9 AWD Performance.
+XPENG X9 AWD Performance Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -119,7 +123,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/frontseats_1_st.png" title="XPENG X9 AWD Performance" width="3000" height="1514"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 
@@ -134,7 +138,7 @@ For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/secondrowseats_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1687"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

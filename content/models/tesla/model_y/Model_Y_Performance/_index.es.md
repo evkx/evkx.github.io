@@ -105,11 +105,15 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
+
+
+### Asientos
+
 Además, el modelo ofrece una disposición tradicional de cinco asientos o una disposición opcional de siete asientos.
 
-### Asientos de primera fila
+#### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el Tesla Model Y Performance.
+El Tesla Model Y Performance ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -126,7 +130,7 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/frontseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 
@@ -137,7 +141,7 @@ La segunda fila tiene un banco estándar de tres asientos con una división 60:4
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/secondrowseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
 
 
-### Asientos de tercera fila
+#### Asientos de tercera fila
 
 
 

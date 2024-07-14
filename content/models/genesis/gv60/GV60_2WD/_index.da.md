@@ -102,9 +102,13 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 Der er én sædetype, du kan vælge i forskellige materialer.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Genesis GV60 2WD.
+
+
+#### Første række sæder
+
+Genesis GV60 2WD tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -129,7 +133,7 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/frontseats_1_st.jpg" title="Genesis GV60 2WD" width="1500" height="1090"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

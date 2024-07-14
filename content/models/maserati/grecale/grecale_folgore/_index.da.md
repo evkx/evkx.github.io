@@ -117,9 +117,13 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Maserati Grecale Folgore.
+
+
+#### Første række sæder
+
+Maserati Grecale Folgore tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **Sport** sædet.
 
@@ -134,7 +138,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

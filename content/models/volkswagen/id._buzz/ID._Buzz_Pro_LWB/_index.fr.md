@@ -109,7 +109,11 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 
 
-### Sièges de première rangée
+### Sièges
+
+
+
+#### Sièges de première rangée
 
 Vous pouvez choisir parmi deux types de sièges pour la première rangée du Volkswagen ID. Buzz Pro LWB.
 
@@ -150,7 +154,7 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/frontseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2197"  >}}
 
 
-### Sièges de deuxième rangée
+#### Sièges de deuxième rangée
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Volkswagen ID. Buzz Pro LWB.
 
@@ -165,7 +169,7 @@ L'option second est deux sièges capitaine. De plus, les fonctionnalités suivan
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
 
-### Sièges de troisième rangée
+#### Sièges de troisième rangée
 
 
 

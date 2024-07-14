@@ -94,9 +94,13 @@ Det finns bara ett tak för denna modell.
 
 
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Honda e:Ny1.
+
+
+#### Framsäten
+
+Honda e:Ny1 erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -105,7 +109,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

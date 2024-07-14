@@ -95,11 +95,15 @@ Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con 
 
 ## Interior
 
+
+
+### Asientos
+
 La disposición de los asientos es de siete asientos, dos al frente, dos en la segunda fila y tres en la tercera fila.
 
-### Asientos de primera fila
+#### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el Cadillac ESCALADE IQ.
+El Cadillac ESCALADE IQ ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -121,7 +125,7 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 
@@ -137,7 +141,7 @@ Para la segunda fila, este modelo tiene [asientos ejecutivos] gemelos(../../../.
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2003"  >}}
 
 
-### Asientos de tercera fila
+#### Asientos de tercera fila
 
 
 

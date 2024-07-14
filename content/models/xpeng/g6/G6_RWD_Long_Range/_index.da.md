@@ -95,11 +95,15 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
 
-Kun én type forsæde er tilgængelig i XPENG G6 RWD Long Range.
+### Sæder
+
+XPENG G6 RWD Long Range har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
+
+XPENG G6 RWD Long Range tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -121,7 +125,7 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_long_range/frontseats_1_st.jpg" title="XPENG G6 RWD Long Range" width="1920" height="1080"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

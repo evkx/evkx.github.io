@@ -102,9 +102,13 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 Du kan velge mellom flere interiørdesign.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Seres 5 4WD Premium.
+
+
+#### Forseter
+
+Seres 5 4WD Premium Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -123,7 +127,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

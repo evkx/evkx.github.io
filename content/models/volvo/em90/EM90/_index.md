@@ -98,11 +98,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-There is one seat type you can select in different materials. The seat layout is six seats with two in front, two captain chairs in the second row, and a two-seat bench in the third row.
+There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Volvo EM90.
+The seat layout is six seats with two in front, two captain chairs in the second row, and a two-seat bench in the third row.
+
+#### First row seats
+
+The Volvo EM90 offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -125,7 +129,7 @@ You can choose from 5 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/volvo/em90/em90/frontseats_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 
@@ -140,7 +144,7 @@ For the second row, this model has two captain chairs. In addition, the followin
 {{< sitefiguresized thumb="models/volvo/em90/em90/secondrowseats_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 
 
-### Third-row seats
+#### Third-row seats
 
 
 

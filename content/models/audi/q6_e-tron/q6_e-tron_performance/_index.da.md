@@ -130,9 +130,13 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
+
+### Sæder
+
+Audi Q6 e-tron performance har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
 
 Der er tre sædetyper, du kan vælge imellem til forreste række i Audi Q6 e-tron performance.
 
@@ -167,7 +171,7 @@ Følgende funktioner er tilgængelige på **Sport Plus** sædet.
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/frontseats_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

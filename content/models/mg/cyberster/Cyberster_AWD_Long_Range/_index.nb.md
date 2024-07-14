@@ -95,9 +95,13 @@ Det er bare ett tak for denne modellen. Standardtaket er et stofftak topp som ka
 
 Det er én setetype du kan velge i forskjellige materialer.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i MG Cyberster AWD Long Range.
+
+
+#### Forseter
+
+MG Cyberster AWD Long Range Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 

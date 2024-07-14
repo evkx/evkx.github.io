@@ -103,11 +103,15 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
-Vous pouvez choisir entre plusieurs aménagements intérieurs. La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
+Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le Xiaomi SU7 Max.
+Le Xiaomi SU7 Max peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
+#### Sièges de première rangée
+
+Le Xiaomi SU7 Max propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
@@ -126,7 +130,7 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/frontseats_1_st.jpg" title="Xiaomi SU7 Max" width="1760" height="1000"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

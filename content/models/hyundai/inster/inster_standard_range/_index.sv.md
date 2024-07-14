@@ -98,11 +98,15 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Du kan välja mellan flera inredningsdesigner. Sittlayouten är två säten fram och två säten bak.
+Du kan välja mellan flera inredningsdesigner.
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Hyundai INSTER Standard Range.
+Sittlayouten är två säten fram och två säten bak.
+
+#### Framsäten
+
+Hyundai INSTER Standard Range erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -124,7 +128,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/frontseats_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

@@ -103,11 +103,15 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-Hay un tipo de asiento que puedes seleccionar en diferentes materiales. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
+Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el BMW i7 eDrive50.
+El BMW i7 eDrive50 tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
+
+El BMW i7 eDrive50 ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -138,7 +142,7 @@ Puedes elegir entre 15 diferentes materiales/colores para este tipo de asiento.
 
 
 
-### Asientos de la segunda fila
+#### Asientos de la segunda fila
 
 Puedes elegir dos tipos de asientos para la segunda fila en el BMW i7 eDrive50.
 

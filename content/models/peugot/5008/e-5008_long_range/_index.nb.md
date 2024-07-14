@@ -104,11 +104,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
+Det er én setetype du kan velge i forskjellige materialer.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Peugot E-5008 Long Range.
+Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
+
+#### Forseter
+
+Peugot E-5008 Long Range Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -127,7 +131,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 
@@ -140,7 +144,7 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/secondrowseats_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

@@ -104,9 +104,13 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Hyundai Kona Standard Range.
+
+
+#### Første række sæder
+
+Hyundai Kona Standard Range tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -127,7 +131,7 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

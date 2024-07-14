@@ -104,11 +104,15 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
+Interiören i Tesla Model 3 är minimalistisk och har material av hög kvalitet på flera områden istället för hård plast. Dessutom inkluderar den en traditionell mittkonsol som skiljer föraren och passageraren, vilket ger praktisk förvaring och funktionalitet. Du kan välja mellan flera inredningsdesigner.
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Tesla Model 3.
+Tesla Model 3 rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+Tesla Model 3 erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -120,6 +124,8 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
+- Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
+- White [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 
 
@@ -127,12 +133,13 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/frontseats_1_st.jpeg" title="Tesla Model 3" width="1920" height="1080"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
+- höjdjusterbart nackstöd
 
 Det finns bara en typ av ratt tillgänglig.
 

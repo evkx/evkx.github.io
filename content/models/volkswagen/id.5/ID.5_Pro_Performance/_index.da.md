@@ -115,9 +115,13 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
+
+### Sæder
+
+Volkswagen ID.5 Pro Performance har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
 
 Der er to sædetyper, du kan vælge imellem til forreste række i Volkswagen ID.5 Pro Performance.
 
@@ -152,7 +156,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro_performance/frontseats_1_st.jpg" title="Volkswagen ID.5 Pro Performance" width="3000" height="2336"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

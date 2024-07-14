@@ -99,11 +99,15 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Smart #1 Pulse.
+### Säten
+
+Smart #1 Pulse rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+Smart #1 Pulse erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -116,7 +120,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

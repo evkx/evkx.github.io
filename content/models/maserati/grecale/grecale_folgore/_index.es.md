@@ -117,9 +117,13 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Maserati Grecale Folgore.
+
+
+#### Asientos de primera fila
+
+El Maserati Grecale Folgore ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
@@ -134,7 +138,7 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

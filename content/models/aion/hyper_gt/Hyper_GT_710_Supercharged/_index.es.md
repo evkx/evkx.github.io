@@ -97,11 +97,15 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
-### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el Aion Hyper GT 710 Supercharged.
+### Asientos
+
+El Aion Hyper GT 710 Supercharged tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
+
+El Aion Hyper GT 710 Supercharged ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -120,7 +124,7 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/frontseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1875" height="1250"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

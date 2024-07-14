@@ -104,11 +104,15 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
+Interiøret i Tesla Model 3 Performance er minimalistisk og har materialer af høj kvalitet i flere områder i stedet for hård plast. Derudover inkluderer det en traditionel midterkonsol, der adskiller føreren og passageren, hvilket giver praktisk opbevaring og funktionalitet. Du kan vælge mellem flere interiørdesigns.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Tesla Model 3 Performance.
+Tesla Model 3 Performance har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
+
+Tesla Model 3 Performance tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -117,8 +121,11 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [hukommelse førersæde](../../../../technology/seats/adjustment/#seat-memory)
 - [hukommelsespassagersæde](../../../../technology/seats/adjustment/#seat-memory)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+- Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- White [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 
 
@@ -126,12 +133,13 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/frontseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2250"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
+- højdejusterbar nakkestøtte
 
 Der er kun én type rat tilgængelig.
 

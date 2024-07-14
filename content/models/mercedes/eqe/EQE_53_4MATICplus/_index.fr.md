@@ -104,9 +104,13 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 ## Intérieur
 
-La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
-### Sièges de première rangée
+
+### Sièges
+
+Le Mercedes-AMG EQE 53 4MATIC+ peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
+#### Sièges de première rangée
 
 Vous pouvez choisir parmi deux types de sièges pour la première rangée du Mercedes-AMG EQE 53 4MATIC+.
 
@@ -146,7 +150,7 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/frontseats_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="2000"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

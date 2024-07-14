@@ -106,9 +106,13 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 You can choose between several interior designs.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the VinFast VF8 Plus.
+
+
+#### First row seats
+
+The VinFast VF8 Plus offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -127,7 +131,7 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

@@ -103,9 +103,13 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 Der er én sædetype, du kan vælge i forskellige materialer.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Kia EV9 Long Range RWD.
+
+
+#### Første række sæder
+
+Kia EV9 Long Range RWD tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -130,7 +134,7 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/frontseats_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
 
 
-### Sæder på anden række
+#### Sæder på anden række
 
 Du kan vælge tre sædetyper til anden række i Kia EV9 Long Range RWD.
 
@@ -154,7 +158,7 @@ Muligheden third er to kaptajnstole. Derudover er følgende funktionaliteter til
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/secondrowseats_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
 
 
-### Sæder på tredje række
+#### Sæder på tredje række
 
 
 

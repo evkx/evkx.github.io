@@ -130,9 +130,13 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
+
+### Säten
+
+Audi SQ6 e-tron rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
 
 Det finns tre sätestyper du kan välja mellan för den främre raden av Audi SQ6 e-tron.
 
@@ -167,7 +171,7 @@ Följande funktioner är tillgängliga på **Sport Plus** sätet.
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/frontseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

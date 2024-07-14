@@ -91,11 +91,15 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
+
+
+### Asientos
+
 La disposición de los asientos es de siete asientos, dos al frente, dos en la segunda fila y tres en la tercera fila.
 
-### Asientos de primera fila
+#### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el XPENG X9 AWD Performance.
+El XPENG X9 AWD Performance ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -119,7 +123,7 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/frontseats_1_st.png" title="XPENG X9 AWD Performance" width="3000" height="1514"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 
@@ -134,7 +138,7 @@ Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las s
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/secondrowseats_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1687"  >}}
 
 
-### Asientos de tercera fila
+#### Asientos de tercera fila
 
 
 

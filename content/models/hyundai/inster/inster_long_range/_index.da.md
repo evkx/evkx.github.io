@@ -100,9 +100,13 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 Du kan vælge mellem flere interiørdesigns.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Hyundai INSTER Long Range.
+
+
+#### Første række sæder
+
+Hyundai INSTER Long Range tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -124,7 +128,7 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/frontseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

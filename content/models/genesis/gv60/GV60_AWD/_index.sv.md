@@ -103,9 +103,13 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 Det finns en sätestyp du kan välja i olika material.
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Genesis GV60 AWD.
+
+
+#### Framsäten
+
+Genesis GV60 AWD erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -130,7 +134,7 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/frontseats_1_st.jpg" title="Genesis GV60 AWD" width="1500" height="1090"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

@@ -100,11 +100,15 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i Ford Mustang Mach-E Long Range RWD.
+### Seter
+
+Ford Mustang Mach-E Long Range RWD har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Ford Mustang Mach-E Long Range RWD Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -123,7 +127,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1999"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

@@ -103,11 +103,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
+
+
+### Seter
+
 Denne modellen tilbyr en fire-seters layout eller en valgfri 4+1 layout.
 
-### Forseter
+#### Forseter
 
-Bare én type forsete er tilgjengelig i Volkswagen ID.3 Pro.
+Volkswagen ID.3 Pro Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -123,7 +127,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/frontseats_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

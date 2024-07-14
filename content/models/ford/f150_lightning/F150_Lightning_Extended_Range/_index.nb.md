@@ -102,11 +102,15 @@ Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne m
 
 ## Interiør
 
-Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Det er én setetype du kan velge i forskjellige materialer.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Ford F150 Lightning Extended Range.
+Ford F150 Lightning Extended Range har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Ford F150 Lightning Extended Range Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -127,7 +131,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

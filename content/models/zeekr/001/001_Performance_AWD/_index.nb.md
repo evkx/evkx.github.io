@@ -99,11 +99,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Det er én setetype du kan velge i forskjellige materialer.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Zeekr 001 Performance AWD.
+Zeekr 001 Performance AWD har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Zeekr 001 Performance AWD Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -120,7 +124,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

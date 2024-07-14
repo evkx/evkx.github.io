@@ -99,11 +99,15 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
+
+
+### Seats
+
 The seat layout is the two seats in front and two seats in the rear.
 
-### First row seats
+#### First row seats
 
-Only one front seat type is available in the Rolls-Royce Spectre.
+The Rolls-Royce Spectre offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -131,7 +135,7 @@ You can choose from 7 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1687"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

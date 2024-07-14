@@ -104,11 +104,15 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-Il existe un type de siège que vous pouvez sélectionner dans différents matériaux. Ce modèle offre une configuration à quatre places ou une configuration 4+1 en option.
+Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le Lotus Emeya.
+Ce modèle offre une configuration à quatre places ou une configuration 4+1 en option.
+
+#### Sièges de première rangée
+
+Le Lotus Emeya propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -132,7 +136,7 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/lotus/emeya/emeya/frontseats_1_st.jpg" title="Lotus Emeya" width="3000" height="1687"  >}}
 
 
-### Sièges de deuxième rangée
+#### Sièges de deuxième rangée
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Lotus Emeya.
 

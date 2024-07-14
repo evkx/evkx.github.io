@@ -105,7 +105,11 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 
 
-### First row seats
+### Seats
+
+
+
+#### First row seats
 
 There are two seat types you can choose from for the front row in the Volkswagen ID. Buzz GTX LWB.
 
@@ -146,7 +150,7 @@ You can choose from 5 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/frontseats_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2010"  >}}
 
 
-### Second-row seats
+#### Second-row seats
 
 You can choose two seat types for the second row in the Volkswagen ID. Buzz GTX LWB.
 
@@ -161,7 +165,7 @@ The second option is two captain chairs. In addition, the following functionalit
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2000"  >}}
 
 
-### Third-row seats
+#### Third-row seats
 
 
 

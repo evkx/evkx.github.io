@@ -95,11 +95,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i XPENG G6 AWD Performance.
+### Seter
+
+XPENG G6 AWD Performance har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+XPENG G6 AWD Performance Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -122,7 +126,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/xpeng/g6/g6_awd_performance/frontseats_1_st.jpg" title="XPENG G6 AWD Performance" width="1920" height="1080"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

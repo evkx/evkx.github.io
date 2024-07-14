@@ -103,11 +103,15 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
-### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el CUPRA BORN 58.
+### Asientos
+
+El CUPRA BORN 58 tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
+
+El CUPRA BORN 58 ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -126,7 +130,7 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/cupra/born/born_58/frontseats_1_st.jpg" title="CUPRA BORN 58" width="3000" height="2110"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

@@ -97,11 +97,15 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
+
+
+### Seter
+
 Seteoppsettet er to seter foran og to seter bak.
 
-### Forseter
+#### Forseter
 
-Bare én type forsete er tilgjengelig i Mini Cooper SE.
+Mini Cooper SE Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -118,7 +122,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/frontseats_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

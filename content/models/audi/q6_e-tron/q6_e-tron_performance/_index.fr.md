@@ -130,9 +130,13 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
-### Sièges de première rangée
+
+### Sièges
+
+Le Audi Q6 e-tron performance peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
+#### Sièges de première rangée
 
 Vous pouvez choisir parmi trois types de sièges pour la première rangée du Audi Q6 e-tron performance.
 
@@ -167,7 +171,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/frontseats_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

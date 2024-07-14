@@ -103,11 +103,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i Volkswagen ID.3 Pro S (GEN1).
+### Seter
+
+Volkswagen ID.3 Pro S (GEN1) har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Volkswagen ID.3 Pro S (GEN1) Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -123,7 +127,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s_gen1/frontseats_1_st.jpg" title="Volkswagen ID.3 Pro S (GEN1)" width="3000" height="2000"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

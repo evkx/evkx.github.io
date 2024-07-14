@@ -99,11 +99,15 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-You can choose between different types of seat materials and interior styling. You can choose between several interior designs. The seat layout is the traditional five seats with two in front and three in the rear.
+You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the MG ZS EV Standard Range.
+The MG ZS EV Standard Range accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The MG ZS EV Standard Range offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -121,7 +125,7 @@ You can choose from 2 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/frontseats_1_st.jpg" title="MG ZS EV Standard Range" width="3000" height="1999"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

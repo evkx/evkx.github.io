@@ -98,9 +98,13 @@ Der er kun ét tag til denne model.
 
 Der er én sædetype, du kan vælge i forskellige materialer.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i MG MG5 Electric Long Range.
+
+
+#### Første række sæder
+
+MG MG5 Electric Long Range tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -117,7 +121,7 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/frontseats_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2005"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

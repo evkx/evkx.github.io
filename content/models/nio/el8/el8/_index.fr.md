@@ -117,11 +117,15 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panor
 
 ## Intérieur
 
+
+
+### Sièges
+
 La disposition des sièges est de six sièges, dont deux à l'avant, deux sièges capitaine dans la deuxième rangée et une banquette à deux places dans la troisième rangée.
 
-### Sièges de première rangée
+#### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le Nio EL8.
+Le Nio EL8 propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -143,7 +147,7 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 
-### Sièges de deuxième rangée
+#### Sièges de deuxième rangée
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Nio EL8.
 
@@ -166,7 +170,7 @@ L'option second est deux sièges capitaine. De plus, les fonctionnalités suivan
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 
-### Sièges de troisième rangée
+#### Sièges de troisième rangée
 
 
 

@@ -93,11 +93,15 @@ Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panora
 
 ## Interiør
 
+
+
+### Seter
+
 Seteoppsettet er to seter foran og to seter bak.
 
-### Forseter
+#### Forseter
 
-Bare én type forsete er tilgjengelig i Neta GT 580 AWD.
+Neta GT 580 AWD Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -114,7 +118,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/frontseats_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="1081"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

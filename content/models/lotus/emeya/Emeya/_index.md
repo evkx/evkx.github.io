@@ -104,11 +104,15 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-There is one seat type you can select in different materials. This model offers a four-seat layout or an optional 4+1 layout.
+There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Lotus Emeya.
+This model offers a four-seat layout or an optional 4+1 layout.
+
+#### First row seats
+
+The Lotus Emeya offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -132,7 +136,7 @@ You can choose from 5 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/lotus/emeya/emeya/frontseats_1_st.jpg" title="Lotus Emeya" width="3000" height="1687"  >}}
 
 
-### Second-row seats
+#### Second-row seats
 
 You can choose two seat types for the second row in the Lotus Emeya.
 

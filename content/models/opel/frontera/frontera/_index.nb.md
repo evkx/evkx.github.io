@@ -104,9 +104,13 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
+
+### Seter
+
+Opel Frontera har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
 
 Det er to setetyper du kan velge mellom for første rad i Opel Frontera.
 
@@ -127,7 +131,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Opel Frontera.
 

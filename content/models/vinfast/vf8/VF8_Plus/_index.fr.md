@@ -106,9 +106,13 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le VinFast VF8 Plus.
+
+
+#### Sièges de première rangée
+
+Le VinFast VF8 Plus propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
@@ -127,7 +131,7 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

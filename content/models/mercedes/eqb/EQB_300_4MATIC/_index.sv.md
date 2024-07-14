@@ -100,9 +100,13 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 ## Interiör
 
+
+
+### Säten
+
 Dessutom erbjuder modellen en traditionell femsitslayout eller en valfri sjusitslayout.
 
-### Framsäten
+#### Framsäten
 
 Det finns två sätestyper du kan välja mellan för den främre raden av Mercedes-EQ EQB 300 4MATIC.
 
@@ -143,7 +147,7 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_300_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" width="3000" height="1999"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 
@@ -151,7 +155,7 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 
 - höjdjusterbart nackstöd
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

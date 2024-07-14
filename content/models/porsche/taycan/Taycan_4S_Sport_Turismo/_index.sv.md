@@ -121,9 +121,13 @@ Det finns tre olika takalternativ att välja mellan. Standardinställningen är 
 
 ## Interiör
 
+
+
+### Säten
+
 Denna modell erbjuder en fyra-sits layout eller en valfri 4+1 layout.
 
-### Framsäten
+#### Framsäten
 
 Det finns tre sätestyper du kan välja mellan för den främre raden av Porsche Taycan 4S Sport Turismo.
 
@@ -167,7 +171,7 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 Du kan välja två sätestyper för den andra raden i Porsche Taycan 4S Sport Turismo.
 

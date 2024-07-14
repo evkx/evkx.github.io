@@ -100,11 +100,15 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
+
+
+### Asientos
+
 La distribución de los asientos es de siete asientos, dos al frente, tres en la segunda fila y dos en la tercera fila.
 
-### Asientos de primera fila
+#### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el Rivian R1S Performance Dual-Motor AWD LP.
+El Rivian R1S Performance Dual-Motor AWD LP ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -122,7 +126,7 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 
@@ -131,7 +135,7 @@ La segunda fila tiene un banco estándar de tres asientos con una división  don
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
-### Asientos de tercera fila
+#### Asientos de tercera fila
 
 
 

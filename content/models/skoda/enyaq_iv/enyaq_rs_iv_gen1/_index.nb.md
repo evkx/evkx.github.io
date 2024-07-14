@@ -102,11 +102,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i SKODA ENYAQ RS iV (GEN1).
+### Seter
+
+SKODA ENYAQ RS iV (GEN1) har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+SKODA ENYAQ RS iV (GEN1) Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 
@@ -121,7 +125,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

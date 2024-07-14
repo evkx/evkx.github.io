@@ -134,9 +134,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
+
+### Seats
+
+The Audi e-tron 55 Sportback accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
 
 There are five seat types you can choose from for the front row in the Audi e-tron 55 Sportback.
 
@@ -215,7 +219,7 @@ You can choose from 4 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/frontseats_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="2249"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

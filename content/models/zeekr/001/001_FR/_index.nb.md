@@ -95,11 +95,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Det er én setetype du kan velge i forskjellige materialer.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Zeekr 001 FR.
+Zeekr 001 FR har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Zeekr 001 FR Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -122,7 +126,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/frontseats_1_st.jpg" title="Zeekr 001 FR" width="3000" height="2250"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

@@ -102,9 +102,13 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 You can choose between several interior designs.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Seres 5 4WD Premium.
+
+
+#### First row seats
+
+The Seres 5 4WD Premium offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -123,7 +127,7 @@ You can choose from 5 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

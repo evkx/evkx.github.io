@@ -109,7 +109,11 @@ B-stolpen och vyerna bak är tonade.
 
 
 
-### Framsäten
+### Säten
+
+
+
+#### Framsäten
 
 Det finns två sätestyper du kan välja mellan för den främre raden av Volkswagen ID. Buzz Pro LWB.
 
@@ -150,7 +154,7 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/frontseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2197"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 Du kan välja två sätestyper för den andra raden i Volkswagen ID. Buzz Pro LWB.
 
@@ -165,7 +169,7 @@ Alternativ second är två kaptensstolar. Dessutom är följande funktioner till
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

@@ -108,9 +108,13 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
+
+### Säten
+
+Ford Explorer Extended Range AWD rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
 
 Det finns två sätestyper du kan välja mellan för den främre raden av Ford Explorer Extended Range AWD.
 
@@ -130,7 +134,7 @@ Följande funktioner är tillgängliga på **Ergo** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

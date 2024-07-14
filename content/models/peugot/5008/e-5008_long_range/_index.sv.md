@@ -104,11 +104,15 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Det finns en sätestyp du kan välja i olika material. Sittlayouten är sju platser med två fram, tre platser på andra raden och två platser på tredje raden.
+Det finns en sätestyp du kan välja i olika material.
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Peugot E-5008 Long Range.
+Sittlayouten är sju platser med två fram, tre platser på andra raden och två platser på tredje raden.
+
+#### Framsäten
+
+Peugot E-5008 Long Range erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -127,7 +131,7 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 
@@ -140,7 +144,7 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/secondrowseats_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

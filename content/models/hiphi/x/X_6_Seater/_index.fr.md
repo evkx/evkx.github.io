@@ -103,11 +103,15 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
+
+
+### Sièges
+
 La disposition des sièges est de six sièges, dont deux à l'avant, deux sièges capitaine dans la deuxième rangée et une banquette à deux places dans la troisième rangée.
 
-### Sièges de première rangée
+#### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le HiPhi X 6 Seater.
+Le HiPhi X 6 Seater propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -126,7 +130,7 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 
@@ -137,7 +141,7 @@ Pour la deuxième rangée, ce modèle dispose de deux sièges capitaine. De plus
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 
-### Sièges de troisième rangée
+#### Sièges de troisième rangée
 
 
 

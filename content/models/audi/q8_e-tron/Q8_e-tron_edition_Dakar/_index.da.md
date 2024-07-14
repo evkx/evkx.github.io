@@ -125,9 +125,13 @@ Ruderne fra B-stolpen og bagsiden er tonede. Som en mulighed er dobbeltglas side
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
+
+### Sæder
+
+Audi Q8 e-tron edition Dakar har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
 
 Der er fem sædetyper, du kan vælge imellem til forreste række i Audi Q8 e-tron edition Dakar.
 
@@ -206,7 +210,7 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/frontseats_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

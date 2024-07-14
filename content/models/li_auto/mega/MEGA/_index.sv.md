@@ -103,11 +103,15 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Det finns en sätestyp du kan välja i olika material. Sittlayouten är sju platser med två fram, två platser på andra raden och tre platser på tredje raden.
+Det finns en sätestyp du kan välja i olika material.
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Li Auto MEGA.
+Sittlayouten är sju platser med två fram, två platser på andra raden och tre platser på tredje raden.
+
+#### Framsäten
+
+Li Auto MEGA erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -134,7 +138,7 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/li_auto/mega/mega/frontseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 
@@ -149,7 +153,7 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 {{< sitefiguresized thumb="models/li_auto/mega/mega/secondrowseats_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

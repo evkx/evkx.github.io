@@ -105,9 +105,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
+
+### Seats
+
+The BMW iX1 xDrive30 accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
 
 There are two seat types you can choose from for the front row in the BMW iX1 xDrive30.
 
@@ -145,7 +149,7 @@ You can choose from 3 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/frontseats_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

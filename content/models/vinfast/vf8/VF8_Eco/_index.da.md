@@ -106,9 +106,13 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i VinFast VF8 Eco.
+
+
+#### Første række sæder
+
+VinFast VF8 Eco tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -123,7 +127,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

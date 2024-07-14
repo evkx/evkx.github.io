@@ -104,9 +104,13 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 Vous pouvez choisir entre différents types de matériaux de siège et de style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le Hyundai Kona Long Range.
+
+
+#### Sièges de première rangée
+
+Le Hyundai Kona Long Range propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -127,7 +131,7 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

@@ -100,9 +100,13 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 Puedes elegir entre varios diseños de interiores.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Hyundai INSTER Long Range.
+
+
+#### Asientos de primera fila
+
+El Hyundai INSTER Long Range ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -124,7 +128,7 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/frontseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

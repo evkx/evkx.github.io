@@ -107,11 +107,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i BYD Seal U Design.
+### Seter
+
+BYD Seal U Design har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+BYD Seal U Design Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -128,7 +132,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/frontseats_1_st.jpg" title="BYD Seal U Design" width="3000" height="1687"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

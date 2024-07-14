@@ -102,11 +102,15 @@ Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du b
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
 
-Kun én type forsæde er tilgængelig i Volvo XC40 Recharge Single Motor ER.
+### Sæder
+
+Volvo XC40 Recharge Single Motor ER har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
+
+Volvo XC40 Recharge Single Motor ER tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -122,7 +126,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor_er/frontseats_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" width="1920" height="1080"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

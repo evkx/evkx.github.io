@@ -109,9 +109,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
+
+### Seats
+
+The BMW i5 M60 xDrive accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
 
 There are two seat types you can choose from for the front row in the BMW i5 M60 xDrive.
 
@@ -140,7 +144,7 @@ The following functionalities are available on the **Comfort seats** seat.
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/frontseats_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="2000"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

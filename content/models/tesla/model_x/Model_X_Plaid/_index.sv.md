@@ -104,11 +104,15 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
+
+
+### Säten
+
 Sittlayouten är sju platser med två fram, tre platser på andra raden och två platser på tredje raden.
 
-### Framsäten
+#### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Tesla Model X Plaid.
+Tesla Model X Plaid erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -123,7 +127,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 
@@ -134,7 +138,7 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/secondrowseats_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2000"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

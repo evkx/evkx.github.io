@@ -105,7 +105,11 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 
 
-### Asientos de primera fila
+### Asientos
+
+
+
+#### Asientos de primera fila
 
 Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Volkswagen ID. Buzz GTX LWB.
 
@@ -146,7 +150,7 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/frontseats_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2010"  >}}
 
 
-### Asientos de la segunda fila
+#### Asientos de la segunda fila
 
 Puedes elegir dos tipos de asientos para la segunda fila en el Volkswagen ID. Buzz GTX LWB.
 
@@ -161,7 +165,7 @@ La opción second son dos sillas estilo capitán. Además, las siguientes funcio
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2000"  >}}
 
 
-### Asientos de tercera fila
+#### Asientos de tercera fila
 
 
 

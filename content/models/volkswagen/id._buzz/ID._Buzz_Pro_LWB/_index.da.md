@@ -109,7 +109,11 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 
 
-### Første række sæder
+### Sæder
+
+
+
+#### Første række sæder
 
 Der er to sædetyper, du kan vælge imellem til forreste række i Volkswagen ID. Buzz Pro LWB.
 
@@ -150,7 +154,7 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/frontseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2197"  >}}
 
 
-### Sæder på anden række
+#### Sæder på anden række
 
 Du kan vælge to sædetyper til anden række i Volkswagen ID. Buzz Pro LWB.
 
@@ -165,7 +169,7 @@ Muligheden second er to kaptajnstole. Derudover er følgende funktionaliteter ti
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
 
-### Sæder på tredje række
+#### Sæder på tredje række
 
 
 

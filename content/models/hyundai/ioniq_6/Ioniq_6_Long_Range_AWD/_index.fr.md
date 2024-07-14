@@ -102,9 +102,13 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le Hyundai Ioniq 6 Long Range AWD.
+
+
+#### Sièges de première rangée
+
+Le Hyundai Ioniq 6 Long Range AWD propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
@@ -125,7 +129,7 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/frontseats_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2000"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

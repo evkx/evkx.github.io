@@ -91,11 +91,15 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
+
+
+### Sæder
+
 Sædelayoutet er syv sæder med to foran, to sæder på anden række og tre sæder på tredje række.
 
-### Første række sæder
+#### Første række sæder
 
-Kun én type forsæde er tilgængelig i XPENG X9 AWD Performance.
+XPENG X9 AWD Performance tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -119,7 +123,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/frontseats_1_st.png" title="XPENG X9 AWD Performance" width="3000" height="1514"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 
@@ -134,7 +138,7 @@ For anden række har denne model to kaptajnstole. Derudover er følgende funktio
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/secondrowseats_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1687"  >}}
 
 
-### Sæder på tredje række
+#### Sæder på tredje række
 
 
 

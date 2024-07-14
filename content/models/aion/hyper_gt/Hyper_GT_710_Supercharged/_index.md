@@ -97,11 +97,15 @@ There is only one roof for this model. The standard roof includes a large panora
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the Aion Hyper GT 710 Supercharged.
+### Seats
+
+The Aion Hyper GT 710 Supercharged accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Aion Hyper GT 710 Supercharged offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -120,7 +124,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/frontseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1875" height="1250"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

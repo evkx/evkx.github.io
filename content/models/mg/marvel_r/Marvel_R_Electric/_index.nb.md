@@ -96,9 +96,13 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i MG Marvel R Electric.
+
+
+#### Forseter
+
+MG Marvel R Electric Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -115,7 +119,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/frontseats_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1999"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

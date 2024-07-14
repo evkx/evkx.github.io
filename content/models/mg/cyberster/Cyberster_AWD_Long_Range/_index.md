@@ -95,9 +95,13 @@ There is only one roof for this model. The standard roof is a soft top that can 
 
 There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the MG Cyberster AWD Long Range.
+
+
+#### First row seats
+
+The MG Cyberster AWD Long Range offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 

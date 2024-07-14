@@ -103,11 +103,15 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i CUPRA BORN 77 e-BOOST.
+### Seter
+
+CUPRA BORN 77 e-BOOST har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+CUPRA BORN 77 e-BOOST Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -126,7 +130,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/frontseats_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="2110"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

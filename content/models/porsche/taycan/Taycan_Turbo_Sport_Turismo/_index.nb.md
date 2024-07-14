@@ -113,9 +113,13 @@ Det er tre forskjellige takalternativer å velge mellom. Standarden er bare et v
 
 ## Interiør
 
+
+
+### Seter
+
 Denne modellen tilbyr en fire-seters layout eller en valgfri 4+1 layout.
 
-### Forseter
+#### Forseter
 
 Det er tre setetyper du kan velge mellom for første rad i Porsche Taycan Turbo Sport Turismo.
 
@@ -159,7 +163,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Porsche Taycan Turbo Sport Turismo.
 

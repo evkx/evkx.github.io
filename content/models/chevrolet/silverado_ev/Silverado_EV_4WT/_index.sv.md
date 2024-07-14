@@ -99,11 +99,15 @@ Det finns bara ett tak för denna modell.
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Chevrolet Silverado EV 4WT.
+### Säten
+
+Chevrolet Silverado EV 4WT rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+Chevrolet Silverado EV 4WT erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -121,7 +125,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/frontseats_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2002"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

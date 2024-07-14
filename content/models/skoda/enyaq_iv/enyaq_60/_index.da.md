@@ -102,11 +102,15 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
 
-Kun én type forsæde er tilgængelig i SKODA ENYAQ 60.
+### Sæder
+
+SKODA ENYAQ 60 har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
+
+SKODA ENYAQ 60 tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **Sport** sædet.
 
@@ -125,7 +129,7 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_60/frontseats_1_st.jpg" title="SKODA ENYAQ 60" width="3000" height="2107"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

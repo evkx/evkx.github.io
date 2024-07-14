@@ -102,11 +102,15 @@ Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panora
 
 ## Interiør
 
+
+
+### Seter
+
 Seteoppsettet er to seter foran og to seter bak.
 
-### Forseter
+#### Forseter
 
-Bare én type forsete er tilgjengelig i Nio ET9.
+Nio ET9 Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -128,7 +132,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/nio/et9/et9/frontseats_1_st.jpg" title="Nio ET9" width="1170" height="759"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

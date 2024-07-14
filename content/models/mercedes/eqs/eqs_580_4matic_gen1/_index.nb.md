@@ -112,9 +112,13 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
+
+### Seter
+
+Mercedes-EQ EQS 580 4MATIC har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
 
 Det er to setetyper du kan velge mellom for første rad i Mercedes-EQ EQS 580 4MATIC.
 
@@ -154,7 +158,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic_gen1/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2250"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Mercedes-EQ EQS 580 4MATIC.
 

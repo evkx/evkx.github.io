@@ -111,11 +111,15 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
+
+
+### Seats
+
 The seat layout is the two seats in front and two seats in the rear.
 
-### First row seats
+#### First row seats
 
-Only one front seat type is available in the Maserati GranCabrio Folgore.
+The Maserati GranCabrio Folgore offers a single type of front seat.
 
 The following functionalities are available on the **Sport** seat.
 
@@ -134,7 +138,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/frontseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2000"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

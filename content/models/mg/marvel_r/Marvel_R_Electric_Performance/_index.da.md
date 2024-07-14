@@ -96,9 +96,13 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i MG Marvel R Electric Performance.
+
+
+#### Første række sæder
+
+MG Marvel R Electric Performance tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -115,7 +119,7 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/frontseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1999"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

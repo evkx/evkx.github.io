@@ -104,11 +104,15 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
+El interior del Tesla Model 3 es minimalista y cuenta con materiales de alta calidad en varias áreas en lugar de plástico duro. Además, incluye una consola central tradicional que separa al conductor y al pasajero, proporcionando almacenamiento y funcionalidad convenientes. Puedes elegir entre varios diseños de interiores.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Tesla Model 3.
+El Tesla Model 3 tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
+
+El Tesla Model 3 ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -120,6 +124,8 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
+- Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+- White [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 
 
@@ -127,12 +133,13 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/frontseats_1_st.jpeg" title="Tesla Model 3" width="1920" height="1080"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
+- reposacabezas ajustable en altura
 
 Sólo hay un tipo de volante disponible.
 

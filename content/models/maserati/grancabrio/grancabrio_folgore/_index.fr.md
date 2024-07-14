@@ -111,11 +111,15 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
+
+
+### Sièges
+
 La disposition des sièges est deux sièges à l'avant et deux sièges à l'arrière.
 
-### Sièges de première rangée
+#### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le Maserati GranCabrio Folgore.
+Le Maserati GranCabrio Folgore propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 
@@ -134,7 +138,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/frontseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2000"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

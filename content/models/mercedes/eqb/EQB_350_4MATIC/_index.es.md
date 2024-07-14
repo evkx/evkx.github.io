@@ -100,9 +100,13 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 ## Interior
 
+
+
+### Asientos
+
 Además, el modelo ofrece una disposición tradicional de cinco asientos o una disposición opcional de siete asientos.
 
-### Asientos de primera fila
+#### Asientos de primera fila
 
 Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Mercedes-EQ EQB 350 4MATIC.
 
@@ -143,7 +147,7 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_350_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQB 350 4MATIC" width="3000" height="1999"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 
@@ -151,7 +155,7 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 - reposacabezas ajustable en altura
 
-### Asientos de tercera fila
+#### Asientos de tercera fila
 
 
 

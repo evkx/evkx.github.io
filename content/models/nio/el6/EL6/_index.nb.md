@@ -117,11 +117,15 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i Nio EL6.
+### Seter
+
+Nio EL6 har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Nio EL6 Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -145,7 +149,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/nio/el6/el6/frontseats_1_st.jpg" title="Nio EL6" width="2880" height="2316"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

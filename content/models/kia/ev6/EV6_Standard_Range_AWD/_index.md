@@ -106,9 +106,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Kia EV6 Standard Range AWD.
+
+
+#### First row seats
+
+The Kia EV6 Standard Range AWD offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -133,7 +137,7 @@ You can choose from 6 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_awd/frontseats_1_st.jpg" title="Kia EV6 Standard Range AWD" width="3000" height="1999"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

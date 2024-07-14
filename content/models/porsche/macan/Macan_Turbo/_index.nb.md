@@ -107,9 +107,13 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
+
+### Seter
+
+Porsche Macan Turbo har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
 
 Det er to setetyper du kan velge mellom for første rad i Porsche Macan Turbo.
 
@@ -147,7 +151,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/frontseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

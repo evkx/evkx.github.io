@@ -106,9 +106,13 @@ B-stolpen och vyerna bak är tonade.
 
 
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i VinFast VF8 Eco.
+
+
+#### Framsäten
+
+VinFast VF8 Eco erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -123,7 +127,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

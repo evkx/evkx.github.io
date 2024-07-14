@@ -93,11 +93,15 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 
 ## Interior
 
+
+
+### Asientos
+
 La disposición de los asientos es dos asientos delanteros y dos asientos traseros.
 
-### Asientos de primera fila
+#### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el Neta GT 580 AWD.
+El Neta GT 580 AWD ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -114,7 +118,7 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/frontseats_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="1081"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

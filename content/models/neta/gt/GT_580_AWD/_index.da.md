@@ -93,11 +93,15 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 
 ## Interiør
 
+
+
+### Sæder
+
 Sædeopsætningen er to sæder foran og to sæder bagved.
 
-### Første række sæder
+#### Første række sæder
 
-Kun én type forsæde er tilgængelig i Neta GT 580 AWD.
+Neta GT 580 AWD tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -114,7 +118,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/frontseats_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="1081"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

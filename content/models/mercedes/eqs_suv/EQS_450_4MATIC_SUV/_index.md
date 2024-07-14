@@ -107,9 +107,13 @@ There are two different roof options to select from. The standard is just a regu
 
 ## Interior
 
+
+
+### Seats
+
 In addition, the model offers a traditional five-seat layout or an optional seven-seat layout.
 
-### First row seats
+#### First row seats
 
 There are two seat types you can choose from for the front row in the Mercedes-EQ EQS 450 4MATIC SUV.
 
@@ -149,7 +153,7 @@ You can choose from 5 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450_4matic_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC SUV" width="3000" height="1687"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 
@@ -162,7 +166,7 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450_4matic_suv/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC SUV" width="3000" height="2250"  >}}
 
 
-### Third-row seats
+#### Third-row seats
 
 
 

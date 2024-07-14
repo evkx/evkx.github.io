@@ -104,11 +104,15 @@ Sólo hay un techo para este modelo. El parabrisas es panorámico cubriendo la p
 
 ## Interior
 
-Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores. La distribución de los asientos es de siete asientos, dos al frente, tres en la segunda fila y dos en la tercera fila.
+Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Lucid Gravity Dream Edition.
+La distribución de los asientos es de siete asientos, dos al frente, tres en la segunda fila y dos en la tercera fila.
+
+#### Asientos de primera fila
+
+El Lucid Gravity Dream Edition ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -134,7 +138,7 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/frontseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 
@@ -146,7 +150,7 @@ La segunda fila tiene un banco estándar de tres asientos con una división 60:4
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/secondrowseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 
-### Asientos de tercera fila
+#### Asientos de tercera fila
 
 
 

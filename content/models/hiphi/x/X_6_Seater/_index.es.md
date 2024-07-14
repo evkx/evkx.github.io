@@ -103,11 +103,15 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
+
+
+### Asientos
+
 La disposición de los asientos es de seis asientos, dos al frente, dos sillas estilo capitán en la segunda fila y un banco de dos asientos en la tercera fila.
 
-### Asientos de primera fila
+#### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el HiPhi X 6 Seater.
+El HiPhi X 6 Seater ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -126,7 +130,7 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 
@@ -137,7 +141,7 @@ Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las s
 - [masaje](../../../../technology/seats/adjustment/#massage)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
-### Asientos de tercera fila
+#### Asientos de tercera fila
 
 
 

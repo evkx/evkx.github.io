@@ -122,9 +122,13 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
+
+### Säten
+
+Audi Q8 Sportback 50 e-tron rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
 
 Det finns fem sätestyper du kan välja mellan för den främre raden av Audi Q8 Sportback 50 e-tron.
 
@@ -199,7 +203,7 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

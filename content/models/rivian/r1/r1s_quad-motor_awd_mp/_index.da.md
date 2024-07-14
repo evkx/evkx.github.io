@@ -116,11 +116,15 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
+
+
+### Sæder
+
 Sædelayoutet er syv sæder med to foran, tre sæder på anden række og to sæder på tredje række.
 
-### Første række sæder
+#### Første række sæder
 
-Kun én type forsæde er tilgængelig i Rivian R1S Quad-Motor AWD MP.
+Rivian R1S Quad-Motor AWD MP tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -142,7 +146,7 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/frontseats_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 
@@ -151,7 +155,7 @@ Den anden række har en standard tre-sæders bænk med en  del, hvor du kan fold
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-### Sæder på tredje række
+#### Sæder på tredje række
 
 
 

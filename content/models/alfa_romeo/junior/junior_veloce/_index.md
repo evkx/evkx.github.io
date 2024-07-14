@@ -98,11 +98,15 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-There is one seat type you can select in different materials. The seat layout is the traditional five seats with two in front and three in the rear.
+There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Alfa Romeo Junior Veloce.
+The Alfa Romeo Junior Veloce accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Alfa Romeo Junior Veloce offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -122,7 +126,7 @@ You can choose from 4 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/frontseats_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2250"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

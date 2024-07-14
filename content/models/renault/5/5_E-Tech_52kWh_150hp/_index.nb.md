@@ -101,11 +101,15 @@ Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i Renault 5 E-Tech 52kWh 150hp.
+### Seter
+
+Renault 5 E-Tech 52kWh 150hp har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Renault 5 E-Tech 52kWh 150hp Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -121,7 +125,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/frontseats_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

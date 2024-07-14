@@ -98,11 +98,15 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-You can choose between several interior designs. The seat layout is the two seats in front and two seats in the rear.
+You can choose between several interior designs.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Hyundai INSTER Standard Range.
+The seat layout is the two seats in front and two seats in the rear.
+
+#### First row seats
+
+The Hyundai INSTER Standard Range offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -124,7 +128,7 @@ You can choose from 3 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/frontseats_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

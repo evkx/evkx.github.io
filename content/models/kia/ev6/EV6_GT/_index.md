@@ -103,9 +103,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Kia EV6 GT.
+
+
+#### First row seats
+
+The Kia EV6 GT offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -125,7 +129,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

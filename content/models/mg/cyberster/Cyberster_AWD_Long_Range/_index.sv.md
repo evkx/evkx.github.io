@@ -95,9 +95,13 @@ Det finns bara ett tak för denna modell. Standardtaket är ett stofftak topp so
 
 Det finns en sätestyp du kan välja i olika material.
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i MG Cyberster AWD Long Range.
+
+
+#### Framsäten
+
+MG Cyberster AWD Long Range erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 

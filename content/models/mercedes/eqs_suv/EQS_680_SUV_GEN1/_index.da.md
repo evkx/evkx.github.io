@@ -110,11 +110,15 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 ## Interiør
 
+
+
+### Sæder
+
 Derudover tilbyder modellen et traditionelt fem-sædet layout eller et valgfrit syv-sædet layout.
 
-### Første række sæder
+#### Første række sæder
 
-Kun én type forsæde er tilgængelig i Mercedes-Maybach EQS 680 SUV.
+Mercedes-Maybach EQS 680 SUV tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **multicontour** sædet.
 
@@ -138,7 +142,7 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2001"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

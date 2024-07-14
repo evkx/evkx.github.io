@@ -106,9 +106,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Kia Niro EV.
+
+
+#### First row seats
+
+The Kia Niro EV offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -129,7 +133,7 @@ You can choose from 6 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

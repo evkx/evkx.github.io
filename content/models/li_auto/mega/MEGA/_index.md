@@ -103,11 +103,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-There is one seat type you can select in different materials. The seat layout is seven seats with two in front, two seats in the second row and three seats on third row.
+There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Li Auto MEGA.
+The seat layout is seven seats with two in front, two seats in the second row and three seats on third row.
+
+#### First row seats
+
+The Li Auto MEGA offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -134,7 +138,7 @@ You can choose from 5 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/li_auto/mega/mega/frontseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 
@@ -149,7 +153,7 @@ For the second row, this model has two captain chairs. In addition, the followin
 {{< sitefiguresized thumb="models/li_auto/mega/mega/secondrowseats_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
 
-### Third-row seats
+#### Third-row seats
 
 
 

@@ -112,11 +112,15 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 
 ## Interiør
 
-Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Det er én setetype du kan velge i forskjellige materialer.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Fisker Ocean Extreme.
+Fisker Ocean Extreme har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Fisker Ocean Extreme Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -137,7 +141,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/frontseats_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="1687"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

@@ -94,11 +94,15 @@ There are two different roof options to select from. The standard roof has a lar
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the Cadillac LYRIQ RWD.
+### Seats
+
+The Cadillac LYRIQ RWD accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Cadillac LYRIQ RWD offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -119,7 +123,7 @@ You can choose from 2 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/frontseats_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2700"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

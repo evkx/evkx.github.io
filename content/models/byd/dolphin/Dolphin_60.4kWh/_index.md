@@ -101,11 +101,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the BYD Dolphin 60.4kWh.
+### Seats
+
+The BYD Dolphin 60.4kWh accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The BYD Dolphin 60.4kWh offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -127,7 +131,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/frontseats_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1579"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

@@ -109,9 +109,13 @@ Det finns tre olika takalternativ att välja mellan. Standardinställningen är 
 
 ## Interiör
 
+
+
+### Säten
+
 Denna modell erbjuder en fyra-sits layout eller en valfri 4+1 layout.
 
-### Framsäten
+#### Framsäten
 
 Det finns tre sätestyper du kan välja mellan för den främre raden av Porsche Taycan GTS Sport Turismo.
 
@@ -159,7 +163,7 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/frontseats_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 Du kan välja två sätestyper för den andra raden i Porsche Taycan GTS Sport Turismo.
 

@@ -109,9 +109,13 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
+
+### Sæder
+
+BMW i4 eDrive40 har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
 
 Der er to sædetyper, du kan vælge imellem til forreste række i BMW i4 eDrive40.
 
@@ -188,7 +192,7 @@ Du kan vælge mellem 21 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/frontseats_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2121"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

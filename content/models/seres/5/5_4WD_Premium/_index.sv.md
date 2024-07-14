@@ -102,9 +102,13 @@ B-stolpen och vyerna bak är tonade.
 
 Du kan välja mellan flera inredningsdesigner.
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Seres 5 4WD Premium.
+
+
+#### Framsäten
+
+Seres 5 4WD Premium erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -123,7 +127,7 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

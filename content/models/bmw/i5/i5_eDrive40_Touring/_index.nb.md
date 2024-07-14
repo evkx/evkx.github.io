@@ -113,9 +113,13 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
+
+### Seter
+
+BMW i5 eDrive40 Touring har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
 
 Det er to setetyper du kan velge mellom for første rad i BMW i5 eDrive40 Touring.
 
@@ -144,7 +148,7 @@ Følgende funksjoner er tilgjengelige på **Comfort seats** setet.
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/frontseats_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2249"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

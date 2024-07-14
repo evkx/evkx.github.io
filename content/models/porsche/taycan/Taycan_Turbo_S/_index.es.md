@@ -111,9 +111,13 @@ Hay tres opciones de techo diferentes para elegir. El estándar es simplemente u
 
 ## Interior
 
+
+
+### Asientos
+
 Este modelo ofrece una disposición de cuatro asientos o una disposición opcional de 4+1.
 
-### Asientos de primera fila
+#### Asientos de primera fila
 
 Hay dos tipos de asientos entre los que puedes elegir para la primera fila en el Porsche Taycan Turbo S.
 
@@ -150,7 +154,7 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/frontseats_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2250"  >}}
 
 
-### Asientos de la segunda fila
+#### Asientos de la segunda fila
 
 Puedes elegir dos tipos de asientos para la segunda fila en el Porsche Taycan Turbo S.
 

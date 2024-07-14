@@ -108,9 +108,13 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
 
-### Sièges de première rangée
+
+### Sièges
+
+Le Ford Explorer Standard Range RWD peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
+#### Sièges de première rangée
 
 Vous pouvez choisir parmi deux types de sièges pour la première rangée du Ford Explorer Standard Range RWD.
 
@@ -130,7 +134,7 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Ergo**.
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

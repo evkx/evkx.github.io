@@ -117,11 +117,15 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 
 ## Interiør
 
+
+
+### Seter
+
 Seteoppsettet er seks seter med to foran, to kapteinstoler på andre rad, og en to-seters benk på tredje rad.
 
-### Forseter
+#### Forseter
 
-Bare én type forsete er tilgjengelig i Nio EL8.
+Nio EL8 Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -143,7 +147,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Nio EL8.
 
@@ -166,7 +170,7 @@ Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgj
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

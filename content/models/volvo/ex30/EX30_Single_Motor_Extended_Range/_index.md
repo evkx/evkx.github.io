@@ -96,11 +96,15 @@ There are two different roof options to select from. As an option, you can order
 
 ## Interior
 
-You can choose between different types of seat materials and interior styling. You can choose between several interior designs. The seat layout is the traditional five seats with two in front and three in the rear.
+You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Volvo EX30 Single Motor Extended Range.
+The Volvo EX30 Single Motor Extended Range accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Volvo EX30 Single Motor Extended Range offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -116,7 +120,7 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

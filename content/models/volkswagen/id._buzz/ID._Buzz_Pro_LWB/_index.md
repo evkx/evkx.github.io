@@ -109,7 +109,11 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 
 
-### First row seats
+### Seats
+
+
+
+#### First row seats
 
 There are two seat types you can choose from for the front row in the Volkswagen ID. Buzz Pro LWB.
 
@@ -150,7 +154,7 @@ You can choose from 5 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/frontseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2197"  >}}
 
 
-### Second-row seats
+#### Second-row seats
 
 You can choose two seat types for the second row in the Volkswagen ID. Buzz Pro LWB.
 
@@ -165,7 +169,7 @@ The second option is two captain chairs. In addition, the following functionalit
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
 
-### Third-row seats
+#### Third-row seats
 
 
 

@@ -102,9 +102,13 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Kia EV3 Long Range.
+
+
+#### Asientos de primera fila
+
+El Kia EV3 Long Range ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -125,7 +129,7 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

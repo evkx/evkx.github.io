@@ -104,11 +104,15 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 ## Interiør
 
+
+
+### Seter
+
 I tillegg tilbyr modellen en tradisjonell fem-seters layout eller en valgfri syv-seter layout.
 
-### Forseter
+#### Forseter
 
-Bare én type forsete er tilgjengelig i Mercedes-Maybach EQS 680 SUV.
+Mercedes-Maybach EQS 680 SUV Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **multicontour** setet.
 
@@ -132,7 +136,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2001"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

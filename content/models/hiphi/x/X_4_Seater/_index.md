@@ -103,11 +103,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
+
+
+### Seats
+
 The seat layout is the two seats in front and two seats in the rear.
 
-### First row seats
+#### First row seats
 
-Only one front seat type is available in the HiPhi X 4 Seater.
+The HiPhi X 4 Seater offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -126,7 +130,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

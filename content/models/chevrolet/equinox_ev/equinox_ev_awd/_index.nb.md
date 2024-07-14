@@ -99,9 +99,13 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Chevrolet Equinox EV AWD.
+
+
+#### Forseter
+
+Chevrolet Equinox EV AWD Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -121,7 +125,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/frontseats_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="1999"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

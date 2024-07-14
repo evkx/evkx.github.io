@@ -98,9 +98,13 @@ Il n'y a qu'un seul toit pour ce modèle. En option, vous pouvez commander ce mo
 
 Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le MG MG4 Electric Long Range.
+
+
+#### Sièges de première rangée
+
+Le MG MG4 Electric Long Range propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -116,7 +120,7 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/frontseats_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2000"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

@@ -100,11 +100,15 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 
 ## Interiör
 
+
+
+### Säten
+
 Sittlayouten är sex platser med två framför, två kaptensstolar på andra raden och en tvåsitssbänk på tredje raden.
 
-### Framsäten
+#### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Hongqi E-HS9 Exclusive.
+Hongqi E-HS9 Exclusive erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -121,7 +125,7 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 
@@ -131,7 +135,7 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

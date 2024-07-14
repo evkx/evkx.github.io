@@ -102,11 +102,15 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 ## Intérieur
 
-Il existe un type de siège que vous pouvez sélectionner dans différents matériaux. La disposition des sièges est la traditionnelle cinq sièges avec deux à l'avant et trois à l'arrière.
+Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le Opel Mokka Electric.
+Le Opel Mokka Electric peut accueillir cinq passagers avec deux sièges à l'avant et une banquette arrière à trois places.
+
+#### Sièges de première rangée
+
+Le Opel Mokka Electric propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -126,7 +130,7 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/opel/mokka/mokka_electric/frontseats_1_st.jpeg" title="Opel Mokka Electric" width="1920" height="1371"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

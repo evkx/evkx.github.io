@@ -102,9 +102,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Hyundai Ioniq 6 Long Range RWD.
+
+
+#### First row seats
+
+The Hyundai Ioniq 6 Long Range RWD offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -125,7 +129,7 @@ You can choose from 2 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/frontseats_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2000"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

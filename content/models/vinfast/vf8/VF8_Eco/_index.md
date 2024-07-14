@@ -106,9 +106,13 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the VinFast VF8 Eco.
+
+
+#### First row seats
+
+The VinFast VF8 Eco offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -123,7 +127,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

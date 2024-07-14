@@ -100,9 +100,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 You can choose between several interior designs.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Hyundai INSTER Long Range.
+
+
+#### First row seats
+
+The Hyundai INSTER Long Range offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -124,7 +128,7 @@ You can choose from 3 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/frontseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

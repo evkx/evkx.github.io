@@ -105,11 +105,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
+
+
+### Seter
+
 I tillegg tilbyr modellen en tradisjonell fem-seters layout eller en valgfri syv-seter layout.
 
-### Forseter
+#### Forseter
 
-Bare én type forsete er tilgjengelig i Tesla Model Y Performance.
+Tesla Model Y Performance Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -126,7 +130,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/frontseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 
@@ -137,7 +141,7 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/secondrowseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

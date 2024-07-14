@@ -116,9 +116,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
+
+### Seats
+
+The Porsche Macan Turbo accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
 
 There are two seat types you can choose from for the front row in the Porsche Macan Turbo.
 
@@ -156,7 +160,7 @@ You can choose from 4 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/frontseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

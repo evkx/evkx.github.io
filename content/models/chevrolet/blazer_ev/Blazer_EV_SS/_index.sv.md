@@ -95,9 +95,13 @@ Det finns två olika takalternativ att välja mellan. Standardtaket har ett stor
 
 
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Chevrolet Blazer EV SS.
+
+
+#### Framsäten
+
+Chevrolet Blazer EV SS erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -118,7 +122,7 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

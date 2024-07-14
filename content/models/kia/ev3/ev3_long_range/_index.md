@@ -102,9 +102,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Kia EV3 Long Range.
+
+
+#### First row seats
+
+The Kia EV3 Long Range offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -125,7 +129,7 @@ You can choose from 6 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

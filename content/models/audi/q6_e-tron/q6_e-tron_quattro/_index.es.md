@@ -130,9 +130,13 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
-### Asientos de primera fila
+
+### Asientos
+
+El Audi Q6 e-tron quattro tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
 
 Hay tres tipos de asientos entre los que puedes elegir para la primera fila en el Audi Q6 e-tron quattro.
 
@@ -167,7 +171,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

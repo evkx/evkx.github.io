@@ -130,9 +130,13 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
+
+### Seter
+
+Audi Q6 e-tron performance har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
 
 Det er tre setetyper du kan velge mellom for første rad i Audi Q6 e-tron performance.
 
@@ -167,7 +171,7 @@ Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/frontseats_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

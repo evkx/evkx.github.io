@@ -94,11 +94,15 @@ Det finns bara ett tak för denna modell. Standardtaket har 4 separata avtagbara
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
 
-Endast en typ av framsäte är tillgänglig i GMC Hummer EV Edition 1 Pickup.
+### Säten
+
+GMC Hummer EV Edition 1 Pickup rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+GMC Hummer EV Edition 1 Pickup erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -114,7 +118,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

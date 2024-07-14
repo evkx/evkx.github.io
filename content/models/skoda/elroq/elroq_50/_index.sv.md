@@ -106,11 +106,15 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
 
-Endast en typ av framsäte är tillgänglig i SKODA Elroq 50.
+### Säten
+
+SKODA Elroq 50 rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+SKODA Elroq 50 erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **Sport** sätet.
 
@@ -125,7 +129,7 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

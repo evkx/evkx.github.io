@@ -103,9 +103,13 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le Genesis GV60 AWD Performance.
+
+
+#### Sièges de première rangée
+
+Le Genesis GV60 AWD Performance propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
@@ -130,7 +134,7 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd_performance/frontseats_1_st.jpg" title="Genesis GV60 AWD Performance" width="1500" height="1090"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

@@ -112,11 +112,15 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
-### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el SKODA ENYAQ COUPÉ RS iV (GEN1).
+### Asientos
+
+El SKODA ENYAQ COUPÉ RS iV (GEN1) tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
+
+El SKODA ENYAQ COUPÉ RS iV (GEN1) ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
@@ -135,7 +139,7 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/frontseats_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV (GEN1)" width="3000" height="2001"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

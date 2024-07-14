@@ -115,9 +115,13 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
+
+### Seter
+
+Volkswagen ID.5 Pro Performance har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
 
 Det er to setetyper du kan velge mellom for første rad i Volkswagen ID.5 Pro Performance.
 
@@ -152,7 +156,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro_performance/frontseats_1_st.jpg" title="Volkswagen ID.5 Pro Performance" width="3000" height="2336"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

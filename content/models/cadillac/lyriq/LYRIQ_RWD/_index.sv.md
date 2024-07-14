@@ -94,11 +94,15 @@ Det finns två olika takalternativ att välja mellan. Standardtaket har ett stor
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Cadillac LYRIQ RWD.
+### Säten
+
+Cadillac LYRIQ RWD rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+Cadillac LYRIQ RWD erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -119,7 +123,7 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/frontseats_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2700"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

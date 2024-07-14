@@ -96,9 +96,13 @@ Det finns två olika takalternativ att välja mellan. Standardtaket har ett stor
 
 
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Cadillac OPTIQ AWD.
+
+
+#### Framsäten
+
+Cadillac OPTIQ AWD erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -119,7 +123,7 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/cadillac/optiq/frontseats_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="1684"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

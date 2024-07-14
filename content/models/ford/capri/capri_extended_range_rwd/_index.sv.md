@@ -107,9 +107,13 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
+
+### Säten
+
+Ford Capri Extended Range RWD rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
 
 Det finns två sätestyper du kan välja mellan för den främre raden av Ford Capri Extended Range RWD.
 
@@ -133,7 +137,7 @@ Följande funktioner är tillgängliga på **Ergo** sätet.
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/frontseats_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

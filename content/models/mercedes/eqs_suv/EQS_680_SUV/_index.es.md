@@ -104,11 +104,15 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 ## Interior
 
+
+
+### Asientos
+
 Además, el modelo ofrece una disposición tradicional de cinco asientos o una disposición opcional de siete asientos.
 
-### Asientos de primera fila
+#### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el Mercedes-Maybach EQS 680 SUV.
+El Mercedes-Maybach EQS 680 SUV ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **multicontour**.
 
@@ -132,7 +136,7 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2001"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

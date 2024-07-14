@@ -96,9 +96,13 @@ There are two different roof options to select from. The standard roof has a lar
 
 
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Cadillac LYRIQ AWD.
+
+
+#### First row seats
+
+The Cadillac LYRIQ AWD offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -119,7 +123,7 @@ You can choose from 2 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/frontseats_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2700"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

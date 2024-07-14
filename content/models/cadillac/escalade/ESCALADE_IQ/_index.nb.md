@@ -95,11 +95,15 @@ Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne m
 
 ## Interiør
 
+
+
+### Seter
+
 Seteoppsettet er syv seter med to foran, to seter på andre rad og tre seter på tredje rad.
 
-### Forseter
+#### Forseter
 
-Bare én type forsete er tilgjengelig i Cadillac ESCALADE IQ.
+Cadillac ESCALADE IQ Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -121,7 +125,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 
@@ -137,7 +141,7 @@ For den andre raden har denne modellen doble [executive-seter](../../../../techn
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2003"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

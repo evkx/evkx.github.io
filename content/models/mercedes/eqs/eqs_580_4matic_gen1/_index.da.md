@@ -112,9 +112,13 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
+
+### Sæder
+
+Mercedes-EQ EQS 580 4MATIC har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
 
 Der er to sædetyper, du kan vælge imellem til forreste række i Mercedes-EQ EQS 580 4MATIC.
 
@@ -154,7 +158,7 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic_gen1/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2250"  >}}
 
 
-### Sæder på anden række
+#### Sæder på anden række
 
 Du kan vælge to sædetyper til anden række i Mercedes-EQ EQS 580 4MATIC.
 

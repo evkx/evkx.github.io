@@ -101,9 +101,13 @@ Der er to forskellige tagmuligheder at vælge imellem. Standardtaget har et stor
 
 Du kan vælge mellem flere interiørdesigns.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Honda Prologue FWD.
+
+
+#### Første række sæder
+
+Honda Prologue FWD tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -121,7 +125,7 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

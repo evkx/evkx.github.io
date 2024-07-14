@@ -103,9 +103,13 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Kia EV6 GT.
+
+
+#### Asientos de primera fila
+
+El Kia EV6 GT ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -125,7 +129,7 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

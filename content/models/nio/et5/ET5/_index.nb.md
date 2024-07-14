@@ -117,11 +117,15 @@ Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panora
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i Nio ET5.
+### Seter
+
+Nio ET5 har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Nio ET5 Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -144,7 +148,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

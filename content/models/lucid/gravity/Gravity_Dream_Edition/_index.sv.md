@@ -104,11 +104,15 @@ Det finns bara ett tak för denna modell. Vindrutan är en panoramavy bakåt öv
 
 ## Interiör
 
-Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner. Sittlayouten är sju platser med två fram, tre platser på andra raden och två platser på tredje raden.
+Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner.
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Lucid Gravity Dream Edition.
+Sittlayouten är sju platser med två fram, tre platser på andra raden och två platser på tredje raden.
+
+#### Framsäten
+
+Lucid Gravity Dream Edition erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -134,7 +138,7 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/frontseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 
@@ -146,7 +150,7 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/secondrowseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

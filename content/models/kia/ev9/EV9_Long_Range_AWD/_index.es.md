@@ -103,9 +103,13 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Kia EV9 Long Range AWD.
+
+
+#### Asientos de primera fila
+
+El Kia EV9 Long Range AWD ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -130,7 +134,7 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/frontseats_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
 
-### Asientos de la segunda fila
+#### Asientos de la segunda fila
 
 Puedes elegir tres tipos de asientos para la segunda fila en el Kia EV9 Long Range AWD.
 
@@ -154,7 +158,7 @@ La opción third son dos sillas estilo capitán. Además, las siguientes funcion
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
 
-### Asientos de tercera fila
+#### Asientos de tercera fila
 
 
 

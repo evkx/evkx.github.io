@@ -103,11 +103,15 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
+
+
+### Sæder
+
 Sædelayoutet er seks sæder med to foran, to kaptajnstole på anden række og en to-sædet bænk på tredje række.
 
-### Første række sæder
+#### Første række sæder
 
-Kun én type forsæde er tilgængelig i HiPhi X 6 Seater.
+HiPhi X 6 Seater tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -126,7 +130,7 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 
@@ -137,7 +141,7 @@ For anden række har denne model to kaptajnstole. Derudover er følgende funktio
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
-### Sæder på tredje række
+#### Sæder på tredje række
 
 
 

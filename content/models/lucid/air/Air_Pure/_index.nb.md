@@ -101,11 +101,15 @@ Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i Lucid Air Pure.
+### Seter
+
+Lucid Air Pure har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Lucid Air Pure Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -121,7 +125,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

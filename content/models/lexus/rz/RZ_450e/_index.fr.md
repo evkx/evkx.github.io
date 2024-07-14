@@ -104,9 +104,13 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le Lexus RZ 450e.
+
+
+#### Sièges de première rangée
+
+Le Lexus RZ 450e propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -124,7 +128,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/frontseats_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

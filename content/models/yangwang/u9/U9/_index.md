@@ -114,9 +114,13 @@ There is only one roof for this model.
 
 
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the YangWang U9.
+
+
+#### First row seats
+
+The YangWang U9 offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 

@@ -125,9 +125,13 @@ B-stolpen och vyerna bak är tonade. Som ett alternativ finns dubbelglasade sido
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
+
+### Säten
+
+Audi Q8 e-tron edition Dakar rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
 
 Det finns fem sätestyper du kan välja mellan för den främre raden av Audi Q8 e-tron edition Dakar.
 
@@ -206,7 +210,7 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/frontseats_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

@@ -99,11 +99,15 @@ Det er bare ett tak for denne modellen.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i Chevrolet Silverado EV SRT.
+### Seter
+
+Chevrolet Silverado EV SRT har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Chevrolet Silverado EV SRT Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -117,7 +121,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

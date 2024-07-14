@@ -95,11 +95,15 @@ Il n'y a qu'un seul toit pour ce modèle. En option, vous pouvez commander ce mo
 
 ## Intérieur
 
+
+
+### Sièges
+
 La disposition des sièges est de sept sièges, dont deux à l'avant, deux sièges dans la deuxième rangée et trois sièges dans la troisième rangée.
 
-### Sièges de première rangée
+#### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le Cadillac ESCALADE IQ.
+Le Cadillac ESCALADE IQ propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
@@ -121,7 +125,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 
@@ -137,7 +141,7 @@ Pour la deuxième rangée, ce modèle est doté de deux [sièges exécutifs](../
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2003"  >}}
 
 
-### Sièges de troisième rangée
+#### Sièges de troisième rangée
 
 
 

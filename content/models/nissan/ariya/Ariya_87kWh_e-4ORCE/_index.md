@@ -102,11 +102,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-There is one seat type you can select in different materials. The seat layout is the traditional five seats with two in front and three in the rear.
+There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Nissan Ariya 87kWh e-4ORCE.
+The Nissan Ariya 87kWh e-4ORCE accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Nissan Ariya 87kWh e-4ORCE offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -125,7 +129,7 @@ You can choose from 5 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

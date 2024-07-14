@@ -96,9 +96,13 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el MG Marvel R Electric Performance.
+
+
+#### Asientos de primera fila
+
+El MG Marvel R Electric Performance ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -115,7 +119,7 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/frontseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1999"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

@@ -102,11 +102,15 @@ Det finns två olika takalternativ att välja mellan. Som tillval kan du bestäl
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Volvo XC40 Recharge Twin Motor.
+### Säten
+
+Volvo XC40 Recharge Twin Motor rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+Volvo XC40 Recharge Twin Motor erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -122,7 +126,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_twin_motor/frontseats_1_st.jpg" title="Volvo XC40 Recharge Twin Motor" width="1920" height="1080"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

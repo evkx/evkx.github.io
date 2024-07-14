@@ -115,9 +115,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
+
+### Seats
+
+The Audi Q4 Sportback 45 e-tron accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
 
 There are two seat types you can choose from for the front row in the Audi Q4 Sportback 45 e-tron.
 
@@ -148,7 +152,7 @@ You can choose from 4 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron/frontseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron" width="3000" height="2001"  >}}
 
 
-### Second-row seats
+#### Second-row seats
 
 You can choose two seat types for the second row in the Audi Q4 Sportback 45 e-tron.
 

@@ -102,9 +102,13 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 Puedes elegir entre varios diseños de interiores.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Seres 5 4WD Premium.
+
+
+#### Asientos de primera fila
+
+El Seres 5 4WD Premium ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -123,7 +127,7 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

@@ -104,9 +104,13 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 ## Intérieur
 
+
+
+### Sièges
+
 De plus, le modèle propose une configuration traditionnelle à cinq places ou une configuration optionnelle à sept places.
 
-### Sièges de première rangée
+#### Sièges de première rangée
 
 Vous pouvez choisir parmi deux types de sièges pour la première rangée du Mercedes-EQ EQS 450+ SUV.
 
@@ -146,7 +150,7 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="1687"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 
@@ -159,7 +163,7 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="2250"  >}}
 
 
-### Sièges de troisième rangée
+#### Sièges de troisième rangée
 
 
 

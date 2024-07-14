@@ -99,11 +99,15 @@ There is only one roof for this model.
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the Chevrolet Silverado EV SRT.
+### Seats
+
+The Chevrolet Silverado EV SRT accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Chevrolet Silverado EV SRT offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -117,7 +121,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

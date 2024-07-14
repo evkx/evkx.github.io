@@ -114,9 +114,13 @@ Il n'y a qu'un seul toit pour ce modèle.
 
 
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le Automobili Pininfarina Battista.
+
+
+#### Sièges de première rangée
+
+Le Automobili Pininfarina Battista propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 

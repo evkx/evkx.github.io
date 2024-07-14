@@ -102,9 +102,13 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 Du kan vælge mellem flere interiørdesigns.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Seres 5 4WD Premium.
+
+
+#### Første række sæder
+
+Seres 5 4WD Premium tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -123,7 +127,7 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

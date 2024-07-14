@@ -97,11 +97,15 @@ Det finns bara ett tak för denna modell. Som tillval kan du beställa denna mod
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Mercedes-EQ EQC 400 4MATIC.
+### Säten
+
+Mercedes-EQ EQC 400 4MATIC rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
+
+Mercedes-EQ EQC 400 4MATIC erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 

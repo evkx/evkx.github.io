@@ -107,9 +107,13 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
+
+### Sæder
+
+Ford Capri Extended Range RWD har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
 
 Der er to sædetyper, du kan vælge imellem til forreste række i Ford Capri Extended Range RWD.
 
@@ -133,7 +137,7 @@ Følgende funktioner er tilgængelige på **Ergo** sædet.
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/frontseats_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

@@ -104,11 +104,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
+
+
+### Seats
+
 The seat layout is seven seats with two in front, three seats in the second row and two seats on third row.
 
-### First row seats
+#### First row seats
 
-Only one front seat type is available in the Tesla Model X.
+The Tesla Model X offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -123,7 +127,7 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 
@@ -134,7 +138,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/secondrowseats_1_st.jpg" title="Tesla Model X" width="3000" height="2000"  >}}
 
 
-### Third-row seats
+#### Third-row seats
 
 
 

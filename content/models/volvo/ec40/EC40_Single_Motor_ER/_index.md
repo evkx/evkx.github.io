@@ -100,11 +100,15 @@ There are two different roof options to select from. As an option, you can order
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the Volvo EC40 Single Motor ER.
+### Seats
+
+The Volvo EC40 Single Motor ER accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Volvo EC40 Single Motor ER offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -120,7 +124,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/frontseats_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

@@ -100,11 +100,15 @@ There is only one roof for this model. As an option, you can order this model wi
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the Mercedes-EQ EQC 400 4MATIC.
+### Seats
+
+The Mercedes-EQ EQC 400 4MATIC accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Mercedes-EQ EQC 400 4MATIC offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 

@@ -100,11 +100,15 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit p
 
 ## Intérieur
 
+
+
+### Sièges
+
 La disposition des sièges est de six sièges, dont deux à l'avant, deux sièges capitaine dans la deuxième rangée et une banquette à deux places dans la troisième rangée.
 
-### Sièges de première rangée
+#### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le Hongqi E-HS9 Exclusive+.
+Le Hongqi E-HS9 Exclusive+ propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -121,7 +125,7 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 
@@ -131,7 +135,7 @@ Pour la deuxième rangée, ce modèle dispose de deux sièges capitaine. De plus
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-### Sièges de troisième rangée
+#### Sièges de troisième rangée
 
 
 

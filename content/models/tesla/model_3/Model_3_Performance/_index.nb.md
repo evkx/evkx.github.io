@@ -104,11 +104,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Interiøret i Tesla Model 3 Performance er minimalistisk, med materialer av høy kvalitet på flere områder i stedet for hard plast. I tillegg inkluderer det en tradisjonell midtkonsoll som skiller føreren og passasjeren, og gir praktisk oppbevaring og funksjonalitet. Du kan velge mellom flere interiørdesign.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Tesla Model 3 Performance.
+Tesla Model 3 Performance har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Tesla Model 3 Performance Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -117,8 +121,11 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [minne førersete](../../../../technology/seats/adjustment/#seat-memory)
 - [minne passasjersete](../../../../technology/seats/adjustment/#seat-memory)
+- [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
+- Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
+- White [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 
 
@@ -126,12 +133,13 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/frontseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2250"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
+- høydejusterbar hodestøtte
 
 Det er bare én type ratt tilgjengelig.
 

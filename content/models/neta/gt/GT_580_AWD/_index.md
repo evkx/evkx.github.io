@@ -93,11 +93,15 @@ There is only one roof for this model. The standard roof includes a large panora
 
 ## Interior
 
+
+
+### Seats
+
 The seat layout is the two seats in front and two seats in the rear.
 
-### First row seats
+#### First row seats
 
-Only one front seat type is available in the Neta GT 580 AWD.
+The Neta GT 580 AWD offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -114,7 +118,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/frontseats_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="1081"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

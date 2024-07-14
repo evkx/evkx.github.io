@@ -106,9 +106,13 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 Du kan vælge mellem flere interiørdesigns.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i VinFast VF8 Plus.
+
+
+#### Første række sæder
+
+VinFast VF8 Plus tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -127,7 +131,7 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

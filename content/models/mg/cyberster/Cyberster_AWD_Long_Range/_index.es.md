@@ -95,9 +95,13 @@ Sólo hay un techo para este modelo. El techo estándar es una capota blanda que
 
 Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el MG Cyberster AWD Long Range.
+
+
+#### Asientos de primera fila
+
+El MG Cyberster AWD Long Range ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 

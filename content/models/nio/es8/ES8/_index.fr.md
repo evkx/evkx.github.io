@@ -120,9 +120,13 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panor
 
 
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le Nio ES8.
+
+
+#### Sièges de première rangée
+
+Le Nio ES8 propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -144,7 +148,7 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/nio/es8/es8/frontseats_1_st.jpg" title="Nio ES8" width="2880" height="1784"  >}}
 
 
-### Sièges de deuxième rangée
+#### Sièges de deuxième rangée
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Nio ES8.
 
@@ -157,7 +161,7 @@ L'option standard est deux sièges capitaine. De plus, les fonctionnalités suiv
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
-### Sièges de troisième rangée
+#### Sièges de troisième rangée
 
 
 

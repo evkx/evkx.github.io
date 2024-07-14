@@ -99,9 +99,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Hyundai Ioniq 5 N.
+
+
+#### First row seats
+
+The Hyundai Ioniq 5 N offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -116,7 +120,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

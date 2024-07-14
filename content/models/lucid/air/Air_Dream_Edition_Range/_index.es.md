@@ -101,11 +101,15 @@ Sólo hay un techo para este modelo. El parabrisas es panorámico cubriendo la p
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
-### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el Lucid Air Dream Edition Range.
+### Asientos
+
+El Lucid Air Dream Edition Range tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
+
+El Lucid Air Dream Edition Range ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -127,7 +131,7 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/frontseats_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="2248"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

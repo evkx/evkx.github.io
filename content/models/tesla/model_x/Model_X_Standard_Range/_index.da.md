@@ -104,11 +104,15 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
+
+
+### Sæder
+
 Sædelayoutet er syv sæder med to foran, tre sæder på anden række og to sæder på tredje række.
 
-### Første række sæder
+#### Første række sæder
 
-Kun én type forsæde er tilgængelig i Tesla Model X Standard Range.
+Tesla Model X Standard Range tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -123,7 +127,7 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 
@@ -134,7 +138,7 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_standard_range/secondrowseats_1_st.jpg" title="Tesla Model X Standard Range" width="3000" height="2000"  >}}
 
 
-### Sæder på tredje række
+#### Sæder på tredje række
 
 
 

@@ -102,9 +102,13 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le Kia EV3 Long Range.
+
+
+#### Sièges de première rangée
+
+Le Kia EV3 Long Range propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
@@ -125,7 +129,7 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

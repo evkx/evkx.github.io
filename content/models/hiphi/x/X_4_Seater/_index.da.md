@@ -103,11 +103,15 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
+
+
+### Sæder
+
 Sædeopsætningen er to sæder foran og to sæder bagved.
 
-### Første række sæder
+#### Første række sæder
 
-Kun én type forsæde er tilgængelig i HiPhi X 4 Seater.
+HiPhi X 4 Seater tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -126,7 +130,7 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

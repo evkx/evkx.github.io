@@ -97,11 +97,15 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
 
-Kun én type forsæde er tilgængelig i Aion Hyper GT 710 Supercharged.
+### Sæder
+
+Aion Hyper GT 710 Supercharged har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
+
+Aion Hyper GT 710 Supercharged tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -120,7 +124,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/frontseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1875" height="1250"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

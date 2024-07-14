@@ -104,11 +104,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-There is one seat type you can select in different materials. The seat layout is seven seats with two in front, three seats in the second row and two seats on third row.
+There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Peugot E-5008 Long Range.
+The seat layout is seven seats with two in front, three seats in the second row and two seats on third row.
+
+#### First row seats
+
+The Peugot E-5008 Long Range offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -127,7 +131,7 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 
@@ -140,7 +144,7 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/secondrowseats_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 
 
-### Third-row seats
+#### Third-row seats
 
 
 

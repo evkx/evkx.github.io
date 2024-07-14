@@ -135,11 +135,15 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
+
+
+### Sièges
+
 De plus, le modèle propose une configuration traditionnelle à cinq places ou une configuration optionnelle à sept places.
 
-### Sièges de première rangée
+#### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le Tesla Model Y Standard Range.
+Le Tesla Model Y Standard Range propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -156,7 +160,7 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/frontseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 
@@ -167,7 +171,7 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/secondrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
 
-### Sièges de troisième rangée
+#### Sièges de troisième rangée
 
 
 

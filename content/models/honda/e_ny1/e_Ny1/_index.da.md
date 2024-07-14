@@ -94,9 +94,13 @@ Der er kun ét tag til denne model.
 
 
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Honda e:Ny1.
+
+
+#### Første række sæder
+
+Honda e:Ny1 tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -105,7 +109,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

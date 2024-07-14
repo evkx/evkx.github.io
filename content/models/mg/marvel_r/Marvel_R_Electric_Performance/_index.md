@@ -96,9 +96,13 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the MG Marvel R Electric Performance.
+
+
+#### First row seats
+
+The MG Marvel R Electric Performance offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -115,7 +119,7 @@ You can choose from 3 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/frontseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1999"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

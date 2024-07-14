@@ -104,9 +104,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Lexus RZ 450e.
+
+
+#### First row seats
+
+The Lexus RZ 450e offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -124,7 +128,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/frontseats_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

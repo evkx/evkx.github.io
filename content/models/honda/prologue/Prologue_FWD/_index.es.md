@@ -101,9 +101,13 @@ Hay dos opciones de techo diferentes para elegir El techo estándar tiene un gra
 
 Puedes elegir entre varios diseños de interiores.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Honda Prologue FWD.
+
+
+#### Asientos de primera fila
+
+El Honda Prologue FWD ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -121,7 +125,7 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

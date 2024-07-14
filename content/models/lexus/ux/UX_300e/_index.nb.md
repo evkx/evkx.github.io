@@ -104,9 +104,13 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Lexus UX 300e.
+
+
+#### Forseter
+
+Lexus UX 300e Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -125,7 +129,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/frontseats_1_st.jpg" title="Lexus UX 300e" width="2281" height="1521"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

@@ -116,11 +116,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
+
+
+### Seats
+
 The seat layout is seven seats with two in front, three seats in the second row and two seats on third row.
 
-### First row seats
+#### First row seats
 
-Only one front seat type is available in the Rivian R1S Quad-Motor AWD MP.
+The Rivian R1S Quad-Motor AWD MP offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -142,7 +146,7 @@ You can choose from 3 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/frontseats_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 
@@ -151,7 +155,7 @@ The second row has a standard three-seat bench with a  split where you can fold 
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-### Third-row seats
+#### Third-row seats
 
 
 

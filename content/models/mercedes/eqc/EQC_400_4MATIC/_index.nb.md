@@ -97,11 +97,15 @@ Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne m
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i Mercedes-EQ EQC 400 4MATIC.
+### Seter
+
+Mercedes-EQ EQC 400 4MATIC har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Mercedes-EQ EQC 400 4MATIC Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 

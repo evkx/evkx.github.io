@@ -107,11 +107,15 @@ There are two different roof options to select from. The standard is just a regu
 
 ## Interior
 
+
+
+### Seats
+
 In addition, the model offers a traditional five-seat layout or an optional seven-seat layout.
 
-### First row seats
+#### First row seats
 
-Only one front seat type is available in the Mercedes-Maybach EQS 680 SUV.
+The Mercedes-Maybach EQS 680 SUV offers a single type of front seat.
 
 The following functionalities are available on the **multicontour** seat.
 
@@ -135,7 +139,7 @@ You can choose from 2 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2001"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

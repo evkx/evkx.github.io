@@ -108,11 +108,15 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the BMW iX3.
+### Seats
+
+The BMW iX3 accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The BMW iX3 offers a single type of front seat.
 
 The following functionalities are available on the **Sport** seat.
 
@@ -128,7 +132,7 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

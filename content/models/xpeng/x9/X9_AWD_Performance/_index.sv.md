@@ -91,11 +91,15 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
+
+
+### Säten
+
 Sittlayouten är sju platser med två fram, två platser på andra raden och tre platser på tredje raden.
 
-### Framsäten
+#### Framsäten
 
-Endast en typ av framsäte är tillgänglig i XPENG X9 AWD Performance.
+XPENG X9 AWD Performance erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 
@@ -119,7 +123,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/frontseats_1_st.png" title="XPENG X9 AWD Performance" width="3000" height="1514"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 
@@ -134,7 +138,7 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/secondrowseats_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1687"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

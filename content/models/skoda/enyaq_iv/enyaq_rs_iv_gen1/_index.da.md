@@ -102,11 +102,15 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
 
-Kun én type forsæde er tilgængelig i SKODA ENYAQ RS iV (GEN1).
+### Sæder
+
+SKODA ENYAQ RS iV (GEN1) har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
+
+SKODA ENYAQ RS iV (GEN1) tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **Sport** sædet.
 
@@ -121,7 +125,7 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

@@ -100,11 +100,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the Rivian R1T Performance Dual-Motor AWD MP.
+### Seats
+
+The Rivian R1T Performance Dual-Motor AWD MP accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Rivian R1T Performance Dual-Motor AWD MP offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -122,7 +126,7 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

@@ -120,9 +120,13 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 
 
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Nio ES8.
+
+
+#### Framsäten
+
+Nio ES8 erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -144,7 +148,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/nio/es8/es8/frontseats_1_st.jpg" title="Nio ES8" width="2880" height="1784"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 Du kan välja två sätestyper för den andra raden i Nio ES8.
 
@@ -157,7 +161,7 @@ Alternativ standard är två kaptensstolar. Dessutom är följande funktioner ti
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

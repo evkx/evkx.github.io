@@ -98,11 +98,15 @@ There is only one roof for this model.
 
 ## Interior
 
+
+
+### Seats
+
 The seat layout is the two seats in front and two seats in the rear.
 
-### First row seats
+#### First row seats
 
-Only one front seat type is available in the Dacia Spring 65HP.
+The Dacia Spring 65HP offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -116,7 +120,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/frontseats_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

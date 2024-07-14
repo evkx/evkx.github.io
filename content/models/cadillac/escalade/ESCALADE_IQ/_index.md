@@ -95,11 +95,15 @@ There is only one roof for this model. As an option, you can order this model wi
 
 ## Interior
 
+
+
+### Seats
+
 The seat layout is seven seats with two in front, two seats in the second row and three seats on third row.
 
-### First row seats
+#### First row seats
 
-Only one front seat type is available in the Cadillac ESCALADE IQ.
+The Cadillac ESCALADE IQ offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -121,7 +125,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 
@@ -137,7 +141,7 @@ For the second row, this model has twin [executive seats](../../../../technology
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2003"  >}}
 
 
-### Third-row seats
+#### Third-row seats
 
 
 

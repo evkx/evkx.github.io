@@ -104,9 +104,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
+
+### Seats
+
+The Opel Frontera accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
 
 There are two seat types you can choose from for the front row in the Opel Frontera.
 
@@ -127,7 +131,7 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 
-### Second-row seats
+#### Second-row seats
 
 You can choose two seat types for the second row in the Opel Frontera.
 

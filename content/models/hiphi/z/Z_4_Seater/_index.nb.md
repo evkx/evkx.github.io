@@ -103,11 +103,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
+
+
+### Seter
+
 Seteoppsettet er to seter foran og to seter bak.
 
-### Forseter
+#### Forseter
 
-Bare én type forsete er tilgjengelig i HiPhi Z 4 Seater.
+HiPhi Z 4 Seater Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -130,7 +134,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/frontseats_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2256"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

@@ -104,9 +104,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Hyundai Kona Standard Range.
+
+
+#### First row seats
+
+The Hyundai Kona Standard Range offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -127,7 +131,7 @@ You can choose from 6 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

@@ -96,9 +96,13 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Toyota bZ4X AWD.
+
+
+#### Asientos de primera fila
+
+El Toyota bZ4X AWD ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -112,7 +116,7 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

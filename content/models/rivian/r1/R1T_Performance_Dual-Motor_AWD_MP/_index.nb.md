@@ -100,11 +100,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i Rivian R1T Performance Dual-Motor AWD MP.
+### Seter
+
+Rivian R1T Performance Dual-Motor AWD MP har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Rivian R1T Performance Dual-Motor AWD MP Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -122,7 +126,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

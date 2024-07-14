@@ -108,11 +108,15 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i BMW iX3.
+### Seter
+
+BMW iX3 har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+BMW iX3 Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **Sport** setet.
 
@@ -128,7 +132,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

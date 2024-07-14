@@ -103,11 +103,15 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 ## Interior
 
-Puedes elegir entre varios diseños de interiores. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
+Puedes elegir entre varios diseños de interiores.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Xiaomi SU7 Pro.
+El Xiaomi SU7 Pro tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
+
+El Xiaomi SU7 Pro ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -126,7 +130,7 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/frontseats_1_st.jpg" title="Xiaomi SU7 Pro" width="1760" height="1000"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

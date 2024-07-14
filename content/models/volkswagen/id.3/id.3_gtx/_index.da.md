@@ -103,11 +103,15 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
+
+
+### Sæder
+
 Denne model tilbyder et layout med fire sæder eller et valgfrit 4+1 layout.
 
-### Første række sæder
+#### Første række sæder
 
-Kun én type forsæde er tilgængelig i Volkswagen ID.3 GTX.
+Volkswagen ID.3 GTX tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -123,7 +127,7 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/frontseats_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

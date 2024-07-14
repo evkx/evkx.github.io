@@ -95,11 +95,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-There is one seat type you can select in different materials. The seat layout is six seats with two in front, two captain chairs in the second row, and a two-seat bench in the third row.
+There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Zeekr 009 ME Edition.
+The seat layout is six seats with two in front, two captain chairs in the second row, and a two-seat bench in the third row.
+
+#### First row seats
+
+The Zeekr 009 ME Edition offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -118,7 +122,7 @@ You can choose from 5 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 
@@ -133,7 +137,7 @@ For the second row, this model has two captain chairs. In addition, the followin
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/secondrowseats_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440"  >}}
 
 
-### Third-row seats
+#### Third-row seats
 
 
 

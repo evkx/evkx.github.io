@@ -94,11 +94,15 @@ Der er kun ét tag til denne model. Standardtaget har 4 separate glaspaneler, de
 
 ## Interiør
 
-Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
 
-### Første række sæder
 
-Kun én type forsæde er tilgængelig i GMC Hummer EV Edition 1 Pickup.
+### Sæder
+
+GMC Hummer EV Edition 1 Pickup har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
+
+GMC Hummer EV Edition 1 Pickup tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -114,7 +118,7 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

@@ -99,9 +99,13 @@ There are two different roof options to select from. The standard is just a regu
 
 
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Chevrolet Equinox EV AWD.
+
+
+#### First row seats
+
+The Chevrolet Equinox EV AWD offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -121,7 +125,7 @@ You can choose from 2 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/frontseats_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="1999"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

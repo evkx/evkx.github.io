@@ -96,9 +96,13 @@ B-stolpen och vyerna bak är tonade.
 
 Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner.
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i MG Marvel R Electric Performance.
+
+
+#### Framsäten
+
+MG Marvel R Electric Performance erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -115,7 +119,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/frontseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1999"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

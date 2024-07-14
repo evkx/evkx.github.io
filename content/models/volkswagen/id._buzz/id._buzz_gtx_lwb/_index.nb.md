@@ -105,7 +105,11 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 
 
-### Forseter
+### Seter
+
+
+
+#### Forseter
 
 Det er to setetyper du kan velge mellom for første rad i Volkswagen ID. Buzz GTX LWB.
 
@@ -146,7 +150,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/frontseats_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2010"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Volkswagen ID. Buzz GTX LWB.
 
@@ -161,7 +165,7 @@ Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgj
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2000"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

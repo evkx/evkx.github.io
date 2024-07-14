@@ -103,9 +103,13 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Genesis GV60 AWD Performance.
+
+
+#### Asientos de primera fila
+
+El Genesis GV60 AWD Performance ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -130,7 +134,7 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd_performance/frontseats_1_st.jpg" title="Genesis GV60 AWD Performance" width="1500" height="1090"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

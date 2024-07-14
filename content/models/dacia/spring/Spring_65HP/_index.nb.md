@@ -98,11 +98,15 @@ Det er bare ett tak for denne modellen.
 
 ## Interiør
 
+
+
+### Seter
+
 Seteoppsettet er to seter foran og to seter bak.
 
-### Forseter
+#### Forseter
 
-Bare én type forsete er tilgjengelig i Dacia Spring 65HP.
+Dacia Spring 65HP Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -116,7 +120,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/frontseats_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

@@ -130,9 +130,13 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
+
+### Säten
+
+Audi Q6 e-tron performance rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
 
 Det finns tre sätestyper du kan välja mellan för den främre raden av Audi Q6 e-tron performance.
 
@@ -167,7 +171,7 @@ Följande funktioner är tillgängliga på **Sport Plus** sätet.
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/frontseats_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

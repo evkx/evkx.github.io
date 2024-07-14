@@ -99,11 +99,15 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
+
+
+### Säten
+
 Sittlayouten är två säten fram och två säten bak.
 
-### Framsäten
+#### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Rolls-Royce Spectre.
+Rolls-Royce Spectre erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -131,7 +135,7 @@ Du kan välja mellan 7 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1687"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

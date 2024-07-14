@@ -95,11 +95,15 @@ Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du 
 
 ## Interiør
 
-Det er én setetype du kan velge i forskjellige materialer. Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
+Det er én setetype du kan velge i forskjellige materialer.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Polestar 4 Long range Single motor.
+Polestar 4 Long range Single motor har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Polestar 4 Long range Single motor Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -119,7 +123,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

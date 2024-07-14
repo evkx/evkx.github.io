@@ -101,11 +101,15 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
+
+
+### Säten
+
 Sittlayouten är två säten fram och två säten bak.
 
-### Framsäten
+#### Framsäten
 
-Endast en typ av framsäte är tillgänglig i BYD Seagull 38kWh.
+BYD Seagull 38kWh erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -114,7 +118,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

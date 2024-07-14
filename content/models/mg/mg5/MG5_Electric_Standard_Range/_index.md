@@ -98,9 +98,13 @@ There is only one roof for this model.
 
 There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the MG MG5 Electric Standard Range.
+
+
+#### First row seats
+
+The MG MG5 Electric Standard Range offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -117,7 +121,7 @@ You can choose from 3 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/frontseats_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="2005"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

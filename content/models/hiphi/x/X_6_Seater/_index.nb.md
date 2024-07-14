@@ -103,11 +103,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
+
+
+### Seter
+
 Seteoppsettet er seks seter med to foran, to kapteinstoler på andre rad, og en to-seters benk på tredje rad.
 
-### Forseter
+#### Forseter
 
-Bare én type forsete er tilgjengelig i HiPhi X 6 Seater.
+HiPhi X 6 Seater Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -126,7 +130,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 
@@ -137,7 +141,7 @@ For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende 
 - [massasje](../../../../technology/seats/adjustment/#massage)
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

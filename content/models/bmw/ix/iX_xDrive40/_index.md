@@ -101,11 +101,15 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the BMW iX xDrive40.
+### Seats
+
+The BMW iX xDrive40 accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The BMW iX xDrive40 offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -125,7 +129,7 @@ You can choose from 7 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/frontseat_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1999"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

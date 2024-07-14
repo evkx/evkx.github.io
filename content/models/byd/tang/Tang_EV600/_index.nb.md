@@ -101,11 +101,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
+
+
+### Seter
+
 Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
 
-### Forseter
+#### Forseter
 
-Bare én type forsete er tilgjengelig i BYD Tang EV600.
+BYD Tang EV600 Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -123,7 +127,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 
@@ -135,7 +139,7 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="1921" height="1080"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

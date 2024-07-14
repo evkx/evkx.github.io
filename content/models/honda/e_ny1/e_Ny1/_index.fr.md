@@ -94,9 +94,13 @@ Il n'y a qu'un seul toit pour ce modèle.
 
 
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le Honda e:Ny1.
+
+
+#### Sièges de première rangée
+
+Le Honda e:Ny1 propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
@@ -105,7 +109,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

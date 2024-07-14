@@ -104,11 +104,15 @@ Der er kun ét tag til denne model. Forruden er panoramisk tilbage over første 
 
 ## Interiør
 
-Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns. Sædelayoutet er syv sæder med to foran, tre sæder på anden række og to sæder på tredje række.
+Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Lucid Gravity Dream Edition.
+Sædelayoutet er syv sæder med to foran, tre sæder på anden række og to sæder på tredje række.
+
+#### Første række sæder
+
+Lucid Gravity Dream Edition tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -134,7 +138,7 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/frontseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 
@@ -146,7 +150,7 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/secondrowseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 
-### Sæder på tredje række
+#### Sæder på tredje række
 
 
 

@@ -103,11 +103,15 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Der er én sædetype, du kan vælge i forskellige materialer. Sædelayoutet er syv sæder med to foran, to sæder på anden række og tre sæder på tredje række.
+Der er én sædetype, du kan vælge i forskellige materialer.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Li Auto MEGA.
+Sædelayoutet er syv sæder med to foran, to sæder på anden række og tre sæder på tredje række.
+
+#### Første række sæder
+
+Li Auto MEGA tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -134,7 +138,7 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/li_auto/mega/mega/frontseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 
@@ -149,7 +153,7 @@ For anden række har denne model to kaptajnstole. Derudover er følgende funktio
 {{< sitefiguresized thumb="models/li_auto/mega/mega/secondrowseats_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
 
-### Sæder på tredje række
+#### Sæder på tredje række
 
 
 

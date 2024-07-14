@@ -103,11 +103,15 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-There is one seat type you can select in different materials. The seat layout is the traditional five seats with two in front and three in the rear.
+There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the BMW i7 eDrive50.
+The BMW i7 eDrive50 accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The BMW i7 eDrive50 offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -138,7 +142,7 @@ You can choose from 15 different materials/colors for this seat type.
 
 
 
-### Second-row seats
+#### Second-row seats
 
 You can choose two seat types for the second row in the BMW i7 eDrive50.
 

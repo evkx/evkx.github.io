@@ -120,9 +120,13 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 
 
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Nio ES8.
+
+
+#### Første række sæder
+
+Nio ES8 tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -144,7 +148,7 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/nio/es8/es8/frontseats_1_st.jpg" title="Nio ES8" width="2880" height="1784"  >}}
 
 
-### Sæder på anden række
+#### Sæder på anden række
 
 Du kan vælge to sædetyper til anden række i Nio ES8.
 
@@ -157,7 +161,7 @@ Muligheden standard er to kaptajnstole. Derudover er følgende funktionaliteter 
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
-### Sæder på tredje række
+#### Sæder på tredje række
 
 
 

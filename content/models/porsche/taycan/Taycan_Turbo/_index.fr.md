@@ -109,9 +109,13 @@ Il existe trois options de toit différentes à choisir. Le standard est juste u
 
 ## Intérieur
 
+
+
+### Sièges
+
 Ce modèle offre une configuration à quatre places ou une configuration 4+1 en option.
 
-### Sièges de première rangée
+#### Sièges de première rangée
 
 Vous pouvez choisir parmi trois types de sièges pour la première rangée du Porsche Taycan Turbo.
 
@@ -155,7 +159,7 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 
 
-### Sièges de deuxième rangée
+#### Sièges de deuxième rangée
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Porsche Taycan Turbo.
 

@@ -96,9 +96,13 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Toyota bZ4X FWD.
+
+
+#### Framsäten
+
+Toyota bZ4X FWD erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -112,7 +116,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

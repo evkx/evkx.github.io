@@ -120,9 +120,13 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 
 
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Nio ES8.
+
+
+#### Forseter
+
+Nio ES8 Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -144,7 +148,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/nio/es8/es8/frontseats_1_st.jpg" title="Nio ES8" width="2880" height="1784"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Nio ES8.
 
@@ -157,7 +161,7 @@ Alternativet standard er to kapteinstoler. I tillegg er følgende funksjoner til
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

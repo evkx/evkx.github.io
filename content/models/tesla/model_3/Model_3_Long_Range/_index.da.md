@@ -104,11 +104,15 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 ## Interiør
 
-Interiøret i Tesla Model 3 Long Range er minimalistisk og har materialer af høj kvalitet i flere områder i stedet for hård plast. Derudover inkluderer det en traditionel midterkonsol, der adskiller føreren og passageren, hvilket giver praktisk opbevaring og funktionalitet. Du kan vælge mellem flere interiørdesigns. Sædelayoutet er de traditionelle fem sæder med to foran og tre bagtil.
+Interiøret i Tesla Model 3 Long Range er minimalistisk og har materialer af høj kvalitet i flere områder i stedet for hård plast. Derudover inkluderer det en traditionel midterkonsol, der adskiller føreren og passageren, hvilket giver praktisk opbevaring og funktionalitet. Du kan vælge mellem flere interiørdesigns.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Tesla Model 3 Long Range.
+Tesla Model 3 Long Range har plads til fem passagerer med to sæder foran og en tre-personers bænk bagtil.
+
+#### Første række sæder
+
+Tesla Model 3 Long Range tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -120,6 +124,8 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
+- Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
+- White [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 
 
@@ -127,7 +133,7 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/frontseats_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

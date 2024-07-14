@@ -98,11 +98,15 @@ There are two different roof options to select from. As an option, you can order
 
 ## Interior
 
-There is one seat type you can select in different materials. The seat layout is the traditional five seats with two in front and three in the rear.
+There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Polestar 2 Long Range Dual Motor Performance.
+The Polestar 2 Long Range Dual Motor Performance accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Polestar 2 Long Range Dual Motor Performance offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -123,7 +127,7 @@ You can choose from 5 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/frontseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="1687"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

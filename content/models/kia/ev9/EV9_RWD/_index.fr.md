@@ -103,9 +103,13 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
-### Sièges de première rangée
+### Sièges
 
-Un seul type de siège avant est disponible dans le Kia EV9 RWD.
+
+
+#### Sièges de première rangée
+
+Le Kia EV9 RWD propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
@@ -130,7 +134,7 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/frontseats_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
 
-### Sièges de deuxième rangée
+#### Sièges de deuxième rangée
 
 Vous pouvez choisir trois types de sièges pour la deuxième rangée dans le Kia EV9 RWD.
 
@@ -154,7 +158,7 @@ L'option third est deux sièges capitaine. De plus, les fonctionnalités suivant
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/secondrowseats_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
 
-### Sièges de troisième rangée
+#### Sièges de troisième rangée
 
 
 

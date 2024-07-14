@@ -97,11 +97,15 @@ There is only one roof for this model. The standard is just a regular roof.
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the Lucid Air Sapphire.
+### Seats
+
+The Lucid Air Sapphire accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Lucid Air Sapphire offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -123,7 +127,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/frontseats_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2001"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

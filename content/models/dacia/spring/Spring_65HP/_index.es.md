@@ -98,11 +98,15 @@ Sólo hay un techo para este modelo.
 
 ## Interior
 
+
+
+### Asientos
+
 La disposición de los asientos es dos asientos delanteros y dos asientos traseros.
 
-### Asientos de primera fila
+#### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el Dacia Spring 65HP.
+El Dacia Spring 65HP ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 
@@ -116,7 +120,7 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/frontseats_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

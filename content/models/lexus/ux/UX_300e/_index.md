@@ -104,9 +104,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Lexus UX 300e.
+
+
+#### First row seats
+
+The Lexus UX 300e offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -125,7 +129,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/frontseats_1_st.jpg" title="Lexus UX 300e" width="2281" height="1521"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

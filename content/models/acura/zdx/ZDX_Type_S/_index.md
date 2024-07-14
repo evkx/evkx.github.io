@@ -95,9 +95,13 @@ There are two different roof options to select from. The standard roof has a lar
 
 
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Acura ZDX Type S.
+
+
+#### First row seats
+
+The Acura ZDX Type S offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -119,7 +123,7 @@ You can choose from 2 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/frontseats_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1997"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

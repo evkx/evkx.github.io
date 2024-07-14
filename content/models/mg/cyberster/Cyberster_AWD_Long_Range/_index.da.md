@@ -95,9 +95,13 @@ Der er kun ét tag til denne model. Standardtaget er en blød top, der kan folde
 
 Der er én sædetype, du kan vælge i forskellige materialer.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i MG Cyberster AWD Long Range.
+
+
+#### Første række sæder
+
+MG Cyberster AWD Long Range tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 

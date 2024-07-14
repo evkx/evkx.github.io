@@ -128,9 +128,13 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
+
+### Seter
+
+Audi e-tron 55 har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
 
 Det er fem setetyper du kan velge mellom for første rad i Audi e-tron 55.
 
@@ -209,7 +213,7 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55/frontseats_1_st.jpg" title="Audi e-tron 55" width="3000" height="1999"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

@@ -95,11 +95,15 @@ There are two different roof options to select from. As an option, you can order
 
 ## Interior
 
-There is one seat type you can select in different materials. The seat layout is the traditional five seats with two in front and three in the rear.
+There is one seat type you can select in different materials.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Polestar 4 Long range Single motor.
+The Polestar 4 Long range Single motor accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Polestar 4 Long range Single motor offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -119,7 +123,7 @@ You can choose from 5 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

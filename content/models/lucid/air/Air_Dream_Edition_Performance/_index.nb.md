@@ -101,11 +101,15 @@ Det er bare ett tak for denne modellen. Forruten er panoramautsikt tilbake over 
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
 
-Bare én type forsete er tilgjengelig i Lucid Air Dream Edition Performance.
+### Seter
+
+Lucid Air Dream Edition Performance har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
+
+Lucid Air Dream Edition Performance Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -127,7 +131,7 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/frontseats_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="2248"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

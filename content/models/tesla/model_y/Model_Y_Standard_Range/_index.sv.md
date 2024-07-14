@@ -135,11 +135,15 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
+
+
+### Säten
+
 Dessutom erbjuder modellen en traditionell femsitslayout eller en valfri sjusitslayout.
 
-### Framsäten
+#### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Tesla Model Y Standard Range.
+Tesla Model Y Standard Range erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -156,7 +160,7 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/frontseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 
@@ -167,7 +171,7 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/secondrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

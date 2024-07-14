@@ -100,9 +100,13 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 ## Interiør
 
+
+
+### Seter
+
 I tillegg tilbyr modellen en tradisjonell fem-seters layout eller en valgfri syv-seter layout.
 
-### Forseter
+#### Forseter
 
 Det er to setetyper du kan velge mellom for første rad i Mercedes-EQ EQB 250.
 
@@ -143,7 +147,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/frontseats_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1999"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 
@@ -151,7 +155,7 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 
 - høydejusterbar hodestøtte
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

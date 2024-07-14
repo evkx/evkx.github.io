@@ -114,9 +114,13 @@ Det finns bara ett tak för denna modell.
 
 
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Rimac Nevera.
+
+
+#### Framsäten
+
+Rimac Nevera erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **** sätet.
 

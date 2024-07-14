@@ -100,11 +100,15 @@ There are two different roof options to select from. The standard is just a regu
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the Ford Mustang Mach-E Standard Range RWD.
+### Seats
+
+The Ford Mustang Mach-E Standard Range RWD accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Ford Mustang Mach-E Standard Range RWD offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -123,7 +127,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="1999"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

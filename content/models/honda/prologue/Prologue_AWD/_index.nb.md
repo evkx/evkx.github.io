@@ -102,9 +102,13 @@ Det er to forskjellige takalternativer å velge mellom. Standardtaket har et sto
 
 Du kan velge mellom flere interiørdesign.
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Honda Prologue AWD.
+
+
+#### Forseter
+
+Honda Prologue AWD Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -122,7 +126,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

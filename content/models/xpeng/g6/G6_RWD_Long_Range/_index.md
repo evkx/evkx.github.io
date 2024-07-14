@@ -95,11 +95,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the XPENG G6 RWD Long Range.
+### Seats
+
+The XPENG G6 RWD Long Range accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The XPENG G6 RWD Long Range offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -121,7 +125,7 @@ You can choose from 2 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_long_range/frontseats_1_st.jpg" title="XPENG G6 RWD Long Range" width="1920" height="1080"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

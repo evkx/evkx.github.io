@@ -106,11 +106,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the SKODA ENYAQ COUPÉ 60.
+### Seats
+
+The SKODA ENYAQ COUPÉ 60 accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The SKODA ENYAQ COUPÉ 60 offers a single type of front seat.
 
 The following functionalities are available on the **Sport** seat.
 
@@ -129,7 +133,7 @@ You can choose from 2 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_60/frontseats_1_st.jpg" title="SKODA ENYAQ COUPÉ 60" width="3000" height="2001"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

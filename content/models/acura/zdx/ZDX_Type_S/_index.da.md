@@ -95,9 +95,13 @@ Der er to forskellige tagmuligheder at vælge imellem. Standardtaget har et stor
 
 
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Acura ZDX Type S.
+
+
+#### Første række sæder
+
+Acura ZDX Type S tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 
@@ -119,7 +123,7 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/frontseats_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1997"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

@@ -104,11 +104,15 @@ There is only one roof for this model. The windshield is panoramic going back ov
 
 ## Interior
 
-You can choose between different types of seat materials and interior styling. You can choose between several interior designs. The seat layout is seven seats with two in front, three seats in the second row and two seats on third row.
+You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Lucid Gravity Dream Edition.
+The seat layout is seven seats with two in front, three seats in the second row and two seats on third row.
+
+#### First row seats
+
+The Lucid Gravity Dream Edition offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -134,7 +138,7 @@ You can choose from 4 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/frontseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 
@@ -146,7 +150,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/secondrowseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 
-### Third-row seats
+#### Third-row seats
 
 
 

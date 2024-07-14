@@ -114,9 +114,13 @@ Sólo hay un techo para este modelo.
 
 
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Automobili Pininfarina Battista.
+
+
+#### Asientos de primera fila
+
+El Automobili Pininfarina Battista ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento ****.
 

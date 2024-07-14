@@ -99,11 +99,15 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
+
+
+### Asientos
+
 La disposición de los asientos es dos asientos delanteros y dos asientos traseros.
 
-### Asientos de primera fila
+#### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el Rolls-Royce Spectre.
+El Rolls-Royce Spectre ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -131,7 +135,7 @@ Puedes elegir entre 7 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1687"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

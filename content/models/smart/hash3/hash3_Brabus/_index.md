@@ -97,11 +97,15 @@ There are two different roof options to select from. The standard is just a regu
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the Smart #3 Brabus.
+### Seats
+
+The Smart #3 Brabus accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Smart #3 Brabus offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -118,7 +122,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/frontseats_1_st.jpg" title="Smart #3 Brabus" width="1536" height="864"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

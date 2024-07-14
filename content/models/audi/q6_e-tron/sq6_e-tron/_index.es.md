@@ -130,9 +130,13 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 ## Interior
 
-La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
 
-### Asientos de primera fila
+
+### Asientos
+
+El Audi SQ6 e-tron tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
 
 Hay tres tipos de asientos entre los que puedes elegir para la primera fila en el Audi SQ6 e-tron.
 
@@ -167,7 +171,7 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/frontseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

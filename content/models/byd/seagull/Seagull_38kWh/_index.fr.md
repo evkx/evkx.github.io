@@ -101,11 +101,15 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 ## Intérieur
 
+
+
+### Sièges
+
 La disposition des sièges est deux sièges à l'avant et deux sièges à l'arrière.
 
-### Sièges de première rangée
+#### Sièges de première rangée
 
-Un seul type de siège avant est disponible dans le BYD Seagull 38kWh.
+Le BYD Seagull 38kWh propose un seul type de siège avant.
 
 Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
@@ -114,7 +118,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 
 
-### Siège de deuxième rangée
+#### Siège de deuxième rangée
 
 
 

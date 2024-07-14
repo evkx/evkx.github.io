@@ -114,9 +114,13 @@ Der er kun ét tag til denne model.
 
 
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i Automobili Pininfarina Battista.
+
+
+#### Første række sæder
+
+Automobili Pininfarina Battista tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **** sædet.
 

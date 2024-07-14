@@ -100,11 +100,15 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 ## Interior
 
+
+
+### Seats
+
 The seat layout is six seats with two in front, two captain chairs in the second row, and a two-seat bench in the third row.
 
-### First row seats
+#### First row seats
 
-Only one front seat type is available in the Hongqi E-HS9 Exclusive+.
+The Hongqi E-HS9 Exclusive+ offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -121,7 +125,7 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 
@@ -131,7 +135,7 @@ For the second row, this model has two captain chairs. In addition, the followin
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-### Third-row seats
+#### Third-row seats
 
 
 

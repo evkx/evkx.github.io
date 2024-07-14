@@ -102,11 +102,15 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 
 ## Interior
 
+
+
+### Asientos
+
 La disposición de los asientos es dos asientos delanteros y dos asientos traseros.
 
-### Asientos de primera fila
+#### Asientos de primera fila
 
-Sólo hay un tipo de asiento delantero disponible en el Nio ET9.
+El Nio ET9 ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -128,7 +132,7 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/nio/et9/et9/frontseats_1_st.jpg" title="Nio ET9" width="1170" height="759"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

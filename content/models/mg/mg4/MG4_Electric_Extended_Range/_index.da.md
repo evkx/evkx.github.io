@@ -98,9 +98,13 @@ Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model
 
 Der er én sædetype, du kan vælge i forskellige materialer.
 
-### Første række sæder
+### Sæder
 
-Kun én type forsæde er tilgængelig i MG MG4 Electric Extended Range.
+
+
+#### Første række sæder
+
+MG MG4 Electric Extended Range tilbyder kun én type forreste sæde.
 
 Følgende funktioner er tilgængelige på **standard** sædet.
 
@@ -116,7 +120,7 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/frontseats_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2000"  >}}
 
 
-### Sæde på anden række
+#### Sæde på anden række
 
 
 

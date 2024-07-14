@@ -102,11 +102,15 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 
 ## Interiör
 
+
+
+### Säten
+
 Sittlayouten är två säten fram och två säten bak.
 
-### Framsäten
+#### Framsäten
 
-Endast en typ av framsäte är tillgänglig i Nio ET9.
+Nio ET9 erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -128,7 +132,7 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/nio/et9/et9/frontseats_1_st.jpg" title="Nio ET9" width="1170" height="759"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

@@ -108,9 +108,13 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
+
+### Seats
+
+The Ford Explorer Extended Range RWD accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
 
 There are two seat types you can choose from for the front row in the Ford Explorer Extended Range RWD.
 
@@ -130,7 +134,7 @@ The following functionalities are available on the **Ergo** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-### Second-row seat
+#### Second-row seat
 
 
 

@@ -95,9 +95,13 @@ Det er to forskjellige takalternativer å velge mellom. Standardtaket har et sto
 
 
 
-### Forseter
+### Seter
 
-Bare én type forsete er tilgjengelig i Acura ZDX Type S.
+
+
+#### Forseter
+
+Acura ZDX Type S Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -119,7 +123,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/frontseats_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1997"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

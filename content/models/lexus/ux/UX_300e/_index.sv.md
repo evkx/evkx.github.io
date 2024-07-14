@@ -104,9 +104,13 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 
 
-### Framsäten
+### Säten
 
-Endast en typ av framsäte är tillgänglig i Lexus UX 300e.
+
+
+#### Framsäten
+
+Lexus UX 300e erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -125,7 +129,7 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/frontseats_1_st.jpg" title="Lexus UX 300e" width="2281" height="1521"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

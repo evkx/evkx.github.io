@@ -103,11 +103,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
+
+
+### Seats
+
 This model offers a four-seat layout or an optional 4+1 layout.
 
-### First row seats
+#### First row seats
 
-Only one front seat type is available in the Volkswagen ID.3 Pro.
+The Volkswagen ID.3 Pro offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -123,7 +127,7 @@ You can choose from 2 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/frontseats_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

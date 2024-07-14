@@ -95,9 +95,13 @@ There are two different roof options to select from. The standard roof has a lar
 
 
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Chevrolet Blazer EV RS AWD.
+
+
+#### First row seats
+
+The Chevrolet Blazer EV RS AWD offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -118,7 +122,7 @@ You can choose from 2 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/frontseats_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

@@ -102,11 +102,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the SKODA ENYAQ 85x.
+### Seats
+
+The SKODA ENYAQ 85x accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The SKODA ENYAQ 85x offers a single type of front seat.
 
 The following functionalities are available on the **Sport** seat.
 
@@ -125,7 +129,7 @@ You can choose from 2 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85x/frontseats_1_st.jpg" title="SKODA ENYAQ 85x" width="3000" height="2107"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

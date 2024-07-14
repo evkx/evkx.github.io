@@ -118,9 +118,13 @@ There are three different roof options to select from. The standard is just a re
 
 ## Interior
 
+
+
+### Seats
+
 This model offers a four-seat layout or an optional 4+1 layout.
 
-### First row seats
+#### First row seats
 
 There are three seat types you can choose from for the front row in the Porsche Taycan Turbo (GEN1).
 
@@ -164,7 +168,7 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 
-### Second-row seats
+#### Second-row seats
 
 You can choose two seat types for the second row in the Porsche Taycan Turbo (GEN1).
 

@@ -126,9 +126,13 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Sittlayouten är den traditionella fem sätena med två fram och tre bak.
 
-### Framsäten
+
+### Säten
+
+Audi Q6L e-tron quattro rymmer fem passagerare med två säten fram och en tre-sitsig bänk bak.
+
+#### Framsäten
 
 Det finns tre sätestyper du kan välja mellan för den främre raden av Audi Q6L e-tron quattro.
 
@@ -159,7 +163,7 @@ Följande funktioner är tillgängliga på **Sport Plus** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

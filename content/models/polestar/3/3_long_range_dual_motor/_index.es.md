@@ -95,11 +95,15 @@ Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este
 
 ## Interior
 
-Hay un tipo de asiento que puedes seleccionar en diferentes materiales. La disposición de los asientos es la tradicional de cinco asientos, dos delante y tres detrás.
+Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
-### Asientos de primera fila
+### Asientos
 
-Sólo hay un tipo de asiento delantero disponible en el Polestar 3 Long Range Dual Motor.
+El Polestar 3 Long Range Dual Motor tiene capacidad para cinco pasajeros con dos asientos delanteros y un banco trasero de tres plazas.
+
+#### Asientos de primera fila
+
+El Polestar 3 Long Range Dual Motor ofrece un único tipo de asiento delantero.
 
 Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
@@ -122,7 +126,7 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor/frontseats_1_st.jpg" title="Polestar 3 Long Range Dual Motor" width="3000" height="2249"  >}}
 
 
-### Asiento de segunda fila
+#### Asiento de segunda fila
 
 
 

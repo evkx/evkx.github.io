@@ -116,11 +116,15 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 ## Interiør
 
+
+
+### Seter
+
 Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
 
-### Forseter
+#### Forseter
 
-Bare én type forsete er tilgjengelig i Rivian R1S Quad-Motor AWD MP.
+Rivian R1S Quad-Motor AWD MP Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **** setet.
 
@@ -142,7 +146,7 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/frontseats_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 
@@ -151,7 +155,7 @@ Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hv
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

@@ -114,9 +114,13 @@ There is only one roof for this model.
 
 
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Rimac Nevera.
+
+
+#### First row seats
+
+The Rimac Nevera offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 

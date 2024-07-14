@@ -107,9 +107,13 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 ## Interiør
 
-Seteoppsettet er de tradisjonelle fem setene med to foran og tre bak.
 
-### Forseter
+
+### Seter
+
+Mercedes-EQ EQE 500 4MATIC SUV har plass til fem passasjerer med to seter foran og en tre-seters benk bak.
+
+#### Forseter
 
 Det er to setetyper du kan velge mellom for første rad i Mercedes-EQ EQE 500 4MATIC SUV.
 
@@ -149,7 +153,7 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_500_4matic_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQE 500 4MATIC SUV" width="3000" height="2250"  >}}
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 

@@ -99,11 +99,15 @@ There is only one roof for this model.
 
 ## Interior
 
-The seat layout is the traditional five seats with two in front and three in the rear.
 
-### First row seats
 
-Only one front seat type is available in the Chevrolet Silverado EV 4WT.
+### Seats
+
+The Chevrolet Silverado EV 4WT accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Chevrolet Silverado EV 4WT offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -121,7 +125,7 @@ You can choose from 1 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/frontseats_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2002"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

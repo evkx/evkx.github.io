@@ -109,7 +109,11 @@ Det finns tre olika takalternativ att välja mellan. Standardinställningen är 
 
 
 
-### Framsäten
+### Säten
+
+
+
+#### Framsäten
 
 Det finns två sätestyper du kan välja mellan för den främre raden av Porsche Taycan Turbo GT Weissach.
 

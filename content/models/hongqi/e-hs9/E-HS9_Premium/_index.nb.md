@@ -100,11 +100,15 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 
 ## Interiør
 
+
+
+### Seter
+
 Seteoppsettet er syv seter med to foran, tre seter på andre rad og to seter på tredje rad.
 
-### Forseter
+#### Forseter
 
-Bare én type forsete er tilgjengelig i Hongqi E-HS9 Premium.
+Hongqi E-HS9 Premium Long Range tilbyr kun én type forsete.
 
 Følgende funksjoner er tilgjengelige på **standard** setet.
 
@@ -120,7 +124,7 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 
-### Seter på andre rad
+#### Seter på andre rad
 
 
 
@@ -129,7 +133,7 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 
-### Seter på tredje rad
+#### Seter på tredje rad
 
 
 

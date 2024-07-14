@@ -103,11 +103,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
-You can choose between several interior designs. The seat layout is the traditional five seats with two in front and three in the rear.
+You can choose between several interior designs.
 
-### First row seats
+### Seats
 
-Only one front seat type is available in the Xiaomi SU7.
+The Xiaomi SU7 accommodates five passengers with two seats in the front and a three-seat bench in the rear.
+
+#### First row seats
+
+The Xiaomi SU7 offers a single type of front seat.
 
 The following functionalities are available on the **** seat.
 
@@ -126,7 +130,7 @@ You can choose from 4 different materials/colors for this seat type.
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/frontseats_1_st.jpg" title="Xiaomi SU7" width="1760" height="1000"  >}}
 
 
-### Second-row seat
+#### Second-row seat
 
 
 

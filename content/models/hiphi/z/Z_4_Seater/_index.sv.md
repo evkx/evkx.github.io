@@ -103,11 +103,15 @@ B-stolpen och vyerna bak är tonade.
 
 ## Interiör
 
+
+
+### Säten
+
 Sittlayouten är två säten fram och två säten bak.
 
-### Framsäten
+#### Framsäten
 
-Endast en typ av framsäte är tillgänglig i HiPhi Z 4 Seater.
+HiPhi Z 4 Seater erbjuder endast en typ av framsäte.
 
 Följande funktioner är tillgängliga på **standard** sätet.
 
@@ -130,7 +134,7 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/frontseats_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2256"  >}}
 
 
-### Säten på andra raden
+#### Säten på andra raden
 
 
 

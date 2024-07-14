@@ -101,11 +101,15 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 ## Interior
 
+
+
+### Seats
+
 The seat layout is seven seats with two in front, three seats in the second row and two seats on third row.
 
-### First row seats
+#### First row seats
 
-Only one front seat type is available in the BYD Tang EV600.
+The BYD Tang EV600 offers a single type of front seat.
 
 The following functionalities are available on the **standard** seat.
 
@@ -123,7 +127,7 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 
-### Second-row seat
+#### Second-row seat
 
 
 
@@ -135,7 +139,7 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="1921" height="1080"  >}}
 
 
-### Third-row seats
+#### Third-row seats
 
 
 
