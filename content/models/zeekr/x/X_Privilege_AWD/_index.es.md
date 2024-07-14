@@ -106,7 +106,7 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-- White & Blue [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
+-  [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 
 

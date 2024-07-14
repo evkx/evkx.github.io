@@ -113,8 +113,8 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
-- Grey [revêtement en tissu](../../../../technology/seats/materials/#fabric)
-- Grey [revêtement en cuir](../../../../technology/seats/materials/#leather)
+- Gray [revêtement en tissu](../../../../technology/seats/materials/#fabric)
+- Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
 
 
 
