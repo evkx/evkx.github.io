@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>New Tesla Model 3 Performance Top Speed & Extreme Thermal Stress Test! Yikes, Improvements Needed</h3>
+<p>Out of Spec Reviews: 15.07.2024</p>
+
+{{< youtube A_d1FYLT5b8 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>The 2024 Tesla Model 3 Performance Is The Other M3 For A Techie Driving Enthusiast</h3>
 <p>Redline Reviews: 26.06.2024</p>
 

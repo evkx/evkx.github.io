@@ -70,8 +70,6 @@ Du kan beställa Audi Q6 e-tron quattro med en alternativ Sport-upphängning. Sp
 
 Du kan beställa Audi Q6 e-tron quattro med en alternativ Adaptive Air Suspension-upphängning. Fjädringen fram och bak är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 185 mm, och maximal är 224 mm.
 
-För enklare lastning kan luftfjädringen sänkas med hjälp av kontroller i bagageutrymmet
-
 ### Styrning
 
 Dynamisk styrning är standard-funktionen för Audi Q6 e-tron quattro. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten.
@@ -132,7 +130,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 ## Interiör
 
-Audi Q6 e-tron quattro har en förarfokuserad interiör som förbättrar cockpitkänslan, med premiummaterial i alla viktiga områden. Dessutom inkluderar den en traditionell mittkonsol som skiljer föraren från passageraren och ger praktisk förvaring och funktionalitet.
+
 
 ### Säten
 
@@ -159,9 +157,13 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 Följande funktioner är tillgängliga på **Sport Plus** sätet.
 
 - elektrisk justering
+- höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [minne förarstol](../../../../technology/seats/adjustment/#seat-memory)
+- [minnespassagerarsäte](../../../../technology/seats/adjustment/#seat-memory)
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
+- [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
+- [Justering av sittdynans sidostöd](../../../../technology/seats/adjustment/#justering-av-sidostöd-för-sittdyna)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
@@ -269,6 +271,10 @@ Med   nivå 1-systemet får du följande körautomationsfunktioner.
 Med Adaptive Cruise Assist  nivå 2-systemet får du fler körautomatiseringsfunktioner än de som anges ovan.
 - [**Autostyrning**](../../../../technology/driverassistance/autosteer/): håller bilen i körfältet och saktar ner vid behov i trafik. Systemet begränsar hur länge du kan köra utan att röra ratten.
 
+### Sensorer och kameror
+
+Denna modell använder kameror, radar och ultraljudssensorer för förarassistanssystemen.
+Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerar allt som händer i fordonets miljö.
 
 {{<evkxdisplayaddarticle />}}
 
