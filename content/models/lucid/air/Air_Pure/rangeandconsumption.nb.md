@@ -43,7 +43,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				747 km / 464 mi
 			</td>
 			<td>
-				12,32kWh/100km / 5,0 mi/kWh
+				11,24kWh/100km / 5,5 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				708 km / 440 mi
 			</td>
 			<td>
-				12,99 kWh/100km / 4,8 mi/kWh
+				11,86 kWh/100km / 5,2 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -66,10 +66,10 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				</a>
 			</td>
 			<td>
-				660 km / 410 mi
+				676 km / 420 mi
 			</td>
 			<td>
-				13,9 kWh/100km / 4,5 mi/kWh
+				12,4 kWh/100km / 5,0 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -79,10 +79,10 @@ Nedenfor er de offisielt rangerte områdene. Testene utføres med oppvarming/AC 
 				</a>
 			</td>
 			<td>
-				660 km / 410 mi
+				676 km / 420 mi
 			</td>
 			<td>
-				13,9 kWh/100km / 4,5 mi/kWh
+				12,4 kWh/100km / 5,0 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -113,10 +113,10 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 				WLTP rekkevidde grunnleggende utstyrsnivå med 2KW AC
 			</td>
 			<td>
-				 554km / 344 mi 
+				 540km / 336 mi 
 			</td>
 			<td>
-				-25,8%
+				-27,7%
 			</td>
 		</tr>
 		<tr>
@@ -124,10 +124,10 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 				WLTP rekkevidde maks utstyrsniv med 2KW AC
 			</td>
 			<td>
-				532 km / 331 mi
+				520 km / 323 mi
 			</td>
 			<td>
-				-24,9%
+				-26,6%
 			</td>
 		</tr>
 		<tr>
@@ -135,10 +135,10 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 				EPA-serien grunnleggende utstyrsnivå med 2KW AC
 			</td>
 			<td>
-				504 km / 313 mi
+				502 km / 312 mi
 			</td>
 			<td>
-				-23,6%
+				-25,7%
 			</td>
 		</tr>
 		<tr>
@@ -146,10 +146,10 @@ Tabellen nedenfor viser hvordan det å slå på oppvarming/kjøling på en kald/
 				EPA rekkevidde maks utstyrsnivå med 2KW AC
 			</td>
 			<td>
-				504 km / 313 mi
+				502 km / 312 mi
 			</td>
 			<td>
-				-23,6%
+				-25,7%
 			</td>
 		</tr>
 	</tbody>
@@ -180,7 +180,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				90 kmt/56 mph under perfekte forhold
 			</td>
 			<td>
-				657km / 408 mi
+				600km / 373 mi
 			</td>
 			<td>
 				14 kWh/100km / 4,4 mi/kWh
@@ -191,7 +191,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				90 kmt/56 mph med 2KW oppvarming
 			</td>
 			<td>
-				587km /352mi
+				536km /322mi
 			</td>
 			<td>
 				16,2 kWh/100km /3,8 mi/kWh 
@@ -202,7 +202,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				70 mph/112 km/t under perfekte forhold
 			</td>
 			<td>
-				632 km / 393 mi
+				577 km / 359 mi
 			</td>
 			<td>
 				14,55 kWh/100km / 4,3 mi/kWh
@@ -213,7 +213,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				70 mph/112 km/t med 2KW oppvarming
 			</td>
 			<td>
-				563km / 350mi
+				514km / 319mi
 			</td>
 			<td>
 				16,3 kWh/100km / 3,8 mi/kWh  
@@ -224,7 +224,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				120 kmt/75 mph under perfekte forhold
 			</td>
 			<td>
-				484 km / 301 mi
+				442 km / 275 mi
 			</td>
 			<td>
 				19 kWh/100km / 3,3 mi/kWh
@@ -235,7 +235,7 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				120 kmt /75mph med 2KW oppvarming
 			</td>
 			<td>
-				445 km /277mi
+				406 km /252mi
 			</td>
 			<td>
 				20,7 kWh/100km /3,0 mi/kWh

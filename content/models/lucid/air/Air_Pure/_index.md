@@ -29,21 +29,21 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Lucid Air Pure delivers a solid performance with a maximum power of 320 kW (435 hp / 429 bhp) and a total torque of 400 Nm (295 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
+The Lucid Air Pure delivers a solid performance with a maximum power of 320.5 kW (436 hp / 430 bhp) and a total torque of 400 Nm (295 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 94 kWh and a net usable capacity of 92 kWh, providing an 2 kWh buffer (2.1%) for battery protection. Operating at a nominal voltage of 800 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
+The high-capacity battery has a gross capacity of 88 kWh and a net usable capacity of 84 kWh, providing an 4 kWh buffer (4.5%) for battery protection. Operating at a nominal voltage of 800 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities.
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 747 to 708 km (464-440 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.3 kWh/100 km for the base model and 13.0 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 747 to 708 km (464-440 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 11.2 kWh/100 km for the base model and 11.9 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 61 minutes, while a more typical charging scenario from 10% to 80% takes 26 minutes with an average charging speed at 150 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 49%. This results in an effective charging speed, including time lost, of 163 kW, with each charging session taking about 16 minutes and 18 seconds.. This efficient charging capability makes the Lucid Air Pure a convenient option for long-distance travel.
+The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 56 minutes, while a more typical charging scenario from 10% to 80% takes 23 minutes with an average charging speed at 150 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 50%. This results in an effective charging speed, including time lost, of 158 kW, with each charging session taking about 16 minutes and 38 seconds.. This efficient charging capability makes the Lucid Air Pure a convenient option for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19 kWh/100 km, the trip would take approximately 8 hours and 56 minutes. This journey would require two charging stops from 0% to 54%, with a total charging time of 37 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19 kWh/100 km, the trip would take approximately 9 hours and 1 minutes. This journey would require three charging stops from 1% to 44%, with a total charging time of 42 minutes.
 
 ### Onboard charger
 
-The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 10 minutes using a home charging setup.
+The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 3 hours and 49 minutes using a home charging setup.
 
 ### Charge port
 

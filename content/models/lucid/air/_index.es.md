@@ -68,7 +68,7 @@ weight: 30
 	<div class="row">
 		<div class="col col-12 col-md-6">
 			<a href="air_pure/"><img src="https://media.evkx.net/multimedia/models/lucid/air/air_pure/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="Air Pure" ></a>
-<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 94 kWh <i class="bi bi-ev-station"></i>  kW 
+<i class="bi bi-record2-fill"></i> RWD <i class="bi bi-battery-full"></i> 88 kWh <i class="bi bi-ev-station"></i>  kW 
 		</div>
 		<div class="col col-12 col-md-6">
 			<ul class="list-group list-group-flush">

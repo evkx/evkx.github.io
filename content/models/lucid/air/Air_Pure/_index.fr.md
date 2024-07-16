@@ -29,21 +29,21 @@ Nous avons séparé notre article Lucid Air Pure en sections. Si vous souhaitez 
 
 ## Performances
 
-La Lucid Air Pure offre des performances solides avec une puissance maximale de 320 kW (435 ch) et un couple total de 400 Nm. Elle peut accélérer de 0 à 100 km/h en 4,5 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
+La Lucid Air Pure offre des performances solides avec une puissance maximale de 320,5 kW (436 ch) et un couple total de 400 Nm. Elle peut accélérer de 0 à 100 km/h en 4,5 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 94 kWh et une capacité nette utilisable de 92 kWh, offrant une réserve de 2 kWh (2,1%) pour la protection de la batterie. Fonctionnant à une tension nominale de 800 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
+La batterie haute capacité a une capacité brute de 88 kWh et une capacité nette utilisable de 84 kWh, offrant une réserve de 4 kWh (4,5%) pour la protection de la batterie. Fonctionnant à une tension nominale de 800 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système.
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 747 et 708 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 12,3 kWh/100 km pour le modèle de base et à 13,0 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 747 et 708 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 11,2 kWh/100 km pour le modèle de base et à 11,9 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de kW. Une charge complète de 0 à 100 % prendrait 61 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 26 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 49 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 163kW. Chaque session de charge prendrait 16 minutes et 18 secondes. Cette capacité de charge efficace fait de l'Lucid Air Pure une option pratique pour les voyages longue distance.
+La vitesse de charge DC maximale est de kW. Une charge complète de 0 à 100 % prendrait 56 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 23 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 50 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 158kW. Chaque session de charge prendrait 16 minutes et 38 secondes. Cette capacité de charge efficace fait de l'Lucid Air Pure une option pratique pour les voyages longue distance.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 19 kWh/100 km, le voyage prendrait environ 8 heures et 56 minutes. Ce trajet nécessiterait deux arrêts de recharge de 0% à 54%, avec un temps de recharge total de 37 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 19 kWh/100 km, le voyage prendrait environ 9 heures et 1 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 44%, avec un temps de recharge total de 42 minutes.
 
 ### Chargeur embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 22 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 4 heures et 10 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 22 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 3 heures et 49 minutes à domicile.
 
 ### Port de recharge
 

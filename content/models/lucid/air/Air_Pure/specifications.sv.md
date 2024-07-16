@@ -31,7 +31,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Lucid Air Pure. Klicka
 				Max effekt
 			</td>
 			<td>
-				320 KW (435 hk)
+				320,5 KW (436 hk)
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				12,3 kWh/100km
+				11,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				13,0 kWh/100km
+				11,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA räckvidd
 			</td>
 			<td>
-				410 mi
+				420 mi
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				EPA förbrukning
 			</td>
 			<td>
-				4,5 mi/kWh
+				5,0 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -150,7 +150,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Total batterikapacitet (brutto)
 			</td>
 			<td>
-				94 kWh
+				88 kWh
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,15 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				92 kWh
+				84 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Antal moduler
+			</td>
+			<td>
+				16
 			</td>
 		</tr>
 		<tr>

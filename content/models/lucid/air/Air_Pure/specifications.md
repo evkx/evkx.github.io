@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Lucid Air Pure. Clic
 				Peak power
 			</td>
 			<td>
-				320 KW (435 hp /429 bhp)
+				320,5 KW (436 hp /430 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				12,3 kWh/100km
+				11,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				13,0 kWh/100km
+				11,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA range</a>
 			</td>
 			<td>
-				410 mi
+				420 mi
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/epa/">EPA consumption</a>
 			</td>
 			<td>
-				4,5 mi/kWh
+				5,0 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -150,7 +150,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery gross</a>
 			</td>
 			<td>
-				94 kWh
+				88 kWh
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,15 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/battery/buffer/">Battery net</a>
 			</td>
 			<td>
-				92 kWh
+				84 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Number of modules
+			</td>
+			<td>
+				16
 			</td>
 		</tr>
 		<tr>

@@ -29,21 +29,21 @@ Vi har delt vår beskrivelse av Lucid Air Pure i seksjoner. Hvis du vil vente me
 
 ## Ytelse
 
-Lucid Air Pure leverer solid ytelse med en maksimal effekt på 320 kW (435 hk) og et totalt dreiemoment på 400 Nm. Den kan akselerere fra 0 til 100 km/t på 4,5 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
+Lucid Air Pure leverer solid ytelse med en maksimal effekt på 320,5 kW (436 hk) og et totalt dreiemoment på 400 Nm. Den kan akselerere fra 0 til 100 km/t på 4,5 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 
-Høykapasitetsbatteriet har en brutto kapasitet på 94 kWh og en netto brukbar kapasitet på 92 kWh, som gir en buffer på 2 kWh (2,1%) for batteribeskyttelse. Ved å operere med en nominell spenning på 800 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
+Høykapasitetsbatteriet har en brutto kapasitet på 88 kWh og en netto brukbar kapasitet på 84 kWh, som gir en buffer på 4 kWh (4,5%) for batteribeskyttelse. Ved å operere med en nominell spenning på 800 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter.
 
-I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 747 og 708 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 12,3 kWh/100 km for basismodellen og 13,0 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
+I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer kjøretøyets rekkevidde mellom 747 og 708 km, avhengig av spesifikke konfigurasjoner og alternativer, som hjulstørrelse. Større hjul kan for eksempel øke energiforbruket og dermed redusere den totale rekkevidden. Kjøretøyets energiforbruk er vurdert til 11,2 kWh/100 km for basismodellen og 11,9 kWh/100 km for toppmodellen under WLTP testsyklusen. For mer detaljerte virkelige data og informasjon om rekkevidde, se modellens dedikerte [rekkevidde- og forbruksside.](rangeandconsumption/)
 
-Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 61 minutter, mens et mer vanlig scenario på 10-80 % vil ta 26 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 49%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 163kW. Hver ladeøkt vil ta 16 minutter og 18 sekunder. Denne effektive ladekapasiteten gjør Lucid Air Pure til et praktisk valg for langdistansereiser.
+Maksimal DC-ladehastighet er  kW. En full lading fra 0 - 100 % vil ta 56 minutter, mens et mer vanlig scenario på 10-80 % vil ta 23 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 50%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 158kW. Hver ladeøkt vil ta 16 minutter og 38 sekunder. Denne effektive ladekapasiteten gjør Lucid Air Pure til et praktisk valg for langdistansereiser.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19 kWh/100 km, ville turen ta omtrent 8 timer og 56 minutter. Denne reisen ville kreve to ladestopp fra 0% til 54%, med en total ladetid på 37 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19 kWh/100 km, ville turen ta omtrent 9 timer og 1 minutter. Denne reisen ville kreve to ladestopp fra 1% til 44%, med en total ladetid på 42 minutter.
 
 ### Ombordlader
 
-Den standard ombordladeren støtter opptil 22 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 4 timer og 10 minutter med en hjemmelader.
+Den standard ombordladeren støtter opptil 22 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 3 timer og 49 minutter med en hjemmelader.
 
 ### Ladeport
 

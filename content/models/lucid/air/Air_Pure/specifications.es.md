@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Lucid Air Pure. Ha
 				Potencia máxima
 			</td>
 			<td>
-				320 KW (435 hp /429 bhp)
+				320,5 KW (436 hp /430 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico
 			</td>
 			<td>
-				12,3 kWh/100km
+				11,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				13,0 kWh/100km
+				11,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				rango EPA
 			</td>
 			<td>
-				410 mi
+				420 mi
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo EPA
 			</td>
 			<td>
-				4,5 mi/kWh
+				5,0 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -150,7 +150,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería bruta
 			</td>
 			<td>
-				94 kWh
+				88 kWh
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,15 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Batería neta
 			</td>
 			<td>
-				92 kWh
+				84 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Número de módulos
+			</td>
+			<td>
+				16
 			</td>
 		</tr>
 		<tr>

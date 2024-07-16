@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Lucid Air Pure. Kl
 				Popeffekt
 			</td>
 			<td>
-				320 KW (435 hk /429 hk)
+				320,5 KW (436 hk /430 hk)
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP-forbrug
 			</td>
 			<td>
-				12,3 kWh/100km
+				11,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				13,0 kWh/100km
+				11,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				EPA-område
 			</td>
 			<td>
-				410 mi
+				420 mi
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				EPA-forbrug
 			</td>
 			<td>
-				4,5 mi/kWh
+				5,0 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -150,7 +150,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Bruto batteri
 			</td>
 			<td>
-				94 kWh
+				88 kWh
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,15 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				92 kWh
+				84 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Antal moduler
+			</td>
+			<td>
+				16
 			</td>
 		</tr>
 		<tr>

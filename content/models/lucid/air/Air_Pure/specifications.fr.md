@@ -31,7 +31,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Lucid Air
 				Puissance de pointe
 			</td>
 			<td>
-				320 KW (435 ch /429 bhp)
+				320,5 KW (436 ch /430 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP du trim de base
 			</td>
 			<td>
-				12,3 kWh/100km
+				11,2 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +107,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de la garniture supérieure
 			</td>
 			<td>
-				13,0 kWh/100km
+				11,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme EPA
 			</td>
 			<td>
-				410 mi
+				420 mi
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation EPA
 			</td>
 			<td>
-				4,5 mi/kWh
+				5,0 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -150,7 +150,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Batterie brute
 			</td>
 			<td>
-				94 kWh
+				88 kWh
 			</td>
 		</tr>
 		<tr>
@@ -158,7 +158,15 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Réseau de batterie
 			</td>
 			<td>
-				92 kWh
+				84 kWh
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Nombre de modules
+			</td>
+			<td>
+				16
 			</td>
 		</tr>
 		<tr>
