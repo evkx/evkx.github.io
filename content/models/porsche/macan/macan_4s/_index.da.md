@@ -45,6 +45,10 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 47 minutter ved brug af en hjemmeoplader.
 
+
+{{< sitefiguresized thumb="models/porsche/macan/macan_4s/charging_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
+
+
 ### Ladeport
 
 Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder. En anden port er på [højre bagside](../../../../technology/charging/connectors/#front-side). Denne ekstra port giver dig flere parkeringsmuligheder til AC-opladning. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**J1772**](../../../../technology/charging/connectors/#j1772) for Nordamerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se de fulde specifikationer for alle markeder.
@@ -115,7 +119,14 @@ Porsche Macan 4S har plads til fem passagerer med to sæder foran og en tre-pers
 
 #### Første række sæder
 
-For første række tilbyder Porsche Macan 4S to forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
+For første række tilbyder Porsche Macan 4S tre forskellige sædetyper at vælge imellem, som imødekommer forskellige komfort- og stilpræferencer.
+
+Følgende funktioner er tilgængelige på **Comfortseats** sædet.
+
+- elektrisk justering
+- højdejusterbar nakkestøtte
+- [heating](../../../../technology/seats/adjustment/#heating)
+- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (valgfrit)
 
 Følgende funktioner er tilgængelige på **Comfortseats with memory** sædet.
 

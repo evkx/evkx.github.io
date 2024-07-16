@@ -647,6 +647,167 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 ### Forsæder
 
 
+#### Comfortseats
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Værdi
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Sædetype
+			</td>
+			<td>
+				Fører- og passagersæde
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sædedybdejustering
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sædehøjdejustering
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering af ryglænets vinkel
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk justering af højde, tilbagelæning og vinkel
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memory førersæde
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memory passagersæde
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Højdejusterbar nakkestøtte
+			</td>
+			<td>
+				Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Længdejusterbar nakkestøtte
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbar lårstøtte
+			</td>
+			<td>
+				Valgfri funktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering af ryglænets sidestøtte
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering af sædehyndes sidestøtte
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fodstøttepassagerer
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Benstøttepassager
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk lændejustering
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sædeventilation
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massagefunktion
+			</td>
+			<td>
+				Ikke tilgængelig
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 #### Comfortseats with memory
 
 <table class="table table-striped border">

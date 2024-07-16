@@ -647,6 +647,167 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 ### Framsäten
 
 
+#### Comfortseats
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Specifikation
+			</th>
+			<th>
+				Värde
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Säte typ
+			</td>
+			<td>
+				Förar- och passagerarsäte
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering sätesdjup
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering säteshöjd
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering ryggstödsvinkel
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektrisk justering av höjd, lutning och vinkel
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Minnesförarsäte
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Memory Passenger Seat
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Höjdjusterbart nackstöd
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: green;"></i> Standardfunktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				LengthAdjustableHeadrest
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justerbart lårstöd
+			</td>
+			<td>
+				<i class="bi-check-lg" style="color: yellow;"></i> Valfri funktion
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ryggstödsjustering
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Justering av sittdyna, sidostöd
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fotstödspassagerare
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				LegSupportPassenger
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Elektriskt svankstöd
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Sätesventilation
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Massagefunktion
+			</td>
+			<td>
+				<i class="bi-x-lg" style="color: red;"></i> Inte tillgängligt
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 #### Comfortseats with memory
 
 <table class="table table-striped border">

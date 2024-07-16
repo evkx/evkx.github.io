@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-a2eb14cb
+  translation: Porsche Macan es un SUV cupé premium totalmente eléctrico con un WLTP alcance de hasta 641 km (398 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-cf6d039f
   translation: Porsche Macan 4S es un SUV cupé premium totalmente eléctrico con un WLTP alcance de hasta 591 km (367 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-0c64444a
   translation: SKODA ENYAQ COUPÉ 60 es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 408 km (254 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-23251c3c
-  translation: SKODA ENYAQ COUPÉ 85 es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 545 km (339 millas). EVKX.net tiene todos los detalles.
 

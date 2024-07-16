@@ -45,6 +45,10 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 47 minutes using a home charging setup.
 
+
+{{< sitefiguresized thumb="models/porsche/macan/macan_4s/charging_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
+
+
 ### Charge port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. Additionally, a second port on the [right rear side](../../../../technology/charging/connectors/#front-side) offers greater flexibility for AC charging. The connector types vary between the different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). For complete specifications for all markets, refer to the full specifications.
@@ -124,7 +128,14 @@ The Porsche Macan 4S accommodates five passengers with two seats in the front an
 
 #### First row seats
 
-For the front row, the Porsche Macan 4S offers two different seat types to choose from, catering to a range of comfort and style preferences.
+For the front row, the Porsche Macan 4S offers three different seat types to choose from, catering to a range of comfort and style preferences.
+
+The following functionalities are available on the **Comfortseats** seat.
+
+- electric adjustment
+- height adjustable headrest
+- [heating](../../../../technology/seats/adjustment/#heating)
+- [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment) (optional)
 
 The following functionalities are available on the **Comfortseats with memory** seat.
 

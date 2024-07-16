@@ -45,6 +45,10 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 8 timer og 47 minutter med en hjemmelader.
 
+
+{{< sitefiguresized thumb="models/porsche/macan/macan_4s/charging_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
+
+
 ### Ladeport
 
 Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. En andre port er på [høyre bakside](../../../../technology/charging/connectors/#front-side). Denne ekstra porten gir deg flere parkeringsmuligheter for AC-lading. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**J1772**](../../../../technology/charging/connectors/#j1772) for Nord-Amerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullstendige spesifikasjoner for alle markeder.
@@ -115,7 +119,14 @@ Porsche Macan 4S har plass til fem passasjerer med to seter foran og en tre-sete
 
 #### Forseter
 
-For første rad tilbyr Porsche Macan 4S to forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
+For første rad tilbyr Porsche Macan 4S tre forskjellige setetyper å velge mellom, som imøtekommer ulike komfort- og stilpreferanser.
+
+Følgende funksjoner er tilgjengelige på **Comfortseats** setet.
+
+- elektrisk justering
+- høydejusterbar hodestøtte
+- [oppvarming](../../../../technology/seats/adjustment/#heating)
+- [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment) (tilvalg)
 
 Følgende funksjoner er tilgjengelige på **Comfortseats with memory** setet.
 

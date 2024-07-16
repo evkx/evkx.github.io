@@ -45,6 +45,10 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 47 minuter med en hemmaladdare.
 
+
+{{< sitefiguresized thumb="models/porsche/macan/macan_4s/charging_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
+
+
 ### Laddningsport
 
 Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader. En andra port finns på [höger baksida](../../../../technology/charging/connectors/#front-side). Denna extra port ger dig fler parkeringsmöjligheter för AC-laddning. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**J1772**](../../../../technology/charging/connectors/#j1772) för Nordamerika och för Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullständiga specifikationer för alla marknader.
@@ -115,7 +119,14 @@ Porsche Macan 4S rymmer fem passagerare med två säten fram och en tre-sitsig b
 
 #### Framsäten
 
-För första raden erbjuder Porsche Macan 4S två olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
+För första raden erbjuder Porsche Macan 4S tre olika sätestyper att välja mellan, som tillgodoser olika komfort- och stilpreferenser.
+
+Följande funktioner är tillgängliga på **Comfortseats** sätet.
+
+- elektrisk justering
+- höjdjusterbart nackstöd
+- [värme](../../../../technology/seats/adjustment/#uppvärmning)
+- [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering) (valfritt)
 
 Följande funktioner är tillgängliga på **Comfortseats with memory** sätet.
 

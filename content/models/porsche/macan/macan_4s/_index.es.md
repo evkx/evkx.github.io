@@ -45,6 +45,10 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 47 minutos usando un cargador en casa.
 
+
+{{< sitefiguresized thumb="models/porsche/macan/macan_4s/charging_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
+
+
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados. Hay un segundo puerto en el [lado trasero derecho](../../../../technology/charging/connectors/#lado-delantero). Este puerto adicional te ofrece más opciones de estacionamiento para la carga de CA. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**J1772**](../../../../technology/charging/connectors/#j1772) para Norteamérica y Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Consulte las especificaciones completas para todos los mercados.
@@ -115,7 +119,14 @@ El Porsche Macan 4S tiene capacidad para cinco pasajeros con dos asientos delant
 
 #### Asientos de primera fila
 
-Para la primera fila, el Porsche Macan 4S ofrece dos tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
+Para la primera fila, el Porsche Macan 4S ofrece tres tipos diferentes de asientos para elegir, adaptándose a una variedad de preferencias de comodidad y estilo.
+
+Las siguientes funcionalidades están disponibles en el asiento **Comfortseats**.
+
+- ajuste eléctrico
+- reposacabezas ajustable en altura
+- [calefacción](../../../../technology/seats/adjustment/#calefacción)
+- [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (opcional)
 
 Las siguientes funcionalidades están disponibles en el asiento **Comfortseats with memory**.
 

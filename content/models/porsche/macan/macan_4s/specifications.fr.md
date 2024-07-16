@@ -647,6 +647,167 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 ### Sièges avant
 
 
+#### Comfortseats
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spécification
+			</th>
+			<th>
+				Valeur
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				Type de siège
+			</td>
+			<td>
+				Siège conducteur et passager
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage de la profondeur du siège
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage de la hauteur du siège
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage de l'angle du dossier
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage électrique de la hauteur, de l'inclinaison et de l'angle
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Siège conducteur à mémoire
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Siège passager à mémoire
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Appui-tête réglable en hauteur
+			</td>
+			<td>
+				Fonctionnalité standard
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Appui-tête réglable en longueur
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Support de cuisse réglable
+			</td>
+			<td>
+				Fonctionnalité facultative
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage des traversins latéraux du dossier
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage des traversins latéraux du coussin de siège
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Repose-pieds passagers
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Support de jambe passager
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Réglage lombaire électrique
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ventilation du siège
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Fonction massage
+			</td>
+			<td>
+				Non disponible
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 #### Comfortseats with memory
 
 <table class="table table-striped border">

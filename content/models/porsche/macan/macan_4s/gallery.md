@@ -18,6 +18,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/porsche/macan/macan_4s/charging_1.jpeg"
+data-pswp-src="https://media.evkx.net/multimedia/models/porsche/macan/macan_4s/charging_1.jpeg"
+data-pswp-width="3000"
+data-pswp-height="1687" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan_4s/charging_1_xst.jpeg" alt="Porsche Macan 4S" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/porsche/macan/macan_4s/details_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/porsche/macan/macan_4s/details_1.jpg"
 data-pswp-width="3000"

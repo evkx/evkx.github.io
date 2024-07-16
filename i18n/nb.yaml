@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-a2eb14cb
+  translation: Porsche Macan er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 641 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-cf6d039f
   translation: Porsche Macan 4S er en helelektrisk premium coupe SUV med en WLTP rekkevidde på opptil 591 km. EVKX.net har alle detaljene.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-0c64444a
   translation: SKODA ENYAQ COUPÉ 60 er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 408 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-23251c3c
-  translation: SKODA ENYAQ COUPÉ 85 er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 545 km. EVKX.net har alle detaljene.
 

@@ -647,6 +647,167 @@ This model is available with a seat configuration with five seats.
 ### Front seats
 
 
+#### Comfortseats
+
+<table class="table table-striped border">
+	<thead>
+			<tr>
+			<th>
+				Spec
+			</th>
+			<th>
+				Value
+			</th>
+			</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="/technology/seats/types/">Seat type</a>
+			</td>
+			<td>
+				Driver and Passenger Seat
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat depth adjustment
+			</td>
+			<td>
+				Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Seat height adjustment
+			</td>
+			<td>
+				Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Backrest angle adjustment
+			</td>
+			<td>
+				Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Interior.Seatoptions.SeatCushionAngleAdjustment
+			</td>
+			<td>
+				Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Electric adjustment of height, recline and angle</a>
+			</td>
+			<td>
+				Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#features">Memory driver seat</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#features">Memory passenger seat</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Height adjustable headrest</a>
+			</td>
+			<td>
+				Standard feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Length adjustable headrest</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Adjustable thigh support</a>
+			</td>
+			<td>
+				Optional feature
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Backrest side bolster adjustment</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Seat cushion side bolster adjustement</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#features">Footrest passengers</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#features">Leg support passenger</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#adjustment">Electric lumbar adjustment</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#features">Seat ventilation</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="/technology/seats/adjustment/#features">Massage function</a>
+			</td>
+			<td>
+				Not Available
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 #### Comfortseats with memory
 
 <table class="table table-striped border">

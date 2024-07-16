@@ -45,6 +45,10 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 47 minutes à domicile.
 
+
+{{< sitefiguresized thumb="models/porsche/macan/macan_4s/charging_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
+
+
 ### Port de recharge
 
 L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés. Un deuxième port se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#front-side). Ce port supplémentaire vous offre plus d'options de stationnement pour la recharge AC. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**J1772**](../../../../technology/charging/connectors/# j1772) pour l'Amérique du Nord et l'Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Voir les spécifications complètes pour tous les marchés.
@@ -115,7 +119,14 @@ Le Porsche Macan 4S peut accueillir cinq passagers avec deux sièges à l'avant 
 
 #### Sièges de première rangée
 
-Pour la première rangée, l'Porsche Macan 4S propose deux types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
+Pour la première rangée, l'Porsche Macan 4S propose trois types de sièges différents au choix, répondant à une gamme de préférences de confort et de style..
+
+Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats**.
+
+- réglage électrique
+- appui-tête réglable en hauteur
+- [chauffage](../../../../technology/seats/adjustment/#heating)
+- [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment) (facultatif)
 
 Les fonctionnalités suivantes sont disponibles sur le siège **Comfortseats with memory**.
 
