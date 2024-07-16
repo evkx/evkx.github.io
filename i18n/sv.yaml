@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-cf6d039f
+  translation: Porsche Macan 4S är en helelektrisk premiumcoupé-SUV med en WLTP räckvidd på upp till 591 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-a012ca56
   translation: Fiat Grande Panda är en helelektrisk crossover med en WLTP räckvidd på upp till 320 km. EVKX.net har alla detaljer.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-23251c3c
   translation: SKODA ENYAQ COUPÉ 85 är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 545 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-e15ac190
-  translation: SKODA ENYAQ 60 är en helelektrisk SUV med en WLTP räckvidd på upp till 401 km. EVKX.net har alla detaljer.
 

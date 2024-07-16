@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Dernières critiques en ligne
 
+- id: frontpage-description-cf6d039f
+  translation: Porsche Macan 4S est un SUV coupé premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 591 km (367 miles). EVKX.net a tous les détails.
+
 - id: frontpage-description-a012ca56
   translation: Fiat Grande Panda est un crossover entièrement électrique avec une autonomie de WLTP allant jusqu'à 320 km (199 miles). EVKX.net a tous les détails.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-23251c3c
   translation: SKODA ENYAQ COUPÉ 85 est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 545 km (339 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-e15ac190
-  translation: SKODA ENYAQ 60 est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 401 km (249 miles). EVKX.net a tous les détails.
 

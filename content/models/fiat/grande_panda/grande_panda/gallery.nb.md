@@ -72,6 +72,15 @@ target="_blank">
 		</a>
 	</div>
 	<div class="pswp-grid-item col-6 col-md-4">
+		<a href="https://media.evkx.net/multimedia/models/fiat/grande_panda/grande_panda/details_6.jpg"
+data-pswp-src="https://media.evkx.net/multimedia/models/fiat/grande_panda/grande_panda/details_6.jpg"
+data-pswp-width="3000"
+data-pswp-height="2000" 
+target="_blank">
+			<img src="https://media.evkx.net/multimedia/models/fiat/grande_panda/grande_panda/details_6_xst.jpg" alt="Fiat Grande Panda" class="img-fluid " />
+		</a>
+	</div>
+	<div class="pswp-grid-item col-6 col-md-4">
 		<a href="https://media.evkx.net/multimedia/models/fiat/grande_panda/grande_panda/exterior_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/fiat/grande_panda/grande_panda/exterior_1.jpg"
 data-pswp-width="3000"

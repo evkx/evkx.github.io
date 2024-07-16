@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-cf6d039f
+  translation: Porsche Macan 4S es un SUV cupé premium totalmente eléctrico con un WLTP alcance de hasta 591 km (367 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-a012ca56
   translation: Fiat Grande Panda es un crossover totalmente eléctrico con un WLTP alcance de hasta 320 km (199 millas). EVKX.net tiene todos los detalles.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-23251c3c
   translation: SKODA ENYAQ COUPÉ 85 es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 545 km (339 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-e15ac190
-  translation: SKODA ENYAQ 60 es un SUV totalmente eléctrico con una autonomía WLTP de hasta 401 km (249 millas). EVKX.net tiene todos los detalles.
 

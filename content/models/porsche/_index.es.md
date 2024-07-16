@@ -26,7 +26,7 @@ weight: 30
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Porsche Macan es un SUV Coupé premium disponible en 2 variantes.
+Porsche Macan es un SUV Coupé premium disponible en 3 variantes.
 </p>
 	<a href="macan/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>
