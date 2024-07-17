@@ -9,6 +9,13 @@ navicon: bi-person-video2
 Vi indsamler anmeldelser fra vores [favorit online anmeldere](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Driving the electric Passat - VW ID7 Tourer REVIEW</h3>
+<p>Autogefühl: 17.07.2024</p>
+
+{{< youtube 7fuz8VkAxyg >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Volkswagen’s electric estate! VW ID7 Tourer reveal REVIEW</h3>
 <p>Autogefühl: 19.02.2024</p>
 
