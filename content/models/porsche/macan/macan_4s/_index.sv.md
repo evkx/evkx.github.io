@@ -1,7 +1,7 @@
 ---
 title: Porsche Macan 4S
 linktitle: "Macan 4S"
-description: "Porsche Macan 4S är en helelektrisk premiumcoupé-SUV med en WLTP räckvidd på upp till 591 km. EVKX.net har alla detaljer."
+description: "Porsche Macan 4S är en helelektrisk premiumcoupé-SUV med en WLTP räckvidd på upp till 609 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Med overboost når Porsche Macan 4S en maximal effekt på 380 kW (517 hk). Utan 
 
 Högkapacitetsbatteriet har en bruttokapacitet på 100 kWh och en nettoanvändbar kapacitet på 96,8 kWh, vilket ger en buffert på 3,2 kWh (3,2%) för batteriskydd. Vid en nominell spänning på 662 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 591 och 518 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 16,4 kWh/100 km för basmodellen och 18,7 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 609 och 512 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 15,9 kWh/100 km för basmodellen och 18,9 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 58 minuter, medan ett vanligare scenario på 10-80 % tar 21 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 63%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 171kW. Varje laddningssession tar 20 minuter och 22 sekunder. Denna effektiva laddningskapacitet gör Porsche Macan 4S till ett bekvämt alternativ för långdistansresor.
 

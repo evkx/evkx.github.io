@@ -112,11 +112,14 @@
 - id: common-section-latest-reviews
   translation: Latest reviews
 
+- id: frontpage-description-fc8a4c77
+  translation: Volkswagen Id. UNYX is an all-electric coupe SUV with a CLTC range of up to 621 km (386 miles). EVKX.net has all the details.
+
 - id: frontpage-description-a2eb14cb
   translation: Porsche Macan is an all-electric premium coupe SUV with a WLTP range of up to 641 km (398 miles). EVKX.net has all the details.
 
 - id: frontpage-description-cf6d039f
-  translation: Porsche Macan 4S is an all-electric premium coupe SUV with a WLTP range of up to 591 km (367 miles). EVKX.net has all the details.
+  translation: Porsche Macan 4S is an all-electric premium coupe SUV with a WLTP range of up to 609 km (379 miles). EVKX.net has all the details.
 
 - id: frontpage-description-a012ca56
   translation: Fiat Grande Panda is an all-electric crossover with a WLTP range of up to 320 km (199 miles). EVKX.net has all the details.
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-e642da70
   translation: Citroën ë-C3 Aircross is an all-electric crossover with a WLTP range of up to 306 km (190 miles). EVKX.net has all the details.
-
-- id: frontpage-description-0c64444a
-  translation: SKODA ENYAQ COUPÉ 60 is an all-electric coupe SUV with a WLTP range of up to 408 km (254 miles). EVKX.net has all the details.
 

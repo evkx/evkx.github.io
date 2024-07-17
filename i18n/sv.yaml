@@ -112,11 +112,14 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-fc8a4c77
+  translation: Volkswagen Id. UNYX är en helelektrisk coupé-SUV med en CLTC räckvidd på upp till 621 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-a2eb14cb
   translation: Porsche Macan är en helelektrisk premiumcoupé-SUV med en WLTP räckvidd på upp till 641 km. EVKX.net har alla detaljer.
 
 - id: frontpage-description-cf6d039f
-  translation: Porsche Macan 4S är en helelektrisk premiumcoupé-SUV med en WLTP räckvidd på upp till 591 km. EVKX.net har alla detaljer.
+  translation: Porsche Macan 4S är en helelektrisk premiumcoupé-SUV med en WLTP räckvidd på upp till 609 km. EVKX.net har alla detaljer.
 
 - id: frontpage-description-a012ca56
   translation: Fiat Grande Panda är en helelektrisk crossover med en WLTP räckvidd på upp till 320 km. EVKX.net har alla detaljer.
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-e642da70
   translation: Citroën ë-C3 Aircross är en helelektrisk crossover med en WLTP räckvidd på upp till 306 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-0c64444a
-  translation: SKODA ENYAQ COUPÉ 60 är en helelektrisk coupé-SUV med en WLTP räckvidd på upp till 408 km. EVKX.net har alla detaljer.
 

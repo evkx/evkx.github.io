@@ -1,7 +1,7 @@
 ---
 title: Porsche Macan 4S
 linktitle: "Macan 4S"
-description: "Porsche Macan 4S is an all-electric premium coupe SUV with a WLTP range of up to 591 km (367 miles). EVKX.net has all the details."
+description: "Porsche Macan 4S is an all-electric premium coupe SUV with a WLTP range of up to 609 km (379 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ With overboost, the Porsche Macan 4S reaches a maximum power of 380 kW (517 hp /
 
 The high-capacity battery has a gross capacity of 100 kWh and a net usable capacity of 96,8 kWh, providing an 3,2 kWh buffer (3.2%) for battery protection. Operating at a nominal voltage of 662 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 591 to 518 km (367-322 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 16.4 kWh/100 km for the base model and 18.7 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 609 to 512 km (379-318 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 15.9 kWh/100 km for the base model and 18.9 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 58 minutes, while a more typical charging scenario from 10% to 80% takes 21 minutes with an average charging speed at 196 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 63%. This results in an effective charging speed, including time lost, of 171 kW, with each charging session taking about 20 minutes and 22 seconds.. This efficient charging capability makes the Porsche Macan 4S a convenient option for long-distance travel.
 

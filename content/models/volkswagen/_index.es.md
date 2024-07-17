@@ -33,6 +33,21 @@ Volkswagen ID. Buzz es un monovolumen disponible en 4 variantes.
 	</div>
 </div>
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Volkswagen Id. UNYX</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="id._unyx">
+                    <img src="https://media.evkx.net/multimedia/models/volkswagen/id._unyx/main_1_st.jpg" class="img-fluid" alt="Volkswagen Id. UNYX" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+Volkswagen Id. UNYX es un SUV Coupé disponible en 1 variantes.
+</p>
+	<a href="id._unyx/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
+		</div>
+	</div>
+</div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
         <h3>Volkswagen ID.3</h3>
         <div class="row">
             <div class="col col-12 col-md-6">

@@ -1,7 +1,7 @@
 ---
 title: Porsche Macan 4S
 linktitle: "Macan 4S"
-description: "Porsche Macan 4S es un SUV cupé premium totalmente eléctrico con un WLTP alcance de hasta 591 km (367 millas). EVKX.net tiene todos los detalles."
+description: "Porsche Macan 4S es un SUV cupé premium totalmente eléctrico con un WLTP alcance de hasta 609 km (379 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Con overboost, el Porsche Macan 4S alcanza una potencia máxima de 380 kW (517 h
 
 La batería de alta capacidad tiene una capacidad bruta de 100 kWh y una capacidad neta utilizable de 96,8 kWh, proporcionando un buffer de 3,2 kWh (3,2%) para la protección de la batería. Operando a un voltaje nominal de 662 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 591 y 518 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 16,4 kWh/100 km para el modelo base y 18,7 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 609 y 512 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 15,9 kWh/100 km para el modelo base y 18,9 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 270kW. Una carga completa del 0 al 100 % tardaría 58 minutos, mientras que un escenario más común del 10 al 80 % tardaría 21 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 63%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 171kW. Cada sesión de carga tardaría 20 minutos y 22 segundos. Esta capacidad de carga eficiente hace que el Porsche Macan 4S sea una opción conveniente para viajes de larga distancia.
 

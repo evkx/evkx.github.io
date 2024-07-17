@@ -112,11 +112,14 @@
 - id: common-section-latest-reviews
   translation: Dernières critiques en ligne
 
+- id: frontpage-description-fc8a4c77
+  translation: Volkswagen Id. UNYX est un SUV coupé entièrement électrique avec une autonomie de CLTC allant jusqu'à 621 km (386 miles). EVKX.net a tous les détails.
+
 - id: frontpage-description-a2eb14cb
   translation: Porsche Macan est un SUV coupé premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 641 km (398 miles). EVKX.net a tous les détails.
 
 - id: frontpage-description-cf6d039f
-  translation: Porsche Macan 4S est un SUV coupé premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 591 km (367 miles). EVKX.net a tous les détails.
+  translation: Porsche Macan 4S est un SUV coupé premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 609 km (379 miles). EVKX.net a tous les détails.
 
 - id: frontpage-description-a012ca56
   translation: Fiat Grande Panda est un crossover entièrement électrique avec une autonomie de WLTP allant jusqu'à 320 km (199 miles). EVKX.net a tous les détails.
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-e642da70
   translation: Citroën ë-C3 Aircross est un crossover entièrement électrique avec une autonomie de WLTP allant jusqu'à 306 km (190 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-0c64444a
-  translation: SKODA ENYAQ COUPÉ 60 est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 408 km (254 miles). EVKX.net a tous les détails.
 

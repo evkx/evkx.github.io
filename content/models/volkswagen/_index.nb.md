@@ -33,6 +33,21 @@ Volkswagen ID. Buzz er en MPV tilgjengelig i 4 varianter.
 	</div>
 </div>
     <div class="container p-3 mb-4 bg-body-tertiary rounded border">
+        <h3>Volkswagen Id. UNYX</h3>
+        <div class="row">
+            <div class="col col-12 col-md-6">
+                <a href="id._unyx">
+                    <img src="https://media.evkx.net/multimedia/models/volkswagen/id._unyx/main_1_st.jpg" class="img-fluid" alt="Volkswagen Id. UNYX" >
+                </a>
+            </div>
+            <div class="col col-12 col-md-6"><p>
+Volkswagen Id. UNYX er en Coupe SUV tilgjengelig i 1 varianter.
+</p>
+	<a href="id._unyx/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
+		</div>
+	</div>
+</div>
+    <div class="container p-3 mb-4 bg-body-tertiary rounded border">
         <h3>Volkswagen ID.3</h3>
         <div class="row">
             <div class="col col-12 col-md-6">

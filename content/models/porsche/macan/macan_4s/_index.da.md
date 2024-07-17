@@ -1,7 +1,7 @@
 ---
 title: Porsche Macan 4S
 linktitle: "Macan 4S"
-description: "Porsche Macan 4S er en fuldelektrisk premium coupe SUV med en rækkevidde på WLTP på op til 591 km (367 miles). EVKX.net har alle detaljerne."
+description: "Porsche Macan 4S er en fuldelektrisk premium coupe SUV med en rækkevidde på WLTP på op til 609 km (379 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Med overboost når Porsche Macan 4S en maksimal effekt på 380 kW (517 hk). Uden
 
 Det højkapacitetsbatteri har en bruttokapacitet på 100 kWh og en nettoanvendelig kapacitet på 96,8 kWh, hvilket giver en buffer på 3,2 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 662 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 591 og 518 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 16,4 kWh/100 km for basismodellen og 18,7 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 609 og 512 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 15,9 kWh/100 km for basismodellen og 18,9 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 58 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 21 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 63%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 171kW. Hver opladningssession ville tage 20 minutter og 22 sekunder. Denne effektive opladningskapacitet gør Porsche Macan 4S til et praktisk valg til langdistancerejser.
 
