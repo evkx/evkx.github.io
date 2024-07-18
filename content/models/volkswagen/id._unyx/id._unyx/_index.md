@@ -77,7 +77,7 @@ The [regenerative braking](../../../../technology/regen/) system in this model o
 
 ## Exterior
 
-The Volkswagen Id. UNYX, with dimensions of 4644 mm in length, 1861 mm in width, and 1597 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Volkswagen Id. UNYX is available in a total of 5 paint colors, including both solid and metallic options.
+The Volkswagen Id. UNYX, with dimensions of 4663 mm in length, 1860 mm in width, and 1610 mm in height, falls into the Compact SUVs, also known as C-SUVs, offer a balance between the practicality and maneuverability of smaller vehicles and the space and versatility of larger SUV The Volkswagen Id. UNYX is available in a total of 5 paint colors, including both solid and metallic options.
 
 You can select from multiple wheel options in different sizes on the Volkswagen Id. UNYX, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 

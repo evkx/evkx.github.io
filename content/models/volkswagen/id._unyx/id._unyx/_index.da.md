@@ -77,7 +77,7 @@ Det [regenerative bremsesystem](../../../../technology/regen/) i denne model til
 
 ## Udvendig
 
-Den Volkswagen Id. UNYX, med dimensioner på 4644 mm i længde, 1861 mm i bredde og 1597 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Volkswagen Id. UNYX fås i alt 5 lakfarver, herunder både solide og metalliske muligheder.
+Den Volkswagen Id. UNYX, med dimensioner på 4663 mm i længde, 1860 mm i bredde og 1610 mm i højde, tilhører kompakte SUV'er, også kendt som C-SUV'er. Disse biler tilbyder en balance mellem praktisk anvendelighed og manøvredygtighed fra mindre køretøjer samt plads og alsidighed fra større SUV'er. Volkswagen Id. UNYX fås i alt 5 lakfarver, herunder både solide og metalliske muligheder.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Volkswagen Id. UNYX, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 

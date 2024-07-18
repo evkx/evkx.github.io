@@ -77,7 +77,7 @@ Le système de [freinage régénératif](../../../../technology/regen/) de ce mo
 
 ## Extérieur
 
-La Volkswagen Id. UNYX, avec des dimensions de 4644 mm de longueur, 1861 mm de largeur et 1597 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Volkswagen Id. UNYX est disponible en un total de 5 couleurs de peinture, comprenant des options à la fois solides et métalliques.
+La Volkswagen Id. UNYX, avec des dimensions de 4663 mm de longueur, 1860 mm de largeur et 1610 mm de hauteur, appartient aux SUV compacts, également connus sous le nom de C-SUV. Ils offrent un équilibre entre la praticité et la maniabilité des véhicules plus petits et l'espace et la polyvalence des SUV plus grands. La Volkswagen Id. UNYX est disponible en un total de 5 couleurs de peinture, comprenant des options à la fois solides et métalliques.
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Volkswagen Id. UNYX, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
