@@ -56,7 +56,7 @@ Audi e-tron GT es un sedán de lujo disponible en 5 variantes.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi Q4 e-tron es un SUV/SUV Coupé premium disponible en 14 variantes.
+Audi Q4 e-tron es un SUV/SUV Coupé premium disponible en 15 variantes.
 </p>
 	<a href="q4_e-tron/" class="btn btn-outline-primary" role="button">Ir a la información del modelo</a>
 		</div>

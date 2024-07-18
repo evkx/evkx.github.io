@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/main_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="1998" >}}
+{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/main_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="2250" >}}
 EVKX.net søger at have de mest komplette specifikationer for Audi Q4 35 e-tron. Klik på billedet ovenfor for [fuld artikel](../), besøg [billedgalleriet](../gallery/) for billeder i høj opløsning af Audi Q4 35 e-tron, besøg [chargeinfo](../chargecurve/) for Audi Q4 35 e-tron med chargecurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -83,7 +83,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP range
 			</td>
 			<td>
-				357 km
+				355 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Basic trim WLTP-forbrug
 			</td>
 			<td>
-				14,4 kWh/100km
+				14,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Grundlæggende trim WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				16,4 kWh/100km
+				17,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				15,9 kWh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrimmet WLTP-forbrug med opladningstab
 			</td>
 			<td>
-				18,2 kwh/100km
+				19,2 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +158,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				51,5 kWh
+				52 kWh
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +166,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Max DC-opladning
 			</td>
 			<td>
-				125 kW
+				145 kW
 			</td>
 		</tr>
 		<tr>

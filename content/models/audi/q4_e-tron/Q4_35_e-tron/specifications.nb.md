@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/main_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="1998" >}}
+{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/main_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="2250" >}}
 EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q4 35 e-tron. Klikk på bildet ovenfor for [full artikkel](../), besøk [bildegalleriet](../gallery/) for høyoppløselige bilder av Audi Q4 35 e-tron, gå til [chargeinfo](../chargecurve/) for Audi Q4 35 e-tron med ladekurve, se [extended range info](../rangeandconsumption/) for real world ranges.
 
 
@@ -83,7 +83,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-område for grunnleggende trim
 			</td>
 			<td>
-				357 km
+				355 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk
 			</td>
 			<td>
-				14,4 kWh/100km
+				14,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk med ladetap
 			</td>
 			<td>
-				16,4 kWh/100km
+				17,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				15,9 kWh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk med ladetap
 			</td>
 			<td>
-				18,2 kwh/100km
+				19,2 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +158,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Netto batteristørrelse
 			</td>
 			<td>
-				51,5 kWh
+				52 kWh
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +166,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks DC-lading
 			</td>
 			<td>
-				125 kW
+				145 kW
 			</td>
 		</tr>
 		<tr>

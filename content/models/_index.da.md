@@ -222,7 +222,7 @@ Klik på logoerne nedenfor for at gå direkte til mærkesiden, eller scroll ned 
 		Audi er en tysk bilproducent, der er en del af Volkswagen-koncernen. Den er kendt for sine førsteklasses og sportslige køretøjer samt sit slogan 'Vorsprung durch Technik', som betyder 'Progress through Technology'.
 	</p>
 	<p>
-	Audi har 5 modeller med i alt 36 varianter.
+	Audi har 5 modeller med i alt 37 varianter.
 	</p>
 	<a href="audi/" class="btn btn-outline-primary" role="button">Gå til Audi EV-modeloversigt</a>
 </div>

@@ -84,7 +84,7 @@ target="_blank">
 		<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/main_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/main_1.jpg"
 data-pswp-width="3000"
-data-pswp-height="1998" 
+data-pswp-height="2250" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/main_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid " />
 		</a>
@@ -93,7 +93,7 @@ target="_blank">
 		<a href="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/screens_1.jpg"
 data-pswp-src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/screens_1.jpg"
 data-pswp-width="3000"
-data-pswp-height="1686" 
+data-pswp-height="1999" 
 target="_blank">
 			<img src="https://media.evkx.net/multimedia/models/audi/q4_e-tron/q4_35_e-tron/screens_1_xst.jpg" alt="Audi Q4 35 e-tron" class="img-fluid " />
 		</a>

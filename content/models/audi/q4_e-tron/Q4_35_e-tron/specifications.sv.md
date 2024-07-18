@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/main_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="1998" >}}
+{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/main_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="2250" >}}
 EVKX.net vill ha de mest kompletta specifikationerna för Audi Q4 35 e-tron. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Audi Q4 35 e-tron, gå till [chargeinfo](../chargecurve/) för Audi Q4 35 e-tron med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
@@ -83,7 +83,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
-				357 km
+				355 km
 			</td>
 		</tr>
 		<tr>
@@ -91,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				14,4 kWh/100km
+				14,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				16,4 kWh/100km
+				17,0 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				15,9 kWh/100km
+				16,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topp trim WLTP-förbrukning med laddningsförlust
 			</td>
 			<td>
-				18,2 kwh/100km
+				19,2 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -158,7 +158,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				51,5 kWh
+				52 kWh
 			</td>
 		</tr>
 		<tr>
@@ -166,7 +166,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max laddningskapacitet
 			</td>
 			<td>
-				125 kW
+				145 kW
 			</td>
 		</tr>
 		<tr>

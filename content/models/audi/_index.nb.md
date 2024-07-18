@@ -56,7 +56,7 @@ Audi e-tron GT er en luksus sedan tilgjengelig i 5 varianter.
                 </a>
             </div>
             <div class="col col-12 col-md-6"><p>
-Audi Q4 e-tron er en premium SUV/Coupe SUV tilgjengelig i 14 varianter.
+Audi Q4 e-tron er en premium SUV/Coupe SUV tilgjengelig i 15 varianter.
 </p>
 	<a href="q4_e-tron/" class="btn btn-outline-primary" role="button">Gå til modellinfo</a>
 		</div>

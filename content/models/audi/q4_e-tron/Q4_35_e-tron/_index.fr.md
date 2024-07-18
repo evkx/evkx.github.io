@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 35 e-tron
 linktitle: "Q4 35 e-tron"
-description: "Audi Q4 35 e-tron est un SUV premium entièrement électrique avec une autonomie WLTP allant jusqu'à 357 km (222 miles). EVKX.net a tous les détails."
+description: "Audi Q4 35 e-tron est un SUV premium entièrement électrique avec une autonomie WLTP allant jusqu'à 355 km (221 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/main_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="1998"  >}}
+{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/main_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="2250"  >}}
 
 Nous avons séparé notre article Audi Q4 35 e-tron en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
 
@@ -33,17 +33,17 @@ L'Audi Q4 35 e-tron offre des performances modestes avec une puissance maximale 
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 55 kWh et une capacité nette utilisable de 51,5 kWh, offrant une réserve de 3,5 kWh (6,4%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
+La batterie haute capacité a une capacité brute de 55 kWh et une capacité nette utilisable de 52 kWh, offrant une réserve de 3 kWh (5,5%) pour la protection de la batterie. Avec une tension nominale de 350 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 357 et 323 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,4 kWh/100 km pour le modèle de base et à 15,9 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 355 et 323 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 14,6 kWh/100 km pour le modèle de base et à 16,1 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de 125kW. Une charge complète de 0 à 100 % prendrait 57 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 34 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 40 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 68kW. Chaque session de charge prendrait 17 minutes et 9 secondes.
+La vitesse de charge DC maximale est de 145kW. Une charge complète de 0 à 100 % prendrait 58 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 34 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 2 % et 40 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 69kW. Chaque session de charge prendrait 17 minutes et 16 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 21 kWh/100 km, le voyage prendrait environ 10 heures et 39 minutes. Ce trajet nécessiterait deux arrêts de recharge de 2% à 46%, avec un temps de recharge total de 140 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 21 kWh/100 km, le voyage prendrait environ 10 heures et 38 minutes. Ce trajet nécessiterait deux arrêts de recharge de 2% à 40%, avec un temps de recharge total de 138 minutes.
 
 ### Chargeur embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 7,2 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 7 heures et 9 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 7,2 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 7 heures et 13 minutes à domicile.
 
 ### Port de recharge
 
@@ -192,7 +192,7 @@ Le Audi Q4 35 e-tron possède plusieurs écrans intégrés. Derrière le volant 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 
-{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/screens_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="1686"  >}}
+{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/screens_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="1999"  >}}
 
 
 ## Infodivertissement

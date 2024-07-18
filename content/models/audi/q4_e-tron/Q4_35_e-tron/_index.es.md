@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 35 e-tron
 linktitle: "Q4 35 e-tron"
-description: "Audi Q4 35 e-tron es un SUV premium totalmente eléctrico con una WLTP autonomía de hasta 357 km (222 millas). EVKX.net tiene todos los detalles."
+description: "Audi Q4 35 e-tron es un SUV premium totalmente eléctrico con una WLTP autonomía de hasta 355 km (221 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/main_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="1998"  >}}
+{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/main_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="2250"  >}}
 
 Hemos separado nuestro artículo Audi Q4 35 e-tron en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
@@ -33,17 +33,17 @@ El Audi Q4 35 e-tron ofrece un rendimiento modesto con una potencia máxima de 1
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 55 kWh y una capacidad neta utilizable de 51,5 kWh, proporcionando un buffer de 3,5 kWh (6,4%) para la protección de la batería. Con un voltaje nominal de 350 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
+La batería de alta capacidad tiene una capacidad bruta de 55 kWh y una capacidad neta utilizable de 52 kWh, proporcionando un buffer de 3 kWh (5,5%) para la protección de la batería. Con un voltaje nominal de 350 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 357 y 323 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 14,4 kWh/100 km para el modelo base y 15,9 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 355 y 323 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 14,6 kWh/100 km para el modelo base y 16,1 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es 125kW. Una carga completa del 0 al 100 % tardaría 57 minutos, mientras que un escenario más común del 10 al 80 % tardaría 34 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 40%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 68kW. Cada sesión de carga tardaría 17 minutos y 9 segundos.
+La velocidad máxima de carga de CC es 145kW. Una carga completa del 0 al 100 % tardaría 58 minutos, mientras que un escenario más común del 10 al 80 % tardaría 34 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 2% al 40%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 69kW. Cada sesión de carga tardaría 17 minutos y 16 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 21 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 39 minutos. Este viaje requeriría dos paradas de carga del 2% al 46%, con un tiempo total de carga de 140 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 21 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 38 minutos. Este viaje requeriría dos paradas de carga del 2% al 40%, con un tiempo total de carga de 138 minutos.
 
 ### Cargador a bordo
 
-El cargador a bordo estándar soporta hasta 7,2 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 9 minutos usando un cargador en casa.
+El cargador a bordo estándar soporta hasta 7,2 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 13 minutos usando un cargador en casa.
 
 ### Puerto de carga
 
@@ -192,7 +192,7 @@ El Audi Q4 35 e-tron tiene múltiples pantallas integradas. Detrás del volante 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 
-{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/screens_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="1686"  >}}
+{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/screens_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="1999"  >}}
 
 
 ## Infoentretenimiento

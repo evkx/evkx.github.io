@@ -1,7 +1,7 @@
 ---
 title: Audi Q4 35 e-tron
 linktitle: "Q4 35 e-tron"
-description: "Audi Q4 35 e-tron är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 357 km. EVKX.net har alla detaljer."
+description: "Audi Q4 35 e-tron är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 355 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/main_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="1998"  >}}
+{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/main_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="2250"  >}}
 
 Vi har delat in vår beskrivning av Audi Q4 35 e-tron i avsnitt. Om du vill vänta med att läsa hela artikeln, klicka på länkarna nedan till de olika avsnitten. Vi har även en översikt över [fullständiga specifikationer](specifications/), [räckvidde och förbrukning](rangeandconsumption/), ett [bildgalleri](gallery/), detaljerad information om [laddningsprestanda](chargingcurve/) och några [recensioner](reviews/). Våra avsnitt:
 
@@ -33,17 +33,17 @@ Audi Q4 35 e-tron erbjuder blygsamma prestanda med en maximal effekt på 125 kW 
 
 ## Batteri, räckvidd och laddning
 
-Högkapacitetsbatteriet har en bruttokapacitet på 55 kWh och en nettoanvändbar kapacitet på 51,5 kWh, vilket ger en buffert på 3,5 kWh (6,4%) för batteriskydd. Med en nominell spänning på 350 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
+Högkapacitetsbatteriet har en bruttokapacitet på 55 kWh och en nettoanvändbar kapacitet på 52 kWh, vilket ger en buffert på 3 kWh (5,5%) för batteriskydd. Med en nominell spänning på 350 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 357 och 323 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,4 kWh/100 km för basmodellen och 15,9 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 355 och 323 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 14,6 kWh/100 km för basmodellen och 16,1 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
-Maximal DC-laddningshastighet är 125 kW. En full laddning från 0 - 100 % tar 57 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 40%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 68kW. Varje laddningssession tar 17 minuter och 9 sekunder.
+Maximal DC-laddningshastighet är 145 kW. En full laddning från 0 - 100 % tar 58 minuter, medan ett vanligare scenario på 10-80 % tar 34 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 2% till 40%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 69kW. Varje laddningssession tar 17 minuter och 16 sekunder.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 21 kWh/100 km, skulle resan ta ungefär 10 timmar och 39 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 46%, med en total laddningstid på 140 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 21 kWh/100 km, skulle resan ta ungefär 10 timmar och 38 minuter. Denna resa skulle kräva två laddningsstopp från 10% till 40%, med en total laddningstid på 138 minuter.
 
 ### Ombordladdare
 
-Den standard ombordladdaren stöder upp till 7,2 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 7 timmar och 9 minuter med en hemmaladdare.
+Den standard ombordladdaren stöder upp till 7,2 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 7 timmar och 13 minuter med en hemmaladdare.
 
 ### Laddningsport
 
@@ -192,7 +192,7 @@ Audi Q4 35 e-tron har flera integrerade skärmar. Bakom ratten finns ett [digita
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 
-{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/screens_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="1686"  >}}
+{{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron/screens_1_st.jpg" title="Audi Q4 35 e-tron" width="3000" height="1999"  >}}
 
 
 ## Infotainment

@@ -112,6 +112,9 @@
 - id: common-section-latest-reviews
   translation: Senaste tester och recensioner
 
+- id: frontpage-description-8a79e429
+  translation: Audi Q4 35 e-tron är en helelektrisk premium-SUV med en WLTP räckvidd på upp till 355 km. EVKX.net har alla detaljer.
+
 - id: frontpage-description-fc8a4c77
   translation: Volkswagen Id. UNYX är en helelektrisk coupé-SUV med en CLTC räckvidd på upp till 621 km. EVKX.net har alla detaljer.
 
@@ -156,7 +159,4 @@
 
 - id: frontpage-description-fd194ba1
   translation: Hyundai INSTER Long Range är en helelektrisk halvkombi med en WLTP räckvidd på upp till 355 km. EVKX.net har alla detaljer.
-
-- id: frontpage-description-e642da70
-  translation: Citroën ë-C3 Aircross är en helelektrisk crossover med en WLTP räckvidd på upp till 306 km. EVKX.net har alla detaljer.
 
