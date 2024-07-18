@@ -265,7 +265,7 @@ Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremse
 
 ### Tilgængelighed og priser
 
-Denne model havde verdenspremiere den 14.04.2021, og leveringerne startede i January 2022. Denne model er nu udgået.<div class="mt-3 mb-3">
+Denne model havde verdenspremiere den 17.07.2024, og leveringerne startede i October 2024.<div class="mt-3 mb-3">
 <a href="../" class="text-decoration-none text-black">
 <strong><i class="bi-arrow-left"></i> Audi Q4 e-tron </strong>
 </a>
