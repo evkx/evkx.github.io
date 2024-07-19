@@ -39,7 +39,7 @@ I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../
 
 Maksimal DC-ladehastighet er 270 kW. En full lading fra 0 - 100 % vil ta 61 minutter, mens et mer vanlig scenario på 10-80 % vil ta 22 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 61%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 173kW. Hver ladeøkt vil ta 20 minutter og 24 sekunder. Denne effektive ladekapasiteten gjør Audi Q6L e-tron quattro til et praktisk valg for langdistansereiser.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 21,5 kWh/100 km, ville turen ta omtrent 8 timer og 59 minutter. Denne reisen ville kreve to ladestopp fra 3% til 59%, med en total ladetid på 39 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 23 kWh/100 km, ville turen ta omtrent 9 timer og 5 minutter. Denne reisen ville kreve to ladestopp fra 3% til 67%, med en total ladetid på 45 minutter.
 
 ### Ombordlader
 

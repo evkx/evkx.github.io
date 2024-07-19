@@ -132,10 +132,10 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				90 kmt/56 mph under perfekte forhold
 			</td>
 			<td>
-				527km / 327 mi
+				542km / 337 mi
 			</td>
 			<td>
-				18 kWh/100km / 3,5 mi/kWh
+				17,5 kWh/100km / 3,6 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -143,10 +143,10 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				90 kmt/56 mph med 2KW oppvarming
 			</td>
 			<td>
-				482km /291mi
+				495km /299mi
 			</td>
 			<td>
-				20,2 kWh/100km /3,1 mi/kWh 
+				19,7 kWh/100km /3,2 mi/kWh 
 			</td>
 		</tr>
 		<tr>
@@ -154,10 +154,10 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				70 mph/112 km/t under perfekte forhold
 			</td>
 			<td>
-				499 km / 310 mi
+				487 km / 303 mi
 			</td>
 			<td>
-				19 kWh/100km / 3,3 mi/kWh
+				19,5 kWh/100km / 3,2 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -165,10 +165,10 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				70 mph/112 km/t med 2KW oppvarming
 			</td>
 			<td>
-				456km / 283mi
+				446km / 277mi
 			</td>
 			<td>
-				20,8 kWh/100km / 3,0 mi/kWh  
+				21,3 kWh/100km / 2,9 mi/kWh  
 			</td>
 		</tr>
 		<tr>
@@ -176,10 +176,10 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				120 kmt/75 mph under perfekte forhold
 			</td>
 			<td>
-				441 km / 274 mi
+				422 km / 262 mi
 			</td>
 			<td>
-				21,5 kWh/100km / 2,9 mi/kWh
+				22,5 kWh/100km / 2,8 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -187,10 +187,10 @@ Tabellen nedenfor viser noen estimerte eksempler fra den virkelige verden under 
 				120 kmt /75mph med 2KW oppvarming
 			</td>
 			<td>
-				409 km /254mi
+				393 km /244mi
 			</td>
 			<td>
-				23,2 kWh/100km /2,7 mi/kWh
+				24,2 kWh/100km /2,6 mi/kWh
 			</td>
 		</tr>
 	</tbody>

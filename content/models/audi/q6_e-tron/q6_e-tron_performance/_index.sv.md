@@ -39,7 +39,7 @@ Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../g
 
 Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 57 minuter, medan ett vanligare scenario på 10-80 % tar 20 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 3% till 63%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 170kW. Varje laddningssession tar 20 minuter och 4 sekunder. Denna effektiva laddningskapacitet gör Audi Q6 e-tron performance till ett bekvämt alternativ för långdistansresor.
 
-I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 21,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 2 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 67%, med en total laddningstid på 43 minuter.
+I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 22,5 kWh/100 km, skulle resan ta ungefär 9 timmar och 6 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 71%, med en total laddningstid på 47 minuter.
 
 ### Ombordladdare
 

@@ -39,7 +39,7 @@ Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../..
 
 La vitesse de charge DC maximale est de 270kW. Une charge complète de 0 à 100 % prendrait 57 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 20 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 3 % et 63 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 170kW. Chaque session de charge prendrait 20 minutes et 4 secondes. Cette capacité de charge efficace fait de l'Audi Q6 e-tron performance une option pratique pour les voyages longue distance.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 21,5 kWh/100 km, le voyage prendrait environ 9 heures et 2 minutes. Ce trajet nécessiterait deux arrêts de recharge de 3% à 67%, avec un temps de recharge total de 43 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 22,5 kWh/100 km, le voyage prendrait environ 9 heures et 6 minutes. Ce trajet nécessiterait deux arrêts de recharge de 2% à 71%, avec un temps de recharge total de 47 minutes.
 
 ### Chargeur embarqué
 

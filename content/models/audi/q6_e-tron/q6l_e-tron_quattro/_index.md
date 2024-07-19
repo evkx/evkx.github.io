@@ -39,7 +39,7 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 
 The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 61 minutes, while a more typical charging scenario from 10% to 80% takes 22 minutes with an average charging speed at 196 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 61%. This results in an effective charging speed, including time lost, of 173 kW, with each charging session taking about 20 minutes and 24 seconds.. This efficient charging capability makes the Audi Q6L e-tron quattro a convenient option for long-distance travel.
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21.5 kWh/100 km, the trip would take approximately 8 hours and 59 minutes. This journey would require two charging stops from 3% to 59%, with a total charging time of 39 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 23 kWh/100 km, the trip would take approximately 9 hours and 5 minutes. This journey would require two charging stops from 3% to 67%, with a total charging time of 45 minutes.
 
 ### Onboard charger
 

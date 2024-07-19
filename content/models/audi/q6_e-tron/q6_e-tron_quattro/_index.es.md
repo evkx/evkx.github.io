@@ -39,7 +39,7 @@ Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](
 
 La velocidad máxima de carga de CC es 270kW. Una carga completa del 0 al 100 % tardaría 57 minutos, mientras que un escenario más común del 10 al 80 % tardaría 20 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 3% al 63%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 170kW. Cada sesión de carga tardaría 20 minutos y 4 segundos. Esta capacidad de carga eficiente hace que el Audi Q6 e-tron quattro sea una opción conveniente para viajes de larga distancia.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 21,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 2 minutos. Este viaje requeriría dos paradas de carga del 3% al 67%, con un tiempo total de carga de 43 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 23 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 8 minutos. Este viaje requeriría dos paradas de carga del 2% al 74%, con un tiempo total de carga de 49 minutos.
 
 ### Cargador a bordo
 

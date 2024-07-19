@@ -39,7 +39,7 @@ Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../
 
 Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 61 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 22 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 61%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 173kW. Hver opladningssession ville tage 20 minutter og 24 sekunder. Denne effektive opladningskapacitet gør Audi Q6L e-tron quattro til et praktisk valg til langdistancerejser.
 
-I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 21,5 kWh/100 km, ville turen tage cirka 8 timer og 59 minutter. Denne rejse ville kræve to opladningsstop fra 3% til 59%, med en samlet opladningstid på 39 minutter
+I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 23 kWh/100 km, ville turen tage cirka 9 timer og 5 minutter. Denne rejse ville kræve to opladningsstop fra 3% til 67%, med en samlet opladningstid på 45 minutter
 
 ### Ombordlader
 

@@ -39,7 +39,7 @@ I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../
 
 Maksimal DC-ladehastighet er 270 kW. En full lading fra 0 - 100 % vil ta 57 minutter, mens et mer vanlig scenario på 10-80 % vil ta 20 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 63%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 170kW. Hver ladeøkt vil ta 20 minutter og 4 sekunder. Denne effektive ladekapasiteten gjør Audi SQ6 e-tron til et praktisk valg for langdistansereiser.
 
-I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 21,5 kWh/100 km, ville turen ta omtrent 9 timer og 2 minutter. Denne reisen ville kreve to ladestopp fra 3% til 67%, med en total ladetid på 43 minutter.
+I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 23 kWh/100 km, ville turen ta omtrent 9 timer og 8 minutter. Denne reisen ville kreve to ladestopp fra 2% til 74%, med en total ladetid på 49 minutter.
 
 ### Ombordlader
 
