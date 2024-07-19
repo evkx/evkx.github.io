@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>The BYD Dolphin Is A Better Chevy Bolt Sold In Europe & China! My Quick Test Drive</h3>
+<p>Out of Spec Reviews: 19.07.2024</p>
+
+{{< youtube -J9TRg4GpRY >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>LONG TERM REVIEW: BYD Dolphin. Do we still love it after three months? </h3>
 <p>Electrifying: 25.06.2024</p>
 
