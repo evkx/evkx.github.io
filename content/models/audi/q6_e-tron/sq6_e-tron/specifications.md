@@ -31,7 +31,7 @@ EVKX.net seeks to have the most complete specifications for Audi SQ6 e-tron. Cli
 				Peak power
 			</td>
 			<td>
-				355 KW (483 hp /476 bhp)
+				360 KW (489 hp /483 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net seeks to have the most complete specifications for Audi SQ6 e-tron. Cli
 				Electrical torque output
 			</td>
 			<td>
-				650 nm (480 lb-ft)
+				855 nm (631 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net seeks to have the most complete specifications for Audi SQ6 e-tron. Cli
 				Electrical torque output boost
 			</td>
 			<td>
-				650 Nm
+				855 Nm
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
 			</td>
 			<td>
-				566 km
+				565 km
 			</td>
 		</tr>
 		<tr>

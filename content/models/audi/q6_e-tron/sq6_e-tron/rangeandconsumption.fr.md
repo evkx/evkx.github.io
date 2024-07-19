@@ -53,10 +53,10 @@ Vous trouverez ci-dessous les gammes officiellement nominales. Les tests sont ef
 				</a>
 			</td>
 			<td>
-				566 km / 352 mi
+				565 km / 351 mi
 			</td>
 			<td>
-				16,77 kWh/100km / 3,7 mi/kWh
+				16,80 kWh/100km / 3,7 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -101,7 +101,7 @@ Le tableau ci-dessous montre comment l'activation du chauffage/refroidissement p
 				450 km / 280 mi
 			</td>
 			<td>
-				-20,5%
+				-20,4%
 			</td>
 		</tr>
 	</tbody>

@@ -29,13 +29,13 @@ Vi har opdelt vores Audi SQ6 e-tron artikel i sektioner. Hvis du vil vente med a
 
 ## Ydeevne
 
-Med overboost når Audi SQ6 e-tron en maksimal effekt på 385 kW (524 hk). Uden overboost leverer den 355 kW (483 hk). Det maksimale drejningsmoment er 650 Nm. Den kan accelerere fra 0 til 100 km/t på 4,4 sekunder og når en topfart på 230 km/t, hvilket demonstrerer dens solide præstation.
+Med overboost når Audi SQ6 e-tron en maksimal effekt på 385 kW (524 hk). Uden overboost leverer den 360 kW (490 hk). Det maksimale drejningsmoment er 855 Nm. Den kan accelerere fra 0 til 100 km/t på 4,4 sekunder og når en topfart på 230 km/t, hvilket demonstrerer dens solide præstation.
 
 ## Batteri, rækkevidde og opladning
 
 Det højkapacitetsbatteri har en bruttokapacitet på 100 kWh og en nettoanvendelig kapacitet på 94,9 kWh, hvilket giver en buffer på 5,1 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 662 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 598 og 566 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 15,9 kWh/100 km for basismodellen og 16,8 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 598 og 565 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 15,9 kWh/100 km for basismodellen og 16,8 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 63 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 21 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 3% til 59%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 166kW. Hver opladningssession ville tage 19 minutter og 13 sekunder. Denne effektive opladningskapacitet gør Audi SQ6 e-tron til et praktisk valg til langdistancerejser.
 

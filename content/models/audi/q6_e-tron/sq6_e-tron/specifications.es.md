@@ -31,7 +31,7 @@ EVKX.net busca tener las especificaciones más completas para Audi SQ6 e-tron. H
 				Potencia máxima
 			</td>
 			<td>
-				355 KW (483 hp /476 bhp)
+				360 KW (489 hp /483 bhp)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net busca tener las especificaciones más completas para Audi SQ6 e-tron. H
 				Salida de par eléctrico
 			</td>
 			<td>
-				650 nm (480 pies-libra)
+				855 nm (631 pies-libra)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net busca tener las especificaciones más completas para Audi SQ6 e-tron. H
 				Aumento de la salida de par eléctrico
 			</td>
 			<td>
-				650 Nm
+				855 Nm
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de acabado superior
 			</td>
 			<td>
-				566 km
+				565 km
 			</td>
 		</tr>
 		<tr>

@@ -31,7 +31,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi SQ6 e-tron. K
 				Popeffekt
 			</td>
 			<td>
-				355 KW (483 hk /476 hk)
+				360 KW (489 hk /483 hk)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi SQ6 e-tron. K
 				Elektrisk momentudgang
 			</td>
 			<td>
-				650 nm (480 lb-ft)
+				855 nm (631 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi SQ6 e-tron. K
 				Forøgelse af elektrisk drejningsmomentoutput
 			</td>
 			<td>
-				650 Nm
+				855 Nm
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-område
 			</td>
 			<td>
-				566 km
+				565 km
 			</td>
 		</tr>
 		<tr>

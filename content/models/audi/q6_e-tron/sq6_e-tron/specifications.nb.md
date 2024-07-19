@@ -31,7 +31,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi SQ6 e-tron. Kl
 				Maks effekt
 			</td>
 			<td>
-				355 KW (483 hk)
+				360 KW (489 hk)
 			</td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi SQ6 e-tron. Kl
 				Dreiemoment
 			</td>
 			<td>
-				650 nm
+				855 nm
 			</td>
 		</tr>
 		<tr>
@@ -55,7 +55,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi SQ6 e-tron. Kl
 				Dreiemoment med boost
 			</td>
 			<td>
-				650 Nm
+				855 Nm
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-rekkevidde
 			</td>
 			<td>
-				566 km
+				565 km
 			</td>
 		</tr>
 		<tr>
