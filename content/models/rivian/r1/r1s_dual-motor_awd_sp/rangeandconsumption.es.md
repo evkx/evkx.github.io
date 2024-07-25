@@ -43,7 +43,7 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 				435 km / 270 mi
 			</td>
 			<td>
-				20,7 kWh/100km / 3,0 mi/kWh
+				20,8 kWh/100km / 3,0 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -56,7 +56,7 @@ A continuación se muestran los rangos clasificados oficialmente. Las pruebas se
 				435 km / 270 mi
 			</td>
 			<td>
-				20,7 kWh/100km / 3,0 mi/kWh
+				20,8 kWh/100km / 3,0 mi/kWh
 			</td>
 		</tr>
 	</tbody>
@@ -132,10 +132,10 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				90kmh/56mph perfecto estado
 			</td>
 			<td>
-				360km / 224 mi
+				394km / 245 mi
 			</td>
 			<td>
-				25 kWh/100km / 2,5 mi/kWh
+				23 kWh/100km / 2,7 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -143,10 +143,10 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				90 kmh/56 mph con calefacción de 2 KW
 			</td>
 			<td>
-				338km /206mi
+				367km /223mi
 			</td>
 			<td>
-				27,2 kWh/100km /2,3 mi/kWh 
+				25,2 kWh/100km /2,5 mi/kWh 
 			</td>
 		</tr>
 		<tr>
@@ -154,10 +154,10 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				70 mph/112 kmh perfecto estado
 			</td>
 			<td>
-				333 km / 207 mi
+				378 km / 235 mi
 			</td>
 			<td>
-				27,0 kWh/100km / 2,3 mi/kWh
+				24,0 kWh/100km / 2,6 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -165,10 +165,10 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				70 mph/112 kmh con calefacción de 2 KW
 			</td>
 			<td>
-				312km / 194mi
+				352km / 219mi
 			</td>
 			<td>
-				28,8 kWh/100km / 2,2 mi/kWh  
+				25,8 kWh/100km / 2,4 mi/kWh  
 			</td>
 		</tr>
 		<tr>
@@ -176,10 +176,10 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				120kmh/75mph perfecto estado
 			</td>
 			<td>
-				300 km / 186 mi
+				336 km / 209 mi
 			</td>
 			<td>
-				30 kWh/100km / 2,1 mi/kWh
+				27 kWh/100km / 2,3 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -187,10 +187,10 @@ La siguiente tabla muestra algunos ejemplos estimados del mundo real en perfecta
 				120 kmh/75 mph con calefacción de 2 KW
 			</td>
 			<td>
-				284 km /176mi
+				316 km /196mi
 			</td>
 			<td>
-				31,7 kWh/100km /2,0 mi/kWh
+				28,7 kWh/100km /2,2 mi/kWh
 			</td>
 		</tr>
 	</tbody>

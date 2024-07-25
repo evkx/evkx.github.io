@@ -33,17 +33,17 @@ La Rivian R1S Dual-Motor AWD SP offre des performances solides avec une puissanc
 
 ## Batterie, autonomie et charge
 
-La batterie haute capacité a une capacité brute de 92,5 kWh et une capacité nette utilisable de 90 kWh, offrant une réserve de 2,5 kWh (2,7%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
+La batterie haute capacité a une capacité brute de 92,5 kWh et une capacité nette utilisable de 90,6 kWh, offrant une réserve de 1,9 kWh (2,1%) pour la protection de la batterie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
 
-Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 434 km avec un taux de consommation d'énergie de 20,7 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency), le véhicule a une autonomie de 434 km avec un taux de consommation d'énergie de 20,9 kWh/100 km. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
-La vitesse de charge DC maximale est de kW. Une charge complète de 0 à 100 % prendrait 71 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 34 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 47 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 129kW. Chaque session de charge prendrait 20 minutes et 41 secondes.
+La vitesse de charge DC maximale est de kW. Une charge complète de 0 à 100 % prendrait 90 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 30 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 51 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 138kW. Chaque session de charge prendrait 20 minutes et 6 secondes.
 
-Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 30 kWh/100 km, le voyage prendrait environ 9 heures et 58 minutes. Ce trajet nécessiterait deux arrêts de recharge de 0% à 47%, avec un temps de recharge total de 98 minutes.
+Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 27 kWh/100 km, le voyage prendrait environ 9 heures et 38 minutes. Ce trajet nécessiterait deux arrêts de recharge de 0% à 50%, avec un temps de recharge total de 79 minutes.
 
 ### Chargeur embarqué
 
-Le chargeur embarqué standard prend en charge jusqu'à 11,5 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 7 heures et 49 minutes à domicile.
+Le chargeur embarqué standard prend en charge jusqu'à 11,5 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 7 heures et 52 minutes à domicile.
 
 ### Port de recharge
 

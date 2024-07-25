@@ -33,17 +33,17 @@ The Rivian R1S Dual-Motor AWD SP delivers a solid performance with a maximum pow
 
 ## Battery, range, and charging
 
-The high-capacity battery has a gross capacity of 92,5 kWh and a net usable capacity of 90 kWh, providing an 2,5 kWh buffer (2.7%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
+The high-capacity battery has a gross capacity of 92,5 kWh and a net usable capacity of 90,6 kWh, providing an 1,9 kWh buffer (2.1%) for battery protection. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
 
 According to the [EPA](../../../../guides/understandingrange/epa/) (Environmental Protection Agency) standard, the vehicle has an range of 270 miles (434 km) with an energy consumption rate of 3.0 miles per kWh. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
-The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 71 minutes, while a more typical charging scenario from 10% to 80% takes 34 minutes with an average charging speed at 110 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 47%. This results in an effective charging speed, including time lost, of 129 kW, with each charging session taking about 20 minutes and 41 seconds..
+The vehicle supports fast DC charging with a maximum power of  kW. Charging from 0% to 100% takes approximately 90 minutes, while a more typical charging scenario from 10% to 80% takes 30 minutes with an average charging speed at 128 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 51%. This results in an effective charging speed, including time lost, of 138 kW, with each charging session taking about 20 minutes and 6 seconds..
 
-In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 30 kWh/100 km, the trip would take approximately 9 hours and 58 minutes. This journey would require five charging stops from 0% to 47%, with a total charging time of 98 minutes.
+In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 27 kWh/100 km, the trip would take approximately 9 hours and 38 minutes. This journey would require four charging stops from 0% to 50%, with a total charging time of 79 minutes.
 
 ### Onboard charger
 
-The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 49 minutes using a home charging setup.
+The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 52 minutes using a home charging setup.
 
 ### Charge port
 

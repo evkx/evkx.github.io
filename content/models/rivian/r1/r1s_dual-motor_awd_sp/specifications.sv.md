@@ -126,7 +126,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Användbar batterikapacitet (netto)
 			</td>
 			<td>
-				90 kWh
+				90,6 kWh
 			</td>
 		</tr>
 		<tr>

@@ -29,7 +29,7 @@ Vi har delt vår beskrivelse av Audi Q6 e-tron quattro i seksjoner. Hvis du vil 
 
 ## Ytelse
 
-Audi Q6 e-tron quattro leverer solid ytelse med en maksimal effekt på 285 kW (388 hk) og et totalt dreiemoment på 650 Nm. Den kan akselerere fra 0 til 100 km/t på 5,9 sekunder og når en topphastighet på 210 km/t, noe som gjør den konkurransedyktig i sin klasse.
+Audi Q6 e-tron quattro leverer solid ytelse med en maksimal effekt på 285 kW (388 hk) og et totalt dreiemoment på 855 Nm. Den kan akselerere fra 0 til 100 km/t på 5,9 sekunder og når en topphastighet på 210 km/t, noe som gjør den konkurransedyktig i sin klasse.
 
 ## Batteri, rekkevidde og lading
 

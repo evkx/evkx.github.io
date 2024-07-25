@@ -39,7 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi Q6 e-tron quattro
 				Vridmoment
 			</td>
 			<td>
-				650 nm
+				855 nm
 			</td>
 		</tr>
 		<tr>

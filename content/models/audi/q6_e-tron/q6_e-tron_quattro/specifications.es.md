@@ -39,7 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Audi Q6 e-tron qua
 				Salida de par eléctrico
 			</td>
 			<td>
-				650 nm (480 pies-libra)
+				855 nm (631 pies-libra)
 			</td>
 		</tr>
 		<tr>

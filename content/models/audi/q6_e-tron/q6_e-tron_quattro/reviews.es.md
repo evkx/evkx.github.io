@@ -9,6 +9,62 @@ navicon: bi-person-video2
 Recopilamos reseñas de nuestros [revisores en línea favoritos](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>2024 Audi Q6 e-tron vs 2021 e-tron 55 side-by-side comparison</h3>
+<p>Bjørn Nyland: 25.07.2024</p>
+
+{{< youtube gTYNzVECaEc >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Audi Q6 e-tron quattro 1000 km challenge</h3>
+<p>Bjørn Nyland: 24.07.2024</p>
+
+{{< youtube tSXaPWZktYQ >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Audi Q6 e-tron quattro acceleration and braking test</h3>
+<p>Bjørn Nyland: 23.07.2024</p>
+
+{{< youtube lIBqIpFMdx4 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Audi Q6 e-tron charging on Ionity 800 V Ionity & V4 supercharger 400 V</h3>
+<p>Bjørn Nyland: 23.07.2024</p>
+
+{{< youtube 7-ns0uXoKF4 >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Audi Q6 e-tron autoparking test</h3>
+<p>Bjørn Nyland: 22.07.2024</p>
+
+{{< youtube 8AzofAXuUvE >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>I drove Audi Q6 e-tron quattro until the battery died</h3>
+<p>Bjørn Nyland: 21.07.2024</p>
+
+{{< youtube LUTE0DHjazo >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>How far can Audi Q6 e-tron quattro go if we obey the speed limits?</h3>
+<p>Bjørn Nyland: 20.07.2024</p>
+
+{{< youtube W26l8Z1qkdM >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>Audi Q6 e-tron Quattro range test</h3>
+<p>Bjørn Nyland: 19.07.2024</p>
+
+{{< youtube youOS4hOyYU >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>Audi Q6 e-tron Quattro range test</h3>
 <p>Bjørn Nyland: 19.07.2024</p>
 

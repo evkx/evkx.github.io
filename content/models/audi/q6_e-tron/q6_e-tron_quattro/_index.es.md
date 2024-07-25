@@ -29,7 +29,7 @@ Hemos separado nuestro artículo Audi Q6 e-tron quattro en secciones. Si desea e
 
 ## Rendimiento
 
-El Audi Q6 e-tron quattro ofrece un rendimiento sólido con una potencia máxima de 285 kW (388 hp) y un par total de 650 Nm. Puede acelerar de 0 a 100 km/h en 5,9 segundos y alcanza una velocidad máxima de 210 km/h, lo que lo hace competitivo en su clase.
+El Audi Q6 e-tron quattro ofrece un rendimiento sólido con una potencia máxima de 285 kW (388 hp) y un par total de 855 Nm. Puede acelerar de 0 a 100 km/h en 5,9 segundos y alcanza una velocidad máxima de 210 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 

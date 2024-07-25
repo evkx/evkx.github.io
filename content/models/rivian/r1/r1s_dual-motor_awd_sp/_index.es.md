@@ -33,17 +33,17 @@ El Rivian R1S Dual-Motor AWD SP ofrece un rendimiento sólido con una potencia m
 
 ## Batería, autonomía y carga
 
-La batería de alta capacidad tiene una capacidad bruta de 92,5 kWh y una capacidad neta utilizable de 90 kWh, proporcionando un buffer de 2,5 kWh (2,7%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
+La batería de alta capacidad tiene una capacidad bruta de 92,5 kWh y una capacidad neta utilizable de 90,6 kWh, proporcionando un buffer de 1,9 kWh (2,1%) para la protección de la batería. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
 
-Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 434 km con una tasa de consumo de energía de 20,7 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar de la [EPA](../../../../guides/understandingrange/epa/) (Agencia de Protección Ambiental), el vehículo tiene una autonomía de 434 km con una tasa de consumo de energía de 20,9 kWh/100 km. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
-La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 71 minutos, mientras que un escenario más común del 10 al 80 % tardaría 34 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 47%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 129kW. Cada sesión de carga tardaría 20 minutos y 41 segundos.
+La velocidad máxima de carga de CC es kW. Una carga completa del 0 al 100 % tardaría 90 minutos, mientras que un escenario más común del 10 al 80 % tardaría 30 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 51%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 138kW. Cada sesión de carga tardaría 20 minutos y 6 segundos.
 
-En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 30 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 58 minutos. Este viaje requeriría dos paradas de carga del 0% al 47%, con un tiempo total de carga de 98 minutos.
+En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 27 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 38 minutos. Este viaje requeriría dos paradas de carga del 0% al 50%, con un tiempo total de carga de 79 minutos.
 
 ### Cargador a bordo
 
-El cargador a bordo estándar soporta hasta 11,5 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 49 minutos usando un cargador en casa.
+El cargador a bordo estándar soporta hasta 11,5 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 52 minutos usando un cargador en casa.
 
 ### Puerto de carga
 

@@ -126,7 +126,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Batteri net
 			</td>
 			<td>
-				90 kWh
+				90,6 kWh
 			</td>
 		</tr>
 		<tr>

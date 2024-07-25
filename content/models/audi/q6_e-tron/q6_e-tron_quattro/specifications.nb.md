@@ -39,7 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi Q6 e-tron quat
 				Dreiemoment
 			</td>
 			<td>
-				650 nm
+				855 nm
 			</td>
 		</tr>
 		<tr>
