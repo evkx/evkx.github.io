@@ -421,6 +421,22 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
+				Ángulo de voladizo frontal
+			</td>
+			<td>
+				16,3
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ángulo de voladizo trasero
+			</td>
+			<td>
+				23,7
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Círculo de giro
 			</td>
 			<td>
@@ -481,7 +497,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero
 			</td>
 			<td>
-				526 litro (19 pies cúbicos)
+				514 litro (18 pies cúbicos)
 			</td>
 		</tr>
 		<tr>
@@ -489,7 +505,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Capacidad del maletero con todos los asientos traseros plegados
 			</td>
 			<td>
-				1529 litro (54 pies cúbicos)
+				1517 litro (54 pies cúbicos)
 			</td>
 		</tr>
 		<tr>

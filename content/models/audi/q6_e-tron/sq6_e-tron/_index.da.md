@@ -273,7 +273,7 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 526 liter. Med bagsædet nede er det 1529 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 64 liter (2,3 CU FT). Bilens maksimale vægt er 2965 kg (6537 lbs), og med basisvægten på 2350 kg (5181 lbs), kan du maksimalt laste 615 kg (1356 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 514 liter. Med bagsædet nede er det 1517 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 64 liter (2,3 CU FT). Bilens maksimale vægt er 2965 kg (6537 lbs), og med basisvægten på 2350 kg (5181 lbs), kan du maksimalt laste 615 kg (1356 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2400, og på ubremset er den 750 kg (5291/1653 lbs).
 
