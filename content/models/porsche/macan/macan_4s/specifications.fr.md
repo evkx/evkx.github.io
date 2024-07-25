@@ -1590,14 +1590,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Chaînes
-			</td>
-			<td>
-				14
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effet total
 			</td>
 			<td>
@@ -1624,14 +1616,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		<tr>
 			<td>
 				Nombre de haut-parleurs
-			</td>
-			<td>
-				21
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Chaînes
 			</td>
 			<td>
 				21

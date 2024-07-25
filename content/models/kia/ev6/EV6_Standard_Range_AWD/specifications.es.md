@@ -1123,14 +1123,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				6
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Canales
-			</td>
-			<td>
-				4
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -1154,14 +1146,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 			</td>
 			<td>
 				14
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Canales
-			</td>
-			<td>
-				8
 			</td>
 		</tr>
 	</tbody>

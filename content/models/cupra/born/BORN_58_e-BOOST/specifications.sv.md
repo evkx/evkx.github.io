@@ -1184,14 +1184,6 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Kanaler
-			</td>
-			<td>
-				6
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Total effekt
 			</td>
 			<td>
@@ -1218,14 +1210,6 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		<tr>
 			<td>
 				Antal högtalare
-			</td>
-			<td>
-				9
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
 			</td>
 			<td>
 				9

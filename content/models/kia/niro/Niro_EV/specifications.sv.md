@@ -1115,14 +1115,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				6
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Kanaler
-			</td>
-			<td>
-				4
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -1146,14 +1138,6 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 			</td>
 			<td>
 				14
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
-			</td>
-			<td>
-				8
 			</td>
 		</tr>
 	</tbody>

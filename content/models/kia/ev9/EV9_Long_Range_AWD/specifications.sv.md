@@ -1359,14 +1359,6 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 				6
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Kanaler
-			</td>
-			<td>
-				4
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -1390,14 +1382,6 @@ Denna modell är tillgänglig med en konfiguration med sex eller sju säten.
 			</td>
 			<td>
 				14
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
-			</td>
-			<td>
-				8
 			</td>
 		</tr>
 	</tbody>

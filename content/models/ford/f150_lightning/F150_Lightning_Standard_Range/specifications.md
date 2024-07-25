@@ -1114,14 +1114,6 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Channels
-			</td>
-			<td>
-				2
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Total effect
 			</td>
 			<td>
@@ -1155,14 +1147,6 @@ This model is available with a seat configuration with five seats.
 		</tr>
 		<tr>
 			<td>
-				Channels
-			</td>
-			<td>
-				4
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Total effect
 			</td>
 			<td>
@@ -1192,14 +1176,6 @@ This model is available with a seat configuration with five seats.
 			</td>
 			<td>
 				18
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Channels
-			</td>
-			<td>
-				4
 			</td>
 		</tr>
 		<tr>

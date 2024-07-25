@@ -1271,14 +1271,6 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 		</tr>
 		<tr>
 			<td>
-				Kanaler
-			</td>
-			<td>
-				18
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Total effekt
 			</td>
 			<td>

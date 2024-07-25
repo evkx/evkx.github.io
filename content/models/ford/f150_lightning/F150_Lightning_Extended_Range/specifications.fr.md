@@ -1090,14 +1090,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Chaînes
-			</td>
-			<td>
-				2
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effet total
 			</td>
 			<td>
@@ -1131,14 +1123,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 		</tr>
 		<tr>
 			<td>
-				Chaînes
-			</td>
-			<td>
-				4
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effet total
 			</td>
 			<td>
@@ -1168,14 +1152,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				18
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Chaînes
-			</td>
-			<td>
-				4
 			</td>
 		</tr>
 		<tr>

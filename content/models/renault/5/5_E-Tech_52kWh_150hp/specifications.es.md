@@ -1102,14 +1102,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 				6
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Canales
-			</td>
-			<td>
-				4
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -1133,14 +1125,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				10
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Canales
-			</td>
-			<td>
-				6
 			</td>
 		</tr>
 	</tbody>

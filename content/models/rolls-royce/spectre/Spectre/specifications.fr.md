@@ -1102,14 +1102,6 @@ Ce modèle est disponible avec une configuration de sièges à quatre sièges.
 		</tr>
 		<tr>
 			<td>
-				Chaînes
-			</td>
-			<td>
-				18
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effet total
 			</td>
 			<td>

@@ -1305,14 +1305,6 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 		</tr>
 		<tr>
 			<td>
-				Kanaler
-			</td>
-			<td>
-				7
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Samlet effekt
 			</td>
 			<td>
@@ -1342,14 +1334,6 @@ Denne model er tilgængelig med en sædekonfiguration med fem eller syv sæder.
 			</td>
 			<td>
 				13
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
-			</td>
-			<td>
-				9
 			</td>
 		</tr>
 		<tr>

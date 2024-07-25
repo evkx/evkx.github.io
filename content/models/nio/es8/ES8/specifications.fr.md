@@ -1351,14 +1351,6 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 				7
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Chaînes
-			</td>
-			<td>
-				7
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -1382,14 +1374,6 @@ Ce modèle est disponible avec une configuration de sièges à six ou sept place
 			</td>
 			<td>
 				12
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Chaînes
-			</td>
-			<td>
-				7
 			</td>
 		</tr>
 	</tbody>

@@ -1258,14 +1258,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Canales
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Efecto total
 			</td>
 			<td>
@@ -1299,14 +1291,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		</tr>
 		<tr>
 			<td>
-				Canales
-			</td>
-			<td>
-				14
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Efecto total
 			</td>
 			<td>
@@ -1333,14 +1317,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 		<tr>
 			<td>
 				Número de altavoces
-			</td>
-			<td>
-				21
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Canales
 			</td>
 			<td>
 				21

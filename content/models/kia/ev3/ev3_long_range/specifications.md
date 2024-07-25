@@ -1107,14 +1107,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				6
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Channels
-			</td>
-			<td>
-				4
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -1138,14 +1130,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 			</td>
 			<td>
 				14
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Channels
-			</td>
-			<td>
-				8
 			</td>
 		</tr>
 	</tbody>

@@ -1351,14 +1351,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 				7
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Kanaler
-			</td>
-			<td>
-				7
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -1382,14 +1374,6 @@ Denne modellen er tilgjengelig med en setekonfigurasjon med seks eller syv seter
 			</td>
 			<td>
 				12
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
-			</td>
-			<td>
-				7
 			</td>
 		</tr>
 	</tbody>

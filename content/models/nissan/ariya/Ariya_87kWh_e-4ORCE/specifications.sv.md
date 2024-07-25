@@ -1190,14 +1190,6 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 				6
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Kanaler
-			</td>
-			<td>
-				4
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -1221,14 +1213,6 @@ Denna modell är tillgänglig med en konfiguration med fem sittplatser.
 			</td>
 			<td>
 				10
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
-			</td>
-			<td>
-				6
 			</td>
 		</tr>
 	</tbody>

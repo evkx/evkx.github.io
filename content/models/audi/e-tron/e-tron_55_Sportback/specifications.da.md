@@ -2069,14 +2069,6 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Kanaler
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Samlet effekt
 			</td>
 			<td>
@@ -2103,14 +2095,6 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		<tr>
 			<td>
 				Antal højttalere
-			</td>
-			<td>
-				16
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
 			</td>
 			<td>
 				16

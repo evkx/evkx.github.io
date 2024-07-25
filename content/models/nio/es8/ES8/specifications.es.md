@@ -1351,14 +1351,6 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 				7
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Canales
-			</td>
-			<td>
-				7
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -1382,14 +1374,6 @@ Este modelo está disponible con una configuración de seis o siete asientos.
 			</td>
 			<td>
 				12
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Canales
-			</td>
-			<td>
-				7
 			</td>
 		</tr>
 	</tbody>

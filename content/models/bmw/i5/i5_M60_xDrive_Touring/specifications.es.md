@@ -1361,14 +1361,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Canales
-			</td>
-			<td>
-				7
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Efecto total
 			</td>
 			<td>
@@ -1402,14 +1394,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 		</tr>
 		<tr>
 			<td>
-				Canales
-			</td>
-			<td>
-				5
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Efecto total
 			</td>
 			<td>
@@ -1439,14 +1423,6 @@ Este modelo está disponible con una configuración de cinco asientos.
 			</td>
 			<td>
 				18
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Canales
-			</td>
-			<td>
-				12
 			</td>
 		</tr>
 		<tr>

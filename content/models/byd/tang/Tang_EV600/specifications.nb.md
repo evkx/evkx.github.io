@@ -1118,14 +1118,6 @@ Interior.Seatlayout.OnlySix
 				7
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Kanaler
-			</td>
-			<td>
-				7
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -1149,14 +1141,6 @@ Interior.Seatlayout.OnlySix
 			</td>
 			<td>
 				12
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
-			</td>
-			<td>
-				7
 			</td>
 		</tr>
 	</tbody>

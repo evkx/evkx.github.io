@@ -1258,14 +1258,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Kanaler
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Total effekt
 			</td>
 			<td>
@@ -1299,14 +1291,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		</tr>
 		<tr>
 			<td>
-				Kanaler
-			</td>
-			<td>
-				14
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Total effekt
 			</td>
 			<td>
@@ -1333,14 +1317,6 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 		<tr>
 			<td>
 				Antall høyttalere
-			</td>
-			<td>
-				21
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
 			</td>
 			<td>
 				21

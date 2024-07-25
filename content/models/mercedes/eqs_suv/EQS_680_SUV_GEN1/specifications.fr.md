@@ -1168,14 +1168,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 		</tr>
 		<tr>
 			<td>
-				Chaînes
-			</td>
-			<td>
-				7
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Effet total
 			</td>
 			<td>
@@ -1205,14 +1197,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq ou sept plac
 			</td>
 			<td>
 				13
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Chaînes
-			</td>
-			<td>
-				9
 			</td>
 		</tr>
 		<tr>

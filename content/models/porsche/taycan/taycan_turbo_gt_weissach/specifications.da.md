@@ -1258,14 +1258,6 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Kanaler
-			</td>
-			<td>
-				10
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Samlet effekt
 			</td>
 			<td>
@@ -1299,14 +1291,6 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		</tr>
 		<tr>
 			<td>
-				Kanaler
-			</td>
-			<td>
-				14
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Samlet effekt
 			</td>
 			<td>
@@ -1333,14 +1317,6 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 		<tr>
 			<td>
 				Antal højttalere
-			</td>
-			<td>
-				21
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Kanaler
 			</td>
 			<td>
 				21

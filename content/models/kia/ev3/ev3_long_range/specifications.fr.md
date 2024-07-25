@@ -1107,14 +1107,6 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				6
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Chaînes
-			</td>
-			<td>
-				4
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -1138,14 +1130,6 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 			</td>
 			<td>
 				14
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Chaînes
-			</td>
-			<td>
-				8
 			</td>
 		</tr>
 	</tbody>

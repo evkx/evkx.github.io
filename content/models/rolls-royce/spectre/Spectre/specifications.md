@@ -1102,14 +1102,6 @@ This model is available with a seat configuration with four seats.
 		</tr>
 		<tr>
 			<td>
-				Channels
-			</td>
-			<td>
-				18
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Total effect
 			</td>
 			<td>

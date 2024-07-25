@@ -1359,14 +1359,6 @@ This model is available with a seat configuration with six or seven seats.
 				6
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Channels
-			</td>
-			<td>
-				4
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -1390,14 +1382,6 @@ This model is available with a seat configuration with six or seven seats.
 			</td>
 			<td>
 				14
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Channels
-			</td>
-			<td>
-				8
 			</td>
 		</tr>
 	</tbody>

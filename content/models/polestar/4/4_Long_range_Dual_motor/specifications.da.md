@@ -1169,14 +1169,6 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 		</tr>
 		<tr>
 			<td>
-				Kanaler
-			</td>
-			<td>
-				5
-			</td>
-		</tr>
-		<tr>
-			<td>
 				Samlet effekt
 			</td>
 			<td>

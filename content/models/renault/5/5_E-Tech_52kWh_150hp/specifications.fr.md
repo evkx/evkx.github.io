@@ -1102,14 +1102,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 				6
 			</td>
 		</tr>
-		<tr>
-			<td>
-				Chaînes
-			</td>
-			<td>
-				4
-			</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -1133,14 +1125,6 @@ Ce modèle est disponible avec une configuration de sièges à cinq places.
 			</td>
 			<td>
 				10
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Chaînes
-			</td>
-			<td>
-				6
 			</td>
 		</tr>
 	</tbody>
