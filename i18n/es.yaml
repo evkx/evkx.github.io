@@ -112,6 +112,18 @@
 - id: common-section-latest-reviews
   translation: Últimas reseñas en línea
 
+- id: frontpage-description-3c8e420a
+  translation: Audi A6 Sportback e-tron performance es un sedán premium totalmente eléctrico con un WLTP alcance de hasta 750 km (466 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-84669ace
+  translation: Audi A6 Avant e-tron performance es un sedán premium totalmente eléctrico con un WLTP alcance de hasta 720 km (448 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-dbb2a6ae
+  translation: Audi S6 Sportback e-tron es un sedán premium totalmente eléctrico con un WLTP alcance de hasta 640 km (398 millas). EVKX.net tiene todos los detalles.
+
+- id: frontpage-description-80822ada
+  translation: Audi S6 Avant e-tron es una camioneta premium totalmente eléctrica con una WLTP autonomía de hasta 640 km (398 millas). EVKX.net tiene todos los detalles.
+
 - id: frontpage-description-8a79e429
   translation: Audi Q4 35 e-tron es un SUV premium totalmente eléctrico con una WLTP autonomía de hasta 355 km (221 millas). EVKX.net tiene todos los detalles.
 
@@ -147,16 +159,4 @@
 
 - id: frontpage-description-eec779be
   translation: Polestar 3 Long Range Dual Motor es un SUV totalmente eléctrico con una autonomía WLTP de hasta 631 km (392 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-23e9b22b
-  translation: SKODA Elroq 85x es un SUV cupé totalmente eléctrico con un WLTP alcance de hasta 550 km (342 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-6ecc80b9
-  translation: KGM Torres EVX es un SUV totalmente eléctrico con una autonomía WLTP de hasta 462 km (287 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-ae995052
-  translation: Hyundai INSTER Standard Range es un hatchback totalmente eléctrico con un WLTP alcance de hasta 300 km (187 millas). EVKX.net tiene todos los detalles.
-
-- id: frontpage-description-fd194ba1
-  translation: Hyundai INSTER Long Range es un hatchback totalmente eléctrico con un WLTP alcance de hasta 355 km (221 millas). EVKX.net tiene todos los detalles.
 

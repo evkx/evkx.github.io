@@ -112,6 +112,18 @@
 - id: common-section-latest-reviews
   translation: Dernières critiques en ligne
 
+- id: frontpage-description-3c8e420a
+  translation: Audi A6 Sportback e-tron performance est une berline premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 750 km (466 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-84669ace
+  translation: Audi A6 Avant e-tron performance est une berline premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 720 km (448 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-dbb2a6ae
+  translation: Audi S6 Sportback e-tron est une berline premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 640 km (398 miles). EVKX.net a tous les détails.
+
+- id: frontpage-description-80822ada
+  translation: Audi S6 Avant e-tron est un break premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 640 km (398 miles). EVKX.net a tous les détails.
+
 - id: frontpage-description-8a79e429
   translation: Audi Q4 35 e-tron est un SUV premium entièrement électrique avec une autonomie WLTP allant jusqu'à 355 km (221 miles). EVKX.net a tous les détails.
 
@@ -147,16 +159,4 @@
 
 - id: frontpage-description-eec779be
   translation: Polestar 3 Long Range Dual Motor est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 631 km (392 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-23e9b22b
-  translation: SKODA Elroq 85x est un SUV coupé entièrement électrique avec une autonomie de WLTP allant jusqu'à 550 km (342 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-6ecc80b9
-  translation: KGM Torres EVX est un SUV entièrement électrique avec une autonomie WLTP allant jusqu'à 462 km (287 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-ae995052
-  translation: Hyundai INSTER Standard Range est une berline entièrement électrique avec une autonomie de WLTP allant jusqu'à 300 km (187 miles). EVKX.net a tous les détails.
-
-- id: frontpage-description-fd194ba1
-  translation: Hyundai INSTER Long Range est une berline entièrement électrique avec une autonomie de WLTP allant jusqu'à 355 km (221 miles). EVKX.net a tous les détails.
 

@@ -112,6 +112,18 @@
 - id: common-section-latest-reviews
   translation: Nyeste tester og omtaler
 
+- id: frontpage-description-3c8e420a
+  translation: Audi A6 Sportback e-tron performance er en helelektrisk premium sedan med en WLTP rekkevidde på opptil 750 km. EVKX.net har alle detaljene.
+
+- id: frontpage-description-84669ace
+  translation: Audi A6 Avant e-tron performance er en helelektrisk premium sedan med en WLTP rekkevidde på opptil 720 km. EVKX.net har alle detaljene.
+
+- id: frontpage-description-dbb2a6ae
+  translation: Audi S6 Sportback e-tron er en helelektrisk premium sedan med en WLTP rekkevidde på opptil 640 km. EVKX.net har alle detaljene.
+
+- id: frontpage-description-80822ada
+  translation: Audi S6 Avant e-tron er en helelektrisk premium stasjonsvogn med en WLTP rekkevidde på opptil 640 km. EVKX.net har alle detaljene.
+
 - id: frontpage-description-8a79e429
   translation: Audi Q4 35 e-tron er en helelektrisk premium-SUV med en WLTP rekkevidde på opptil 355 km. EVKX.net har alle detaljene.
 
@@ -147,16 +159,4 @@
 
 - id: frontpage-description-eec779be
   translation: Polestar 3 Long Range Dual Motor er en helelektrisk SUV med en WLTP rekkevidde på opptil 631 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-23e9b22b
-  translation: SKODA Elroq 85x er en helelektrisk coupe-SUV med en WLTP rekkevidde på opptil 550 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-6ecc80b9
-  translation: KGM Torres EVX er en helelektrisk SUV med en WLTP rekkevidde på opptil 462 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-ae995052
-  translation: Hyundai INSTER Standard Range er en helelektrisk kombi med en WLTP rekkevidde på opptil 300 km. EVKX.net har alle detaljene.
-
-- id: frontpage-description-fd194ba1
-  translation: Hyundai INSTER Long Range er en helelektrisk kombi med en WLTP rekkevidde på opptil 355 km. EVKX.net har alle detaljene.
 
