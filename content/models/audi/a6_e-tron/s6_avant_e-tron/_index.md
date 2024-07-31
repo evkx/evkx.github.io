@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/main_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249"  >}}
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/main_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="1999"  >}}
 
 We've divided the article into specific sections for easier navigation. Click the links below to jump to different areas or read on for the full article. We also have an overview of the [full specifications](specifications/), an [image gallery](gallery/), detailed information about [charging performance](chargingcurve/), and some [online reviews](reviews/). Our sections:
 
@@ -44,6 +44,10 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 ### Onboard charger
 
 The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 37 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 22 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 4 hours and 18 minutes at home.
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/charging_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2250"  >}}
+
 
 ### Charge port
 
@@ -111,12 +115,12 @@ More narrow wheels will improve consumption and give a longer range, while wider
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
-There are two different roof options to select from. The standard is just a regular roof. exterior.roof.optional.panoramic.PartialOpenFront.ElectrochromicMultipleLevels
+There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass in multiple levels to protect against the sun.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
 
-{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/exterior_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/exterior_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="1999"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -210,6 +214,10 @@ The model has 2 USB-C connections as standard. As an option, you can get additio
 ## Lights
 
 You can choose between two types of headlights for the Audi S6 Avant e-tron. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/headlights_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="1999"  >}}
+
 ## Advanced driver assistance systems
 
 The Audi S6 Avant e-tron has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

@@ -111,7 +111,7 @@ Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens br
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
-Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. exterior.roof.optional.panoramic.PartialOpenFront.ElectrochromicMultipleLevels
+Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas gør, at bilens interiør føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset i flere niveauer for at beskytte mod solen.
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 

@@ -111,9 +111,13 @@ Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil g
 
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
-Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. exterior.roof.optional.panoramic.PartialOpenFront.ElectrochromicMultipleLevels
+Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Glasset har en elektrokrom funksjon som lar deg blande glasset i flere nivåer for å beskytte mot solen.
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/exterior_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -148,6 +152,10 @@ Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massasje](../../../../technology/seats/adjustment/#massage)
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/frontseats_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
+
 
 #### Seter på andre rad
 
@@ -198,6 +206,10 @@ Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Audi S6 Sportback e-tron. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/headlights_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
+
 ## Avanserte førerassistentsystemer
 
 Audi S6 Sportback e-tron har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
@@ -251,6 +263,10 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/) , fe
 Lastkapasiteten i bagasjerommet er 514 liter. Med baksetet nede er det 1517 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 27 liter. Maksimumsvekten til bilen er 2965 kg, og med basisvekten på 2350 kg kan du maksimalt laste 615 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2100, og på ubremset er den 750 kg.
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/trunk_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
+
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 31.07.2024, og leveringene forventes å starte om December 2024.<div class="mt-3 mb-3">

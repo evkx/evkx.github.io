@@ -111,7 +111,7 @@ More narrow wheels will improve consumption and give a longer range, while wider
 
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
-There are two different roof options to select from. The standard is just a regular roof. exterior.roof.optional.panoramic.PartialOpenFront.ElectrochromicMultipleLevels
+There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass in multiple levels to protect against the sun.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 

@@ -111,9 +111,13 @@ Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, m
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
-Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. exterior.roof.optional.panoramic.PartialOpenFront.ElectrochromicMultipleLevels
+Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande Es espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio tiene una función electrocrómica que le permite combinar el vidrio en múltiples niveles para proteger contra el sol
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/exterior_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -148,6 +152,10 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [masaje](../../../../technology/seats/adjustment/#massage)
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/frontseats_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
+
 
 #### Asiento de segunda fila
 
@@ -198,6 +206,10 @@ El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 cone
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Audi S6 Sportback e-tron. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente. Además, las luces traseras estándar utilizan tecnología LED.
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/headlights_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Audi S6 Sportback e-tron tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
@@ -251,6 +263,10 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 La capacidad de carga en el maletero es de 514 litros. Con el asiento trasero abatido, es de 1517 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 27 litros (1,0 CU FT). El peso máximo del automóvil es 2965 kg (6537 lbs), y con el peso base de 2350 kg (5181 lbs), puedes cargar como máximo 615 kg (1356 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2100, y sin freno, es de 750 kg (4630/1653 lbs).
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/trunk_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 31.07.2024 y se espera que las entregas comiencen en December 2024.<div class="mt-3 mb-3">

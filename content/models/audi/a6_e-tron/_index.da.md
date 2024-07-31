@@ -48,7 +48,7 @@ weight: 30
 <h3>Audi S6 Avant e-tron</h3>
 	<div class="row">
 		<div class="col col-12 col-md-6">
-			<a href="s6_avant_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/a6_e-tron/s6_avant_e-tron/main_1_xst.jpg" class="img-fluid" width="400px" height="299px" alt="S6 Avant e-tron" ></a>
+			<a href="s6_avant_e-tron/"><img src="https://media.evkx.net/multimedia/models/audi/a6_e-tron/s6_avant_e-tron/main_1_xst.jpg" class="img-fluid" width="400px" height="266px" alt="S6 Avant e-tron" ></a>
 <i class="bi bi-record2-fill"></i> AWD <i class="bi bi-battery-full"></i> 100 kWh <i class="bi bi-ev-station"></i> 270 kW 
 		</div>
 		<div class="col col-12 col-md-6">

@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/main_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249"  >}}
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/main_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="1999"  >}}
 
 Vi har opdelt vores Audi S6 Avant e-tron artikel i sektioner. Hvis du vil vente med at læse hele artiklen, skal du klikke på nedenstående links til de forskellige områder. Vi har også en oversigt over de [fulde specifikationer](specifications/), et [billedgalleri](gallery/), detaljerede oplysninger om [opladningsydelse](chargingcurve/), og nogle [online anmeldelser](reviews/). Vores sektioner:
 
@@ -44,6 +44,10 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 ### Ombordlader
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 37 minutter ved brug af en hjemmeoplader. For hurtigere opladning kan du vælge en valgfri ombordlader, der understøtter op til 22 kW. Med denne opgradering kan du opnå en fuld opladning fra 0 til 100% på kun cirka 4 timer og 18 minutter derhjemme.
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/charging_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2250"  >}}
+
 
 ### Ladeport
 
@@ -111,12 +115,12 @@ Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens br
 
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
-Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. exterior.roof.optional.panoramic.PartialOpenFront.ElectrochromicMultipleLevels
+Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas gør, at bilens interiør føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset i flere niveauer for at beskytte mod solen.
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
 
-{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/exterior_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/exterior_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="1999"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -210,6 +214,10 @@ Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderl
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Audi S6 Avant e-tron. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/headlights_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="1999"  >}}
+
 ## Avancerede førerassistentsystemer
 
 Audi S6 Avant e-tron har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.

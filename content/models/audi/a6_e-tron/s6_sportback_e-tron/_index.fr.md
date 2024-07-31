@@ -111,9 +111,13 @@ Des roues plus étroites amélioreront la consommation et donneront une plus gra
 
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 
-Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. exterior.roof.optional.panoramic.PartialOpenFront.ElectrochromicMultipleLevels
+Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Cette vitre rend l'intérieur de la voiture plus agréable. spacieux et lumineux, ce qui peut améliorer l'ambiance et le confort de l'occupant. Le verre a une fonction électrochrome qui vous permet de mélanger le verre sur plusieurs niveaux pour vous protéger du soleil.
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/exterior_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
+
 
 {{<evkxdisplayaddarticle />}}
 
@@ -148,6 +152,10 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/frontseats_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
+
 
 #### Siège de deuxième rangée
 
@@ -198,6 +206,10 @@ Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obt
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le Audi S6 Sportback e-tron. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/headlights_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Audi S6 Sportback e-tron dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
@@ -251,6 +263,10 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 La capacité de chargement dans le coffre est de 514 litres. Avec la banquette arrière rabattue, elle est de 1517 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 27 litres (1,0 CU FT). Le poids maximum de la voiture est de 2965 kg (6537 lbs), et avec le poids de base de 2350 kg (5181 lbs), vous pouvez charger au maximum 615 kg (1356 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2100, et sur une remorque non freinée, il est de 750 kg (4630/1653 lbs).
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/trunk_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 31.07.2024 et les livraisons devraient commencer en December 2024.<div class="mt-3 mb-3">

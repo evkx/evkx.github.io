@@ -11,7 +11,7 @@ navicon: bi-car-front
 
 
 
-{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/main_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249"  >}}
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/main_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="1999"  >}}
 
 Hemos separado nuestro artículo Audi S6 Avant e-tron en secciones. Si desea esperar para leer el artículo completo, haga clic en los enlaces a continuación para acceder a las diferentes áreas. También tenemos una descripción general de las [especificaciones completas](specifications/), una [galería de imágenes](gallery/), información detallada sobre [rendimiento de carga](chargingcurve/) y algunas [reseñas en línea](reviews/). Nuestras secciones:
 
@@ -44,6 +44,10 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 ### Cargador a bordo
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 37 minutos usando un cargador en casa. Para una carga más rápida, puedes optar por un cargador a bordo opcional que soporta hasta 22 kW. Con esta mejora, puedes lograr una carga completa del 0 al 100% en solo unas 4 horas y 18 minutos en casa.
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/charging_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2250"  >}}
+
 
 ### Puerto de carga
 
@@ -111,12 +115,12 @@ Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, m
 
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
-Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. exterior.roof.optional.panoramic.PartialOpenFront.ElectrochromicMultipleLevels
+Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande Es espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio tiene una función electrocrómica que le permite combinar el vidrio en múltiples niveles para proteger contra el sol
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
 
-{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/exterior_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2250"  >}}
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/exterior_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="1999"  >}}
 
 
 {{<evkxdisplayaddarticle />}}
@@ -210,6 +214,10 @@ El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 cone
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Audi S6 Avant e-tron. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente. Además, las luces traseras estándar utilizan tecnología LED.
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/headlights_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="1999"  >}}
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Audi S6 Avant e-tron tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.

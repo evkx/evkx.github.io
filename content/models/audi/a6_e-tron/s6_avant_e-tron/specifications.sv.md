@@ -8,7 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
-{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/main_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249" >}}
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/main_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="1999" >}}
 EVKX.net vill ha de mest kompletta specifikationerna för Audi S6 Avant e-tron. Klicka på bilden ovan för [fullständig artikel](../), besök [bildgalleri](../gallery/) för hög upplösningsbilder av Audi S6 Avant e-tron, gå till [chargeinfo](../chargecurve/) för Audi S6 Avant e-tron med laddningskurva, se [extended range info](../rangeandconsumption/) för verkliga räckvidd.
 
 
