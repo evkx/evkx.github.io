@@ -448,7 +448,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				12,1 meter
+				12,3 meter
 			</td>
 		</tr>
 	</tbody>

@@ -108,7 +108,7 @@ También puedes elegir varias opciones de estilo para hacer que tu auto sea más
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Audi A6 Sportback e-tron performance, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-exterior.wheeloptions.staggered_large_narrow_midprofile
+- Neumáticos 225/55 en llantas de 19" delanteras y neumáticos 245/50 en llantas de 19" traseras
 - Neumáticos 235/45 en llantas de 20" delanteras y neumáticos 265/40 en llantas de 20" traseras
 - Neumáticos 235/40 en llantas de 21" delanteras y neumáticos 265/35 en llantas de 21" traseras
 

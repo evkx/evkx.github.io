@@ -448,7 +448,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				12,1 metros (476,4")
+				12,3 metros (484,3")
 			</td>
 		</tr>
 	</tbody>

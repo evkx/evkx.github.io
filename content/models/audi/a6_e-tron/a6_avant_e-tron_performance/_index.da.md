@@ -1,7 +1,7 @@
 ---
 title: Audi A6 Avant e-tron performance
 linktitle: "A6 Avant e-tron performance"
-description: "Audi A6 Avant e-tron performance er en fuldelektrisk premium sedan med en WLTP rækkevidde på op til 720 km (448 miles). EVKX.net har alle detaljerne."
+description: "Audi A6 Avant e-tron performance er en fuldelektrisk premium stationcar med en WLTP rækkevidde på op til 720 km (448 miles). EVKX.net har alle detaljerne."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -104,7 +104,7 @@ Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Audi A6 Avant e-tron performance, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-exterior.wheeloptions.staggered_large_narrow_midprofile
+- 225/55 dæk på 19" fælge foran og 245/50 dæk på 19" fælge bagpå
 - 235/45 dæk på 20" fælge foran og 265/40 dæk på 20" fælge bagpå
 - 235/40 dæk på 21" fælge foran og 265/35 dæk på 21" fælge bagpå
 

@@ -1,7 +1,7 @@
 ---
 title: Audi A6 Avant e-tron performance
 linktitle: "A6 Avant e-tron performance"
-description: "Audi A6 Avant e-tron performance is an all-electric premium sedan with a WLTP range of up to 720 km (448 miles). EVKX.net has all the details."
+description: "Audi A6 Avant e-tron performance is an all-electric premium station wagon with a WLTP range of up to 720 km (448 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -104,7 +104,7 @@ You can also choose several styling options to make your car more unique.
 
 You can select from multiple wheel options in different sizes on the Audi A6 Avant e-tron performance, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-exterior.wheeloptions.staggered_large_narrow_midprofile
+- 225/55 tires on 19" rims front and 245/50 tires on 19" rims rear
 - 235/45 tires on 20" rims front and 265/40 tires on 20" rims rear
 - 235/40 tires on 21" rims front and 265/35 tires on 21" rims rear
 

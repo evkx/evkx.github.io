@@ -1,7 +1,7 @@
 ---
 title: Audi A6 Avant e-tron performance
 linktitle: "A6 Avant e-tron performance"
-description: "Audi A6 Avant e-tron performance est une berline premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 720 km (448 miles). EVKX.net a tous les détails."
+description: "Audi A6 Avant e-tron performance est un break premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 720 km (448 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -104,7 +104,7 @@ Vous pouvez également choisir plusieurs options de style pour rendre votre voit
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Audi A6 Avant e-tron performance, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-exterior.wheeloptions.staggered_large_narrow_midprofile
+- Pneus 225/55 sur jantes de 19" à l'avant et pneus 245/50 sur jantes de 19" à l'arrière
 - Pneus 235/45 sur jantes de 20" à l'avant et pneus 265/40 sur jantes de 20" à l'arrière
 - Pneus 235/40 sur jantes de 21" à l'avant et pneus 265/35 sur jantes de 21" à l'arrière
 

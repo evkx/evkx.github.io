@@ -108,7 +108,7 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Audi A6 Sportback e-tron performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-exterior.wheeloptions.staggered_large_narrow_midprofile
+- 225/55 däck på 19" fälgar fram och 245/50 däck på 19" fälgar bak
 - 235/45 däck på 20" fälgar fram och 265/40 däck på 20" fälgar bak
 - 235/40 däck på 21" fälgar fram och 265/35 däck på 21" fälgar bak
 

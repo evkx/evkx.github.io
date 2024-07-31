@@ -448,7 +448,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				12,1 meter
+				12,3 meter
 			</td>
 		</tr>
 	</tbody>

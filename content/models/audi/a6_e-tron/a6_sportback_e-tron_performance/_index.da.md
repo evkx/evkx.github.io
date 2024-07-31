@@ -108,7 +108,7 @@ Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Audi A6 Sportback e-tron performance, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-exterior.wheeloptions.staggered_large_narrow_midprofile
+- 225/55 dæk på 19" fælge foran og 245/50 dæk på 19" fælge bagpå
 - 235/45 dæk på 20" fælge foran og 265/40 dæk på 20" fælge bagpå
 - 235/40 dæk på 21" fælge foran og 265/35 dæk på 21" fælge bagpå
 

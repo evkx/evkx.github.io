@@ -424,7 +424,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				12,1 mètre (476,4")
+				12,3 mètre (484,3")
 			</td>
 		</tr>
 	</tbody>

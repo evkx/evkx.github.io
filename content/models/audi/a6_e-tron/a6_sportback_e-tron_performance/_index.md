@@ -108,7 +108,7 @@ You can also choose several styling options to make your car more unique.
 
 You can select from multiple wheel options in different sizes on the Audi A6 Sportback e-tron performance, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-exterior.wheeloptions.staggered_large_narrow_midprofile
+- 225/55 tires on 19" rims front and 245/50 tires on 19" rims rear
 - 235/45 tires on 20" rims front and 265/40 tires on 20" rims rear
 - 235/40 tires on 21" rims front and 265/35 tires on 21" rims rear
 
