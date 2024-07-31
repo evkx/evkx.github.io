@@ -39,15 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi A6 Sportback e-tr
 				Vridmoment
 			</td>
 			<td>
-				855 nm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Vridmoment med boost
-			</td>
-			<td>
-				855 Nm
+				565 nm
 			</td>
 		</tr>
 		<tr>
@@ -60,7 +52,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi A6 Sportback e-tr
 		</tr>
 		<tr>
 			<td>
-				0-100 km/h (0-62 mph) boost
+				0-100 km/h (0-62 mph)
 			</td>
 			<td>
 				5,4 s
@@ -91,7 +83,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				WLTP-räckvidd för grundläggande trim
 			</td>
 			<td>
-				750 km
+				756 km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +91,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Basic trim WLTP-förbrukning
 			</td>
 			<td>
-				12,7 kWh/100km
+				12,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +107,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-räckvidd
 			</td>
 			<td>
-				685 km
+				673 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				13,9 kWh/100km
+				14,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +400,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Frontalområde
 			</td>
 			<td>
-				2,73
+				2,46
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +424,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Vändcirkel
 			</td>
 			<td>
-				12,1 meter
+				12,3 meter
 			</td>
 		</tr>
 	</tbody>
@@ -457,7 +449,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tomvikt
 			</td>
 			<td>
-				2350 kg
+				2175 kg
 			</td>
 		</tr>
 		<tr>
@@ -465,7 +457,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Tillåten totalvikt
 			</td>
 			<td>
-				2965 kg
+				2750 kg
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +465,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Max nyttolast inklusive förarens vikt
 			</td>
 			<td>
-				615 kg
+				575 kg
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +497,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Storlek frunk
 			</td>
 			<td>
-				64 liter
+				27 liter
 			</td>
 		</tr>
 		<tr>
@@ -539,7 +531,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 Modellen erbjuder 2 fjädringsvarianter
 
-### Sport
+### Standard
 
 <table class="table table-striped border">
 	<thead>
@@ -598,7 +590,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Max markfrigång
 			</td>
 			<td>
-				134 mm
+				143 mm
 			</td>
 		</tr>
 		<tr>
@@ -606,7 +598,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Minsta markfrigång
 			</td>
 			<td>
-				134 mm
+				143 mm
 			</td>
 		</tr>
 		<tr>
@@ -727,7 +719,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Minsta markfrigång
 			</td>
 			<td>
-				125 mm
+				105 mm
 			</td>
 		</tr>
 		<tr>

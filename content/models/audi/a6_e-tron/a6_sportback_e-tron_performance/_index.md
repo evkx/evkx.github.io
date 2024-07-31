@@ -1,7 +1,7 @@
 ---
 title: Audi A6 Sportback e-tron performance
 linktitle: "A6 Sportback e-tron performance"
-description: "Audi A6 Sportback e-tron performance is an all-electric premium sedan with a WLTP range of up to 750 km (466 miles). EVKX.net has all the details."
+description: "Audi A6 Sportback e-tron performance is an all-electric premium sedan with a WLTP range of up to 756 km (470 miles). EVKX.net has all the details."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,13 +29,13 @@ We've divided the article into specific sections for easier navigation. Click th
 
 ## Performance
 
-The Audi A6 Sportback e-tron performance has a maximum power of 270 KW (367 hp/362 bhp) The torque is 855 nm with overboost and 855 without overboost. It performs the 0-100km/h sprint (0-62mph) in 5.4 seconds with overboost and  seconds without overboost and has a top speed of 210 km/h (131 mph).
+The Audi A6 Sportback e-tron performance delivers a solid performance with a maximum power of 270 kW (367 hp / 362 bhp) and a total torque of 565 Nm (417 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.4 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
 
 ## Battery, range, and charging
 
 The high-capacity battery has a gross capacity of 100 kWh and a net usable capacity of 94,9 kWh, providing an 5,1 kWh buffer (5.1%) for battery protection. Operating at a nominal voltage of 662 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
 
-Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 750 to 685 km (466-426 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.7 kWh/100 km for the base model and 13.9 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
+Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonized Light Vehicles Test Procedure) standard, the vehicle's range varies between 756 to 673 km (470-418 miles), depending on the specific configuration and options, such as wheel size. Larger wheels, for instance, can increase energy consumption and subsequently reduce the overall range. The vehicle's energy consumption is rated at 12.6 kWh/100 km for the base model and 14.1 kWh/100 km for the top-tier model under the WLTP test cycle. For more details about the range, see real-world data and range listing on this model’s [range and consumption](rangeandconsumption/) page.
 
 The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 59 minutes, while a more typical charging scenario from 10% to 80% takes 20 minutes with an average charging speed at 196 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 64%. This results in an effective charging speed, including time lost, of 171 kW, with each charging session taking about 21 minutes and 56 seconds.. This efficient charging capability makes the Audi A6 Sportback e-tron performance a convenient option for long-distance travel.
 
@@ -64,9 +64,9 @@ Audi A6 Sportback e-tron performance has a rear-wheel drive system supported by 
 
 ### Suspension
 
-The Sport suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 134 mm.
+The Standard suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 143 mm.
 
-You can order Audi A6 Sportback e-tron performance with an alternative Adaptive Air Suspension Sport suspension. The front suspension and rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 125 mm, and the maximum is 145 mm.
+You can order Audi A6 Sportback e-tron performance with an alternative Adaptive Air Suspension Sport suspension. The front suspension and rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 105 mm, and the maximum is 145 mm.
 
 For easier loading, you can lower the air suspension from the rear
 
@@ -89,7 +89,7 @@ The Audi A6 Sportback e-tron performance lets the user select different [drive m
 
 ### Brakes
 
-The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 350mm.
+The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350mm, and the rear discs are 350mm.
 
 
 ### Regenerative braking
@@ -108,8 +108,9 @@ You can also choose several styling options to make your car more unique.
 
 You can select from multiple wheel options in different sizes on the Audi A6 Sportback e-tron performance, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
-- 255/50 tires on 20" rims front and 285/45 tires on 20" rims rear
-- 255/45 tires on 21" rims front and 285/40 tires on 21" rims rear
+exterior.wheeloptions.staggered_large_narrow_midprofile
+- 235/45 tires on 20" rims front and 265/40 tires on 20" rims rear
+- 235/40 tires on 21" rims front and 265/35 tires on 21" rims rear
 
 More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
 
@@ -157,6 +158,10 @@ The following functionalities are available on the **Sport Plus** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/frontseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
+
+
 #### Second-row seat
 
 
@@ -164,6 +169,10 @@ The following functionalities are available on the **Sport Plus** seat.
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/secondrowseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
+
 
 There is only one type of steering wheel available.
 
@@ -260,9 +269,13 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 514 liters. With the rear seat down, it is 1517 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 64 liters (2.3 CU FT). The maxium weight of the car is 2965 kg (6537 lbs), and with the base weight of 2350 kg (5181 lbs), you can max load 615 kg (1356 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 514 liters. With the rear seat down, it is 1517 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 27 liters (1.0 CU FT). The maxium weight of the car is 2750 kg (6063 lbs), and with the base weight of 2175 kg (4795 lbs), you can max load 575 kg (1268 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2400, and on unbraked, it is 750 kg (5291/1653 lbs).
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
+
 ### Availability & Pricing
 
 This model had a world premiere on 31.07.2024, and deliveries is expected to start in December 2024.<div class="mt-3 mb-3">

@@ -29,13 +29,13 @@ Vi har opdelt vores Audi A6 Avant e-tron performance artikel i sektioner. Hvis d
 
 ## Ydeevne
 
-Audi A6 Avant e-tron performance har en maksimal effekt på 270 KW (367 hk/362 hk). Momentet er 855 nm med overboost og 855 uden overboost. Den udfører sprinten 0-100 km/t (0-62 mph) på 5,4 sekunder med overboost og  sekunder uden overboost. Tophastigheden er 210 km/t.
+Audi A6 Avant e-tron performance leverer en solid præstation med en maksimal effekt på 270 kW (367 hk) og et totalt drejningsmoment på 565 Nm. Den kan accelerere fra 0 til 100 km/t på 5,4 sekunder og når en topfart på 210 km/t, hvilket gør den konkurrencedygtig i sin klasse.
 
 ## Batteri, rækkevidde og opladning
 
 Det højkapacitetsbatteri har en bruttokapacitet på 100 kWh og en nettoanvendelig kapacitet på 94,9 kWh, hvilket giver en buffer på 5,1 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 662 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
 
-Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 720 og 650 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 13,2 kWh/100 km for basismodellen og 14,6 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
+Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierer køretøjets rækkevidde mellem 720 og 627 km, afhængigt af specifikke konfigurationer og muligheder, såsom hjulstørrelse. Større hjul kan for eksempel øge energiforbruget og dermed reducere den samlede rækkevidde. Køretøjets energiforbrug er vurderet til 13,2 kWh/100 km for basismodellen og 15,1 kWh/100 km for topmodellen under WLTP testcyklussen. For mere detaljerede virkelige data og rækkeviddeoplysninger, henvises til modellens dedikerede [rækkevidde- og forbrugsside.](rangeandconsumption/)
 
 Den maksimale DC-opladningshastighed er 270kW. En fuld opladning fra 0 - 100 % ville tage 59 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 20 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 64%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 171kW. Hver opladningssession ville tage 21 minutter og 56 sekunder. Denne effektive opladningskapacitet gør Audi A6 Avant e-tron performance til et praktisk valg til langdistancerejser.
 
@@ -60,9 +60,9 @@ Audi A6 Avant e-tron performance har et baghjulstræksystem, der understøttes a
 
 ### Hjulophæng
 
-Sport affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 134 mm.
+Standard affjedringen har stålfjedre med en fast højde, men du kan justere dæmpningen, så den passer til din kørestil eller vejforhold. Mindste frihøjde med denne affjedring er 143 mm.
 
-Du kan bestille Audi A6 Avant e-tron performance med en alternativ Adaptive Air Suspension Sport hjulophæng. Forhjulsophænget og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 125 mm, og maksimum er 145 mm.
+Du kan bestille Audi A6 Avant e-tron performance med en alternativ Adaptive Air Suspension Sport hjulophæng. Forhjulsophænget og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger luftaffjedring og hydrauliske dæmpere. Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan justeres manuelt og automatisk. Mindste frihøjde er 105 mm, og maksimum er 145 mm.
 
 For lettere lastning kan luftaffjedringen sænkes ved hjælp af betjeningsknapper i bagagerummet.
 
@@ -85,7 +85,7 @@ Audi A6 Avant e-tron performance lader brugeren vælge forskellige [drive modes]
 
 ### Bremser
 
-Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 375mm, og de bagerste skiver er 350mm.
+Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 350mm, og de bagerste skiver er 350mm.
 
 
 ### Regenerativ bremsning
@@ -104,8 +104,9 @@ Du kan også vælge flere stylingmuligheder for at gøre din bil mere unik.
 
 Du kan vælge mellem flere hjul i forskellige størrelser på Audi A6 Avant e-tron performance, så du kan tilpasse din bil efter din stil og dine kørselspræferencer.
 
-- 255/50 dæk på 20" fælge foran og 285/45 dæk på 20" fælge bagpå
-- 255/45 dæk på 21" fælge foran og 285/40 dæk på 21" fælge bagpå
+exterior.wheeloptions.staggered_large_narrow_midprofile
+- 235/45 dæk på 20" fælge foran og 265/40 dæk på 20" fælge bagpå
+- 235/40 dæk på 21" fælge foran og 265/35 dæk på 21" fælge bagpå
 
 Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
 

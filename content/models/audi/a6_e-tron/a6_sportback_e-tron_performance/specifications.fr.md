@@ -39,15 +39,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi A6 S
 				Couple de sortie électrique
 			</td>
 			<td>
-				855 nm (631 lb-ft)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Augmentation de la sortie de couple électrique
-			</td>
-			<td>
-				855 Nm
+				565 nm (417 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -60,7 +52,7 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi A6 S
 		</tr>
 		<tr>
 			<td>
-				Augmentation de 0 à 100 km/h (0 à 62 mph)
+				0-100km/h (0-62 mph)
 			</td>
 			<td>
 				5,4 s
@@ -91,7 +83,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP de finition de base
 			</td>
 			<td>
-				750 km
+				756 km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +91,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP du trim de base
 			</td>
 			<td>
-				12,7 kWh/100km
+				12,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +107,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP haut de gamme
 			</td>
 			<td>
-				685 km
+				673 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +115,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de la garniture supérieure
 			</td>
 			<td>
-				13,9 kWh/100km
+				14,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +400,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Zone frontale
 			</td>
 			<td>
-				2,73
+				2,46
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +424,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Cercle de tournage
 			</td>
 			<td>
-				12,1 mètre (476,4")
+				12,3 mètre (484,3")
 			</td>
 		</tr>
 	</tbody>
@@ -457,7 +449,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2350 kg (5181 lbs)
+				2175 kg (4795 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -465,7 +457,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids total maximum
 			</td>
 			<td>
-				2965 kg (6537 lbs)
+				2750 kg (6063 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +465,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				615 kg (1356 lbs)
+				575 kg (1268 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +497,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Taille du coffre
 			</td>
 			<td>
-				64 litre (2 pieds cubes)
+				27 litre (1 pieds cubes)
 			</td>
 		</tr>
 		<tr>
@@ -539,7 +531,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 
 Le modèle propose 2 variantes de suspension
 
-### Sport
+### Standard
 
 <table class="table table-striped border">
 	<thead>
@@ -598,7 +590,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol maximale
 			</td>
 			<td>
-				134 mm (5,3")
+				143 mm (5,6")
 			</td>
 		</tr>
 		<tr>
@@ -606,7 +598,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol minimale
 			</td>
 			<td>
-				134 mm (5,3")
+				143 mm (5,6")
 			</td>
 		</tr>
 		<tr>
@@ -727,7 +719,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol minimale
 			</td>
 			<td>
-				125 mm (4,9")
+				105 mm (4,1")
 			</td>
 		</tr>
 		<tr>

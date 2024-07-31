@@ -39,15 +39,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi A6 Avant e-tr
 				Elektrisk momentudgang
 			</td>
 			<td>
-				855 nm (631 lb-ft)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Forøgelse af elektrisk drejningsmomentoutput
-			</td>
-			<td>
-				855 Nm
+				565 nm (417 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -60,7 +52,7 @@ EVKX.net søger at have de mest komplette specifikationer for Audi A6 Avant e-tr
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph) boost
+				0-100 km/t (0-62 mph)
 			</td>
 			<td>
 				5,4 s
@@ -115,7 +107,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-område
 			</td>
 			<td>
-				650 km
+				627 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +115,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 				Toptrim WLTP-forbrug
 			</td>
 			<td>
-				14,6 kWh/100km
+				15,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -539,7 +531,7 @@ Nedenfor ser du den officielle rækkeviddeinformation. Besøg vores [udvidede r�
 
 Modellen tilbyder 2 affjedringsvarianter
 
-### Sport
+### Standard
 
 <table class="table table-striped border">
 	<thead>
@@ -598,7 +590,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Maks frihøjde
 			</td>
 			<td>
-				134 mm (5,3")
+				143 mm (5,6")
 			</td>
 		</tr>
 		<tr>
@@ -606,7 +598,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				134 mm (5,3")
+				143 mm (5,6")
 			</td>
 		</tr>
 		<tr>
@@ -727,7 +719,7 @@ Modellen tilbyder 2 affjedringsvarianter
 				Minimum frihøjde
 			</td>
 			<td>
-				125 mm (4,9")
+				105 mm (4,1")
 			</td>
 		</tr>
 		<tr>

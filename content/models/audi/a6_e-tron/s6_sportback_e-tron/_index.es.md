@@ -1,7 +1,7 @@
 ---
 title: Audi S6 Sportback e-tron
 linktitle: "S6 Sportback e-tron"
-description: "Audi S6 Sportback e-tron es un sedán premium totalmente eléctrico con un WLTP alcance de hasta 640 km (398 millas). EVKX.net tiene todos los detalles."
+description: "Audi S6 Sportback e-tron es un sedán premium totalmente eléctrico con un WLTP alcance de hasta 675 km (420 millas). EVKX.net tiene todos los detalles."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -35,7 +35,7 @@ Con overboost, el Audi S6 Sportback e-tron alcanza una potencia máxima de 405 k
 
 La batería de alta capacidad tiene una capacidad bruta de 100 kWh y una capacidad neta utilizable de 94,9 kWh, proporcionando un buffer de 5,1 kWh (5,1%) para la protección de la batería. Operando a un voltaje nominal de 662 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 640 y 585 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 14,8 kWh/100 km para el modelo base y 16,2 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 675 y 638 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 14,1 kWh/100 km para el modelo base y 14,9 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 270kW. Una carga completa del 0 al 100 % tardaría 59 minutos, mientras que un escenario más común del 10 al 80 % tardaría 20 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 64%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 171kW. Cada sesión de carga tardaría 21 minutos y 56 segundos. Esta capacidad de carga eficiente hace que el Audi S6 Sportback e-tron sea una opción conveniente para viajes de larga distancia.
 
@@ -60,9 +60,7 @@ Audi S6 Sportback e-tron tiene un sistema de tracción total sostenido por dos m
 
 ### Suspensión
 
-La suspensión Sport tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 134 mm.
-
-Puedes pedir Audi S6 Sportback e-tron con una suspensión alternativa Adaptive Air Suspension Sport. La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 125 mm y la máxima es 145 mm.
+La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 105 mm y la máxima es 145 mm.
 
 Para facilitar la carga, la suspensión neumática puede bajarse utilizando los controles en el maletero.
 
@@ -85,7 +83,7 @@ El Audi S6 Sportback e-tron permite al usuario seleccionar diferentes [modos de 
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 375 mm y los discos traseros de 350 mm.
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 400 mm y los discos traseros de 350 mm.
 
 
 ### Frenado regenerativo
@@ -104,8 +102,8 @@ También puedes elegir varias opciones de estilo para hacer que tu auto sea más
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Audi S6 Sportback e-tron, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-- Neumáticos 255/50 en llantas de 20" delanteras y neumáticos 285/45 en llantas de 20" traseras
-- Neumáticos 255/45 en llantas de 21" delanteras y neumáticos 285/40 en llantas de 21" traseras
+- Neumáticos 235/45 en llantas de 20" delanteras y neumáticos 265/40 en llantas de 20" traseras
+- Neumáticos 235/40 en llantas de 21" delanteras y neumáticos 265/35 en llantas de 21" traseras
 
 Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
 
@@ -260,7 +258,7 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 514 litros. Con el asiento trasero abatido, es de 1517 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 27 litros (1,0 CU FT). El peso máximo del automóvil es 2965 kg (6537 lbs), y con el peso base de 2350 kg (5181 lbs), puedes cargar como máximo 615 kg (1356 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 514 litros. Con el asiento trasero abatido, es de 1517 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 27 litros (1,0 CU FT). El peso máximo del automóvil es 2965 kg (6537 lbs), y con el peso base de 2325 kg (5126 lbs), puedes cargar como máximo 640 kg (1411 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2100, y sin freno, es de 750 kg (4630/1653 lbs).
 

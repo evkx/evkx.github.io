@@ -39,15 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Audi A6 Sportback 
 				Salida de par eléctrico
 			</td>
 			<td>
-				855 nm (631 pies-libra)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Aumento de la salida de par eléctrico
-			</td>
-			<td>
-				855 Nm
+				565 nm (417 pies-libra)
 			</td>
 		</tr>
 		<tr>
@@ -60,7 +52,7 @@ EVKX.net busca tener las especificaciones más completas para Audi A6 Sportback 
 		</tr>
 		<tr>
 			<td>
-				Aumento de 0-100 km/h (0-62 mph)
+				0-100 km/h (0-62 mph)
 			</td>
 			<td>
 				5,4 s
@@ -91,7 +83,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de equipamiento básico
 			</td>
 			<td>
-				750 km
+				756 km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +91,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico
 			</td>
 			<td>
-				12,7 kWh/100km
+				12,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +107,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de acabado superior
 			</td>
 			<td>
-				685 km
+				673 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +115,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				13,9 kWh/100km
+				14,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +400,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Área frontal
 			</td>
 			<td>
-				2,73
+				2,46
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +424,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				12,1 metros (476,4")
+				12,3 metros (484,3")
 			</td>
 		</tr>
 	</tbody>
@@ -457,7 +449,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2350 kg (5181 lbs)
+				2175 kg (4795 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -465,7 +457,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2965 kg (6537 lbs)
+				2750 kg (6063 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +465,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				615 kg (1356 lbs)
+				575 kg (1268 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +497,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tamaño frunk
 			</td>
 			<td>
-				64 litro (2 pies cúbicos)
+				27 litro (1 pies cúbicos)
 			</td>
 		</tr>
 		<tr>
@@ -539,7 +531,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 El modelo ofrece 2 variantes de suspensión
 
-### Sport
+### Standard
 
 <table class="table table-striped border">
 	<thead>
@@ -598,7 +590,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia máxima al suelo
 			</td>
 			<td>
-				134 mm (5,3")
+				143 mm (5,6")
 			</td>
 		</tr>
 		<tr>
@@ -606,7 +598,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				134 mm (5,3")
+				143 mm (5,6")
 			</td>
 		</tr>
 		<tr>
@@ -727,7 +719,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				125 mm (4,9")
+				105 mm (4,1")
 			</td>
 		</tr>
 		<tr>

@@ -68,6 +68,14 @@ EVKX.net busca tener las especificaciones más completas para Audi S6 Sportback 
 		</tr>
 		<tr>
 			<td>
+				0-100 km/h (0-62 mph)
+			</td>
+			<td>
+				4,1 s
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Aumento de 0-100 km/h (0-62 mph)
 			</td>
 			<td>
@@ -99,7 +107,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de equipamiento básico
 			</td>
 			<td>
-				640 km
+				675 km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +115,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico
 			</td>
 			<td>
-				14,8 kWh/100km
+				14,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +131,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de acabado superior
 			</td>
 			<td>
-				585 km
+				638 km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +139,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				16,2 kWh/100km
+				14,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +147,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior con pérdida de carga
 			</td>
 			<td>
-				17,4 kwh/100km
+				16,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -465,7 +473,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2350 kg (5181 lbs)
+				2325 kg (5126 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -481,7 +489,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				615 kg (1356 lbs)
+				640 kg (1411 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -544,131 +552,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 </table>
 
 ## Suspensión
-
-El modelo ofrece 2 variantes de suspensión
-
-### Sport
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Especificación
-			</th>
-			<th>
-				Valor
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Suspensión adaptativa
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Amortiguación delantera ajustable
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Amortiguación trasera ajustable
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Frente regulable en altura
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Altura trasera ajustable
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				distancia máxima al suelo
-			</td>
-			<td>
-				134 mm (5,3")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				distancia mínima al suelo
-			</td>
-			<td>
-				134 mm (5,3")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de amortiguador delantero
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de amortiguador trasero
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Delantero tipo resorte
-			</td>
-			<td>
-				Resorte helicoidal
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Trasero tipo resorte
-			</td>
-			<td>
-				Resorte helicoidal
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de suspensión delantera
-			</td>
-			<td>
-				Multilink
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de suspensión trasera
-			</td>
-			<td>
-				Multienlace
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Adaptive Air Suspension Sport
 
 <table class="table table-striped border">
 	<thead>
@@ -735,7 +618,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				125 mm (4,9")
+				105 mm (4,1")
 			</td>
 		</tr>
 		<tr>

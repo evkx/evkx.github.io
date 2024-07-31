@@ -68,6 +68,14 @@ EVKX.net seeks to have the most complete specifications for Audi S6 Avant e-tron
 		</tr>
 		<tr>
 			<td>
+				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				4,1 s
+			</td>
+		</tr>
+		<tr>
+			<td>
 				0-100km/h (0-62 mph) boost
 			</td>
 			<td>
@@ -99,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP range</a>
 			</td>
 			<td>
-				640 km
+				647 km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Basic trim WLTP consumption</a>
 			</td>
 			<td>
-				14,8 kWh/100km
+				14,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +131,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
 			</td>
 			<td>
-				585 km
+				609 km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +139,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				16,2 kWh/100km
+				15,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +400,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Width including mirrors
 			</td>
 			<td>
-				2193 mm (86,3")
+				2137 mm (84,1")
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +416,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Drag coefficient
 			</td>
 			<td>
-				0,24
+				0,26
 			</td>
 		</tr>
 		<tr>
@@ -416,7 +424,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Frontal area
 			</td>
 			<td>
-				2,73
+				2,48
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +432,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Overhang angle front
 			</td>
 			<td>
-				16,3
+				13,5
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +440,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Overhang angle rear
 			</td>
 			<td>
-				23,7
+				16,6
 			</td>
 		</tr>
 		<tr>
@@ -440,7 +448,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Turning circle
 			</td>
 			<td>
-				12,1 meter (476,4")
+				12,3 meter (484,3")
 			</td>
 		</tr>
 	</tbody>
@@ -465,7 +473,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2350 kg (5181 lbs)
+				2335 kg (5148 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +481,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2965 kg (6537 lbs)
+				2880 kg (6349 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -481,7 +489,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				615 kg (1356 lbs)
+				545 kg (1202 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -544,131 +552,6 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 </table>
 
 ## Suspension
-
-The model offers 2 suspension variants
-
-### Sport
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spec
-			</th>
-			<th>
-				Value
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adaptive suspension</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable damping front</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable damping rear</a>
-			</td>
-			<td>
-				Yes, standard equipment
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable height front</a>
-			</td>
-			<td>
-				Not available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Adjustable height rear</a>
-			</td>
-			<td>
-				Not available
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Max ground clearance</a>
-			</td>
-			<td>
-				134 mm (5,3")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Minimum ground clearance</a>
-			</td>
-			<td>
-				134 mm (5,3")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Damper type front</a>
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Damper type rear</a>
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Spring type front</a>
-			</td>
-			<td>
-				Coil Spring
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Spring type rear</a>
-			</td>
-			<td>
-				Coil Spring
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Suspension type front</a>
-			</td>
-			<td>
-				Multilink
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="/technology/suspension/">Suspension type rear</a>
-			</td>
-			<td>
-				Multi-link
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Adaptive Air Suspension Sport
 
 <table class="table table-striped border">
 	<thead>
@@ -735,7 +618,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				125 mm (4,9")
+				105 mm (4,1")
 			</td>
 		</tr>
 		<tr>

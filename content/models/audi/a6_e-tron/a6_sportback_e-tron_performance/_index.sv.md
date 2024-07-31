@@ -1,7 +1,7 @@
 ---
 title: Audi A6 Sportback e-tron performance
 linktitle: "A6 Sportback e-tron performance"
-description: "Audi A6 Sportback e-tron performance är en helelektrisk premium sedan med en WLTP räckvidd på upp till 750 km. EVKX.net har alla detaljer."
+description: "Audi A6 Sportback e-tron performance är en helelektrisk premium sedan med en WLTP räckvidd på upp till 756 km. EVKX.net har alla detaljer."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Audi A6 Sportback e-tron performance i avsni
 
 ## Prestanda
 
-Audi A6 Sportback e-tron performance har en maximal effekt på 270 KW (367hk). Vridmomentet är 855 Nm med överboost och 855 utan överboost. Den gör sprinten 0-100 km/h på 5,4 sekunder med överboost och  sekunder utan överboost. Topphastigheten är 210 km/h.
+Audi A6 Sportback e-tron performance levererar en solid prestanda med en maximal effekt på 270 kW (367 hk) och ett totalt vridmoment på 565 Nm. Den kan accelerera från 0 till 100 km/h på 5,4 sekunder och når en topphastighet på 210 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 
 Högkapacitetsbatteriet har en bruttokapacitet på 100 kWh och en nettoanvändbar kapacitet på 94,9 kWh, vilket ger en buffert på 5,1 kWh (5,1%) för batteriskydd. Vid en nominell spänning på 662 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 750 och 685 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 12,7 kWh/100 km för basmodellen och 13,9 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 756 och 673 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 12,6 kWh/100 km för basmodellen och 14,1 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 59 minuter, medan ett vanligare scenario på 10-80 % tar 20 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 64%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 171kW. Varje laddningssession tar 21 minuter och 56 sekunder. Denna effektiva laddningskapacitet gör Audi A6 Sportback e-tron performance till ett bekvämt alternativ för långdistansresor.
 
@@ -64,9 +64,9 @@ Audi A6 Sportback e-tron performance har ett bakhjulsdriftssystem som stöds av 
 
 ### Hjulupphängning
 
-Sport-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 134 mm.
+Standard-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 143 mm.
 
-Du kan beställa Audi A6 Sportback e-tron performance med en alternativ Adaptive Air Suspension Sport-upphängning. Fjädringen fram och bak är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 125 mm, och maximal är 145 mm.
+Du kan beställa Audi A6 Sportback e-tron performance med en alternativ Adaptive Air Suspension Sport-upphängning. Fjädringen fram och bak är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 105 mm, och maximal är 145 mm.
 
 För enklare lastning kan luftfjädringen sänkas med hjälp av kontroller i bagageutrymmet
 
@@ -89,7 +89,7 @@ Audi A6 Sportback e-tron performance låter användaren välja olika [drivemodes
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 375mm och de bakre skivorna är 350mm.
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 350mm och de bakre skivorna är 350mm.
 
 
 ### Regenerativ bromsning
@@ -108,8 +108,9 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Audi A6 Sportback e-tron performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-- 255/50 däck på 20" fälgar fram och 285/45 däck på 20" fälgar bak
-- 255/45 däck på 21" fälgar fram och 285/40 däck på 21" fälgar bak
+exterior.wheeloptions.staggered_large_narrow_midprofile
+- 235/45 däck på 20" fälgar fram och 265/40 däck på 20" fälgar bak
+- 235/40 däck på 21" fälgar fram och 265/35 däck på 21" fälgar bak
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
@@ -157,6 +158,10 @@ Följande funktioner är tillgängliga på **Sport Plus** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/frontseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
+
+
 #### Säten på andra raden
 
 
@@ -164,6 +169,10 @@ Följande funktioner är tillgängliga på **Sport Plus** sätet.
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/secondrowseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
+
 
 Det finns bara en typ av ratt tillgänglig.
 
@@ -260,9 +269,13 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 514 liter. Med baksätet nedfällt är det 1517 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 64 liter. Bilens maximala vikt är 2965 kg, och med basvikten på 2350 kg kan du lasta maximalt 615 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 514 liter. Med baksätet nedfällt är det 1517 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 27 liter. Bilens maximala vikt är 2750 kg, och med basvikten på 2175 kg kan du lasta maximalt 575 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2400, och på en obromsad är den 750 kg.
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
+
 ### Tillgänglighet och pris
 
 Denna modell hade världspremiär 31.07.2024 och leveranser förväntas starta om December 2024.<div class="mt-3 mb-3">

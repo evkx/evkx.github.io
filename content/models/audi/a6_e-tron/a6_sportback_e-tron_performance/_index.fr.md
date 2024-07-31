@@ -1,7 +1,7 @@
 ---
 title: Audi A6 Sportback e-tron performance
 linktitle: "A6 Sportback e-tron performance"
-description: "Audi A6 Sportback e-tron performance est une berline premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 750 km (466 miles). EVKX.net a tous les détails."
+description: "Audi A6 Sportback e-tron performance est une berline premium entièrement électrique avec une autonomie de WLTP allant jusqu'à 756 km (470 miles). EVKX.net a tous les détails."
 weight: 10
 hidden: true
 shownavtabs: true
@@ -29,13 +29,13 @@ Nous avons séparé notre article Audi A6 Sportback e-tron performance en sectio
 
 ## Performances
 
-Le Audi A6 Sportback e-tron performance a une puissance maximale de 270 KW (367 ch/362 ch). Le couple est de 855 nm avec overboost et de 855 sans overboost. Il effectue le sprint de 0 à 100 km/h (0 à 62 mph) en 5,4 secondes avec overboost et  secondes sans overboost. La vitesse maximale est de 210 km/h.
+La Audi A6 Sportback e-tron performance offre des performances solides avec une puissance maximale de 270 kW (367 ch) et un couple total de 565 Nm. Elle peut accélérer de 0 à 100 km/h en 5,4 secondes et atteindre une vitesse maximale de 210 km/h, ce qui la rend compétitive dans sa catégorie.
 
 ## Batterie, autonomie et charge
 
 La batterie haute capacité a une capacité brute de 100 kWh et une capacité nette utilisable de 94,9 kWh, offrant une réserve de 5,1 kWh (5,1%) pour la protection de la batterie. Fonctionnant à une tension nominale de 662 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
 
-Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 750 et 685 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 12,7 kWh/100 km pour le modèle de base et à 13,9 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
+Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), l'autonomie du véhicule varie entre 756 et 673 km, en fonction des configurations spécifiques et des options telles que la taille des roues. Des roues plus grandes, par exemple, peuvent augmenter la consommation d'énergie et réduire l'autonomie globale. La consommation d'énergie du véhicule est évaluée à 12,6 kWh/100 km pour le modèle de base et à 14,1 kWh/100 km pour le modèle haut de gamme selon le cycle de test WLTP. Pour des données réelles plus détaillées et des informations sur l'autonomie, veuillez consulter la page dédiée à [l'autonomie et à la consommation de ce modèle.](autonomie et consommation/)
 
 La vitesse de charge DC maximale est de 270kW. Une charge complète de 0 à 100 % prendrait 59 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 20 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 64 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 171kW. Chaque session de charge prendrait 21 minutes et 56 secondes. Cette capacité de charge efficace fait de l'Audi A6 Sportback e-tron performance une option pratique pour les voyages longue distance.
 
@@ -64,9 +64,9 @@ Audi A6 Sportback e-tron performance dispose d'un système de propulsion arrièr
 
 ### Suspension
 
-La suspension Sport est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 134 mm.
+La suspension Standard est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 143 mm.
 
-Vous pouvez commander Audi A6 Sportback e-tron performance avec une suspension alternative Adaptive Air Suspension Sport. La suspension avant et la suspension arrière sont [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 125 mm et la garde au sol maximale est de 145 mm.
+Vous pouvez commander Audi A6 Sportback e-tron performance avec une suspension alternative Adaptive Air Suspension Sport. La suspension avant et la suspension arrière sont [Multilink](../../../../technology/suspension/#multilink). Elle utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 105 mm et la garde au sol maximale est de 145 mm.
 
 Pour faciliter le chargement, la suspension pneumatique peut être abaissée à l'aide des commandes dans le coffre.
 
@@ -89,7 +89,7 @@ Le Audi A6 Sportback e-tron performance permet à l'utilisateur de sélectionner
 
 ### Freins
 
-Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 375 mm et les disques arrière mesurent 350 mm.
+Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 350 mm et les disques arrière mesurent 350 mm.
 
 
 ### Freinage régénératif
@@ -108,8 +108,9 @@ Vous pouvez également choisir plusieurs options de style pour rendre votre voit
 
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Audi A6 Sportback e-tron performance, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
-- Pneus 255/50 sur jantes de 20" à l'avant et pneus 285/45 sur jantes de 20" à l'arrière
-- Pneus 255/45 sur jantes de 21" à l'avant et pneus 285/40 sur jantes de 21" à l'arrière
+exterior.wheeloptions.staggered_large_narrow_midprofile
+- Pneus 235/45 sur jantes de 20" à l'avant et pneus 265/40 sur jantes de 20" à l'arrière
+- Pneus 235/40 sur jantes de 21" à l'avant et pneus 265/35 sur jantes de 21" à l'arrière
 
 Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
 
@@ -157,6 +158,10 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/frontseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
+
+
 #### Siège de deuxième rangée
 
 
@@ -164,6 +169,10 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/secondrowseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
+
 
 Il n'y a qu'un seul type de volant disponible.
 
@@ -260,9 +269,13 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 514 litres. Avec la banquette arrière rabattue, elle est de 1517 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 64 litres (2,3 CU FT). Le poids maximum de la voiture est de 2965 kg (6537 lbs), et avec le poids de base de 2350 kg (5181 lbs), vous pouvez charger au maximum 615 kg (1356 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 514 litres. Avec la banquette arrière rabattue, elle est de 1517 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 27 litres (1,0 CU FT). Le poids maximum de la voiture est de 2750 kg (6063 lbs), et avec le poids de base de 2175 kg (4795 lbs), vous pouvez charger au maximum 575 kg (1268 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2400, et sur une remorque non freinée, il est de 750 kg (5291/1653 lbs).
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 31.07.2024 et les livraisons devraient commencer en December 2024.<div class="mt-3 mb-3">

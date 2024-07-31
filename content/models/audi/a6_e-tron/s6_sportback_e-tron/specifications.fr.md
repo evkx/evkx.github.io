@@ -68,6 +68,14 @@ EVKX.net cherche à avoir les spécifications les plus complètes pour Audi S6 S
 		</tr>
 		<tr>
 			<td>
+				0-100km/h (0-62 mph)
+			</td>
+			<td>
+				4,1 s
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Augmentation de 0 à 100 km/h (0 à 62 mph)
 			</td>
 			<td>
@@ -99,7 +107,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP de finition de base
 			</td>
 			<td>
-				640 km
+				675 km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +115,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP du trim de base
 			</td>
 			<td>
-				14,8 kWh/100km
+				14,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +131,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Gamme WLTP haut de gamme
 			</td>
 			<td>
-				585 km
+				638 km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +139,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de la garniture supérieure
 			</td>
 			<td>
-				16,2 kWh/100km
+				14,9 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -139,7 +147,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Consommation WLTP de garniture supérieure avec perte de charge
 			</td>
 			<td>
-				17,4 kwh/100km
+				16,7 kwh/100km
 			</td>
 		</tr>
 	</tbody>
@@ -465,7 +473,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Poids à vide
 			</td>
 			<td>
-				2350 kg (5181 lbs)
+				2325 kg (5126 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -481,7 +489,7 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 				Charge maximale incluant le poids du conducteur
 			</td>
 			<td>
-				615 kg (1356 lbs)
+				640 kg (1411 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -544,131 +552,6 @@ Ci-dessous, vous voyez les informations officielles sur la gamme. Visitez nos [i
 </table>
 
 ## Suspension
-
-Le modèle propose 2 variantes de suspension
-
-### Sport
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Spécification
-			</th>
-			<th>
-				Valeur
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Suspension adaptative
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Amortissement réglable avant
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Amortissement arrière réglable
-			</td>
-			<td>
-				Oui, équipement standard
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Avant réglable en hauteur
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Hauteur arrière réglable
-			</td>
-			<td>
-				Non disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Garde au sol maximale
-			</td>
-			<td>
-				134 mm (5,3")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Garde au sol minimale
-			</td>
-			<td>
-				134 mm (5,3")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type d'amortisseur avant
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type d'amortisseur arrière
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Avant à ressort
-			</td>
-			<td>
-				Ressort hélicoïdal
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type à ressort arrière
-			</td>
-			<td>
-				Ressort hélicoïdal
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type de suspension avant
-			</td>
-			<td>
-				Multilink
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Type de suspension arrière
-			</td>
-			<td>
-				Multi-liens
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Adaptive Air Suspension Sport
 
 <table class="table table-striped border">
 	<thead>
@@ -735,7 +618,7 @@ Le modèle propose 2 variantes de suspension
 				Garde au sol minimale
 			</td>
 			<td>
-				125 mm (4,9")
+				105 mm (4,1")
 			</td>
 		</tr>
 		<tr>

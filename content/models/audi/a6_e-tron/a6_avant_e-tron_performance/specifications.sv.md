@@ -39,15 +39,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi A6 Avant e-tron p
 				Vridmoment
 			</td>
 			<td>
-				855 nm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Vridmoment med boost
-			</td>
-			<td>
-				855 Nm
+				565 nm
 			</td>
 		</tr>
 		<tr>
@@ -60,7 +52,7 @@ EVKX.net vill ha de mest kompletta specifikationerna för Audi A6 Avant e-tron p
 		</tr>
 		<tr>
 			<td>
-				0-100 km/h (0-62 mph) boost
+				0-100 km/h (0-62 mph)
 			</td>
 			<td>
 				5,4 s
@@ -115,7 +107,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-räckvidd
 			</td>
 			<td>
-				650 km
+				627 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +115,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 				Topptrim WLTP-förbrukning
 			</td>
 			<td>
-				14,6 kWh/100km
+				15,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -539,7 +531,7 @@ Nedan finns den officiella sortimentsinformationen. Besök vår [information om 
 
 Modellen erbjuder 2 fjädringsvarianter
 
-### Sport
+### Standard
 
 <table class="table table-striped border">
 	<thead>
@@ -598,7 +590,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Max markfrigång
 			</td>
 			<td>
-				134 mm
+				143 mm
 			</td>
 		</tr>
 		<tr>
@@ -606,7 +598,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Minsta markfrigång
 			</td>
 			<td>
-				134 mm
+				143 mm
 			</td>
 		</tr>
 		<tr>
@@ -727,7 +719,7 @@ Modellen erbjuder 2 fjädringsvarianter
 				Minsta markfrigång
 			</td>
 			<td>
-				125 mm
+				105 mm
 			</td>
 		</tr>
 		<tr>

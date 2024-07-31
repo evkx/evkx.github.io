@@ -39,15 +39,7 @@ EVKX.net busca tener las especificaciones más completas para Audi A6 Avant e-tr
 				Salida de par eléctrico
 			</td>
 			<td>
-				855 nm (631 pies-libra)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Aumento de la salida de par eléctrico
-			</td>
-			<td>
-				855 Nm
+				565 nm (417 pies-libra)
 			</td>
 		</tr>
 		<tr>
@@ -60,7 +52,7 @@ EVKX.net busca tener las especificaciones más completas para Audi A6 Avant e-tr
 		</tr>
 		<tr>
 			<td>
-				Aumento de 0-100 km/h (0-62 mph)
+				0-100 km/h (0-62 mph)
 			</td>
 			<td>
 				5,4 s
@@ -115,7 +107,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de acabado superior
 			</td>
 			<td>
-				650 km
+				627 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +115,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				14,6 kWh/100km
+				15,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -539,7 +531,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 
 El modelo ofrece 2 variantes de suspensión
 
-### Sport
+### Standard
 
 <table class="table table-striped border">
 	<thead>
@@ -598,7 +590,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia máxima al suelo
 			</td>
 			<td>
-				134 mm (5,3")
+				143 mm (5,6")
 			</td>
 		</tr>
 		<tr>
@@ -606,7 +598,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				134 mm (5,3")
+				143 mm (5,6")
 			</td>
 		</tr>
 		<tr>
@@ -727,7 +719,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				125 mm (4,9")
+				105 mm (4,1")
 			</td>
 		</tr>
 		<tr>

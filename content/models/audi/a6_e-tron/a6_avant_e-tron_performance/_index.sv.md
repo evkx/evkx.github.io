@@ -29,13 +29,13 @@ Vi har delat in vår beskrivning av Audi A6 Avant e-tron performance i avsnitt. 
 
 ## Prestanda
 
-Audi A6 Avant e-tron performance har en maximal effekt på 270 KW (367hk). Vridmomentet är 855 Nm med överboost och 855 utan överboost. Den gör sprinten 0-100 km/h på 5,4 sekunder med överboost och  sekunder utan överboost. Topphastigheten är 210 km/h.
+Audi A6 Avant e-tron performance levererar en solid prestanda med en maximal effekt på 270 kW (367 hk) och ett totalt vridmoment på 565 Nm. Den kan accelerera från 0 till 100 km/h på 5,4 sekunder och når en topphastighet på 210 km/h, vilket gör den konkurrenskraftig i sin klass.
 
 ## Batteri, räckvidd och laddning
 
 Högkapacitetsbatteriet har en bruttokapacitet på 100 kWh och en nettoanvändbar kapacitet på 94,9 kWh, vilket ger en buffert på 5,1 kWh (5,1%) för batteriskydd. Vid en nominell spänning på 662 volt, kvalificerar det sig som ett 800-volts batterisystem. Denna höga spänning är avgörande för att möjliggöra systemets laddningsförmåga. Detta litiumjonbatteri använder [NMC (Nickel Mangan Cobalt) teknik.](../../../../technology/battery/cellchemistry/#litium-nickel-mangan-kobolt-oxider-nmc)
 
-Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 720 och 650 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 13,2 kWh/100 km för basmodellen och 14,6 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
+Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/) standarden varierar fordonets räckvidd mellan 720 och 627 km, beroende på specifika konfigurationer och alternativ, såsom hjulstorlek. Större hjul kan till exempel öka energiförbrukningen och därmed minska den totala räckvidden. Fordonets energiförbrukning är bedömd till 13,2 kWh/100 km för basmodellen och 15,1 kWh/100 km för toppmodellen enligt WLTP-testcykeln. För mer detaljerad verklig data och information om räckvidd, se modellens dedikerade [räckvidds- och förbrukningssida.](rangeandconsumption/)
 
 Maximal DC-laddningshastighet är 270 kW. En full laddning från 0 - 100 % tar 59 minuter, medan ett vanligare scenario på 10-80 % tar 20 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 64%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 171kW. Varje laddningssession tar 21 minuter och 56 sekunder. Denna effektiva laddningskapacitet gör Audi A6 Avant e-tron performance till ett bekvämt alternativ för långdistansresor.
 
@@ -60,9 +60,9 @@ Audi A6 Avant e-tron performance har ett bakhjulsdriftssystem som stöds av en m
 
 ### Hjulupphängning
 
-Sport-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 134 mm.
+Standard-fjädringen har stålfjädrar med fast höjd, men du kan justera dämpningen för att passa din körstil eller vägförhållanden. Markfrigången med denna fjädring är 143 mm.
 
-Du kan beställa Audi A6 Avant e-tron performance med en alternativ Adaptive Air Suspension Sport-upphängning. Fjädringen fram och bak är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 125 mm, och maximal är 145 mm.
+Du kan beställa Audi A6 Avant e-tron performance med en alternativ Adaptive Air Suspension Sport-upphängning. Fjädringen fram och bak är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 105 mm, och maximal är 145 mm.
 
 För enklare lastning kan luftfjädringen sänkas med hjälp av kontroller i bagageutrymmet
 
@@ -85,7 +85,7 @@ Audi A6 Avant e-tron performance låter användaren välja olika [drivemodes](..
 
 ### Bromsar
 
-Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 375mm och de bakre skivorna är 350mm.
+Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 350mm och de bakre skivorna är 350mm.
 
 
 ### Regenerativ bromsning
@@ -104,8 +104,9 @@ Du kan också välja flera stilalternativ för att göra din bil mer unik.
 
 Du kan välja mellan flera hjulalternativ i olika storlekar på Audi A6 Avant e-tron performance, vilket gör att du kan anpassa din bil efter din stil och dina körpreferenser.
 
-- 255/50 däck på 20" fälgar fram och 285/45 däck på 20" fälgar bak
-- 255/45 däck på 21" fälgar fram och 285/40 däck på 21" fälgar bak
+exterior.wheeloptions.staggered_large_narrow_midprofile
+- 235/45 däck på 20" fälgar fram och 265/40 däck på 20" fälgar bak
+- 235/40 däck på 21" fälgar fram och 265/35 däck på 21" fälgar bak
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 

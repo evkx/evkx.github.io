@@ -39,15 +39,7 @@ EVKX.net seeks to have the most complete specifications for Audi A6 Avant e-tron
 				Electrical torque output
 			</td>
 			<td>
-				855 nm (631 lb-ft)
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Electrical torque output boost
-			</td>
-			<td>
-				855 Nm
+				565 nm (417 lb-ft)
 			</td>
 		</tr>
 		<tr>
@@ -60,7 +52,7 @@ EVKX.net seeks to have the most complete specifications for Audi A6 Avant e-tron
 		</tr>
 		<tr>
 			<td>
-				0-100km/h (0-62 mph) boost
+				0-100km/h (0-62 mph)
 			</td>
 			<td>
 				5,4 s
@@ -115,7 +107,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP range</a>
 			</td>
 			<td>
-				650 km
+				627 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +115,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/guides/understandingrange/wltp/">Top trim WLTP consumption</a>
 			</td>
 			<td>
-				14,6 kWh/100km
+				15,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -539,7 +531,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 
 The model offers 2 suspension variants
 
-### Sport
+### Standard
 
 <table class="table table-striped border">
 	<thead>
@@ -598,7 +590,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Max ground clearance</a>
 			</td>
 			<td>
-				134 mm (5,3")
+				143 mm (5,6")
 			</td>
 		</tr>
 		<tr>
@@ -606,7 +598,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				134 mm (5,3")
+				143 mm (5,6")
 			</td>
 		</tr>
 		<tr>
@@ -727,7 +719,7 @@ The model offers 2 suspension variants
 				<a href="/technology/suspension/">Minimum ground clearance</a>
 			</td>
 			<td>
-				125 mm (4,9")
+				105 mm (4,1")
 			</td>
 		</tr>
 		<tr>

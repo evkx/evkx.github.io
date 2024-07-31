@@ -39,15 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi A6 Sportback e
 				Dreiemoment
 			</td>
 			<td>
-				855 nm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Dreiemoment med boost
-			</td>
-			<td>
-				855 Nm
+				565 nm
 			</td>
 		</tr>
 		<tr>
@@ -60,7 +52,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi A6 Sportback e
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph) boost
+				0-100 km/t (0-62 mph)
 			</td>
 			<td>
 				5,4 s
@@ -91,7 +83,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				WLTP-område for grunnleggende trim
 			</td>
 			<td>
-				750 km
+				756 km
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +91,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Basic trim WLTP-forbruk
 			</td>
 			<td>
-				12,7 kWh/100km
+				12,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -115,7 +107,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-rekkevidde
 			</td>
 			<td>
-				685 km
+				673 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +115,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				13,9 kWh/100km
+				14,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +400,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Frontalområde
 			</td>
 			<td>
-				2,73
+				2,46
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +424,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Vendesirkel
 			</td>
 			<td>
-				12,1 meter
+				12,3 meter
 			</td>
 		</tr>
 	</tbody>
@@ -457,7 +449,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Egenvekt
 			</td>
 			<td>
-				2350 kg
+				2175 kg
 			</td>
 		</tr>
 		<tr>
@@ -465,7 +457,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Tillatt totalvekt
 			</td>
 			<td>
-				2965 kg
+				2750 kg
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +465,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Maks nyttelast inkludert vekt fører
 			</td>
 			<td>
-				615 kg
+				575 kg
 			</td>
 		</tr>
 		<tr>
@@ -505,7 +497,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Størrelse frunk
 			</td>
 			<td>
-				64 liter
+				27 liter
 			</td>
 		</tr>
 		<tr>
@@ -539,7 +531,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 Modellen tilbyr 2 fjæringsvarianter
 
-### Sport
+### Standard
 
 <table class="table table-striped border">
 	<thead>
@@ -598,7 +590,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				134 mm
+				143 mm
 			</td>
 		</tr>
 		<tr>
@@ -606,7 +598,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Minimum bakkeklaring
 			</td>
 			<td>
-				134 mm
+				143 mm
 			</td>
 		</tr>
 		<tr>
@@ -727,7 +719,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Minimum bakkeklaring
 			</td>
 			<td>
-				125 mm
+				105 mm
 			</td>
 		</tr>
 		<tr>

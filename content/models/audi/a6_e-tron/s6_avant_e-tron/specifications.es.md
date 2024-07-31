@@ -68,6 +68,14 @@ EVKX.net busca tener las especificaciones más completas para Audi S6 Avant e-tr
 		</tr>
 		<tr>
 			<td>
+				0-100 km/h (0-62 mph)
+			</td>
+			<td>
+				4,1 s
+			</td>
+		</tr>
+		<tr>
+			<td>
 				Aumento de 0-100 km/h (0-62 mph)
 			</td>
 			<td>
@@ -99,7 +107,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de equipamiento básico
 			</td>
 			<td>
-				640 km
+				647 km
 			</td>
 		</tr>
 		<tr>
@@ -107,7 +115,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP de ajuste básico
 			</td>
 			<td>
-				14,8 kWh/100km
+				14,7 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +131,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Rango WLTP de acabado superior
 			</td>
 			<td>
-				585 km
+				609 km
 			</td>
 		</tr>
 		<tr>
@@ -131,7 +139,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Consumo WLTP superior
 			</td>
 			<td>
-				16,2 kWh/100km
+				15,6 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -392,7 +400,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ancho incluyendo espejos
 			</td>
 			<td>
-				2193 mm (86,3")
+				2137 mm (84,1")
 			</td>
 		</tr>
 		<tr>
@@ -408,7 +416,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Coeficiente de arrastre
 			</td>
 			<td>
-				0,24
+				0,26
 			</td>
 		</tr>
 		<tr>
@@ -416,7 +424,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Área frontal
 			</td>
 			<td>
-				2,73
+				2,48
 			</td>
 		</tr>
 		<tr>
@@ -424,7 +432,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ángulo de voladizo frontal
 			</td>
 			<td>
-				16,3
+				13,5
 			</td>
 		</tr>
 		<tr>
@@ -432,7 +440,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Ángulo de voladizo trasero
 			</td>
 			<td>
-				23,7
+				16,6
 			</td>
 		</tr>
 		<tr>
@@ -440,7 +448,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Círculo de giro
 			</td>
 			<td>
-				12,1 metros (476,4")
+				12,3 metros (484,3")
 			</td>
 		</tr>
 	</tbody>
@@ -465,7 +473,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2350 kg (5181 lbs)
+				2335 kg (5148 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -473,7 +481,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2965 kg (6537 lbs)
+				2880 kg (6349 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -481,7 +489,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				615 kg (1356 lbs)
+				545 kg (1202 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -544,131 +552,6 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 </table>
 
 ## Suspensión
-
-El modelo ofrece 2 variantes de suspensión
-
-### Sport
-
-<table class="table table-striped border">
-	<thead>
-			<tr>
-			<th>
-				Especificación
-			</th>
-			<th>
-				Valor
-			</th>
-			</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				Suspensión adaptativa
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Amortiguación delantera ajustable
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Amortiguación trasera ajustable
-			</td>
-			<td>
-				Sí, equipamiento estándar
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Frente regulable en altura
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Altura trasera ajustable
-			</td>
-			<td>
-				No disponible
-			</td>
-		</tr>
-		<tr>
-			<td>
-				distancia máxima al suelo
-			</td>
-			<td>
-				134 mm (5,3")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				distancia mínima al suelo
-			</td>
-			<td>
-				134 mm (5,3")
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de amortiguador delantero
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de amortiguador trasero
-			</td>
-			<td>
-				ElectronicallyControlled
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Delantero tipo resorte
-			</td>
-			<td>
-				Resorte helicoidal
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Trasero tipo resorte
-			</td>
-			<td>
-				Resorte helicoidal
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de suspensión delantera
-			</td>
-			<td>
-				Multilink
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Tipo de suspensión trasera
-			</td>
-			<td>
-				Multienlace
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-### Adaptive Air Suspension Sport
 
 <table class="table table-striped border">
 	<thead>
@@ -735,7 +618,7 @@ El modelo ofrece 2 variantes de suspensión
 				distancia mínima al suelo
 			</td>
 			<td>
-				125 mm (4,9")
+				105 mm (4,1")
 			</td>
 		</tr>
 		<tr>

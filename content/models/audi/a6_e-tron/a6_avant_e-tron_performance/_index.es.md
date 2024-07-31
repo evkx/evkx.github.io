@@ -29,13 +29,13 @@ Hemos separado nuestro artículo Audi A6 Avant e-tron performance en secciones. 
 
 ## Rendimiento
 
-El Audi A6 Avant e-tron performance tiene una potencia máxima de 270 KW (367 hp/362 bhp). El par es 855 nm con overboost y 855 sin overboost. Realiza el sprint de 0 a 100 km/h (0 a 62 mph) en 5,4 segundos con overboost y  segundos sin overboost. La velocidad máxima es 210 km/h.
+El Audi A6 Avant e-tron performance ofrece un rendimiento sólido con una potencia máxima de 270 kW (367 hp) y un par total de 565 Nm. Puede acelerar de 0 a 100 km/h en 5,4 segundos y alcanza una velocidad máxima de 210 km/h, lo que lo hace competitivo en su clase.
 
 ## Batería, autonomía y carga
 
 La batería de alta capacidad tiene una capacidad bruta de 100 kWh y una capacidad neta utilizable de 94,9 kWh, proporcionando un buffer de 5,1 kWh (5,1%) para la protección de la batería. Operando a un voltaje nominal de 662 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
 
-Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 720 y 650 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 13,2 kWh/100 km para el modelo base y 14,6 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
+Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../guides/understandingrange/wltp/), la autonomía del vehículo varía entre 720 y 627 km, dependiendo de la configuración específica y las opciones, como el tamaño de las ruedas. Las ruedas más grandes, por ejemplo, pueden aumentar el consumo de energía y reducir la autonomía total. El consumo de energía del vehículo está calificado en 13,2 kWh/100 km para el modelo base y 15,1 kWh/100 km para el modelo superior según el ciclo de prueba WLTP. Para obtener datos más detallados del mundo real e información sobre la autonomía, consulte la página dedicada a la [autonomía y el consumo del modelo.](rangeandconsumption/)
 
 La velocidad máxima de carga de CC es 270kW. Una carga completa del 0 al 100 % tardaría 59 minutos, mientras que un escenario más común del 10 al 80 % tardaría 20 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 64%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 171kW. Cada sesión de carga tardaría 21 minutos y 56 segundos. Esta capacidad de carga eficiente hace que el Audi A6 Avant e-tron performance sea una opción conveniente para viajes de larga distancia.
 
@@ -60,9 +60,9 @@ Audi A6 Avant e-tron performance tiene un sistema de tracción trasera sostenido
 
 ### Suspensión
 
-La suspensión Sport tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 134 mm.
+La suspensión Standard tiene resortes de acero con una altura fija, pero puedes ajustar la amortiguación para adaptarla a tu estilo de conducción o condición de la carretera. La distancia al suelo con esta suspensión es 143 mm.
 
-Puedes pedir Audi A6 Avant e-tron performance con una suspensión alternativa Adaptive Air Suspension Sport. La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 125 mm y la máxima es 145 mm.
+Puedes pedir Audi A6 Avant e-tron performance con una suspensión alternativa Adaptive Air Suspension Sport. La suspensión delantera y la suspensión trasera son [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 105 mm y la máxima es 145 mm.
 
 Para facilitar la carga, la suspensión neumática puede bajarse utilizando los controles en el maletero.
 
@@ -85,7 +85,7 @@ El Audi A6 Avant e-tron performance permite al usuario seleccionar diferentes [m
 
 ### Frenos
 
-Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 375 mm y los discos traseros de 350 mm.
+Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 350 mm y los discos traseros de 350 mm.
 
 
 ### Frenado regenerativo
@@ -104,8 +104,9 @@ También puedes elegir varias opciones de estilo para hacer que tu auto sea más
 
 Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en el Audi A6 Avant e-tron performance, lo que te permite personalizar tu vehículo según tu estilo y preferencias de conducción.
 
-- Neumáticos 255/50 en llantas de 20" delanteras y neumáticos 285/45 en llantas de 20" traseras
-- Neumáticos 255/45 en llantas de 21" delanteras y neumáticos 285/40 en llantas de 21" traseras
+exterior.wheeloptions.staggered_large_narrow_midprofile
+- Neumáticos 235/45 en llantas de 20" delanteras y neumáticos 265/40 en llantas de 20" traseras
+- Neumáticos 235/40 en llantas de 21" delanteras y neumáticos 265/35 en llantas de 21" traseras
 
 Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
 

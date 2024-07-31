@@ -39,15 +39,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi A6 Avant e-tro
 				Dreiemoment
 			</td>
 			<td>
-				855 nm
-			</td>
-		</tr>
-		<tr>
-			<td>
-				Dreiemoment med boost
-			</td>
-			<td>
-				855 Nm
+				565 nm
 			</td>
 		</tr>
 		<tr>
@@ -60,7 +52,7 @@ EVKX.net søker å ha de mest komplette spesifikasjonene for Audi A6 Avant e-tro
 		</tr>
 		<tr>
 			<td>
-				0-100 km/t (0-62 mph) boost
+				0-100 km/t (0-62 mph)
 			</td>
 			<td>
 				5,4 s
@@ -115,7 +107,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-rekkevidde
 			</td>
 			<td>
-				650 km
+				627 km
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +115,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 				Topputstyrt WLTP-forbruk
 			</td>
 			<td>
-				14,6 kWh/100km
+				15,1 kWh/100km
 			</td>
 		</tr>
 		<tr>
@@ -539,7 +531,7 @@ Nedenfor ser du den offisielle rekkeviddeinformasjonen. Besøk vår [utvidet rek
 
 Modellen tilbyr 2 fjæringsvarianter
 
-### Sport
+### Standard
 
 <table class="table table-striped border">
 	<thead>
@@ -598,7 +590,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Maks bakkeklaring
 			</td>
 			<td>
-				134 mm
+				143 mm
 			</td>
 		</tr>
 		<tr>
@@ -606,7 +598,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Minimum bakkeklaring
 			</td>
 			<td>
-				134 mm
+				143 mm
 			</td>
 		</tr>
 		<tr>
@@ -727,7 +719,7 @@ Modellen tilbyr 2 fjæringsvarianter
 				Minimum bakkeklaring
 			</td>
 			<td>
-				125 mm
+				105 mm
 			</td>
 		</tr>
 		<tr>
