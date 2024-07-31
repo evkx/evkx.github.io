@@ -400,7 +400,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				Frontal area
 			</td>
 			<td>
-				2,73
+				2,48
 			</td>
 		</tr>
 		<tr>
@@ -449,7 +449,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Curb weight</a>
 			</td>
 			<td>
-				2350 kg (5181 lbs)
+				2185 kg (4817 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -457,7 +457,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum total weight</a>
 			</td>
 			<td>
-				2965 kg (6537 lbs)
+				2760 kg (6085 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -465,7 +465,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/">Maximum load including weight driver</a>
 			</td>
 			<td>
-				615 kg (1356 lbs)
+				575 kg (1268 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -497,7 +497,7 @@ Below you see the offical range info. Visit our [extended range info](../rangean
 				<a href="/technology/cargoandtowing/frunkcargo/">Size frunk</a>
 			</td>
 			<td>
-				64 liter (2 cu-ft)
+				27 liter (1 cu-ft)
 			</td>
 		</tr>
 		<tr>

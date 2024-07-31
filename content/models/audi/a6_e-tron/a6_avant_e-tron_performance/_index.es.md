@@ -55,7 +55,7 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 
 ## Tren de transmisión
 
-Audi A6 Avant e-tron performance tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
+Audi A6 Avant e-tron performance tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
 
 ### Suspensión
@@ -261,7 +261,7 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 514 litros. Con el asiento trasero abatido, es de 1517 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 64 litros (2,3 CU FT). El peso máximo del automóvil es 2965 kg (6537 lbs), y con el peso base de 2350 kg (5181 lbs), puedes cargar como máximo 615 kg (1356 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 514 litros. Con el asiento trasero abatido, es de 1517 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 27 litros (1,0 CU FT). El peso máximo del automóvil es 2760 kg (6085 lbs), y con el peso base de 2185 kg (4817 lbs), puedes cargar como máximo 575 kg (1268 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2400, y sin freno, es de 750 kg (5291/1653 lbs).
 

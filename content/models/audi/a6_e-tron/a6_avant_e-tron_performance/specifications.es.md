@@ -400,7 +400,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Área frontal
 			</td>
 			<td>
-				2,73
+				2,48
 			</td>
 		</tr>
 		<tr>
@@ -449,7 +449,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso en vacío
 			</td>
 			<td>
-				2350 kg (5181 lbs)
+				2185 kg (4817 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -457,7 +457,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Peso total máximo
 			</td>
 			<td>
-				2965 kg (6537 lbs)
+				2760 kg (6085 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -465,7 +465,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Carga máxima incluido el controlador de peso
 			</td>
 			<td>
-				615 kg (1356 lbs)
+				575 kg (1268 lbs)
 			</td>
 		</tr>
 		<tr>
@@ -497,7 +497,7 @@ A continuación verás la información oficial sobre la autonomía. Visita nuest
 				Tamaño frunk
 			</td>
 			<td>
-				64 litro (2 pies cúbicos)
+				27 litro (1 pies cúbicos)
 			</td>
 		</tr>
 		<tr>
