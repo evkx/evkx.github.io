@@ -8,6 +8,7 @@ navicon: bi-layout-text-sidebar-reverse
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD010 -->
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/main_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249" >}}
 EVKX.net busca tener las especificaciones más completas para Audi S6 Avant e-tron. Haga clic en la imagen de arriba para ver [artículo completo](../), visite la [galería de imágenes](../gallery/) para imágenes de alta resolución de Audi S6 Avant e-tron, visite [chargeinfo](../chargecurve/) para Audi S6 Avant e-tron con chargecurve, visite [información de rango extendido](../rangeandconsumption/) para rangos del mundo real.
 
 

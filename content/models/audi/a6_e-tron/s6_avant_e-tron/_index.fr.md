@@ -9,6 +9,10 @@ navicon: bi-car-front
 ---
 <!-- markdownlint-disable MD033 -->
 
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/main_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249"  >}}
+
 Nous avons séparé notre article Audi S6 Avant e-tron en sections. Si vous souhaitez attendre de lire l'article complet, cliquez sur les liens ci-dessous vers les différentes zones. Nous avons également un aperçu des [spécifications complètes]( spécifications/), une [galerie d'images](gallery/), des informations détaillées sur les [performances de charge](chargercurve/) et quelques [avis en ligne](reviews/). Nos sections :
 
 - [Performances](#performance)
@@ -111,6 +115,10 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/exterior_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2250"  >}}
+
+
 {{<evkxdisplayaddarticle />}}
 
 
@@ -144,6 +152,10 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/frontseats_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249"  >}}
+
 
 #### Siège de deuxième rangée
 
@@ -181,6 +193,10 @@ Vous disposez d'une recharge sans fil pour votre téléphone.
 
 Le Audi S6 Avant e-tron possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager. L'écran touch derrière le volant intégré au tableau de bord mesure 11,9 pouces. L'écran touch en haut de la console centrale mesure 14,9 pouces. L'écran touch devant le passager dans le tableau de bord mesure 10,9 pouces.
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/screens_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249"  >}}
+
 
 Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.
 
@@ -247,6 +263,10 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 La capacité de chargement dans le coffre est de 502 litres. Avec la banquette arrière rabattue, elle est de 1422 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 27 litres (1,0 CU FT). Le poids maximum de la voiture est de 2965 kg (6537 lbs), et avec le poids de base de 2350 kg (5181 lbs), vous pouvez charger au maximum 615 kg (1356 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2100, et sur une remorque non freinée, il est de 750 kg (4630/1653 lbs).
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/trunk_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249"  >}}
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 31.07.2024 et les livraisons devraient commencer en December 2024.<div class="mt-3 mb-3">
