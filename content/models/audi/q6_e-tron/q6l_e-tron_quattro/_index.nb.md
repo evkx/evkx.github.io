@@ -243,6 +243,8 @@ Audi Q6L e-tron quattro har [**automatisk nødbremsing**](../../../../technology
 
 [**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er standard førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner.
 
+[**Avkjøringsvarsel**](../../../../technology/driverassistance/exitwarning/) er tilvalg førerassistansesystem utviklet for å advare passasjerer mot å åpne dører hvis det er fare for å treffe noe.
+
 ### Kjøreautomatisering
 
 Audi Q6L e-tron quattro tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.

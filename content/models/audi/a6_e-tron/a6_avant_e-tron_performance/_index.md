@@ -238,6 +238,8 @@ The Audi A6 Avant e-tron performance has [**automatic emergency braking**](../..
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots.
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is an optional driver-assist system designed to warn occupants against opening doors if there is a risk of hitting something.
+
 ### Driving Automation
 
 The Audi A6 Avant e-tron performance offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
@@ -261,9 +263,9 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 
 ## Cargo Capacity and Towing Ability
 
-The cargo capacity in the trunk is 514 liters. With the rear seat down, it is 1517 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 27 liters (1.0 CU FT). The maxium weight of the car is 2760 kg (6085 lbs), and with the base weight of 2185 kg (4817 lbs), you can max load 575 kg (1268 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
+The cargo capacity in the trunk is 502 liters. With the rear seat down, it is 1422 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 27 liters (1.0 CU FT). The maxium weight of the car is 2760 kg (6085 lbs), and with the base weight of 2185 kg (4817 lbs), you can max load 575 kg (1268 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
-You can order the car with a towbar. The maximum total weight on a braked trailer is 2400, and on unbraked, it is 750 kg (5291/1653 lbs).
+You can order the car with a towbar. The maximum total weight on a braked trailer is 2100, and on unbraked, it is 750 kg (4630/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}

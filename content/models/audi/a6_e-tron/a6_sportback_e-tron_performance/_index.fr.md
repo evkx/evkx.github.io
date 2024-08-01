@@ -246,6 +246,8 @@ Le Audi A6 Sportback e-tron performance dispose du [**freinage d'urgence automat
 
 [**Surveillance des angles morts**](../../../../technology/driverassistance/blindspotmonitoring/) est un un standard système d'assistance au conducteur. Ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) est un un facultatif système d'assistance au conducteur conçu pour avertir les occupants de l'ouverture des portes. s'il y a un risque de heurter quelque chose.
+
 ### Automatisation de la conduite
 
 Le Audi A6 Sportback e-tron performance propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.

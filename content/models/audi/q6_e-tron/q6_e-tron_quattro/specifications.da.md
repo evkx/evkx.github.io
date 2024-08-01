@@ -1735,7 +1735,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Android Auto-understøttelse
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>
@@ -1743,7 +1743,7 @@ Denne model er tilgængelig med en sædekonfiguration med fem sæder.
 				Apple Carplay support
 			</td>
 			<td>
-				Ja, ekstraudstyr
+				Ja, standardudstyr
 			</td>
 		</tr>
 		<tr>

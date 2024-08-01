@@ -238,6 +238,8 @@ Audi A6 Avant e-tron performance har [**automatisk nødbremsing**](../../../../t
 
 [**Blindsoneovervåking**](../../../../technology/driverassistance/blindspotmonitoring/) er standard førerassistentsystem. Dette sideassistentsystemet hjelper til med å oppdage trafikk i blindsoner.
 
+[**Avkjøringsvarsel**](../../../../technology/driverassistance/exitwarning/) er tilvalg førerassistansesystem utviklet for å advare passasjerer mot å åpne dører hvis det er fare for å treffe noe.
+
 ### Kjøreautomatisering
 
 Audi A6 Avant e-tron performance tilbyr [kjøreautomatisering på nivå 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), avhengig av utstyrsnivå.
@@ -261,9 +263,9 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/) , fe
 
 ## Lastekapasitet og slepeevne
 
-Lastkapasiteten i bagasjerommet er 514 liter. Med baksetet nede er det 1517 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 27 liter. Maksimumsvekten til bilen er 2760 kg, og med basisvekten på 2185 kg kan du maksimalt laste 575 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
+Lastkapasiteten i bagasjerommet er 502 liter. Med baksetet nede er det 1422 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 27 liter. Maksimumsvekten til bilen er 2760 kg, og med basisvekten på 2185 kg kan du maksimalt laste 575 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
-Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2400, og på ubremset er den 750 kg.
+Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2100, og på ubremset er den 750 kg.
 
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}

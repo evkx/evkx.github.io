@@ -238,6 +238,8 @@ El Audi A6 Avant e-tron performance tiene [**frenado automático de emergencia**
 
 [**Monitoreo de punto ciego**](../../../../technology/driverassistance/blindspotmonitoring/) es un estándar sistema de asistencia al conductor. Este sistema de asistencia lateral ayuda a detectar el tráfico en puntos ciegos.
 
+[**Aviso de salida**](../../../../technology/driverassistance/exitwarning/) es un un opcional sistema de asistencia al conductor diseñado para advertir a los ocupantes que no deben abrir puertas si hay riesgo de golpear algo.
+
 ### Automatización de conducción
 
 El Audi A6 Avant e-tron performance ofrece [automatización de la conducción en el nivel 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), dependiendo del nivel de equipamiento.
@@ -261,9 +263,9 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 
 ## Capacidad de carga y capacidad de remolque
 
-La capacidad de carga en el maletero es de 514 litros. Con el asiento trasero abatido, es de 1517 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 27 litros (1,0 CU FT). El peso máximo del automóvil es 2760 kg (6085 lbs), y con el peso base de 2185 kg (4817 lbs), puedes cargar como máximo 575 kg (1268 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
+La capacidad de carga en el maletero es de 502 litros. Con el asiento trasero abatido, es de 1422 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 27 litros (1,0 CU FT). El peso máximo del automóvil es 2760 kg (6085 lbs), y con el peso base de 2185 kg (4817 lbs), puedes cargar como máximo 575 kg (1268 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
-Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2400, y sin freno, es de 750 kg (5291/1653 lbs).
+Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2100, y sin freno, es de 750 kg (4630/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}

@@ -243,6 +243,8 @@ El Audi Q6L e-tron quattro tiene [**frenado automático de emergencia**](../../.
 
 [**Monitoreo de punto ciego**](../../../../technology/driverassistance/blindspotmonitoring/) es un estándar sistema de asistencia al conductor. Este sistema de asistencia lateral ayuda a detectar el tráfico en puntos ciegos.
 
+[**Aviso de salida**](../../../../technology/driverassistance/exitwarning/) es un un opcional sistema de asistencia al conductor diseñado para advertir a los ocupantes que no deben abrir puertas si hay riesgo de golpear algo.
+
 ### Automatización de conducción
 
 El Audi Q6L e-tron quattro ofrece [automatización de la conducción en el nivel 1 o 2](../../../../technology/driverassistance/#level-of-autonomous-driving ), dependiendo del nivel de equipamiento.

@@ -238,6 +238,8 @@ Le Audi A6 Avant e-tron performance dispose du [**freinage d'urgence automatique
 
 [**Surveillance des angles morts**](../../../../technology/driverassistance/blindspotmonitoring/) est un un standard système d'assistance au conducteur. Ce système d'assistance latérale aide à détecter le trafic dans les angles morts.
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) est un un facultatif système d'assistance au conducteur conçu pour avertir les occupants de l'ouverture des portes. s'il y a un risque de heurter quelque chose.
+
 ### Automatisation de la conduite
 
 Le Audi A6 Avant e-tron performance propose [l'automatisation de la conduite au niveau 1 ou 2](../../../../technology/driverassistance/#level-of-autonomous-driving), selon le niveau d'équipement.
@@ -261,9 +263,9 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 
 ## Capacité de chargement et capacité de remorquage
 
-La capacité de chargement dans le coffre est de 514 litres. Avec la banquette arrière rabattue, elle est de 1517 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 27 litres (1,0 CU FT). Le poids maximum de la voiture est de 2760 kg (6085 lbs), et avec le poids de base de 2185 kg (4817 lbs), vous pouvez charger au maximum 575 kg (1268 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
+La capacité de chargement dans le coffre est de 502 litres. Avec la banquette arrière rabattue, elle est de 1422 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 27 litres (1,0 CU FT). Le poids maximum de la voiture est de 2760 kg (6085 lbs), et avec le poids de base de 2185 kg (4817 lbs), vous pouvez charger au maximum 575 kg (1268 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
-Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2400, et sur une remorque non freinée, il est de 750 kg (5291/1653 lbs).
+Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2100, et sur une remorque non freinée, il est de 750 kg (4630/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}

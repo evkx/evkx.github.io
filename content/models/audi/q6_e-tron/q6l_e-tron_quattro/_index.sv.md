@@ -243,6 +243,8 @@ Audi Q6L e-tron quattro har [**automatisk nödbroms**](../../../../technology/dr
 
 [**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är standard förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
 
+[**Utfartsvarning**](../../../../technology/driverassistance/exitwarning/) är valfritt förarassistanssystem utformat för att varna passagerare från att öppna dörrar om det finns risk att träffa något.
+
 ### Körautomation
 
 Audi Q6L e-tron quattro erbjuder [nivå 1 eller 2 körautomation](../../../../technology/driverassistance/#nivå-av-autonom-körning), beroende på utrustningsnivå.

@@ -238,6 +238,8 @@ Audi A6 Avant e-tron performance har [**automatisk nödbroms**](../../../../tech
 
 [**Övervakning av döda vinkeln**](../../../../technology/driverassistance/blindspotmonitoring/) är standard förarassistanssystem. Detta sidoassistanssystem hjälper till att upptäcka trafik i döda vinklar.
 
+[**Utfartsvarning**](../../../../technology/driverassistance/exitwarning/) är valfritt förarassistanssystem utformat för att varna passagerare från att öppna dörrar om det finns risk att träffa något.
+
 ### Körautomation
 
 Audi A6 Avant e-tron performance erbjuder [nivå 1 eller 2 körautomation](../../../../technology/driverassistance/#nivå-av-autonom-körning), beroende på utrustningsnivå.
@@ -261,9 +263,9 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 
 ## Lastkapacitet och dragkapacitet
 
-Lastkapaciteten i bagageutrymmet är 514 liter. Med baksätet nedfällt är det 1517 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 27 liter. Bilens maximala vikt är 2760 kg, och med basvikten på 2185 kg kan du lasta maximalt 575 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
+Lastkapaciteten i bagageutrymmet är 502 liter. Med baksätet nedfällt är det 1422 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 27 liter. Bilens maximala vikt är 2760 kg, och med basvikten på 2185 kg kan du lasta maximalt 575 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
-Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2400, och på en obromsad är den 750 kg.
+Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2100, och på en obromsad är den 750 kg.
 
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}

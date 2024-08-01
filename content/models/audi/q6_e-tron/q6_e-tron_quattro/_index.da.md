@@ -259,6 +259,8 @@ Audi Q6 e-tron quattro har [**automatisk nødbremse**](../../../../technology/dr
 
 [**Overvågning af blinde vinkler**](../../../../technology/driverassistance/blindspotmonitoring/) er en standard førerassistentsystem. Dette sideassistentsystem hjælper med at registrere trafik i blinde vinkler.
 
+[**Udkørselsadvarsel**](../../../../technology/driverassistance/exitwarning/) er en valgfri førerassistance-system designet til at advare passagerer mod at åbne døre hvis der er risiko for at ramme noget.
+
 ### Køreautomatisering
 
 Audi Q6 e-tron quattro tilbyder [kørselsautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.

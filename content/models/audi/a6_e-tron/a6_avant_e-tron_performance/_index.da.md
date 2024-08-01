@@ -238,6 +238,8 @@ Audi A6 Avant e-tron performance har [**automatisk nødbremse**](../../../../tec
 
 [**Overvågning af blinde vinkler**](../../../../technology/driverassistance/blindspotmonitoring/) er en standard førerassistentsystem. Dette sideassistentsystem hjælper med at registrere trafik i blinde vinkler.
 
+[**Udkørselsadvarsel**](../../../../technology/driverassistance/exitwarning/) er en valgfri førerassistance-system designet til at advare passagerer mod at åbne døre hvis der er risiko for at ramme noget.
+
 ### Køreautomatisering
 
 Audi A6 Avant e-tron performance tilbyder [kørselsautomatisering på niveau 1 eller 2](../../../../technology/driverassistance/#level-of-autonomous-driving), afhængigt af udstyrsniveauet.
@@ -261,9 +263,9 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 
 ## Lastkapacitet og træk-kapacitet
 
-Lagekapaciteten i bagagerummet er 514 liter. Med bagsædet nede er det 1517 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 27 liter (1,0 CU FT). Bilens maksimale vægt er 2760 kg (6085 lbs), og med basisvægten på 2185 kg (4817 lbs), kan du maksimalt laste 575 kg (1268 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
+Lagekapaciteten i bagagerummet er 502 liter. Med bagsædet nede er det 1422 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 27 liter (1,0 CU FT). Bilens maksimale vægt er 2760 kg (6085 lbs), og med basisvægten på 2185 kg (4817 lbs), kan du maksimalt laste 575 kg (1268 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
-Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2400, og på ubremset er den 750 kg (5291/1653 lbs).
+Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2100, og på ubremset er den 750 kg (4630/1653 lbs).
 
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}

@@ -235,6 +235,8 @@ The Audi S6 Sportback e-tron has [**automatic emergency braking**](../../../../t
 
 [**Blind-spot monitoring**](../../../../technology/driverassistance/blindspotmonitoring/) is a standard driver-assist system. This side assist system helps to detect traffic in blind spots.
 
+[**Exit Warning**](../../../../technology/driverassistance/exitwarning/) is an optional driver-assist system designed to warn occupants against opening doors if there is a risk of hitting something.
+
 ### Driving Automation
 
 The Audi S6 Sportback e-tron offers [driving automation on level 1 or 2](../../../../technology/driverassistance/#level-of-autonomous-driving), depending on the equipment level.
