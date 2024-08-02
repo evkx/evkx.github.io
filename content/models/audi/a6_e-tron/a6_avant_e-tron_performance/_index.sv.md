@@ -72,15 +72,13 @@ Dynamisk styrning är standard-funktionen för Audi A6 Avant e-tron performance.
 
 ### Körlägen
 
-Audi A6 Avant e-tron performance låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 7 lägen:
+Audi A6 Avant e-tron performance låter användaren välja olika [drivemodes](../../../../technology/drivemodes/) som påverkar bilens hantering. Föraren kan välja mellan 5 lägen:
 
 - Dynamic: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
 - Efficiency: Balanserad styrning, låg fjädring med effektiv gaspådrag och balanserad fjädring.
 - Comfort: Balanserad styrning, normal fjädringshöjd med effektiv gaspådrag och komfortfjädringsdämpning.
-- Allroad: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning.
-- Offroad: Balanserad styrning, max fjädringshöjd med balanserad gas och dämpning.
 - Balanced: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning.
-- Custom: Anpassad styrning, fjädring och gasrespons.
+- Individual: Anpassad styrning, fjädring och gasrespons.
 
 
 ### Bromsar
@@ -106,7 +104,7 @@ Du kan välja mellan flera hjulalternativ i olika storlekar på Audi A6 Avant e-
 
 - 225/55 däck på 19" fälgar fram och 245/50 däck på 19" fälgar bak
 - 235/45 däck på 20" fälgar fram och 265/40 däck på 20" fälgar bak
-- 235/40 däck på 21" fälgar fram och 265/35 däck på 21" fälgar bak
+- 245/40 däck på 21" fälgar fram och 275/35 däck på 21" fälgar bak
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 

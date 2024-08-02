@@ -74,15 +74,13 @@ Dynamisk styring er standard-funksjonen på Audi S6 Avant e-tron. Dynamisk styri
 
 ### Kjøremoduser
 
-Audi S6 Avant e-tron lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 7 moduser:
+Audi S6 Avant e-tron lar brukeren velge forskjellige [kjøremoduser](../../../../technology/drivemodes/) som påvirker bilens kjøreegenskaper. Sjåføren kan velge mellom 5 moduser:
 
 - Dynamic: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
 - Efficiency: Balansert styring, lav fjæring med effektiv gass og balansert fjæring.
 - Comfort: Balansert styring, normal fjæringshøyde med effektiv gass, og komfortfjæringsdemping.
-- Allroad: Balansert styring, høy fjæringshøyde med balansert gass og demping.
-- Offroad: Balansert styring, maks fjæringshøyde med balansert gass og demping.
 - Balanced: Balansert styring, adaptiv fjæringshøyde med balansert gass og adaptiv fjæringsdemping.
-- Custom: Egendefinert styring, fjæring og gassrespons.
+- Individual: Egendefinert styring, fjæring og gassrespons.
 
 
 ### Bremser
@@ -107,7 +105,7 @@ Du kan også velge flere stylingsalternativer for å gjøre bilen din mer unik.
 Du kan velge mellom flere hjulalternativer i forskjellige størrelser på Audi S6 Avant e-tron, slik at du kan tilpasse bilen din etter din stil og dine kjørepreferanser.
 
 - 235/45 dekk på 20" felger foran og 265/40 dekk på 20" felger bak
-- 235/40 dekk på 21" felger foran og 265/35 dekk på 21" felger bak
+- 245/40 dekk på 21" felger foran og 275/35 dekk på 21" felger bak
 
 Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil gi bedre grep og håndtering.
 

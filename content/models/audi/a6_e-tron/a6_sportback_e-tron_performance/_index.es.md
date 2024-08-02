@@ -76,15 +76,13 @@ La dirección dinámica es una característica un estándar en el Audi A6 Sportb
 
 ### Modos de conducción
 
-El Audi A6 Sportback e-tron performance permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 7 modos:
+El Audi A6 Sportback e-tron performance permite al usuario seleccionar diferentes [modos de conducción](../../../../technology/drivemodes/) que afectan el manejo del automóvil. El conductor puede elegir entre 5 modos:
 
 - Dynamic: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
 - Efficiency: dirección equilibrada, suspensión baja con aceleración eficiente y suspensión equilibrada.
 - Comfort: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión.
-- Allroad: dirección equilibrada, altura de suspensión alta con aceleración y amortiguación equilibradas.
-- Offroad: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados.
 - Balanced: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa.
-- Custom: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
+- Individual: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
 
 
 ### Frenos
@@ -110,7 +108,7 @@ Puedes seleccionar entre múltiples opciones de ruedas en diferentes tamaños en
 
 - Neumáticos 225/55 en llantas de 19" delanteras y neumáticos 245/50 en llantas de 19" traseras
 - Neumáticos 235/45 en llantas de 20" delanteras y neumáticos 265/40 en llantas de 20" traseras
-- Neumáticos 235/40 en llantas de 21" delanteras y neumáticos 265/35 en llantas de 21" traseras
+- Neumáticos 245/40 en llantas de 21" delanteras y neumáticos 275/35 en llantas de 21" traseras
 
 Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, mientras que las ruedas más anchas proporcionarán mejor tracción y manejo.
 

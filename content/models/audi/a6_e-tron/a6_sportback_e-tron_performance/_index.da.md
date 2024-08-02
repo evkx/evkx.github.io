@@ -76,15 +76,13 @@ Dynamisk styring er en standard-funktion på Audi A6 Sportback e-tron performanc
 
 ### Køretilstande
 
-Audi A6 Sportback e-tron performance lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 7 tilstande:
+Audi A6 Sportback e-tron performance lader brugeren vælge forskellige [drive modes](../../../../technology/drivemodes/), der påvirker bilens håndtering. Køreren kan vælge mellem 5 tilstande:
 
 - Dynamic: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
 - Efficiency: Balanceret styring, lav affjedring med effektiv gas og afbalanceret affjedring.
 - Comfort: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
-- Allroad: Balanceret styring, høj affjedringshøjde med afbalanceret gas og dæmpning.
-- Offroad: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
 - Balanced: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
-- Custom: Brugerdefineret styring, affjedring og gasrespons.
+- Individual: Brugerdefineret styring, affjedring og gasrespons.
 
 
 ### Bremser
@@ -110,7 +108,7 @@ Du kan vælge mellem flere hjul i forskellige størrelser på Audi A6 Sportback 
 
 - 225/55 dæk på 19" fælge foran og 245/50 dæk på 19" fælge bagpå
 - 235/45 dæk på 20" fælge foran og 265/40 dæk på 20" fælge bagpå
-- 235/40 dæk på 21" fælge foran og 265/35 dæk på 21" fælge bagpå
+- 245/40 dæk på 21" fælge foran og 275/35 dæk på 21" fælge bagpå
 
 Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens bredere hjul vil give bedre traktion og håndtering.
 

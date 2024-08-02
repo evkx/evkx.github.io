@@ -74,15 +74,13 @@ Dynamic steering is a standard feature on the Audi S6 Avant e-tron. Dynamic stee
 
 ### Drive modes
 
-The Audi S6 Avant e-tron lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 7 modes:
+The Audi S6 Avant e-tron lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 5 modes:
 
 - Dynamic: Dynamic steering, low suspension with dynamic throttle and suspension.
 - Efficiency: Balanced steering, low suspension with efficient throttle, and balanced suspension.
 - Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
-- Allroad: Balanced steering, high suspension height with balanced throttle and damping.
-- Offroad: Balanced steering, max suspension height with balanced throttle and damping.
 - Balanced: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
-- Custom: Custom-defined steering, suspension, and throttle response.
+- Individual: Custom-defined steering, suspension, and throttle response.
 
 
 ### Brakes
@@ -107,7 +105,7 @@ You can also choose several styling options to make your car more unique.
 You can select from multiple wheel options in different sizes on the Audi S6 Avant e-tron, allowing you to customize your vehicle to suit your style and driving preferences. The available tire and wheel combinations include:
 
 - 235/45 tires on 20" rims front and 265/40 tires on 20" rims rear
-- 235/40 tires on 21" rims front and 265/35 tires on 21" rims rear
+- 245/40 tires on 21" rims front and 275/35 tires on 21" rims rear
 
 More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
 

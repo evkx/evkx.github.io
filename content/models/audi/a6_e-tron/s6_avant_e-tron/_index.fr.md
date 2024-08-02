@@ -74,15 +74,13 @@ La direction dynamique est une fonctionnalité un standard sur le Audi S6 Avant 
 
 ### Modes de conduite
 
-Le Audi S6 Avant e-tron permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 7 modes :
+Le Audi S6 Avant e-tron permet à l'utilisateur de sélectionner différents [modes de conduite](../../../../technology/drivemodes/) qui affectent la tenue de route de la voiture. Le conducteur peut choisir entre 5 modes :
 
 - Dynamic : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
 - Efficiency : direction équilibrée, suspension basse avec accélérateur efficace et suspension équilibrée.
 - Comfort : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
-- Allroad : Direction équilibrée, hauteur de suspension élevée avec accélérateur et amortissement équilibrés.
-- Offroad : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés.
 - Balanced : direction équilibrée, hauteur de suspension adaptative avec accélérateur équilibré et amortissement de suspension adaptatif.
-- Custom : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
+- Individual : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
 
 
 ### Freins
@@ -107,7 +105,7 @@ Vous pouvez également choisir plusieurs options de style pour rendre votre voit
 Vous pouvez choisir parmi plusieurs options de roues de différentes tailles sur l'Audi S6 Avant e-tron, ce qui vous permet de personnaliser votre véhicule selon votre style et vos préférences de conduite.
 
 - Pneus 235/45 sur jantes de 20" à l'avant et pneus 265/40 sur jantes de 20" à l'arrière
-- Pneus 235/40 sur jantes de 21" à l'avant et pneus 265/35 sur jantes de 21" à l'arrière
+- Pneus 245/40 sur jantes de 21" à l'avant et pneus 275/35 sur jantes de 21" à l'arrière
 
 Des roues plus étroites amélioreront la consommation et donneront une plus grande autonomie, tandis que des roues plus larges offriront une meilleure traction et maniabilité.
 

@@ -76,15 +76,13 @@ Dynamic steering is a standard feature on the Audi A6 Sportback e-tron performan
 
 ### Drive modes
 
-The Audi A6 Sportback e-tron performance lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 7 modes:
+The Audi A6 Sportback e-tron performance lets the user select different [drive modes](../../../../technology/drivemodes/) that affect the car's handling. The driver can choose between 5 modes:
 
 - Dynamic: Dynamic steering, low suspension with dynamic throttle and suspension.
 - Efficiency: Balanced steering, low suspension with efficient throttle, and balanced suspension.
 - Comfort: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
-- Allroad: Balanced steering, high suspension height with balanced throttle and damping.
-- Offroad: Balanced steering, max suspension height with balanced throttle and damping.
 - Balanced: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
-- Custom: Custom-defined steering, suspension, and throttle response.
+- Individual: Custom-defined steering, suspension, and throttle response.
 
 
 ### Brakes
@@ -110,7 +108,7 @@ You can select from multiple wheel options in different sizes on the Audi A6 Spo
 
 - 225/55 tires on 19" rims front and 245/50 tires on 19" rims rear
 - 235/45 tires on 20" rims front and 265/40 tires on 20" rims rear
-- 235/40 tires on 21" rims front and 265/35 tires on 21" rims rear
+- 245/40 tires on 21" rims front and 275/35 tires on 21" rims rear
 
 More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
 
