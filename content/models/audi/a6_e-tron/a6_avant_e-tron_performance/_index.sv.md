@@ -108,7 +108,7 @@ Du kan välja mellan flera hjulalternativ i olika storlekar på Audi A6 Avant e-
 
 Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, medan bredare hjul kommer att ge bättre grepp och hantering.
 
-Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate).
+Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate](../../../../technology/doors/#liftgate). 'Soft Close' är valfritt-funktionen för sidodörrarna.
 
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig över de flesta ytor framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra humöret och komforten för den åkande. Glaset har en elektrokrom funktion som gör att du kan blanda glaset i flera nivåer för att skydda mot solen.
 
@@ -209,6 +209,10 @@ Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få yt
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Audi A6 Avant e-tron performance. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför. Dessutom använder standardbakljusen LED-teknik.
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
+
 ## Avancerade förarassistanssystem
 
 Audi A6 Avant e-tron performance har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.

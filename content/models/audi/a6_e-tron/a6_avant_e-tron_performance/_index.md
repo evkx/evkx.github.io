@@ -108,7 +108,7 @@ You can select from multiple wheel options in different sizes on the Audi A6 Ava
 
 More narrow wheels will improve consumption and give a longer range, while wider wheels will provide better traction and handling.
 
-The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
+The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate). Soft close is an optional function for the side doors.
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass in multiple levels to protect against the sun.
 
@@ -209,6 +209,10 @@ The model has 2 USB-C connections as standard. As an option, you can get additio
 ## Lights
 
 You can choose between two types of headlights for the Audi A6 Avant e-tron performance. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
+
+{{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
+
 ## Advanced driver assistance systems
 
 The Audi A6 Avant e-tron performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
