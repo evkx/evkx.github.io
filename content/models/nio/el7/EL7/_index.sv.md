@@ -185,7 +185,13 @@ Nio EL7 inkluderar flera funktioner för att förbättra komfort och bekvämligh
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten monterad i instrumentbrädan är 9,8 tum. Skärmen touch i mitten av mittkonsolen är 12,8 tum.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten monterad i instrumentbrädan är 9,8 tum
+- Skärmen touch i mitten av mittkonsolen är 12,8 tum
+
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

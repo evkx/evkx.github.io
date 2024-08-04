@@ -159,7 +159,13 @@ Volvo EX30 Single Motor Extended Range inkluderar flera funktioner för att för
 
 ## Användargränssnitt och kontroll
 
-Volvo EX30 Single Motor Extended Range har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch i mitten av instrumentbrädan är 12,3 tum.
+Volvo EX30 Single Motor Extended Range har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen touch i mitten av instrumentbrädan är 12,3 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

@@ -148,7 +148,14 @@ El XPENG G3i incluye varias características para mejorar la comodidad y conveni
 
 ## Interfaz de usuario y control
 
-El XPENG G3i tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central. La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño. La touch pantalla en el medio de la consola central mide 15,6 pulgadas de tamaño.
+El XPENG G3i tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño
+- La touch pantalla en el medio de la consola central mide 15,6 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 Este modelo está equipado con control por voz de serie. El control por voz le permite controlar algunas funciones mediante comandos de voz.

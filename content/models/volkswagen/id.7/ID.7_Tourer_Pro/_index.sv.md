@@ -182,7 +182,14 @@ Volkswagen ID.7 Tourer Pro inkluderar flera funktioner för att förbättra komf
 
 ## Användargränssnitt och kontroll
 
-Volkswagen ID.7 Tourer Pro har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5,0 tum. Skärmen touch i mitten av instrumentbrädan är 15,0 tum.
+Volkswagen ID.7 Tourer Pro har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm).
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  på rattstången är 5,0 tum
+- Skärmen touch i mitten av instrumentbrädan är 15,0 tum
+
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

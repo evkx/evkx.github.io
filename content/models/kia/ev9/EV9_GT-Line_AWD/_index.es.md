@@ -195,7 +195,14 @@ El Kia EV9 GT-Line AWD incluye varias características para mejorar la comodidad
 
 ## Interfaz de usuario y control
 
-El Kia EV9 GT-Line AWD tiene tres pantallas en un marco compartido montado con soportes en el tablero. La  pantalla detrás del volante a la izquierda del marco mide 12,3 pulgadas de tamaño. La touch pantalla en la parte central del marco compartido mide 5,3 pulgadas de tamaño. La touch pantalla en la parte derecha del marco compartido mide 12,3 pulgadas de tamaño.
+El Kia EV9 GT-Line AWD tiene tres pantallas en un marco compartido montado con soportes en el tablero.
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante a la izquierda del marco mide 12,3 pulgadas de tamaño
+- La touch pantalla en la parte central del marco compartido mide 5,3 pulgadas de tamaño
+- La touch pantalla en la parte derecha del marco compartido mide 12,3 pulgadas de tamaño
+
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

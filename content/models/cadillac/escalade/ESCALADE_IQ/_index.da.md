@@ -174,7 +174,14 @@ Cadillac ESCALADE IQ inkluderer flere funktioner, der forbedrer komfort og bekve
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet monteret i instrumentbrættet er 35,0 tommer stor. Skærmen touch i bunden af midterkonsollen er 11,0 tommer stor. Skærmen touch foran passageren på instrumentbrættet er 20,0 tommer stor.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet monteret i instrumentbrættet er 35,0 tommer stor
+- Skærmen touch i bunden af midterkonsollen er 11,0 tommer stor
+- Skærmen touch foran passageren på instrumentbrættet er 20,0 tommer stor
+
 Modellen har ikke et head-up display.
 
 

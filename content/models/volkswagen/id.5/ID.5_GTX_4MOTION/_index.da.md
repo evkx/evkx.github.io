@@ -180,7 +180,14 @@ Volkswagen ID.5 GTX 4MOTION inkluderer flere funktioner, der forbedrer komfort o
 
 ## Brugergrænseflade og kontrol
 
-Volkswagen ID.5 GTX 4MOTION har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5,0 tommer stor. Skærmen touch i dashboardets midte er 12,9 tommer stor.
+Volkswagen ID.5 GTX 4MOTION har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  på ratstammen er 5,0 tommer stor
+- Skærmen touch i dashboardets midte er 12,9 tommer stor
+
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

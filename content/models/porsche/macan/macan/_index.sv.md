@@ -189,7 +189,15 @@ Porsche Macan inkluderar flera funktioner för att förbättra komfort och bekv�
 
 ## Användargränssnitt och kontroll
 
-Porsche Macan har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen touch bakom ratten integrerad i instrumentbrädan är 12,6 tum. Skärmen touch översta mittkonsolen är 10,9 tum. Skärmen touch framför passageraren i instrumentbrädan är 10,9 tum.
+Porsche Macan har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen touch bakom ratten integrerad i instrumentbrädan är 12,6 tum
+- Skärmen touch översta mittkonsolen är 10,9 tum
+- Skärmen touch framför passageraren i instrumentbrädan är 10,9 tum
+
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

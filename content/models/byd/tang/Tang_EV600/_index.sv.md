@@ -172,7 +172,14 @@ BYD Tang EV600 inkluderar flera funktioner för att förbättra komfort och bekv
 
 ## Användargränssnitt och kontroll
 
-BYD Tang EV600 har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument). Skärmen  bakom ratten monterad i instrumentbrädan är 12,3 tum. Skärmen touch i mitten av instrumentbrädan är 12,8 tum.
+BYD Tang EV600 har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten monterad i instrumentbrädan är 12,3 tum
+- Skärmen touch i mitten av instrumentbrädan är 12,8 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

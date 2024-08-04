@@ -171,7 +171,14 @@ The Ford Capri Extended Range AWD includes several features to enhance comfort a
 
 ## User interface and control
 
-The Ford Capri Extended Range AWD has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column is 5.0 inches large. The touch screen on the dashboard's center is 14.6 inches large.
+The Ford Capri Extended Range AWD has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Key screen details:
+
+- The  screen on the steering column is 5.0 inches large
+- The touch screen on the dashboard's center is 14.6 inches large
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

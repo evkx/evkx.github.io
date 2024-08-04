@@ -178,7 +178,13 @@ Lotus Emeya R inkluderer flere funktioner, der forbedrer komfort og bekvemmeligh
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor. Skærmen touch i dashboardets midte er 15,1 tommer stor.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor
+- Skærmen touch i dashboardets midte er 15,1 tommer stor
+
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

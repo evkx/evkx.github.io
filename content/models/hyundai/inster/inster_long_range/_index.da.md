@@ -173,7 +173,13 @@ Hyundai INSTER Long Range inkluderer flere funktioner, der forbedrer komfort og 
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet integreret i instrumentbrættet er 10,3 tommer stor. Skærmen touch i dashboardets midte er 10,3 tommer stor.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet integreret i instrumentbrættet er 10,3 tommer stor
+- Skærmen touch i dashboardets midte er 10,3 tommer stor
+
 Modellen har ikke et head-up display.
 
 

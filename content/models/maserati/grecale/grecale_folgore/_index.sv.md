@@ -178,7 +178,15 @@ Maserati Grecale Folgore inkluderar flera funktioner för att förbättra komfor
 
 ## Användargränssnitt och kontroll
 
-Maserati Grecale Folgore har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm). Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum. Skärmen touch översta mittkonsolen är 12,3 tum. Skärmen touch botten av mittkonsolen är 8,8 tum.
+Maserati Grecale Folgore har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm).
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum
+- Skärmen touch översta mittkonsolen är 12,3 tum
+- Skärmen touch botten av mittkonsolen är 8,8 tum
+
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

@@ -167,7 +167,13 @@ The Tesla Cybertruck Cyberbeast includes several features to enhance comfort and
 
 ## User interface and control
 
-The Tesla Cybertruck Cyberbeast has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center is 18.5 inches large.
+The Tesla Cybertruck Cyberbeast has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
+
+
+Key screen details:
+
+- The touch screen on the dashboard's center is 18.5 inches large
+
 The model does not have a head-up display.
 
 

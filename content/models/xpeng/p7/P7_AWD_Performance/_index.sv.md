@@ -158,7 +158,14 @@ XPENG P7 AWD Performance inkluderar flera funktioner för att förbättra komfor
 
 ## Användargränssnitt och kontroll
 
-XPENG P7 AWD Performance har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument). Skärmen  bakom ratten monterad i instrumentbrädan är 10,3 tum. Skärmen touch i mitten av instrumentbrädan är 15,0 tum.
+XPENG P7 AWD Performance har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten monterad i instrumentbrädan är 10,3 tum
+- Skärmen touch i mitten av instrumentbrädan är 15,0 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

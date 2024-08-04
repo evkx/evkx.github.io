@@ -174,7 +174,14 @@ L'BYD Han comprend plusieurs fonctionnalités pour améliorer le confort et la c
 
 ## Interface utilisateur et contrôle
 
-Le BYD Han possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  derrière le volant monté dans le tableau de bord mesure 12,3 pouces. L'écran touch au centre du tableau de bord mesure 15,6 pouces.
+Le BYD Han possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant monté dans le tableau de bord mesure 12,3 pouces
+- L'écran touch au centre du tableau de bord mesure 15,6 pouces
+
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

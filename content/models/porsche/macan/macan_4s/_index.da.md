@@ -197,7 +197,15 @@ Porsche Macan 4S inkluderer flere funktioner, der forbedrer komfort og bekvemmel
 
 ## Brugergrænseflade og kontrol
 
-Porsche Macan 4S har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen touch bag rattet integreret i instrumentbrættet er 12,6 tommer stor. Skærmen touch øverst på midterkonsollen er 10,9 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 10,9 tommer stor.
+Porsche Macan 4S har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen touch bag rattet integreret i instrumentbrættet er 12,6 tommer stor
+- Skærmen touch øverst på midterkonsollen er 10,9 tommer stor
+- Skærmen touch foran passageren i instrumentbrættet er 10,9 tommer stor
+
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

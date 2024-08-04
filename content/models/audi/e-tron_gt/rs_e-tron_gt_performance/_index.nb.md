@@ -200,7 +200,14 @@ Audi RS e-tron GT performance inkluderer flere funksjoner for å forbedre komfor
 
 ## Brukergrensesnitt og kontroll
 
-Audi RS e-tron GT performance har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen øverst på midtkonsollen er 10,1 tommer stor og har en oppløsning på 1540 x 720 piksler.
+Audi RS e-tron GT performance har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
+
+
+Viktige skjermdetaljer:
+
+- -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor
+- touch-skjermen øverst på midtkonsollen er 10,1 tommer stor
+
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

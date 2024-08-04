@@ -165,7 +165,13 @@ El VinFast VF8 Eco incluye varias características para mejorar la comodidad y c
 
 ## Interfaz de usuario y control
 
-El VinFast VF8 Eco tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil. La touch pantalla en el centro del tablero mide 15,6 pulgadas de tamaño.
+El VinFast VF8 Eco tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil.
+
+
+Detalles clave de la pantalla:
+
+- La touch pantalla en el centro del tablero mide 15,6 pulgadas de tamaño
+
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

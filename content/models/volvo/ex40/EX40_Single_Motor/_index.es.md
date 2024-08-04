@@ -154,7 +154,14 @@ El Volvo EX40 Single Motor incluye varias características para mejorar la comod
 
 ## Interfaz de usuario y control
 
-El Volvo EX40 Single Motor tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central. La  pantalla detrás del volante integrado en el salpicadero mide 12,0 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 9,0 pulgadas de tamaño.
+El Volvo EX40 Single Motor tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 12,0 pulgadas de tamaño
+- La touch pantalla en la parte superior de la consola central mide 9,0 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 

@@ -164,7 +164,16 @@ The Hongqi E-HS9 Comfort includes several features to enhance comfort and conven
 
 ## User interface and control
 
-The Hongqi E-HS9 Comfort has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In the center of the dashboard is an infotainment screen, and in the center console is a screen for the climate system. For the passenger, there is an infotainment screen. The  screen behind the steering wheel integrated into the dashboard is 16.2 inches large. The touch screen in the dashboard's center is 16.2 inches large. The touch screen in front of the passenger in the dashboard is 16.2 inches large. The touch screen in the middle of the center console is 10.2 inches large.
+The Hongqi E-HS9 Comfort has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In the center of the dashboard is an infotainment screen, and in the center console is a screen for the climate system. For the passenger, there is an infotainment screen.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel integrated into the dashboard is 16.2 inches large
+- The touch screen in the dashboard's center is 16.2 inches large
+- The touch screen in front of the passenger in the dashboard is 16.2 inches large
+- The touch screen in the middle of the center console is 10.2 inches large
+
 The model does not have a head-up display.
 
 

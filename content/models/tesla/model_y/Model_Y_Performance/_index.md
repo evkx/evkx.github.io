@@ -179,7 +179,13 @@ The Tesla Model Y Performance includes several features to enhance comfort and c
 
 ## User interface and control
 
-The Tesla Model Y Performance has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center is 15.0 inches large and has a 2200 x 1300 pixels resolution.
+The Tesla Model Y Performance has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
+
+
+Key screen details:
+
+- The touch screen on the dashboard's center is 15.0 inches large
+
 The model does not have a head-up display.
 
 

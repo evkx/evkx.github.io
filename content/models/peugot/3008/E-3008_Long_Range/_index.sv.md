@@ -166,7 +166,14 @@ Peugot E-3008 Long Range inkluderar flera funktioner för att förbättra komfor
 
 ## Användargränssnitt och kontroll
 
-Peugot E-3008 Long Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument). Skärmen  bakom ratten på ramens vänstra sida är 10,0 tum. Skärmen touch på höger sida av den delade ramen är 10,0 tum.
+Peugot E-3008 Long Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten på ramens vänstra sida är 10,0 tum
+- Skärmen touch på höger sida av den delade ramen är 10,0 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

@@ -158,7 +158,14 @@ The XPENG P7 AWD Performance includes several features to enhance comfort and co
 
 ## User interface and control
 
-The XPENG P7 AWD Performance has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 10.3 inches large. The touch screen on the dashboard's center is 15.0 inches large.
+The XPENG P7 AWD Performance has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Key screen details:
+
+- The  screen behind the steering wheel mounted into the dashboard is 10.3 inches large
+- The touch screen on the dashboard's center is 15.0 inches large
+
 The model does not have a head-up display.
 
 

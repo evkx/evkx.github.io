@@ -155,7 +155,13 @@ Smart #1 Pulse inkluderer flere funksjoner for å forbedre komfort og bekvemmeli
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet montert i dashbordet er 10,0 tommer stor. touch-skjermen øverst på midtkonsollen er 12,8 tommer stor.
+
+
+Viktige skjermdetaljer:
+
+- -skjermen bak rattet montert i dashbordet er 10,0 tommer stor
+- touch-skjermen øverst på midtkonsollen er 12,8 tommer stor
+
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

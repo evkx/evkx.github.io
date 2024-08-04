@@ -156,7 +156,15 @@ L'Automobili Pininfarina Battista comprend plusieurs fonctionnalités pour amél
 
 ## Interface utilisateur et contrôle
 
-Le Automobili Pininfarina Battista possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager. L'écran  derrière le volant intégré au tableau de bord mesure 12,3 pouces. L'écran touch en haut de la console centrale mesure 13,8 pouces. L'écran touch devant le passager dans le tableau de bord mesure 8,8 pouces.
+Le Automobili Pininfarina Battista possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant intégré au tableau de bord mesure 12,3 pouces
+- L'écran touch en haut de la console centrale mesure 13,8 pouces
+- L'écran touch devant le passager dans le tableau de bord mesure 8,8 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

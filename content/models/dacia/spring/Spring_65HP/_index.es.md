@@ -156,7 +156,13 @@ El Dacia Spring 65HP incluye varias características para mejorar la comodidad y
 
 ## Interfaz de usuario y control
 
-La  pantalla detrás del volante integrado en el salpicadero mide 7,0 pulgadas de tamaño y tiene una resolución de 1280 x 480 píxeles. La touch pantalla en el centro del tablero mide 10,0 pulgadas de tamaño.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 7,0 pulgadas de tamaño
+- La touch pantalla en el centro del tablero mide 10,0 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 

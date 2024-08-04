@@ -193,7 +193,15 @@ L'Porsche Macan 4 comprend plusieurs fonctionnalités pour améliorer le confort
 
 ## Interface utilisateur et contrôle
 
-Le Porsche Macan 4 possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager. L'écran touch derrière le volant intégré au tableau de bord mesure 12,6 pouces. L'écran touch en haut de la console centrale mesure 10,9 pouces. L'écran touch devant le passager dans le tableau de bord mesure 10,9 pouces.
+Le Porsche Macan 4 possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager.
+
+
+Détails clés de l'écran :
+
+- L'écran touch derrière le volant intégré au tableau de bord mesure 12,6 pouces
+- L'écran touch en haut de la console centrale mesure 10,9 pouces
+- L'écran touch devant le passager dans le tableau de bord mesure 10,9 pouces
+
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

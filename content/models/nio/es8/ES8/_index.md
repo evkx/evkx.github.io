@@ -192,7 +192,13 @@ The Nio ES8 includes several features to enhance comfort and convenience:
 
 ## User interface and control
 
-The  screen behind the steering wheel mounted into the dashboard is 9.8 inches large. The touch screen in the middle of the center console is 11.3 inches large.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel mounted into the dashboard is 9.8 inches large
+- The touch screen in the middle of the center console is 11.3 inches large
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

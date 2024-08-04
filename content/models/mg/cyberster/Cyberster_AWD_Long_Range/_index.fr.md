@@ -142,7 +142,16 @@ L'MG Cyberster AWD Long Range comprend plusieurs fonctionnalités pour améliore
 
 ## Interface utilisateur et contrôle
 
-Au-dessus du tableau de bord se trouve un cadre partagé avec trois écrans, et dans la console centrale, il y a un quatrième [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran touch dans le côté gauche du cadre partagé mesure 8,0 pouces. L'écran  derrière le volant au milieu du cadre partagé mesure 10,0 pouces. L'écran touch à droite du cadre partagé mesure 8,0 pouces. L'écran touch au milieu de la console centrale mesure 7,0 pouces.
+Au-dessus du tableau de bord se trouve un cadre partagé avec trois écrans, et dans la console centrale, il y a un quatrième [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Détails clés de l'écran :
+
+- L'écran touch dans le côté gauche du cadre partagé mesure 8,0 pouces
+- L'écran  derrière le volant au milieu du cadre partagé mesure 10,0 pouces
+- L'écran touch à droite du cadre partagé mesure 8,0 pouces
+- L'écran touch au milieu de la console centrale mesure 7,0 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

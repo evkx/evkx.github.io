@@ -196,7 +196,16 @@ The Porsche Taycan Turbo S Sport Turismo includes several features to enhance co
 
 ## User interface and control
 
-The Porsche Taycan Turbo S Sport Turismo has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console and one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the bottom of center console. For the passenger, there is an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen). The touch screen behind the steering wheel integrated into the dashboard is 16.8 inches large. The touch screen at the top of the center console is 10.9 inches large. The touch screen at the bottom of the center console is 8.4 inches large. The touch screen in front of the passenger in the dashboard is 10.9 inches large.
+The Porsche Taycan Turbo S Sport Turismo has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console and one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the bottom of center console. For the passenger, there is an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen).
+
+
+Key screen details:
+
+- The touch screen behind the steering wheel integrated into the dashboard is 16.8 inches large
+- The touch screen at the top of the center console is 10.9 inches large
+- The touch screen at the bottom of the center console is 8.4 inches large
+- The touch screen in front of the passenger in the dashboard is 10.9 inches large
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

@@ -154,7 +154,14 @@ El GMC Hummer EV Edition 1 Pickup incluye varias características para mejorar l
 
 ## Interfaz de usuario y control
 
-El GMC Hummer EV Edition 1 Pickup tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla detrás del volante montado en el tablero mide 12,3 pulgadas de tamaño y tiene una resolución de 2400x900 píxeles. La touch pantalla en el centro del tablero mide 13,4 pulgadas de tamaño y tiene una resolución de 1888x1728 píxeles.
+El GMC Hummer EV Edition 1 Pickup tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante montado en el tablero mide 12,3 pulgadas de tamaño
+- La touch pantalla en el centro del tablero mide 13,4 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 

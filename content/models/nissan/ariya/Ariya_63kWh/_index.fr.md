@@ -164,7 +164,14 @@ L'Nissan Ariya 63kWh comprend plusieurs fonctionnalités pour améliorer le conf
 
 ## Interface utilisateur et contrôle
 
-Le Nissan Ariya 63kWh possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  derrière le volant à gauche du cadre mesure 12,3 pouces. L'écran touch à droite du cadre partagé mesure 12,3 pouces.
+Le Nissan Ariya 63kWh possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant à gauche du cadre mesure 12,3 pouces
+- L'écran touch à droite du cadre partagé mesure 12,3 pouces
+
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

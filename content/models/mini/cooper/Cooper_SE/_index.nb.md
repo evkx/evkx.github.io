@@ -158,6 +158,10 @@ Mini Cooper SE inkluderer flere funksjoner for å forbedre komfort og bekvemmeli
 ## Brukergrensesnitt og kontroll
 
 
+
+Viktige skjermdetaljer:
+
+
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

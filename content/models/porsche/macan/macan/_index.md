@@ -198,7 +198,15 @@ The Porsche Macan includes several features to enhance comfort and convenience:
 
 ## User interface and control
 
-The Porsche Macan has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The touch screen behind the steering wheel integrated into the dashboard is 12.6 inches large. The touch screen at the top of the center console is 10.9 inches large. The touch screen in front of the passenger in the dashboard is 10.9 inches large.
+The Porsche Macan has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat.
+
+
+Key screen details:
+
+- The touch screen behind the steering wheel integrated into the dashboard is 12.6 inches large
+- The touch screen at the top of the center console is 10.9 inches large
+- The touch screen in front of the passenger in the dashboard is 10.9 inches large
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

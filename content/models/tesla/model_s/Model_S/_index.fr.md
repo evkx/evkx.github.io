@@ -165,7 +165,14 @@ L'Tesla Model S comprend plusieurs fonctionnalités pour améliorer le confort e
 
 ## Interface utilisateur et contrôle
 
-Le Tesla Model S dispose de deux écrans avec des informations pour le conducteur et les passagers et d'un troisième écran à l'arrière pour le multimédia. L'écran  derrière le volant intégré au tableau de bord mesure 12,3 pouces et a une résolution de 1280 x 480 pixels. L'écran touch au centre du tableau de bord mesure 17,0 pouces et a une résolution de 2200 x 1300 pixels. L'écran touch dans la console centrale arrière mesure 8,0 pouces.
+Le Tesla Model S dispose de deux écrans avec des informations pour le conducteur et les passagers et d'un troisième écran à l'arrière pour le multimédia.
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant intégré au tableau de bord mesure 12,3 pouces
+- L'écran touch au centre du tableau de bord mesure 17,0 pouces
+- L'écran touch dans la console centrale arrière mesure 8,0 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

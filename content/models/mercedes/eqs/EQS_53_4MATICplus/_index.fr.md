@@ -196,7 +196,15 @@ L'Mercedes-AMG EQS 53 4MATIC+ comprend plusieurs fonctionnalités pour améliore
 
 ## Interface utilisateur et contrôle
 
-Le Mercedes-AMG EQS 53 4MATIC+ possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager. L'écran  derrière le volant intégré au tableau de bord mesure 12,3 pouces et a une résolution de 2400x900 pixels. L'écran touch en haut de la console centrale mesure 17,7 pouces et a une résolution de 3088x1728 pixels. L'écran  devant le passager dans le tableau de bord mesure 12,3 pouces et a une résolution de 2400x900 pixels.
+Le Mercedes-AMG EQS 53 4MATIC+ possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant intégré au tableau de bord mesure 12,3 pouces
+- L'écran touch en haut de la console centrale mesure 17,7 pouces
+- L'écran  devant le passager dans le tableau de bord mesure 12,3 pouces
+
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

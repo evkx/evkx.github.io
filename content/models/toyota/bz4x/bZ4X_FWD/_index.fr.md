@@ -154,9 +154,23 @@ L'Toyota bZ4X FWD comprend plusieurs fonctionnalités pour améliorer le confort
 
 Deux configurations d'écran différentes sont disponibles sur le Toyota bZ4X FWD.
 
-La disposition standard a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale. L'écran touch derrière le volant intégré au tableau de bord mesure 7,0 pouces. L'écran touch en haut de la console centrale mesure 8,9 pouces.
+La disposition standard a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
 
-La disposition facultative  a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale. L'écran touch derrière le volant intégré au tableau de bord mesure 7,0 pouces. L'écran touch en haut de la console centrale mesure 12,3 pouces.
+
+Détails clés de l'écran :
+
+- L'écran touch derrière le volant intégré au tableau de bord mesure 7,0 pouces
+- L'écran touch en haut de la console centrale mesure 8,9 pouces
+
+
+La disposition facultative  a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
+
+
+Détails clés de l'écran :
+
+- L'écran touch derrière le volant intégré au tableau de bord mesure 7,0 pouces
+- L'écran touch en haut de la console centrale mesure 12,3 pouces
+
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

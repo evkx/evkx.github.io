@@ -159,9 +159,21 @@ L'Ford F150 Lightning Standard Range comprend plusieurs fonctionnalités pour am
 
 Deux configurations d'écran différentes sont disponibles sur le Ford F150 Lightning Standard Range.
 
-La disposition standard a la configuration suivante. L'écran  derrière le volant intégré au tableau de bord mesure 12,0 pouces. L'écran  au centre du tableau de bord mesure 12,0 pouces.
+La disposition standard a la configuration suivante.
 
-La disposition facultative  a la configuration suivante. L'écran  derrière le volant intégré au tableau de bord mesure 12,0 pouces. L'écran  au centre du tableau de bord mesure 15,5 pouces.
+Détails clés de l'écran :
+
+- L'écran  derrière le volant intégré au tableau de bord mesure 12,0 pouces
+- L'écran  au centre du tableau de bord mesure 12,0 pouces
+
+
+La disposition facultative  a la configuration suivante.
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant intégré au tableau de bord mesure 12,0 pouces
+- L'écran  au centre du tableau de bord mesure 15,5 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

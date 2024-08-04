@@ -148,7 +148,14 @@ XPENG G3i inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
 ## Brukergrensesnitt og kontroll
 
-XPENG G3i har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor. touch-skjermen i midten av midtkonsollen er 15,6 tommer stor.
+XPENG G3i har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
+
+
+Viktige skjermdetaljer:
+
+- -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor
+- touch-skjermen i midten av midtkonsollen er 15,6 tommer stor
+
 Modellen er ikke tilgjengelig med head-up display.
 
 Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar deg kontrollere noe funksjonalitet gjennom talekommandoer.

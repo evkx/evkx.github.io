@@ -163,7 +163,14 @@ Rivian R1T Quad-Motor AWD inkluderar flera funktioner för att förbättra komfo
 
 ## Användargränssnitt och kontroll
 
-Rivian R1T Quad-Motor AWD har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch översta mittkonsolen är 15,3 tum och har en upplösning på 1540 x 720 pixlar.
+Rivian R1T Quad-Motor AWD har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum
+- Skärmen touch översta mittkonsolen är 15,3 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

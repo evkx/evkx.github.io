@@ -174,7 +174,13 @@ El Nio ET9 incluye varias características para mejorar la comodidad y convenien
 
 ## Interfaz de usuario y control
 
-La  pantalla detrás del volante montado en el tablero mide 10,2 pulgadas de tamaño. La touch pantalla en el medio de la consola central mide 15,6 pulgadas de tamaño. Para los pasajeros de los asientos traseros hay pantallas de infoentretenimiento en la parte trasera de los asientos de la primera fila
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante montado en el tablero mide 10,2 pulgadas de tamaño
+- La touch pantalla en el medio de la consola central mide 15,6 pulgadas de tamaño
+Para los pasajeros de los asientos traseros hay pantallas de infoentretenimiento en la parte trasera de los asientos de la primera fila
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 Este modelo tiene un sistema de control de voz opcional. El control de voz te permite controlar algunas funciones mediante comandos de voz.

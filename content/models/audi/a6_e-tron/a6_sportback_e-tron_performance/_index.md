@@ -201,7 +201,16 @@ The Audi A6 Sportback e-tron performance includes several features to enhance co
 
 ## User interface and control
 
-The Audi A6 Sportback e-tron performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The touch screen behind the steering wheel integrated into the dashboard is 11.9 inches large. The touch screen at the top of the center console is 14.9 inches large. The touch screen in front of the passenger in the dashboard is 10.9 inches large.
+The control interface for this EV model includes an intuitive combination of buttons, stalks, and screens, providing a seamless and user-friendly interaction experience.
+
+The Audi A6 Sportback e-tron performance features twin screens on a shared curved frame partially integrated into the dashboard. Additionally, an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) is available for the passenger.
+
+Key screen details:
+
+- The  screen behind the steering wheel on the left of the frame is 11.9 inches large
+- The touch screen at the right part of the shared frame is 14.9 inches large
+- The touch screen in front of the passenger in the dashboard is 10.9 inches large
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.

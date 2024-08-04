@@ -202,7 +202,14 @@ L'Audi S e-tron GT comprend plusieurs fonctionnalités pour améliorer le confor
 
 ## Interface utilisateur et contrôle
 
-Le Audi S e-tron GT possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale. L'écran  derrière le volant intégré au tableau de bord mesure 12,3 pouces et a une résolution de 1920 x 720 pixels. L'écran touch en haut de la console centrale mesure 10,1 pouces et a une résolution de 1540 x 720 pixels.
+Le Audi S e-tron GT possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant intégré au tableau de bord mesure 12,3 pouces
+- L'écran touch en haut de la console centrale mesure 10,1 pouces
+
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 ## Infodivertissement

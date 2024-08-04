@@ -208,7 +208,16 @@ Porsche Taycan 4S Sport Turismo inkluderer flere funktioner, der forbedrer komfo
 
 ## Brugergrænseflade og kontrol
 
-Porsche Taycan 4S Sport Turismo har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , er der én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen og én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) i bunden af midterkonsollen. Til passageren er der en valgfri [infotainment-skærm](../../../../technology/userinterface/screens/#front-passager-screen). Skærmen touch bag rattet integreret i instrumentbrættet er 16,8 tommer stor. Skærmen touch øverst på midterkonsollen er 10,9 tommer stor. Skærmen touch i bunden af midterkonsollen er 8,4 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 10,9 tommer stor.
+Porsche Taycan 4S Sport Turismo har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , er der én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen og én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) i bunden af midterkonsollen. Til passageren er der en valgfri [infotainment-skærm](../../../../technology/userinterface/screens/#front-passager-screen).
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen touch bag rattet integreret i instrumentbrættet er 16,8 tommer stor
+- Skærmen touch øverst på midterkonsollen er 10,9 tommer stor
+- Skærmen touch i bunden af midterkonsollen er 8,4 tommer stor
+- Skærmen touch foran passageren i instrumentbrættet er 10,9 tommer stor
+
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

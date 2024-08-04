@@ -178,7 +178,13 @@ Tesla Model 3 (GEN1) inkluderer flere funksjoner for å forbedre komfort og bekv
 
 ## Brukergrensesnitt og kontroll
 
-Tesla Model 3 (GEN1) har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. -skjermen i dashbordets sentrum er 15,0 tommer stor og har en oppløsning på 2200 x 1300 piksler.
+Tesla Model 3 (GEN1) har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment.
+
+
+Viktige skjermdetaljer:
+
+- -skjermen i dashbordets sentrum er 15,0 tommer stor
+
 Modellen er ikke tilgjengelig med head-up display.
 
 

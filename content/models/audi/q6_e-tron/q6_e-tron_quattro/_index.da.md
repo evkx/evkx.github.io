@@ -211,7 +211,15 @@ Audi Q6 e-tron quattro inkluderer flere funktioner, der forbedrer komfort og bek
 
 ## Brugergrænseflade og kontrol
 
-Audi Q6 e-tron quattro har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen touch bag rattet integreret i instrumentbrættet er 11,9 tommer stor. Skærmen touch øverst på midterkonsollen er 14,9 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 10,9 tommer stor.
+Audi Q6 e-tron quattro har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen touch bag rattet integreret i instrumentbrættet er 11,9 tommer stor
+- Skærmen touch øverst på midterkonsollen er 14,9 tommer stor
+- Skærmen touch foran passageren i instrumentbrættet er 10,9 tommer stor
+
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

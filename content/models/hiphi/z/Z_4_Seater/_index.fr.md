@@ -176,7 +176,13 @@ L'HiPhi Z 4 Seater comprend plusieurs fonctionnalités pour améliorer le confor
 
 ## Interface utilisateur et contrôle
 
-Le HiPhi Z 4 Seater a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement. L'écran touch au centre du tableau de bord mesure 15,0 pouces.
+Le HiPhi Z 4 Seater a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement.
+
+
+Détails clés de l'écran :
+
+- L'écran touch au centre du tableau de bord mesure 15,0 pouces
+
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

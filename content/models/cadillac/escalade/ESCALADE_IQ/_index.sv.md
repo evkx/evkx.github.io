@@ -174,7 +174,14 @@ Cadillac ESCALADE IQ inkluderar flera funktioner för att förbättra komfort oc
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten monterad i instrumentbrädan är 35,0 tum. Skärmen touch botten av mittkonsolen är 11,0 tum. Skärmen touch framför passageraren på instrumentbrädan är 20,0 tum.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten monterad i instrumentbrädan är 35,0 tum
+- Skärmen touch botten av mittkonsolen är 11,0 tum
+- Skärmen touch framför passageraren på instrumentbrädan är 20,0 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

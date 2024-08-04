@@ -160,7 +160,13 @@ El Cadillac LYRIQ AWD incluye varias características para mejorar la comodidad 
 
 ## Interfaz de usuario y control
 
-El Cadillac LYRIQ AWD tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil. La touch pantalla detrás del volante, cruzando el centro del tablero mide 33,0 pulgadas de tamaño.
+El Cadillac LYRIQ AWD tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil.
+
+
+Detalles clave de la pantalla:
+
+- La touch pantalla detrás del volante, cruzando el centro del tablero mide 33,0 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 

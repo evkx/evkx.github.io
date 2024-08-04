@@ -155,7 +155,14 @@ L'Chevrolet Blazer EV SS comprend plusieurs fonctionnalités pour améliorer le 
 
 ## Interface utilisateur et contrôle
 
-Le Chevrolet Blazer EV SS possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  derrière le volant à gauche du cadre mesure 11,0 pouces. L'écran touch à droite du cadre partagé mesure 17,7 pouces.
+Le Chevrolet Blazer EV SS possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant à gauche du cadre mesure 11,0 pouces
+- L'écran touch à droite du cadre partagé mesure 17,7 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

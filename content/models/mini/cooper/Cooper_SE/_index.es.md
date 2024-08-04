@@ -158,6 +158,10 @@ El Mini Cooper SE incluye varias características para mejorar la comodidad y co
 ## Interfaz de usuario y control
 
 
+
+Detalles clave de la pantalla:
+
+
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

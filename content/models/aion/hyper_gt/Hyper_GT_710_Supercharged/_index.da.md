@@ -166,7 +166,13 @@ Aion Hyper GT 710 Supercharged inkluderer flere funktioner, der forbedrer komfor
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet monteret i instrumentbrættet er 8,0 tommer stor. Skærmen touch øverst på midterkonsollen er 14,6 tommer stor.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet monteret i instrumentbrættet er 8,0 tommer stor
+- Skærmen touch øverst på midterkonsollen er 14,6 tommer stor
+
 Modellen har ikke et head-up display.
 
 

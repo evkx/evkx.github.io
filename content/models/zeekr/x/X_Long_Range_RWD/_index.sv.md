@@ -157,7 +157,13 @@ Zeekr X Long Range RWD inkluderar flera funktioner för att förbättra komfort 
 
 ## Användargränssnitt och kontroll
 
-Skärmen  på rattstången är 8,0 tum. Skärmen touch översta mittkonsolen är 14,6 tum.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  på rattstången är 8,0 tum
+- Skärmen touch översta mittkonsolen är 14,6 tum
+
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

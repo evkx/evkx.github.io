@@ -174,7 +174,14 @@ The Renault Megane E-Tech Techno includes several features to enhance comfort an
 
 ## User interface and control
 
-The Renault Megane E-Tech Techno has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large. The touch screen on the dashboard's center is 12.0 inches large.
+The Renault Megane E-Tech Techno has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Key screen details:
+
+- The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large
+- The touch screen on the dashboard's center is 12.0 inches large
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

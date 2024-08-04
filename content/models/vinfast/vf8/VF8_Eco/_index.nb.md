@@ -165,7 +165,13 @@ VinFast VF8 Eco inkluderer flere funksjoner for å forbedre komfort og bekvemmel
 
 ## Brukergrensesnitt og kontroll
 
-VinFast VF8 Eco har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum er 15,6 tommer stor.
+VinFast VF8 Eco har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment.
+
+
+Viktige skjermdetaljer:
+
+- touch-skjermen i dashbordets sentrum er 15,6 tommer stor
+
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

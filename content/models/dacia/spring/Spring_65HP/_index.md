@@ -156,7 +156,13 @@ The Dacia Spring 65HP includes several features to enhance comfort and convenien
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 7.0 inches large and has a 1280 x 480 pixels resolution. The touch screen on the dashboard's center is 10.0 inches large.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel integrated into the dashboard is 7.0 inches large
+- The touch screen on the dashboard's center is 10.0 inches large
+
 The model does not have a head-up display.
 
 

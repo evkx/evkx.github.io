@@ -185,7 +185,14 @@ L'Citroën ë-C3 Aircross comprend plusieurs fonctionnalités pour améliorer le
 
 ## Interface utilisateur et contrôle
 
-Le Citroën ë-C3 Aircross possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale. L'écran  derrière le volant intégré au tableau de bord mesure 5,0 pouces. L'écran touch en haut de la console centrale mesure 10,3 pouces.
+Le Citroën ë-C3 Aircross possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant intégré au tableau de bord mesure 5,0 pouces
+- L'écran touch en haut de la console centrale mesure 10,3 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

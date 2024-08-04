@@ -177,7 +177,14 @@ El Volvo EM90 incluye varias características para mejorar la comodidad y conven
 
 ## Interfaz de usuario y control
 
-El Volvo EM90 tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central. La  pantalla detrás del volante integrado en el salpicadero mide 10,2 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 15,4 pulgadas de tamaño. Para los pasajeros de los asientos traseros, hay una pantalla de infoentretenimiento en el techo, detrás de los asientos de la primera fila.
+El Volvo EM90 tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 10,2 pulgadas de tamaño
+- La touch pantalla en la parte superior de la consola central mide 15,4 pulgadas de tamaño
+Para los pasajeros de los asientos traseros, hay una pantalla de infoentretenimiento en el techo, detrás de los asientos de la primera fila.
 El modelo no tiene head-up display.
 
 

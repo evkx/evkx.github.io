@@ -171,7 +171,15 @@ XPENG G9 RWD Long Range inkluderar flera funktioner för att förbättra komfort
 
 ## Användargränssnitt och kontroll
 
-XPENG G9 RWD Long Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten monterad i instrumentbrädan är 10,3 tum. Skärmen touch i mitten av instrumentbrädan är 15,0 tum. Skärmen touch framför passageraren på instrumentbrädan är 15,0 tum.
+XPENG G9 RWD Long Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten monterad i instrumentbrädan är 10,3 tum
+- Skärmen touch i mitten av instrumentbrädan är 15,0 tum
+- Skärmen touch framför passageraren på instrumentbrädan är 15,0 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

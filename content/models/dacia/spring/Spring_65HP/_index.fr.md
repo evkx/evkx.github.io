@@ -156,7 +156,13 @@ L'Dacia Spring 65HP comprend plusieurs fonctionnalités pour améliorer le confo
 
 ## Interface utilisateur et contrôle
 
-L'écran  derrière le volant intégré au tableau de bord mesure 7,0 pouces et a une résolution de 1280 x 480 pixels. L'écran touch au centre du tableau de bord mesure 10,0 pouces.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant intégré au tableau de bord mesure 7,0 pouces
+- L'écran touch au centre du tableau de bord mesure 10,0 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

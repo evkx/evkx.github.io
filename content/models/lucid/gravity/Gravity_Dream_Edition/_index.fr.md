@@ -183,7 +183,13 @@ L'Lucid Gravity Dream Edition comprend plusieurs fonctionnalités pour améliore
 
 ## Interface utilisateur et contrôle
 
-L'écran touch derrière le volant en face du centre du tableau de bord mesure 34,0 pouces. L'écran touch au milieu de la console centrale mesure 12,0 pouces.
+
+
+Détails clés de l'écran :
+
+- L'écran touch derrière le volant en face du centre du tableau de bord mesure 34,0 pouces
+- L'écran touch au milieu de la console centrale mesure 12,0 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

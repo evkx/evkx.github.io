@@ -169,7 +169,15 @@ HiPhi X 4 Seater inkluderer flere funksjoner for å forbedre komfort og bekvemme
 
 ## Brukergrensesnitt og kontroll
 
-HiPhi X 4 Seater har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 14,0 tommer stor. touch-skjermen øverst på midtkonsollen er 16,9 tommer stor. touch-skjermen foran passasjeren i dashbordet er 19,9 tommer stor.
+HiPhi X 4 Seater har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet.
+
+
+Viktige skjermdetaljer:
+
+- -skjermen bak rattet integrert i dashbordet er 14,0 tommer stor
+- touch-skjermen øverst på midtkonsollen er 16,9 tommer stor
+- touch-skjermen foran passasjeren i dashbordet er 19,9 tommer stor
+
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

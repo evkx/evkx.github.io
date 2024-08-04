@@ -170,9 +170,23 @@ Lexus UX 300e inkluderar flera funktioner för att förbättra komfort och bekv�
 
 Två olika skärmlayouter är tillgängliga på Lexus UX 300e.
 
-Standardlayouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch bakom ratten integrerad i instrumentbrädan är 7,0 tum. Skärmen touch översta mittkonsolen är 7,0 tum.
+Standardlayouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
 
-Den valfria -layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen touch bakom ratten integrerad i instrumentbrädan är 8,0 tum. Skärmen touch översta mittkonsolen är 12,3 tum.
+
+Viktiga skärmdetaljer:
+
+- Skärmen touch bakom ratten integrerad i instrumentbrädan är 7,0 tum
+- Skärmen touch översta mittkonsolen är 7,0 tum
+
+
+Den valfria -layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen touch bakom ratten integrerad i instrumentbrädan är 8,0 tum
+- Skärmen touch översta mittkonsolen är 12,3 tum
+
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

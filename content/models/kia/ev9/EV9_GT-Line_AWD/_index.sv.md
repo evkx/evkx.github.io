@@ -195,7 +195,14 @@ Kia EV9 GT-Line AWD inkluderar flera funktioner för att förbättra komfort och
 
 ## Användargränssnitt och kontroll
 
-Kia EV9 GT-Line AWD har tre skärmar på en delad ram monterad med fästen på instrumentbrädan. Skärmen  bakom ratten på ramens vänstra sida är 12,3 tum. Skärmen touch i mitten av den delade ramen är 5,3 tum. Skärmen touch på höger sida av den delade ramen är 12,3 tum.
+Kia EV9 GT-Line AWD har tre skärmar på en delad ram monterad med fästen på instrumentbrädan.
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten på ramens vänstra sida är 12,3 tum
+- Skärmen touch i mitten av den delade ramen är 5,3 tum
+- Skärmen touch på höger sida av den delade ramen är 12,3 tum
+
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

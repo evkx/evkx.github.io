@@ -142,7 +142,16 @@ MG Cyberster AWD Long Range inkluderer flere funktioner, der forbedrer komfort o
 
 ## Brugergrænseflade og kontrol
 
-Oven på instrumentbrættet er en delt ramme med tre skærme, og i midterkonsollen er der en fjerde [infotainment-skærm](../../../../technology /brugergrænseflade/skærme/#infotainment-skærm). Skærmen touch i venstre side af den delte ramme er 8,0 tommer stor. Skærmen  bag rattet i midten af den delte ramme er 10,0 tommer stor. Skærmen touch i højre del af den delte ramme er 8,0 tommer stor. Skærmen touch i midten af midterkonsollen er 7,0 tommer stor.
+Oven på instrumentbrættet er en delt ramme med tre skærme, og i midterkonsollen er der en fjerde [infotainment-skærm](../../../../technology /brugergrænseflade/skærme/#infotainment-skærm).
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen touch i venstre side af den delte ramme er 8,0 tommer stor
+- Skærmen  bag rattet i midten af den delte ramme er 10,0 tommer stor
+- Skærmen touch i højre del af den delte ramme er 8,0 tommer stor
+- Skærmen touch i midten af midterkonsollen er 7,0 tommer stor
+
 Modellen har ikke et head-up display.
 
 

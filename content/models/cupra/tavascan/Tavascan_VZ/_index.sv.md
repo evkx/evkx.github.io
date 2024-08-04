@@ -163,7 +163,14 @@ CUPRA Tavascan VZ inkluderar flera funktioner för att förbättra komfort och b
 
 ## Användargränssnitt och kontroll
 
-CUPRA Tavascan VZ har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5,3 tum. Skärmen touch i mitten av instrumentbrädan är 15,0 tum och har en upplösning på 1920 x 869 pixlar.
+CUPRA Tavascan VZ har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm).
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  på rattstången är 5,3 tum
+- Skärmen touch i mitten av instrumentbrädan är 15,0 tum
+
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

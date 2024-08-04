@@ -158,7 +158,14 @@ Polestar 4 Long range Single motor inkluderer flere funktioner, der forbedrer ko
 
 ## Brugergrænseflade og kontrol
 
-Polestar 4 Long range Single motor har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 10,0 tommer stor. Skærmen touch øverst på midterkonsollen er 15,4 tommer stor.
+Polestar 4 Long range Single motor har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet integreret i instrumentbrættet er 10,0 tommer stor
+- Skærmen touch øverst på midterkonsollen er 15,4 tommer stor
+
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 ## Infotainment

@@ -170,7 +170,14 @@ Zeekr 009 ME Edition inkluderer flere funktioner, der forbedrer komfort og bekve
 
 ## Brugergrænseflade og kontrol
 
-Zeekr 009 ME Edition har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 10,2 tommer stor. Skærmen touch øverst på midterkonsollen er 15,4 tommer stor.
+Zeekr 009 ME Edition har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet integreret i instrumentbrættet er 10,2 tommer stor
+- Skærmen touch øverst på midterkonsollen er 15,4 tommer stor
+
 Modellen har ikke et head-up display.
 
 

@@ -171,9 +171,23 @@ L'BYD Atto 3 comprend plusieurs fonctionnalités pour améliorer le confort et l
 
 Deux configurations d'écran différentes sont disponibles sur le BYD Atto 3.
 
-La disposition standard a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  derrière le volant monté dans le tableau de bord mesure 5,0 pouces. L'écran touch au centre du tableau de bord mesure 12,8 pouces.
+La disposition standard a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
 
-La disposition facultative Design a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  derrière le volant monté dans le tableau de bord mesure 5,0 pouces. L'écran touch au centre du tableau de bord mesure 15,6 pouces.
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant monté dans le tableau de bord mesure 5,0 pouces
+- L'écran touch au centre du tableau de bord mesure 12,8 pouces
+
+
+La disposition facultative Design a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant monté dans le tableau de bord mesure 5,0 pouces
+- L'écran touch au centre du tableau de bord mesure 15,6 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

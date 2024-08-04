@@ -153,7 +153,13 @@ Peugot E-2008 inkluderer flere funktioner, der forbedrer komfort og bekvemmeligh
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet integreret i instrumentbrættet er 10,3 tommer stor. Skærmen touch i dashboardets midte er 10,3 tommer stor.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet integreret i instrumentbrættet er 10,3 tommer stor
+- Skærmen touch i dashboardets midte er 10,3 tommer stor
+
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

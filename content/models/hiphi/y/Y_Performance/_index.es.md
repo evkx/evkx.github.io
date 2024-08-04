@@ -165,7 +165,15 @@ El HiPhi Y Performance incluye varias características para mejorar la comodidad
 
 ## Interfaz de usuario y control
 
-El HiPhi Y Performance tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero. La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 17,0 pulgadas de tamaño. La touch pantalla frente al pasajero en el tablero mide 15,0 pulgadas de tamaño.
+El HiPhi Y Performance tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño
+- La touch pantalla en la parte superior de la consola central mide 17,0 pulgadas de tamaño
+- La touch pantalla frente al pasajero en el tablero mide 15,0 pulgadas de tamaño
+
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

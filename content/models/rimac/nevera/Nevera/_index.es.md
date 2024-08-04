@@ -160,7 +160,15 @@ El Rimac Nevera incluye varias características para mejorar la comodidad y conv
 
 ## Interfaz de usuario y control
 
-El Rimac Nevera tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero. La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 13,8 pulgadas de tamaño. La touch pantalla frente al pasajero en el tablero mide 8,8 pulgadas de tamaño.
+El Rimac Nevera tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño
+- La touch pantalla en la parte superior de la consola central mide 13,8 pulgadas de tamaño
+- La touch pantalla frente al pasajero en el tablero mide 8,8 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 

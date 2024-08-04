@@ -165,7 +165,14 @@ Kia EV6 GT inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet
 
 ## Brukergrensesnitt og kontroll
 
-Kia EV6 GT har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 12,3 tommer stor og har en oppløsning på 1920 x 720 piksler. touch-skjermen ved høyre del av den delte rammen er 12,3 tommer stor og har en oppløsning på 2880 x 1080 piksler.
+Kia EV6 GT har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
+
+
+Viktige skjermdetaljer:
+
+- -skjermen bak rattet på venstre side av rammen er 12,3 tommer stor
+- touch-skjermen ved høyre del av den delte rammen er 12,3 tommer stor
+
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

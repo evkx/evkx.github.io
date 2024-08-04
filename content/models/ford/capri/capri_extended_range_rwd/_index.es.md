@@ -171,7 +171,14 @@ El Ford Capri Extended Range RWD incluye varias características para mejorar la
 
 ## Interfaz de usuario y control
 
-El Ford Capri Extended Range RWD tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla en la columna de dirección mide 5,0 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 14,6 pulgadas de tamaño.
+El Ford Capri Extended Range RWD tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla en la columna de dirección mide 5,0 pulgadas de tamaño
+- La touch pantalla en el centro del tablero mide 14,6 pulgadas de tamaño
+
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

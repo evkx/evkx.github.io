@@ -174,7 +174,14 @@ BYD Han inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 ## Brugergrænseflade og kontrol
 
-BYD Han har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 12,3 tommer stor. Skærmen touch i dashboardets midte er 15,6 tommer stor.
+BYD Han har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet monteret i instrumentbrættet er 12,3 tommer stor
+- Skærmen touch i dashboardets midte er 15,6 tommer stor
+
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

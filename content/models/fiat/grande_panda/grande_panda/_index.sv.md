@@ -171,7 +171,14 @@ Fiat Grande Panda inkluderar flera funktioner för att förbättra komfort och b
 
 ## Användargränssnitt och kontroll
 
-Fiat Grande Panda har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10,0 tum. Skärmen touch översta mittkonsolen är 10,3 tum.
+Fiat Grande Panda har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 10,0 tum
+- Skärmen touch översta mittkonsolen är 10,3 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

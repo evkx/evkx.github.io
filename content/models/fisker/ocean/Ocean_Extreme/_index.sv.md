@@ -176,7 +176,14 @@ Fisker Ocean Extreme inkluderar flera funktioner för att förbättra komfort oc
 
 ## Användargränssnitt och kontroll
 
-Fisker Ocean Extreme har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10,2 tum. Skärmen touch i mitten av mittkonsolen är 17,1 tum.
+Fisker Ocean Extreme har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 10,2 tum
+- Skärmen touch i mitten av mittkonsolen är 17,1 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

@@ -174,7 +174,14 @@ L'Cadillac ESCALADE IQ comprend plusieurs fonctionnalités pour améliorer le co
 
 ## Interface utilisateur et contrôle
 
-L'écran  derrière le volant monté dans le tableau de bord mesure 35,0 pouces. L'écran touch en bas de la console centrale mesure 11,0 pouces. L'écran touch devant le passager sur le tableau de bord mesure 20,0 pouces.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant monté dans le tableau de bord mesure 35,0 pouces
+- L'écran touch en bas de la console centrale mesure 11,0 pouces
+- L'écran touch devant le passager sur le tableau de bord mesure 20,0 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

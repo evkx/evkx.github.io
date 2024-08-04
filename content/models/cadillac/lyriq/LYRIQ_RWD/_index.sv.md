@@ -160,7 +160,13 @@ Cadillac LYRIQ RWD inkluderar flera funktioner för att förbättra komfort och 
 
 ## Användargränssnitt och kontroll
 
-Cadillac LYRIQ RWD har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen touch bakom ratten över mitten av instrumentbrädan är 33,0 tum.
+Cadillac LYRIQ RWD har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen touch bakom ratten över mitten av instrumentbrädan är 33,0 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

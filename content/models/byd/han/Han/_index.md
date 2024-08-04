@@ -174,7 +174,14 @@ The BYD Han includes several features to enhance comfort and convenience:
 
 ## User interface and control
 
-The BYD Han has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large. The touch screen on the dashboard's center is 15.6 inches large.
+The BYD Han has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Key screen details:
+
+- The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large
+- The touch screen on the dashboard's center is 15.6 inches large
+
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 

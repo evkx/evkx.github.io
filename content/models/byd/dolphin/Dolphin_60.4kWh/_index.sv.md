@@ -171,9 +171,23 @@ BYD Dolphin 60.4kWh inkluderar flera funktioner för att förbättra komfort och
 
 Två olika skärmlayouter är tillgängliga på BYD Dolphin 60.4kWh.
 
-Standardlayouten har följande konfiguration. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument). Skärmen  bakom ratten monterad i instrumentbrädan är 5,0 tum. Skärmen touch i mitten av instrumentbrädan är 12,8 tum.
+Standardlayouten har följande konfiguration. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
 
-Den valfria Design-layouten har följande konfiguration. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument). Skärmen  bakom ratten monterad i instrumentbrädan är 5,0 tum. Skärmen touch i mitten av instrumentbrädan är 15,6 tum.
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten monterad i instrumentbrädan är 5,0 tum
+- Skärmen touch i mitten av instrumentbrädan är 12,8 tum
+
+
+Den valfria Design-layouten har följande konfiguration. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten monterad i instrumentbrädan är 5,0 tum
+- Skärmen touch i mitten av instrumentbrädan är 15,6 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

@@ -158,9 +158,23 @@ Subaru Solterra AWD inkluderer flere funksjoner for å forbedre komfort og bekve
 
 To forskjellige skjermoppsett er tilgjengelige på Subaru Solterra AWD.
 
-Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. touch-skjermen bak rattet integrert i dashbordet er 7,0 tommer stor. touch-skjermen øverst på midtkonsollen er 8,9 tommer stor.
+Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
 
-Det valgfrie -oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. touch-skjermen bak rattet integrert i dashbordet er 7,0 tommer stor. touch-skjermen øverst på midtkonsollen er 12,3 tommer stor.
+
+Viktige skjermdetaljer:
+
+- touch-skjermen bak rattet integrert i dashbordet er 7,0 tommer stor
+- touch-skjermen øverst på midtkonsollen er 8,9 tommer stor
+
+
+Det valgfrie -oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
+
+
+Viktige skjermdetaljer:
+
+- touch-skjermen bak rattet integrert i dashbordet er 7,0 tommer stor
+- touch-skjermen øverst på midtkonsollen er 12,3 tommer stor
+
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

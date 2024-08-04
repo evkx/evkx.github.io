@@ -159,7 +159,13 @@ Seres 5 4WD Premium inkluderar flera funktioner för att förbättra komfort och
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum. Skärmen  i mitten av instrumentbrädan är 15,6 tum.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum
+- Skärmen  i mitten av instrumentbrädan är 15,6 tum
+
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

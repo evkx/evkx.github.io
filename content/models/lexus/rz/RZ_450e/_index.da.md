@@ -166,9 +166,23 @@ Lexus RZ 450e inkluderer flere funktioner, der forbedrer komfort og bekvemmeligh
 
 To forskellige skærmopsætninger er tilgængelige på Lexus RZ 450e.
 
-Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen touch bag rattet integreret i instrumentbrættet er 7,0 tommer stor. Skærmen touch øverst på midterkonsollen er 14,0 tommer stor.
+Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
 
-Det valgfri -layout har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen touch bag rattet integreret i instrumentbrættet er 7,0 tommer stor. Skærmen touch øverst på midterkonsollen er 12,3 tommer stor.
+
+Vigtige skærmdetaljer:
+
+- Skærmen touch bag rattet integreret i instrumentbrættet er 7,0 tommer stor
+- Skærmen touch øverst på midterkonsollen er 14,0 tommer stor
+
+
+Det valgfri -layout har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen touch bag rattet integreret i instrumentbrættet er 7,0 tommer stor
+- Skærmen touch øverst på midterkonsollen er 12,3 tommer stor
+
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

@@ -204,7 +204,15 @@ Mercedes-EQ EQS 580 4MATIC inkluderer flere funksjoner for å forbedre komfort o
 
 ## Brukergrensesnitt og kontroll
 
-Mercedes-EQ EQS 580 4MATIC har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen øverst på midtkonsollen er 17,7 tommer stor og har en oppløsning på 3088x1728 piksler. -skjermen foran passasjeren i dashbordet er 12,3 tommer stor og har en oppløsning på 2400x900 piksler.
+Mercedes-EQ EQS 580 4MATIC har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet.
+
+
+Viktige skjermdetaljer:
+
+- -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor
+- touch-skjermen øverst på midtkonsollen er 17,7 tommer stor
+- -skjermen foran passasjeren i dashbordet er 12,3 tommer stor
+
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

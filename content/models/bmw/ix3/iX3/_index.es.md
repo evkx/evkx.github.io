@@ -171,7 +171,13 @@ El BMW iX3 incluye varias características para mejorar la comodidad y convenien
 
 ## Interfaz de usuario y control
 
-La  pantalla detrás del volante integrado en el salpicadero mide 12,0 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 12,3 pulgadas de tamaño.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 12,0 pulgadas de tamaño
+- La touch pantalla en el centro del tablero mide 12,3 pulgadas de tamaño
+
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

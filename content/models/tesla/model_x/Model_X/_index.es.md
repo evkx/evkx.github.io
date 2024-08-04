@@ -171,7 +171,14 @@ El Tesla Model X incluye varias características para mejorar la comodidad y con
 
 ## Interfaz de usuario y control
 
-El Tesla Model X tiene dos pantallas con información para el conductor y los pasajeros y una tercera pantalla en la parte trasera para multimedia. La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño y tiene una resolución de 1280 x 480 píxeles. La touch pantalla en el centro del tablero mide 17,0 pulgadas de tamaño y tiene una resolución de 2200 x 1300 píxeles. La touch pantalla en la consola central trasera mide 8,0 pulgadas de tamaño.
+El Tesla Model X tiene dos pantallas con información para el conductor y los pasajeros y una tercera pantalla en la parte trasera para multimedia.
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño
+- La touch pantalla en el centro del tablero mide 17,0 pulgadas de tamaño
+- La touch pantalla en la consola central trasera mide 8,0 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 

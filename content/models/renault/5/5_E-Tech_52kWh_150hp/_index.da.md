@@ -159,7 +159,14 @@ Renault 5 E-Tech 52kWh 150hp inkluderer flere funktioner, der forbedrer komfort 
 
 ## Brugergrænseflade og kontrol
 
-Renault 5 E-Tech 52kWh 150hp har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 10,0 tommer stor. Skærmen touch i dashboardets midte er 10,1 tommer stor.
+Renault 5 E-Tech 52kWh 150hp har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet monteret i instrumentbrættet er 10,0 tommer stor
+- Skærmen touch i dashboardets midte er 10,1 tommer stor
+
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader dig styre nogle funktioner gennem stemmekommandoer.

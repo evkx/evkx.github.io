@@ -157,7 +157,13 @@ Zeekr X Privilege AWD inkluderer flere funktioner, der forbedrer komfort og bekv
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  på ratstammen er 8,0 tommer stor. Skærmen touch øverst på midterkonsollen er 14,6 tommer stor.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  på ratstammen er 8,0 tommer stor
+- Skærmen touch øverst på midterkonsollen er 14,6 tommer stor
+
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

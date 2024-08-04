@@ -159,7 +159,13 @@ El Seres 5 4WD Premium incluye varias características para mejorar la comodidad
 
 ## Interfaz de usuario y control
 
-La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño. La  pantalla en el centro del tablero mide 15,6 pulgadas de tamaño.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño
+- La  pantalla en el centro del tablero mide 15,6 pulgadas de tamaño
+
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

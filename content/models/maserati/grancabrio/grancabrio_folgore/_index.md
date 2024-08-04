@@ -178,7 +178,15 @@ The Maserati GranCabrio Folgore includes several features to enhance comfort and
 
 ## User interface and control
 
-The Maserati GranCabrio Folgore has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen at the top of the center console is 12.3 inches large. The touch screen at the bottom of the center console is 8.8 inches large.
+The Maserati GranCabrio Folgore has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Key screen details:
+
+- The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large
+- The touch screen at the top of the center console is 12.3 inches large
+- The touch screen at the bottom of the center console is 8.8 inches large
+
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 

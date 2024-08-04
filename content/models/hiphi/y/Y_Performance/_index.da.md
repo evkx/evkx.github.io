@@ -165,7 +165,15 @@ HiPhi Y Performance inkluderer flere funktioner, der forbedrer komfort og bekvem
 
 ## Brugergrænseflade og kontrol
 
-HiPhi Y Performance har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor. Skærmen touch øverst på midterkonsollen er 17,0 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 15,0 tommer stor.
+HiPhi Y Performance har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor
+- Skærmen touch øverst på midterkonsollen er 17,0 tommer stor
+- Skærmen touch foran passageren i instrumentbrættet er 15,0 tommer stor
+
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

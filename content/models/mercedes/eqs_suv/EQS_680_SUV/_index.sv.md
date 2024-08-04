@@ -184,7 +184,15 @@ Mercedes-Maybach EQS 680 SUV inkluderar flera funktioner för att förbättra ko
 
 ## Användargränssnitt och kontroll
 
-Mercedes-Maybach EQS 680 SUV har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum och har en upplösning på 2400x900 pixlar. Skärmen touch översta mittkonsolen är 17,7 tum och har en upplösning på 3088x1728 pixlar. Skärmen  framför passageraren i instrumentbrädan är 12,3 tum och har en upplösning på 2400x900 pixlar.
+Mercedes-Maybach EQS 680 SUV har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum
+- Skärmen touch översta mittkonsolen är 17,7 tum
+- Skärmen  framför passageraren i instrumentbrädan är 12,3 tum
+
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

@@ -169,7 +169,14 @@ The Renault Scenic E-Tech electric High Range includes several features to enhan
 
 ## User interface and control
 
-The Renault Scenic E-Tech electric High Range has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12.3 inches large. The touch screen at the right part of the shared frame is 12.3 inches large.
+The Renault Scenic E-Tech electric High Range has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Key screen details:
+
+- The  screen behind the steering wheel on the left of the frame is 12.3 inches large
+- The touch screen at the right part of the shared frame is 12.3 inches large
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

@@ -195,7 +195,14 @@ The Kia EV9 Long Range RWD includes several features to enhance comfort and conv
 
 ## User interface and control
 
-The Kia EV9 Long Range RWD has three screens on a shared frame mounted with brackets on the dashboard. The  screen behind the steering wheel on the left of the frame is 12.3 inches large. The touch screen at the center part of the shared frame is 5.3 inches large. The touch screen at the right part of the shared frame is 12.3 inches large.
+The Kia EV9 Long Range RWD has three screens on a shared frame mounted with brackets on the dashboard.
+
+Key screen details:
+
+- The  screen behind the steering wheel on the left of the frame is 12.3 inches large
+- The touch screen at the center part of the shared frame is 5.3 inches large
+- The touch screen at the right part of the shared frame is 12.3 inches large
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

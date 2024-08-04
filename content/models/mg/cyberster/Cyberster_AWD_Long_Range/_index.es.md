@@ -142,7 +142,16 @@ El MG Cyberster AWD Long Range incluye varias características para mejorar la c
 
 ## Interfaz de usuario y control
 
-En la parte superior del tablero hay un marco compartido con tres pantallas, y en la consola central, hay una cuarta [pantalla de infoentretenimiento](../../../../technology /userinterface/screens/#infotainment-screen). La touch pantalla en el lado izquierdo del marco compartido mide 8,0 pulgadas de tamaño. La  pantalla detrás del volante en el medio del marco compartido mide 10,0 pulgadas de tamaño. La touch pantalla en la parte derecha del marco compartido mide 8,0 pulgadas de tamaño. La touch pantalla en el medio de la consola central mide 7,0 pulgadas de tamaño.
+En la parte superior del tablero hay un marco compartido con tres pantallas, y en la consola central, hay una cuarta [pantalla de infoentretenimiento](../../../../technology /userinterface/screens/#infotainment-screen).
+
+
+Detalles clave de la pantalla:
+
+- La touch pantalla en el lado izquierdo del marco compartido mide 8,0 pulgadas de tamaño
+- La  pantalla detrás del volante en el medio del marco compartido mide 10,0 pulgadas de tamaño
+- La touch pantalla en la parte derecha del marco compartido mide 8,0 pulgadas de tamaño
+- La touch pantalla en el medio de la consola central mide 7,0 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 

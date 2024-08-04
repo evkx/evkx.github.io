@@ -165,7 +165,14 @@ L'Polestar 3 Long Range Dual Motor comprend plusieurs fonctionnalités pour amé
 
 ## Interface utilisateur et contrôle
 
-Le Polestar 3 Long Range Dual Motor possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale. L'écran  derrière le volant intégré au tableau de bord mesure 9,0 pouces. L'écran touch en haut de la console centrale mesure 14,5 pouces.
+Le Polestar 3 Long Range Dual Motor possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant intégré au tableau de bord mesure 9,0 pouces
+- L'écran touch en haut de la console centrale mesure 14,5 pouces
+
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

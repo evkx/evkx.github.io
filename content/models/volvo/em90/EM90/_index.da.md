@@ -177,7 +177,14 @@ Volvo EM90 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 ## Brugergrænseflade og kontrol
 
-Volvo EM90 har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 10,2 tommer stor. Skærmen touch øverst på midterkonsollen er 15,4 tommer stor. For bagsædepassagererne er der en infotainmentskærm i taget bag sæderne på første række.
+Volvo EM90 har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet integreret i instrumentbrættet er 10,2 tommer stor
+- Skærmen touch øverst på midterkonsollen er 15,4 tommer stor
+For bagsædepassagererne er der en infotainmentskærm i taget bag sæderne på første række.
 Modellen har ikke et head-up display.
 
 

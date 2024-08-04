@@ -166,7 +166,16 @@ El Hongqi E-HS9 Exclusive incluye varias características para mejorar la comodi
 
 ## Interfaz de usuario y control
 
-El Hongqi E-HS9 Exclusive tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). En el centro del En el salpicadero hay una pantalla de infoentretenimiento y en la consola central hay una pantalla para el sistema climático. Para el pasajero hay una pantalla de infoentretenimiento. La  pantalla detrás del volante integrado en el salpicadero mide 16,2 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 16,2 pulgadas de tamaño. La touch pantalla frente al pasajero en el tablero mide 16,2 pulgadas de tamaño. La touch pantalla en el medio de la consola central mide 10,2 pulgadas de tamaño.
+El Hongqi E-HS9 Exclusive tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). En el centro del En el salpicadero hay una pantalla de infoentretenimiento y en la consola central hay una pantalla para el sistema climático. Para el pasajero hay una pantalla de infoentretenimiento.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 16,2 pulgadas de tamaño
+- La touch pantalla en el centro del tablero mide 16,2 pulgadas de tamaño
+- La touch pantalla frente al pasajero en el tablero mide 16,2 pulgadas de tamaño
+- La touch pantalla en el medio de la consola central mide 10,2 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 

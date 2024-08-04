@@ -166,7 +166,16 @@ Hongqi E-HS9 Exclusive+ inkluderer flere funksjoner for å forbedre komfort og b
 
 ## Brukergrensesnitt og kontroll
 
-Hongqi E-HS9 Exclusive+ har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I midten av dashbordet er en infotainmentskjerm, og i midtkonsollen er det en skjerm for klimasystemet. For passasjeren er det infotainmentskjerm. -skjermen bak rattet integrert i dashbordet er 16,2 tommer stor. touch-skjermen i dashbordets sentrum er 16,2 tommer stor. touch-skjermen foran passasjeren i dashbordet er 16,2 tommer stor. touch-skjermen i midten av midtkonsollen er 10,2 tommer stor.
+Hongqi E-HS9 Exclusive+ har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I midten av dashbordet er en infotainmentskjerm, og i midtkonsollen er det en skjerm for klimasystemet. For passasjeren er det infotainmentskjerm.
+
+
+Viktige skjermdetaljer:
+
+- -skjermen bak rattet integrert i dashbordet er 16,2 tommer stor
+- touch-skjermen i dashbordets sentrum er 16,2 tommer stor
+- touch-skjermen foran passasjeren i dashbordet er 16,2 tommer stor
+- touch-skjermen i midten av midtkonsollen er 10,2 tommer stor
+
 Modellen er ikke tilgjengelig med head-up display.
 
 

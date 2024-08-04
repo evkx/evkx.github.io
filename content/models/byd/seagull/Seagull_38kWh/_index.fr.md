@@ -160,7 +160,14 @@ L'BYD Seagull 38kWh comprend plusieurs fonctionnalités pour améliorer le confo
 
 ## Interface utilisateur et contrôle
 
-Le BYD Seagull 38kWh possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  derrière le volant monté dans le tableau de bord mesure 7,0 pouces. L'écran touch au centre du tableau de bord mesure 10,1 pouces.
+Le BYD Seagull 38kWh possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant monté dans le tableau de bord mesure 7,0 pouces
+- L'écran touch au centre du tableau de bord mesure 10,1 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

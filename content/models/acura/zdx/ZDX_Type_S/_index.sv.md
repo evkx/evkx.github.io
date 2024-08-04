@@ -155,7 +155,14 @@ Acura ZDX Type S inkluderar flera funktioner för att förbättra komfort och be
 
 ## Användargränssnitt och kontroll
 
-Acura ZDX Type S har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 11,0 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch översta mittkonsolen är 11,3 tum och har en upplösning på 1540 x 720 pixlar.
+Acura ZDX Type S har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 11,0 tum
+- Skärmen touch översta mittkonsolen är 11,3 tum
+
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

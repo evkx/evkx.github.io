@@ -161,7 +161,14 @@ Fisker Ocean Sport inkluderer flere funktioner, der forbedrer komfort og bekvemm
 
 ## Brugergrænseflade og kontrol
 
-Fisker Ocean Sport har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 10,2 tommer stor. Skærmen touch i midten af midterkonsollen er 17,1 tommer stor.
+Fisker Ocean Sport har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet integreret i instrumentbrættet er 10,2 tommer stor
+- Skærmen touch i midten af midterkonsollen er 17,1 tommer stor
+
 Modellen har ikke et head-up display.
 
 

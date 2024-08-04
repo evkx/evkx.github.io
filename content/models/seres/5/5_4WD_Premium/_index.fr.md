@@ -159,7 +159,13 @@ L'Seres 5 4WD Premium comprend plusieurs fonctionnalités pour améliorer le con
 
 ## Interface utilisateur et contrôle
 
-L'écran  derrière le volant intégré au tableau de bord mesure 12,3 pouces. L'écran  au centre du tableau de bord mesure 15,6 pouces.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant intégré au tableau de bord mesure 12,3 pouces
+- L'écran  au centre du tableau de bord mesure 15,6 pouces
+
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

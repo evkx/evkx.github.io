@@ -156,7 +156,15 @@ L'YangWang U9 comprend plusieurs fonctionnalités pour améliorer le confort et 
 
 ## Interface utilisateur et contrôle
 
-Le YangWang U9 possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager. L'écran  derrière le volant intégré au tableau de bord mesure 10,0 pouces. L'écran touch en haut de la console centrale mesure 11,0 pouces. L'écran touch devant le passager dans le tableau de bord mesure 10,0 pouces.
+Le YangWang U9 possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant intégré au tableau de bord mesure 10,0 pouces
+- L'écran touch en haut de la console centrale mesure 11,0 pouces
+- L'écran touch devant le passager dans le tableau de bord mesure 10,0 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

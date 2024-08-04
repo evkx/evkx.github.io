@@ -190,7 +190,14 @@ The Li Auto MEGA includes several features to enhance comfort and convenience:
 
 ## User interface and control
 
-The Li Auto MEGA has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. For the passenger, there is an infotainment screen. The touch screen on the dashboard's center is 15.7 inches large. The touch screen in front of the passenger on the dashboard is 15.7 inches large. For the rear seat passengers, there is an infotainment screen in the roof behind the first row seats.
+The Li Auto MEGA has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. For the passenger, there is an infotainment screen.
+
+
+Key screen details:
+
+- The touch screen on the dashboard's center is 15.7 inches large
+- The touch screen in front of the passenger on the dashboard is 15.7 inches large
+For the rear seat passengers, there is an infotainment screen in the roof behind the first row seats.
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 

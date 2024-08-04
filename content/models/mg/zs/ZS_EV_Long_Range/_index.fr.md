@@ -161,7 +161,13 @@ L'MG ZS EV Long Range comprend plusieurs fonctionnalités pour améliorer le con
 
 ## Interface utilisateur et contrôle
 
-L'écran  derrière le volant monté dans le tableau de bord mesure 7,0 pouces. L'écran touch en haut de la console centrale mesure 10,2 pouces.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant monté dans le tableau de bord mesure 7,0 pouces
+- L'écran touch en haut de la console centrale mesure 10,2 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

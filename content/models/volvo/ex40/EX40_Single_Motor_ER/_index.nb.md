@@ -154,7 +154,14 @@ Volvo EX40 Single Motor ER inkluderer flere funksjoner for å forbedre komfort o
 
 ## Brukergrensesnitt og kontroll
 
-Volvo EX40 Single Motor ER har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 12,0 tommer stor. touch-skjermen øverst på midtkonsollen er 9,0 tommer stor.
+Volvo EX40 Single Motor ER har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
+
+
+Viktige skjermdetaljer:
+
+- -skjermen bak rattet integrert i dashbordet er 12,0 tommer stor
+- touch-skjermen øverst på midtkonsollen er 9,0 tommer stor
+
 Modellen er ikke tilgjengelig med head-up display.
 
 

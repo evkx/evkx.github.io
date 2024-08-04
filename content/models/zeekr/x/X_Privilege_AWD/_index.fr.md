@@ -157,7 +157,13 @@ L'Zeekr X Privilege AWD comprend plusieurs fonctionnalités pour améliorer le c
 
 ## Interface utilisateur et contrôle
 
-L'écran  sur la colonne de direction mesure 8,0 pouces. L'écran touch en haut de la console centrale mesure 14,6 pouces.
+
+
+Détails clés de l'écran :
+
+- L'écran  sur la colonne de direction mesure 8,0 pouces
+- L'écran touch en haut de la console centrale mesure 14,6 pouces
+
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

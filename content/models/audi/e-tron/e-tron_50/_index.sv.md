@@ -250,7 +250,15 @@ Audi e-tron 50 inkluderar flera funktioner för att förbättra komfort och bekv
 
 ## Användargränssnitt och kontroll
 
-Audi e-tron 50 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm). Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum och har en upplösning på 1920 x 720 pixlar. Skärmen touch översta mittkonsolen är 10,1 tum och har en upplösning på 1540 x 720 pixlar. Skärmen touch botten av mittkonsolen är 8,6 tum och har en upplösning på 1280 x 660 pixlar.
+Audi e-tron 50 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm).
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum
+- Skärmen touch översta mittkonsolen är 10,1 tum
+- Skärmen touch botten av mittkonsolen är 8,6 tum
+
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

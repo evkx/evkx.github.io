@@ -160,7 +160,14 @@ L'Zeekr 001 Long Range RWD comprend plusieurs fonctionnalités pour améliorer l
 
 ## Interface utilisateur et contrôle
 
-Le Zeekr 001 Long Range RWD possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale. L'écran  derrière le volant intégré au tableau de bord mesure 8,8 pouces. L'écran touch en haut de la console centrale mesure 15,4 pouces.
+Le Zeekr 001 Long Range RWD possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant intégré au tableau de bord mesure 8,8 pouces
+- L'écran touch en haut de la console centrale mesure 15,4 pouces
+
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

@@ -161,7 +161,13 @@ MG ZS EV Long Range inkluderer flere funktioner, der forbedrer komfort og bekvem
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet monteret i instrumentbrættet er 7,0 tommer stor. Skærmen touch øverst på midterkonsollen er 10,2 tommer stor.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet monteret i instrumentbrættet er 7,0 tommer stor
+- Skærmen touch øverst på midterkonsollen er 10,2 tommer stor
+
 Modellen har ikke et head-up display.
 
 

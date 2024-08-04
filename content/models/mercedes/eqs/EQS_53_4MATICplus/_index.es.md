@@ -196,7 +196,15 @@ El Mercedes-AMG EQS 53 4MATIC+ incluye varias características para mejorar la c
 
 ## Interfaz de usuario y control
 
-El Mercedes-AMG EQS 53 4MATIC+ tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero. La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño y tiene una resolución de 2400x900 píxeles. La touch pantalla en la parte superior de la consola central mide 17,7 pulgadas de tamaño y tiene una resolución de 3088x1728 píxeles. La  pantalla frente al pasajero en el tablero mide 12,3 pulgadas de tamaño y tiene una resolución de 2400x900 píxeles.
+El Mercedes-AMG EQS 53 4MATIC+ tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño
+- La touch pantalla en la parte superior de la consola central mide 17,7 pulgadas de tamaño
+- La  pantalla frente al pasajero en el tablero mide 12,3 pulgadas de tamaño
+
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

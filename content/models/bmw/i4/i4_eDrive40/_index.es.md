@@ -226,7 +226,14 @@ El BMW i4 eDrive40 incluye varias características para mejorar la comodidad y c
 
 ## Interfaz de usuario y control
 
-El BMW i4 eDrive40 tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla detrás del volante a la izquierda del marco mide 12,3 pulgadas de tamaño y tiene una resolución de 1920 x 720 píxeles. La touch pantalla en la parte derecha del marco compartido mide 14,9 pulgadas de tamaño y tiene una resolución de 2880 x 1080 píxeles.
+El BMW i4 eDrive40 tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante a la izquierda del marco mide 12,3 pulgadas de tamaño
+- La touch pantalla en la parte derecha del marco compartido mide 14,9 pulgadas de tamaño
+
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 ## Infoentretenimiento

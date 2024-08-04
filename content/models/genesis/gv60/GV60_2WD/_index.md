@@ -169,7 +169,14 @@ The Genesis GV60 2WD includes several features to enhance comfort and convenienc
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen on the dashboard's center is 14.9 inches large. The touch screen at the bottom of the center console is 7.6 inches large and has a 1280 x 660 pixels resolution.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large
+- The touch screen on the dashboard's center is 14.9 inches large
+- The touch screen at the bottom of the center console is 7.6 inches large
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

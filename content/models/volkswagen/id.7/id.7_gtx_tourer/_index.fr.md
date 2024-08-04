@@ -178,7 +178,14 @@ L'Volkswagen ID.7 GTX Tourer comprend plusieurs fonctionnalités pour améliorer
 
 ## Interface utilisateur et contrôle
 
-Le Volkswagen ID.7 GTX Tourer dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  sur la colonne de direction mesure 5,0 pouces. L'écran touch au centre du tableau de bord mesure 15,0 pouces.
+Le Volkswagen ID.7 GTX Tourer dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Détails clés de l'écran :
+
+- L'écran  sur la colonne de direction mesure 5,0 pouces
+- L'écran touch au centre du tableau de bord mesure 15,0 pouces
+
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

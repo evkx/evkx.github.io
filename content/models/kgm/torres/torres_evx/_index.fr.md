@@ -157,7 +157,14 @@ L'KGM Torres EVX comprend plusieurs fonctionnalités pour améliorer le confort 
 
 ## Interface utilisateur et contrôle
 
-Le KGM Torres EVX possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  derrière le volant à gauche du cadre mesure 12,3 pouces et a une résolution de 1920 x 720 pixels. L'écran touch à droite du cadre partagé mesure 12,3 pouces et a une résolution de 2880 x 1080 pixels.
+Le KGM Torres EVX possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant à gauche du cadre mesure 12,3 pouces
+- L'écran touch à droite du cadre partagé mesure 12,3 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

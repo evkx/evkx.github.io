@@ -194,7 +194,16 @@ El Audi S6 Avant e-tron incluye varias características para mejorar la comodida
 
 ## Interfaz de usuario y control
 
-El Audi S6 Avant e-tron tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero. La touch pantalla detrás del volante integrado en el salpicadero mide 11,9 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 14,9 pulgadas de tamaño. La touch pantalla frente al pasajero en el tablero mide 10,9 pulgadas de tamaño.
+La interfaz de control de este modelo de vehículo eléctrico incluye una combinación intuitiva de botones, palancas y pantallas, proporcionando una experiencia de uso fluida y amigable.
+
+El Audi S6 Avant e-tron tiene dos pantallas en un marco curvado compartido parcialmente integrado en el tablero. Para el pasajero, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) opcional.
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante a la izquierda del marco mide 11,9 pulgadas de tamaño
+- La touch pantalla en la parte derecha del marco compartido mide 14,9 pulgadas de tamaño
+- La touch pantalla frente al pasajero en el tablero mide 10,9 pulgadas de tamaño
+
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

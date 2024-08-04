@@ -161,7 +161,13 @@ Alfa Romeo Junior inkluderar flera funktioner för att förbättra komfort och b
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten integrerad i instrumentbrädan är 10,3 tum. Skärmen touch i mitten av instrumentbrädan är 10,3 tum.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 10,3 tum
+- Skärmen touch i mitten av instrumentbrädan är 10,3 tum
+
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 ## Infotainment

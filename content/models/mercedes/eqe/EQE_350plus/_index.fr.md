@@ -190,9 +190,23 @@ L'Mercedes-EQ EQE 350+ comprend plusieurs fonctionnalités pour améliorer le co
 
 Deux configurations d'écran différentes sont disponibles sur le Mercedes-EQ EQE 350+.
 
-La disposition standard a la configuration suivante. L'écran  derrière le volant monté dans le tableau de bord mesure 12,3 pouces et a une résolution de 2400x900 pixels. L'écran touch au milieu de la console centrale mesure 12,8 pouces et a une résolution de 1888x1728 pixels.
+La disposition standard a la configuration suivante.
 
-La disposition facultative MBUX Hyperscreen a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager. L'écran  derrière le volant intégré au tableau de bord mesure 12,3 pouces et a une résolution de 2400x900 pixels. L'écran touch en haut de la console centrale mesure 17,7 pouces et a une résolution de 3088x1728 pixels. L'écran  devant le passager dans le tableau de bord mesure 12,3 pouces et a une résolution de 2400x900 pixels.
+Détails clés de l'écran :
+
+- L'écran  derrière le volant monté dans le tableau de bord mesure 12,3 pouces
+- L'écran touch au milieu de la console centrale mesure 12,8 pouces
+
+
+La disposition facultative MBUX Hyperscreen a la configuration suivante. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant intégré au tableau de bord mesure 12,3 pouces
+- L'écran touch en haut de la console centrale mesure 17,7 pouces
+- L'écran  devant le passager dans le tableau de bord mesure 12,3 pouces
+
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

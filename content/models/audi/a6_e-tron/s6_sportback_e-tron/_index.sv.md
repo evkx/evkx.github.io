@@ -190,7 +190,16 @@ Audi S6 Sportback e-tron inkluderar flera funktioner för att förbättra komfor
 
 ## Användargränssnitt och kontroll
 
-Audi S6 Sportback e-tron har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen touch bakom ratten integrerad i instrumentbrädan är 11,9 tum. Skärmen touch översta mittkonsolen är 14,9 tum. Skärmen touch framför passageraren i instrumentbrädan är 10,9 tum.
+Kontrollgränssnittet för denna elbilsmodell inkluderar en intuitiv kombination av knappar, spakar och skärmar, vilket ger en smidig och användarvänlig upplevelse.
+
+Audi S6 Sportback e-tron har två skärmar på en delad böjd ram delvis integrerad i instrumentbrädan. För passageraren finns en valfri [infotainmentskärm](../../../../technology/userinterface/screens/#front-passenger-screen).
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten till vänster om ramen är 11,9 tum
+- Skärmen touch på högra sidan av den delade ramen är 14,9 tum
+- Skärmen touch framför passageraren i instrumentbrädan är 10,9 tum
+
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter dig styra viss funktionalitet genom röstkommandon.

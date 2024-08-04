@@ -166,7 +166,13 @@ The Ford Mustang Mach-E Long Range RWD includes several features to enhance comf
 
 ## User interface and control
 
-The  screen behind the steering wheel mounted into the dashboard is 10.2 inches large. The touch screen at the top of the center console is 15.5 inches large.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel mounted into the dashboard is 10.2 inches large
+- The touch screen at the top of the center console is 15.5 inches large
+
 The model does not have a head-up display.
 
 

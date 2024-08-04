@@ -160,7 +160,14 @@ Zeekr 001 Long Range RWD inkluderar flera funktioner för att förbättra komfor
 
 ## Användargränssnitt och kontroll
 
-Zeekr 001 Long Range RWD har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 8,8 tum. Skärmen touch översta mittkonsolen är 15,4 tum.
+Zeekr 001 Long Range RWD har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 8,8 tum
+- Skärmen touch översta mittkonsolen är 15,4 tum
+
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

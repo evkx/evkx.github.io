@@ -165,7 +165,14 @@ Polestar 2 Long Range Dual Motor Performance inkluderer flere funktioner, der fo
 
 ## Brugergrænseflade og kontrol
 
-Polestar 2 Long Range Dual Motor Performance har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor. Skærmen touch øverst på midterkonsollen er 11,2 tommer stor.
+Polestar 2 Long Range Dual Motor Performance har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor
+- Skærmen touch øverst på midterkonsollen er 11,2 tommer stor
+
 Modellen har ikke et head-up display.
 
 

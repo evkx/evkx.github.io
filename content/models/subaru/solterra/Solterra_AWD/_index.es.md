@@ -158,9 +158,23 @@ El Subaru Solterra AWD incluye varias características para mejorar la comodidad
 
 Hay dos configuraciones de pantalla diferentes disponibles en Subaru Solterra AWD.
 
-El diseño estándar tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central. La touch pantalla detrás del volante integrado en el salpicadero mide 7,0 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 8,9 pulgadas de tamaño.
+El diseño estándar tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
 
-El diseño opcional  tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central. La touch pantalla detrás del volante integrado en el salpicadero mide 7,0 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 12,3 pulgadas de tamaño.
+
+Detalles clave de la pantalla:
+
+- La touch pantalla detrás del volante integrado en el salpicadero mide 7,0 pulgadas de tamaño
+- La touch pantalla en la parte superior de la consola central mide 8,9 pulgadas de tamaño
+
+
+El diseño opcional  tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
+
+
+Detalles clave de la pantalla:
+
+- La touch pantalla detrás del volante integrado en el salpicadero mide 7,0 pulgadas de tamaño
+- La touch pantalla en la parte superior de la consola central mide 12,3 pulgadas de tamaño
+
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

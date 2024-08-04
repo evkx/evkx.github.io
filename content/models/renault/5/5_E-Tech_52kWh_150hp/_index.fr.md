@@ -159,7 +159,14 @@ L'Renault 5 E-Tech 52kWh 150hp comprend plusieurs fonctionnalités pour amélior
 
 ## Interface utilisateur et contrôle
 
-Le Renault 5 E-Tech 52kWh 150hp possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  derrière le volant monté dans le tableau de bord mesure 10,0 pouces. L'écran touch au centre du tableau de bord mesure 10,1 pouces.
+Le Renault 5 E-Tech 52kWh 150hp possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant monté dans le tableau de bord mesure 10,0 pouces
+- L'écran touch au centre du tableau de bord mesure 10,1 pouces
+
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 Ce modèle est équipé en standard d'une commande vocale. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.

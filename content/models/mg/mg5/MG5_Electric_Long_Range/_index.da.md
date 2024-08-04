@@ -157,7 +157,14 @@ MG MG5 Electric Long Range inkluderer flere funktioner, der forbedrer komfort og
 
 ## Brugergrænseflade og kontrol
 
-MG MG5 Electric Long Range har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 7,0 tommer stor. Skærmen touch øverst på midterkonsollen er 10,3 tommer stor.
+MG MG5 Electric Long Range har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet integreret i instrumentbrættet er 7,0 tommer stor
+- Skærmen touch øverst på midterkonsollen er 10,3 tommer stor
+
 Modellen har ikke et head-up display.
 
 

@@ -165,7 +165,14 @@ The Hyundai Ioniq 6 Long Range RWD includes several features to enhance comfort 
 
 ## User interface and control
 
-The Hyundai Ioniq 6 Long Range RWD has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12.3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 12.3 inches large and has a 2880 x 1080 pixels resolution.
+The Hyundai Ioniq 6 Long Range RWD has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Key screen details:
+
+- The  screen behind the steering wheel on the left of the frame is 12.3 inches large
+- The touch screen at the right part of the shared frame is 12.3 inches large
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

@@ -165,7 +165,14 @@ Polestar 3 Long Range Dual Motor inkluderar flera funktioner för att förbättr
 
 ## Användargränssnitt och kontroll
 
-Polestar 3 Long Range Dual Motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 9,0 tum. Skärmen touch översta mittkonsolen är 14,5 tum.
+Polestar 3 Long Range Dual Motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 9,0 tum
+- Skärmen touch översta mittkonsolen är 14,5 tum
+
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

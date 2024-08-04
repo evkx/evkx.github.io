@@ -160,7 +160,13 @@ Cadillac LYRIQ RWD inkluderer flere funktioner, der forbedrer komfort og bekvemm
 
 ## Brugergrænseflade og kontrol
 
-Cadillac LYRIQ RWD har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen touch bag rattet på tværs af midten af instrumentbrættet er 33,0 tommer stor.
+Cadillac LYRIQ RWD har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen touch bag rattet på tværs af midten af instrumentbrættet er 33,0 tommer stor
+
 Modellen har ikke et head-up display.
 
 

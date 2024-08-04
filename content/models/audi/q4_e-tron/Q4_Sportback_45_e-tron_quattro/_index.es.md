@@ -188,7 +188,14 @@ El Audi Q4 Sportback 45 e-tron quattro incluye varias características para mejo
 
 ## Interfaz de usuario y control
 
-El Audi Q4 Sportback 45 e-tron quattro tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central. La  pantalla detrás del volante integrado en el salpicadero mide 10,2 pulgadas de tamaño y tiene una resolución de 1920 x 720 píxeles. La touch pantalla en la parte superior de la consola central mide 11,6 pulgadas de tamaño y tiene una resolución de 1540 x 720 píxeles.
+El Audi Q4 Sportback 45 e-tron quattro tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 10,2 pulgadas de tamaño
+- La touch pantalla en la parte superior de la consola central mide 11,6 pulgadas de tamaño
+
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

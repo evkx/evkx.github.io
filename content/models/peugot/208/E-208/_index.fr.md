@@ -157,7 +157,13 @@ L'Peugot E-208 comprend plusieurs fonctionnalités pour améliorer le confort et
 
 ## Interface utilisateur et contrôle
 
-L'écran  derrière le volant intégré au tableau de bord mesure 10,3 pouces. L'écran touch au centre du tableau de bord mesure 10,3 pouces.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant intégré au tableau de bord mesure 10,3 pouces
+- L'écran touch au centre du tableau de bord mesure 10,3 pouces
+
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

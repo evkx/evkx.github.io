@@ -167,7 +167,13 @@ El Tesla Cybertruck Cyberbeast incluye varias características para mejorar la c
 
 ## Interfaz de usuario y control
 
-El Tesla Cybertruck Cyberbeast tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil. La touch pantalla en el centro del tablero mide 18,5 pulgadas de tamaño.
+El Tesla Cybertruck Cyberbeast tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil.
+
+
+Detalles clave de la pantalla:
+
+- La touch pantalla en el centro del tablero mide 18,5 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 

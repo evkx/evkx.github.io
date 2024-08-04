@@ -155,7 +155,14 @@ Chevrolet Blazer EV RS AWD inkluderar flera funktioner för att förbättra komf
 
 ## Användargränssnitt och kontroll
 
-Chevrolet Blazer EV RS AWD har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument). Skärmen  bakom ratten på ramens vänstra sida är 11,0 tum. Skärmen touch på höger sida av den delade ramen är 17,7 tum.
+Chevrolet Blazer EV RS AWD har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten på ramens vänstra sida är 11,0 tum
+- Skärmen touch på höger sida av den delade ramen är 17,7 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

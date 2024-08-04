@@ -160,7 +160,13 @@ L'Cadillac OPTIQ AWD comprend plusieurs fonctionnalités pour améliorer le conf
 
 ## Interface utilisateur et contrôle
 
-Le Cadillac OPTIQ AWD a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement. L'écran touch derrière le volant en face du centre du tableau de bord mesure 33,0 pouces.
+Le Cadillac OPTIQ AWD a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement.
+
+
+Détails clés de l'écran :
+
+- L'écran touch derrière le volant en face du centre du tableau de bord mesure 33,0 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

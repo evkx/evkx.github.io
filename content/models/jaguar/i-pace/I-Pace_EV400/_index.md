@@ -196,7 +196,15 @@ The Jaguar I-Pace EV400 includes several features to enhance comfort and conveni
 
 ## User interface and control
 
-The Jaguar I-Pace EV400 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen at the top of the center console is 10.0 inches large. The touch screen at the bottom of the center console is 5.5 inches large.
+The Jaguar I-Pace EV400 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Key screen details:
+
+- The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large
+- The touch screen at the top of the center console is 10.0 inches large
+- The touch screen at the bottom of the center console is 5.5 inches large
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

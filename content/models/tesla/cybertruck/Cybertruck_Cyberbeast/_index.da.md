@@ -167,7 +167,13 @@ Tesla Cybertruck Cyberbeast inkluderer flere funktioner, der forbedrer komfort o
 
 ## Brugergrænseflade og kontrol
 
-Tesla Cybertruck Cyberbeast har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen touch i dashboardets midte er 18,5 tommer stor.
+Tesla Cybertruck Cyberbeast har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen touch i dashboardets midte er 18,5 tommer stor
+
 Modellen har ikke et head-up display.
 
 

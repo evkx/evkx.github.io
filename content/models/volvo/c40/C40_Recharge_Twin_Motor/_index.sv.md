@@ -168,7 +168,14 @@ Volvo C40 Recharge Twin Motor inkluderar flera funktioner för att förbättra k
 
 ## Användargränssnitt och kontroll
 
-Volvo C40 Recharge Twin Motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,0 tum. Skärmen touch översta mittkonsolen är 9,0 tum.
+Volvo C40 Recharge Twin Motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 12,0 tum
+- Skärmen touch översta mittkonsolen är 9,0 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

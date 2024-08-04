@@ -160,7 +160,14 @@ BYD Seagull 38kWh inkluderar flera funktioner för att förbättra komfort och b
 
 ## Användargränssnitt och kontroll
 
-BYD Seagull 38kWh har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument). Skärmen  bakom ratten monterad i instrumentbrädan är 7,0 tum. Skärmen touch i mitten av instrumentbrädan är 10,1 tum.
+BYD Seagull 38kWh har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten monterad i instrumentbrädan är 7,0 tum
+- Skärmen touch i mitten av instrumentbrädan är 10,1 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

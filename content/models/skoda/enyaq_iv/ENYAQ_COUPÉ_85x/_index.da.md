@@ -170,7 +170,14 @@ SKODA ENYAQ COUPÉ 85x inkluderer flere funktioner, der forbedrer komfort og bek
 
 ## Brugergrænseflade og kontrol
 
-SKODA ENYAQ COUPÉ 85x har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  på ratstammen er 5,3 tommer stor. Skærmen touch i dashboardets midte er 13,0 tommer stor.
+SKODA ENYAQ COUPÉ 85x har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  på ratstammen er 5,3 tommer stor
+- Skærmen touch i dashboardets midte er 13,0 tommer stor
+
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

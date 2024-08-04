@@ -156,7 +156,13 @@ DS 3 E-Tense inkluderer flere funksjoner for å forbedre komfort og bekvemmeligh
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet integrert i dashbordet er 7,0 tommer stor. touch-skjermen i dashbordets sentrum er 10,3 tommer stor.
+
+
+Viktige skjermdetaljer:
+
+- -skjermen bak rattet integrert i dashbordet er 7,0 tommer stor
+- touch-skjermen i dashbordets sentrum er 10,3 tommer stor
+
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

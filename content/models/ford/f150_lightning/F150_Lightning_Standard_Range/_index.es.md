@@ -159,9 +159,21 @@ El Ford F150 Lightning Standard Range incluye varias características para mejor
 
 Hay dos configuraciones de pantalla diferentes disponibles en Ford F150 Lightning Standard Range.
 
-El diseño estándar tiene la siguiente configuración. La  pantalla detrás del volante integrado en el salpicadero mide 12,0 pulgadas de tamaño. La  pantalla en el centro del tablero mide 12,0 pulgadas de tamaño.
+El diseño estándar tiene la siguiente configuración.
 
-El diseño opcional  tiene la siguiente configuración. La  pantalla detrás del volante integrado en el salpicadero mide 12,0 pulgadas de tamaño. La  pantalla en el centro del tablero mide 15,5 pulgadas de tamaño.
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 12,0 pulgadas de tamaño
+- La  pantalla en el centro del tablero mide 12,0 pulgadas de tamaño
+
+
+El diseño opcional  tiene la siguiente configuración.
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 12,0 pulgadas de tamaño
+- La  pantalla en el centro del tablero mide 15,5 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 

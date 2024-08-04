@@ -176,7 +176,13 @@ HiPhi Z 4 Seater inkluderer flere funksjoner for å forbedre komfort og bekvemme
 
 ## Brukergrensesnitt og kontroll
 
-HiPhi Z 4 Seater har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum er 15,0 tommer stor.
+HiPhi Z 4 Seater har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment.
+
+
+Viktige skjermdetaljer:
+
+- touch-skjermen i dashbordets sentrum er 15,0 tommer stor
+
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

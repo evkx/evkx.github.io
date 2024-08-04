@@ -174,7 +174,13 @@ Nio ET9 inkluderar flera funktioner för att förbättra komfort och bekvämligh
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten monterad i instrumentbrädan är 10,2 tum. Skärmen touch i mitten av mittkonsolen är 15,6 tum. För baksätespassagerare finns infotainmentskärmar längst bak på första sätesraden
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten monterad i instrumentbrädan är 10,2 tum
+- Skärmen touch i mitten av mittkonsolen är 15,6 tum
+För baksätespassagerare finns infotainmentskärmar längst bak på första sätesraden
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 Denna modell har ett valfritt röststyrningssystem. Röstkontrollen låter dig styra vissa funktioner genom röstkommandon.

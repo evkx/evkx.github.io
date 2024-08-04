@@ -190,7 +190,14 @@ Li Auto MEGA inkluderer flere funktioner, der forbedrer komfort og bekvemmelighe
 
 ## Brugergrænseflade og kontrol
 
-Li Auto MEGA har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Til passageren er der en infotainmentskærm. Skærmen touch i dashboardets midte er 15,7 tommer stor. Skærmen touch foran passageren på instrumentbrættet er 15,7 tommer stor. For bagsædepassagererne er der en infotainmentskærm i taget bag sæderne på første række.
+Li Auto MEGA har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Til passageren er der en infotainmentskærm.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen touch i dashboardets midte er 15,7 tommer stor
+- Skærmen touch foran passageren på instrumentbrættet er 15,7 tommer stor
+For bagsædepassagererne er der en infotainmentskærm i taget bag sæderne på første række.
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

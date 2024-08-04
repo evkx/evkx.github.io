@@ -156,7 +156,15 @@ The YangWang U9 includes several features to enhance comfort and convenience:
 
 ## User interface and control
 
-The YangWang U9 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 10.0 inches large. The touch screen at the top of the center console is 11.0 inches large. The touch screen in front of the passenger in the dashboard is 10.0 inches large.
+The YangWang U9 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel integrated into the dashboard is 10.0 inches large
+- The touch screen at the top of the center console is 11.0 inches large
+- The touch screen in front of the passenger in the dashboard is 10.0 inches large
+
 The model does not have a head-up display.
 
 

@@ -183,7 +183,13 @@ Lucid Gravity Dream Edition inkluderar flera funktioner för att förbättra kom
 
 ## Användargränssnitt och kontroll
 
-Skärmen touch bakom ratten över mitten av instrumentbrädan är 34,0 tum. Skärmen touch i mitten av mittkonsolen är 12,0 tum.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen touch bakom ratten över mitten av instrumentbrädan är 34,0 tum
+- Skärmen touch i mitten av mittkonsolen är 12,0 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

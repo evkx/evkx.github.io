@@ -173,7 +173,13 @@ The Hyundai INSTER Long Range includes several features to enhance comfort and c
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 10.3 inches large. The touch screen on the dashboard's center is 10.3 inches large.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel integrated into the dashboard is 10.3 inches large
+- The touch screen on the dashboard's center is 10.3 inches large
+
 The model does not have a head-up display.
 
 

@@ -179,7 +179,13 @@ L'Tesla Model Y Long Range comprend plusieurs fonctionnalités pour améliorer l
 
 ## Interface utilisateur et contrôle
 
-Le Tesla Model Y Long Range a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement. L'écran touch au centre du tableau de bord mesure 15,0 pouces et a une résolution de 2200 x 1300 pixels.
+Le Tesla Model Y Long Range a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement.
+
+
+Détails clés de l'écran :
+
+- L'écran touch au centre du tableau de bord mesure 15,0 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

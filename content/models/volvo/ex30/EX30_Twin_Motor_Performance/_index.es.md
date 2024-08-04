@@ -159,7 +159,13 @@ El Volvo EX30 Twin Motor Performance incluye varias características para mejora
 
 ## Interfaz de usuario y control
 
-El Volvo EX30 Twin Motor Performance tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil. La touch pantalla en el centro del tablero mide 12,3 pulgadas de tamaño.
+El Volvo EX30 Twin Motor Performance tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil.
+
+
+Detalles clave de la pantalla:
+
+- La touch pantalla en el centro del tablero mide 12,3 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 

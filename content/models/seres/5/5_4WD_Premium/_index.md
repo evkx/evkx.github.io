@@ -159,7 +159,13 @@ The Seres 5 4WD Premium includes several features to enhance comfort and conveni
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The  screen on the dashboard's center is 15.6 inches large.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large
+- The  screen on the dashboard's center is 15.6 inches large
+
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 

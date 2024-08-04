@@ -196,7 +196,15 @@ Jaguar I-Pace EV400 inkluderer flere funksjoner for å forbedre komfort og bekve
 
 ## Brukergrensesnitt og kontroll
 
-Jaguar I-Pace EV400 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er to forskjellige [infotainment-skjermer](../../../../technology/userinterface/screens/#infotainment-screen). -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor. touch-skjermen øverst på midtkonsollen er 10,0 tommer stor. touch-skjermen nederst på midtkonsollen er 5,5 tommer stor.
+Jaguar I-Pace EV400 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er to forskjellige [infotainment-skjermer](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Viktige skjermdetaljer:
+
+- -skjermen bak rattet integrert i dashbordet er 12,3 tommer stor
+- touch-skjermen øverst på midtkonsollen er 10,0 tommer stor
+- touch-skjermen nederst på midtkonsollen er 5,5 tommer stor
+
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

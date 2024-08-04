@@ -183,7 +183,13 @@ The Lucid Gravity Dream Edition includes several features to enhance comfort and
 
 ## User interface and control
 
-The touch screen behind the steering wheel accross the the center of the dash is 34.0 inches large. The touch screen in the middle of the center console is 12.0 inches large.
+
+
+Key screen details:
+
+- The touch screen behind the steering wheel accross the the center of the dash is 34.0 inches large
+- The touch screen in the middle of the center console is 12.0 inches large
+
 The model does not have a head-up display.
 
 

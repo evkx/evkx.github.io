@@ -171,7 +171,14 @@ L'Opel Frontera comprend plusieurs fonctionnalités pour améliorer le confort e
 
 ## Interface utilisateur et contrôle
 
-Le Opel Frontera possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  derrière le volant à gauche du cadre mesure 10,0 pouces. L'écran touch à droite du cadre partagé mesure 10,0 pouces.
+Le Opel Frontera possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant à gauche du cadre mesure 10,0 pouces
+- L'écran touch à droite du cadre partagé mesure 10,0 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

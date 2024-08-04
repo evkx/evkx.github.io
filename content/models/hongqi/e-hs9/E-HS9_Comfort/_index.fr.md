@@ -164,7 +164,16 @@ L'Hongqi E-HS9 Comfort comprend plusieurs fonctionnalités pour améliorer le co
 
 ## Interface utilisateur et contrôle
 
-Le Hongqi E-HS9 Comfort possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). Au centre du le tableau de bord est un écran d'infodivertissement, et dans la console centrale se trouve un écran pour le système de climatisation. Pour le passager, il y a un écran d'infodivertissement. L'écran  derrière le volant intégré au tableau de bord mesure 16,2 pouces. L'écran touch au centre du tableau de bord mesure 16,2 pouces. L'écran touch devant le passager dans le tableau de bord mesure 16,2 pouces. L'écran touch au milieu de la console centrale mesure 10,2 pouces.
+Le Hongqi E-HS9 Comfort possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). Au centre du le tableau de bord est un écran d'infodivertissement, et dans la console centrale se trouve un écran pour le système de climatisation. Pour le passager, il y a un écran d'infodivertissement.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant intégré au tableau de bord mesure 16,2 pouces
+- L'écran touch au centre du tableau de bord mesure 16,2 pouces
+- L'écran touch devant le passager dans le tableau de bord mesure 16,2 pouces
+- L'écran touch au milieu de la console centrale mesure 10,2 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

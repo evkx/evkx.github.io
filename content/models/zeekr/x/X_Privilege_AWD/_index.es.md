@@ -157,7 +157,13 @@ El Zeekr X Privilege AWD incluye varias características para mejorar la comodid
 
 ## Interfaz de usuario y control
 
-La  pantalla en la columna de dirección mide 8,0 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 14,6 pulgadas de tamaño.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla en la columna de dirección mide 8,0 pulgadas de tamaño
+- La touch pantalla en la parte superior de la consola central mide 14,6 pulgadas de tamaño
+
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

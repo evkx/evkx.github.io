@@ -159,7 +159,13 @@ Volvo EX30 Twin Motor Performance inkluderer flere funksjoner for å forbedre ko
 
 ## Brukergrensesnitt og kontroll
 
-Volvo EX30 Twin Motor Performance har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum er 12,3 tommer stor.
+Volvo EX30 Twin Motor Performance har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment.
+
+
+Viktige skjermdetaljer:
+
+- touch-skjermen i dashbordets sentrum er 12,3 tommer stor
+
 Modellen er ikke tilgjengelig med head-up display.
 
 

@@ -211,7 +211,15 @@ El Audi Q6 e-tron performance incluye varias características para mejorar la co
 
 ## Interfaz de usuario y control
 
-El Audi Q6 e-tron performance tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero. La touch pantalla detrás del volante integrado en el salpicadero mide 11,9 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 14,9 pulgadas de tamaño. La touch pantalla frente al pasajero en el tablero mide 10,9 pulgadas de tamaño.
+El Audi Q6 e-tron performance tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero.
+
+
+Detalles clave de la pantalla:
+
+- La touch pantalla detrás del volante integrado en el salpicadero mide 11,9 pulgadas de tamaño
+- La touch pantalla en la parte superior de la consola central mide 14,9 pulgadas de tamaño
+- La touch pantalla frente al pasajero en el tablero mide 10,9 pulgadas de tamaño
+
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

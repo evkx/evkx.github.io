@@ -161,7 +161,13 @@ MG ZS EV Long Range inkluderar flera funktioner för att förbättra komfort och
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten monterad i instrumentbrädan är 7,0 tum. Skärmen touch översta mittkonsolen är 10,2 tum.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten monterad i instrumentbrädan är 7,0 tum
+- Skärmen touch översta mittkonsolen är 10,2 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

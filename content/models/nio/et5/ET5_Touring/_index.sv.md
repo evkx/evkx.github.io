@@ -183,7 +183,13 @@ Nio ET5 Touring inkluderar flera funktioner för att förbättra komfort och bek
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten monterad i instrumentbrädan är 10,2 tum. Skärmen touch i mitten av mittkonsolen är 12,3 tum.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten monterad i instrumentbrädan är 10,2 tum
+- Skärmen touch i mitten av mittkonsolen är 12,3 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 Denna modell har ett valfritt röststyrningssystem. Röstkontrollen låter dig styra vissa funktioner genom röstkommandon.

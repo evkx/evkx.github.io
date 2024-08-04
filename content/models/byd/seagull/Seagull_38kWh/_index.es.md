@@ -160,7 +160,14 @@ El BYD Seagull 38kWh incluye varias características para mejorar la comodidad y
 
 ## Interfaz de usuario y control
 
-El BYD Seagull 38kWh tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla detrás del volante montado en el tablero mide 7,0 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 10,1 pulgadas de tamaño.
+El BYD Seagull 38kWh tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante montado en el tablero mide 7,0 pulgadas de tamaño
+- La touch pantalla en el centro del tablero mide 10,1 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 

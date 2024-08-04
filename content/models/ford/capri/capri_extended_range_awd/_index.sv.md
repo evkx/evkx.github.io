@@ -171,7 +171,14 @@ Ford Capri Extended Range AWD inkluderar flera funktioner för att förbättra k
 
 ## Användargränssnitt och kontroll
 
-Ford Capri Extended Range AWD har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm). Skärmen  på rattstången är 5,0 tum. Skärmen touch i mitten av instrumentbrädan är 14,6 tum.
+Ford Capri Extended Range AWD har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm).
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  på rattstången är 5,0 tum
+- Skärmen touch i mitten av instrumentbrädan är 14,6 tum
+
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

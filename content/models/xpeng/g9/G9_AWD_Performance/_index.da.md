@@ -171,7 +171,15 @@ XPENG G9 AWD Performance inkluderer flere funktioner, der forbedrer komfort og b
 
 ## Brugergrænseflade og kontrol
 
-XPENG G9 AWD Performance har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet. Skærmen  bag rattet monteret i instrumentbrættet er 10,3 tommer stor. Skærmen touch i dashboardets midte er 15,0 tommer stor. Skærmen touch foran passageren på instrumentbrættet er 15,0 tommer stor.
+XPENG G9 AWD Performance har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet monteret i instrumentbrættet er 10,3 tommer stor
+- Skærmen touch i dashboardets midte er 15,0 tommer stor
+- Skærmen touch foran passageren på instrumentbrættet er 15,0 tommer stor
+
 Modellen har ikke et head-up display.
 
 

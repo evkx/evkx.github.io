@@ -167,7 +167,13 @@ El Xiaomi SU7 incluye varias características para mejorar la comodidad y conven
 
 ## Interfaz de usuario y control
 
-La  pantalla detrás del volante integrado en el salpicadero mide 7,1 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 16,1 pulgadas de tamaño.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 7,1 pulgadas de tamaño
+- La touch pantalla en el centro del tablero mide 16,1 pulgadas de tamaño
+
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

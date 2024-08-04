@@ -190,9 +190,23 @@ Mercedes-AMG EQE 53 4MATIC+ SUV inkluderar flera funktioner för att förbättra
 
 Två olika skärmlayouter är tillgängliga på Mercedes-AMG EQE 53 4MATIC+ SUV.
 
-Standardlayouten har följande konfiguration. Skärmen  bakom ratten monterad i instrumentbrädan är 12,3 tum och har en upplösning på 2400x900 pixlar. Skärmen touch i mitten av mittkonsolen är 12,8 tum och har en upplösning på 1888x1728 pixlar.
+Standardlayouten har följande konfiguration.
 
-Den valfria MBUX Hyperscreen-layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum och har en upplösning på 2400x900 pixlar. Skärmen touch översta mittkonsolen är 17,7 tum och har en upplösning på 3088x1728 pixlar. Skärmen  framför passageraren i instrumentbrädan är 12,3 tum och har en upplösning på 2400x900 pixlar.
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten monterad i instrumentbrädan är 12,3 tum
+- Skärmen touch i mitten av mittkonsolen är 12,8 tum
+
+
+Den valfria MBUX Hyperscreen-layouten har följande konfiguration. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum
+- Skärmen touch översta mittkonsolen är 17,7 tum
+- Skärmen  framför passageraren i instrumentbrädan är 12,3 tum
+
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

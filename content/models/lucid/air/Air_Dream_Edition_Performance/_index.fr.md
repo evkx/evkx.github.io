@@ -170,7 +170,16 @@ L'Lucid Air Dream Edition Performance comprend plusieurs fonctionnalités pour a
 
 ## Interface utilisateur et contrôle
 
-Au-dessus du tableau de bord se trouve un cadre partagé avec trois écrans, et dans la console centrale, il y a un quatrième [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran touch dans le côté gauche du cadre partagé mesure 8,0 pouces. L'écran  derrière le volant au milieu du cadre partagé mesure 14,0 pouces. L'écran touch à droite du cadre partagé mesure 12,0 pouces. L'écran touch au milieu de la console centrale mesure 12,0 pouces.
+Au-dessus du tableau de bord se trouve un cadre partagé avec trois écrans, et dans la console centrale, il y a un quatrième [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Détails clés de l'écran :
+
+- L'écran touch dans le côté gauche du cadre partagé mesure 8,0 pouces
+- L'écran  derrière le volant au milieu du cadre partagé mesure 14,0 pouces
+- L'écran touch à droite du cadre partagé mesure 12,0 pouces
+- L'écran touch au milieu de la console centrale mesure 12,0 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

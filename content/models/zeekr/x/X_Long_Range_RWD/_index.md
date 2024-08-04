@@ -157,7 +157,13 @@ The Zeekr X Long Range RWD includes several features to enhance comfort and conv
 
 ## User interface and control
 
-The  screen on the steering column is 8.0 inches large. The touch screen at the top of the center console is 14.6 inches large.
+
+
+Key screen details:
+
+- The  screen on the steering column is 8.0 inches large
+- The touch screen at the top of the center console is 14.6 inches large
+
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 

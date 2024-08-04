@@ -198,7 +198,14 @@ El Volkswagen ID. Buzz GTX LWB incluye varias características para mejorar la c
 
 ## Interfaz de usuario y control
 
-El Volkswagen ID. Buzz GTX LWB tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla en la columna de dirección mide 5,3 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 12,9 pulgadas de tamaño.
+El Volkswagen ID. Buzz GTX LWB tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla en la columna de dirección mide 5,3 pulgadas de tamaño
+- La touch pantalla en el centro del tablero mide 12,9 pulgadas de tamaño
+
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

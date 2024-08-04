@@ -156,7 +156,13 @@ El MG MG4 Electric Standard incluye varias características para mejorar la como
 
 ## Interfaz de usuario y control
 
-La  pantalla detrás del volante montado en el tablero mide 7,0 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 10,2 pulgadas de tamaño.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante montado en el tablero mide 7,0 pulgadas de tamaño
+- La touch pantalla en la parte superior de la consola central mide 10,2 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 

@@ -161,7 +161,14 @@ El Opel Astra Electric incluye varias características para mejorar la comodidad
 
 ## Interfaz de usuario y control
 
-El Opel Astra Electric tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla detrás del volante a la izquierda del marco mide 10,0 pulgadas de tamaño. La touch pantalla en la parte derecha del marco compartido mide 10,0 pulgadas de tamaño.
+El Opel Astra Electric tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante a la izquierda del marco mide 10,0 pulgadas de tamaño
+- La touch pantalla en la parte derecha del marco compartido mide 10,0 pulgadas de tamaño
+
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

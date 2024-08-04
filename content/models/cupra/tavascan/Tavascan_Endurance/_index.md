@@ -163,7 +163,14 @@ The CUPRA Tavascan Endurance includes several features to enhance comfort and co
 
 ## User interface and control
 
-The CUPRA Tavascan Endurance has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen on the steering column is 5.3 inches large. The touch screen on the dashboard's center is 15.0 inches large and has a 1920 x 869 pixels resolution.
+The CUPRA Tavascan Endurance has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Key screen details:
+
+- The  screen on the steering column is 5.3 inches large
+- The touch screen on the dashboard's center is 15.0 inches large
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

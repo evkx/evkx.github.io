@@ -188,9 +188,23 @@ Volkswagen ID.5 GTX 4MOTION (GEN1) inkluderer flere funksjoner for å forbedre k
 
 To forskjellige skjermoppsett er tilgjengelige på Volkswagen ID.5 GTX 4MOTION (GEN1).
 
-Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5,0 tommer stor. touch-skjermen i dashbordets sentrum er 10,0 tommer stor.
+Standardoppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
 
-Det valgfrie -oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen på rattstammen er 5,0 tommer stor. touch-skjermen i dashbordets sentrum er 12,0 tommer stor og har en oppløsning på 1920 x 869 piksler.
+
+Viktige skjermdetaljer:
+
+- -skjermen på rattstammen er 5,0 tommer stor
+- touch-skjermen i dashbordets sentrum er 10,0 tommer stor
+
+
+Det valgfrie -oppsettet har følgende konfigurasjon. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
+
+
+Viktige skjermdetaljer:
+
+- -skjermen på rattstammen er 5,0 tommer stor
+- touch-skjermen i dashbordets sentrum er 12,0 tommer stor
+
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

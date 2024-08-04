@@ -156,7 +156,15 @@ Automobili Pininfarina Battista inkluderar flera funktioner för att förbättra
 
 ## Användargränssnitt och kontroll
 
-Automobili Pininfarina Battista har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum. Skärmen touch översta mittkonsolen är 13,8 tum. Skärmen touch framför passageraren i instrumentbrädan är 8,8 tum.
+Automobili Pininfarina Battista har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum
+- Skärmen touch översta mittkonsolen är 13,8 tum
+- Skärmen touch framför passageraren i instrumentbrädan är 8,8 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

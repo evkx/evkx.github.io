@@ -157,7 +157,14 @@ The KGM Torres EVX includes several features to enhance comfort and convenience:
 
 ## User interface and control
 
-The KGM Torres EVX has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 12.3 inches large and has a 1920 x 720 pixels resolution. The touch screen at the right part of the shared frame is 12.3 inches large and has a 2880 x 1080 pixels resolution.
+The KGM Torres EVX has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Key screen details:
+
+- The  screen behind the steering wheel on the left of the frame is 12.3 inches large
+- The touch screen at the right part of the shared frame is 12.3 inches large
+
 The model does not have a head-up display.
 
 

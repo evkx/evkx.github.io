@@ -157,7 +157,13 @@ L'Smart #3 Brabus comprend plusieurs fonctionnalités pour améliorer le confort
 
 ## Interface utilisateur et contrôle
 
-L'écran  derrière le volant monté dans le tableau de bord mesure 10,0 pouces. L'écran touch en haut de la console centrale mesure 12,8 pouces.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant monté dans le tableau de bord mesure 10,0 pouces
+- L'écran touch en haut de la console centrale mesure 12,8 pouces
+
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

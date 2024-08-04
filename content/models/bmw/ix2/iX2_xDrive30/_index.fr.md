@@ -187,7 +187,14 @@ L'BMW iX2 xDrive30 comprend plusieurs fonctionnalités pour améliorer le confor
 
 ## Interface utilisateur et contrôle
 
-Le BMW iX2 xDrive30 possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  derrière le volant à gauche du cadre mesure 10,3 pouces et a une résolution de 1920 x 720 pixels. L'écran touch à droite du cadre partagé mesure 10,7 pouces et a une résolution de 2880 x 1080 pixels.
+Le BMW iX2 xDrive30 possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant à gauche du cadre mesure 10,3 pouces
+- L'écran touch à droite du cadre partagé mesure 10,7 pouces
+
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

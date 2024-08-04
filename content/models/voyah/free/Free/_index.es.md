@@ -152,7 +152,15 @@ El VOYAH FREE incluye varias características para mejorar la comodidad y conven
 
 ## Interfaz de usuario y control
 
-El VOYAH FREE tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero. La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño. La  pantalla en el centro del tablero mide 12,3 pulgadas de tamaño. La  pantalla frente al pasajero en el tablero mide 12,3 pulgadas de tamaño.
+El VOYAH FREE tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño
+- La  pantalla en el centro del tablero mide 12,3 pulgadas de tamaño
+- La  pantalla frente al pasajero en el tablero mide 12,3 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 

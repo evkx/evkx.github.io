@@ -169,7 +169,13 @@ The VinFast VF8 Plus includes several features to enhance comfort and convenienc
 
 ## User interface and control
 
-The VinFast VF8 Plus has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. The touch screen on the dashboard's center is 15.6 inches large.
+The VinFast VF8 Plus has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
+
+
+Key screen details:
+
+- The touch screen on the dashboard's center is 15.6 inches large
+
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 

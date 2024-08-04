@@ -166,7 +166,13 @@ Ford Mustang Mach-E GT inkluderer flere funktioner, der forbedrer komfort og bek
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet monteret i instrumentbrættet er 10,2 tommer stor. Skærmen touch øverst på midterkonsollen er 15,5 tommer stor.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet monteret i instrumentbrættet er 10,2 tommer stor
+- Skærmen touch øverst på midterkonsollen er 15,5 tommer stor
+
 Modellen har ikke et head-up display.
 
 

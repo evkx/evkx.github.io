@@ -226,7 +226,14 @@ L'BMW i4 eDrive35 comprend plusieurs fonctionnalités pour améliorer le confort
 
 ## Interface utilisateur et contrôle
 
-Le BMW i4 eDrive35 possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen). L'écran  derrière le volant à gauche du cadre mesure 12,3 pouces et a une résolution de 1920 x 720 pixels. L'écran touch à droite du cadre partagé mesure 14,9 pouces et a une résolution de 2880 x 1080 pixels.
+Le BMW i4 eDrive35 possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant à gauche du cadre mesure 12,3 pouces
+- L'écran touch à droite du cadre partagé mesure 14,9 pouces
+
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 ## Infodivertissement

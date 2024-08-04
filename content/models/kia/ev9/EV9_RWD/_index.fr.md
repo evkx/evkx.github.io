@@ -195,7 +195,14 @@ L'Kia EV9 RWD comprend plusieurs fonctionnalités pour améliorer le confort et 
 
 ## Interface utilisateur et contrôle
 
-Le Kia EV9 RWD dispose de trois écrans sur un cadre partagé monté avec des supports sur le tableau de bord. L'écran  derrière le volant à gauche du cadre mesure 12,3 pouces. L'écran touch dans la partie centrale du cadre partagé mesure 5,3 pouces. L'écran touch à droite du cadre partagé mesure 12,3 pouces.
+Le Kia EV9 RWD dispose de trois écrans sur un cadre partagé monté avec des supports sur le tableau de bord.
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant à gauche du cadre mesure 12,3 pouces
+- L'écran touch dans la partie centrale du cadre partagé mesure 5,3 pouces
+- L'écran touch à droite du cadre partagé mesure 12,3 pouces
+
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

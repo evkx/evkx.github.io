@@ -166,7 +166,14 @@ Peugot E-3008 inkluderer flere funktioner, der forbedrer komfort og bekvemmeligh
 
 ## Brugergrænseflade og kontrol
 
-Peugot E-3008 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 10,0 tommer stor. Skærmen touch i højre del af den delte ramme er 10,0 tommer stor.
+Peugot E-3008 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet til venstre for rammen er 10,0 tommer stor
+- Skærmen touch i højre del af den delte ramme er 10,0 tommer stor
+
 Modellen har ikke et head-up display.
 
 

@@ -156,7 +156,13 @@ Dacia Spring 65HP inkluderer flere funksjoner for å forbedre komfort og bekvemm
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet integrert i dashbordet er 7,0 tommer stor og har en oppløsning på 1280 x 480 piksler. touch-skjermen i dashbordets sentrum er 10,0 tommer stor.
+
+
+Viktige skjermdetaljer:
+
+- -skjermen bak rattet integrert i dashbordet er 7,0 tommer stor
+- touch-skjermen i dashbordets sentrum er 10,0 tommer stor
+
 Modellen er ikke tilgjengelig med head-up display.
 
 

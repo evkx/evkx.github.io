@@ -152,7 +152,14 @@ The Neta GT 580 AWD includes several features to enhance comfort and convenience
 
 ## User interface and control
 
-The Neta GT 580 AWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 10.3 inches large. The touch screen at the top of the center console is 17.6 inches large.
+The Neta GT 580 AWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel integrated into the dashboard is 10.3 inches large
+- The touch screen at the top of the center console is 17.6 inches large
+
 A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
 
 

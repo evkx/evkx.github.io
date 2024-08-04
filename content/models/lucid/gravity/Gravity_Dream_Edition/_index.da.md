@@ -183,7 +183,13 @@ Lucid Gravity Dream Edition inkluderer flere funktioner, der forbedrer komfort o
 
 ## Brugergrænseflade og kontrol
 
-Skærmen touch bag rattet på tværs af midten af instrumentbrættet er 34,0 tommer stor. Skærmen touch i midten af midterkonsollen er 12,0 tommer stor.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen touch bag rattet på tværs af midten af instrumentbrættet er 34,0 tommer stor
+- Skærmen touch i midten af midterkonsollen er 12,0 tommer stor
+
 Modellen har ikke et head-up display.
 
 

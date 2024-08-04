@@ -200,7 +200,16 @@ Porsche Taycan GTS inkluderer flere funksjoner for å forbedre komfort og bekvem
 
 ## Brukergrensesnitt og kontroll
 
-Porsche Taycan GTS har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , er det én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen og én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) nederst på midtkonsollen. For passasjeren er det en valgfri [infotainment-skjerm](../../../../technology/userinterface/screens/#front-passasjer-screen). touch-skjermen bak rattet integrert i dashbordet er 16,8 tommer stor. touch-skjermen øverst på midtkonsollen er 10,9 tommer stor. touch-skjermen nederst på midtkonsollen er 8,4 tommer stor. touch-skjermen foran passasjeren i dashbordet er 10,9 tommer stor.
+Porsche Taycan GTS har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , er det én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen og én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) nederst på midtkonsollen. For passasjeren er det en valgfri [infotainment-skjerm](../../../../technology/userinterface/screens/#front-passasjer-screen).
+
+
+Viktige skjermdetaljer:
+
+- touch-skjermen bak rattet integrert i dashbordet er 16,8 tommer stor
+- touch-skjermen øverst på midtkonsollen er 10,9 tommer stor
+- touch-skjermen nederst på midtkonsollen er 8,4 tommer stor
+- touch-skjermen foran passasjeren i dashbordet er 10,9 tommer stor
+
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

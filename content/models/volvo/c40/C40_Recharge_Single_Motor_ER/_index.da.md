@@ -168,7 +168,14 @@ Volvo C40 Recharge Single Motor ER inkluderer flere funktioner, der forbedrer ko
 
 ## Brugergrænseflade og kontrol
 
-Volvo C40 Recharge Single Motor ER har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 12,0 tommer stor. Skærmen touch øverst på midterkonsollen er 9,0 tommer stor.
+Volvo C40 Recharge Single Motor ER har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet integreret i instrumentbrættet er 12,0 tommer stor
+- Skærmen touch øverst på midterkonsollen er 9,0 tommer stor
+
 Modellen har ikke et head-up display.
 
 

@@ -195,7 +195,14 @@ Kia EV9 RWD inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed
 
 ## Brugergrænseflade og kontrol
 
-Kia EV9 RWD har tre skærme på en delt ramme monteret med beslag på instrumentbrættet. Skærmen  bag rattet til venstre for rammen er 12,3 tommer stor. Skærmen touch i den midterste del af den delte ramme er 5,3 tommer stor. Skærmen touch i højre del af den delte ramme er 12,3 tommer stor.
+Kia EV9 RWD har tre skærme på en delt ramme monteret med beslag på instrumentbrættet.
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet til venstre for rammen er 12,3 tommer stor
+- Skærmen touch i den midterste del af den delte ramme er 5,3 tommer stor
+- Skærmen touch i højre del af den delte ramme er 12,3 tommer stor
+
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

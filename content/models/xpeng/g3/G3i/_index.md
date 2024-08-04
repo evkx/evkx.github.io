@@ -148,7 +148,14 @@ The XPENG G3i includes several features to enhance comfort and convenience:
 
 ## User interface and control
 
-The XPENG G3i has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen in the middle of the center console is 15.6 inches large.
+The XPENG G3i has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large
+- The touch screen in the middle of the center console is 15.6 inches large
+
 The model does not have a head-up display.
 
 This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.

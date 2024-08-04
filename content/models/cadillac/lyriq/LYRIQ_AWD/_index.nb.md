@@ -160,7 +160,13 @@ Cadillac LYRIQ AWD inkluderer flere funksjoner for å forbedre komfort og bekvem
 
 ## Brukergrensesnitt og kontroll
 
-Cadillac LYRIQ AWD har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen bak rattet på tvers av midten av dashbordet er 33,0 tommer stor.
+Cadillac LYRIQ AWD har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment.
+
+
+Viktige skjermdetaljer:
+
+- touch-skjermen bak rattet på tvers av midten av dashbordet er 33,0 tommer stor
+
 Modellen er ikke tilgjengelig med head-up display.
 
 

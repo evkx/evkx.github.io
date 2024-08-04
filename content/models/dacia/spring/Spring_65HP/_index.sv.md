@@ -156,7 +156,13 @@ Dacia Spring 65HP inkluderar flera funktioner för att förbättra komfort och b
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten integrerad i instrumentbrädan är 7,0 tum och har en upplösning på 1280 x 480 pixlar. Skärmen touch i mitten av instrumentbrädan är 10,0 tum.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 7,0 tum
+- Skärmen touch i mitten av instrumentbrädan är 10,0 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

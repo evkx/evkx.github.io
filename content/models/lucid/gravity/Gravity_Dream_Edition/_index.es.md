@@ -183,7 +183,13 @@ El Lucid Gravity Dream Edition incluye varias características para mejorar la c
 
 ## Interfaz de usuario y control
 
-La touch pantalla detrás del volante, cruzando el centro del tablero mide 34,0 pulgadas de tamaño. La touch pantalla en el medio de la consola central mide 12,0 pulgadas de tamaño.
+
+
+Detalles clave de la pantalla:
+
+- La touch pantalla detrás del volante, cruzando el centro del tablero mide 34,0 pulgadas de tamaño
+- La touch pantalla en el medio de la consola central mide 12,0 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 

@@ -194,7 +194,14 @@ The Audi Q4 Sportback 45 e-tron quattro includes several features to enhance com
 
 ## User interface and control
 
-The Audi Q4 Sportback 45 e-tron quattro has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 10.2 inches large and has a 1920 x 720 pixels resolution. The touch screen at the top of the center console is 11.6 inches large and has a 1540 x 720 pixels resolution.
+The Audi Q4 Sportback 45 e-tron quattro has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel integrated into the dashboard is 10.2 inches large
+- The touch screen at the top of the center console is 11.6 inches large
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

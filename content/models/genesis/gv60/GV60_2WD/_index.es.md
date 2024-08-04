@@ -169,7 +169,14 @@ El Genesis GV60 2WD incluye varias características para mejorar la comodidad y 
 
 ## Interfaz de usuario y control
 
-La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 14,9 pulgadas de tamaño. La touch pantalla en la parte inferior de la consola central mide 7,6 pulgadas de tamaño y tiene una resolución de 1280 x 660 píxeles.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño
+- La touch pantalla en el centro del tablero mide 14,9 pulgadas de tamaño
+- La touch pantalla en la parte inferior de la consola central mide 7,6 pulgadas de tamaño
+
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

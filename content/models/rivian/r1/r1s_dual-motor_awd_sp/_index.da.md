@@ -168,7 +168,14 @@ Rivian R1S Dual-Motor AWD SP inkluderer flere funktioner, der forbedrer komfort 
 
 ## Brugergrænseflade og kontrol
 
-Rivian R1S Dual-Motor AWD SP har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor og har en opløsning på 1920 x 720 pixels. Skærmen touch øverst på midterkonsollen er 15,3 tommer stor og har en opløsning på 1540 x 720 pixels.
+Rivian R1S Dual-Motor AWD SP har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor
+- Skærmen touch øverst på midterkonsollen er 15,3 tommer stor
+
 Modellen har ikke et head-up display.
 
 

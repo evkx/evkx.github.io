@@ -195,7 +195,14 @@ Kia EV9 Long Range AWD inkluderer flere funksjoner for å forbedre komfort og be
 
 ## Brukergrensesnitt og kontroll
 
-Kia EV9 Long Range AWD har tre skjermer på en delt ramme montert med braketter på dashbordet. -skjermen bak rattet på venstre side av rammen er 12,3 tommer stor. touch-skjermen i den midtre delen av den delte rammen er 5,3 tommer stor. touch-skjermen ved høyre del av den delte rammen er 12,3 tommer stor.
+Kia EV9 Long Range AWD har tre skjermer på en delt ramme montert med braketter på dashbordet.
+
+Viktige skjermdetaljer:
+
+- -skjermen bak rattet på venstre side av rammen er 12,3 tommer stor
+- touch-skjermen i den midtre delen av den delte rammen er 5,3 tommer stor
+- touch-skjermen ved høyre del av den delte rammen er 12,3 tommer stor
+
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

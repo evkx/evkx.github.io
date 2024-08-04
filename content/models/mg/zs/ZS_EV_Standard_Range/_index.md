@@ -161,7 +161,13 @@ The MG ZS EV Standard Range includes several features to enhance comfort and con
 
 ## User interface and control
 
-The  screen behind the steering wheel mounted into the dashboard is 7.0 inches large. The touch screen at the top of the center console is 10.2 inches large.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel mounted into the dashboard is 7.0 inches large
+- The touch screen at the top of the center console is 10.2 inches large
+
 The model does not have a head-up display.
 
 

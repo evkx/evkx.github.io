@@ -165,7 +165,14 @@ Genesis Electrified GV70 inkluderer flere funktioner, der forbedrer komfort og b
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet integreret i instrumentbrættet er 8,0 tommer stor. Skærmen touch i dashboardets midte er 14,9 tommer stor. Skærmen touch i bunden af midterkonsollen er 5,0 tommer stor.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet integreret i instrumentbrættet er 8,0 tommer stor
+- Skærmen touch i dashboardets midte er 14,9 tommer stor
+- Skærmen touch i bunden af midterkonsollen er 5,0 tommer stor
+
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

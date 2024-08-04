@@ -174,7 +174,14 @@ Volvo EX90 Twin Motor Performance inkluderer flere funktioner, der forbedrer kom
 
 ## Brugergrænseflade og kontrol
 
-Volvo EX90 Twin Motor Performance har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen. Skærmen  bag rattet integreret i instrumentbrættet er 9,0 tommer stor. Skærmen touch øverst på midterkonsollen er 14,5 tommer stor.
+Volvo EX90 Twin Motor Performance har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet integreret i instrumentbrættet er 9,0 tommer stor
+- Skærmen touch øverst på midterkonsollen er 14,5 tommer stor
+
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

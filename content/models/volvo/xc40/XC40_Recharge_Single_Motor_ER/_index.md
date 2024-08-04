@@ -160,7 +160,14 @@ The Volvo XC40 Recharge Single Motor ER includes several features to enhance com
 
 ## User interface and control
 
-The Volvo XC40 Recharge Single Motor ER has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large. The touch screen at the top of the center console is 9.0 inches large.
+The Volvo XC40 Recharge Single Motor ER has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large
+- The touch screen at the top of the center console is 9.0 inches large
+
 The model does not have a head-up display.
 
 

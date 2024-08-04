@@ -174,7 +174,14 @@ Renault Megane E-Tech Techno inkluderer flere funksjoner for å forbedre komfort
 
 ## Brukergrensesnitt og kontroll
 
-Renault Megane E-Tech Techno har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 12,3 tommer stor. touch-skjermen i dashbordets sentrum er 12,0 tommer stor.
+Renault Megane E-Tech Techno har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
+
+
+Viktige skjermdetaljer:
+
+- -skjermen bak rattet montert i dashbordet er 12,3 tommer stor
+- touch-skjermen i dashbordets sentrum er 12,0 tommer stor
+
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

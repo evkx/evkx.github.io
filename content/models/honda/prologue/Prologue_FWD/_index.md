@@ -161,7 +161,14 @@ The Honda Prologue FWD includes several features to enhance comfort and convenie
 
 ## User interface and control
 
-The Honda Prologue FWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 11.0 inches large. The touch screen at the top of the center console is 11.3 inches large.
+The Honda Prologue FWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel integrated into the dashboard is 11.0 inches large
+- The touch screen at the top of the center console is 11.3 inches large
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

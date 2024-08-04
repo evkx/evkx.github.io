@@ -181,7 +181,13 @@ L'Nio ET5 comprend plusieurs fonctionnalités pour améliorer le confort et la c
 
 ## Interface utilisateur et contrôle
 
-L'écran  derrière le volant monté dans le tableau de bord mesure 10,2 pouces. L'écran touch au milieu de la console centrale mesure 12,3 pouces.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant monté dans le tableau de bord mesure 10,2 pouces
+- L'écran touch au milieu de la console centrale mesure 12,3 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

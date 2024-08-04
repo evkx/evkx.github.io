@@ -155,7 +155,14 @@ Chevrolet Blazer EV SS inkluderer flere funksjoner for å forbedre komfort og be
 
 ## Brukergrensesnitt og kontroll
 
-Chevrolet Blazer EV SS har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet på venstre side av rammen er 11,0 tommer stor. touch-skjermen ved høyre del av den delte rammen er 17,7 tommer stor.
+Chevrolet Blazer EV SS har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
+
+
+Viktige skjermdetaljer:
+
+- -skjermen bak rattet på venstre side av rammen er 11,0 tommer stor
+- touch-skjermen ved høyre del av den delte rammen er 17,7 tommer stor
+
 Modellen er ikke tilgjengelig med head-up display.
 
 

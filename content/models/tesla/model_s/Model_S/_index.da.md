@@ -165,7 +165,14 @@ Tesla Model S inkluderer flere funktioner, der forbedrer komfort og bekvemmeligh
 
 ## Brugergrænseflade og kontrol
 
-Tesla Model S har to skærme med information til føreren og passagererne og en tredje skærm bagpå til multimedier. Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor og har en opløsning på 1280 x 480 pixels. Skærmen touch i dashboardets midte er 17,0 tommer stor og har en opløsning på 2200 x 1300 pixels. Skærmen touch i den bagerste midterkonsol er 8,0 tommer stor.
+Tesla Model S har to skærme med information til føreren og passagererne og en tredje skærm bagpå til multimedier.
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor
+- Skærmen touch i dashboardets midte er 17,0 tommer stor
+- Skærmen touch i den bagerste midterkonsol er 8,0 tommer stor
+
 Modellen har ikke et head-up display.
 
 

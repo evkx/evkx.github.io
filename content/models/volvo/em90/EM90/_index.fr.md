@@ -177,7 +177,14 @@ L'Volvo EM90 comprend plusieurs fonctionnalités pour améliorer le confort et l
 
 ## Interface utilisateur et contrôle
 
-Le Volvo EM90 possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale. L'écran  derrière le volant intégré au tableau de bord mesure 10,2 pouces. L'écran touch en haut de la console centrale mesure 15,4 pouces. Pour les passagers arrière, il y a un écran d'infodivertissement dans le toit derrière les sièges de la première rangée.
+Le Volvo EM90 possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant intégré au tableau de bord mesure 10,2 pouces
+- L'écran touch en haut de la console centrale mesure 15,4 pouces
+Pour les passagers arrière, il y a un écran d'infodivertissement dans le toit derrière les sièges de la première rangée.
 Le modèle n'a pas d'affichage tête haute.
 
 

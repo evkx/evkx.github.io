@@ -165,7 +165,14 @@ Lancia Ypsilon inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 
 ## Brugergrænseflade og kontrol
 
-Lancia Ypsilon har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet til venstre for rammen er 10,0 tommer stor. Skærmen touch i højre del af den delte ramme er 10,0 tommer stor.
+Lancia Ypsilon har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet til venstre for rammen er 10,0 tommer stor
+- Skærmen touch i højre del af den delte ramme er 10,0 tommer stor
+
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

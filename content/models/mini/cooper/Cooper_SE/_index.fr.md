@@ -158,6 +158,10 @@ L'Mini Cooper SE comprend plusieurs fonctionnalités pour améliorer le confort 
 ## Interface utilisateur et contrôle
 
 
+
+Détails clés de l'écran :
+
+
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

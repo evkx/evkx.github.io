@@ -165,7 +165,14 @@ El Genesis Electrified GV70 incluye varias características para mejorar la como
 
 ## Interfaz de usuario y control
 
-La  pantalla detrás del volante integrado en el salpicadero mide 8,0 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 14,9 pulgadas de tamaño. La touch pantalla en la parte inferior de la consola central mide 5,0 pulgadas de tamaño.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 8,0 pulgadas de tamaño
+- La touch pantalla en el centro del tablero mide 14,9 pulgadas de tamaño
+- La touch pantalla en la parte inferior de la consola central mide 5,0 pulgadas de tamaño
+
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

@@ -185,7 +185,13 @@ L'Nio EL6 comprend plusieurs fonctionnalités pour améliorer le confort et la c
 
 ## Interface utilisateur et contrôle
 
-L'écran  derrière le volant monté dans le tableau de bord mesure 10,2 pouces. L'écran touch au milieu de la console centrale mesure 12,8 pouces.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant monté dans le tableau de bord mesure 10,2 pouces
+- L'écran touch au milieu de la console centrale mesure 12,8 pouces
+
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

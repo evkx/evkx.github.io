@@ -166,7 +166,13 @@ L'Ford Mustang Mach-E Long Range AWD comprend plusieurs fonctionnalités pour am
 
 ## Interface utilisateur et contrôle
 
-L'écran  derrière le volant monté dans le tableau de bord mesure 10,2 pouces. L'écran touch en haut de la console centrale mesure 15,5 pouces.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant monté dans le tableau de bord mesure 10,2 pouces
+- L'écran touch en haut de la console centrale mesure 15,5 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

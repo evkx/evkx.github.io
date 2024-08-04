@@ -191,9 +191,23 @@ El Mercedes-EQ G 580 EQ incluye varias características para mejorar la comodida
 
 Hay dos configuraciones de pantalla diferentes disponibles en Mercedes-EQ G 580 EQ.
 
-El diseño estándar tiene la siguiente configuración. La  pantalla detrás del volante montado en el tablero mide 12,3 pulgadas de tamaño y tiene una resolución de 2400x900 píxeles. La touch pantalla en el medio de la consola central mide 12,8 pulgadas de tamaño y tiene una resolución de 1888x1728 píxeles.
+El diseño estándar tiene la siguiente configuración.
 
-El diseño opcional MBUX Hyperscreen tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero. La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño y tiene una resolución de 2400x900 píxeles. La touch pantalla en la parte superior de la consola central mide 17,7 pulgadas de tamaño y tiene una resolución de 3088x1728 píxeles. La  pantalla frente al pasajero en el tablero mide 12,3 pulgadas de tamaño y tiene una resolución de 2400x900 píxeles.
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante montado en el tablero mide 12,3 pulgadas de tamaño
+- La touch pantalla en el medio de la consola central mide 12,8 pulgadas de tamaño
+
+
+El diseño opcional MBUX Hyperscreen tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño
+- La touch pantalla en la parte superior de la consola central mide 17,7 pulgadas de tamaño
+- La  pantalla frente al pasajero en el tablero mide 12,3 pulgadas de tamaño
+
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

@@ -183,7 +183,13 @@ The Nio ET5 Touring includes several features to enhance comfort and convenience
 
 ## User interface and control
 
-The  screen behind the steering wheel mounted into the dashboard is 10.2 inches large. The touch screen in the middle of the center console is 12.3 inches large.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel mounted into the dashboard is 10.2 inches large
+- The touch screen in the middle of the center console is 12.3 inches large
+
 The model does not have a head-up display.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.

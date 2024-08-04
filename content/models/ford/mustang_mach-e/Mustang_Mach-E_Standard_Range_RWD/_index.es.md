@@ -166,7 +166,13 @@ El Ford Mustang Mach-E Standard Range RWD incluye varias características para m
 
 ## Interfaz de usuario y control
 
-La  pantalla detrás del volante montado en el tablero mide 10,2 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 15,5 pulgadas de tamaño.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante montado en el tablero mide 10,2 pulgadas de tamaño
+- La touch pantalla en la parte superior de la consola central mide 15,5 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 

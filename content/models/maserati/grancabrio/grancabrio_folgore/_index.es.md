@@ -178,7 +178,15 @@ El Maserati GranCabrio Folgore incluye varias características para mejorar la c
 
 ## Interfaz de usuario y control
 
-El Maserati GranCabrio Folgore tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay dos [pantallas de infoentretenimiento] diferentes (../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 12,3 pulgadas de tamaño. La touch pantalla en la parte inferior de la consola central mide 8,8 pulgadas de tamaño.
+El Maserati GranCabrio Folgore tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay dos [pantallas de infoentretenimiento] diferentes (../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante integrado en el salpicadero mide 12,3 pulgadas de tamaño
+- La touch pantalla en la parte superior de la consola central mide 12,3 pulgadas de tamaño
+- La touch pantalla en la parte inferior de la consola central mide 8,8 pulgadas de tamaño
+
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

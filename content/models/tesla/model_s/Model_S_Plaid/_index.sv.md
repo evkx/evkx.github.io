@@ -165,7 +165,14 @@ Tesla Model S Plaid inkluderar flera funktioner för att förbättra komfort och
 
 ## Användargränssnitt och kontroll
 
-Tesla Model S Plaid har dubbla skärmar med förar- och passagerarinformation och en tredje bakre skärm för multimedia. Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum och har en upplösning på 1280 x 480 pixlar. Skärmen touch i mitten av instrumentbrädan är 17,0 tum och har en upplösning på 2200 x 1300 pixlar. Skärmen touch i den bakre mittkonsolen är 8,0 tum.
+Tesla Model S Plaid har dubbla skärmar med förar- och passagerarinformation och en tredje bakre skärm för multimedia.
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 12,3 tum
+- Skärmen touch i mitten av instrumentbrädan är 17,0 tum
+- Skärmen touch i den bakre mittkonsolen är 8,0 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

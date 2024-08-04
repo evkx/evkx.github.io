@@ -165,7 +165,14 @@ The Polestar 2 Long Range Single Motor includes several features to enhance comf
 
 ## User interface and control
 
-The Polestar 2 Long Range Single Motor has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large. The touch screen at the top of the center console is 11.2 inches large.
+The Polestar 2 Long Range Single Motor has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large
+- The touch screen at the top of the center console is 11.2 inches large
+
 The model does not have a head-up display.
 
 

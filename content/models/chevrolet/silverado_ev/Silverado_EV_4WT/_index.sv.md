@@ -165,7 +165,14 @@ Chevrolet Silverado EV 4WT inkluderar flera funktioner för att förbättra komf
 
 ## Användargränssnitt och kontroll
 
-Chevrolet Silverado EV 4WT har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument). Skärmen  bakom ratten monterad i instrumentbrädan är 5,0 tum och har en upplösning på 2400x900 pixlar. Skärmen touch i mitten av instrumentbrädan är 11,0 tum och har en upplösning på 1888x1728 pixlar.
+Chevrolet Silverado EV 4WT har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten monterad i instrumentbrädan är 5,0 tum
+- Skärmen touch i mitten av instrumentbrädan är 11,0 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

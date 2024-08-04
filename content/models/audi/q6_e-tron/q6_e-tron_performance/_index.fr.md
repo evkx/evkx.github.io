@@ -211,7 +211,15 @@ L'Audi Q6 e-tron performance comprend plusieurs fonctionnalités pour améliorer
 
 ## Interface utilisateur et contrôle
 
-Le Audi Q6 e-tron performance possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager. L'écran touch derrière le volant intégré au tableau de bord mesure 11,9 pouces. L'écran touch en haut de la console centrale mesure 14,9 pouces. L'écran touch devant le passager dans le tableau de bord mesure 10,9 pouces.
+Le Audi Q6 e-tron performance possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager.
+
+
+Détails clés de l'écran :
+
+- L'écran touch derrière le volant intégré au tableau de bord mesure 11,9 pouces
+- L'écran touch en haut de la console centrale mesure 14,9 pouces
+- L'écran touch devant le passager dans le tableau de bord mesure 10,9 pouces
+
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

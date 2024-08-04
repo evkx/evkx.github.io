@@ -154,7 +154,14 @@ The GMC Hummer EV Edition 1 Pickup includes several features to enhance comfort 
 
 ## User interface and control
 
-The GMC Hummer EV Edition 1 Pickup has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large and has a 2400x900 pixels resolution. The touch screen on the dashboard's center is 13.4 inches large and has a 1888x1728 pixels resolution.
+The GMC Hummer EV Edition 1 Pickup has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Key screen details:
+
+- The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large
+- The touch screen on the dashboard's center is 13.4 inches large
+
 The model does not have a head-up display.
 
 

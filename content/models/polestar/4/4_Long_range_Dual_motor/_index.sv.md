@@ -158,7 +158,14 @@ Polestar 4 Long range Dual motor inkluderar flera funktioner för att förbättr
 
 ## Användargränssnitt och kontroll
 
-Polestar 4 Long range Dual motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen. Skärmen  bakom ratten integrerad i instrumentbrädan är 10,0 tum. Skärmen touch översta mittkonsolen är 15,4 tum.
+Polestar 4 Long range Dual motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 10,0 tum
+- Skärmen touch översta mittkonsolen är 15,4 tum
+
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 ## Infotainment

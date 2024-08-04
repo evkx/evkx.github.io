@@ -171,9 +171,23 @@ BYD Dolphin 60.4kWh inkluderer flere funktioner, der forbedrer komfort og bekvem
 
 To forskellige skærmopsætninger er tilgængelige på BYD Dolphin 60.4kWh.
 
-Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 5,0 tommer stor. Skærmen touch i dashboardets midte er 12,8 tommer stor.
+Standardlayoutet har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
 
-Det valgfri Design-layout har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm). Skærmen  bag rattet monteret i instrumentbrættet er 5,0 tommer stor. Skærmen touch i dashboardets midte er 15,6 tommer stor.
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet monteret i instrumentbrættet er 5,0 tommer stor
+- Skærmen touch i dashboardets midte er 12,8 tommer stor
+
+
+Det valgfri Design-layout har følgende konfiguration. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet monteret i instrumentbrættet er 5,0 tommer stor
+- Skærmen touch i dashboardets midte er 15,6 tommer stor
+
 Modellen har ikke et head-up display.
 
 

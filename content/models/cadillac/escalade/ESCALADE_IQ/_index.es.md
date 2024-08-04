@@ -174,7 +174,14 @@ El Cadillac ESCALADE IQ incluye varias características para mejorar la comodida
 
 ## Interfaz de usuario y control
 
-La  pantalla detrás del volante montado en el tablero mide 35,0 pulgadas de tamaño. La touch pantalla en la parte inferior de la consola central mide 11,0 pulgadas de tamaño. La touch pantalla frente al pasajero en el tablero mide 20,0 pulgadas de tamaño.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante montado en el tablero mide 35,0 pulgadas de tamaño
+- La touch pantalla en la parte inferior de la consola central mide 11,0 pulgadas de tamaño
+- La touch pantalla frente al pasajero en el tablero mide 20,0 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 

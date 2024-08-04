@@ -178,7 +178,13 @@ Nio ET7 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet monteret i instrumentbrættet er 10,2 tommer stor. Skærmen touch i midten af midterkonsollen er 12,3 tommer stor.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet monteret i instrumentbrættet er 10,2 tommer stor
+- Skærmen touch i midten af midterkonsollen er 12,3 tommer stor
+
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

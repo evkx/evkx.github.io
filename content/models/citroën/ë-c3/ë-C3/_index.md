@@ -184,7 +184,14 @@ The Citroën ë-C3 includes several features to enhance comfort and convenience:
 
 ## User interface and control
 
-The Citroën ë-C3 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console. The  screen behind the steering wheel integrated into the dashboard is 5.0 inches large. The touch screen at the top of the center console is 10.3 inches large.
+The Citroën ë-C3 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel integrated into the dashboard is 5.0 inches large
+- The touch screen at the top of the center console is 10.3 inches large
+
 The model does not have a head-up display.
 
 

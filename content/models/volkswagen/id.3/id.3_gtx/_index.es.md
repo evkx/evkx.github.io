@@ -163,9 +163,23 @@ El Volkswagen ID.3 GTX incluye varias características para mejorar la comodidad
 
 Hay dos configuraciones de pantalla diferentes disponibles en Volkswagen ID.3 GTX.
 
-El diseño estándar tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla en la columna de dirección mide 5,0 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 10,0 pulgadas de tamaño.
+El diseño estándar tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
 
-El diseño opcional  tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen). La  pantalla en la columna de dirección mide 5,0 pulgadas de tamaño. La touch pantalla en el centro del tablero mide 12,0 pulgadas de tamaño y tiene una resolución de 1920 x 869 píxeles.
+
+Detalles clave de la pantalla:
+
+- La  pantalla en la columna de dirección mide 5,0 pulgadas de tamaño
+- La touch pantalla en el centro del tablero mide 10,0 pulgadas de tamaño
+
+
+El diseño opcional  tiene la siguiente configuración. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla en la columna de dirección mide 5,0 pulgadas de tamaño
+- La touch pantalla en el centro del tablero mide 12,0 pulgadas de tamaño
+
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

@@ -171,7 +171,15 @@ L'XPENG G9 RWD Long Range comprend plusieurs fonctionnalités pour améliorer le
 
 ## Interface utilisateur et contrôle
 
-Le XPENG G9 RWD Long Range possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager. L'écran  derrière le volant monté dans le tableau de bord mesure 10,3 pouces. L'écran touch au centre du tableau de bord mesure 15,0 pouces. L'écran touch devant le passager sur le tableau de bord mesure 15,0 pouces.
+Le XPENG G9 RWD Long Range possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant monté dans le tableau de bord mesure 10,3 pouces
+- L'écran touch au centre du tableau de bord mesure 15,0 pouces
+- L'écran touch devant le passager sur le tableau de bord mesure 15,0 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

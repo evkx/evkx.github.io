@@ -172,7 +172,13 @@ Tesla Model 3 Performance (GEN1) inkluderer flere funktioner, der forbedrer komf
 
 ## Brugergrænseflade og kontrol
 
-Tesla Model 3 Performance (GEN1) har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment. Skærmen  i dashboardets midte er 15,0 tommer stor og har en opløsning på 2200 x 1300 pixels.
+Tesla Model 3 Performance (GEN1) har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  i dashboardets midte er 15,0 tommer stor
+
 Modellen har ikke et head-up display.
 
 

@@ -173,7 +173,13 @@ L'Hyundai INSTER Long Range comprend plusieurs fonctionnalités pour améliorer 
 
 ## Interface utilisateur et contrôle
 
-L'écran  derrière le volant intégré au tableau de bord mesure 10,3 pouces. L'écran touch au centre du tableau de bord mesure 10,3 pouces.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant intégré au tableau de bord mesure 10,3 pouces
+- L'écran touch au centre du tableau de bord mesure 10,3 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

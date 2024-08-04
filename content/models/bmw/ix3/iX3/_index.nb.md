@@ -171,7 +171,13 @@ BMW iX3 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 
 ## Brukergrensesnitt og kontroll
 
--skjermen bak rattet integrert i dashbordet er 12,0 tommer stor. touch-skjermen i dashbordets sentrum er 12,3 tommer stor.
+
+
+Viktige skjermdetaljer:
+
+- -skjermen bak rattet integrert i dashbordet er 12,0 tommer stor
+- touch-skjermen i dashbordets sentrum er 12,3 tommer stor
+
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

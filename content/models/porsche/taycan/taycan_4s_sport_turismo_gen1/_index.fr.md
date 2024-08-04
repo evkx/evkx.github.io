@@ -222,7 +222,16 @@ L'Porsche Taycan 4S Sport Turismo (GEN1) comprend plusieurs fonctionnalités pou
 
 ## Interface utilisateur et contrôle
 
-Le Porsche Taycan 4S Sport Turismo (GEN1) possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en bas de la console centrale. Pour le passager, il y a un [écran d'infodivertissement] en option (../../../../technology/userinterface/screens/#front-passenger-screen). L'écran touch derrière le volant intégré au tableau de bord mesure 16,8 pouces. L'écran touch en haut de la console centrale mesure 10,9 pouces. L'écran touch en bas de la console centrale mesure 8,4 pouces. L'écran touch devant le passager dans le tableau de bord mesure 10,9 pouces.
+Le Porsche Taycan 4S Sport Turismo (GEN1) possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en bas de la console centrale. Pour le passager, il y a un [écran d'infodivertissement] en option (../../../../technology/userinterface/screens/#front-passenger-screen).
+
+
+Détails clés de l'écran :
+
+- L'écran touch derrière le volant intégré au tableau de bord mesure 16,8 pouces
+- L'écran touch en haut de la console centrale mesure 10,9 pouces
+- L'écran touch en bas de la console centrale mesure 8,4 pouces
+- L'écran touch devant le passager dans le tableau de bord mesure 10,9 pouces
+
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

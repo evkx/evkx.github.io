@@ -160,7 +160,14 @@ XPENG G6 RWD Long Range inkluderar flera funktioner för att förbättra komfort
 
 ## Användargränssnitt och kontroll
 
-XPENG G6 RWD Long Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument). Skärmen  bakom ratten monterad i instrumentbrädan är 10,2 tum. Skärmen touch i mitten av instrumentbrädan är 15,0 tum.
+XPENG G6 RWD Long Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten monterad i instrumentbrädan är 10,2 tum
+- Skärmen touch i mitten av instrumentbrädan är 15,0 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

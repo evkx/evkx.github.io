@@ -209,7 +209,13 @@ Tesla Model Y Standard Range inkluderer flere funksjoner for å forbedre komfort
 
 ## Brukergrensesnitt og kontroll
 
-Tesla Model Y Standard Range har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment. touch-skjermen i dashbordets sentrum er 15,0 tommer stor og har en oppløsning på 2200 x 1300 piksler.
+Tesla Model Y Standard Range har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment.
+
+
+Viktige skjermdetaljer:
+
+- touch-skjermen i dashbordets sentrum er 15,0 tommer stor
+
 Modellen er ikke tilgjengelig med head-up display.
 
 

@@ -206,7 +206,16 @@ Porsche Taycan Turbo Cross Turismo inkluderar flera funktioner för att förbät
 
 ## Användargränssnitt och kontroll
 
-Porsche Taycan Turbo Cross Turismo har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface /screens/#infotainment-screen) längst ner på mittkonsolen För passageraren finns en valfri [infotainment-skärm](../../../../technology/userinterface/screens/#front-passager-screen). Skärmen touch bakom ratten integrerad i instrumentbrädan är 16,8 tum. Skärmen touch översta mittkonsolen är 10,9 tum. Skärmen touch botten av mittkonsolen är 8,4 tum. Skärmen touch framför passageraren i instrumentbrädan är 10,9 tum.
+Porsche Taycan Turbo Cross Turismo har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface /screens/#infotainment-screen) längst ner på mittkonsolen För passageraren finns en valfri [infotainment-skärm](../../../../technology/userinterface/screens/#front-passager-screen).
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen touch bakom ratten integrerad i instrumentbrädan är 16,8 tum
+- Skärmen touch översta mittkonsolen är 10,9 tum
+- Skärmen touch botten av mittkonsolen är 8,4 tum
+- Skärmen touch framför passageraren i instrumentbrädan är 10,9 tum
+
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
 

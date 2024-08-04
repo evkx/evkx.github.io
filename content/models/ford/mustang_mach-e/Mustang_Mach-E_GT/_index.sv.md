@@ -166,7 +166,13 @@ Ford Mustang Mach-E GT inkluderar flera funktioner för att förbättra komfort 
 
 ## Användargränssnitt och kontroll
 
-Skärmen  bakom ratten monterad i instrumentbrädan är 10,2 tum. Skärmen touch översta mittkonsolen är 15,5 tum.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten monterad i instrumentbrädan är 10,2 tum
+- Skärmen touch översta mittkonsolen är 15,5 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

@@ -166,7 +166,13 @@ El Aion Hyper GT 710 Supercharged incluye varias características para mejorar l
 
 ## Interfaz de usuario y control
 
-La  pantalla detrás del volante montado en el tablero mide 8,0 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 14,6 pulgadas de tamaño.
+
+
+Detalles clave de la pantalla:
+
+- La  pantalla detrás del volante montado en el tablero mide 8,0 pulgadas de tamaño
+- La touch pantalla en la parte superior de la consola central mide 14,6 pulgadas de tamaño
+
 El modelo no tiene head-up display.
 
 

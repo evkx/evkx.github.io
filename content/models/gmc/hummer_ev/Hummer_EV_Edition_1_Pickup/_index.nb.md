@@ -154,7 +154,14 @@ GMC Hummer EV Edition 1 Pickup inkluderer flere funksjoner for å forbedre komfo
 
 ## Brukergrensesnitt og kontroll
 
-GMC Hummer EV Edition 1 Pickup har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm). -skjermen bak rattet montert i dashbordet er 12,3 tommer stor og har en oppløsning på 2400x900 piksler. touch-skjermen i dashbordets sentrum er 13,4 tommer stor og har en oppløsning på 1888x1728 piksler.
+GMC Hummer EV Edition 1 Pickup har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
+
+
+Viktige skjermdetaljer:
+
+- -skjermen bak rattet montert i dashbordet er 12,3 tommer stor
+- touch-skjermen i dashbordets sentrum er 13,4 tommer stor
+
 Modellen er ikke tilgjengelig med head-up display.
 
 

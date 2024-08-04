@@ -198,9 +198,23 @@ The Mercedes-EQ EQE 350+ SUV includes several features to enhance comfort and co
 
 Two different screen setups are available on the Mercedes-EQ EQE 350+ SUV.
 
-The standard layout has the following configuration. The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large and has a 2400x900 pixels resolution. The touch screen in the middle of the center console is 12.8 inches large and has a 1888x1728 pixels resolution.
+The standard layout has the following configuration.
 
-The optional MBUX Hyperscreen layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large and has a 2400x900 pixels resolution. The touch screen at the top of the center console is 17.7 inches large and has a 3088x1728 pixels resolution. The  screen in front of the passenger in the dashboard is 12.3 inches large and has a 2400x900 pixels resolution.
+Key screen details:
+
+- The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large
+- The touch screen in the middle of the center console is 12.8 inches large
+
+
+The optional MBUX Hyperscreen layout has the following configuration. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel integrated into the dashboard is 12.3 inches large
+- The touch screen at the top of the center console is 17.7 inches large
+- The  screen in front of the passenger in the dashboard is 12.3 inches large
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

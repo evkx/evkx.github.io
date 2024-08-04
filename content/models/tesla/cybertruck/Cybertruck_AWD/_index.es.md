@@ -185,7 +185,13 @@ El Tesla Cybertruck AWD incluye varias características para mejorar la comodida
 
 ## Interfaz de usuario y control
 
-El Tesla Cybertruck AWD tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil. La touch pantalla en el centro del tablero mide 18,5 pulgadas de tamaño. Para los pasajeros de los asientos traseros, hay una pantalla de infoentretenimiento en la consola central de la segunda fila.
+El Tesla Cybertruck AWD tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil.
+
+
+Detalles clave de la pantalla:
+
+- La touch pantalla en el centro del tablero mide 18,5 pulgadas de tamaño
+Para los pasajeros de los asientos traseros, hay una pantalla de infoentretenimiento en la consola central de la segunda fila.
 El modelo no tiene head-up display.
 
 

@@ -216,7 +216,16 @@ El Porsche Taycan Sport Turismo incluye varias características para mejorar la 
 
 ## Interfaz de usuario y control
 
-El Porsche Taycan Sport Turismo tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte inferior de la consola central. Para el pasajero, hay una [pantalla de infoentretenimiento] opcional(../../../../technology/interfaz de usuario/pantallas/#pantalla-del-pasajero-frontal). La touch pantalla detrás del volante integrado en el salpicadero mide 16,8 pulgadas de tamaño. La touch pantalla en la parte superior de la consola central mide 10,9 pulgadas de tamaño. La touch pantalla en la parte inferior de la consola central mide 8,4 pulgadas de tamaño. La touch pantalla frente al pasajero en el tablero mide 10,9 pulgadas de tamaño.
+El Porsche Taycan Sport Turismo tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte inferior de la consola central. Para el pasajero, hay una [pantalla de infoentretenimiento] opcional(../../../../technology/interfaz de usuario/pantallas/#pantalla-del-pasajero-frontal).
+
+
+Detalles clave de la pantalla:
+
+- La touch pantalla detrás del volante integrado en el salpicadero mide 16,8 pulgadas de tamaño
+- La touch pantalla en la parte superior de la consola central mide 10,9 pulgadas de tamaño
+- La touch pantalla en la parte inferior de la consola central mide 8,4 pulgadas de tamaño
+- La touch pantalla frente al pasajero en el tablero mide 10,9 pulgadas de tamaño
+
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
 

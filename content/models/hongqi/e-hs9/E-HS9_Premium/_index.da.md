@@ -164,7 +164,16 @@ Hongqi E-HS9 Premium inkluderer flere funktioner, der forbedrer komfort og bekve
 
 ## Brugergrænseflade og kontrol
 
-Hongqi E-HS9 Premium har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I midten af instrumentbrættet er en infotainmentskærm, og i midterkonsollen er en skærm til klimaanlægget. Til passageren er der en infotainmentskærm. Skærmen  bag rattet integreret i instrumentbrættet er 16,2 tommer stor. Skærmen touch i dashboardets centrum er 16,2 tommer stor. Skærmen touch foran passageren i instrumentbrættet er 16,2 tommer stor. Skærmen touch i midten af midterkonsollen er 10,2 tommer stor.
+Hongqi E-HS9 Premium har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I midten af instrumentbrættet er en infotainmentskærm, og i midterkonsollen er en skærm til klimaanlægget. Til passageren er der en infotainmentskærm.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet integreret i instrumentbrættet er 16,2 tommer stor
+- Skærmen touch i dashboardets centrum er 16,2 tommer stor
+- Skærmen touch foran passageren i instrumentbrættet er 16,2 tommer stor
+- Skærmen touch i midten af midterkonsollen er 10,2 tommer stor
+
 Modellen har ikke et head-up display.
 
 

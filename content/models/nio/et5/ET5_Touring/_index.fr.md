@@ -183,7 +183,13 @@ L'Nio ET5 Touring comprend plusieurs fonctionnalités pour améliorer le confort
 
 ## Interface utilisateur et contrôle
 
-L'écran  derrière le volant monté dans le tableau de bord mesure 10,2 pouces. L'écran touch au milieu de la console centrale mesure 12,3 pouces.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant monté dans le tableau de bord mesure 10,2 pouces
+- L'écran touch au milieu de la console centrale mesure 12,3 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 Ce modèle dispose d'un système de commande vocale en option. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.

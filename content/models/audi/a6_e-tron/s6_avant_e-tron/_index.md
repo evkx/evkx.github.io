@@ -194,7 +194,16 @@ The Audi S6 Avant e-tron includes several features to enhance comfort and conven
 
 ## User interface and control
 
-The Audi S6 Avant e-tron has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat. The touch screen behind the steering wheel integrated into the dashboard is 11.9 inches large. The touch screen at the top of the center console is 14.9 inches large. The touch screen in front of the passenger in the dashboard is 10.9 inches large.
+The control interface for this EV model includes an intuitive combination of buttons, stalks, and screens, providing a seamless and user-friendly interaction experience.
+
+The Audi S6 Avant e-tron features twin screens on a shared curved frame partially integrated into the dashboard. Additionally, an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) is available for the passenger.
+
+Key screen details:
+
+- The  screen behind the steering wheel on the left of the frame is 11.9 inches large
+- The touch screen at the right part of the shared frame is 14.9 inches large
+- The touch screen in front of the passenger in the dashboard is 10.9 inches large
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

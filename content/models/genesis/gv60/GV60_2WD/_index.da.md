@@ -169,7 +169,14 @@ Genesis GV60 2WD inkluderer flere funktioner, der forbedrer komfort og bekvemmel
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor. Skærmen touch i dashboardets midte er 14,9 tommer stor. Skærmen touch i bunden af midterkonsollen er 7,6 tommer stor og har en opløsning på 1280 x 660 pixels.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet integreret i instrumentbrættet er 12,3 tommer stor
+- Skærmen touch i dashboardets midte er 14,9 tommer stor
+- Skærmen touch i bunden af midterkonsollen er 7,6 tommer stor
+
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

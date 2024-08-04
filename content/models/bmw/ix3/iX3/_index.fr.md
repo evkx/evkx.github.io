@@ -171,7 +171,13 @@ L'BMW iX3 comprend plusieurs fonctionnalités pour améliorer le confort et la c
 
 ## Interface utilisateur et contrôle
 
-L'écran  derrière le volant intégré au tableau de bord mesure 12,0 pouces. L'écran touch au centre du tableau de bord mesure 12,3 pouces.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant intégré au tableau de bord mesure 12,0 pouces
+- L'écran touch au centre du tableau de bord mesure 12,3 pouces
+
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 

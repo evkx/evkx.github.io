@@ -171,7 +171,13 @@ The BMW iX3 includes several features to enhance comfort and convenience:
 
 ## User interface and control
 
-The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large. The touch screen on the dashboard's center is 12.3 inches large.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel integrated into the dashboard is 12.0 inches large
+- The touch screen on the dashboard's center is 12.3 inches large
+
 A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
 
 

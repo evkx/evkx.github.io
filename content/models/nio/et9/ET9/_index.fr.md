@@ -174,7 +174,13 @@ L'Nio ET9 comprend plusieurs fonctionnalités pour améliorer le confort et la c
 
 ## Interface utilisateur et contrôle
 
-L'écran  derrière le volant monté dans le tableau de bord mesure 10,2 pouces. L'écran touch au milieu de la console centrale mesure 15,6 pouces. Pour les passagers arrière, il y a des écrans d'infodivertissement à l'arrière des sièges de la première rangée
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant monté dans le tableau de bord mesure 10,2 pouces
+- L'écran touch au milieu de la console centrale mesure 15,6 pouces
+Pour les passagers arrière, il y a des écrans d'infodivertissement à l'arrière des sièges de la première rangée
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 Ce modèle dispose d'un système de commande vocale en option. La commande vocale vous permet de contrôler certaines fonctionnalités via des commandes vocales.

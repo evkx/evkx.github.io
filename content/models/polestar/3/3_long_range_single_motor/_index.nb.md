@@ -165,7 +165,14 @@ Polestar 3 Long Range Single Motor inkluderer flere funksjoner for å forbedre k
 
 ## Brukergrensesnitt og kontroll
 
-Polestar 3 Long Range Single Motor har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen. -skjermen bak rattet integrert i dashbordet er 9,0 tommer stor. touch-skjermen øverst på midtkonsollen er 14,5 tommer stor.
+Polestar 3 Long Range Single Motor har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
+
+
+Viktige skjermdetaljer:
+
+- -skjermen bak rattet integrert i dashbordet er 9,0 tommer stor
+- touch-skjermen øverst på midtkonsollen er 14,5 tommer stor
+
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

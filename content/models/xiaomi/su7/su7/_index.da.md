@@ -167,7 +167,13 @@ Xiaomi SU7 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 ## Brugergrænseflade og kontrol
 
-Skærmen  bag rattet integreret i instrumentbrættet er 7,1 tommer stor. Skærmen touch i dashboardets midte er 16,1 tommer stor.
+
+
+Vigtige skærmdetaljer:
+
+- Skærmen  bag rattet integreret i instrumentbrættet er 7,1 tommer stor
+- Skærmen touch i dashboardets midte er 16,1 tommer stor
+
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
 

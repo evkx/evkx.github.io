@@ -156,7 +156,15 @@ YangWang U9 inkluderar flera funktioner för att förbättra komfort och bekväm
 
 ## Användargränssnitt och kontroll
 
-YangWang U9 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet. Skärmen  bakom ratten integrerad i instrumentbrädan är 10,0 tum. Skärmen touch översta mittkonsolen är 11,0 tum. Skärmen touch framför passageraren i instrumentbrädan är 10,0 tum.
+YangWang U9 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  bakom ratten integrerad i instrumentbrädan är 10,0 tum
+- Skärmen touch översta mittkonsolen är 11,0 tum
+- Skärmen touch framför passageraren i instrumentbrädan är 10,0 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

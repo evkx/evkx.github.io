@@ -166,7 +166,14 @@ The Peugot E-3008 Long Range includes several features to enhance comfort and co
 
 ## User interface and control
 
-The Peugot E-3008 Long Range has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen). The  screen behind the steering wheel on the left of the frame is 10.0 inches large. The touch screen at the right part of the shared frame is 10.0 inches large.
+The Peugot E-3008 Long Range has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
+
+
+Key screen details:
+
+- The  screen behind the steering wheel on the left of the frame is 10.0 inches large
+- The touch screen at the right part of the shared frame is 10.0 inches large
+
 The model does not have a head-up display.
 
 

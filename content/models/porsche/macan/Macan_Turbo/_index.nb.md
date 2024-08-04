@@ -189,7 +189,15 @@ Porsche Macan Turbo inkluderer flere funksjoner for å forbedre komfort og bekve
 
 ## Brukergrensesnitt og kontroll
 
-Porsche Macan Turbo har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet. touch-skjermen bak rattet integrert i dashbordet er 12,6 tommer stor. touch-skjermen øverst på midtkonsollen er 10,9 tommer stor. touch-skjermen foran passasjeren i dashbordet er 10,9 tommer stor.
+Porsche Macan Turbo har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet.
+
+
+Viktige skjermdetaljer:
+
+- touch-skjermen bak rattet integrert i dashbordet er 12,6 tommer stor
+- touch-skjermen øverst på midtkonsollen er 10,9 tommer stor
+- touch-skjermen foran passasjeren i dashbordet er 10,9 tommer stor
+
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
 

@@ -166,7 +166,13 @@ The Aion Hyper GT 710 Supercharged includes several features to enhance comfort 
 
 ## User interface and control
 
-The  screen behind the steering wheel mounted into the dashboard is 8.0 inches large. The touch screen at the top of the center console is 14.6 inches large.
+
+
+Key screen details:
+
+- The  screen behind the steering wheel mounted into the dashboard is 8.0 inches large
+- The touch screen at the top of the center console is 14.6 inches large
+
 The model does not have a head-up display.
 
 

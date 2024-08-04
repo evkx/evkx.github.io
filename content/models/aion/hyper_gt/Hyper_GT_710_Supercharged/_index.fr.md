@@ -166,7 +166,13 @@ L'Aion Hyper GT 710 Supercharged comprend plusieurs fonctionnalités pour améli
 
 ## Interface utilisateur et contrôle
 
-L'écran  derrière le volant monté dans le tableau de bord mesure 8,0 pouces. L'écran touch en haut de la console centrale mesure 14,6 pouces.
+
+
+Détails clés de l'écran :
+
+- L'écran  derrière le volant monté dans le tableau de bord mesure 8,0 pouces
+- L'écran touch en haut de la console centrale mesure 14,6 pouces
+
 Le modèle n'a pas d'affichage tête haute.
 
 

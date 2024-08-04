@@ -168,7 +168,13 @@ Tesla Model 3 inkluderar flera funktioner för att förbättra komfort och bekv�
 
 ## Användargränssnitt och kontroll
 
-Tesla Model 3 har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. Skärmen  i mitten av instrumentbrädan är 15,0 tum och har en upplösning på 2200 x 1300 pixlar.
+Tesla Model 3 har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment.
+
+
+Viktiga skärmdetaljer:
+
+- Skärmen  i mitten av instrumentbrädan är 15,0 tum
+
 Modellen är inte tillgänglig med head-up display.
 
 

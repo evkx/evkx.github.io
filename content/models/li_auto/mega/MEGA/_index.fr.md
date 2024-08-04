@@ -190,7 +190,14 @@ L'Li Auto MEGA comprend plusieurs fonctionnalités pour améliorer le confort et
 
 ## Interface utilisateur et contrôle
 
-Le Li Auto MEGA a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement. Pour le passager, il y a un écran d'infodivertissement. L'écran touch au centre du tableau de bord mesure 15,7 pouces. L'écran touch devant le passager sur le tableau de bord mesure 15,7 pouces. Pour les passagers arrière, il y a un écran d'infodivertissement dans le toit derrière les sièges de la première rangée.
+Le Li Auto MEGA a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement. Pour le passager, il y a un écran d'infodivertissement.
+
+
+Détails clés de l'écran :
+
+- L'écran touch au centre du tableau de bord mesure 15,7 pouces
+- L'écran touch devant le passager sur le tableau de bord mesure 15,7 pouces
+Pour les passagers arrière, il y a un écran d'infodivertissement dans le toit derrière les sièges de la première rangée.
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
 
