@@ -123,9 +123,11 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 
+
 ## Komfortfunksjoner
 
 Honda e:Ny1 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+
 
 
 {{<evkxdisplayaddarticle />}}

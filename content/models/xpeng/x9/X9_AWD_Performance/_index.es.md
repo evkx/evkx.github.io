@@ -151,9 +151,11 @@ Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes
 Hay un sistema climático disponible.
 
 
+
 ## Características de confort
 
 El XPENG X9 AWD Performance incluye varias características para mejorar la comodidad y conveniencia:
+
 
 
 {{<evkxdisplayaddarticle />}}

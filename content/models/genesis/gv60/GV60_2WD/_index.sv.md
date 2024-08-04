@@ -146,22 +146,22 @@ Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan sty
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
-- Klimatsystemet 2-zone stöder olika temperaturer i två zoner för förare och passagerare.
-Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som standard. Denna värmepump kan spara betydande energi som EV skulle användas för uppvärmning i kallt väder.
 
-## Tröst
+- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 
-Genesis GV60 2WD har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
 
-Nyckelfritt tillträde ger tillgång till bilen utan att behöva hitta nyckeln. Så länge du har den med dig kommer dörrarna att öppnas.
+En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
-Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
+## Komfortfunktioner
 
-Ratten är elektriskt justerbar.
+Genesis GV60 2WD inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-Du har lätt insteg för förarstolen som flyttar sätet för att göra det lättare att komma in i bilen.
+- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
+- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
+- **Elektriskt justerbar ratt**
+- **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
+- **Trådlös laddning av telefon**
 
-Du har trådlös laddning för din telefon.
 
 {{<evkxdisplayaddarticle />}}
 

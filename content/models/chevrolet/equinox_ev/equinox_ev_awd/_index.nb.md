@@ -143,6 +143,7 @@ Det er bare én type ratt tilgjengelig.
 ## Klimasystem
 
 To klimasystemalternativer er tilgjengelige:
+
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 - **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
 
@@ -152,6 +153,7 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 ## Komfortfunksjoner
 
 Chevrolet Equinox EV AWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 

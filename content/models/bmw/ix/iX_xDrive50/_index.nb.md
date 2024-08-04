@@ -144,6 +144,7 @@ Det er bare én type ratt tilgjengelig. stock-rattet er oppvarmet, og du kan kon
 ## Klimasystem
 
 To klimasystemalternativer er tilgjengelige:
+
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 - **4-soners klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
 
@@ -151,6 +152,7 @@ To klimasystemalternativer er tilgjengelige:
 ## Komfortfunksjoner
 
 BMW iX xDrive50 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Elektrisk justerbart ratt**

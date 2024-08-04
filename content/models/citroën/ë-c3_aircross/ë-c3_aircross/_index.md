@@ -166,6 +166,7 @@ There is only one type of steering wheel available.
 ## Climate system
 
 There is one climate system available.
+
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 
 
@@ -174,6 +175,7 @@ This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This c
 ## Comfort features
 
 The Citroën ë-C3 Aircross includes several features to enhance comfort and convenience:
+
 - **Wireless phone charging**
 
 

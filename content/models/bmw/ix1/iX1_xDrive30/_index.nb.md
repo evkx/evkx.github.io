@@ -166,6 +166,7 @@ Det er bare én type ratt tilgjengelig. stock-rattet er oppvarmet, og du kan kon
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
+
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
 
@@ -174,6 +175,7 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 ## Komfortfunksjoner
 
 BMW iX1 xDrive30 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**

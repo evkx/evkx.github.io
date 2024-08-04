@@ -145,9 +145,11 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 
+
 ## Komfortfunksjoner
 
 Ford F150 Lightning Extended Range inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+
 
 
 {{<evkxdisplayaddarticle />}}

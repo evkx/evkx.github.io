@@ -145,9 +145,11 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 
+
 ## Características de confort
 
 El Ford F150 Lightning Extended Range incluye varias características para mejorar la comodidad y conveniencia:
+
 
 
 {{<evkxdisplayaddarticle />}}

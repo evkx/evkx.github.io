@@ -152,6 +152,7 @@ Det er bare én type ratt tilgjengelig.
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
+
 - **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
 
 
@@ -160,6 +161,7 @@ Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump).
 ## Komfortfunksjoner
 
 Fiat Grande Panda inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+
 - **Trådløs lading av telefon**
 
 

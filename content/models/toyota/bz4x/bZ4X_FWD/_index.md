@@ -133,6 +133,7 @@ There is only one type of steering wheel available.
 ## Climate system
 
 There is one climate system available.
+
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
 
@@ -141,6 +142,7 @@ This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an optio
 ## Comfort features
 
 The Toyota bZ4X FWD includes several features to enhance comfort and convenience:
+
 - **Wireless phone charging**
 
 

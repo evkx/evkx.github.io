@@ -178,6 +178,7 @@ Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes
 ## Sistema de climatización
 
 Hay dos opciones de sistema de climatización disponibles:
+
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 - **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
 
@@ -185,6 +186,7 @@ Hay dos opciones de sistema de climatización disponibles:
 ## Características de confort
 
 El Jaguar I-Pace EV400 incluye varias características para mejorar la comodidad y conveniencia:
+
 - **Carga inalámbrica de teléfono**
 
 

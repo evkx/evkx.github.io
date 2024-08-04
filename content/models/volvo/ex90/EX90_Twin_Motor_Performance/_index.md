@@ -152,6 +152,7 @@ There is only one type of steering wheel available.
 ## Climate system
 
 There is one climate system available.
+
 - **5-zone climate system:** Supports different temperatures in five zones. The driver, passenger, and two zones in the the 2. row and one in the 3. row.
 
 
@@ -160,6 +161,7 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 ## Comfort features
 
 The Volvo EX90 Twin Motor Performance includes several features to enhance comfort and convenience:
+
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**

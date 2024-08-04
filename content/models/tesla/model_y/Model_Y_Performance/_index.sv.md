@@ -156,22 +156,22 @@ Det finns bara en typ av ratt tillgänglig.
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
-- Klimatsystemet standard stöder endast kontroll av en delad zon för hela bilen.
-Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som standard. Denna värmepump kan spara betydande energi som EV skulle användas för uppvärmning i kallt väder.
 
-## Tröst
+- **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
 
-Tesla Model Y Performance har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
 
-Nyckelfritt tillträde ger tillgång till bilen utan att behöva hitta nyckeln. Så länge du har den med dig kommer dörrarna att öppnas.
+En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
-Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
+## Komfortfunktioner
 
-Ratten är elektriskt justerbar.
+Tesla Model Y Performance inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-Du har lätt insteg för förarstolen som flyttar sätet för att göra det lättare att komma in i bilen.
+- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
+- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
+- **Elektriskt justerbar ratt**
+- **Lätt instegsfunktion:** Flyttar förarsätet för att underlätta att komma in i bilen.
+- **Trådlös laddning av telefon**
 
-Du har trådlös laddning för din telefon.
 
 {{<evkxdisplayaddarticle />}}
 

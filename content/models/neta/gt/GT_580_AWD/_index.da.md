@@ -136,9 +136,11 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 
+
 ## Komfortfunktioner
 
 Neta GT 580 AWD inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**

@@ -136,15 +136,15 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 
-## Tröst
 
-Neta GT 580 AWD har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
+## Komfortfunktioner
 
-Nyckelfritt tillträde ger tillgång till bilen utan att behöva hitta nyckeln. Så länge du har den med dig kommer dörrarna att öppnas.
+Neta GT 580 AWD inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
+- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
+- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
+- **Trådlös laddning av telefon**
 
-Du har trådlös laddning för din telefon.
 
 {{<evkxdisplayaddarticle />}}
 

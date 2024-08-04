@@ -133,6 +133,7 @@ Det er bare én type ratt tilgjengelig.
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
+
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
 
@@ -141,6 +142,7 @@ Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som e
 ## Komfortfunksjoner
 
 Toyota bZ4X AWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+
 - **Trådløs lading av telefon**
 
 

@@ -135,6 +135,7 @@ Det er bare én type ratt tilgjengelig.
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
+
 - **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
 
 
@@ -143,6 +144,7 @@ En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, 
 ## Komfortfunksjoner
 
 MG Marvel R Electric inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 - **Trådløs lading av telefon**
 

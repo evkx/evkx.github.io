@@ -137,6 +137,7 @@ Il n'y a qu'un seul type de volant disponible.
 ## Système de climatisation
 
 Un système climatique est disponible.
+
 - **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
 
 
@@ -145,6 +146,7 @@ Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incl
 ## Caractéristiques de confort
 
 L'MG MG5 Electric Long Range comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Recharge sans fil pour téléphone**
 

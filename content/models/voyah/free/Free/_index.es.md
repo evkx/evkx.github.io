@@ -136,11 +136,13 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 
+
 Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
 ## Características de confort
 
 El VOYAH FREE incluye varias características para mejorar la comodidad y conveniencia:
+
 - **Carga inalámbrica de teléfono**
 
 

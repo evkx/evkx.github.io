@@ -146,6 +146,7 @@ Der er kun én type rat tilgængelig.
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
+
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
 
 
@@ -154,6 +155,7 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 ## Komfortfunktioner
 
 Rivian R1S Dual-Motor AWD SP inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**

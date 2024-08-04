@@ -150,6 +150,7 @@ Il n'y a qu'un seul type de volant disponible.
 ## Système de climatisation
 
 Un système climatique est disponible.
+
 - **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
 
 
@@ -158,6 +159,7 @@ Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incl
 ## Caractéristiques de confort
 
 L'Tesla Model 3 Performance (GEN1) comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**

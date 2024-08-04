@@ -177,6 +177,7 @@ There is only one type of steering wheel available.
 ## Climate system
 
 Two climate system options are available:
+
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
 
@@ -186,6 +187,7 @@ This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an optio
 ## Comfort features
 
 The Audi Q4 Sportback 45 e-tron quattro (GEN1) includes several features to enhance comfort and convenience:
+
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**

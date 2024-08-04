@@ -148,20 +148,21 @@ Det finns bara en typ av ratt tillgänglig.
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
-- Klimatsystemet  stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
-Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som standard. Denna värmepump kan spara betydande energi som EV skulle användas för uppvärmning i kallt väder.
 
-## Tröst
+- **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
-Zeekr 009 ME Edition har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
 
-Nyckelfritt tillträde ger tillgång till bilen utan att behöva hitta nyckeln. Så länge du har den med dig kommer dörrarna att öppnas.
+En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
-Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
+## Komfortfunktioner
 
-Ratten är elektriskt justerbar.
+Zeekr 009 ME Edition inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-Du har trådlös laddning för din telefon.
+- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
+- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
+- **Elektriskt justerbar ratt**
+- **Trådlös laddning av telefon**
+
 
 {{<evkxdisplayaddarticle />}}
 

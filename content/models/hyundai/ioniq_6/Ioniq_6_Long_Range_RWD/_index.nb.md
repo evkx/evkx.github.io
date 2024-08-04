@@ -146,6 +146,7 @@ Det er bare én type ratt tilgjengelig. -rattet er oppvarmet, og du kan kontroll
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
+
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
 
@@ -154,6 +155,7 @@ Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som e
 ## Komfortfunksjoner
 
 Hyundai Ioniq 6 Long Range RWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+
 - **Trådløs lading av telefon**
 
 

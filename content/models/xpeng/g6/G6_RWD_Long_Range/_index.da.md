@@ -138,6 +138,7 @@ Der er kun én type rat tilgængelig. -rattet er opvarmet, og du kan styre lydsy
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
+
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
 
 
@@ -146,6 +147,7 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 ## Komfortfunktioner
 
 XPENG G6 RWD Long Range inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**

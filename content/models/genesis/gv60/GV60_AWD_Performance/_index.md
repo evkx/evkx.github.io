@@ -147,6 +147,7 @@ There is only one type of steering wheel available. The  steering wheel is heate
 ## Climate system
 
 There is one climate system available.
+
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
 
@@ -155,6 +156,7 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 ## Comfort features
 
 The Genesis GV60 AWD Performance includes several features to enhance comfort and convenience:
+
 - **Wireless phone charging**
 
 

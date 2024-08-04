@@ -146,12 +146,14 @@ Der er kun én type rat tilgængelig.
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
+
 - **6-zone klimaanlæg:** Understøtter forskellige temperaturer i seks zoner: føreren, passageren og to zoner, både i 2. og 3. række.
 
 
 ## Komfortfunktioner
 
 Hongqi E-HS9 Exclusive+ inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**

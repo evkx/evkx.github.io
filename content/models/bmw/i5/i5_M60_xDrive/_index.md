@@ -161,6 +161,7 @@ There is only one type of steering wheel available. The stock steering wheel is 
 ## Climate system
 
 Two climate system options are available:
+
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
@@ -170,6 +171,7 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 ## Comfort features
 
 The BMW i5 M60 xDrive includes several features to enhance comfort and convenience:
+
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**

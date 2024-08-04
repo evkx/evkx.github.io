@@ -151,9 +151,11 @@ Det er bare én type ratt tilgjengelig. -rattet er oppvarmet, og du kan kontroll
 Det er ett tilgjengelig klimasystem.
 
 
+
 ## Komfortfunksjoner
 
 XPENG X9 AWD Performance inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+
 
 
 {{<evkxdisplayaddarticle />}}

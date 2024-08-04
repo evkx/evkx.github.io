@@ -178,6 +178,7 @@ Der er kun én type rat tilgængelig. -rattet er opvarmet, og du kan styre lydsy
 ## Klimasystem
 
 To klimaanlægsmuligheder er tilgængelige:
+
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
 
@@ -185,6 +186,7 @@ To klimaanlægsmuligheder er tilgængelige:
 ## Komfortfunktioner
 
 Jaguar I-Pace EV400 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+
 - **Trådløs opladning af telefon**
 
 

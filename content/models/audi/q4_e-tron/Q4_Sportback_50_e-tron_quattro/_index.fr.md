@@ -165,6 +165,7 @@ Il n'y a qu'un seul type de volant disponible.
 ## Système de climatisation
 
 Deux options de système de climatisation sont disponibles :
+
 - **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
 - **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
 
@@ -174,6 +175,7 @@ Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pu
 ## Caractéristiques de confort
 
 L'Audi Q4 Sportback 50 e-tron quattro comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**

@@ -136,11 +136,13 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 
+
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
 ## Caractéristiques de confort
 
 L'VOYAH FREE comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+
 - **Recharge sans fil pour téléphone**
 
 

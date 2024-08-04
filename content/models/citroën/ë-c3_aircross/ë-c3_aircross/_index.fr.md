@@ -166,6 +166,7 @@ Il n'y a qu'un seul type de volant disponible.
 ## Système de climatisation
 
 Un système climatique est disponible.
+
 - **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
 
 
@@ -174,6 +175,7 @@ Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump)
 ## Caractéristiques de confort
 
 L'Citroën ë-C3 Aircross comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+
 - **Recharge sans fil pour téléphone**
 
 

@@ -125,13 +125,14 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 
-## Tröst
 
-Mercedes-EQ EQC 400 4MATIC har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
+## Komfortfunktioner
 
-Nyckelfritt tillträde ger tillgång till bilen utan att behöva hitta nyckeln. Så länge du har den med dig kommer dörrarna att öppnas.
+Mercedes-EQ EQC 400 4MATIC inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
+- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
+- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
+
 
 {{<evkxdisplayaddarticle />}}
 

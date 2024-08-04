@@ -188,6 +188,7 @@ Det er bare én type ratt tilgjengelig.
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
+
 - **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
 
 
@@ -196,6 +197,7 @@ Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som e
 ## Komfortfunksjoner
 
 Porsche Taycan 4S Sport Turismo inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+
 - **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
 - **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 

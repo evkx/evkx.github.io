@@ -137,6 +137,7 @@ Der er kun én type rat tilgængelig.
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
+
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
 
@@ -145,6 +146,7 @@ Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekst
 ## Komfortfunktioner
 
 Subaru Solterra AWD inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+
 - **Trådløs opladning af telefon**
 
 

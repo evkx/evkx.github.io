@@ -154,14 +154,18 @@ Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan sty
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
-- Klimatsystemet 2-zone stöder olika temperaturer i två zoner för förare och passagerare.
+
+- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
+
+
 Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
-## Tröst
+## Komfortfunktioner
 
-Kia EV6 Long Range AWD har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
+Kia EV6 Long Range AWD inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-Du har trådlös laddning för din telefon.
+- **Trådlös laddning av telefon**
+
 
 {{<evkxdisplayaddarticle />}}
 

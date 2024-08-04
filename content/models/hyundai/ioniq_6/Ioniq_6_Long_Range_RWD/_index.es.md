@@ -146,6 +146,7 @@ Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
+
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
 
@@ -154,6 +155,7 @@ Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-cal
 ## Características de confort
 
 El Hyundai Ioniq 6 Long Range RWD incluye varias características para mejorar la comodidad y conveniencia:
+
 - **Carga inalámbrica de teléfono**
 
 

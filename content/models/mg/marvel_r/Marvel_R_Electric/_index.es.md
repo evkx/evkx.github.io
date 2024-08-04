@@ -135,6 +135,7 @@ Sólo hay un tipo de volante disponible.
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
+
 - **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
 
 
@@ -143,6 +144,7 @@ Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) est
 ## Características de confort
 
 El MG Marvel R Electric incluye varias características para mejorar la comodidad y conveniencia:
+
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**
 

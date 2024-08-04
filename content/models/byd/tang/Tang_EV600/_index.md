@@ -150,6 +150,7 @@ There is only one type of steering wheel available.
 ## Climate system
 
 There is one climate system available.
+
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
 
@@ -158,6 +159,7 @@ This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This c
 ## Comfort features
 
 The BYD Tang EV600 includes several features to enhance comfort and convenience:
+
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Electrically adjustable steering wheel**

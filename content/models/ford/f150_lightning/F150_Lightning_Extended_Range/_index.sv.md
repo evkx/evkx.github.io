@@ -145,9 +145,12 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 
-## Tröst
 
-Ford F150 Lightning Extended Range har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
+## Komfortfunktioner
+
+Ford F150 Lightning Extended Range inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+
+
 
 {{<evkxdisplayaddarticle />}}
 

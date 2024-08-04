@@ -138,20 +138,22 @@ Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
-Du kan välja mellan två olika klimatsystem.
-- Klimatsystemet 1-zone Climatronic stöder endast kontroll av en delad zon för hela bilen.
-- Klimatsystemet 2-zone Climatronic stöder olika temperaturer i två zoner för förare och passagerare.
+Två klimatsystemalternativ är tillgängliga:
+
+- **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
+- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
+
+
 Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
-## Tröst
+## Komfortfunktioner
 
-Volkswagen ID.3 GTX har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
+Volkswagen ID.3 GTX inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-Nyckelfritt tillträde ger tillgång till bilen utan att behöva hitta nyckeln. Så länge du har den med dig kommer dörrarna att öppnas.
+- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
+- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
+- **Trådlös laddning av telefon**
 
-Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
-
-Du har trådlös laddning för din telefon.
 
 {{<evkxdisplayaddarticle />}}
 

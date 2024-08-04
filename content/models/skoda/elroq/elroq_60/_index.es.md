@@ -141,6 +141,7 @@ Sólo hay un tipo de volante disponible.
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
+
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
 
 
@@ -149,6 +150,7 @@ Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) est
 ## Características de confort
 
 El SKODA Elroq 60 incluye varias características para mejorar la comodidad y conveniencia:
+
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**

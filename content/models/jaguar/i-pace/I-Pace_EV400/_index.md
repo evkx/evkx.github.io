@@ -178,6 +178,7 @@ There is only one type of steering wheel available. The  steering wheel is heate
 ## Climate system
 
 Two climate system options are available:
+
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
@@ -185,6 +186,7 @@ Two climate system options are available:
 ## Comfort features
 
 The Jaguar I-Pace EV400 includes several features to enhance comfort and convenience:
+
 - **Wireless phone charging**
 
 

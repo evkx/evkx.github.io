@@ -135,16 +135,19 @@ Det finns bara en typ av ratt tillgänglig.
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
-- Klimatsystemet  stöder endast kontroll av en delad zon för hela bilen.
-Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som standard. Denna värmepump kan spara betydande energi som EV skulle användas för uppvärmning i kallt väder.
 
-## Tröst
+- **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
 
-MG Marvel R Electric Performance har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
 
-Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
+En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
 
-Du har trådlös laddning för din telefon.
+## Komfortfunktioner
+
+MG Marvel R Electric Performance inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+
+- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
+- **Trådlös laddning av telefon**
+
 
 {{<evkxdisplayaddarticle />}}
 

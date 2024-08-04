@@ -151,9 +151,12 @@ Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan sty
 Det finns ett tillgängligt klimatsystem.
 
 
-## Tröst
 
-XPENG X9 AWD Performance har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
+## Komfortfunktioner
+
+XPENG X9 AWD Performance inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+
+
 
 {{<evkxdisplayaddarticle />}}
 

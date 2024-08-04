@@ -155,20 +155,19 @@ Det finns bara en typ av ratt tillgänglig. Ratten stock är uppvärmd och du ka
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
-- Klimatsystemet comfort stöder olika temperaturer i fyra zoner för föraren, passageraren och två separata baksätespassagerare.
+
+- **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
 
 
-## Tröst
+## Komfortfunktioner
 
-Rolls-Royce Spectre har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
+Rolls-Royce Spectre inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-Nyckelfritt tillträde ger tillgång till bilen utan att behöva hitta nyckeln. Så länge du har den med dig kommer dörrarna att öppnas.
+- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
+- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
+- **Elektriskt justerbar ratt**
+- **Trådlös laddning av telefon**
 
-Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
-
-Ratten är elektriskt justerbar.
-
-Du har trådlös laddning för din telefon.
 
 {{<evkxdisplayaddarticle />}}
 

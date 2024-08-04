@@ -149,6 +149,7 @@ Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
+
 - **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
 
 
@@ -157,6 +158,7 @@ Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) est
 ## Características de confort
 
 El XPENG G9 RWD Long Range incluye varias características para mejorar la comodidad y conveniencia:
+
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**

@@ -133,6 +133,7 @@ Der er kun én type rat tilgængelig. -rattet er opvarmet, og du kan styre lydsy
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
+
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
 
@@ -141,6 +142,7 @@ Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekst
 ## Komfortfunktioner
 
 Hyundai Ioniq 5 N inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+
 - **Trådløs opladning af telefon**
 
 

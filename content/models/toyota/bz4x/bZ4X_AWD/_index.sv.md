@@ -133,14 +133,18 @@ Det finns bara en typ av ratt tillgänglig.
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
-- Klimatsystemet 2-zone stöder olika temperaturer i två zoner för förare och passagerare.
+
+- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
+
+
 Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
-## Tröst
+## Komfortfunktioner
 
-Toyota bZ4X AWD har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
+Toyota bZ4X AWD inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-Du har trådlös laddning för din telefon.
+- **Trådlös laddning av telefon**
+
 
 {{<evkxdisplayaddarticle />}}
 

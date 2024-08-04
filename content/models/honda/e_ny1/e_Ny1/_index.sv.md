@@ -123,9 +123,12 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 
-## Tröst
 
-Honda e:Ny1 har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
+## Komfortfunktioner
+
+Honda e:Ny1 inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+
+
 
 {{<evkxdisplayaddarticle />}}
 

@@ -144,11 +144,13 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 
+
 Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
 ## Caractéristiques de confort
 
 L'Alfa Romeo Junior comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 

@@ -125,9 +125,11 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 
+
 ## Caractéristiques de confort
 
 L'Mercedes-EQ EQC 400 4MATIC comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 

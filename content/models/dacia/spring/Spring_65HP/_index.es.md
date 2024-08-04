@@ -138,6 +138,7 @@ Sólo hay un tipo de volante disponible.
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
+
 - **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
 
 
@@ -146,6 +147,7 @@ Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calo
 ## Características de confort
 
 El Dacia Spring 65HP incluye varias características para mejorar la comodidad y conveniencia:
+
 
 
 {{<evkxdisplayaddarticle />}}

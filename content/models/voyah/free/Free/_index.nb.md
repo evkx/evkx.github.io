@@ -136,11 +136,13 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 
+
 En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
 ## Komfortfunksjoner
 
 VOYAH FREE inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+
 - **Trådløs lading av telefon**
 
 

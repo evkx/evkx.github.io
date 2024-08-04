@@ -134,13 +134,17 @@ Det finns bara en typ av ratt tillgänglig.
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
-Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som standard. Denna värmepump kan spara betydande energi som EV skulle användas för uppvärmning i kallt väder.
 
-## Tröst
 
-VOYAH FREE har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
 
-Du har trådlös laddning för din telefon.
+En standard [värmepump](../../../../technology/hvac/#heat-pump) ingår, vilket kan spara betydande energi som elbilen annars skulle använda för uppvärmning i kallt väder.
+
+## Komfortfunktioner
+
+VOYAH FREE inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
+
+- **Trådlös laddning av telefon**
+
 
 {{<evkxdisplayaddarticle />}}
 

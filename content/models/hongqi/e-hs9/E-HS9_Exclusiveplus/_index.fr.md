@@ -146,12 +146,14 @@ Il n'y a qu'un seul type de volant disponible.
 ## Système de climatisation
 
 Un système climatique est disponible.
+
 - **Système de climatisation à 6 zones** : Prend en charge différentes températures dans six zones : le conducteur, le passager et deux zones, toutes deux dans les rangées 2 et 3.
 
 
 ## Caractéristiques de confort
 
 L'Hongqi E-HS9 Exclusive+ comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Volant réglable électriquement**

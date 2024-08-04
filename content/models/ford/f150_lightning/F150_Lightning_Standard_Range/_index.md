@@ -144,9 +144,11 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 
+
 ## Comfort features
 
 The Ford F150 Lightning Standard Range includes several features to enhance comfort and convenience:
+
 
 
 {{<evkxdisplayaddarticle />}}

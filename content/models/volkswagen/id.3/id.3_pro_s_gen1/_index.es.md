@@ -143,6 +143,7 @@ Sólo hay un tipo de volante disponible.
 ## Sistema de climatización
 
 Hay dos opciones de sistema de climatización disponibles:
+
 - **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
@@ -152,6 +153,7 @@ Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-cal
 ## Características de confort
 
 El Volkswagen ID.3 Pro S (GEN1) incluye varias características para mejorar la comodidad y conveniencia:
+
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Carga inalámbrica de teléfono**

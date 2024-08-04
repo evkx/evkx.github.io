@@ -173,6 +173,7 @@ Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
+
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
 
 
@@ -181,6 +182,7 @@ Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-cal
 ## Características de confort
 
 El Kia EV9 RWD incluye varias características para mejorar la comodidad y conveniencia:
+
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**

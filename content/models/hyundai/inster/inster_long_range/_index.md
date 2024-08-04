@@ -152,6 +152,7 @@ There is only one type of steering wheel available. The  steering wheel is heate
 ## Climate system
 
 There is one climate system available.
+
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 
 
@@ -160,6 +161,7 @@ A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, whic
 ## Comfort features
 
 The Hyundai INSTER Long Range includes several features to enhance comfort and convenience:
+
 - **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
 - **Keyless go:** Enables starting the car without using the key.
 - **Wireless phone charging**

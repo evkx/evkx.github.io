@@ -150,18 +150,18 @@ Det finns bara en typ av ratt tillgänglig.
 ## Klimatsystem
 
 Det finns ett tillgängligt klimatsystem.
-- Klimatsystemet  stöder olika temperaturer i två zoner för förare och passagerare.
+
+- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 
 
-## Tröst
+## Komfortfunktioner
 
-VinFast VF8 Plus har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
+VinFast VF8 Plus inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-Nyckelfritt tillträde ger tillgång till bilen utan att behöva hitta nyckeln. Så länge du har den med dig kommer dörrarna att öppnas.
+- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
+- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
+- **Elektriskt justerbar ratt**
 
-Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
-
-Ratten är elektriskt justerbar.
 
 {{<evkxdisplayaddarticle />}}
 

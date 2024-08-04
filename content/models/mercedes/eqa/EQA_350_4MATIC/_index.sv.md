@@ -163,20 +163,20 @@ Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
-Du kan välja mellan två olika klimatsystem.
-- Klimatsystemet standard stöder endast kontroll av en delad zon för hela bilen.
-- Klimatsystemet THERMOTRONIC stöder olika temperaturer i två zoner för förare och passagerare.
+Två klimatsystemalternativ är tillgängliga:
+
+- **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
+- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 
 
-## Tröst
+## Komfortfunktioner
 
-Mercedes-EQ EQA 350 4MATIC har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
+Mercedes-EQ EQA 350 4MATIC inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-Nyckelfritt tillträde ger tillgång till bilen utan att behöva hitta nyckeln. Så länge du har den med dig kommer dörrarna att öppnas.
+- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
+- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
+- **Trådlös laddning av telefon**
 
-Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
-
-Du har trådlös laddning för din telefon.
 
 {{<evkxdisplayaddarticle />}}
 

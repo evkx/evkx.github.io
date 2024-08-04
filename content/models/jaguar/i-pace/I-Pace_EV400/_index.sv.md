@@ -177,16 +177,18 @@ Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan sty
 
 ## Klimatsystem
 
-Du kan välja mellan två olika klimatsystem.
-- Klimatsystemet 2-zone stöder olika temperaturer i två zoner för förare och passagerare.
-- Klimatsystemet 4-zone stöder olika temperaturer i fyra zoner för föraren, passageraren och två separata baksätespassagerare.
+Två klimatsystemalternativ är tillgängliga:
+
+- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
+- **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
 
 
-## Tröst
+## Komfortfunktioner
 
-Jaguar I-Pace EV400 har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
+Jaguar I-Pace EV400 inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-Du har trådlös laddning för din telefon.
+- **Trådlös laddning av telefon**
+
 
 {{<evkxdisplayaddarticle />}}
 

@@ -136,11 +136,13 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 
+
 A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
 ## Comfort features
 
 The VOYAH FREE includes several features to enhance comfort and convenience:
+
 - **Wireless phone charging**
 
 

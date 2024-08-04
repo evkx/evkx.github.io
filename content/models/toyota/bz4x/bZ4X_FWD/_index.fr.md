@@ -133,6 +133,7 @@ Il n'y a qu'un seul type de volant disponible.
 ## Système de climatisation
 
 Un système climatique est disponible.
+
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 
 
@@ -141,6 +142,7 @@ Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pu
 ## Caractéristiques de confort
 
 L'Toyota bZ4X FWD comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+
 - **Recharge sans fil pour téléphone**
 
 

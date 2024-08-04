@@ -183,6 +183,7 @@ Sólo hay un tipo de volante disponible.
 ## Sistema de climatización
 
 Hay dos opciones de sistema de climatización disponibles:
+
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 - **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
 
@@ -190,6 +191,7 @@ Hay dos opciones de sistema de climatización disponibles:
 ## Características de confort
 
 El Mercedes-EQ EQS 580 4MATIC incluye varias características para mejorar la comodidad y conveniencia:
+
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 - **Volante ajustable eléctricamente**

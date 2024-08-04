@@ -137,6 +137,7 @@ Der er kun én type rat tilgængelig.
 ## Klimasystem
 
 To klimaanlægsmuligheder er tilgængelige:
+
 - **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
@@ -146,6 +147,7 @@ En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, 
 ## Komfortfunktioner
 
 Volvo EX30 Single Motor inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Trådløs opladning af telefon**

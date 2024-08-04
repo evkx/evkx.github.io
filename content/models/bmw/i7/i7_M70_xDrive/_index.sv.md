@@ -152,22 +152,21 @@ Det finns bara en typ av ratt tillgänglig. Ratten stock är uppvärmd och du ka
 
 ## Klimatsystem
 
-Du kan välja mellan två olika klimatsystem.
-- Klimatsystemet standard stöder olika temperaturer i två zoner för förare och passagerare.
-- Klimatsystemet comfort stöder olika temperaturer i fyra zoner för föraren, passageraren och två separata baksätespassagerare.
+Två klimatsystemalternativ är tillgängliga:
+
+- **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
+- **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
 
 
-## Tröst
+## Komfortfunktioner
 
-BMW i7 M70 xDrive har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.
+BMW i7 M70 xDrive inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
 
-Nyckelfritt tillträde ger tillgång till bilen utan att behöva hitta nyckeln. Så länge du har den med dig kommer dörrarna att öppnas.
+- **Nyckellöst inträde:** Möjliggör tillgång till bilen utan att behöva leta efter nyckeln, så länge du har den med dig.
+- **Nyckellös start:** Gör det möjligt att starta bilen utan att använda nyckeln.
+- **Elektriskt justerbar ratt**
+- **Trådlös laddning av telefon**
 
-Keyless go gör det möjligt att starta bilen utan att använda nyckeln.
-
-Ratten är elektriskt justerbar.
-
-Du har trådlös laddning för din telefon.
 
 {{<evkxdisplayaddarticle />}}
 

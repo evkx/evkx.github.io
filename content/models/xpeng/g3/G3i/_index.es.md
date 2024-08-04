@@ -130,6 +130,7 @@ Sólo hay un tipo de volante disponible.
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
+
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
 
@@ -138,6 +139,7 @@ Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calo
 ## Características de confort
 
 El XPENG G3i incluye varias características para mejorar la comodidad y conveniencia:
+
 
 
 {{<evkxdisplayaddarticle />}}

@@ -130,6 +130,7 @@ Der er kun én type rat tilgængelig.
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
+
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
 
@@ -138,6 +139,7 @@ Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). De
 ## Komfortfunktioner
 
 XPENG G3i inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+
 
 
 {{<evkxdisplayaddarticle />}}

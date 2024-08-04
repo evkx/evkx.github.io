@@ -137,6 +137,7 @@ Il n'y a qu'un seul type de volant disponible.
 ## Système de climatisation
 
 Deux options de système de climatisation sont disponibles :
+
 - **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 
@@ -146,6 +147,7 @@ Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incl
 ## Caractéristiques de confort
 
 L'Volvo EX30 Single Motor Extended Range comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+
 - **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
 - **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
 - **Recharge sans fil pour téléphone**

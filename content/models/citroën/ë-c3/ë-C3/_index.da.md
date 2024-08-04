@@ -165,6 +165,7 @@ Der er kun én type rat tilgængelig.
 ## Klimasystem
 
 Der er et tilgængeligt klimasystem.
+
 - **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
 
 
@@ -173,6 +174,7 @@ Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). De
 ## Komfortfunktioner
 
 Citroën ë-C3 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+
 - **Trådløs opladning af telefon**
 
 

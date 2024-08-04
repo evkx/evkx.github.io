@@ -140,6 +140,7 @@ Sólo hay un tipo de volante disponible.
 ## Sistema de climatización
 
 Hay un sistema climático disponible.
+
 - **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
 
 
@@ -148,6 +149,7 @@ Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calo
 ## Características de confort
 
 El Rimac Nevera incluye varias características para mejorar la comodidad y conveniencia:
+
 - **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
 - **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 
