@@ -165,11 +165,11 @@ L'option second est un [siège exécutif combiné à une banquette à deux place
 
 Il n'y a qu'un seul type de volant disponible. Le volant stock est chauffant et vous pouvez contrôler le système audio avec les boutons sur le volant.
 
-## Système climatique
+## Système de climatisation
 
-Vous pouvez choisir parmi deux systèmes climatiques différents.
-- Le système climatique standard prend en charge différentes températures dans deux zones pour le conducteur et le passager.
-- Le système climatique comfort prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
+Deux options de système de climatisation sont disponibles :
+- **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
+- **Système de climatisation à 4 zones** : Prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
 
 
 ## Caractéristiques de confort

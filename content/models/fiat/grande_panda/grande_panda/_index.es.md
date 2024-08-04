@@ -149,17 +149,19 @@ La segunda fila tiene un banco estándar de tres asientos con una división 60:4
 
 Sólo hay un tipo de volante disponible.
 
-## Sistema climático
+## Sistema de climatización
 
 Hay un sistema climático disponible.
-- El sistema climático standard solo admite el control de una zona compartida para todo el automóvil.
+- **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
+
+
 Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
 
-## Comodidad
+## Características de confort
 
-Fiat Grande Panda tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+El Fiat Grande Panda incluye varias características para mejorar la comodidad y conveniencia:
+- **Carga inalámbrica de teléfono**
 
-Tienes carga inalámbrica para tu teléfono.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -131,16 +131,18 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:6
 
 Sólo hay un tipo de volante disponible.
 
-## Sistema climático
+## Sistema de climatización
 
 Hay un sistema climático disponible.
-Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
 
-## Comodidad
 
-VOYAH FREE tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
-Tienes carga inalámbrica para tu teléfono.
+## Características de confort
+
+El VOYAH FREE incluye varias características para mejorar la comodidad y conveniencia:
+- **Carga inalámbrica de teléfono**
+
 
 {{<evkxdisplayaddarticle />}}
 

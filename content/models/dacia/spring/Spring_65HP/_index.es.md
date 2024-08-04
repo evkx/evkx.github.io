@@ -135,15 +135,18 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 Sólo hay un tipo de volante disponible.
 
-## Sistema climático
+## Sistema de climatización
 
 Hay un sistema climático disponible.
-- El sistema climático  solo admite el control de una zona compartida para todo el automóvil.
+- **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
+
+
 Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
 
-## Comodidad
+## Características de confort
 
-Dacia Spring 65HP tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+El Dacia Spring 65HP incluye varias características para mejorar la comodidad y conveniencia:
+
 
 {{<evkxdisplayaddarticle />}}
 

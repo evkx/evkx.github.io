@@ -149,13 +149,13 @@ La troisième rangée est dotée d'une banquette à deux places divisée en 50:5
 
 Il n'y a qu'un seul type de volant disponible.
 
-## Système climatique
+## Système de climatisation
 
 Un système climatique est disponible.
-- Le système climatique 3-zone prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
+- **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
 
 
-Ce modèle est équipé d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en standard. Cette pompe à chaleur peut économiser une énergie importante qui le VE l'utiliserait pour se chauffer par temps froid.
+Une [pompe à chaleur](../../../../technology/hvac/#heat-pump) standard est incluse, ce qui permet de réaliser des économies d'énergie significatives que le véhicule électrique utiliserait autrement pour le chauffage par temps froid.
 
 ## Caractéristiques de confort
 

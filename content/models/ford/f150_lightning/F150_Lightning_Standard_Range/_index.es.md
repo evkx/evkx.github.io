@@ -139,14 +139,15 @@ La segunda fila tiene un banco estándar de tres asientos con una división  don
 
 Sólo hay un tipo de volante disponible.
 
-## Sistema climático
+## Sistema de climatización
 
 Hay un sistema climático disponible.
 
 
-## Comodidad
+## Características de confort
 
-Ford F150 Lightning Standard Range tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+El Ford F150 Lightning Standard Range incluye varias características para mejorar la comodidad y conveniencia:
+
 
 {{<evkxdisplayaddarticle />}}
 

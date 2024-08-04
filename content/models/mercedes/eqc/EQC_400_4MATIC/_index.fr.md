@@ -120,7 +120,7 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 Il n'y a qu'un seul type de volant disponible.
 
-## Système climatique
+## Système de climatisation
 
 Un système climatique est disponible.
 

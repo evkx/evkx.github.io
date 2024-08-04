@@ -147,10 +147,10 @@ La troisième rangée est dotée d'une banquette à deux places divisée en 50:5
 
 Il n'y a qu'un seul type de volant disponible.
 
-## Système climatique
+## Système de climatisation
 
 Un système climatique est disponible.
-- Le système climatique 2-zone prend en charge différentes températures dans deux zones pour le conducteur et le passager.
+- **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 
 
 Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.

@@ -166,24 +166,23 @@ La opción second es un banco de tres asientos con una división 40:20:40 donde 
 
 Sólo hay un tipo de volante disponible.
 
-## Sistema climático
+## Sistema de climatización
 
-Puedes elegir entre dos sistemas climáticos diferentes.
-- El sistema climático 1-zone solo admite el control de una zona compartida para todo el automóvil.
-- El sistema climático 3-zone admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
+Hay dos opciones de sistema de climatización disponibles:
+- **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
+- **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
+
+
 Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
 
-## Comodidad
+## Características de confort
 
-Audi Q4 45 e-tron tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+El Audi Q4 45 e-tron incluye varias características para mejorar la comodidad y conveniencia:
+- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
+- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
+- **Volante ajustable eléctricamente**
+- **Carga inalámbrica de teléfono**
 
-La entrada sin llave permite el acceso al auto sin necesidad de encontrar la llave. Mientras la traigas contigo, las puertas se abren.
-
-Keyless go permite arrancar el auto sin usar la llave.
-
-El volante es ajustable eléctricamente.
-
-Tienes carga inalámbrica para tu teléfono.
 
 {{<evkxdisplayaddarticle />}}
 

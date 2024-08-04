@@ -143,10 +143,10 @@ La troisième rangée est dotée d'une banquette à deux places divisée en 50:5
 
 Il n'y a qu'un seul type de volant disponible.
 
-## Système climatique
+## Système de climatisation
 
 Un système climatique est disponible.
-- Le système climatique 6-zone prend en charge différentes températures dans six zones : le conducteur, le passager et deux zones, toutes deux dans les rangées 2 et 3.
+- **Système de climatisation à 6 zones** : Prend en charge différentes températures dans six zones : le conducteur, le passager et deux zones, toutes deux dans les rangées 2 et 3.
 
 
 ## Caractéristiques de confort

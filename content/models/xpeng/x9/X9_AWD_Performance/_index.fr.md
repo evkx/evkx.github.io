@@ -146,7 +146,7 @@ La troisième rangée est dotée d'une banquette à trois places divisée en 40:
 
 Il n'y a qu'un seul type de volant disponible. Le volant  est chauffant et vous pouvez contrôler le système audio avec les boutons sur le volant.
 
-## Système climatique
+## Système de climatisation
 
 Un système climatique est disponible.
 

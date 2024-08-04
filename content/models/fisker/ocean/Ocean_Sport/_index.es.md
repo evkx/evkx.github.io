@@ -136,23 +136,22 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 Sólo hay un tipo de volante disponible.
 
-## Sistema climático
+## Sistema de climatización
 
 Hay un sistema climático disponible.
-- El sistema climático  admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
+- **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
+
+
 Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
 
-## Comodidad
+## Características de confort
 
-Fisker Ocean Sport tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+El Fisker Ocean Sport incluye varias características para mejorar la comodidad y conveniencia:
+- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
+- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
+- **Función de fácil acceso:** Mueve el asiento del conductor para facilitar la entrada al coche.
+- **Carga inalámbrica de teléfono**
 
-La entrada sin llave permite el acceso al auto sin necesidad de encontrar la llave. Mientras la traigas contigo, las puertas se abren.
-
-Keyless go permite arrancar el auto sin usar la llave.
-
-Tienes una función de 'entrada fácil' para el asiento del conductor que mueve el asiento para facilitar la entrada al coche.
-
-Tienes carga inalámbrica para tu teléfono.
 
 {{<evkxdisplayaddarticle />}}
 

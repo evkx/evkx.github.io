@@ -133,19 +133,20 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 Sólo hay un tipo de volante disponible.
 
-## Sistema climático
+## Sistema de climatización
 
 Hay un sistema climático disponible.
-- El sistema climático  solo admite el control de una zona compartida para todo el automóvil.
+- **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
+
+
 Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
 
-## Comodidad
+## Características de confort
 
-Automobili Pininfarina Battista tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+El Automobili Pininfarina Battista incluye varias características para mejorar la comodidad y conveniencia:
+- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
+- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 
-La entrada sin llave permite el acceso al auto sin necesidad de encontrar la llave. Mientras la traigas contigo, las puertas se abren.
-
-Keyless go permite arrancar el auto sin usar la llave.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -130,10 +130,10 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 Il n'y a qu'un seul type de volant disponible. Le volant  est chauffant et vous pouvez contrôler le système audio avec les boutons sur le volant.
 
-## Système climatique
+## Système de climatisation
 
 Un système climatique est disponible.
-- Le système climatique 2-zone prend en charge différentes températures dans deux zones pour le conducteur et le passager.
+- **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 
 
 Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.

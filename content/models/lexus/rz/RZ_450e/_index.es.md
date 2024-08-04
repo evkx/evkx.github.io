@@ -142,17 +142,19 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:6
 
 Sólo hay un tipo de volante disponible.
 
-## Sistema climático
+## Sistema de climatización
 
 Hay un sistema climático disponible.
-- El sistema climático 2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
+- **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
+
+
 Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
 
-## Comodidad
+## Características de confort
 
-Lexus RZ 450e tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+El Lexus RZ 450e incluye varias características para mejorar la comodidad y conveniencia:
+- **Carga inalámbrica de teléfono**
 
-Tienes carga inalámbrica para tu teléfono.
 
 {{<evkxdisplayaddarticle />}}
 

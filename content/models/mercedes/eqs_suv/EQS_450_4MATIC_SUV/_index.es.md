@@ -175,24 +175,21 @@ La tercera fila tiene un banco de dos asientos opcional con una división 50:50.
 
 Sólo hay un tipo de volante disponible.
 
-## Sistema climático
+## Sistema de climatización
 
-Puedes elegir entre dos sistemas climáticos diferentes.
-- El sistema climático THERMOTRONIC admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
-- El sistema climático THERMATIC admite diferentes temperaturas en cuatro zonas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
+Hay dos opciones de sistema de climatización disponibles:
+- **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
+- **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
 
 
-## Comodidad
+## Características de confort
 
-Mercedes-EQ EQS 450 4MATIC SUV tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+El Mercedes-EQ EQS 450 4MATIC SUV incluye varias características para mejorar la comodidad y conveniencia:
+- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
+- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
+- **Volante ajustable eléctricamente**
+- **Carga inalámbrica de teléfono**
 
-La entrada sin llave permite el acceso al auto sin necesidad de encontrar la llave. Mientras la traigas contigo, las puertas se abren.
-
-Keyless go permite arrancar el auto sin usar la llave.
-
-El volante es ajustable eléctricamente.
-
-Tienes carga inalámbrica para tu teléfono.
 
 {{<evkxdisplayaddarticle />}}
 

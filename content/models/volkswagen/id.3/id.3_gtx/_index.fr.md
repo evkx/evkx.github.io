@@ -136,11 +136,11 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 Il n'y a qu'un seul type de volant disponible.
 
-## Système climatique
+## Système de climatisation
 
-Vous pouvez choisir parmi deux systèmes climatiques différents.
-- Le système climatique 1-zone Climatronic ne prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
-- Le système climatique 2-zone Climatronic prend en charge différentes températures dans deux zones pour le conducteur et le passager.
+Deux options de système de climatisation sont disponibles :
+- **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
+- **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 
 
 Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.

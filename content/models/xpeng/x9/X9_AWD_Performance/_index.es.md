@@ -146,14 +146,15 @@ La tercera fila tiene un banco de tres asientos con una división 40:60. Nuevame
 
 Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes controlar el sistema de audio con los botones en el volante.
 
-## Sistema climático
+## Sistema de climatización
 
 Hay un sistema climático disponible.
 
 
-## Comodidad
+## Características de confort
 
-XPENG X9 AWD Performance tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+El XPENG X9 AWD Performance incluye varias características para mejorar la comodidad y conveniencia:
+
 
 {{<evkxdisplayaddarticle />}}
 

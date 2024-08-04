@@ -127,15 +127,18 @@ La segunda fila tiene un banco estándar de tres asientos con una división 60:4
 
 Sólo hay un tipo de volante disponible.
 
-## Sistema climático
+## Sistema de climatización
 
 Hay un sistema climático disponible.
-- El sistema climático  admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
+- **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
+
+
 Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
 
-## Comodidad
+## Características de confort
 
-XPENG G3i tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+El XPENG G3i incluye varias características para mejorar la comodidad y conveniencia:
+
 
 {{<evkxdisplayaddarticle />}}
 

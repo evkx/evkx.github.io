@@ -133,19 +133,20 @@ La segunda fila tiene un banco estándar de tres asientos con una división  don
 
 Sólo hay un tipo de volante disponible.
 
-## Sistema climático
+## Sistema de climatización
 
 Hay un sistema climático disponible.
-- El sistema climático  solo admite el control de una zona compartida para todo el automóvil.
-Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
+- **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
 
-## Comodidad
 
-MG MG4 Electric Standard tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
-Keyless go permite arrancar el auto sin usar la llave.
+## Características de confort
 
-Tienes carga inalámbrica para tu teléfono.
+El MG MG4 Electric Standard incluye varias características para mejorar la comodidad y conveniencia:
+- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
+- **Carga inalámbrica de teléfono**
+
 
 {{<evkxdisplayaddarticle />}}
 

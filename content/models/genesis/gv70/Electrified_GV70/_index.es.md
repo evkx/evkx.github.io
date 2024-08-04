@@ -143,17 +143,19 @@ La segunda fila tiene un banco estándar de tres asientos con una división 60:4
 
 Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes controlar el sistema de audio con los botones en el volante.
 
-## Sistema climático
+## Sistema de climatización
 
 Hay un sistema climático disponible.
-- El sistema climático 2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
-Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
+- **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
-## Comodidad
 
-Genesis Electrified GV70 tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+Se incluye una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) estándar, que puede ahorrar una cantidad significativa de energía que el vehículo eléctrico usaría para la calefacción en climas fríos.
 
-Tienes carga inalámbrica para tu teléfono.
+## Características de confort
+
+El Genesis Electrified GV70 incluye varias características para mejorar la comodidad y conveniencia:
+- **Carga inalámbrica de teléfono**
+
 
 {{<evkxdisplayaddarticle />}}
 

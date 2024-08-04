@@ -152,23 +152,20 @@ Para la segunda fila, este modelo tiene [asientos ejecutivos] gemelos(../../../.
 
 Sólo hay un tipo de volante disponible. El volante stock tiene calefacción y puedes controlar el sistema de audio con los botones en el volante.
 
-## Sistema climático
+## Sistema de climatización
 
 Hay un sistema climático disponible.
-- El sistema climático comfort admite diferentes temperaturas en cuatro zonas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
+- **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
 
 
-## Comodidad
+## Características de confort
 
-Rolls-Royce Spectre tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+El Rolls-Royce Spectre incluye varias características para mejorar la comodidad y conveniencia:
+- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
+- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
+- **Volante ajustable eléctricamente**
+- **Carga inalámbrica de teléfono**
 
-La entrada sin llave permite el acceso al auto sin necesidad de encontrar la llave. Mientras la traigas contigo, las puertas se abren.
-
-Keyless go permite arrancar el auto sin usar la llave.
-
-El volante es ajustable eléctricamente.
-
-Tienes carga inalámbrica para tu teléfono.
 
 {{<evkxdisplayaddarticle />}}
 

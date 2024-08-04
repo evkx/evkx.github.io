@@ -137,10 +137,10 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 Il n'y a qu'un seul type de volant disponible.
 
-## Système climatique
+## Système de climatisation
 
 Un système climatique est disponible.
-- Le système climatique  ne prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
+- **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
 
 
 Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.

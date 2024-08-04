@@ -175,18 +175,18 @@ La opción second es un banco de tres asientos con una división 40:20:40 donde 
 
 Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes controlar el sistema de audio con los botones en el volante.
 
-## Sistema climático
+## Sistema de climatización
 
-Puedes elegir entre dos sistemas climáticos diferentes.
-- El sistema climático 2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
-- El sistema climático 4-zone admite diferentes temperaturas en cuatro zonas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
+Hay dos opciones de sistema de climatización disponibles:
+- **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
+- **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
 
 
-## Comodidad
+## Características de confort
 
-Jaguar I-Pace EV400 tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+El Jaguar I-Pace EV400 incluye varias características para mejorar la comodidad y conveniencia:
+- **Carga inalámbrica de teléfono**
 
-Tienes carga inalámbrica para tu teléfono.
 
 {{<evkxdisplayaddarticle />}}
 

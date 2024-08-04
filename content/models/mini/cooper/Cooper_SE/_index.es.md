@@ -136,20 +136,18 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 Sólo hay un tipo de volante disponible.
 
-## Sistema climático
+## Sistema de climatización
 
 Hay un sistema climático disponible.
 
 
-## Comodidad
+## Características de confort
 
-Mini Cooper SE tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+El Mini Cooper SE incluye varias características para mejorar la comodidad y conveniencia:
+- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
+- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
+- **Carga inalámbrica de teléfono**
 
-La entrada sin llave permite el acceso al auto sin necesidad de encontrar la llave. Mientras la traigas contigo, las puertas se abren.
-
-Keyless go permite arrancar el auto sin usar la llave.
-
-Tienes carga inalámbrica para tu teléfono.
 
 {{<evkxdisplayaddarticle />}}
 

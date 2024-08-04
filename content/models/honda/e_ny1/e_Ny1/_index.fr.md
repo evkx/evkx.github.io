@@ -118,7 +118,7 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 Il n'y a qu'un seul type de volant disponible.
 
-## Système climatique
+## Système de climatisation
 
 Un système climatique est disponible.
 

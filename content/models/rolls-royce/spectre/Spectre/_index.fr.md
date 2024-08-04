@@ -152,10 +152,10 @@ Pour la deuxième rangée, ce modèle est doté de deux [sièges exécutifs](../
 
 Il n'y a qu'un seul type de volant disponible. Le volant stock est chauffant et vous pouvez contrôler le système audio avec les boutons sur le volant.
 
-## Système climatique
+## Système de climatisation
 
 Un système climatique est disponible.
-- Le système climatique comfort prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
+- **Système de climatisation à 4 zones** : Prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
 
 
 ## Caractéristiques de confort

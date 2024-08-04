@@ -141,23 +141,20 @@ La tercera fila tiene un banco de dos asientos con una división 50:50. Nuevamen
 
 Sólo hay un tipo de volante disponible.
 
-## Sistema climático
+## Sistema de climatización
 
 Hay un sistema climático disponible.
-- El sistema climático 6-zone admite diferentes temperaturas en seis zonas: la del conductor, la del pasajero y dos zonas, tanto en la 2. como en la 3. fila.
+- **Sistema de climatización de 6 zonas:** Soporta diferentes temperaturas en seis zonas: la del conductor, la del pasajero y dos zonas, tanto en la 2. como en la 3. fila.
 
 
-## Comodidad
+## Características de confort
 
-Hongqi E-HS9 Premium tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+El Hongqi E-HS9 Premium incluye varias características para mejorar la comodidad y conveniencia:
+- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
+- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
+- **Volante ajustable eléctricamente**
+- **Carga inalámbrica de teléfono**
 
-La entrada sin llave permite el acceso al auto sin necesidad de encontrar la llave. Mientras la traigas contigo, las puertas se abren.
-
-Keyless go permite arrancar el auto sin usar la llave.
-
-El volante es ajustable eléctricamente.
-
-Tienes carga inalámbrica para tu teléfono.
 
 {{<evkxdisplayaddarticle />}}
 

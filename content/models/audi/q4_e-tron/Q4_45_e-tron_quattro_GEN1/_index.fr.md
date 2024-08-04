@@ -172,11 +172,11 @@ L'option second est une banquette à trois places avec une séparation 40:20:40 
 
 Il n'y a qu'un seul type de volant disponible.
 
-## Système climatique
+## Système de climatisation
 
-Vous pouvez choisir parmi deux systèmes climatiques différents.
-- Le système climatique 1-zone ne prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
-- Le système climatique 3-zone prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
+Deux options de système de climatisation sont disponibles :
+- **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
+- **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
 
 
 Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.

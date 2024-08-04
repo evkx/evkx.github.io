@@ -161,11 +161,11 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 Il n'y a qu'un seul type de volant disponible.
 
-## Système climatique
+## Système de climatisation
 
-Vous pouvez choisir parmi deux systèmes climatiques différents.
-- Le système climatique standard ne prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
-- Le système climatique THERMOTRONIC prend en charge différentes températures dans deux zones pour le conducteur et le passager.
+Deux options de système de climatisation sont disponibles :
+- **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
+- **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 
 
 ## Caractéristiques de confort

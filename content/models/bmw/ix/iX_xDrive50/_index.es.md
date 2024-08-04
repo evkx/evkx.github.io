@@ -141,24 +141,21 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 Sólo hay un tipo de volante disponible. El volante stock tiene calefacción y puedes controlar el sistema de audio con los botones en el volante.
 
-## Sistema climático
+## Sistema de climatización
 
-Puedes elegir entre dos sistemas climáticos diferentes.
-- El sistema climático standard admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
-- El sistema climático comfort admite diferentes temperaturas en cuatro zonas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
+Hay dos opciones de sistema de climatización disponibles:
+- **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
+- **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
 
 
-## Comodidad
+## Características de confort
 
-BMW iX xDrive50 tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+El BMW iX xDrive50 incluye varias características para mejorar la comodidad y conveniencia:
+- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
+- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
+- **Volante ajustable eléctricamente**
+- **Carga inalámbrica de teléfono**
 
-La entrada sin llave permite el acceso al auto sin necesidad de encontrar la llave. Mientras la traigas contigo, las puertas se abren.
-
-Keyless go permite arrancar el auto sin usar la llave.
-
-El volante es ajustable eléctricamente.
-
-Tienes carga inalámbrica para tu teléfono.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -134,19 +134,20 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:6
 
 Sólo hay un tipo de volante disponible.
 
-## Sistema climático
+## Sistema de climatización
 
 Hay un sistema climático disponible.
-- El sistema climático 2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
+- **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
+
+
 Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
 
-## Comodidad
+## Características de confort
 
-KGM Torres EVX tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+El KGM Torres EVX incluye varias características para mejorar la comodidad y conveniencia:
+- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
+- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
 
-La entrada sin llave permite el acceso al auto sin necesidad de encontrar la llave. Mientras la traigas contigo, las puertas se abren.
-
-Keyless go permite arrancar el auto sin usar la llave.
 
 {{<evkxdisplayaddarticle />}}
 

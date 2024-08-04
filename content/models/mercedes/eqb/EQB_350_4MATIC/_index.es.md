@@ -163,22 +163,20 @@ La tercera fila tiene un banco de dos asientos opcional con una división 50:50.
 
 Sólo hay un tipo de volante disponible.
 
-## Sistema climático
+## Sistema de climatización
 
-Puedes elegir entre dos sistemas climáticos diferentes.
-- El sistema climático standard solo admite el control de una zona compartida para todo el automóvil.
-- El sistema climático THERMOTRONIC admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
+Hay dos opciones de sistema de climatización disponibles:
+- **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
+- **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
 
-## Comodidad
+## Características de confort
 
-Mercedes-EQ EQB 350 4MATIC tiene varias características para hacer tu vida como conductor o pasajero más cómoda.
+El Mercedes-EQ EQB 350 4MATIC incluye varias características para mejorar la comodidad y conveniencia:
+- **Entrada sin llave:** Permite acceder al coche sin necesidad de encontrar la llave, siempre que la lleves contigo.
+- **Encendido sin llave:** Permite arrancar el coche sin usar la llave.
+- **Carga inalámbrica de teléfono**
 
-La entrada sin llave permite el acceso al auto sin necesidad de encontrar la llave. Mientras la traigas contigo, las puertas se abren.
-
-Keyless go permite arrancar el auto sin usar la llave.
-
-Tienes carga inalámbrica para tu teléfono.
 
 {{<evkxdisplayaddarticle />}}
 
