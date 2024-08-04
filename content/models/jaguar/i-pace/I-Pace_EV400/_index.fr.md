@@ -182,11 +182,11 @@ Vous pouvez choisir parmi deux systèmes climatiques différents.
 - Le système climatique 4-zone prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
 
 
-## Confort
+## Caractéristiques de confort
 
-Jaguar I-Pace EV400 dispose de plusieurs fonctionnalités pour rendre votre vie de conducteur ou de passager plus confortable.
+L'Jaguar I-Pace EV400 comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+- **Recharge sans fil pour téléphone**
 
-Vous disposez d'une recharge sans fil pour votre téléphone.
 
 {{<evkxdisplayaddarticle />}}
 

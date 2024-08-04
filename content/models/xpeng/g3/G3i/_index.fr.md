@@ -131,11 +131,14 @@ Il n'y a qu'un seul type de volant disponible.
 
 Un système climatique est disponible.
 - Le système climatique  prend en charge différentes températures dans deux zones pour le conducteur et le passager.
+
+
 Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.
 
-## Confort
+## Caractéristiques de confort
 
-XPENG G3i dispose de plusieurs fonctionnalités pour rendre votre vie de conducteur ou de passager plus confortable.
+L'XPENG G3i comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+
 
 {{<evkxdisplayaddarticle />}}
 

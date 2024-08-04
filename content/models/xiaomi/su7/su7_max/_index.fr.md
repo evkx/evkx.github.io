@@ -151,17 +151,14 @@ Un système climatique est disponible.
 - Le système climatique  2-zone prend en charge différentes températures dans deux zones pour le conducteur et le passager.
 
 
-## Confort
+## Caractéristiques de confort
 
-Xiaomi SU7 Max dispose de plusieurs fonctionnalités pour rendre votre vie de conducteur ou de passager plus confortable.
+L'Xiaomi SU7 Max comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+- **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
+- **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
+- **Volant réglable électriquement**
+- **Recharge sans fil pour téléphone**
 
-L'entrée sans clé permet d'accéder à la voiture sans avoir besoin de trouver la clé. Tant que vous l'apportez avec vous, les portes s'ouvrent.
-
-Keyless go permet de démarrer la voiture sans utiliser la clé.
-
-Le volant est réglable électriquement.
-
-Vous disposez d'une recharge sans fil pour votre téléphone.
 
 {{<evkxdisplayaddarticle />}}
 

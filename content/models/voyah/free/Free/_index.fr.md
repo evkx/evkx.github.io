@@ -134,13 +134,15 @@ Il n'y a qu'un seul type de volant disponible.
 ## Système climatique
 
 Un système climatique est disponible.
+
+
 Ce modèle est équipé d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en standard. Cette pompe à chaleur peut économiser une énergie importante qui le VE l'utiliserait pour se chauffer par temps froid.
 
-## Confort
+## Caractéristiques de confort
 
-VOYAH FREE dispose de plusieurs fonctionnalités pour rendre votre vie de conducteur ou de passager plus confortable.
+L'VOYAH FREE comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+- **Recharge sans fil pour téléphone**
 
-Vous disposez d'une recharge sans fil pour votre téléphone.
 
 {{<evkxdisplayaddarticle />}}
 

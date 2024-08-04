@@ -153,15 +153,13 @@ Un système climatique est disponible.
 - Le système climatique  prend en charge différentes températures dans deux zones pour le conducteur et le passager.
 
 
-## Confort
+## Caractéristiques de confort
 
-VinFast VF8 Plus dispose de plusieurs fonctionnalités pour rendre votre vie de conducteur ou de passager plus confortable.
+L'VinFast VF8 Plus comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+- **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
+- **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
+- **Volant réglable électriquement**
 
-L'entrée sans clé permet d'accéder à la voiture sans avoir besoin de trouver la clé. Tant que vous l'apportez avec vous, les portes s'ouvrent.
-
-Keyless go permet de démarrer la voiture sans utiliser la clé.
-
-Le volant est réglable électriquement.
 
 {{<evkxdisplayaddarticle />}}
 

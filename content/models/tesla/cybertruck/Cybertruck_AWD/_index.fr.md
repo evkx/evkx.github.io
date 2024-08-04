@@ -163,21 +163,19 @@ Il n'y a qu'un seul type de volant disponible.
 
 Un système climatique est disponible.
 - Le système climatique standard ne prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
+
+
 Ce modèle est équipé d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en standard. Cette pompe à chaleur peut économiser une énergie importante qui le VE l'utiliserait pour se chauffer par temps froid.
 
-## Confort
+## Caractéristiques de confort
 
-Tesla Cybertruck AWD dispose de plusieurs fonctionnalités pour rendre votre vie de conducteur ou de passager plus confortable.
+L'Tesla Cybertruck AWD comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+- **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
+- **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
+- **Volant réglable électriquement**
+- **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
+- **Recharge sans fil pour téléphone**
 
-L'entrée sans clé permet d'accéder à la voiture sans avoir besoin de trouver la clé. Tant que vous l'apportez avec vous, les portes s'ouvrent.
-
-Keyless go permet de démarrer la voiture sans utiliser la clé.
-
-Le volant est réglable électriquement.
-
-Vous disposez d'une fonction 'entrée facile' pour le siège conducteur qui déplace le siège pour faciliter l'entrée dans la voiture.
-
-Vous disposez d'une recharge sans fil pour votre téléphone.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -139,11 +139,14 @@ Il n'y a qu'un seul type de volant disponible.
 
 Un système climatique est disponible.
 - Le système climatique  ne prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
+
+
 Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.
 
-## Confort
+## Caractéristiques de confort
 
-Dacia Spring 65HP dispose de plusieurs fonctionnalités pour rendre votre vie de conducteur ou de passager plus confortable.
+L'Dacia Spring 65HP comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+
 
 {{<evkxdisplayaddarticle />}}
 

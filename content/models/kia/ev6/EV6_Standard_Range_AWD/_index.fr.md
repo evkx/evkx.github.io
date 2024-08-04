@@ -155,13 +155,15 @@ Il n'y a qu'un seul type de volant disponible. Le volant  est chauffant et vous 
 
 Un système climatique est disponible.
 - Le système climatique 2-zone prend en charge différentes températures dans deux zones pour le conducteur et le passager.
+
+
 Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
 
-## Confort
+## Caractéristiques de confort
 
-Kia EV6 Standard Range AWD dispose de plusieurs fonctionnalités pour rendre votre vie de conducteur ou de passager plus confortable.
+L'Kia EV6 Standard Range AWD comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+- **Recharge sans fil pour téléphone**
 
-Vous disposez d'une recharge sans fil pour votre téléphone.
 
 {{<evkxdisplayaddarticle />}}
 

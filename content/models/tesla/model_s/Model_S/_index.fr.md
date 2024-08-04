@@ -144,19 +144,18 @@ Il n'y a qu'un seul type de volant disponible.
 
 Un système climatique est disponible.
 - Le système climatique standard prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
+
+
 Ce modèle est équipé d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en standard. Cette pompe à chaleur peut économiser une énergie importante qui le VE l'utiliserait pour se chauffer par temps froid.
 
-## Confort
+## Caractéristiques de confort
 
-Tesla Model S dispose de plusieurs fonctionnalités pour rendre votre vie de conducteur ou de passager plus confortable.
+L'Tesla Model S comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+- **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
+- **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
+- **Volant réglable électriquement**
+- **Recharge sans fil pour téléphone**
 
-L'entrée sans clé permet d'accéder à la voiture sans avoir besoin de trouver la clé. Tant que vous l'apportez avec vous, les portes s'ouvrent.
-
-Keyless go permet de démarrer la voiture sans utiliser la clé.
-
-Le volant est réglable électriquement.
-
-Vous disposez d'une recharge sans fil pour votre téléphone.
 
 {{<evkxdisplayaddarticle />}}
 

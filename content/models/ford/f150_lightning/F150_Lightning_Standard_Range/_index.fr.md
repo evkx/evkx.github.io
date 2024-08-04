@@ -144,9 +144,10 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 
-## Confort
+## Caractéristiques de confort
 
-Ford F150 Lightning Standard Range dispose de plusieurs fonctionnalités pour rendre votre vie de conducteur ou de passager plus confortable.
+L'Ford F150 Lightning Standard Range comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+
 
 {{<evkxdisplayaddarticle />}}
 

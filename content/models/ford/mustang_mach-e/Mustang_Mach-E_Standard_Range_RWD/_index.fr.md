@@ -145,19 +145,18 @@ Il n'y a qu'un seul type de volant disponible.
 
 Un système climatique est disponible.
 - Le système climatique  prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
+
+
 Ce modèle n'a pas de [pompe à chaleur](../../../../technology/hvac/#heat-pump). Cela peut augmenter la consommation par temps froid par rapport à modèles avec pompe à chaleur.
 
-## Confort
+## Caractéristiques de confort
 
-Ford Mustang Mach-E Standard Range RWD dispose de plusieurs fonctionnalités pour rendre votre vie de conducteur ou de passager plus confortable.
+L'Ford Mustang Mach-E Standard Range RWD comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+- **Accès sans clé :** Permet d'accéder à la voiture sans avoir besoin de trouver la clé, tant que vous l'avez avec vous.
+- **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
+- **Fonction d'entrée facile :** Déplace le siège conducteur pour faciliter l'entrée dans la voiture.
+- **Recharge sans fil pour téléphone**
 
-L'entrée sans clé permet d'accéder à la voiture sans avoir besoin de trouver la clé. Tant que vous l'apportez avec vous, les portes s'ouvrent.
-
-Keyless go permet de démarrer la voiture sans utiliser la clé.
-
-Vous disposez d'une fonction 'entrée facile' pour le siège conducteur qui déplace le siège pour faciliter l'entrée dans la voiture.
-
-Vous disposez d'une recharge sans fil pour votre téléphone.
 
 {{<evkxdisplayaddarticle />}}
 

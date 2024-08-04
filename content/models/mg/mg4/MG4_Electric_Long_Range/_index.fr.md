@@ -137,15 +137,16 @@ Il n'y a qu'un seul type de volant disponible.
 
 Un système climatique est disponible.
 - Le système climatique  ne prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
+
+
 Ce modèle est équipé d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en standard. Cette pompe à chaleur peut économiser une énergie importante qui le VE l'utiliserait pour se chauffer par temps froid.
 
-## Confort
+## Caractéristiques de confort
 
-MG MG4 Electric Long Range dispose de plusieurs fonctionnalités pour rendre votre vie de conducteur ou de passager plus confortable.
+L'MG MG4 Electric Long Range comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+- **Démarrage sans clé :** Permet de démarrer la voiture sans utiliser la clé.
+- **Recharge sans fil pour téléphone**
 
-Keyless go permet de démarrer la voiture sans utiliser la clé.
-
-Vous disposez d'une recharge sans fil pour votre téléphone.
 
 {{<evkxdisplayaddarticle />}}
 

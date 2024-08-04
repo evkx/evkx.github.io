@@ -123,9 +123,10 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 
-## Confort
+## Caractéristiques de confort
 
-Honda e:Ny1 dispose de plusieurs fonctionnalités pour rendre votre vie de conducteur ou de passager plus confortable.
+L'Honda e:Ny1 comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
+
 
 {{<evkxdisplayaddarticle />}}
 
