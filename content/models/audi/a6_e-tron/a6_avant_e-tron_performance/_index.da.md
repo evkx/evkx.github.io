@@ -168,7 +168,7 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem. 3-zone klimasystemet understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpe kan spare betydelig energi, som elbilen ville bruges til opvarmning i koldt vejr.
+Du kan vælge mellem to forskellige klimasystemer. Klimasystemet 2-zone understøtter forskellige temperaturer i to zoner for fører og passager. Klimasystemet 4-zone understøtter forskellige temperaturer i fire zoner for føreren, passageren og to separate passagerer på bagsædet. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpe kan spare betydelig energi, som elbilen ville bruges til opvarmning i koldt vejr.
 
 ## Komfort
 

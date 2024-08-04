@@ -176,7 +176,7 @@ Il n'y a qu'un seul type de volant disponible.
 
 ## Système climatique
 
-Un système climatique est disponible. Le système climatique  3-zone prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière. Ce modèle est équipé d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en standard. Cette pompe à chaleur peut économiser une énergie importante qui le VE l'utiliserait pour se chauffer par temps froid.
+Vous pouvez choisir parmi deux systèmes climatiques différents. Le système climatique 2-zone prend en charge différentes températures dans deux zones pour le conducteur et le passager. Le système climatique 4-zone prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière. Ce modèle est équipé d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en standard. Cette pompe à chaleur peut économiser une énergie importante qui le VE l'utiliserait pour se chauffer par temps froid.
 
 ## Confort
 

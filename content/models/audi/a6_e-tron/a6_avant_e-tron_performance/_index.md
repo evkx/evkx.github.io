@@ -168,7 +168,7 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  3-zone climate system supports different temperatures in three zones for the driver, passenger and backseat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
+You can choose from two different climate systems. The 2-zone climate system supports different temperatures in two zones for the driver and passenger. The 4-zone climate system supports different temperatures in four zones for the driver, passenger, and two separate passengers in the back seat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
 
 ## Comfort
 
