@@ -143,19 +143,18 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem. Klimasystemet 6-zone understøtter forskellige temperaturer i seks zoner: føreren, passageren og to zoner, både i 2. og 3. række.
+Der er et tilgængeligt klimasystem.
+- **6-zone klimaanlæg:** Understøtter forskellige temperaturer i seks zoner: føreren, passageren og to zoner, både i 2. og 3. række.
 
-## Komfort
 
-Hongqi E-HS9 Comfort har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
+## Komfortfunktioner
 
-Nøglefri adgang giver adgang til bilen uden at skulle finde nøglen. Så længe du har den med, åbnes dørene.
+Hongqi E-HS9 Comfort inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
+- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
+- **Elektrisk justerbart rat**
+- **Trådløs opladning af telefon**
 
-Keyless go gør det muligt at starte bilen uden at bruge nøglen.
-
-Rattet er elektrisk justerbart.
-
-Du har trådløs opladning til din telefon.
 
 {{<evkxdisplayaddarticle />}}
 

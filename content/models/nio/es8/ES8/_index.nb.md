@@ -171,7 +171,9 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem. Klimasystemet 3-zone støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
+Det er ett tilgjengelig klimasystem.
+- Klimasystemet 3-zone støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
+
 
 ## Komfort
 

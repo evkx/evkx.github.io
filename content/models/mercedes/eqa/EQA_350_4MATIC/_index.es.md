@@ -163,7 +163,10 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Puedes elegir entre dos sistemas climáticos diferentes. El sistema climático standard solo admite el control de una zona compartida para todo el automóvil. El sistema climático THERMOTRONIC admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
+Puedes elegir entre dos sistemas climáticos diferentes.
+- El sistema climático standard solo admite el control de una zona compartida para todo el automóvil.
+- El sistema climático THERMOTRONIC admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
+
 
 ## Comodidad
 

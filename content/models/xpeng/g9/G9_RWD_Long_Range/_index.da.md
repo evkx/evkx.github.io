@@ -148,19 +148,20 @@ Der er kun én type rat tilgængelig. -rattet er opvarmet, og du kan styre lydsy
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem. Klimasystemet 4-zone understøtter forskellige temperaturer i fire zoner for føreren, passageren og to separate passagerer på bagsædet. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpe kan spare betydelig energi, som elbilen ville bruges til opvarmning i koldt vejr.
+Der er et tilgængeligt klimasystem.
+- **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
 
-## Komfort
 
-XPENG G9 RWD Long Range har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
-Nøglefri adgang giver adgang til bilen uden at skulle finde nøglen. Så længe du har den med, åbnes dørene.
+## Komfortfunktioner
 
-Keyless go gør det muligt at starte bilen uden at bruge nøglen.
+XPENG G9 RWD Long Range inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
+- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
+- **Elektrisk justerbart rat**
+- **Trådløs opladning af telefon**
 
-Rattet er elektrisk justerbart.
-
-Du har trådløs opladning til din telefon.
 
 {{<evkxdisplayaddarticle />}}
 

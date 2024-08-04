@@ -151,7 +151,9 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático  admite diferentes temperaturas en cinco zonas. El conductor, el pasajero y dos zonas en la 2. fila y una en la 3. fila. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
+Hay un sistema climático disponible.
+- El sistema climático  admite diferentes temperaturas en cinco zonas. El conductor, el pasajero y dos zonas en la 2. fila y una en la 3. fila.
+Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
 
 ## Comodidad
 

@@ -122,9 +122,11 @@ There is only one type of steering wheel available.
 
 There is one climate system available.
 
-## Comfort
 
-Honda e:Ny1 has several features to make your life as a driver or passenger more comfortable.
+## Comfort features
+
+The Honda e:Ny1 includes several features to enhance comfort and convenience:
+
 
 {{<evkxdisplayaddarticle />}}
 

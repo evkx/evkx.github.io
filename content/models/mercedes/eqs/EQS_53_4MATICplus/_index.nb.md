@@ -174,7 +174,10 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Du kan velge mellom to forskjellige klimasystemer. Klimasystemet THERMOTRONIC støtter forskjellige temperaturer i to soner for sjåfør og passasjer. Klimasystemet THERMATIC støtter forskjellige temperaturer i fire soner for sjåføren, passasjeren og to separate passasjerer i baksetet.
+Du kan velge mellom to forskjellige klimasystemer.
+- Klimasystemet THERMOTRONIC støtter forskjellige temperaturer i to soner for sjåfør og passasjer.
+- Klimasystemet THERMATIC støtter forskjellige temperaturer i fire soner for sjåføren, passasjeren og to separate passasjerer i baksetet.
+
 
 ## Komfort
 

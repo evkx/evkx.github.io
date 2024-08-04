@@ -146,13 +146,17 @@ There is only one type of steering wheel available. The  steering wheel is heate
 
 ## Climate system
 
-There is one climate system available. The 2-zone climate system supports different temperatures in two zones for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
+There is one climate system available.
+- **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-## Comfort
 
-Genesis GV60 AWD Performance has several features to make your life as a driver or passenger more comfortable.
+A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
-You have wireless charging for your phone.
+## Comfort features
+
+The Genesis GV60 AWD Performance includes several features to enhance comfort and convenience:
+- **Wireless phone charging**
+
 
 {{<evkxdisplayaddarticle />}}
 

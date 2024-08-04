@@ -154,7 +154,9 @@ Sólo hay un tipo de volante disponible. El volante stock tiene calefacción y p
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático comfort admite diferentes temperaturas en cuatro zonas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
+Hay un sistema climático disponible.
+- El sistema climático comfort admite diferentes temperaturas en cuatro zonas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
+
 
 ## Comodidad
 

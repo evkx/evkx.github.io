@@ -141,7 +141,9 @@ Il n'y a qu'un seul type de volant disponible. Le volant  est chauffant et vous 
 
 ## Système climatique
 
-Un système climatique est disponible. Le système climatique 2-zone prend en charge différentes températures dans deux zones pour le conducteur et le passager. Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
+Un système climatique est disponible.
+- Le système climatique 2-zone prend en charge différentes températures dans deux zones pour le conducteur et le passager.
+Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
 
 ## Confort
 

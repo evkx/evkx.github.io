@@ -147,7 +147,9 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático  2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
+Hay un sistema climático disponible.
+- El sistema climático  2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
+
 
 ## Comodidad
 

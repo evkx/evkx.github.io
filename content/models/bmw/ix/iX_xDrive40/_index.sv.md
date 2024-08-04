@@ -145,7 +145,10 @@ Det finns bara en typ av ratt tillgänglig. Ratten stock är uppvärmd och du ka
 
 ## Klimatsystem
 
-Du kan välja mellan två olika klimatsystem. Klimatsystemet standard stöder olika temperaturer i två zoner för förare och passagerare. Klimatsystemet comfort stöder olika temperaturer i fyra zoner för föraren, passageraren och två separata baksätespassagerare.
+Du kan välja mellan två olika klimatsystem.
+- Klimatsystemet standard stöder olika temperaturer i två zoner för förare och passagerare.
+- Klimatsystemet comfort stöder olika temperaturer i fyra zoner för föraren, passageraren och två separata baksätespassagerare.
+
 
 ## Tröst
 

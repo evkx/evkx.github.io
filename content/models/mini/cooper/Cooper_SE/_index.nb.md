@@ -140,6 +140,7 @@ Det er bare én type ratt tilgjengelig.
 
 Det er ett tilgjengelig klimasystem.
 
+
 ## Komfort
 
 Mini Cooper SE har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.

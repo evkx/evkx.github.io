@@ -145,17 +145,17 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem. Klimasystemet  understøtter forskellige temperaturer i to zoner for fører og passager.
+Der er et tilgængeligt klimasystem.
+- **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
-## Komfort
 
-VinFast VF8 Eco har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
+## Komfortfunktioner
 
-Nøglefri adgang giver adgang til bilen uden at skulle finde nøglen. Så længe du har den med, åbnes dørene.
+VinFast VF8 Eco inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
+- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
+- **Elektrisk justerbart rat**
 
-Keyless go gør det muligt at starte bilen uden at bruge nøglen.
-
-Rattet er elektrisk justerbart.
 
 {{<evkxdisplayaddarticle />}}
 

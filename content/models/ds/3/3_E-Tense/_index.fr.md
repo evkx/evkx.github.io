@@ -136,7 +136,8 @@ Il n'y a qu'un seul type de volant disponible.
 
 ## Système climatique
 
-Un système climatique est disponible. Ce modèle est équipé d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en standard. Cette pompe à chaleur peut économiser une énergie importante qui le VE l'utiliserait pour se chauffer par temps froid.
+Un système climatique est disponible.
+Ce modèle est équipé d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en standard. Cette pompe à chaleur peut économiser une énergie importante qui le VE l'utiliserait pour se chauffer par temps froid.
 
 ## Confort
 

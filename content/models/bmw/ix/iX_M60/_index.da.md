@@ -143,19 +143,19 @@ Der er kun én type rat tilgængelig. stock-rattet er opvarmet, og du kan styre 
 
 ## Klimasystem
 
-Du kan vælge mellem to forskellige klimasystemer. Klimasystemet standard understøtter forskellige temperaturer i to zoner for fører og passager. Klimasystemet comfort understøtter forskellige temperaturer i fire zoner for føreren, passageren og to separate passagerer på bagsædet.
+To klimaanlægsmuligheder er tilgængelige:
+- **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
+- **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
 
-## Komfort
 
-BMW iX M60 har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
+## Komfortfunktioner
 
-Nøglefri adgang giver adgang til bilen uden at skulle finde nøglen. Så længe du har den med, åbnes dørene.
+BMW iX M60 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
+- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
+- **Elektrisk justerbart rat**
+- **Trådløs opladning af telefon**
 
-Keyless go gør det muligt at starte bilen uden at bruge nøglen.
-
-Rattet er elektrisk justerbart.
-
-Du har trådløs opladning til din telefon.
 
 {{<evkxdisplayaddarticle />}}
 

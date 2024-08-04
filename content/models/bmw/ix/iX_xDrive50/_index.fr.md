@@ -143,7 +143,10 @@ Il n'y a qu'un seul type de volant disponible. Le volant stock est chauffant et 
 
 ## Système climatique
 
-Vous pouvez choisir parmi deux systèmes climatiques différents. Le système climatique standard prend en charge différentes températures dans deux zones pour le conducteur et le passager. Le système climatique comfort prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
+Vous pouvez choisir parmi deux systèmes climatiques différents.
+- Le système climatique standard prend en charge différentes températures dans deux zones pour le conducteur et le passager.
+- Le système climatique comfort prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
+
 
 ## Confort
 

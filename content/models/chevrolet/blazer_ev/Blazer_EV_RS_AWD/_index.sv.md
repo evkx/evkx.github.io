@@ -133,7 +133,10 @@ Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
-Du kan välja mellan två olika klimatsystem. Klimatsystemet  stöder olika temperaturer i två zoner för förare och passagerare. Klimatsystemet  stöder olika temperaturer i tre zoner för förare, passagerare och baksäte. Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som standard. Denna värmepump kan spara betydande energi som EV skulle användas för uppvärmning i kallt väder.
+Du kan välja mellan två olika klimatsystem.
+- Klimatsystemet  stöder olika temperaturer i två zoner för förare och passagerare.
+- Klimatsystemet  stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
+Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som standard. Denna värmepump kan spara betydande energi som EV skulle användas för uppvärmning i kallt väder.
 
 ## Tröst
 

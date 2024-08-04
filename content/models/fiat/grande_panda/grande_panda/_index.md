@@ -151,13 +151,17 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The standard climate system supports only controlling one shared zone for the whole car. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
+There is one climate system available.
+- **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 
-## Comfort
 
-Fiat Grande Panda has several features to make your life as a driver or passenger more comfortable.
+This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
-You have wireless charging for your phone.
+## Comfort features
+
+The Fiat Grande Panda includes several features to enhance comfort and convenience:
+- **Wireless phone charging**
+
 
 {{<evkxdisplayaddarticle />}}
 

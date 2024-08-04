@@ -154,7 +154,9 @@ Det er bare én type ratt tilgjengelig. stock-rattet er oppvarmet, og du kan kon
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem. Klimasystemet comfort støtter forskjellige temperaturer i fire soner for sjåføren, passasjeren og to separate passasjerer i baksetet.
+Det er ett tilgjengelig klimasystem.
+- Klimasystemet comfort støtter forskjellige temperaturer i fire soner for sjåføren, passasjeren og to separate passasjerer i baksetet.
+
 
 ## Komfort
 

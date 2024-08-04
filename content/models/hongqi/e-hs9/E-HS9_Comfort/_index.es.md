@@ -143,7 +143,9 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático 6-zone admite diferentes temperaturas en seis zonas: la del conductor, la del pasajero y dos zonas, tanto en la 2. como en la 3. fila.
+Hay un sistema climático disponible.
+- El sistema climático 6-zone admite diferentes temperaturas en seis zonas: la del conductor, la del pasajero y dos zonas, tanto en la 2. como en la 3. fila.
+
 
 ## Comodidad
 

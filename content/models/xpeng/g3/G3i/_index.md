@@ -129,11 +129,16 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in two zones for the driver and passenger. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
+There is one climate system available.
+- **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-## Comfort
 
-XPENG G3i has several features to make your life as a driver or passenger more comfortable.
+This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
+
+## Comfort features
+
+The XPENG G3i includes several features to enhance comfort and convenience:
+
 
 {{<evkxdisplayaddarticle />}}
 

@@ -165,7 +165,9 @@ Sólo hay un tipo de volante disponible. El volante stock tiene calefacción y p
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático standard admite diferentes temperaturas en dos zonas para el conductor y el pasajero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
+Hay un sistema climático disponible.
+- El sistema climático standard admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
+Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
 
 ## Comodidad
 

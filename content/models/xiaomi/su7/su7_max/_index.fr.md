@@ -147,7 +147,9 @@ Il n'y a qu'un seul type de volant disponible.
 
 ## Système climatique
 
-Un système climatique est disponible. Le système climatique  2-zone prend en charge différentes températures dans deux zones pour le conducteur et le passager.
+Un système climatique est disponible.
+- Le système climatique  2-zone prend en charge différentes températures dans deux zones pour le conducteur et le passager.
+
 
 ## Confort
 

@@ -137,11 +137,16 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports only controlling one shared zone for the whole car. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
+There is one climate system available.
+- **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 
-## Comfort
 
-Dacia Spring 65HP has several features to make your life as a driver or passenger more comfortable.
+This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
+
+## Comfort features
+
+The Dacia Spring 65HP includes several features to enhance comfort and convenience:
+
 
 {{<evkxdisplayaddarticle />}}
 

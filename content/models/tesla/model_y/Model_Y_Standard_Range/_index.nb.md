@@ -185,7 +185,9 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem. Klimasystemet standard støtter kun kontroll av én delt sone for hele bilen. Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
+Det er ett tilgjengelig klimasystem.
+- Klimasystemet standard støtter kun kontroll av én delt sone for hele bilen.
+Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
 
 ## Komfort
 

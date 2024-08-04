@@ -140,15 +140,14 @@ There is only one type of steering wheel available.
 
 There is one climate system available.
 
-## Comfort
 
-Mini Cooper SE has several features to make your life as a driver or passenger more comfortable.
+## Comfort features
 
-Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open.
+The Mini Cooper SE includes several features to enhance comfort and convenience:
+- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless go:** Enables starting the car without using the key.
+- **Wireless phone charging**
 
-Keyless go makes it possible to start the car without using the key.
-
-You have wireless charging for your phone.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -143,6 +143,7 @@ Det finns bara en typ av ratt tillgänglig.
 
 Det finns ett tillgängligt klimatsystem.
 
+
 ## Tröst
 
 Ford F150 Lightning Standard Range har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.

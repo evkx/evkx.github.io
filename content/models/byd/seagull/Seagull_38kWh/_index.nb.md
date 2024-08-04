@@ -137,7 +137,9 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem. Klimasystemet 1-zone støtter kun kontroll av én delt sone for hele bilen. Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
+Det er ett tilgjengelig klimasystem.
+- Klimasystemet 1-zone støtter kun kontroll av én delt sone for hele bilen.
+Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
 ## Komfort
 

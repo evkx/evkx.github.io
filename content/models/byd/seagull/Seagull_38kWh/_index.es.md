@@ -137,7 +137,9 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático 1-zone solo admite el control de una zona compartida para todo el automóvil. Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
+Hay un sistema climático disponible.
+- El sistema climático 1-zone solo admite el control de una zona compartida para todo el automóvil.
+Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
 
 ## Comodidad
 

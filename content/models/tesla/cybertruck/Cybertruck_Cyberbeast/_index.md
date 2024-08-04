@@ -143,21 +143,21 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The standard climate system supports only controlling one shared zone for the whole car. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as standard. This heat pump can save significant energy that the EV would use for heating in cold weather.
+There is one climate system available.
+- **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 
-## Comfort
 
-Tesla Cybertruck Cyberbeast has several features to make your life as a driver or passenger more comfortable.
+A standard [heat pump](../../../../technology/hvac/#heat-pump) is included, which can save significant energy that the EV would otherwise use for heating in cold weather.
 
-Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open.
+## Comfort features
 
-Keyless go makes it possible to start the car without using the key.
+The Tesla Cybertruck Cyberbeast includes several features to enhance comfort and convenience:
+- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless go:** Enables starting the car without using the key.
+- **Electrically adjustable steering wheel**
+- **Easy entry function:** Moves the driver seat to facilitate easier entry into the car.
+- **Wireless phone charging**
 
-The steering wheel is electrically adjustable.
-
-You have an 'easy entry' function for the driver seat that moves the seat to make it easier to enter the car.
-
-You have wireless charging for your phone.
 
 {{<evkxdisplayaddarticle />}}
 

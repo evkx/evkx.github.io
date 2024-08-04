@@ -174,7 +174,10 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Puedes elegir entre dos sistemas climáticos diferentes. El sistema climático THERMOTRONIC admite diferentes temperaturas en dos zonas para el conductor y el pasajero. El sistema climático THERMATIC admite diferentes temperaturas en cuatro zonas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
+Puedes elegir entre dos sistemas climáticos diferentes.
+- El sistema climático THERMOTRONIC admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
+- El sistema climático THERMATIC admite diferentes temperaturas en cuatro zonas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
+
 
 ## Comodidad
 

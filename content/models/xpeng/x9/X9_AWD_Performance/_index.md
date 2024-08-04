@@ -150,9 +150,11 @@ There is only one type of steering wheel available. The  steering wheel is heate
 
 There is one climate system available.
 
-## Comfort
 
-XPENG X9 AWD Performance has several features to make your life as a driver or passenger more comfortable.
+## Comfort features
+
+The XPENG X9 AWD Performance includes several features to enhance comfort and convenience:
+
 
 {{<evkxdisplayaddarticle />}}
 

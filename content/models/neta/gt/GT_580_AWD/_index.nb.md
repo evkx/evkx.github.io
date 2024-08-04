@@ -135,6 +135,7 @@ Det er bare én type ratt tilgjengelig.
 
 Det er ett tilgjengelig klimasystem.
 
+
 ## Komfort
 
 Neta GT 580 AWD har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.

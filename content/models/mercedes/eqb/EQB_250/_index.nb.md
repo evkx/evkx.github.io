@@ -165,7 +165,10 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Du kan velge mellom to forskjellige klimasystemer. Klimasystemet standard støtter kun kontroll av én delt sone for hele bilen. Klimasystemet THERMOTRONIC støtter forskjellige temperaturer i to soner for sjåfør og passasjer.
+Du kan velge mellom to forskjellige klimasystemer.
+- Klimasystemet standard støtter kun kontroll av én delt sone for hele bilen.
+- Klimasystemet THERMOTRONIC støtter forskjellige temperaturer i to soner for sjåfør og passasjer.
+
 
 ## Komfort
 

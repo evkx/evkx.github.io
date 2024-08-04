@@ -140,6 +140,7 @@ Sólo hay un tipo de volante disponible.
 
 Hay un sistema climático disponible.
 
+
 ## Comodidad
 
 Mini Cooper SE tiene varias características para hacer tu vida como conductor o pasajero más cómoda.

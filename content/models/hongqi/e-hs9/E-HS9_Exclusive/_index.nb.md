@@ -145,7 +145,9 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem. Klimasystemet 6-zone støtter forskjellige temperaturer i seks soner: fører, passasjer og to soner, både i 2. og 3. rad.
+Det er ett tilgjengelig klimasystem.
+- Klimasystemet 6-zone støtter forskjellige temperaturer i seks soner: fører, passasjer og to soner, både i 2. og 3. rad.
+
 
 ## Komfort
 

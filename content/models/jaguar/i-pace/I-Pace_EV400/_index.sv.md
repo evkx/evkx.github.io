@@ -177,7 +177,10 @@ Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan sty
 
 ## Klimatsystem
 
-Du kan välja mellan två olika klimatsystem. Klimatsystemet 2-zone stöder olika temperaturer i två zoner för förare och passagerare. Klimatsystemet 4-zone stöder olika temperaturer i fyra zoner för föraren, passageraren och två separata baksätespassagerare.
+Du kan välja mellan två olika klimatsystem.
+- Klimatsystemet 2-zone stöder olika temperaturer i två zoner för förare och passagerare.
+- Klimatsystemet 4-zone stöder olika temperaturer i fyra zoner för föraren, passageraren och två separata baksätespassagerare.
+
 
 ## Tröst
 

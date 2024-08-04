@@ -160,7 +160,10 @@ Det er bare én type ratt tilgjengelig. stock-rattet er oppvarmet, og du kan kon
 
 ## Klimasystem
 
-Du kan velge mellom to forskjellige klimasystemer. Klimasystemet standard støtter forskjellige temperaturer i to soner for sjåfør og passasjer. Klimasystemet comfort støtter forskjellige temperaturer i fire soner for sjåføren, passasjeren og to separate passasjerer i baksetet. Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
+Du kan velge mellom to forskjellige klimasystemer.
+- Klimasystemet standard støtter forskjellige temperaturer i to soner for sjåfør og passasjer.
+- Klimasystemet comfort støtter forskjellige temperaturer i fire soner for sjåføren, passasjeren og to separate passasjerer i baksetet.
+Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
 
 ## Komfort
 

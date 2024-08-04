@@ -150,7 +150,9 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático  admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
+Hay un sistema climático disponible.
+- El sistema climático  admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
+Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
 
 ## Comodidad
 

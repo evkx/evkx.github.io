@@ -140,6 +140,7 @@ Det finns bara en typ av ratt tillgänglig.
 
 Det finns ett tillgängligt klimatsystem.
 
+
 ## Tröst
 
 Mini Cooper SE har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.

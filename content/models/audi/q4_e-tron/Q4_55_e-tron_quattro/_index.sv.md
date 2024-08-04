@@ -168,7 +168,10 @@ Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
-Du kan välja mellan två olika klimatsystem. Klimatsystemet 1-zone stöder endast kontroll av en delad zon för hela bilen. Klimatsystemet 3-zone stöder olika temperaturer i tre zoner för förare, passagerare och baksäte. Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
+Du kan välja mellan två olika klimatsystem.
+- Klimatsystemet 1-zone stöder endast kontroll av en delad zon för hela bilen.
+- Klimatsystemet 3-zone stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
+Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som tillval. Denna värmepump kan spara betydande energi används för uppvärmning i kallt väder.
 
 ## Tröst
 

@@ -177,19 +177,19 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Du kan vælge mellem to forskellige klimasystemer. Klimasystemet THERMOTRONIC understøtter forskellige temperaturer i to zoner for fører og passager. Klimasystemet THERMATIC understøtter forskellige temperaturer i fire zoner for føreren, passageren og to separate passagerer på bagsædet.
+To klimaanlægsmuligheder er tilgængelige:
+- **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
+- **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
 
-## Komfort
 
-Mercedes-EQ EQS 450+ SUV har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
+## Komfortfunktioner
 
-Nøglefri adgang giver adgang til bilen uden at skulle finde nøglen. Så længe du har den med, åbnes dørene.
+Mercedes-EQ EQS 450+ SUV inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
+- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
+- **Elektrisk justerbart rat**
+- **Trådløs opladning af telefon**
 
-Keyless go gør det muligt at starte bilen uden at bruge nøglen.
-
-Rattet er elektrisk justerbart.
-
-Du har trådløs opladning til din telefon.
 
 {{<evkxdisplayaddarticle />}}
 

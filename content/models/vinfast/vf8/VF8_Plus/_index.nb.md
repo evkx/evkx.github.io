@@ -149,7 +149,9 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem. Klimasystemet  støtter forskjellige temperaturer i to soner for sjåfør og passasjer.
+Det er ett tilgjengelig klimasystem.
+- Klimasystemet  støtter forskjellige temperaturer i to soner for sjåfør og passasjer.
+
 
 ## Komfort
 

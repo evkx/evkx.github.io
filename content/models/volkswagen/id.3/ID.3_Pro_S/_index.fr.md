@@ -134,7 +134,10 @@ Il n'y a qu'un seul type de volant disponible.
 
 ## Système climatique
 
-Vous pouvez choisir parmi deux systèmes climatiques différents. Le système climatique 1-zone Climatronic ne prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture. Le système climatique 2-zone Climatronic prend en charge différentes températures dans deux zones pour le conducteur et le passager. Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
+Vous pouvez choisir parmi deux systèmes climatiques différents.
+- Le système climatique 1-zone Climatronic ne prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
+- Le système climatique 2-zone Climatronic prend en charge différentes températures dans deux zones pour le conducteur et le passager.
+Ce modèle dispose d'une [pompe à chaleur](../../../../technology/hvac/#heat-pump) en option. Cette pompe à chaleur permet d'économiser beaucoup d'énergie utilisé pour le chauffage par temps froid.
 
 ## Confort
 

@@ -142,15 +142,19 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Du kan vælge mellem to forskellige klimasystemer. Klimasystemet  understøtter forskellige temperaturer i to zoner for fører og passager. klimasystemet understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpe kan spare betydelig energi, som elbilen ville bruges til opvarmning i koldt vejr.
+To klimaanlægsmuligheder er tilgængelige:
+- **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
+- **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
 
-## Komfort
 
-Chevrolet Equinox EV FWD har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
-Nøglefri adgang giver adgang til bilen uden at skulle finde nøglen. Så længe du har den med, åbnes dørene.
+## Komfortfunktioner
 
-Keyless go gør det muligt at starte bilen uden at bruge nøglen.
+Chevrolet Equinox EV FWD inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
+- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
+
 
 {{<evkxdisplayaddarticle />}}
 

@@ -154,7 +154,9 @@ Det finns bara en typ av ratt tillgänglig. Ratten stock är uppvärmd och du ka
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem. Klimatsystemet comfort stöder olika temperaturer i fyra zoner för föraren, passageraren och två separata baksätespassagerare.
+Det finns ett tillgängligt klimatsystem.
+- Klimatsystemet comfort stöder olika temperaturer i fyra zoner för föraren, passageraren och två separata baksätespassagerare.
+
 
 ## Tröst
 

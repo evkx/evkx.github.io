@@ -135,6 +135,7 @@ Det finns bara en typ av ratt tillgänglig.
 
 Det finns ett tillgängligt klimatsystem.
 
+
 ## Tröst
 
 Neta GT 580 AWD har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.

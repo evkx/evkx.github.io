@@ -155,19 +155,20 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in three zones for the driver, passenger and backseat. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
+There is one climate system available.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
 
-## Comfort
 
-Maserati GranCabrio Folgore has several features to make your life as a driver or passenger more comfortable.
+This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
-Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open.
+## Comfort features
 
-Keyless go makes it possible to start the car without using the key.
+The Maserati GranCabrio Folgore includes several features to enhance comfort and convenience:
+- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless go:** Enables starting the car without using the key.
+- **Electrically adjustable steering wheel**
+- **Wireless phone charging**
 
-The steering wheel is electrically adjustable.
-
-You have wireless charging for your phone.
 
 {{<evkxdisplayaddarticle />}}
 

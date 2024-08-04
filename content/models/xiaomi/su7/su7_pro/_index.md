@@ -147,17 +147,17 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  2-zone climate system supports different temperatures in two zones for the driver and passenger.
+There is one climate system available.
+- **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-## Comfort
 
-Xiaomi SU7 Pro has several features to make your life as a driver or passenger more comfortable.
+## Comfort features
 
-Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open.
+The Xiaomi SU7 Pro includes several features to enhance comfort and convenience:
+- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless go:** Enables starting the car without using the key.
+- **Wireless phone charging**
 
-Keyless go makes it possible to start the car without using the key.
-
-You have wireless charging for your phone.
 
 {{<evkxdisplayaddarticle />}}
 

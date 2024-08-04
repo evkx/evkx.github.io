@@ -153,7 +153,10 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Du kan velge mellom to forskjellige klimasystemer. Klimasystemet 2-zone Climatronic støtter forskjellige temperaturer i to soner for sjåfør og passasjer. Klimasystemet 3-zone climatronic støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete. Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
+Du kan velge mellom to forskjellige klimasystemer.
+- Klimasystemet 2-zone Climatronic støtter forskjellige temperaturer i to soner for sjåfør og passasjer.
+- Klimasystemet 3-zone climatronic støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
+Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
 
 ## Komfort
 

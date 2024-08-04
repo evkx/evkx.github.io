@@ -124,6 +124,7 @@ Sólo hay un tipo de volante disponible.
 
 Hay un sistema climático disponible.
 
+
 ## Comodidad
 
 Mercedes-EQ EQC 400 4MATIC tiene varias características para hacer tu vida como conductor o pasajero más cómoda.

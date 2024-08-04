@@ -163,7 +163,10 @@ Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
-Du kan välja mellan två olika klimatsystem. Klimatsystemet standard stöder endast kontroll av en delad zon för hela bilen. Klimatsystemet THERMOTRONIC stöder olika temperaturer i två zoner för förare och passagerare.
+Du kan välja mellan två olika klimatsystem.
+- Klimatsystemet standard stöder endast kontroll av en delad zon för hela bilen.
+- Klimatsystemet THERMOTRONIC stöder olika temperaturer i två zoner för förare och passagerare.
+
 
 ## Tröst
 

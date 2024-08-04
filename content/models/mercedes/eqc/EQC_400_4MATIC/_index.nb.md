@@ -124,6 +124,7 @@ Det er bare én type ratt tilgjengelig.
 
 Det er ett tilgjengelig klimasystem.
 
+
 ## Komfort
 
 Mercedes-EQ EQC 400 4MATIC har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.

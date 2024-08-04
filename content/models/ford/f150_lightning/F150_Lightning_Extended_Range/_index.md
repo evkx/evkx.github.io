@@ -144,9 +144,11 @@ There is only one type of steering wheel available.
 
 There is one climate system available.
 
-## Comfort
 
-Ford F150 Lightning Extended Range has several features to make your life as a driver or passenger more comfortable.
+## Comfort features
+
+The Ford F150 Lightning Extended Range includes several features to enhance comfort and convenience:
+
 
 {{<evkxdisplayaddarticle />}}
 

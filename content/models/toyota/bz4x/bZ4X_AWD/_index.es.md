@@ -132,7 +132,9 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático 2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
+Hay un sistema climático disponible.
+- El sistema climático 2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
+Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
 
 ## Comodidad
 

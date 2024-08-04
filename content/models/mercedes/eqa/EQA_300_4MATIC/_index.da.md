@@ -159,17 +159,18 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Du kan vælge mellem to forskellige klimasystemer. Klimasystemet standard understøtter kun kontrol af én delt zone for hele bilen. Klimasystemet THERMOTRONIC understøtter forskellige temperaturer i to zoner for fører og passager.
+To klimaanlægsmuligheder er tilgængelige:
+- **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
+- **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
-## Komfort
 
-Mercedes-EQ EQA 300 4MATIC har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
+## Komfortfunktioner
 
-Nøglefri adgang giver adgang til bilen uden at skulle finde nøglen. Så længe du har den med, åbnes dørene.
+Mercedes-EQ EQA 300 4MATIC inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
+- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
+- **Trådløs opladning af telefon**
 
-Keyless go gør det muligt at starte bilen uden at bruge nøglen.
-
-Du har trådløs opladning til din telefon.
 
 {{<evkxdisplayaddarticle />}}
 

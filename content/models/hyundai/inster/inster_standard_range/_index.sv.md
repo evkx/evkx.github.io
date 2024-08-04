@@ -151,7 +151,9 @@ Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan sty
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem. Klimatsystemet 1-zone stöder endast kontroll av en delad zon för hela bilen. Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som standard. Denna värmepump kan spara betydande energi som EV skulle användas för uppvärmning i kallt väder.
+Det finns ett tillgängligt klimatsystem.
+- Klimatsystemet 1-zone stöder endast kontroll av en delad zon för hela bilen.
+Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som standard. Denna värmepump kan spara betydande energi som EV skulle användas för uppvärmning i kallt väder.
 
 ## Tröst
 

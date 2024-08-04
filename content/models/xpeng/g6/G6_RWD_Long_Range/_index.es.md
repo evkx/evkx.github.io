@@ -137,7 +137,9 @@ Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático 4-zone admite diferentes temperaturas en cuatro zonas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
+Hay un sistema climático disponible.
+- El sistema climático 4-zone admite diferentes temperaturas en cuatro zonas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
+Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
 
 ## Comodidad
 

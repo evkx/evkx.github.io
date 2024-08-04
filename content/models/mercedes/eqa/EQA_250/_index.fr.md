@@ -159,7 +159,10 @@ Il n'y a qu'un seul type de volant disponible.
 
 ## Système climatique
 
-Vous pouvez choisir parmi deux systèmes climatiques différents. Le système climatique standard ne prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture. Le système climatique THERMOTRONIC prend en charge différentes températures dans deux zones pour le conducteur et le passager.
+Vous pouvez choisir parmi deux systèmes climatiques différents.
+- Le système climatique standard ne prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
+- Le système climatique THERMOTRONIC prend en charge différentes températures dans deux zones pour le conducteur et le passager.
+
 
 ## Confort
 

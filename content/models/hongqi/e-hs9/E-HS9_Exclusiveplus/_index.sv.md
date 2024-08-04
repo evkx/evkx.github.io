@@ -145,7 +145,9 @@ Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem. Klimatsystemet 6-zone stöder olika temperaturer i sex zoner: förare, passagerare och två zoner, både på raden 2 och 3.
+Det finns ett tillgängligt klimatsystem.
+- Klimatsystemet 6-zone stöder olika temperaturer i sex zoner: förare, passagerare och två zoner, både på raden 2 och 3.
+
 
 ## Tröst
 

@@ -145,19 +145,20 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The 2-zone climate system supports different temperatures in two zones for the driver and passenger. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
+There is one climate system available.
+- **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-## Comfort
 
-Lexus UX 300e has several features to make your life as a driver or passenger more comfortable.
+This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
-Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open.
+## Comfort features
 
-Keyless go makes it possible to start the car without using the key.
+The Lexus UX 300e includes several features to enhance comfort and convenience:
+- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless go:** Enables starting the car without using the key.
+- **Electrically adjustable steering wheel**
+- **Wireless phone charging**
 
-The steering wheel is electrically adjustable.
-
-You have wireless charging for your phone.
 
 {{<evkxdisplayaddarticle />}}
 

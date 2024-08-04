@@ -142,17 +142,20 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Du kan vælge mellem to forskellige klimasystemer. Klimasystemet 1-zone Climatronic understøtter kun kontrol af én delt zone for hele bilen. Klimasystemet 2-zone Climatronic understøtter forskellige temperaturer i to zoner for fører og passager. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
+To klimaanlægsmuligheder er tilgængelige:
+- **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
+- **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
-## Komfort
 
-Volkswagen ID.3 Pro S (GEN1) har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
+Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som ekstraudstyr. Denne varmepumpe kan spare betydeligt energi bruges til opvarmning i koldt vejr.
 
-Nøglefri adgang giver adgang til bilen uden at skulle finde nøglen. Så længe du har den med, åbnes dørene.
+## Komfortfunktioner
 
-Keyless go gør det muligt at starte bilen uden at bruge nøglen.
+Volkswagen ID.3 Pro S (GEN1) inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
+- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
+- **Trådløs opladning af telefon**
 
-Du har trådløs opladning til din telefon.
 
 {{<evkxdisplayaddarticle />}}
 

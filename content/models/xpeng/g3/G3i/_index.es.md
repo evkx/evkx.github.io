@@ -129,7 +129,9 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático  admite diferentes temperaturas en dos zonas para el conductor y el pasajero. Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
+Hay un sistema climático disponible.
+- El sistema climático  admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
+Este modelo no tiene [bomba de calor](../../../../technology/hvac/#bomba-de-calor). Esto puede aumentar el consumo en climas fríos en comparación con modelos con bomba de calor.
 
 ## Comodidad
 

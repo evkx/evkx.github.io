@@ -136,17 +136,20 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Du kan vælge mellem to forskellige klimasystemer. Klimasystemet  understøtter kun kontrol af én delt zone for hele bilen. Klimasystemet  understøtter forskellige temperaturer i to zoner for fører og passager. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpe kan spare betydelig energi, som elbilen ville bruges til opvarmning i koldt vejr.
+To klimaanlægsmuligheder er tilgængelige:
+- **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
+- **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
-## Komfort
 
-Volvo EX30 Single Motor Extended Range har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
-Nøglefri adgang giver adgang til bilen uden at skulle finde nøglen. Så længe du har den med, åbnes dørene.
+## Komfortfunktioner
 
-Keyless go gør det muligt at starte bilen uden at bruge nøglen.
+Volvo EX30 Single Motor Extended Range inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
+- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
+- **Trådløs opladning af telefon**
 
-Du har trådløs opladning til din telefon.
 
 {{<evkxdisplayaddarticle />}}
 

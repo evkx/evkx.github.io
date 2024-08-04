@@ -200,15 +200,18 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in three zones for the driver, passenger and backseat. This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
+There is one climate system available.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
 
-## Comfort
 
-Porsche Taycan Turbo Cross Turismo (GEN1) has several features to make your life as a driver or passenger more comfortable.
+This model has a [heat pump](../../../../technology/hvac/#heat-pump) as an option. This heat pump can save significant energy used for heating in cold weather.
 
-Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open.
+## Comfort features
 
-Keyless go makes it possible to start the car without using the key.
+The Porsche Taycan Turbo Cross Turismo (GEN1) includes several features to enhance comfort and convenience:
+- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless go:** Enables starting the car without using the key.
+
 
 {{<evkxdisplayaddarticle />}}
 

@@ -138,19 +138,20 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem. Klimasystemet  understøtter forskellige temperaturer i to zoner for fører og passager. Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
+Der er et tilgængeligt klimasystem.
+- **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
-## Komfort
 
-Fisker Ocean Sport har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
+Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
 
-Nøglefri adgang giver adgang til bilen uden at skulle finde nøglen. Så længe du har den med, åbnes dørene.
+## Komfortfunktioner
 
-Keyless go gør det muligt at starte bilen uden at bruge nøglen.
+Fisker Ocean Sport inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
+- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
+- **Easy entry:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
+- **Trådløs opladning af telefon**
 
-Du har en 'easy entry'-funktion til førersædet, der flytter sædet for at gøre det lettere at komme ind i bilen.
-
-Du har trådløs opladning til din telefon.
 
 {{<evkxdisplayaddarticle />}}
 

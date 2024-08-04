@@ -139,7 +139,9 @@ Il n'y a qu'un seul type de volant disponible.
 
 ## Système climatique
 
-Un système climatique est disponible. Le système climatique 3-zone prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
+Un système climatique est disponible.
+- Le système climatique 3-zone prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
+
 
 ## Confort
 

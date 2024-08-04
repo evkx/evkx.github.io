@@ -160,7 +160,9 @@ Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem. Klimatsystemet 3-zone stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
+Det finns ett tillgängligt klimatsystem.
+- Klimatsystemet 3-zone stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
+
 
 ## Tröst
 

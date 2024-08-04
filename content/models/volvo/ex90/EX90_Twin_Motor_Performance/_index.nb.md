@@ -151,7 +151,9 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Det er ett tilgjengelig klimasystem. Klimasystemet  støtter forskjellige temperaturer i fem soner. Fører, passasjer og to soner på 2. rad og en i 3. rad. Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
+Det er ett tilgjengelig klimasystem.
+- Klimasystemet  støtter forskjellige temperaturer i fem soner. Fører, passasjer og to soner på 2. rad og en i 3. rad.
+Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
 
 ## Komfort
 

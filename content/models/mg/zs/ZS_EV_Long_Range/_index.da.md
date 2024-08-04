@@ -140,15 +140,18 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem. Klimasystemet  understøtter kun kontrol af én delt zone for hele bilen. Denne model har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpe kan spare betydelig energi, som elbilen ville bruges til opvarmning i koldt vejr.
+Der er et tilgængeligt klimasystem.
+- **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
 
-## Komfort
 
-MG ZS EV Long Range har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
+En standard [varmepumpe](../../../../technology/hvac/#heat-pump) er inkluderet, som kan spare betydelig energi, som elbilen ellers ville bruge til opvarmning i koldt vejr.
 
-Keyless go gør det muligt at starte bilen uden at bruge nøglen.
+## Komfortfunktioner
 
-Du har trådløs opladning til din telefon.
+MG ZS EV Long Range inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
+- **Trådløs opladning af telefon**
+
 
 {{<evkxdisplayaddarticle />}}
 

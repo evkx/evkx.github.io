@@ -124,6 +124,7 @@ Det finns bara en typ av ratt tillgänglig.
 
 Det finns ett tillgängligt klimatsystem.
 
+
 ## Tröst
 
 Mercedes-EQ EQC 400 4MATIC har flera funktioner för att göra ditt liv som förare eller passagerare bekvämare.

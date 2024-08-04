@@ -129,7 +129,9 @@ Det finns bara en typ av ratt tillgänglig.
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem. Klimatsystemet  stöder olika temperaturer i två zoner för förare och passagerare. Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
+Det finns ett tillgängligt klimatsystem.
+- Klimatsystemet  stöder olika temperaturer i två zoner för förare och passagerare.
+Denna modell har ingen [värmepump](../../../../technology/hvac/#heat-pump). Detta kan öka förbrukningen i kallt väder jämfört med till modeller med värmepump.
 
 ## Tröst
 

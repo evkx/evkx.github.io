@@ -153,7 +153,10 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Puedes elegir entre dos sistemas climáticos diferentes. El sistema climático 2-zone Climatronic admite diferentes temperaturas en dos zonas para el conductor y el pasajero. El sistema climático 3-zone climatronic admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
+Puedes elegir entre dos sistemas climáticos diferentes.
+- El sistema climático 2-zone Climatronic admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
+- El sistema climático 3-zone climatronic admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
+Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como opción. Esta bomba de calor puede ahorrar una cantidad significativa de energía Se utiliza para calentar en climas fríos.
 
 ## Comodidad
 

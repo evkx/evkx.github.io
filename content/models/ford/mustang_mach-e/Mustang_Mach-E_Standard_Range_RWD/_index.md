@@ -143,19 +143,20 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports different temperatures in three zones for the driver, passenger and backseat. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
+There is one climate system available.
+- **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
 
-## Comfort
 
-Ford Mustang Mach-E Standard Range RWD has several features to make your life as a driver or passenger more comfortable.
+This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
-Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open.
+## Comfort features
 
-Keyless go makes it possible to start the car without using the key.
+The Ford Mustang Mach-E Standard Range RWD includes several features to enhance comfort and convenience:
+- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless go:** Enables starting the car without using the key.
+- **Easy entry function:** Moves the driver seat to facilitate easier entry into the car.
+- **Wireless phone charging**
 
-You have an 'easy entry' function for the driver seat that moves the seat to make it easier to enter the car.
-
-You have wireless charging for your phone.
 
 {{<evkxdisplayaddarticle />}}
 

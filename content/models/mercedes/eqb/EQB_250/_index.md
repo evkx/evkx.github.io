@@ -168,17 +168,18 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-You can choose from two different climate systems. The standard climate system supports only controlling one shared zone for the whole car. The THERMOTRONIC climate system supports different temperatures in two zones for the driver and passenger.
+Two climate system options are available:
+- **1-zone climate system:** Supports only controlling one shared zone for the whole car.
+- **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-## Comfort
 
-Mercedes-EQ EQB 250 has several features to make your life as a driver or passenger more comfortable.
+## Comfort features
 
-Keyless entry allows access to the car without needing to find the key. As long you bring it with you, the doors open.
+The Mercedes-EQ EQB 250 includes several features to enhance comfort and convenience:
+- **Keyless entry:** Allows access to the car without needing to find the key, as long as you have it with you..
+- **Keyless go:** Enables starting the car without using the key.
+- **Wireless phone charging**
 
-Keyless go makes it possible to start the car without using the key.
-
-You have wireless charging for your phone.
 
 {{<evkxdisplayaddarticle />}}
 

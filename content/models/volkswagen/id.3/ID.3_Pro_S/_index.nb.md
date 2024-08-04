@@ -134,7 +134,10 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Du kan velge mellom to forskjellige klimasystemer. Klimasystemet 1-zone Climatronic støtter kun kontroll av én delt sone for hele bilen. Klimasystemet 2-zone Climatronic støtter forskjellige temperaturer i to soner for sjåfør og passasjer. Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
+Du kan velge mellom to forskjellige klimasystemer.
+- Klimasystemet 1-zone Climatronic støtter kun kontroll av én delt sone for hele bilen.
+- Klimasystemet 2-zone Climatronic støtter forskjellige temperaturer i to soner for sjåfør og passasjer.
+Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
 
 ## Komfort
 

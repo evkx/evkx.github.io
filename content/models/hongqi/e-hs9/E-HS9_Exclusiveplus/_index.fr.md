@@ -145,7 +145,9 @@ Il n'y a qu'un seul type de volant disponible.
 
 ## Système climatique
 
-Un système climatique est disponible. Le système climatique 6-zone prend en charge différentes températures dans six zones : le conducteur, le passager et deux zones, toutes deux dans les rangées 2 et 3.
+Un système climatique est disponible.
+- Le système climatique 6-zone prend en charge différentes températures dans six zones : le conducteur, le passager et deux zones, toutes deux dans les rangées 2 et 3.
+
 
 ## Confort
 

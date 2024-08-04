@@ -121,15 +121,18 @@ There is only one type of steering wheel available.
 
 ## Climate system
 
-There is one climate system available. The  climate system supports only controlling one shared zone for the whole car. This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
+There is one climate system available.
+- **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 
-## Comfort
 
-MG Cyberster AWD Long Range has several features to make your life as a driver or passenger more comfortable.
+This model has not a [heat pump](../../../../technology/hvac/#heat-pump). This can increase consumption in cold weather compared to models with a heat pump.
 
-Keyless go makes it possible to start the car without using the key.
+## Comfort features
 
-You have wireless charging for your phone.
+The MG Cyberster AWD Long Range includes several features to enhance comfort and convenience:
+- **Keyless go:** Enables starting the car without using the key.
+- **Wireless phone charging**
+
 
 {{<evkxdisplayaddarticle />}}
 

@@ -139,15 +139,18 @@ Der er kun én type rat tilgængelig.
 
 ## Klimasystem
 
-Der er et tilgængeligt klimasystem. Klimasystemet  understøtter kun kontrol af én delt zone for hele bilen. Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
+Der er et tilgængeligt klimasystem.
+- **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
 
-## Komfort
 
-Rimac Nevera har flere funktioner til at gøre dit liv som chauffør eller passager mere behageligt.
+Denne model har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øge forbruget i koldt vejr ift. modeller med varmepumpe.
 
-Nøglefri adgang giver adgang til bilen uden at skulle finde nøglen. Så længe du har den med, åbnes dørene.
+## Komfortfunktioner
 
-Keyless go gør det muligt at starte bilen uden at bruge nøglen.
+Rimac Nevera inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
+- **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
+- **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
+
 
 {{<evkxdisplayaddarticle />}}
 

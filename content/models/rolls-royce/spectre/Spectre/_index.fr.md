@@ -154,7 +154,9 @@ Il n'y a qu'un seul type de volant disponible. Le volant stock est chauffant et 
 
 ## Système climatique
 
-Un système climatique est disponible. Le système climatique comfort prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
+Un système climatique est disponible.
+- Le système climatique comfort prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
+
 
 ## Confort
 

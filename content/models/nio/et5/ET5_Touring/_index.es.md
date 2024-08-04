@@ -162,7 +162,9 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Hay un sistema climático disponible. El sistema climático 3-zone admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
+Hay un sistema climático disponible.
+- El sistema climático 3-zone admite diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
+
 
 ## Comodidad
 

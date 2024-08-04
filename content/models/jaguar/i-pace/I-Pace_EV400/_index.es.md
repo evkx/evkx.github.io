@@ -177,7 +177,10 @@ Sólo hay un tipo de volante disponible. El volante  tiene calefacción y puedes
 
 ## Sistema climático
 
-Puedes elegir entre dos sistemas climáticos diferentes. El sistema climático 2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero. El sistema climático 4-zone admite diferentes temperaturas en cuatro zonas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
+Puedes elegir entre dos sistemas climáticos diferentes.
+- El sistema climático 2-zone admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
+- El sistema climático 4-zone admite diferentes temperaturas en cuatro zonas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
+
 
 ## Comodidad
 

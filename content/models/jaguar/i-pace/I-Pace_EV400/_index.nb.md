@@ -177,7 +177,10 @@ Det er bare én type ratt tilgjengelig. -rattet er oppvarmet, og du kan kontroll
 
 ## Klimasystem
 
-Du kan velge mellom to forskjellige klimasystemer. Klimasystemet 2-zone støtter forskjellige temperaturer i to soner for sjåfør og passasjer. Klimasystemet 4-zone støtter forskjellige temperaturer i fire soner for sjåføren, passasjeren og to separate passasjerer i baksetet.
+Du kan velge mellom to forskjellige klimasystemer.
+- Klimasystemet 2-zone støtter forskjellige temperaturer i to soner for sjåfør og passasjer.
+- Klimasystemet 4-zone støtter forskjellige temperaturer i fire soner for sjåføren, passasjeren og to separate passasjerer i baksetet.
+
 
 ## Komfort
 

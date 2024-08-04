@@ -140,7 +140,10 @@ Sólo hay un tipo de volante disponible.
 
 ## Sistema climático
 
-Puedes elegir entre dos sistemas climáticos diferentes. El sistema climático  solo admite el control de una zona compartida para todo el automóvil. El sistema climático  admite diferentes temperaturas en dos zonas para el conductor y el pasajero. Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
+Puedes elegir entre dos sistemas climáticos diferentes.
+- El sistema climático  solo admite el control de una zona compartida para todo el automóvil.
+- El sistema climático  admite diferentes temperaturas en dos zonas para el conductor y el pasajero.
+Este modelo tiene una [bomba de calor](../../../../technology/hvac/#bomba-de-calor) como estándar. Esta bomba de calor puede ahorrar una cantidad significativa de energía que el vehículo eléctrico se utilizaría para calentarse en climas fríos.
 
 ## Comodidad
 

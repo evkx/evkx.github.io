@@ -146,7 +146,9 @@ Det finns bara en typ av ratt tillgänglig. Ratten  är uppvärmd och du kan sty
 
 ## Klimatsystem
 
-Det finns ett tillgängligt klimatsystem. Klimatsystemet 2-zone stöder olika temperaturer i två zoner för förare och passagerare. Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som standard. Denna värmepump kan spara betydande energi som EV skulle användas för uppvärmning i kallt väder.
+Det finns ett tillgängligt klimatsystem.
+- Klimatsystemet 2-zone stöder olika temperaturer i två zoner för förare och passagerare.
+Denna modell har en [värmepump](../../../../technology/hvac/#heat-pump) som standard. Denna värmepump kan spara betydande energi som EV skulle användas för uppvärmning i kallt väder.
 
 ## Tröst
 
