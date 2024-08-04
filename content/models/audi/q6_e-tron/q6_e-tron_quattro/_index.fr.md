@@ -211,13 +211,14 @@ L'Audi Q6 e-tron quattro comprend plusieurs fonctionnalités pour améliorer le 
 
 ## Interface utilisateur et contrôle
 
-Le Audi Q6 e-tron quattro possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager.
+L'interface de contrôle de ce modèle de véhicule électrique comprend une combinaison intuitive de boutons, de leviers et d'écrans, offrant une expérience utilisateur fluide et conviviale.
 
+Le Audi Q6 e-tron quattro dispose de deux écrans sur un cadre incurvé partagé partiellement intégré dans le tableau de bord. Pour le passager, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) en option.
 
 Détails clés de l'écran :
 
-- L'écran touch derrière le volant intégré au tableau de bord mesure 11,9 pouces
-- L'écran touch en haut de la console centrale mesure 14,9 pouces
+- L'écran  derrière le volant à gauche du cadre mesure 11,9 pouces
+- L'écran touch à la partie droite du cadre partagé mesure 14,9 pouces
 - L'écran touch devant le passager dans le tableau de bord mesure 10,9 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.

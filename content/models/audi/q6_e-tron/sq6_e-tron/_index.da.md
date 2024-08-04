@@ -202,13 +202,14 @@ Audi SQ6 e-tron inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 
 ## Brugergrænseflade og kontrol
 
-Audi SQ6 e-tron har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet.
+Betjeningsgrænsefladen for denne elbilmodel inkluderer en intuitiv kombination af knapper, kontakter og skærme, som giver en problemfri og brugervenlig oplevelse.
 
+Audi SQ6 e-tron har to skærme på en delt buet ramme delvist integreret i instrumentbrættet. For passageren er der en valgfri [infotainmentskærm](../../../../technology/userinterface/screens/#front-passenger-screen).
 
 Vigtige skærmdetaljer:
 
-- Skærmen touch bag rattet integreret i instrumentbrættet er 11,9 tommer stor
-- Skærmen touch øverst på midterkonsollen er 14,9 tommer stor
+- Skærmen  bag rattet til venstre for rammen er 11,9 tommer stor
+- Skærmen touch på højre side af den delte ramme er 14,9 tommer stor
 - Skærmen touch foran passageren i instrumentbrættet er 10,9 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
