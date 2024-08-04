@@ -130,12 +130,15 @@ Det er bare én type ratt tilgjengelig.
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
-- Klimasystemet  støtter forskjellige temperaturer i to soner for sjåfør og passasjer.
+- **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
+
+
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
-## Komfort
+## Komfortfunksjoner
 
-XPENG G3i har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+XPENG G3i inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+
 
 {{<evkxdisplayaddarticle />}}
 

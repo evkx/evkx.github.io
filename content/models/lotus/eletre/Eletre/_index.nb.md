@@ -152,18 +152,18 @@ Det er bare én type ratt tilgjengelig.
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
-- Klimasystemet 4-zone støtter forskjellige temperaturer i fire soner for sjåføren, passasjeren og to separate passasjerer i baksetet.
-Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
+- **4-soners klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
 
-## Komfort
 
-Lotus Eletre har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
-Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så lenge du har den med deg, åpnes dørene.
+## Komfortfunksjoner
 
-Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
+Lotus Eletre inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Trådløs lading av telefon**
 
-Du har trådløs lading for telefonen din.
 
 {{<evkxdisplayaddarticle />}}
 

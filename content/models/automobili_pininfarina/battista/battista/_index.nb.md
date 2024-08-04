@@ -136,16 +136,17 @@ Det er bare én type ratt tilgjengelig.
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
-- Klimasystemet  støtter kun kontroll av én delt sone for hele bilen.
+- **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
+
+
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
-## Komfort
+## Komfortfunksjoner
 
-Automobili Pininfarina Battista har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+Automobili Pininfarina Battista inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
 
-Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så lenge du har den med deg, åpnes dørene.
-
-Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -147,14 +147,16 @@ Det er bare én type ratt tilgjengelig. -rattet er oppvarmet, og du kan kontroll
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
-- Klimasystemet 2-zone støtter forskjellige temperaturer i to soner for sjåfør og passasjer.
-Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
+- **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
-## Komfort
 
-Genesis GV60 AWD har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
-Du har trådløs lading for telefonen din.
+## Komfortfunksjoner
+
+Genesis GV60 AWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+- **Trådløs lading av telefon**
+
 
 {{<evkxdisplayaddarticle />}}
 

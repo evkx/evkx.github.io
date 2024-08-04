@@ -144,9 +144,10 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 
-## Komfort
+## Komfortfunksjoner
 
-Ford F150 Lightning Standard Range har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+Ford F150 Lightning Standard Range inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+
 
 {{<evkxdisplayaddarticle />}}
 

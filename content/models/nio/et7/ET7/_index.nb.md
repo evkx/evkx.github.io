@@ -158,20 +158,17 @@ Det er bare én type ratt tilgjengelig.
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
-- Klimasystemet 3-zone støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
+- **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
 
 
-## Komfort
+## Komfortfunksjoner
 
-Nio ET7 har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+Nio ET7 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Elektrisk justerbart ratt**
+- **Trådløs lading av telefon**
 
-Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så lenge du har den med deg, åpnes dørene.
-
-Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
-
-Rattet er elektrisk justerbart.
-
-Du har trådløs lading for telefonen din.
 
 {{<evkxdisplayaddarticle />}}
 

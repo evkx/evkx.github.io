@@ -123,9 +123,10 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 
-## Komfort
+## Komfortfunksjoner
 
-Honda e:Ny1 har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+Honda e:Ny1 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+
 
 {{<evkxdisplayaddarticle />}}
 

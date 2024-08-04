@@ -135,16 +135,17 @@ Det er bare én type ratt tilgjengelig.
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
-- Klimasystemet  støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
-Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
+- **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
 
-## Komfort
 
-Acura ZDX Type S har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
-Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så lenge du har den med deg, åpnes dørene.
+## Komfortfunksjoner
 
-Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
+Acura ZDX Type S inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+
 
 {{<evkxdisplayaddarticle />}}
 

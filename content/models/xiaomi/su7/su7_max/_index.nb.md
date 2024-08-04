@@ -148,20 +148,17 @@ Det er bare én type ratt tilgjengelig.
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
-- Klimasystemet  2-zone støtter forskjellige temperaturer i to soner for sjåfør og passasjer.
+- **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
 
-## Komfort
+## Komfortfunksjoner
 
-Xiaomi SU7 Max har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+Xiaomi SU7 Max inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Elektrisk justerbart ratt**
+- **Trådløs lading av telefon**
 
-Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så lenge du har den med deg, åpnes dørene.
-
-Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
-
-Rattet er elektrisk justerbart.
-
-Du har trådløs lading for telefonen din.
 
 {{<evkxdisplayaddarticle />}}
 

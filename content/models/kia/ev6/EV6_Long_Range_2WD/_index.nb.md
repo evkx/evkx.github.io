@@ -154,14 +154,16 @@ Det er bare én type ratt tilgjengelig. -rattet er oppvarmet, og du kan kontroll
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
-- Klimasystemet 2-zone støtter forskjellige temperaturer i to soner for sjåfør og passasjer.
+- **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
+
+
 Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
 
-## Komfort
+## Komfortfunksjoner
 
-Kia EV6 Long Range 2WD har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+Kia EV6 Long Range 2WD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+- **Trådløs lading av telefon**
 
-Du har trådløs lading for telefonen din.
 
 {{<evkxdisplayaddarticle />}}
 

@@ -138,20 +138,19 @@ Det er bare én type ratt tilgjengelig.
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
-- Klimasystemet  støtter forskjellige temperaturer i to soner for sjåfør og passasjer.
-Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
+- **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
-## Komfort
 
-Fisker Ocean Ultra har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
-Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så lenge du har den med deg, åpnes dørene.
+## Komfortfunksjoner
 
-Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
+Fisker Ocean Ultra inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Enkel innstigningsfunksjon:** Flytter førersetet for å gjøre det lettere å komme inn i bilen.
+- **Trådløs lading av telefon**
 
-Du har enkel inngang for førersetet som flytter setet for å gjøre det lettere å komme inn i bilen.
-
-Du har trådløs lading for telefonen din.
 
 {{<evkxdisplayaddarticle />}}
 

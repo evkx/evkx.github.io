@@ -122,16 +122,17 @@ Det er bare én type ratt tilgjengelig.
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
-- Klimasystemet  støtter kun kontroll av én delt sone for hele bilen.
+- **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
+
+
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
-## Komfort
+## Komfortfunksjoner
 
-MG Cyberster AWD Long Range har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+MG Cyberster AWD Long Range inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Trådløs lading av telefon**
 
-Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
-
-Du har trådløs lading for telefonen din.
 
 {{<evkxdisplayaddarticle />}}
 

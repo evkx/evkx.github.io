@@ -239,7 +239,7 @@ Audi Q8 e-tron edition Dakar inkluderer flere funktioner, der forbedrer komfort 
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
-- **Easy entry:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
+- **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
 
 

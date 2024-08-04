@@ -153,20 +153,20 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Du kan velge mellom to forskjellige klimasystemer.
-- Klimasystemet 2-zone Climatronic støtter forskjellige temperaturer i to soner for sjåfør og passasjer.
-- Klimasystemet 3-zone climatronic støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
-Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
+To klimasystemalternativer er tilgjengelige:
+- **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
+- **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
 
-## Komfort
 
-Volkswagen ID.4 Pro 4MOTION har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
-Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så lenge du har den med deg, åpnes dørene.
+## Komfortfunksjoner
 
-Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
+Volkswagen ID.4 Pro 4MOTION inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Trådløs lading av telefon**
 
-Du har trådløs lading for telefonen din.
 
 {{<evkxdisplayaddarticle />}}
 

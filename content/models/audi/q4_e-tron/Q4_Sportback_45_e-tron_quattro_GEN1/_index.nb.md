@@ -170,22 +170,21 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Du kan velge mellom to forskjellige klimasystemer.
-- Klimasystemet 1-zone støtter kun kontroll av én delt sone for hele bilen.
-- Klimasystemet 3-zone støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
+To klimasystemalternativer er tilgjengelige:
+- **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
+- **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
+
+
 Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som et alternativ. Denne varmepumpen kan spare betydelig energi brukes til oppvarming i kaldt vær.
 
-## Komfort
+## Komfortfunksjoner
 
-Audi Q4 Sportback 45 e-tron quattro (GEN1) har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+Audi Q4 Sportback 45 e-tron quattro (GEN1) inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Elektrisk justerbart ratt**
+- **Trådløs lading av telefon**
 
-Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så lenge du har den med deg, åpnes dørene.
-
-Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
-
-Rattet er elektrisk justerbart.
-
-Du har trådløs lading for telefonen din.
 
 {{<evkxdisplayaddarticle />}}
 

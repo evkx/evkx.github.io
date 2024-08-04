@@ -136,16 +136,17 @@ Det er bare én type ratt tilgjengelig.
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
-- Klimasystemet  støtter kun kontroll av én delt sone for hele bilen.
-Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
+- **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
 
-## Komfort
 
-MG MG4 Electric XPOWER har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
-Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
+## Komfortfunksjoner
 
-Du har trådløs lading for telefonen din.
+MG MG4 Electric XPOWER inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Trådløs lading av telefon**
+
 
 {{<evkxdisplayaddarticle />}}
 

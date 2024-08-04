@@ -188,24 +188,22 @@ Det er bare én type ratt tilgjengelig.
 
 ## Klimasystem
 
-Du kan velge mellom to forskjellige klimasystemer.
-- Klimasystemet 2-zone støtter forskjellige temperaturer i to soner for sjåfør og passasjer.
-- Klimasystemet 4-zone støtter forskjellige temperaturer i fire soner for sjåføren, passasjeren og to separate passasjerer i baksetet.
-Denne modellen har en [varmepumpe](../../../../technology/hvac/#heat-pump) som standard. Denne varmepumpen kan spare betydelig energi som EV ville brukt til oppvarming i kaldt vær.
+To klimasystemalternativer er tilgjengelige:
+- **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
+- **4-soners klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
 
-## Komfort
 
-Audi SQ8 Sportback e-tron har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+En standard [varmepumpe](../../../../technology/hvac/#varmepumpe) er inkludert, som kan spare betydelig energi som elbilen ellers ville brukt til oppvarming i kaldt vær.
 
-Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så lenge du har den med deg, åpnes dørene.
+## Komfortfunksjoner
 
-Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
+Audi SQ8 Sportback e-tron inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Elektrisk justerbart ratt**
+- **Enkel innstigningsfunksjon:** Flytter førersetet for å gjøre det lettere å komme inn i bilen.
+- **Trådløs lading av telefon**
 
-Rattet er elektrisk justerbart.
-
-Du har enkel inngang for førersetet som flytter setet for å gjøre det lettere å komme inn i bilen.
-
-Du har trådløs lading for telefonen din.
 
 {{<evkxdisplayaddarticle />}}
 

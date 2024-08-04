@@ -144,20 +144,19 @@ Det er bare én type ratt tilgjengelig.
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
-- Klimasystemet  støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
+- **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
+
+
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
-## Komfort
+## Komfortfunksjoner
 
-Ford Mustang Mach-E Standard Range RWD har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+Ford Mustang Mach-E Standard Range RWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+- **Nøkkelfri adgang:** Gir tilgang til bilen uten å måtte finne nøkkelen, så lenge du har den med deg.
+- **Nøkkelfri start:** Gjør det mulig å starte bilen uten å bruke nøkkelen.
+- **Enkel innstigningsfunksjon:** Flytter førersetet for å gjøre det lettere å komme inn i bilen.
+- **Trådløs lading av telefon**
 
-Nøkkelfri adgang gir tilgang til bilen uten å måtte finne nøkkelen. Så lenge du har den med deg, åpnes dørene.
-
-Keyless go gjør det mulig å starte bilen uten å bruke nøkkelen.
-
-Du har enkel inngang for førersetet som flytter setet for å gjøre det lettere å komme inn i bilen.
-
-Du har trådløs lading for telefonen din.
 
 {{<evkxdisplayaddarticle />}}
 

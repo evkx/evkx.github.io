@@ -182,7 +182,7 @@ Audi S6 Avant e-tron inkluderer flere funktioner, der forbedrer komfort og bekve
 - **Nøglefri adgang:** Giver adgang til bilen uden at skulle finde nøglen, så længe du har den med dig.
 - **Nøglefri start:** Gør det muligt at starte bilen uden at bruge nøglen.
 - **Elektrisk justerbart rat**
-- **Easy entry:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
+- **Let indstigning:** Flytter førersædet for at gøre det lettere at komme ind i bilen.
 - **Trådløs opladning af telefon**
 
 

@@ -165,14 +165,16 @@ Det er bare én type ratt tilgjengelig.
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
-- Klimasystemet standard støtter kun kontroll av én delt sone for hele bilen.
+- **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
+
+
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
-## Komfort
+## Komfortfunksjoner
 
-Citroën ë-C3 har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+Citroën ë-C3 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+- **Trådløs lading av telefon**
 
-Du har trådløs lading for telefonen din.
 
 {{<evkxdisplayaddarticle />}}
 

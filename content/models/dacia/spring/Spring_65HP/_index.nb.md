@@ -138,12 +138,15 @@ Det er bare én type ratt tilgjengelig.
 ## Klimasystem
 
 Det er ett tilgjengelig klimasystem.
-- Klimasystemet  støtter kun kontroll av én delt sone for hele bilen.
+- **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
+
+
 Denne modellen har ikke en [varmepumpe](../../../../technology/hvac/#heat-pump). Dette kan øke forbruket i kaldt vær sammenlignet med modeller med varmepumpe.
 
-## Komfort
+## Komfortfunksjoner
 
-Dacia Spring 65HP har flere funksjoner for å gjøre livet ditt som sjåfør eller passasjer mer komfortabelt.
+Dacia Spring 65HP inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
+
 
 {{<evkxdisplayaddarticle />}}
 
