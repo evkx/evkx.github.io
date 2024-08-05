@@ -192,7 +192,9 @@ Modellen har 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 
 ## Ljus
 
-Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
+Standardlamporna använder LED-teknik.
+
+Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/headlights_1_st.jpg" title="Genesis GV60 AWD" width="1387" height="780"  >}}

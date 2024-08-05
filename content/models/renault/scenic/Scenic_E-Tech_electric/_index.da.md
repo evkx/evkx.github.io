@@ -199,7 +199,12 @@ Modellen har 6 USB-C-forbindelser som standard.
 
 ## Lys
 
-Du kan vælge mellem to typer forlygter til Renault Scenic E-Tech electric. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
+Du kan vælge mellem to typer forlygter til Renault Scenic E-Tech electric.
+
+- Standardlygterne bruger LED-teknologi.
+- Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
+
+Derudover bruger standardbaglygterne LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/headlights_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="1687"  >}}

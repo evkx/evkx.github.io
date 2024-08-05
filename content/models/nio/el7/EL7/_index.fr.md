@@ -212,7 +212,9 @@ Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 co
 
 ## Lumières
 
-Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
+Les phares standards utilisent la technologie LED.
+
+De plus, les feux arrière standard utilisent la technologie LED.
 
 
 {{< sitefiguresized thumb="models/nio/el7/el7/headlights_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}

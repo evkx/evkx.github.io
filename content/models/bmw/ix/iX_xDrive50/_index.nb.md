@@ -191,7 +191,12 @@ Modellen har 6 USB-C-tilkoblinger som standard.
 
 ## Lys
 
-Du kan velge mellom to typer frontlykter for BMW iX xDrive50. Standardlyktene bruker LED-teknologi. Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
+Du kan velge mellom to typer frontlykter for BMW iX xDrive50.
+
+- Standardlyktene bruker LED-teknologi.
+- Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran.
+
+I tillegg bruker standard baklykter LED-teknologi.
 
 ## Avanserte førerassistentsystemer
 

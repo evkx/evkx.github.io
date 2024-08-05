@@ -184,7 +184,9 @@ One type of sound system is available for the Rimac Nevera.
 
 ## Lights
 
-The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+The standard headlights use LED technology.
+
+The standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/headlights_1_st.jpg" title="Rimac Nevera" width="3000" height="2002"  >}}

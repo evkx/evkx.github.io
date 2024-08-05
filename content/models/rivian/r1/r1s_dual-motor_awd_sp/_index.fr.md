@@ -195,6 +195,8 @@ Le modèle dispose de 6 connexions USB-C en standard.
 
 Les phares standards utilisent la technologie LED.
 
+De plus, les feux arrière standard utilisent la technologie LED.
+
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/headlights_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 

@@ -221,7 +221,12 @@ Modellen har 5 USB-C-forbindelser som standard.
 
 ## Lys
 
-Du kan vælge mellem to typer forlygter til Volkswagen ID. Buzz GTX LWB. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
+Du kan vælge mellem to typer forlygter til Volkswagen ID. Buzz GTX LWB.
+
+- Standardlygterne bruger LED-teknologi.
+- Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
+
+Derudover bruger standardbaglygterne LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/headlights_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2000"  >}}

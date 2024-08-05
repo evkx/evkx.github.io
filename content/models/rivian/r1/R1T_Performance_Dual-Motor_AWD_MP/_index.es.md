@@ -188,6 +188,8 @@ El modelo tiene 8 conexiones USB-C de serie.
 
 Los faros estándar utilizan tecnología LED.
 
+Además, las luces traseras estándar utilizan tecnología LED.
+
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/headlights_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="2880" height="1920"  >}}
 

@@ -180,7 +180,9 @@ Modellen har 2 USB-C-anslutningar som standard.
 
 ## Ljus
 
-Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
+Standardlamporna använder LED-teknik.
+
+Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/headlights_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1698"  >}}

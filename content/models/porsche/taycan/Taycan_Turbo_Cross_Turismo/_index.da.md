@@ -234,7 +234,9 @@ Du kan vælge mellem tre lydsystemer på Porsche Taycan Turbo Cross Turismo.
 
 ## Lys
 
-Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
+Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
+
+Derudover bruger standardbaglygterne LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/headlights_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1688"  >}}

@@ -190,7 +190,9 @@ Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutninga
 
 ## Ljus
 
+Standardlamporna använder LED-teknik.
 
+Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/headlights_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}

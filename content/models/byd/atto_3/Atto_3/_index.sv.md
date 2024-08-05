@@ -202,7 +202,9 @@ Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutninga
 
 ## Ljus
 
-Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
+Standardlamporna använder LED-teknik.
+
+Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/headlights_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}

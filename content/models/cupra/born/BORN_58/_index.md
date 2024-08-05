@@ -192,6 +192,8 @@ The model has 4 USB-C connections as standard.
 
 The standard headlights use LED technology.
 
+The standard taillights use LED technology.
+
 
 {{< sitefiguresized thumb="models/cupra/born/born_58/headlights_1_st.jpg" title="CUPRA BORN 58" width="3000" height="1976"  >}}
 

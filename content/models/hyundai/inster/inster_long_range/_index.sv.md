@@ -198,7 +198,9 @@ Modellen har 4 USB-C-anslutningar som standard.
 
 ## Ljus
 
-Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
+Standardlamporna använder LED-teknik.
+
+Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/headlights_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}

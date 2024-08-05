@@ -189,7 +189,9 @@ Modellen har 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 
 ## Ljus
 
-Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
+Standardlamporna använder LED-teknik.
+
+Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/headlights_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}

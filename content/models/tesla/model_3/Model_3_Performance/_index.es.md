@@ -192,6 +192,8 @@ El modelo tiene 4 conexiones USB-C de serie.
 
 Los faros estándar utilizan tecnología LED.
 
+Además, las luces traseras estándar utilizan tecnología LED.
+
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/headlights_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 

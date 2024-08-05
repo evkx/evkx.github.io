@@ -221,7 +221,9 @@ Puedes elegir entre tres sistemas de sonido en el Porsche Taycan Turbo S Cross T
 
 ## Luces
 
-Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
+Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
+
+Además, las luces traseras estándar utilizan tecnología LED.
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/headlights_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}

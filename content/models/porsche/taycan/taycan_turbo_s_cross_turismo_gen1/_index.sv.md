@@ -227,7 +227,9 @@ Du kan välja mellan tre ljudsystem på Porsche Taycan Turbo S Cross Turismo (GE
 
 ## Ljus
 
-Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Dessutom använder standardbakljusen LED-teknik.
+Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
+
+Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo_gen1/headlights_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo (GEN1)" width="3000" height="2000"  >}}

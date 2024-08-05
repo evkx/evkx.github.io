@@ -194,7 +194,9 @@ The model has 1 USB-C connections as standard. As an option, you can get additio
 
 ## Lights
 
-The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+The standard headlights use LED technology.
+
+The standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/headlights_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1467"  >}}

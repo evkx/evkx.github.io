@@ -206,6 +206,8 @@ Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 
 Standardlamporna använder LED-teknik.
 
+Dessutom använder standardbakljusen LED-teknik.
+
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/headlights_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="1999"  >}}
 

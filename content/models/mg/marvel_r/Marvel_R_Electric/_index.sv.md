@@ -183,7 +183,9 @@ Modellen har 4 USB-A-anslutningar som standard.
 
 ## Ljus
 
+Standardlamporna använder LED-teknik.
 
+Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/headlights_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1701"  >}}

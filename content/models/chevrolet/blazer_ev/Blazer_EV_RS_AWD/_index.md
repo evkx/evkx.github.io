@@ -183,7 +183,9 @@ The model has 5 USB-C connections as standard.
 
 ## Lights
 
+The standard headlights use LED technology.
 
+The standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/headlights_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}

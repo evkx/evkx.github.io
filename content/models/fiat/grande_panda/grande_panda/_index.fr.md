@@ -200,7 +200,9 @@ Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obt
 
 ## Lumières
 
-Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
+Les phares standards utilisent la technologie LED.
+
+De plus, les feux arrière standard utilisent la technologie LED.
 
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/headlights_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}

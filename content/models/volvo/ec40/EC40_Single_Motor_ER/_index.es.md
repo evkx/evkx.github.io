@@ -180,7 +180,12 @@ El modelo tiene 1 conexiones USB-C de serie.
 
 ## Luces
 
-Puedes elegir entre dos tipos de faros para el Volvo EC40 Single Motor ER. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
+Puedes elegir entre dos tipos de faros para el Volvo EC40 Single Motor ER.
+
+- Los faros estándar utilizan tecnología LED.
+- Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
+
+
 
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/headlights_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2184"  >}}

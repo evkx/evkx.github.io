@@ -202,7 +202,9 @@ Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 co
 
 ## Lumières
 
-Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
+Les phares standards utilisent la technologie LED.
+
+De plus, les feux arrière standard utilisent la technologie LED.
 
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/headlights_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}

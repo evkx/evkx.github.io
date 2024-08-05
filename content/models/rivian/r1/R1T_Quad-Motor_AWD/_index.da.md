@@ -189,6 +189,8 @@ Modellen har 8 USB-C-forbindelser som standard.
 
 Standardlygterne bruger LED-teknologi.
 
+Derudover bruger standardbaglygterne LED-teknologi.
+
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/headlights_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2880" height="1920"  >}}
 

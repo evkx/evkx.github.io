@@ -192,6 +192,8 @@ Modellen har 4 USB-C-forbindelser som standard.
 
 Standardlygterne bruger LED-teknologi.
 
+Derudover bruger standardbaglygterne LED-teknologi.
+
 
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/headlights_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="1976"  >}}
 

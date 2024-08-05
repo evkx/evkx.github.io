@@ -194,7 +194,9 @@ The model has 4 USB-C connections as standard.
 
 ## Lights
 
-The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+The standard headlights use LED technology.
+
+The standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/headlights_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2250"  >}}

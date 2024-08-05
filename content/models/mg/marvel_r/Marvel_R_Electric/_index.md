@@ -183,7 +183,9 @@ The model has 4 USB-A connections as standard.
 
 ## Lights
 
+The standard headlights use LED technology.
 
+The standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/headlights_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1701"  >}}

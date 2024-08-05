@@ -190,6 +190,10 @@ Modellen har 5 USB-C-forbindelser som standard.
 
 ## Lys
 
+Standardlygterne bruger LED-teknologi.
+
+Derudover bruger standardbaglygterne LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 Honda Prologue AWD har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.

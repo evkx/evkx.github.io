@@ -195,7 +195,9 @@ Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 
 ## Lys
 
-Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
+Standardlyktene bruker LED-teknologi.
+
+I tillegg bruker standard baklykter LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/headlights_1_st.jpg" title="Genesis GV60 2WD" width="1387" height="780"  >}}

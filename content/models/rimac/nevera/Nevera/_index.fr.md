@@ -184,7 +184,9 @@ Un type de système audio est disponible pour le Rimac Nevera.
 
 ## Lumières
 
-Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
+Les phares standards utilisent la technologie LED.
+
+De plus, les feux arrière standard utilisent la technologie LED.
 
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/headlights_1_st.jpg" title="Rimac Nevera" width="3000" height="2002"  >}}

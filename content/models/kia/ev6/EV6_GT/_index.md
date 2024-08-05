@@ -189,7 +189,9 @@ The model has 4 USB-C connections as standard. The model has 1 USB-A connections
 
 ## Lights
 
-The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+The standard headlights use LED technology.
+
+The standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/headlights_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}

@@ -183,7 +183,9 @@ Le modèle dispose de 4 connexions USB-A en standard.
 
 ## Lumières
 
+Les phares standards utilisent la technologie LED.
 
+De plus, les feux arrière standard utilisent la technologie LED.
 
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/headlights_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1701"  >}}

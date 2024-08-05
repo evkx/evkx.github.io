@@ -180,7 +180,9 @@ I tillegg støtter Automobili Pininfarina Battista Android Auto og Apple CarPlay
 
 ## Lys
 
-Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
+Standardlyktene bruker LED-teknologi.
+
+I tillegg bruker standard baklykter LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/headlights_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="1999"  >}}

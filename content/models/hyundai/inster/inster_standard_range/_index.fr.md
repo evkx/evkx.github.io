@@ -199,7 +199,9 @@ Le modèle dispose de 4 connexions USB-C en standard.
 
 ## Lumières
 
-Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
+Les phares standards utilisent la technologie LED.
+
+De plus, les feux arrière standard utilisent la technologie LED.
 
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/headlights_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}

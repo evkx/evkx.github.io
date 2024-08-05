@@ -186,7 +186,12 @@ Modellen har 1 USB-C-tilkoblinger som standard.
 
 ## Lys
 
-Du kan velge mellom to typer frontlykter for Volvo C40 Recharge Single Motor ER. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
+Du kan velge mellom to typer frontlykter for Volvo C40 Recharge Single Motor ER.
+
+- Standardlyktene bruker LED-teknologi.
+- Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
+
+
 
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/headlights_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000"  >}}

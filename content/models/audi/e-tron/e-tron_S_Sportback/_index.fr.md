@@ -248,7 +248,13 @@ Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obt
 
 ## Lumières
 
-Vous pouvez choisir entre trois types de phares pour le Audi e-tron S Sportback. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant. Des phares basés sur la technologie LED Digital Matrix sont disponibles en option. De plus, les feux arrière standard utilisent la technologie LED.
+Vous pouvez choisir entre trois types de phares pour le Audi e-tron S Sportback.
+
+- Les phares standards utilisent la technologie LED.
+- Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
+- Des phares basés sur la technologie LED Digital Matrix sont disponibles en option.
+
+De plus, les feux arrière standard utilisent la technologie LED.
 
 ## Systèmes avancés d'aide à la conduite
 

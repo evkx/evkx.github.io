@@ -181,6 +181,8 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 
 ## Lys
 
+Standardlyktene bruker LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 XPENG P7 AWD Performance har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.

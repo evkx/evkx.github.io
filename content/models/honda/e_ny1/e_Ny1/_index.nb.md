@@ -148,7 +148,9 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Lys
 
+Standardlyktene bruker LED-teknologi.
 
+I tillegg bruker standard baklykter LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/headlights_1_st.jpg" title="Honda e:Ny1" width="3000" height="1819"  >}}

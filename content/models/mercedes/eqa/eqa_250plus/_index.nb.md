@@ -217,7 +217,9 @@ Modellen har 4 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 
 ## Lys
 
-Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
+Standardlyktene bruker LED-teknologi.
+
+I tillegg bruker standard baklykter LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/headlights_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}

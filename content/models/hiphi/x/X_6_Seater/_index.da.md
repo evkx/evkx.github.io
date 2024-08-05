@@ -201,7 +201,9 @@ Modellen har 3 USB-C-forbindelser som standard. Modellen har 3 USB-A-forbindelse
 
 ## Lys
 
-Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
+Standardlygterne bruger LED-teknologi.
+
+Derudover bruger standardbaglygterne LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/headlights_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000"  >}}

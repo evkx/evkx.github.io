@@ -195,7 +195,9 @@ El modelo tiene 4 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 
 ## Luces
 
-Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
+Los faros estándar utilizan tecnología LED.
+
+Además, las luces traseras estándar utilizan tecnología LED.
 
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/headlights_1_st.jpg" title="Genesis GV60 2WD" width="1387" height="780"  >}}

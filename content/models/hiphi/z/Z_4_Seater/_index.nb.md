@@ -194,7 +194,9 @@ Modellen har 1 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 
 ## Lys
 
-Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
+Standardlyktene bruker LED-teknologi.
+
+I tillegg bruker standard baklykter LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/headlights_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1467"  >}}

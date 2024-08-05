@@ -232,7 +232,12 @@ Du kan välja mellan tre ljudsystem på Porsche Taycan 4S Cross Turismo.
 
 ## Ljus
 
-Du kan välja mellan två typer av strålkastare för Porsche Taycan 4S Cross Turismo. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför. Dessutom använder standardbakljusen LED-teknik.
+Du kan välja mellan två typer av strålkastare för Porsche Taycan 4S Cross Turismo.
+
+- Standardlamporna använder LED-teknik.
+- Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
+
+Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_cross_turismo/headlights_1_st.jpg" title="Porsche Taycan 4S Cross Turismo" width="3000" height="2000"  >}}

@@ -174,7 +174,9 @@ The model has 1 USB-C connections as standard. The model has 1 USB-A connections
 
 ## Lights
 
+The standard headlights use LED technology.
 
+The standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/headlights_1_st.jpg" title="MG Cyberster AWD Long Range" width="2800" height="1575"  >}}

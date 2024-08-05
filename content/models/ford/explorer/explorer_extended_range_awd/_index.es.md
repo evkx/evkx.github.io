@@ -197,6 +197,8 @@ El modelo tiene 4 conexiones USB-C de serie.
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
+Además, las luces traseras estándar utilizan tecnología LED.
+
 
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_awd/headlights_1_st.jpg" title="Ford Explorer Extended Range AWD" width="3000" height="2250"  >}}
 

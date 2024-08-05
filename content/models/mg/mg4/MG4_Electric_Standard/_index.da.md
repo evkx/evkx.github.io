@@ -183,7 +183,9 @@ Modellen har 1 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelse
 
 ## Lys
 
+Standardlygterne bruger LED-teknologi.
 
+Derudover bruger standardbaglygterne LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/headlights_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2000"  >}}

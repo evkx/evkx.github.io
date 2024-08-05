@@ -190,7 +190,9 @@ Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelse
 
 ## Lys
 
-Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
+Standardlygterne bruger LED-teknologi.
+
+Derudover bruger standardbaglygterne LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/headlights_1_st.jpg" title="MG ZS EV Standard Range" width="2560" height="1673"  >}}

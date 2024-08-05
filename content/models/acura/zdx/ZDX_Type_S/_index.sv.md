@@ -183,7 +183,9 @@ Modellen har 5 USB-C-anslutningar som standard.
 
 ## Ljus
 
+Standardlamporna använder LED-teknik.
 
+Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/headlights_1_st.jpg" title="Acura ZDX Type S" width="3000" height="2000"  >}}

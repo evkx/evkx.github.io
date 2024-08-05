@@ -200,6 +200,8 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 
 Standardlyktene bruker LED-teknologi.
 
+I tillegg bruker standard baklykter LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 Tesla Model 3 Long Range (GEN1) har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.

@@ -204,7 +204,9 @@ El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 
 ## Luces
 
-Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
+Los faros estándar utilizan tecnología LED.
+
+Además, las luces traseras estándar utilizan tecnología LED.
 
 ## Sistemas avanzados de asistencia al conductor
 

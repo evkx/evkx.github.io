@@ -194,6 +194,8 @@ En typ av ljudsystem är tillgänglig för XPENG G9 RWD Long Range.
 
 ## Ljus
 
+Standardlamporna använder LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 XPENG G9 RWD Long Range har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.

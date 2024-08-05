@@ -187,7 +187,9 @@ Modellen har 5 USB-C-forbindelser som standard.
 
 ## Lys
 
+Standardlygterne bruger LED-teknologi.
 
+Derudover bruger standardbaglygterne LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/headlights_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="1973"  >}}

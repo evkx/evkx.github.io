@@ -193,7 +193,9 @@ El modelo tiene 5 conexiones USB-C de serie.
 
 ## Luces
 
+Los faros estándar utilizan tecnología LED.
 
+Además, las luces traseras estándar utilizan tecnología LED.
 
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/headlights_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="2000"  >}}

@@ -195,6 +195,8 @@ The model has 3 USB-C connections as standard.
 
 The standard headlights use LED technology.
 
+The standard taillights use LED technology.
+
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/headlights_1_st.jpeg" title="Tesla Model 3 Long Range" width="3000" height="2250"  >}}
 

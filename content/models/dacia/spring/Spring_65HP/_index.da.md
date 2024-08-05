@@ -180,7 +180,9 @@ Modellen har 2 USB-C-forbindelser som standard.
 
 ## Lys
 
-Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
+Standardlygterne bruger LED-teknologi.
+
+Derudover bruger standardbaglygterne LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/headlights_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1698"  >}}

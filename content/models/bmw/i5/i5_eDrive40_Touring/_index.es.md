@@ -215,7 +215,12 @@ El modelo tiene 6 conexiones USB-C de serie.
 
 ## Luces
 
-Puedes elegir entre dos tipos de faros para el BMW i5 eDrive40 Touring. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente. Además, las luces traseras estándar utilizan tecnología LED.
+Puedes elegir entre dos tipos de faros para el BMW i5 eDrive40 Touring.
+
+- Los faros estándar utilizan tecnología LED.
+- Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
+
+Además, las luces traseras estándar utilizan tecnología LED.
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/headlights_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="1999"  >}}

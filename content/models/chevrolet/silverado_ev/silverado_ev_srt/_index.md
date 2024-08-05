@@ -186,7 +186,9 @@ The model has 4 USB-C connections as standard.
 
 ## Lights
 
+The standard headlights use LED technology.
 
+The standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/headlights_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2000"  >}}

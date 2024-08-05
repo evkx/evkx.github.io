@@ -238,7 +238,12 @@ Puedes elegir entre tres sistemas de sonido en el Porsche Taycan 4S Sport Turism
 
 ## Luces
 
-Puedes elegir entre dos tipos de faros para el Porsche Taycan 4S Sport Turismo. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente. Además, las luces traseras estándar utilizan tecnología LED.
+Puedes elegir entre dos tipos de faros para el Porsche Taycan 4S Sport Turismo.
+
+- Los faros estándar utilizan tecnología LED.
+- Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
+
+Además, las luces traseras estándar utilizan tecnología LED.
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1688"  >}}

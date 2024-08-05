@@ -206,6 +206,8 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 
 The standard headlights use LED technology.
 
+The standard taillights use LED technology.
+
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/headlights_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="1999"  >}}
 

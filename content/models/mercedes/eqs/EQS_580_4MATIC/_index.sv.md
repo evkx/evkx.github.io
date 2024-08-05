@@ -236,7 +236,9 @@ Modellen har 4 USB-C-anslutningar som standard. Som ett alternativ kan du få yt
 
 ## Ljus
 
-Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Dessutom använder standardbakljusen LED-teknik.
+Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
+
+Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/headlights_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="1920" height="1080"  >}}

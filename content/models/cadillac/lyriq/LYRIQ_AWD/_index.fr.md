@@ -187,7 +187,9 @@ Le modèle dispose de 5 connexions USB-C en standard.
 
 ## Lumières
 
+Les phares standards utilisent la technologie LED.
 
+De plus, les feux arrière standard utilisent la technologie LED.
 
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/headlights_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="1973"  >}}

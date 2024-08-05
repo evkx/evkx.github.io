@@ -199,7 +199,9 @@ Modellen har 4 USB-C-anslutningar som standard.
 
 ## Ljus
 
-Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
+Standardlamporna använder LED-teknik.
+
+Dessutom använder standardbakljusen LED-teknik.
 
 ## Avancerade förarassistanssystem
 

@@ -190,7 +190,9 @@ Modellen har 1 USB-C-forbindelser som standard. Modellen har 3 USB-A-forbindelse
 
 ## Lys
 
-Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
+Standardlygterne bruger LED-teknologi.
+
+Derudover bruger standardbaglygterne LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_comfort/headlights_1_st.jpg" title="Hongqi E-HS9 Comfort" width="851" height="686"  >}}

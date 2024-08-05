@@ -166,7 +166,9 @@ Du kan välja mellan tre ljudsystem på Mercedes-EQ EQC 400 4MATIC.
 
 ## Ljus
 
-Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Dessutom använder standardbakljusen LED-teknik.
+Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
+
+Dessutom använder standardbakljusen LED-teknik.
 
 ## Avancerade förarassistanssystem
 

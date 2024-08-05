@@ -181,6 +181,8 @@ One type of sound system is available for the XPENG P7 AWD Performance.
 
 ## Lights
 
+The standard headlights use LED technology.
+
 ## Advanced driver assistance systems
 
 The XPENG P7 AWD Performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

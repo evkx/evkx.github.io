@@ -180,7 +180,9 @@ Un tipo de sistema de sonido está disponible para el YangWang U9.
 
 ## Luces
 
-Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
+Los faros estándar utilizan tecnología LED.
+
+Además, las luces traseras estándar utilizan tecnología LED.
 
 
 {{< sitefiguresized thumb="models/yangwang/u9/u9/headlights_1_st.jpg" title="YangWang U9" width="3000" height="2250"  >}}

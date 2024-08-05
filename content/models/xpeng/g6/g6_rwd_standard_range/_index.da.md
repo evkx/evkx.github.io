@@ -185,6 +185,8 @@ Modellen har 4 USB-C-forbindelser som standard.
 
 ## Lys
 
+Standardlygterne bruger LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 XPENG G6 RWD Standard Range har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.

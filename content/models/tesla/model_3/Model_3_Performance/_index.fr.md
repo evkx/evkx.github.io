@@ -192,6 +192,8 @@ Le modèle dispose de 4 connexions USB-C en standard.
 
 Les phares standards utilisent la technologie LED.
 
+De plus, les feux arrière standard utilisent la technologie LED.
+
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/headlights_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 

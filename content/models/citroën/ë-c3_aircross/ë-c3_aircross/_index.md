@@ -214,7 +214,9 @@ The model has 2 USB-C connections as standard. As an option, you can get additio
 
 ## Lights
 
-The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+The standard headlights use LED technology.
+
+The standard taillights use LED technology.
 
 ## Advanced driver assistance systems
 

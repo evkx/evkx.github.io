@@ -219,7 +219,12 @@ Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obt
 
 ## Lumières
 
-Vous pouvez choisir entre deux types de phares pour le Audi Q4 45 e-tron quattro. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant. De plus, vous pouvez choisir entre deux types de feux arrière.
+Vous pouvez choisir entre deux types de phares pour le Audi Q4 45 e-tron quattro.
+
+- Les phares standards utilisent la technologie LED.
+- Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
+
+De plus, vous pouvez choisir entre deux types de feux arrière.
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="2003"  >}}

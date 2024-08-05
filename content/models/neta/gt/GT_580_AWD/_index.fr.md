@@ -172,7 +172,9 @@ Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 1 co
 
 ## Lumières
 
-Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
+Les phares standards utilisent la technologie LED.
+
+De plus, les feux arrière standard utilisent la technologie LED.
 
 ## Systèmes avancés d'aide à la conduite
 

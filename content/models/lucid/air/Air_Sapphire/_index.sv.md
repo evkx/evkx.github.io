@@ -192,6 +192,8 @@ Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 
 Standardlamporna använder LED-teknik.
 
+Dessutom använder standardbakljusen LED-teknik.
+
 
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/headlights_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2037"  >}}
 

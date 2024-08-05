@@ -194,6 +194,8 @@ One type of sound system is available for the XPENG G9 RWD Long Range.
 
 ## Lights
 
+The standard headlights use LED technology.
+
 ## Advanced driver assistance systems
 
 The XPENG G9 RWD Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

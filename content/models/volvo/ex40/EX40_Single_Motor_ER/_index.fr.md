@@ -173,7 +173,12 @@ Le modèle dispose de 1 connexions USB-C en standard.
 
 ## Lumières
 
-Vous pouvez choisir entre deux types de phares pour le Volvo EX40 Single Motor ER. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
+Vous pouvez choisir entre deux types de phares pour le Volvo EX40 Single Motor ER.
+
+- Les phares standards utilisent la technologie LED.
+- Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
+
+
 
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/headlights_1_st.jpg" title="Volvo EX40 Single Motor ER" width="1080" height="1080"  >}}

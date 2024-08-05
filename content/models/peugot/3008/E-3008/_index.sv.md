@@ -194,7 +194,12 @@ Modellen har 4 USB-C-anslutningar som standard.
 
 ## Ljus
 
-Du kan välja mellan två typer av strålkastare för Peugot E-3008. Standardlamporna använder LED-teknik. Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Dessutom använder standardbakljusen LED-teknik.
+Du kan välja mellan två typer av strålkastare för Peugot E-3008.
+
+- Standardlamporna använder LED-teknik.
+- Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
+
+Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/headlights_1_st.jpg" title="Peugot E-3008" width="3000" height="2250"  >}}

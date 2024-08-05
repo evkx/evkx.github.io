@@ -243,7 +243,13 @@ The model has 2 USB-C connections as standard. As an option, you can get additio
 
 ## Lights
 
-You can choose between three types of headlights for the Audi SQ8 Sportback e-tron. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane. In addition, the standard taillights use LED technology.
+You can choose between three types of headlights for the Audi SQ8 Sportback e-tron.
+
+- The standard headlights use LED technology.
+- Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+- The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane.
+
+The standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/headlights_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="1999"  >}}

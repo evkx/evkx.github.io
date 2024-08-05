@@ -182,7 +182,12 @@ Le modèle dispose de 4 connexions USB-C en standard.
 
 ## Lumières
 
-Vous pouvez choisir entre deux types de phares pour le Volvo EX30 Twin Motor Performance. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
+Vous pouvez choisir entre deux types de phares pour le Volvo EX30 Twin Motor Performance.
+
+- Les phares standards utilisent la technologie LED.
+- Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
+
+De plus, les feux arrière standard utilisent la technologie LED.
 
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/headlights_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2250"  >}}

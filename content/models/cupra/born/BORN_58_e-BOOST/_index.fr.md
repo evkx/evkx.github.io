@@ -192,6 +192,8 @@ Le modèle dispose de 4 connexions USB-C en standard.
 
 Les phares standards utilisent la technologie LED.
 
+De plus, les feux arrière standard utilisent la technologie LED.
+
 
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/headlights_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="1976"  >}}
 

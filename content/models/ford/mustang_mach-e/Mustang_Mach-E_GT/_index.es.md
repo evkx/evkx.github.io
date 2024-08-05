@@ -190,7 +190,9 @@ El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A 
 
 ## Luces
 
+Los faros estándar utilizan tecnología LED.
 
+Además, las luces traseras estándar utilizan tecnología LED.
 
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/headlights_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}

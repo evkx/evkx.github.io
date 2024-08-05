@@ -227,7 +227,9 @@ Modellen har 4 USB-C-anslutningar som standard. Som ett alternativ kan du få yt
 
 ## Ljus
 
-Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Dessutom använder standardbakljusen LED-teknik.
+Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
+
+Dessutom använder standardbakljusen LED-teknik.
 
 ## Avancerade förarassistanssystem
 

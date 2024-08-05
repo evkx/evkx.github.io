@@ -174,7 +174,9 @@ El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 
 ## Luces
 
+Los faros estándar utilizan tecnología LED.
 
+Además, las luces traseras estándar utilizan tecnología LED.
 
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/headlights_1_st.jpg" title="MG Cyberster AWD Long Range" width="2800" height="1575"  >}}

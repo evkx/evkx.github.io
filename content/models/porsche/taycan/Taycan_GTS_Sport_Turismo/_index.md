@@ -241,7 +241,9 @@ You can choose between three sound systems on the Porsche Taycan GTS Sport Turis
 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+
+The standard taillights use LED technology.
 
 ## Advanced driver assistance systems
 

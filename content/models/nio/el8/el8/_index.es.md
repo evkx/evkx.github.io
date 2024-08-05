@@ -227,7 +227,9 @@ El modelo tiene 3 conexiones USB-A de serie.
 
 ## Luces
 
-Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
+Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
+
+Además, las luces traseras estándar utilizan tecnología LED.
 
 ## Sistemas avanzados de asistencia al conductor
 

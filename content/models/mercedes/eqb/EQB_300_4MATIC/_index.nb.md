@@ -216,7 +216,9 @@ Modellen har 4 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 
 ## Lys
 
-Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
+Standardlyktene bruker LED-teknologi.
+
+I tillegg bruker standard baklykter LED-teknologi.
 
 ## Avanserte førerassistentsystemer
 

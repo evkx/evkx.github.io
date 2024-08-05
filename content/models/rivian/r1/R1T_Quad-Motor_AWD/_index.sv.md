@@ -189,6 +189,8 @@ Modellen har 8 USB-C-anslutningar som standard.
 
 Standardlamporna använder LED-teknik.
 
+Dessutom använder standardbakljusen LED-teknik.
+
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/headlights_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2880" height="1920"  >}}
 

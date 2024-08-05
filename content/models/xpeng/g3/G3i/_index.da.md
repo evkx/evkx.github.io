@@ -164,7 +164,9 @@ Modellen har 4 USB-A-forbindelser som standard.
 
 ## Lys
 
-Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
+Standardlygterne bruger LED-teknologi.
+
+Derudover bruger standardbaglygterne LED-teknologi.
 
 ## Avancerede førerassistentsystemer
 

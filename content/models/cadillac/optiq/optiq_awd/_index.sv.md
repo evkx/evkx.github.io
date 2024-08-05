@@ -187,6 +187,10 @@ Modellen har 5 USB-C-anslutningar som standard.
 
 ## Ljus
 
+Standardlamporna använder LED-teknik.
+
+Dessutom använder standardbakljusen LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 Cadillac OPTIQ AWD har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.

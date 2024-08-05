@@ -182,7 +182,9 @@ Modellen har 1 USB-A-anslutningar som standard.
 
 ## Ljus
 
-Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
+Standardlamporna använder LED-teknik.
+
+Dessutom använder standardbakljusen LED-teknik.
 
 ## Avancerade förarassistanssystem
 

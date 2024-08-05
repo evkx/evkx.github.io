@@ -185,7 +185,12 @@ Modellen har 4 USB-C-anslutningar som standard.
 
 ## Ljus
 
-Du kan välja mellan två typer av strålkastare för Polestar 2 Long Range Dual Motor Performance. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
+Du kan välja mellan två typer av strålkastare för Polestar 2 Long Range Dual Motor Performance.
+
+- Standardlamporna använder LED-teknik.
+- Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
+
+
 
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/headlights_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="1766"  >}}

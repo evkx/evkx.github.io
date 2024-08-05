@@ -248,7 +248,12 @@ Du kan välja mellan tre ljudsystem på Porsche Taycan (GEN1).
 
 ## Ljus
 
-Du kan välja mellan två typer av strålkastare för Porsche Taycan (GEN1). Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför. Dessutom använder standardbakljusen LED-teknik.
+Du kan välja mellan två typer av strålkastare för Porsche Taycan (GEN1).
+
+- Standardlamporna använder LED-teknik.
+- Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
+
+Dessutom använder standardbakljusen LED-teknik.
 
 ## Avancerade förarassistanssystem
 

@@ -191,7 +191,9 @@ Du kan vælge mellem tre lydsystemer på Ford F150 Lightning Standard Range.
 
 ## Lys
 
+Standardlygterne bruger LED-teknologi.
 
+Derudover bruger standardbaglygterne LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/headlights_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1687"  >}}

@@ -275,7 +275,13 @@ Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obt
 
 ## Lumières
 
-Vous pouvez choisir entre trois types de phares pour le Audi Q8 55 e-tron. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant. Des phares basés sur la technologie LED Digital Matrix sont disponibles en option. De plus, les feux arrière standard utilisent la technologie LED.
+Vous pouvez choisir entre trois types de phares pour le Audi Q8 55 e-tron.
+
+- Les phares standards utilisent la technologie LED.
+- Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
+- Des phares basés sur la technologie LED Digital Matrix sont disponibles en option.
+
+De plus, les feux arrière standard utilisent la technologie LED.
 
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_55_e-tron/headlights_1_st.jpg" title="Audi Q8 55 e-tron" width="2557" height="1353"  >}}

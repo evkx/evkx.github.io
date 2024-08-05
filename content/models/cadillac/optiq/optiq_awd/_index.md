@@ -187,6 +187,10 @@ The model has 5 USB-C connections as standard.
 
 ## Lights
 
+The standard headlights use LED technology.
+
+The standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Cadillac OPTIQ AWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

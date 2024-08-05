@@ -200,7 +200,9 @@ El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 5 conexiones USB-A 
 
 ## Luces
 
-Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
+Los faros estándar utilizan tecnología LED.
+
+Además, las luces traseras estándar utilizan tecnología LED.
 
 
 {{< sitefiguresized thumb="models/byd/han/han/headlights_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}

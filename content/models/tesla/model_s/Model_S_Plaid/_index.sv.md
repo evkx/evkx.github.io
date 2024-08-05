@@ -187,6 +187,8 @@ En typ av ljudsystem är tillgänglig för Tesla Model S Plaid.
 
 Standardlamporna använder LED-teknik.
 
+Dessutom använder standardbakljusen LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 Tesla Model S Plaid har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.

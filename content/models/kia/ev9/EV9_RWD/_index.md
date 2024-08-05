@@ -220,7 +220,9 @@ The model has 6 USB-C connections as standard.
 
 ## Lights
 
-The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+
+The standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/headlights_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}

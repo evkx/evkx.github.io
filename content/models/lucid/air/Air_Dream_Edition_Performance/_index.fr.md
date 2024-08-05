@@ -197,6 +197,8 @@ Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 co
 
 Les phares standards utilisent la technologie LED.
 
+De plus, les feux arrière standard utilisent la technologie LED.
+
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/headlights_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="2001"  >}}
 

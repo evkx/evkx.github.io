@@ -181,6 +181,8 @@ Un tipo de sistema de sonido está disponible para el XPENG P7 AWD Performance.
 
 ## Luces
 
+Los faros estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El XPENG P7 AWD Performance tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.

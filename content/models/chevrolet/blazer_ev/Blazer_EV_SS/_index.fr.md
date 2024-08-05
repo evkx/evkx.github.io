@@ -183,7 +183,9 @@ Le modèle dispose de 5 connexions USB-C en standard.
 
 ## Lumières
 
+Les phares standards utilisent la technologie LED.
 
+De plus, les feux arrière standard utilisent la technologie LED.
 
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/headlights_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}

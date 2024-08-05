@@ -148,7 +148,9 @@ Un type de système audio est disponible pour le Honda e:Ny1.
 
 ## Lumières
 
+Les phares standards utilisent la technologie LED.
 
+De plus, les feux arrière standard utilisent la technologie LED.
 
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/headlights_1_st.jpg" title="Honda e:Ny1" width="3000" height="1819"  >}}

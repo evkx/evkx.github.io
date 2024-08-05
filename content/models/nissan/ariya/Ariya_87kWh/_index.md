@@ -193,7 +193,12 @@ You can choose between two sound systems on the Nissan Ariya 87kWh.
 
 ## Lights
 
-You can choose between two types of headlights for the Nissan Ariya 87kWh. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+You can choose between two types of headlights for the Nissan Ariya 87kWh.
+
+- The standard headlights use LED technology.
+- Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+
+The standard taillights use LED technology.
 
 ## Advanced driver assistance systems
 

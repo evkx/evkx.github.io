@@ -192,6 +192,8 @@ The model has 4 USB-C connections as standard.
 
 The standard headlights use LED technology.
 
+The standard taillights use LED technology.
+
 
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_endurance/headlights_1_st.JPG" title="CUPRA Tavascan Endurance" width="3000" height="1673"  >}}
 

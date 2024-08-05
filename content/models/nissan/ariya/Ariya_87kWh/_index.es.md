@@ -193,7 +193,12 @@ Puedes elegir entre dos sistemas de sonido en el Nissan Ariya 87kWh.
 
 ## Luces
 
-Puedes elegir entre dos tipos de faros para el Nissan Ariya 87kWh. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
+Puedes elegir entre dos tipos de faros para el Nissan Ariya 87kWh.
+
+- Los faros estándar utilizan tecnología LED.
+- Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
+
+Además, las luces traseras estándar utilizan tecnología LED.
 
 ## Sistemas avanzados de asistencia al conductor
 

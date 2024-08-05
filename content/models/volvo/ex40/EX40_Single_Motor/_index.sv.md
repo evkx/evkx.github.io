@@ -173,7 +173,12 @@ Modellen har 1 USB-C-anslutningar som standard.
 
 ## Ljus
 
-Du kan välja mellan två typer av strålkastare för Volvo EX40 Single Motor. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
+Du kan välja mellan två typer av strålkastare för Volvo EX40 Single Motor.
+
+- Standardlamporna använder LED-teknik.
+- Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
+
+
 
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor/headlights_1_st.jpg" title="Volvo EX40 Single Motor" width="1080" height="1080"  >}}

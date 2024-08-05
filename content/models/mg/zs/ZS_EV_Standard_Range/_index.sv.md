@@ -190,7 +190,9 @@ Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutninga
 
 ## Ljus
 
-Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
+Standardlamporna använder LED-teknik.
+
+Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/headlights_1_st.jpg" title="MG ZS EV Standard Range" width="2560" height="1673"  >}}

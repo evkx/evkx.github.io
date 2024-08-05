@@ -183,6 +183,10 @@ Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 
 ## Lys
 
+Standardlyktene bruker LED-teknologi.
+
+I tillegg bruker standard baklykter LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 MG MG4 Electric XPOWER har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.

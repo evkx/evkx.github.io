@@ -192,6 +192,8 @@ Modellen har 4 USB-C-forbindelser som standard.
 
 Standardlygterne bruger LED-teknologi.
 
+Derudover bruger standardbaglygterne LED-teknologi.
+
 
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_endurance/headlights_1_st.JPG" title="CUPRA Tavascan Endurance" width="3000" height="1673"  >}}
 

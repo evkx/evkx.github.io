@@ -197,6 +197,8 @@ Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 
 Standardlyktene bruker LED-teknologi.
 
+I tillegg bruker standard baklykter LED-teknologi.
+
 
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/headlights_1_st.jpg" title="Lucid Air Grand Touring" width="3000" height="2001"  >}}
 

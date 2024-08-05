@@ -251,7 +251,12 @@ The model has 2 USB-C connections as standard. As an option, you can get additio
 
 ## Lights
 
-You can choose between two types of headlights for the Audi Q6 e-tron quattro. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+You can choose between two types of headlights for the Audi Q6 e-tron quattro.
+
+- The standard headlights use LED technology.
+- Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+
+The standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/headlights_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}

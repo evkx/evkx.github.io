@@ -216,7 +216,12 @@ El modelo tiene 6 conexiones USB-C de serie.
 
 ## Luces
 
-Puedes elegir entre dos tipos de faros para el BMW i7 xDrive60. Los faros estándar utilizan tecnología LED. Los faros basados en LED Matrix con tecnología láser están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apague individualmente para apagar las áreas pequeñas en el frente. Además, las luces traseras estándar utilizan tecnología LED.
+Puedes elegir entre dos tipos de faros para el BMW i7 xDrive60.
+
+- Los faros estándar utilizan tecnología LED.
+- Los faros basados en LED Matrix con tecnología láser están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apague individualmente para apagar las áreas pequeñas en el frente.
+
+Además, las luces traseras estándar utilizan tecnología LED.
 
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/headlights_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999"  >}}

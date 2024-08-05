@@ -192,7 +192,9 @@ Puedes elegir entre tres sistemas de sonido en el Ford F150 Lightning Extended R
 
 ## Luces
 
+Los faros estándar utilizan tecnología LED.
 
+Además, las luces traseras estándar utilizan tecnología LED.
 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/headlights_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}

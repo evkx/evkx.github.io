@@ -192,6 +192,8 @@ El modelo tiene 4 conexiones USB-C de serie.
 
 Los faros estándar utilizan tecnología LED.
 
+Además, las luces traseras estándar utilizan tecnología LED.
+
 
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/headlights_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="1976"  >}}
 

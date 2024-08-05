@@ -185,6 +185,8 @@ Le modèle dispose de 4 connexions USB-C en standard.
 
 ## Lumières
 
+Les phares standards utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le XPENG G6 AWD Performance dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.

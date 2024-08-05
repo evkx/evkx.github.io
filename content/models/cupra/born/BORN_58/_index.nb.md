@@ -192,6 +192,8 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 
 Standardlyktene bruker LED-teknologi.
 
+I tillegg bruker standard baklykter LED-teknologi.
+
 
 {{< sitefiguresized thumb="models/cupra/born/born_58/headlights_1_st.jpg" title="CUPRA BORN 58" width="3000" height="1976"  >}}
 

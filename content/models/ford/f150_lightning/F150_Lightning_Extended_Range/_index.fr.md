@@ -192,7 +192,9 @@ Vous pouvez choisir entre trois systèmes audio sur le Ford F150 Lightning Exten
 
 ## Lumières
 
+Les phares standards utilisent la technologie LED.
 
+De plus, les feux arrière standard utilisent la technologie LED.
 
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/headlights_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}

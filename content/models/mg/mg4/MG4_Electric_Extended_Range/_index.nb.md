@@ -183,7 +183,9 @@ Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 
 ## Lys
 
+Standardlyktene bruker LED-teknologi.
 
+I tillegg bruker standard baklykter LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/headlights_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2000"  >}}

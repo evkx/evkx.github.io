@@ -183,7 +183,9 @@ Modellen har 5 USB-C-forbindelser som standard.
 
 ## Lys
 
+Standardlygterne bruger LED-teknologi.
 
+Derudover bruger standardbaglygterne LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/headlights_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}

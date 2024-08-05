@@ -183,7 +183,9 @@ Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 1 co
 
 ## Lumières
 
+Les phares standards utilisent la technologie LED.
 
+De plus, les feux arrière standard utilisent la technologie LED.
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/headlights_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2000"  >}}

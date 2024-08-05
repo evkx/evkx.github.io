@@ -215,6 +215,8 @@ The model has 2 USB-C connections as standard. As an option, you can get additio
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
+The standard taillights use LED technology.
+
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/headlights_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="2000"  >}}
 

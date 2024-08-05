@@ -191,6 +191,8 @@ El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 
 Los faros estándar utilizan tecnología LED.
 
+Además, las luces traseras estándar utilizan tecnología LED.
+
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/headlights_1_st.jpg" title="Lucid Air Pure" width="2000" height="1334"  >}}
 

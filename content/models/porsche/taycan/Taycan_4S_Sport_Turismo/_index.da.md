@@ -238,7 +238,12 @@ Du kan vælge mellem tre lydsystemer på Porsche Taycan 4S Sport Turismo.
 
 ## Lys
 
-Du kan vælge mellem to typer forlygter til Porsche Taycan 4S Sport Turismo. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
+Du kan vælge mellem to typer forlygter til Porsche Taycan 4S Sport Turismo.
+
+- Standardlygterne bruger LED-teknologi.
+- Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
+
+Derudover bruger standardbaglygterne LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1688"  >}}

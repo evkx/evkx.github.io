@@ -190,7 +190,9 @@ Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 3 co
 
 ## Lumières
 
-Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
+Les phares standards utilisent la technologie LED.
+
+De plus, les feux arrière standard utilisent la technologie LED.
 
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_comfort/headlights_1_st.jpg" title="Hongqi E-HS9 Comfort" width="851" height="686"  >}}

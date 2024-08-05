@@ -180,7 +180,12 @@ Modellen har 1 USB-C-forbindelser som standard.
 
 ## Lys
 
-Du kan vælge mellem to typer forlygter til Volvo EC40 Single Motor ER. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
+Du kan vælge mellem to typer forlygter til Volvo EC40 Single Motor ER.
+
+- Standardlygterne bruger LED-teknologi.
+- Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
+
+
 
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/headlights_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2184"  >}}

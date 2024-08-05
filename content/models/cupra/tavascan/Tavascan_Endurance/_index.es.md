@@ -192,6 +192,8 @@ El modelo tiene 4 conexiones USB-C de serie.
 
 Los faros estándar utilizan tecnología LED.
 
+Además, las luces traseras estándar utilizan tecnología LED.
+
 
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_endurance/headlights_1_st.JPG" title="CUPRA Tavascan Endurance" width="3000" height="1673"  >}}
 

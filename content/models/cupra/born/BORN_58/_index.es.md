@@ -192,6 +192,8 @@ El modelo tiene 4 conexiones USB-C de serie.
 
 Los faros estándar utilizan tecnología LED.
 
+Además, las luces traseras estándar utilizan tecnología LED.
+
 
 {{< sitefiguresized thumb="models/cupra/born/born_58/headlights_1_st.jpg" title="CUPRA BORN 58" width="3000" height="1976"  >}}
 

@@ -202,7 +202,12 @@ The model has 4 USB-C connections as standard.
 
 ## Lights
 
-You can choose between two types of headlights for the Peugot E-5008 Long Range. The standard headlights use LED technology. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+You can choose between two types of headlights for the Peugot E-5008 Long Range.
+
+- The standard headlights use LED technology.
+- The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+
+The standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/headlights_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="2000"  >}}

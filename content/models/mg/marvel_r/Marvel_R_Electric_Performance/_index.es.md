@@ -183,7 +183,9 @@ El modelo tiene 4 conexiones USB-A de serie.
 
 ## Luces
 
+Los faros estándar utilizan tecnología LED.
 
+Además, las luces traseras estándar utilizan tecnología LED.
 
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/headlights_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1701"  >}}

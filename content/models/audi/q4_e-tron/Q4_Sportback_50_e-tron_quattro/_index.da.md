@@ -215,7 +215,12 @@ Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderl
 
 ## Lys
 
-Du kan vælge mellem to typer forlygter til Audi Q4 Sportback 50 e-tron quattro. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Desuden kan du vælge mellem to typer baglygter.
+Du kan vælge mellem to typer forlygter til Audi Q4 Sportback 50 e-tron quattro.
+
+- Standardlygterne bruger LED-teknologi.
+- Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
+
+Desuden kan du vælge mellem to typer baglygter.
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2000"  >}}

@@ -277,7 +277,12 @@ Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obt
 
 ## Lumières
 
-Vous pouvez choisir entre deux types de phares pour le Audi Q8 e-tron edition Dakar. Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant. Des phares basés sur la technologie LED Digital Matrix sont disponibles en option. De plus, les feux arrière standard utilisent la technologie LED.
+Vous pouvez choisir entre deux types de phares pour le Audi Q8 e-tron edition Dakar.
+
+- Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
+- Des phares basés sur la technologie LED Digital Matrix sont disponibles en option.
+
+De plus, les feux arrière standard utilisent la technologie LED.
 
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/headlights_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2000"  >}}

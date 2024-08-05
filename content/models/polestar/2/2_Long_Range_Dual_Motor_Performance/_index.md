@@ -185,7 +185,12 @@ The model has 4 USB-C connections as standard.
 
 ## Lights
 
-You can choose between two types of headlights for the Polestar 2 Long Range Dual Motor Performance. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+You can choose between two types of headlights for the Polestar 2 Long Range Dual Motor Performance.
+
+- The standard headlights use LED technology.
+- Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+
+
 
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/headlights_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="1766"  >}}

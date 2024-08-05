@@ -219,7 +219,12 @@ Vous pouvez choisir entre deux systèmes audio sur le Jaguar I-Pace EV400.
 
 ## Lumières
 
-Vous pouvez choisir entre deux types de phares pour le Jaguar I-Pace EV400. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
+Vous pouvez choisir entre deux types de phares pour le Jaguar I-Pace EV400.
+
+- Les phares standards utilisent la technologie LED.
+- Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
+
+De plus, les feux arrière standard utilisent la technologie LED.
 
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/headlights_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}

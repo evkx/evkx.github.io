@@ -209,6 +209,8 @@ Modellen har 4 USB-C-forbindelser som standard.
 
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
+Derudover bruger standardbaglygterne LED-teknologi.
+
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion/headlights_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION" width="3000" height="1687"  >}}
 

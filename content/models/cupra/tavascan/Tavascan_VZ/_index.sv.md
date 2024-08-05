@@ -192,6 +192,8 @@ Modellen har 4 USB-C-anslutningar som standard.
 
 Standardlamporna använder LED-teknik.
 
+Dessutom använder standardbakljusen LED-teknik.
+
 
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_vz/headlights_1_st.JPG" title="CUPRA Tavascan VZ" width="3000" height="1673"  >}}
 

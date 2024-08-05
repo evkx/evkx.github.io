@@ -190,6 +190,10 @@ Le modèle dispose de 4 connexions USB-C en standard.
 
 ## Lumières
 
+Les phares standards utilisent la technologie LED.
+
+De plus, les feux arrière standard utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Chevrolet Silverado EV 3WT dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.

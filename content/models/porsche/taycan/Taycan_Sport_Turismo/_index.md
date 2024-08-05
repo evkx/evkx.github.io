@@ -255,7 +255,12 @@ You can choose between three sound systems on the Porsche Taycan Sport Turismo.
 
 ## Lights
 
-You can choose between two types of headlights for the Porsche Taycan Sport Turismo. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+You can choose between two types of headlights for the Porsche Taycan Sport Turismo.
+
+- The standard headlights use LED technology.
+- Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+
+The standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan Sport Turismo" width="3000" height="2000"  >}}

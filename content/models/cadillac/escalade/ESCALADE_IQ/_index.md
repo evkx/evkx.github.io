@@ -196,6 +196,10 @@ The model has 2 USB-C connections as standard. The model has 2 USB-A connections
 
 ## Lights
 
+The standard headlights use LED technology.
+
+The standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Cadillac ESCALADE IQ has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

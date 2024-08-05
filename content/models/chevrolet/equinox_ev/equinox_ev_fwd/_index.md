@@ -193,7 +193,9 @@ The model has 5 USB-C connections as standard.
 
 ## Lights
 
+The standard headlights use LED technology.
 
+The standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/headlights_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2000"  >}}

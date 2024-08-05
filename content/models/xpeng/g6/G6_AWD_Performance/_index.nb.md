@@ -185,6 +185,8 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 
 ## Lys
 
+Standardlyktene bruker LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 XPENG G6 AWD Performance har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.

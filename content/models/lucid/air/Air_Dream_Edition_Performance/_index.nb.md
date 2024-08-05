@@ -197,6 +197,8 @@ Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 
 Standardlyktene bruker LED-teknologi.
 
+I tillegg bruker standard baklykter LED-teknologi.
+
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/headlights_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="2001"  >}}
 

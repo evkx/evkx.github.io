@@ -194,6 +194,10 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 
 ## Lys
 
+Standardlyktene bruker LED-teknologi.
+
+I tillegg bruker standard baklykter LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 XPENG G9 RWD Standard Range har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.

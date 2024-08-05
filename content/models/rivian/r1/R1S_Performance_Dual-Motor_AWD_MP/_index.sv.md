@@ -194,6 +194,8 @@ Modellen har 6 USB-C-anslutningar som standard.
 
 Standardlamporna använder LED-teknik.
 
+Dessutom använder standardbakljusen LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 Rivian R1S Performance Dual-Motor AWD MP har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.

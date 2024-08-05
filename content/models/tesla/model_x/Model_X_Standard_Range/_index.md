@@ -192,6 +192,8 @@ One type of sound system is available for the Tesla Model X Standard Range.
 
 The standard headlights use LED technology.
 
+The standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Tesla Model X Standard Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

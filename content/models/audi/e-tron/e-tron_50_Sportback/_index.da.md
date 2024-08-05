@@ -281,7 +281,13 @@ Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderl
 
 ## Lys
 
-Du kan vælge mellem tre typer forlygter til Audi e-tron 50 Sportback. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Forlygter baseret på LED Digital Matrix-teknologi er tilgængelig som ekstraudstyr. Derudover bruger standardbaglygterne LED-teknologi.
+Du kan vælge mellem tre typer forlygter til Audi e-tron 50 Sportback.
+
+- Standardlygterne bruger LED-teknologi.
+- Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
+- Forlygter baseret på LED Digital Matrix-teknologi er tilgængelig som ekstraudstyr.
+
+Derudover bruger standardbaglygterne LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50_sportback/headlights_1_st.jpg" title="Audi e-tron 50 Sportback" width="3000" height="2249"  >}}

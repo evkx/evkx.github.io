@@ -195,7 +195,9 @@ Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 3 USB-A-tilkoblinge
 
 ## Lys
 
-Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
+Standardlyktene bruker LED-teknologi.
+
+I tillegg bruker standard baklykter LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/headlights_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}

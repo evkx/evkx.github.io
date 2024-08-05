@@ -194,6 +194,8 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 ## Lys
 
+Standardlygterne bruger LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 XPENG G9 RWD Long Range har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.

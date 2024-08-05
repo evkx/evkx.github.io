@@ -237,7 +237,12 @@ The model has 4 USB-C connections as standard.
 
 ## Lights
 
-You can choose between two types of headlights for the Mercedes-AMG EQE 53 4MATIC+ SUV. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+You can choose between two types of headlights for the Mercedes-AMG EQE 53 4MATIC+ SUV.
+
+- The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+- Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+
+The standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_53_4maticplus_suv/headlights_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+ SUV" width="3000" height="1999"  >}}

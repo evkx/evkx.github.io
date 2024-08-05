@@ -179,7 +179,12 @@ The model has 1 USB-C connections as standard.
 
 ## Lights
 
-You can choose between two types of headlights for the Volvo XC40 Recharge Single Motor. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+You can choose between two types of headlights for the Volvo XC40 Recharge Single Motor.
+
+- The standard headlights use LED technology.
+- Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+
+
 
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/headlights_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="1080" height="1080"  >}}

@@ -194,7 +194,12 @@ The model has 4 USB-C connections as standard.
 
 ## Lights
 
-You can choose between two types of headlights for the Peugot E-3008. The standard headlights use LED technology. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+You can choose between two types of headlights for the Peugot E-3008.
+
+- The standard headlights use LED technology.
+- The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+
+The standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/headlights_1_st.jpg" title="Peugot E-3008" width="3000" height="2250"  >}}

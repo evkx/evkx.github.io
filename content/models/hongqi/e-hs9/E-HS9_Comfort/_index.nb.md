@@ -190,7 +190,9 @@ Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 3 USB-A-tilkoblinge
 
 ## Lys
 
-Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
+Standardlyktene bruker LED-teknologi.
+
+I tillegg bruker standard baklykter LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_comfort/headlights_1_st.jpg" title="Hongqi E-HS9 Comfort" width="851" height="686"  >}}

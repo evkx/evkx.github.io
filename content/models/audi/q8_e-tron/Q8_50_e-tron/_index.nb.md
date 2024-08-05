@@ -275,7 +275,13 @@ Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 
 ## Lys
 
-Du kan velge mellom tre typer frontlykter for Audi Q8 50 e-tron. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. Hovedlys basert på LED Digital Matrix-teknologi er tilgjengelig som ekstrautstyr. I tillegg bruker standard baklykter LED-teknologi.
+Du kan velge mellom tre typer frontlykter for Audi Q8 50 e-tron.
+
+- Standardlyktene bruker LED-teknologi.
+- Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
+- Hovedlys basert på LED Digital Matrix-teknologi er tilgjengelig som ekstrautstyr.
+
+I tillegg bruker standard baklykter LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_50_e-tron/headlights_1_st.jpg" title="Audi Q8 50 e-tron" width="2557" height="1353"  >}}
