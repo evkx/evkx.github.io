@@ -26,7 +26,6 @@ Vi har opdelt vores Tesla Model S artikel i sektioner. Hvis du vil vente med at 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Tesla Model S imponerer med en maksimal effekt på 493 kW (670 hk) og et imponerende samlet drejningsmoment på 800 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3,2 sekunder og har en topfart på 250 km/h, hvilket gør den til en standout i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er i [venstre bageste hjørne](../../../../technology/
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Tesla Model S har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en standard-funktion på Tesla Model S. Dynamisk styring var
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 355mm, og de bagerste skiver er 355mm.
-
 
 ### Regenerativ bremsning
 
@@ -101,9 +97,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -124,7 +118,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
-
 
 
 #### Sæde på anden række
@@ -162,7 +155,6 @@ Tesla Model S inkluderer flere funktioner, der forbedrer komfort og bekvemmeligh
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Tesla Model S har to skærme med information til føreren og passagererne og en tredje skærm bagpå til multimedier.
@@ -178,20 +170,24 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s/screens_1_st.jpg" title="Tesla Model S" width="3000" height="2000"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for Tesla Model S. Med Tesla Premium Sound får du 22 højttalere med en maksimal systemeffekt på 560 watt.
-
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 
 ## Lys
 
 Standardlygterne bruger LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 Tesla Model S har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -233,7 +229,6 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere køreauto
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

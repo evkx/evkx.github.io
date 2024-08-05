@@ -26,7 +26,6 @@ Nous avons séparé notre article Chevrolet Equinox EV AWD en sections. Si vous 
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Chevrolet Equinox EV AWD offre des performances solides avec une puissance maximale de 215 kW (292 ch) et un couple total de 469 Nm. Elle peut accélérer de 0 à 100 km/h en 5,9 secondes et atteindre une vitesse maximale de 210 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Chevrolet Equinox EV AWD dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) au niveau de l'essieu avant et des [Moteurs à induction](../../../../technology/motors/asm/) sur l'essieu arrière.
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cet
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 321 mm et les disques arrière mesurent 345 mm.
-
 
 ### Freinage régénératif
 
@@ -94,13 +90,10 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 
-
 ### Sièges
-
 
 
 #### Sièges de première rangée
@@ -123,7 +116,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/frontseats_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="1999"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -161,7 +153,6 @@ L'Chevrolet Equinox EV AWD comprend plusieurs fonctionnalités pour améliorer l
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Chevrolet Equinox EV AWD possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -182,11 +173,20 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Chevrolet Equinox EV AWD prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Vous pouvez choisir entre deux systèmes audio sur le Chevrolet Equinox EV AWD. Avec le Lyric sound system, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts. Avec le Lyric sound system, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Chevrolet Equinox EV AWD prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 5 connexions USB-C en standard.
+
 ## Lumières
 
 
@@ -197,6 +197,7 @@ Le modèle dispose de 5 connexions USB-C en standard.
 ## Systèmes avancés d'aide à la conduite
 
 Le Chevrolet Equinox EV AWD dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -224,7 +225,6 @@ Avec le système Super Cruise  niveau 2, vous bénéficiez de fonctionnalités d
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

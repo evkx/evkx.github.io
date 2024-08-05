@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av SKODA Enyaq iV80 i seksjoner. Hvis du vil vente 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 SKODA Enyaq iV80 tilbyr beskjedne ytelser med en maksimal effekt på 150 kW (204 hk) og et totalt dreiemoment på 310 Nm. Den akselererer fra 0 til 100 km/t på 8,6 sekunder og har en toppfart på 160 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80/charging_1_st.jpg" title="SKODA Enyaq iV80" width="3000" height="2000"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
@@ -56,11 +54,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 SKODA Enyaq iV80 har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -75,7 +71,6 @@ Dynamisk styring er tilvalg-funksjonen på SKODA Enyaq iV80. Dynamisk styring va
 ### Bremser
 
 SKODA Enyaq iV80 bruker [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremsekraft og varmespredning, mens [trommelbremser](../../../../technology/brakes/#trommelbremser) brukes bak for kostnadseffektivitet og holdbarhet. Trommelbremser gir tilstrekkelig ytelse for bakhjulene, krever mindre vedlikehold og integreres sømløst med kjøretøyets regenererende bremsesystem. Denne kombinasjonen sikrer optimal bremseytelse og kostnadseffektivitet, i tråd med EV-ens overordnede effektivitetsmål. De fremre skivene er 358mm.
-
 
 ### Regenerativ bremsing
 
@@ -106,9 +101,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -149,7 +142,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80/frontseats_1_st.jpg" title="SKODA Enyaq iV80" width="3000" height="1999"  >}}
 
-
 #### Seter på andre rad
 
 
@@ -184,7 +176,6 @@ SKODA Enyaq iV80 inkluderer flere funksjoner for å forbedre komfort og bekvemme
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 SKODA Enyaq iV80 har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
@@ -200,14 +191,22 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80/screens_1_st.jpg" title="SKODA Enyaq iV80" width="3000" height="1999"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter SKODA Enyaq iV80 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan velge mellom to lydsystemer på SKODA Enyaq iV80. Med Sound system får du åtte høyttalere med en maksimal systemeffekt på 80 watt. Med Canton Soundsystem får du ti høyttalere med en maksimal systemeffekt på 550 watt.
 
-I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter SKODA Enyaq iV80 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
+
 ## Lys
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
@@ -220,6 +219,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 SKODA Enyaq iV80 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -251,7 +251,6 @@ Med MAX  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

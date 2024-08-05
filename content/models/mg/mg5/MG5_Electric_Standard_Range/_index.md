@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The MG MG5 Electric Standard Range offers modest performance with a maximum power of 115 kW (156 hp / 154 bhp) and a total torque of 280 Nm (207 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.3 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/charging_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="2001"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [front](../../../../technology/charging/connectors/#front). This location makes it easy to use charge stations where you need to park with the front in. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [front](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 MG MG5 Electric Standard Range has a front-wheel drive system supported by one motor on the front axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +65,6 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -93,13 +88,11 @@ There is only one roof for this model.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
 
 ### Seats
-
 
 
 #### First row seats
@@ -119,7 +112,6 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/frontseats_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="2005"  >}}
-
 
 #### Second-row seat
 
@@ -154,7 +146,6 @@ The MG MG5 Electric Standard Range includes several features to enhance comfort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The MG MG5 Electric Standard Range has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -175,7 +166,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -189,12 +179,13 @@ Furthermore, the MG MG5 Electric Standard Range supports Android Auto and Apple 
 One type of sound system is available for the MG MG5 Electric Standard Range. With the , you get six speakers with a max system output of  watts.
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
-## Lights
 
+## Lights
 
 ## Advanced driver assistance systems
 
 The MG MG5 Electric Standard Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -211,7 +202,6 @@ With the   level 2 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av XPENG P7 AWD Performance i avsnitt. Om du vi
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 XPENG P7 AWD Performance imponerar med en imponerande kraft på 405 kW (551 hk) och ett imponerande totalt vridmoment på 717 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,9 sekunder och når en topphastighet på 205 km/h, vilket gör den till en stjärna i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 XPENG P7 AWD Performance har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -65,7 +62,6 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bromsning
 
@@ -92,9 +88,7 @@ B-stolpen och vyerna bak är tonade.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -120,7 +114,6 @@ Följande funktioner är tillgängliga på **** sätet.
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Beige [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-
 
 
 #### Säten på andra raden
@@ -155,7 +148,6 @@ XPENG P7 AWD Performance inkluderar flera funktioner för att förbättra komfor
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 XPENG P7 AWD Performance har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
@@ -176,17 +168,20 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för XPENG P7 AWD Performance. Med  får du åtta högtalare med en maximal systemeffekt på 500 watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### header.soundsystem
+
+En typ av ljudsystem är tillgänglig för XPENG P7 AWD Performance. Med  får du åtta högtalare med en maximal systemeffekt på 500 watt.
 
 ## Ljus
-
 
 ## Avancerade förarassistanssystem
 
 XPENG P7 AWD Performance har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -218,7 +213,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

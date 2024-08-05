@@ -32,7 +32,6 @@ Denne model er blevet erstattet af [Audi Q8 50 e-tron](/models/audi/q8_e-tron/q8
 
 </div>
 
-
 ## Ydeevne
 
 Audi e-tron 50 leverer en solid præstation med en maksimal effekt på 230 kW (313 hk) og et totalt drejningsmoment på 540 Nm. Den kan accelerere fra 0 til 100 km/t på 6,8 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -58,11 +57,9 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Audi e-tron 50 har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/).
-
 
 ### Hjulophæng
 
@@ -86,11 +83,9 @@ Audi e-tron 50 lader brugeren vælge forskellige [drive modes](../../../../techn
 - Auto: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
 - Custom: Brugerdefineret styring, affjedring og gasrespons.
 
-
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 375mm, og de bagerste skiver er 350mm.
-
 
 ### Regenerativ bremsning
 
@@ -125,9 +120,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -212,7 +205,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50/frontseats_1_st.jpg" title="Audi e-tron 50" width="3000" height="1999"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -247,7 +239,6 @@ Audi e-tron 50 inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Audi e-tron 50 har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er to forskellige [infotainment-skærme](../../../../technology/userinterface/screens/#infotainment-skærm).
@@ -264,14 +255,22 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50/screens_1_st.jpg" title="Audi e-tron 50" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Audi e-tron 50 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Audi e-tron 50. Med Audi Sound system får du ti højttalere med en maksimal systemeffekt på 180 watt. Med Bang & Olufsen Sound System får du 16 højttalere med en maksimal systemeffekt på 700 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Audi e-tron 50 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+
 ## Lys
 
 Du kan vælge mellem tre typer forlygter til Audi e-tron 50. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Forlygter baseret på LED Digital Matrix-teknologi er tilgængelig som ekstraudstyr. Derudover bruger standardbaglygterne LED-teknologi.
@@ -284,6 +283,7 @@ Du kan vælge mellem tre typer forlygter til Audi e-tron 50. Standardlygterne br
 Audi e-tron 50 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -325,7 +325,6 @@ Denne model bruger kameraer, radar og ultralydssensorer til førerassistentsyste
 Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydssensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt, hvad der sker i køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

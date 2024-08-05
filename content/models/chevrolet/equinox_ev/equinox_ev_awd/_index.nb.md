@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Chevrolet Equinox EV AWD i seksjoner. Hvis du vi
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Chevrolet Equinox EV AWD leverer solid ytelse med en maksimal effekt på 215 kW (292 hk) og et totalt dreiemoment på 469 Nm. Den kan akselerere fra 0 til 100 km/t på 5,9 sekunder og når en topphastighet på 210 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Chevrolet Equinox EV AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på forakselen og [induksjonsmotorer](../../../../technology/motors/asm/) på bakakselen.
-
 
 ### Hjuloppheng
 
@@ -65,7 +62,6 @@ Chevrolet Equinox EV AWD har et firehjulsdriftssystem som støttes av to motorer
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 321mm, og de bakre skivene er 345mm.
-
 
 ### Regenerativ bremsing
 
@@ -94,13 +90,10 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 
-
 ### Seter
-
 
 
 #### Forseter
@@ -123,7 +116,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/frontseats_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="1999"  >}}
-
 
 #### Seter på andre rad
 
@@ -161,7 +153,6 @@ Chevrolet Equinox EV AWD inkluderer flere funksjoner for å forbedre komfort og 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Chevrolet Equinox EV AWD har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
@@ -182,11 +173,20 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Chevrolet Equinox EV AWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan velge mellom to lydsystemer på Chevrolet Equinox EV AWD. Med Lyric sound system får du syv høyttalere med en maksimal systemeffekt på  watt. Med Lyric sound system får du syv høyttalere med en maksimal systemeffekt på  watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Chevrolet Equinox EV AWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 5 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 
@@ -197,6 +197,7 @@ Modellen har 5 USB-C-tilkoblinger som standard.
 ## Avanserte førerassistentsystemer
 
 Chevrolet Equinox EV AWD har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -224,7 +225,6 @@ Med Super Cruise  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

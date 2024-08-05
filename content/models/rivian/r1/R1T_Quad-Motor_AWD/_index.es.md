@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Rivian R1T Quad-Motor AWD en secciones. Si dese
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Rivian R1T Quad-Motor AWD entrega una impresionante potencia máxima de 620 kW (843 hp) y un enorme torque de 1231 Nm. Este monstruo puede acelerar de 0 a 100 km/h en solo 3,1 segundos, demostrando su asombrosa aceleración. Además, alcanza una velocidad máxima de 201 km/h, lo que lo convierte en una verdadera maravilla de la ingeniería y el rendimiento.
@@ -49,7 +48,6 @@ El cargador a bordo estándar soporta hasta 11,5 kW para carga AC de Nivel 1 y N
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/charging_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2048" height="1280"  >}}
 
-
 ### Puerto de carga
 
 La ubicación del puerto de carga está en la [esquina frontal izquierda](../../../../technology/charging/connectors/#esquina-frontal). Esta ubicación facilita el uso de las estaciones de carga donde es necesario estacionar con la parte delantera hacia adentro. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
@@ -57,11 +55,9 @@ La ubicación del puerto de carga está en la [esquina frontal izquierda](../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Rivian R1T Quad-Motor AWD tiene un sistema de tracción total sostenido por cuatro motores. Uno para cada rueda.
-
 
 ### Suspensión
 
@@ -70,7 +66,6 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 343 mm y los discos traseros de 328 mm.
-
 
 ### Frenado regenerativo
 
@@ -98,9 +93,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -124,7 +117,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Green [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Blue [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Asiento de segunda fila
@@ -160,7 +152,6 @@ El Rivian R1T Quad-Motor AWD incluye varias características para mejorar la com
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Rivian R1T Quad-Motor AWD tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
@@ -181,11 +172,16 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el Rivian R1T Quad-Motor AWD. Con el Rivian Elevation audio system, obtienes 22 parlantes con una salida máxima del sistema de 1100 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
-
 El modelo tiene 8 conexiones USB-C de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED.
@@ -196,6 +192,7 @@ Los faros estándar utilizan tecnología LED.
 ## Sistemas avanzados de asistencia al conductor
 
 El Rivian R1T Quad-Motor AWD tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -224,7 +221,6 @@ Con el sistema Driver+  nivel 2, obtienes las siguientes funciones de automatiza
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Volkswagen ID.3 GTX i avsnitt. Om du vill v�
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Volkswagen ID.3 GTX levererar en solid prestanda med en maximal effekt på 210 kW (286 hk) och ett totalt vridmoment på 545 Nm. Den kan accelerera från 0 till 100 km/h på 6 sekunder och når en topphastighet på 180 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Volkswagen ID.3 GTX har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [induktionsmotor](../../../../technology/motors/asm/).
-
 
 ### Hjulupphängning
 
@@ -69,7 +66,6 @@ Dynamisk styrning är valfritt-funktionen för Volkswagen ID.3 GTX. Dynamisk sty
 ### Bromsar
 
 SKODA Elroq 85x använder [skivbromsar](../../../../technology/brakes/#disc-brakes) fram för överlägsen bromskraft och värmeavledning, medan [trumbromsar](../../../../technology/brakes/#trumbromsar) används bak för kostnadseffektivitet och hållbarhet. Trumbromsar ger tillräcklig prestanda för bakhjulen, kräver mindre underhåll och integreras sömlöst med fordonets regenerativa bromssystem. Denna kombination säkerställer optimal bromsprestanda och kostnadseffektivitet, i linje med elbilens övergripande effektivitetsmål. De främre skivorna är 358mm.
-
 
 ### Regenerativ bromsning
 
@@ -100,9 +96,7 @@ B-stolpen och vyerna bak är tonade.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -125,7 +119,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/frontseats_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
-
 
 #### Säten på andra raden
 
@@ -158,7 +151,6 @@ Volkswagen ID.3 GTX inkluderar flera funktioner för att förbättra komfort och
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Två olika skärmlayouter är tillgängliga på Volkswagen ID.3 GTX.
@@ -185,14 +177,22 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/screens_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Volkswagen ID.3 GTX Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan välja mellan två ljudsystem på Volkswagen ID.3 GTX. Med Sound system får du fem högtalare med en maximal systemeffekt på 140 watt. Med Volkswagen Soundsystem får du sju högtalare med en maximal systemeffekt på 450 watt.
 
-Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Volkswagen ID.3 GTX Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Volkswagen ID.3 GTX. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
@@ -205,6 +205,7 @@ Du kan välja mellan två typer av strålkastare för Volkswagen ID.3 GTX. Stand
 Volkswagen ID.3 GTX har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -245,12 +246,12 @@ Med Assistantpackage plus  nivå 2-systemet får du fler körautomatiseringsfunk
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastkapaciteten i bagageutrymmet är 385 liter. Med baksätet nedfällt är det 1267 liter. På taket kan du lasta upp till 0 kg. Bilens maximala vikt är 2420 kg, och med basvikten på 1884 kg kan du lasta maximalt 536 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+
 ### Tillgänglighet och pris
 
 <div class="mt-3 mb-3">

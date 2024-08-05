@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Nissan Ariya 63kWh offers modest performance with a maximum power of 160 kW (218 hp / 215 bhp) and a total torque of 300 Nm (221 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.5 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -52,11 +51,9 @@ The charge port is conveniently located on the [right front side](../../../../te
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Nissan Ariya 63kWh has a front-wheel drive system supported by one motor on the front axle. The motor used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is an optional feature on the Nissan Ariya 63kWh. Dynamic steer
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -99,7 +95,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
@@ -126,7 +121,6 @@ You can choose from 5 different materials/colors for this seat type.
 - Gray [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Black [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
-
 
 
 #### Second-row seat
@@ -161,7 +155,6 @@ The Nissan Ariya 63kWh includes several features to enhance comfort and convenie
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Nissan Ariya 63kWh has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -182,7 +175,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -195,13 +187,14 @@ Furthermore, the Nissan Ariya 63kWh supports Android Auto and Apple CarPlay. Thi
 
 You can choose between two sound systems on the Nissan Ariya 63kWh. With the DAB Audiosystem, you get six speakers with a max system output of  watts. With the BOSE Premium Sound System, you get ten speakers with a max system output of  watts.
 
-
 ## Lights
 
 You can choose between two types of headlights for the Nissan Ariya 63kWh. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+
 ## Advanced driver assistance systems
 
 The Nissan Ariya 63kWh has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -231,7 +224,6 @@ With the ProPILOT  level 2 system, you get the following driving automation feat
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

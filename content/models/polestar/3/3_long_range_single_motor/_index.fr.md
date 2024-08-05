@@ -26,7 +26,6 @@ Nous avons séparé notre article Polestar 3 Long Range Single Motor en sections
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Polestar 3 Long Range Single Motor offre des performances solides avec une puissance maximale de 220 kW (299 ch) et un couple total de 490 Nm. Elle peut accélérer de 0 à 100 km/h en 7,8 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Polestar 3 Long Range Single Motor dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 400 mm et les disques arrière mesurent 390 mm.
-
 
 ### Freinage régénératif
 
@@ -90,7 +86,6 @@ Il existe deux options de toit différentes à choisir. En option, vous pouvez c
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Intérieur
@@ -124,7 +119,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_single_motor/frontseats_1_st.jpg" title="Polestar 3 Long Range Single Motor" width="3000" height="2249"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -162,7 +156,6 @@ L'Polestar 3 Long Range Single Motor comprend plusieurs fonctionnalités pour am
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Polestar 3 Long Range Single Motor possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
@@ -178,12 +171,14 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_single_motor/screens_1_st.jpg" title="Polestar 3 Long Range Single Motor" width="3000" height="2251"  >}}
 
-
 ## Infodivertissement
+
+### header.soundsystem
 
 Vous pouvez choisir entre deux systèmes audio sur le Polestar 3 Long Range Single Motor. Avec le High Performance, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts. Avec le Bowers & Wilkins, vous obtenez 25 haut-parleurs avec une puissance système maximale de 1610 watts.
 
 Le modèle dispose de 4 connexions USB-C en standard.
+
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le Polestar 3 Long Range Single Motor. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
@@ -196,6 +191,7 @@ Vous pouvez choisir entre deux types de phares pour le Polestar 3 Long Range Sin
 Le Polestar 3 Long Range Single Motor dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -220,7 +216,6 @@ Avec le système Pilot Assist  niveau 2, vous bénéficiez des fonctionnalités 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

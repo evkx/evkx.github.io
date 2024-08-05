@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Smart #1 delivers a solid performance with a maximum power of 315 kW (428 hp / 422 bhp) and a total torque of 584 Nm (431 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.9 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/charging_1_st.jpg" title="Smart #1" width="2000" height="1500"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Smart #1 has a rear-wheel drive system supported by one motor on the rear axle.
-
 
 ### Suspension
 
@@ -69,7 +65,6 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350mm, and the rear discs are 333mm.
-
 
 ### Regenerative braking
 
@@ -96,9 +91,7 @@ There are two different roof options to select from. The standard is just a regu
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -122,7 +115,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/frontseats_1_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
-
 
 #### Second-row seat
 
@@ -160,7 +152,6 @@ The Smart #1 includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 
@@ -175,9 +166,7 @@ A head-up display is a standard system that projects speed and other important d
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/screens_1_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -188,6 +177,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Smart #1. With the Yamaha surround sound system, you get 13 speakers with a max system output of 1040 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the Smart #1. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
@@ -200,6 +190,7 @@ You can choose between two types of headlights for the Smart #1. The standard he
 The Smart #1 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -230,7 +221,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The MG Marvel R Electric Performance delivers a solid performance with a maximum power of 212 kW (288 hp / 284 bhp) and a total torque of 665 Nm (491 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.9 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 MG Marvel R Electric Performance has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle.
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -91,13 +87,11 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
 
 ### Seats
-
 
 
 #### First row seats
@@ -117,7 +111,6 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/frontseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1999"  >}}
-
 
 #### Second-row seat
 
@@ -152,7 +145,6 @@ The MG Marvel R Electric Performance includes several features to enhance comfor
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 
@@ -172,7 +164,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -186,6 +177,7 @@ Furthermore, the MG Marvel R Electric Performance supports Android Auto and Appl
 One type of sound system is available for the MG Marvel R Electric Performance. With the , you get NULL speakers with a max system output of  watts.
 
 The model has 4 USB-A connections as standard.
+
 ## Lights
 
 
@@ -196,6 +188,7 @@ The model has 4 USB-A connections as standard.
 ## Advanced driver assistance systems
 
 The MG Marvel R Electric Performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -212,7 +205,6 @@ With the   level 2 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

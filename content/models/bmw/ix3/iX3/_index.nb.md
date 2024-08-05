@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av BMW iX3 i seksjoner. Hvis du vil vente med å le
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 BMW iX3 leverer solid ytelse med en maksimal effekt på 210 kW (286 hk) og et totalt dreiemoment på 400 Nm. Den kan akselerere fra 0 til 100 km/t på 6,8 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/charging_1_st.jpg" title="BMW iX3" width="3000" height="2070"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
@@ -56,11 +54,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 BMW iX3 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
-
 
 ### Hjuloppheng
 
@@ -71,7 +67,6 @@ Standard-fjæringen har stålfjærer med fast høyde, men du kan justere demping
 Dynamisk styring er standard-funksjonen på BMW iX3. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
-
 
 
 
@@ -105,9 +100,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -129,7 +122,6 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
-
 
 
 #### Seter på andre rad
@@ -168,7 +160,6 @@ BMW iX3 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 
@@ -183,20 +174,30 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/screens_1_st.jpg" title="BMW iX3" width="3000" height="2250"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter BMW iX3 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Én type lydsystem er tilgjengelig for BMW iX3. Med Harman Kardon Surround Sound system får du 16 høyttalere med en maksimal systemeffekt på 464 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter BMW iX3 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for BMW iX3. Standardlyktene bruker LED-teknologi. Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 BMW iX3 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -226,7 +227,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du følgende kjøreaut
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

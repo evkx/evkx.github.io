@@ -26,7 +26,6 @@ Vi har opdelt vores MG Marvel R Electric Performance artikel i sektioner. Hvis d
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 MG Marvel R Electric Performance leverer en solid præstation med en maksimal effekt på 212 kW (288 hk) og et totalt drejningsmoment på 665 Nm. Den kan accelerere fra 0 til 100 km/t på 4,9 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 MG Marvel R Electric Performance har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel.
-
 
 ### Hjulophæng
 
@@ -65,7 +62,6 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsning
 
@@ -91,13 +87,11 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Du kan vælge mellem forskellige typer sædematerialer og interiørdesign. Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
-
 
 
 #### Første række sæder
@@ -117,7 +111,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/frontseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1999"  >}}
-
 
 #### Sæde på anden række
 
@@ -152,7 +145,6 @@ MG Marvel R Electric Performance inkluderer flere funktioner, der forbedrer komf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 
@@ -172,11 +164,20 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter MG Marvel R Electric Performance Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for MG Marvel R Electric Performance. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter MG Marvel R Electric Performance Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 4 USB-A-forbindelser som standard.
+
 ## Lys
 
 
@@ -187,6 +188,7 @@ Modellen har 4 USB-A-forbindelser som standard.
 ## Avancerede førerassistentsystemer
 
 MG Marvel R Electric Performance har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -203,7 +205,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

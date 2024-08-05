@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 With overboost, the Porsche Macan 4S reaches a maximum power of 380 kW (517 hp / 510 bhp). Without overboost, it delivers 330 kW (449 hp / 443 bhp). The maximum torque is 820 Nm (605 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.1 seconds and reaches a top speed of 240 km/h (149 mph), demonstrating its solid performance.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/charging_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. Additionally, a second port on the [right rear side](../../../../technology/charging/connectors/#front-side) offers greater flexibility for AC charging. The connector types vary between the different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Porsche Macan 4S features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -73,7 +69,6 @@ Dynamic steering is a standard feature on the Porsche Macan 4S. Dynamic steering
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 410mm, and the rear discs are 365mm.
-
 
 ### Regenerative braking
 
@@ -117,9 +112,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -167,7 +160,6 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 You can choose from 4 different materials/colors for this seat type.
 
 
-
 #### Second-row seat
 
 
@@ -203,7 +195,6 @@ The Porsche Macan 4S includes several features to enhance comfort and convenienc
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Porsche Macan 4S has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat.
@@ -220,9 +211,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/screens_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -237,6 +226,7 @@ Furthermore, the Porsche Macan 4S supports Android Auto and Apple CarPlay. This 
 You can choose between two sound systems on the Porsche Macan 4S. With the  BOSE® Surround Sound System, you get 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 speakers with a max system output of 1470 watts.
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+
 ## Lights
 
 You can choose between two types of headlights for the Porsche Macan 4S. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -249,6 +239,7 @@ You can choose between two types of headlights for the Porsche Macan 4S. The sta
 The Porsche Macan 4S has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -285,7 +276,6 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

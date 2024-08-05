@@ -26,7 +26,6 @@ Nous avons séparé notre article Peugot E-3008 en sections. Si vous souhaitez a
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 L'Peugot E-3008 offre des performances modestes avec une puissance maximale de 157 kW (214 ch) et un couple total de 345 Nm. Il accélère de 0 à 100 km/h en 8,8 secondes et atteint une vitesse maximale de 170 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -52,18 +51,15 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Peugot E-3008 dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant.
-
 
 ### Suspension
 
 La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Torsion Beam](../../../../technology/suspension/#torsion-beam). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 198 mm.
 
 ### Freins
-
 
 
 
@@ -95,7 +91,6 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Intérieur
@@ -130,7 +125,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/frontseats_1_st.jpg" title="Peugot E-3008" width="3000" height="2250"  >}}
 
-
 #### Siège de deuxième rangée
 
 
@@ -163,7 +157,6 @@ L'Peugot E-3008 comprend plusieurs fonctionnalités pour améliorer le confort e
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Peugot E-3008 possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -179,14 +172,22 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/screens_1_st.jpg" title="Peugot E-3008" width="3000" height="2167"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Peugot E-3008 prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Vous pouvez choisir entre deux systèmes audio sur le Peugot E-3008. Avec le , vous obtenez six haut-parleurs avec une puissance système maximale de 100 watts. Avec le , vous obtenez dix haut-parleurs avec une puissance système maximale de 690 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Peugot E-3008 prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 4 connexions USB-C en standard.
+
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le Peugot E-3008. Les phares standards utilisent la technologie LED. Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
@@ -197,6 +198,7 @@ Vous pouvez choisir entre deux types de phares pour le Peugot E-3008. Les phares
 ## Systèmes avancés d'aide à la conduite
 
 Le Peugot E-3008 dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -230,12 +232,12 @@ Jusqu'à trois [capteurs radar](../../../../technology/sensorsandcameras/radar/)
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement dans le coffre est de 520 litres. Avec la banquette arrière rabattue, elle est de 1480 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Le poids maximum de la voiture est de 2640 kg (5820 lbs), et avec le poids de base de 2008 kg (4427 lbs), vous pouvez charger au maximum 632 kg (1393 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1250, et sur une remorque non freinée, il est de 750 kg (2756/1653 lbs).
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 12.09.2023 et les livraisons ont commencé en February 2024.<div class="mt-3 mb-3">

@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Zeekr 007 AWD Performance i avsnitt. Om du v
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Zeekr 007 AWD Performance imponerar med en imponerande kraft på 475 kW (646 hk) och ett imponerande totalt vridmoment på 710 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 2,84 sekunder och når en topphastighet på 200 km/h, vilket gör den till en stjärna i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Zeekr 007 AWD Performance har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -65,7 +62,6 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 533mm och de bakre skivorna är 457mm.
-
 
 ### Regenerativ bromsning
 
@@ -90,7 +86,6 @@ B-stolpen och vyerna bak är tonade.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiör
@@ -124,7 +119,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/frontseats_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
-
 
 #### Säten på andra raden
 
@@ -163,7 +157,6 @@ Zeekr 007 AWD Performance inkluderar flera funktioner för att förbättra komfo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Zeekr 007 AWD Performance har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
@@ -184,19 +177,30 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Zeekr 007 AWD Performance Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 En typ av ljudsystem är tillgänglig för Zeekr 007 AWD Performance. Med Yamaha Sound System får du 21 högtalare med en maximal systemeffekt på 300 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Zeekr 007 AWD Performance Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
+
 ## Ljus
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Dessutom använder standardbakljusen LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 Zeekr 007 AWD Performance har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -223,12 +227,12 @@ Med Pilot Assist  nivå 2-systemet får du följande körautomatiseringsfunktion
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastkapaciteten i bagageutrymmet är 462 liter. Med baksätet nedfällt är det 1300 liter. På taket kan du lasta upp till 100 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 32 liter. Bilens maximala vikt är 2800 kg, och med basvikten på 2200 kg kan du lasta maximalt 600 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+
 ### Tillgänglighet och pris
 
 Denna modell hade världspremiär 27.12.2023 och leveranserna startade i January 2024.<div class="mt-3 mb-3">

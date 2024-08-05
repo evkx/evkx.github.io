@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Hyundai INSTER Standard Range kWh provides basic performance with a maximum power of 71 kW (97 hp / 95 bhp) and a total torque of 147 Nm (108 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 11.7 seconds and reaches a top speed of 140 km/h (87 mph), which is more comparable to entry-level traditional internal combustion engine vehicles.
@@ -52,11 +51,9 @@ The location of the charge port is on the [front](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Hyundai INSTER Standard Range has a front-wheel drive system supported by one motor on the front axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 254mm, and the rear discs are 240mm.
-
 
 ### Regenerative braking
 
@@ -93,7 +89,6 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -126,7 +121,6 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/frontseats_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
-
 
 #### Second-row seat
 
@@ -170,7 +164,6 @@ The Hyundai INSTER Standard Range includes several features to enhance comfort a
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 
@@ -185,9 +178,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/screens_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -202,6 +193,7 @@ Furthermore, the Hyundai INSTER Standard Range supports Android Auto and Apple C
 One type of sound system is available for the Hyundai INSTER Standard Range. With the Bose Premium Sound System, you get seven speakers with a max system output of  watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
@@ -212,6 +204,7 @@ The standard headlights use LED technology. In addition, the standard taillights
 ## Advanced driver assistance systems
 
 The Hyundai INSTER Standard Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -248,7 +241,6 @@ With the   level 2 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

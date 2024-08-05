@@ -26,7 +26,6 @@ Hemos separado nuestro artículo XPENG G9 RWD Standard Range en secciones. Si de
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El XPENG G9 RWD Standard Range ofrece un rendimiento sólido con una potencia máxima de 230 kW (313 hp) y un par total de 430 Nm. Puede acelerar de 0 a 100 km/h en 6,4 segundos y alcanza una velocidad máxima de 200 km/h, lo que lo hace competitivo en su clase.
@@ -48,7 +47,6 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/charging_1_st.jpg" title="XPENG G9 RWD Standard Range" width="1600" height="1040"  >}}
 
-
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
@@ -56,11 +54,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 XPENG G9 RWD Standard Range tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -69,7 +65,6 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
-
 
 ### Frenado regenerativo
 
@@ -95,9 +90,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -129,7 +122,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/frontseats_1_st.jpeg" title="XPENG G9 RWD Standard Range" width="3000" height="2250"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -168,7 +160,6 @@ El XPENG G9 RWD Standard Range incluye varias características para mejorar la c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El XPENG G9 RWD Standard Range tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero.
@@ -190,17 +181,20 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el XPENG G9 RWD Standard Range. Con el , obtienes ocho parlantes con una salida máxima del sistema de 500 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
-
-
 ## Luces
-
 
 ## Sistemas avanzados de asistencia al conductor
 
 El XPENG G9 RWD Standard Range tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -232,7 +226,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

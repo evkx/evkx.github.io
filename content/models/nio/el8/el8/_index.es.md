@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Nio EL8 en secciones. Si desea esperar para lee
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Nio EL8 impresiona con una potencia máxima de 480 kW (653 hp) y un impresionante par total de 850 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,1 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
@@ -34,6 +33,7 @@ El Nio EL8 impresiona con una potencia máxima de 480 kW (653 hp) y un impresion
 ## Batería, autonomía y carga
 
 Nio EL8 tiene dos opciones de batería con diferentes especificaciones. A continuación verás cómo esto afecta el alcance y la carga.
+
 ### 100kWh
 
 La batería de alta capacidad tiene una capacidad bruta de 100 kWh y una capacidad neta utilizable de 90 kWh, proporcionando un buffer de 10 kWh (10,0%) para la protección de la batería. Con un voltaje nominal de 358 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
@@ -43,6 +43,7 @@ Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](
 La velocidad máxima de carga de CC es 240kW. Una carga completa del 0 al 100 % tardaría 75 minutos, mientras que un escenario más común del 10 al 80 % tardaría 41 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 44%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 86kW. Cada sesión de carga tardaría 27 minutos y 2 segundos.
 
 En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 30 kWh/100 km, el viaje tomaría aproximadamente 10 horas y 47 minutos. Este viaje requeriría dos paradas de carga del 1% al 40%, con un tiempo total de carga de 147 minutos.
+
 ### 75kWh
 
 La batería de alta capacidad tiene una capacidad bruta de 75 kWh y una capacidad neta utilizable de 70,5 kWh, proporcionando un buffer de 4,5 kWh (6,0%) para la protección de la batería. Con un voltaje nominal de 386 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
@@ -60,6 +61,7 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado frontal derecho](../../../../technology/charging/connectors/#lado-delantero). Esta ubicación facilita el uso de las estaciones de carga donde se estaciona junto al cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+
 ### Cambio de batería
 
 Este modelo admite el cambio de batería. El cambio de batería significa que puedes conducir hasta una estación de cambio de batería única y reemplazarla por una batería nueva con 90 % de SOC. El cambio de batería tarda 7 minutos.
@@ -67,11 +69,9 @@ Este modelo admite el cambio de batería. El cambio de batería significa que pu
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Nio EL8 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/) en el eje delantero y [Motores de inducción] (../../../../technology/motors/asm/) en el eje trasero.
-
 
 ### Suspensión
 
@@ -84,7 +84,6 @@ La dirección dinámica es una característica un estándar en el Nio EL8. La di
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
-
 
 ### Frenado regenerativo
 
@@ -114,9 +113,7 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -146,7 +143,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
-
 #### Asientos de la segunda fila
 
 Puedes elegir dos tipos de asientos para la segunda fila en el Nio EL8.
@@ -169,7 +165,6 @@ La opción second son dos sillas estilo capitán. Además, las siguientes funcio
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
-
 #### Asientos de tercera fila
 
 
@@ -184,7 +179,6 @@ Hay un sistema climático disponible.
 
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
 
-
 ## Características de confort
 
 El Nio EL8 incluye varias características para mejorar la comodidad y conveniencia:
@@ -196,7 +190,6 @@ El Nio EL8 incluye varias características para mejorar la comodidad y convenien
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interfaz de usuario y control
@@ -218,17 +211,24 @@ Este modelo tiene un sistema de control de voz opcional. El control de voz te pe
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.soundsystem
+
 Puedes elegir entre dos sistemas de sonido en el Nio EL8. Con el Surroundsystem, obtienes siete parlantes con una salida máxima del sistema de  vatios. Con el Premium sound system, obtienes 12 parlantes con una salida máxima del sistema de  vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
-
 El modelo tiene 3 conexiones USB-A de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Nio EL8 tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -272,12 +272,12 @@ Hasta uno [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), cin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 552 litros. Con el asiento de la tercera fila abatido, es de 810 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 3190 kg (7033 lbs), y con el peso base de 2612 kg (5758 lbs), puedes cargar como máximo 578 kg (1274 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2000, y sin freno, es de 750 kg (4409/1653 lbs).
+
 ### Disponibilidad y precios
 
 <div class="mt-3 mb-3">

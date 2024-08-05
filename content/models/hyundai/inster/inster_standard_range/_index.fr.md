@@ -26,7 +26,6 @@ Nous avons séparé notre article Hyundai INSTER Standard Range en sections. Si 
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Hyundai INSTER Standard Range kWh offre des performances de base avec une puissance maximale de 71 kW (97 ch) et un couple total de 147 Nm. Elle accélère de 0 à 100 km/h en 11,7 secondes et atteint une vitesse maximale de 140 km/h, ce qui est plus comparable aux modèles d'entrée de gamme des véhicules à moteur à combustion interne traditionnels.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur [avant](../../../../technology/charging/
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Hyundai INSTER Standard Range dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cet
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 254 mm et les disques arrière mesurent 240 mm.
-
 
 ### Freinage régénératif
 
@@ -93,7 +89,6 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Intérieur
@@ -126,7 +121,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/frontseats_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -170,7 +164,6 @@ L'Hyundai INSTER Standard Range comprend plusieurs fonctionnalités pour amélio
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 
@@ -185,14 +178,22 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/screens_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Hyundai INSTER Standard Range prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Un type de système audio est disponible pour le Hyundai INSTER Standard Range. Avec le Bose Premium Sound System, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Hyundai INSTER Standard Range prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 4 connexions USB-C en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
@@ -203,6 +204,7 @@ Les phares standards utilisent la technologie LED. De plus, les feux arrière st
 ## Systèmes avancés d'aide à la conduite
 
 Le Hyundai INSTER Standard Range dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -239,7 +241,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

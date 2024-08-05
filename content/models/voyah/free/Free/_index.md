@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The VOYAH FREE delivers a solid performance with a maximum power of 360 kW (490 hp / 483 bhp) and a total torque of 720 Nm (531 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.4 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 VOYAH FREE features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -92,9 +88,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -119,7 +113,6 @@ You can choose from 4 different materials/colors for this seat type.
 - Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Beige/Red [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Second-row seat
@@ -149,7 +142,6 @@ The VOYAH FREE includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The VOYAH FREE has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat.
@@ -166,9 +158,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/voyah/free/free/screens_1_st.jpg" title="VOYAH FREE" width="2560" height="1767"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -179,12 +169,15 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the VOYAH FREE. With the DYNAUDIO HIFI Sound system, you get NULL speakers with a max system output of  watts.
 
 The model has 1 USB-C connections as standard. The model has 3 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology.
+
 ## Advanced driver assistance systems
 
 The VOYAH FREE has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -205,7 +198,6 @@ With the   level 2 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

@@ -26,7 +26,6 @@ Vi har opdelt vores BYD Tang EV600 artikel i sektioner. Hvis du vil vente med at
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 BYD Tang EV600 leverer en solid præstation med en maksimal effekt på 380 kW (517 hk) og et totalt drejningsmoment på 680 Nm. Den kan accelerere fra 0 til 100 km/t på 4,6 sekunder og når en topfart på 180 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 BYD Tang EV600 har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en standard-funktion på BYD Tang EV600. Dynamisk styring va
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsning
 
@@ -98,9 +94,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -126,7 +120,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 
-
 #### Sæde på anden række
 
 
@@ -137,7 +130,6 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="1921" height="1080"  >}}
-
 
 #### Sæder på tredje række
 
@@ -169,7 +161,6 @@ BYD Tang EV600 inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 BYD Tang EV600 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
@@ -185,20 +176,26 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/screens_1_st.jpg" title="BYD Tang EV600" width="1920" height="1079"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på BYD Tang EV600. Med Surroundsystem får du syv højttalere med en maksimal systemeffekt på  watt. Med Premium sound system får du 12 højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 Modellen har 4 USB-A-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 BYD Tang EV600 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -235,7 +232,6 @@ Med Smart Pilot  niveau 2-systemet får du yderligere køreautomatiseringsfunkti
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

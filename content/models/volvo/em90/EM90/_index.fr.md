@@ -26,7 +26,6 @@ Nous avons séparé notre article Volvo EM90 en sections. Si vous souhaitez atte
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 L'Volvo EM90 offre des performances modestes avec une puissance maximale de 200 kW (272 ch) et un couple total de 686 Nm. Il accélère de 0 à 100 km/h en 8,3 secondes et atteint une vitesse maximale de 190 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Volvo EM90 dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 533 mm et les disques arrière mesurent 457 mm.
-
 
 ### Freinage régénératif
 
@@ -93,7 +89,6 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Intérieur
@@ -128,7 +123,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/frontseats_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
-
 #### Siège de deuxième rangée
 
 
@@ -142,7 +136,6 @@ Pour la deuxième rangée, ce modèle dispose de deux sièges capitaine. De plus
 
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/secondrowseats_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
-
 
 #### Sièges de troisième rangée
 
@@ -174,7 +167,6 @@ L'Volvo EM90 comprend plusieurs fonctionnalités pour améliorer le confort et l
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Volvo EM90 possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
@@ -195,11 +187,20 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Volvo EM90 prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le Volvo EM90. Avec le Bowers & Wilkins Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 500 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Volvo EM90 prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
@@ -212,6 +213,7 @@ Les phares standards utilisent la technologie LED. De plus, les feux arrière st
 Le Volvo EM90 dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -238,12 +240,12 @@ Avec le système Pilot Assist  niveau 2, vous bénéficiez des fonctionnalités 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement du coffre est de 376 litres. Avec le siège de troisième rangée abaissé, elle est de 2979 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 32 litres (1,1 CU FT). Le poids maximum de la voiture est de 3400 kg (7496 lbs), et avec le poids de base de 2763 kg (6091 lbs), vous pouvez charger au maximum 637 kg (1404 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 12.11.2023 et les livraisons devraient commencer en March 2025. Ce modèle est uniquement disponible en Chine.<div class="mt-3 mb-3">

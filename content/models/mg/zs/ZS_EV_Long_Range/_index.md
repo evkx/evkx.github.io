@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The MG ZS EV Long Range offers modest performance with a maximum power of 115 kW (156 hp / 154 bhp) and a total torque of 280 Nm (207 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.6 seconds and has a top speed of 175 km/h (109 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/charging_1_st.jpg" title="MG ZS EV Long Range" width="3000" height="2000"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [front](../../../../technology/charging/connectors/#front). This location makes it easy to use charge stations where you need to park with the front in. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [front](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 MG ZS EV Long Range has a rear-wheel drive system supported by one motor on the rear axle.
-
 
 ### Suspension
 
@@ -69,7 +65,6 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -94,7 +89,6 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -123,7 +117,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/frontseats_1_st.jpg" title="MG ZS EV Long Range" width="3000" height="1999"  >}}
-
 
 #### Second-row seat
 
@@ -158,7 +151,6 @@ The MG ZS EV Long Range includes several features to enhance comfort and conveni
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 
@@ -178,7 +170,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -192,6 +183,7 @@ Furthermore, the MG ZS EV Long Range supports Android Auto and Apple CarPlay. Th
 You can choose between two sound systems on the MG ZS EV Long Range. With the MG standard system, you get four speakers with a max system output of  watts. With the MG luxury sound system, you get six speakers with a max system output of  watts.
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
@@ -202,6 +194,7 @@ The standard headlights use LED technology. In addition, the standard taillights
 ## Advanced driver assistance systems
 
 The MG ZS EV Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -224,7 +217,6 @@ With the   level 2 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

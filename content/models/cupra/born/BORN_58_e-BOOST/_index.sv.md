@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av CUPRA BORN 58 e-BOOST i avsnitt. Om du vill 
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Med overboost når CUPRA BORN 58 e-BOOST en maximal effekt på 170 kW (231 hk). Utan overboost levererar den 150 kW (204 hk). Det maximala vridmomentet är 310 Nm. Den accelererar från 0 till 100 km/h på 6,6 sekunder och når en topphastighet på 160 km/h, vilket ger prestanda som är mer lik traditionella förbränningsmotorbilar.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 CUPRA BORN 58 e-BOOST har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [induktionsmotor](../../../../technology/motors/asm/).
-
 
 ### Hjulupphängning
 
@@ -69,7 +66,6 @@ Dynamisk styrning är valfritt-funktionen för CUPRA BORN 58 e-BOOST. Dynamisk s
 ### Bromsar
 
 SKODA Elroq 85x använder [skivbromsar](../../../../technology/brakes/#disc-brakes) fram för överlägsen bromskraft och värmeavledning, medan [trumbromsar](../../../../technology/brakes/#trumbromsar) används bak för kostnadseffektivitet och hållbarhet. Trumbromsar ger tillräcklig prestanda för bakhjulen, kräver mindre underhåll och integreras sömlöst med fordonets regenerativa bromssystem. Denna kombination säkerställer optimal bromsprestanda och kostnadseffektivitet, i linje med elbilens övergripande effektivitetsmål. De främre skivorna är 330mm.
-
 
 ### Regenerativ bromsning
 
@@ -100,9 +96,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -128,7 +122,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/frontseats_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="2110"  >}}
-
 
 #### Säten på andra raden
 
@@ -160,7 +153,6 @@ CUPRA BORN 58 e-BOOST inkluderar flera funktioner för att förbättra komfort o
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 CUPRA BORN 58 e-BOOST har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm).
@@ -176,14 +168,22 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/screens_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="1714"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder CUPRA BORN 58 e-BOOST Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan välja mellan två ljudsystem på CUPRA BORN 58 e-BOOST. Med Sound system får du fem högtalare med en maximal systemeffekt på 140 watt. Med Beats Audio får du nio högtalare med en maximal systemeffekt på 395 watt.
 
-Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder CUPRA BORN 58 e-BOOST Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik.
@@ -196,6 +196,7 @@ Standardlamporna använder LED-teknik.
 CUPRA BORN 58 e-BOOST har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -234,7 +235,6 @@ Med Assistantpackage plus  nivå 2-systemet får du fler körautomatiseringsfunk
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

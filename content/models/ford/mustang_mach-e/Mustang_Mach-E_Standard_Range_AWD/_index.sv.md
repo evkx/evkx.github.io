@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Ford Mustang Mach-E Standard Range AWD i avs
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Ford Mustang Mach-E Standard Range AWD levererar en solid prestanda med en maximal effekt på 258 kW (351 hk) och ett totalt vridmoment på 580 Nm. Den kan accelerera från 0 till 100 km/h på 5,8 sekunder och når en topphastighet på 180 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -48,7 +47,6 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/charging_1_st.jpg" title="Ford Mustang Mach-E Standard Range AWD" width="3000" height="1736"  >}}
 
-
 ### Laddningsport
 
 Platsen för laddningsporten är på [vänster front](../../../../technology/charging/connectors/#front-side). Detta placering gör det enkelt att ladda stationer där du parkerar sidan i laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
@@ -56,11 +54,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Ford Mustang Mach-E Standard Range AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
-
 
 ### Hjulupphängning
 
@@ -69,7 +65,6 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 457mm och de bakre skivorna är 432mm.
-
 
 ### Regenerativ bromsning
 
@@ -97,9 +92,7 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -125,7 +118,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Standard Range AWD" width="3000" height="1999"  >}}
-
 
 #### Säten på andra raden
 
@@ -163,7 +155,6 @@ Ford Mustang Mach-E Standard Range AWD inkluderar flera funktioner för att för
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 
@@ -178,14 +169,22 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/screens_1_st.jpg" title="Ford Mustang Mach-E Standard Range AWD" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Ford Mustang Mach-E Standard Range AWD Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 En typ av ljudsystem är tillgänglig för Ford Mustang Mach-E Standard Range AWD. Med B&O Sound System får du tio högtalare med en maximal systemeffekt på 560 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Ford Mustang Mach-E Standard Range AWD Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
+
 ## Ljus
 
 
@@ -196,6 +195,7 @@ Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutninga
 ## Avancerade förarassistanssystem
 
 Ford Mustang Mach-E Standard Range AWD har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -229,7 +229,6 @@ Med Ford BlueCruise  nivå 2-systemet får du följande körautomatiseringsfunkt
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

@@ -26,7 +26,6 @@ Hemos separado nuestro artículo VOYAH FREE en secciones. Si desea esperar para 
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El VOYAH FREE ofrece un rendimiento sólido con una potencia máxima de 360 kW (490 hp) y un par total de 720 Nm. Puede acelerar de 0 a 100 km/h en 4,4 segundos y alcanza una velocidad máxima de 200 km/h, lo que lo hace competitivo en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 VOYAH FREE tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
-
 
 ### Suspensión
 
@@ -65,7 +62,6 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
-
 
 ### Frenado regenerativo
 
@@ -92,9 +88,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -119,7 +113,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Blue [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Brown [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Beige/Red [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Asiento de segunda fila
@@ -149,7 +142,6 @@ El VOYAH FREE incluye varias características para mejorar la comodidad y conven
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El VOYAH FREE tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero.
@@ -166,20 +158,26 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/voyah/free/free/screens_1_st.jpg" title="VOYAH FREE" width="2560" height="1767"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.soundsystem
 
 Un tipo de sistema de sonido está disponible para el VOYAH FREE. Con el DYNAUDIO HIFI Sound system, obtienes NULL parlantes con una salida máxima del sistema de  vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
-
 El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 3 conexiones USB-A de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El VOYAH FREE tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -200,7 +198,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

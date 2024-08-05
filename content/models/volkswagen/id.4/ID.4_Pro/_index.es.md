@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Volkswagen ID.4 Pro en secciones. Si desea espe
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Volkswagen ID.4 Pro ofrece un rendimiento sólido con una potencia máxima de 210 kW (286 hp) y un par total de 545 Nm. Puede acelerar de 0 a 100 km/h en 6,7 segundos y alcanza una velocidad máxima de 160 km/h, lo que lo hace competitivo en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Volkswagen ID.4 Pro tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores de inducción](../../../../technology/motors/asm/).
-
 
 ### Suspensión
 
@@ -71,7 +68,6 @@ La dirección dinámica es una característica un opcional en el Volkswagen ID.4
 ### Frenos
 
 El Volkswagen ID.4 Pro utiliza [frenos de disco](../../../../technology/brakes/#disc-brakes) en la parte delantera para una potencia de frenado superior y disipación de calor, mientras que se emplean [frenos de tambor](../../../../technology/frenos/#frenos-de-tambor) en la parte trasera por su eficiencia en costos y durabilidad. Los frenos de tambor proporcionan un rendimiento adecuado para las ruedas traseras, requieren menos mantenimiento e integran perfectamente con el sistema de frenado regenerativo del vehículo. Esta combinación garantiza un rendimiento óptimo de frenado y rentabilidad, alineándose con los objetivos generales de eficiencia del EV. Los discos delanteros miden 358 mm.
-
 
 ### Frenado regenerativo
 
@@ -102,9 +98,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -141,7 +135,6 @@ Las siguientes funcionalidades están disponibles en el asiento **ergoActive Top
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
-
 #### Asiento de segunda fila
 
 
@@ -173,7 +166,6 @@ El Volkswagen ID.4 Pro incluye varias características para mejorar la comodidad
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 Hay dos configuraciones de pantalla diferentes disponibles en Volkswagen ID.4 Pro.
@@ -200,22 +192,32 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/screens_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2206"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un opcional, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Volkswagen ID.4 Pro es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
 
 Puedes elegir entre dos sistemas de sonido en el Volkswagen ID.4 Pro. Con el Sound system, obtienes seis parlantes con una salida máxima del sistema de 140 vatios. Con el Volkswagen Soundsystem, obtienes seis parlantes con una salida máxima del sistema de 450 vatios.
 
-Además, con el sistema de navegación para automóvil opcional, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Volkswagen ID.4 Pro es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Volkswagen ID.4 Pro. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Volkswagen ID.4 Pro tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -250,7 +252,6 @@ Con el sistema Assistantpackage plus  nivel 2, obtienes funciones de automatizac
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

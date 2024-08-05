@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Polestar 3 Long Range Dual Motor Performance i s
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Polestar 3 Long Range Dual Motor Performance leverer solid ytelse med en maksimal effekt på 380 kW (517 hk) og et totalt dreiemoment på 910 Nm. Den kan akselerere fra 0 til 100 km/t på 4,7 sekunder og når en topphastighet på 210 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Polestar 3 Long Range Dual Motor Performance har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
-
 
 ### Hjuloppheng
 
@@ -65,7 +62,6 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 400mm, og de bakre skivene er 390mm.
-
 
 ### Regenerativ bremsing
 
@@ -90,7 +86,6 @@ Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiør
@@ -124,7 +119,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/frontseats_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2249"  >}}
-
 
 #### Seter på andre rad
 
@@ -162,7 +156,6 @@ Polestar 3 Long Range Dual Motor Performance inkluderer flere funksjoner for å 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Polestar 3 Long Range Dual Motor Performance har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
@@ -178,12 +171,14 @@ Et head-up display er standard-system som viser hastighet og annen viktig fører
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/screens_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2251"  >}}
 
-
 ## Infotainment
+
+### header.soundsystem
 
 Du kan velge mellom to lydsystemer på Polestar 3 Long Range Dual Motor Performance. Med High Performance får du åtte høyttalere med en maksimal systemeffekt på 200 watt. Med Bowers & Wilkins får du 25 høyttalere med en maksimal systemeffekt på 1610 watt.
 
 Modellen har 4 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Polestar 3 Long Range Dual Motor Performance. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
@@ -196,6 +191,7 @@ Du kan velge mellom to typer frontlykter for Polestar 3 Long Range Dual Motor Pe
 Polestar 3 Long Range Dual Motor Performance har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -220,7 +216,6 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

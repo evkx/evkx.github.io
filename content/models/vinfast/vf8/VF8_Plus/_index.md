@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The VinFast VF8 Plus delivers a solid performance with a maximum power of 300 kW (408 hp / 402 bhp) and a total torque of 620 Nm (458 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.5 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
@@ -50,11 +49,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 VinFast VF8 Plus features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -68,11 +65,9 @@ The VinFast VF8 Plus lets the user select different [drive modes](../../../../te
 - Normal Mode: Balanced throttle.
 - Sport Mode: Dynamic throttle.
 
-
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 341mm.
-
 
 ### Regenerative braking
 
@@ -101,13 +96,11 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 You can choose between several interior designs.
 
 ### Seats
-
 
 
 #### First row seats
@@ -128,7 +121,6 @@ You can choose from 4 different materials/colors for this seat type.
 - Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Second-row seat
@@ -153,7 +145,6 @@ There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-
 ## Comfort features
 
 The VinFast VF8 Plus includes several features to enhance comfort and convenience:
@@ -164,7 +155,6 @@ The VinFast VF8 Plus includes several features to enhance comfort and convenienc
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -186,7 +176,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -200,12 +189,15 @@ Furthermore, the VinFast VF8 Plus supports Android Auto and Apple CarPlay. This 
 One type of sound system is available for the VinFast VF8 Plus. With the , you get 11 speakers with a max system output of  watts.
 
 The model has 1 USB-C connections as standard. The model has 4 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The VinFast VF8 Plus has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -240,7 +232,6 @@ This model uses cameras, radar, and ultrasonic sensors for the driver assist sys
 Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

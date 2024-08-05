@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Kia EV9 RWD offers modest performance with a maximum power of 160 kW (218 hp / 215 bhp) and a total torque of 350 Nm (258 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9.4 seconds and has a top speed of 185 km/h (115 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -52,18 +51,14 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Kia EV9 RWD has a rear-wheel drive system supported by one motor on the rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-
 ### Suspension
 
 
-
 ### Brakes
-
 
 
 
@@ -98,13 +93,11 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
 
 ### Seats
-
 
 
 #### First row seats
@@ -133,7 +126,6 @@ You can choose from 6 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/frontseats_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
-
 #### Second-row seats
 
 You can choose three seat types for the second row in the Kia EV9 RWD.
@@ -156,7 +148,6 @@ The third option is two captain chairs. In addition, the following functionaliti
 
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/secondrowseats_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
-
 
 #### Third-row seats
 
@@ -192,7 +183,6 @@ The Kia EV9 RWD includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Kia EV9 RWD has three screens on a shared frame mounted with brackets on the dashboard.
@@ -208,9 +198,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/screens_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -225,6 +213,7 @@ Furthermore, the Kia EV9 RWD supports Android Auto and Apple CarPlay. This funct
 You can choose between two sound systems on the Kia EV9 RWD. With the Standard, you get six speakers with a max system output of  watts. With the Meridian Premium Sound System, you get 14 speakers with a max system output of  watts.
 
 The model has 6 USB-C connections as standard.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -235,6 +224,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Advanced driver assistance systems
 
 The Kia EV9 RWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -265,7 +255,6 @@ With the   level 2 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

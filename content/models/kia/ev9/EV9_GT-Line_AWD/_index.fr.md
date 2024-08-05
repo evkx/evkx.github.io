@@ -26,7 +26,6 @@ Nous avons séparé notre article Kia EV9 GT-Line AWD en sections. Si vous souha
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Kia EV9 GT-Line AWD offre des performances solides avec une puissance maximale de 283 kW (385 ch) et un couple total de 700 Nm. Elle peut accélérer de 0 à 100 km/h en 5,3 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -52,18 +51,14 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Kia EV9 GT-Line AWD dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
 
-
 ### Suspension
 
 
-
 ### Freins
-
 
 
 
@@ -98,13 +93,11 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
 ### Sièges
-
 
 
 #### Sièges de première rangée
@@ -133,7 +126,6 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/frontseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
 
-
 #### Sièges de deuxième rangée
 
 Vous pouvez choisir trois types de sièges pour la deuxième rangée dans le Kia EV9 GT-Line AWD.
@@ -156,7 +148,6 @@ L'option third est deux sièges capitaine. De plus, les fonctionnalités suivant
 
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/secondrowseats_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
-
 
 #### Sièges de troisième rangée
 
@@ -192,7 +183,6 @@ L'Kia EV9 GT-Line AWD comprend plusieurs fonctionnalités pour améliorer le con
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Kia EV9 GT-Line AWD dispose de trois écrans sur un cadre partagé monté avec des supports sur le tableau de bord.
@@ -208,14 +198,22 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/screens_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Kia EV9 GT-Line AWD prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Vous pouvez choisir entre deux systèmes audio sur le Kia EV9 GT-Line AWD. Avec le Standard, vous obtenez six haut-parleurs avec une puissance système maximale de  watts. Avec le Meridian Premium Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de  watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Kia EV9 GT-Line AWD prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 6 connexions USB-C en standard.
+
 ## Lumières
 
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
@@ -226,6 +224,7 @@ Les phares standard utilisent la technologie LED Matrix. LED Matrix est un syst�
 ## Systèmes avancés d'aide à la conduite
 
 Le Kia EV9 GT-Line AWD dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -256,7 +255,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

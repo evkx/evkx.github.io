@@ -26,7 +26,6 @@ Vi har opdelt vores Peugot E-5008 Long Range artikel i sektioner. Hvis du vil ve
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Peugot E-5008 Long Range tilbyder beskedne præstationer med en maksimal effekt på 170 kW (231 hk) og et samlet drejningsmoment på 345 Nm. Den accelererer fra 0 til 100 km/t på 9,7 sekunder og har en topfart på 170 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -48,7 +47,6 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/charging_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1666"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
@@ -56,18 +54,15 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Peugot E-5008 Long Range har et forhjulstræksystem understøttet af en motor på forakslen.
-
 
 ### Hjulophæng
 
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 198 mm.
 
 ### Bremser
-
 
 
 
@@ -101,7 +96,6 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Der er én sædetype, du kan vælge i forskellige materialer.
@@ -130,7 +124,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 - Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 
-
 #### Sæde på anden række
 
 
@@ -142,7 +135,6 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/secondrowseats_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
-
 
 #### Sæder på tredje række
 
@@ -173,7 +165,6 @@ Peugot E-5008 Long Range inkluderer flere funktioner, der forbedrer komfort og b
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Peugot E-5008 Long Range har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
@@ -189,14 +180,22 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/screens_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Peugot E-5008 Long Range Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Peugot E-5008 Long Range. Med  får du seks højttalere med en maksimal systemeffekt på 100 watt. Med  får du ti højttalere med en maksimal systemeffekt på 690 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Peugot E-5008 Long Range Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 4 USB-C-forbindelser som standard.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Peugot E-5008 Long Range. Standardlygterne bruger LED-teknologi. Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -207,6 +206,7 @@ Du kan vælge mellem to typer forlygter til Peugot E-5008 Long Range. Standardly
 ## Avancerede førerassistentsystemer
 
 Peugot E-5008 Long Range har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -238,7 +238,6 @@ Denne model bruger kameraer, radar og ultralydssensorer til førerassistentsyste
 Op til tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydssensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt, hvad der sker i køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

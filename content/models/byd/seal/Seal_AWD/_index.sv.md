@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av BYD Seal AWD i avsnitt. Om du vill vänta me
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 BYD Seal AWD levererar en solid prestanda med en maximal effekt på 390 kW (530 hk) och ett totalt vridmoment på 670 Nm. Den kan accelerera från 0 till 100 km/h på 3,8 sekunder och når en topphastighet på 180 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 BYD Seal AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -69,7 +66,6 @@ Dynamisk styrning är standard-funktionen för BYD Seal AWD. Dynamisk styrning v
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bromsning
 
@@ -98,9 +94,7 @@ B-stolpen och vyerna bak är tonade.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -125,7 +119,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/frontseats_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
-
 
 #### Säten på andra raden
 
@@ -163,7 +156,6 @@ BYD Seal AWD inkluderar flera funktioner för att förbättra komfort och bekvä
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 BYD Seal AWD har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
@@ -179,14 +171,22 @@ En head-up display är ett standard-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/screens_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder BYD Seal AWD Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 En typ av ljudsystem är tillgänglig för BYD Seal AWD. Med Dynaudio Performance Audio System får du 12 högtalare med en maximal systemeffekt på  watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder BYD Seal AWD Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
@@ -197,6 +197,7 @@ Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-
 ## Avancerade förarassistanssystem
 
 BYD Seal AWD har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -229,7 +230,6 @@ Med Smart Pilot  nivå 2-systemet får du följande körautomatiseringsfunktione
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

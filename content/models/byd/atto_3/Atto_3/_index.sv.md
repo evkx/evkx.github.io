@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av BYD Atto 3 i avsnitt. Om du vill vänta med 
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 BYD Atto 3 erbjuder blygsamma prestanda med en maximal effekt på 150 kW (204 hk) och ett totalt vridmoment på 310 Nm. Den accelererar från 0 till 100 km/h på 7,3 sekunder och har en topphastighet på 160 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 BYD Atto 3 har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [induktionsmotor](../../../../technology/motors/asm/).
-
 
 ### Hjulupphängning
 
@@ -69,7 +66,6 @@ Dynamisk styrning är standard-funktionen för BYD Atto 3. Dynamisk styrning var
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bromsning
 
@@ -98,9 +94,7 @@ B-stolpen och vyerna bak är tonade.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -129,7 +123,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/frontseats_1_st.jpg" title="BYD Atto 3" width="1600" height="1203"  >}}
-
 
 #### Säten på andra raden
 
@@ -166,7 +159,6 @@ BYD Atto 3 inkluderar flera funktioner för att förbättra komfort och bekväml
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Två olika skärmlayouter är tillgängliga på BYD Atto 3.
@@ -193,14 +185,18 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/screens_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
-
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för BYD Atto 3. Med Dirac får du åtta högtalare med en maximal systemeffekt på  watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### header.soundsystem
+
+En typ av ljudsystem är tillgänglig för BYD Atto 3. Med Dirac får du åtta högtalare med en maximal systemeffekt på  watt.
+
 Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
@@ -211,6 +207,7 @@ Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-
 ## Avancerade förarassistanssystem
 
 BYD Atto 3 har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -242,7 +239,6 @@ Med   nivå 1-systemet får du följande körautomationsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

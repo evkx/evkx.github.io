@@ -26,7 +26,6 @@ Nous avons séparé notre article XPENG G9 AWD Performance en sections. Si vous 
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La XPENG G9 AWD Performance impressionne avec une puissance maximale de 405 kW (551 ch) et un couple total impressionnant de 717 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 3,9 secondes, et atteint une vitesse maximale de 205 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
@@ -48,7 +47,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/charging_1_st.jpg" title="XPENG G9 AWD Performance" width="1600" height="1040"  >}}
 
-
 ### Port de recharge
 
 L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
@@ -56,11 +54,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 XPENG G9 AWD Performance dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +65,6 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
-
 
 ### Freinage régénératif
 
@@ -95,9 +90,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -129,7 +122,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/frontseats_1_st.jpeg" title="XPENG G9 AWD Performance" width="3000" height="2250"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -168,7 +160,6 @@ L'XPENG G9 AWD Performance comprend plusieurs fonctionnalités pour améliorer l
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le XPENG G9 AWD Performance possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager.
@@ -190,17 +181,20 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le XPENG G9 AWD Performance. Avec le , vous obtenez 24 haut-parleurs avec une puissance système maximale de 1940 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
-
 ## Lumières
-
 
 ## Systèmes avancés d'aide à la conduite
 
 Le XPENG G9 AWD Performance dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -232,7 +226,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

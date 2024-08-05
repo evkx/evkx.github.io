@@ -26,7 +26,6 @@ Nous avons séparé notre article SKODA Enyaq iV80x en sections. Si vous souhait
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 L'SKODA Enyaq iV80x offre des performances modestes avec une puissance maximale de 195 kW (265 ch) et un couple total de 425 Nm. Il accélère de 0 à 100 km/h en 6,9 secondes et atteint une vitesse maximale de 160 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -48,7 +47,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/charging_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="2000"  >}}
 
-
 ### Port de recharge
 
 L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
@@ -56,11 +54,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 SKODA Enyaq iV80x dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
-
 
 ### Suspension
 
@@ -75,7 +71,6 @@ La direction dynamique est une fonctionnalité un facultatif sur le SKODA Enyaq 
 ### Freins
 
 La SKODA Enyaq iV80x utilise des [freins à disques](../../../../technology/brakes/#disc-brakes) à l'avant pour une puissance de freinage supérieure et une dissipation thermique, tandis que des [freins à tambour](../../../../technology/brakes/#drum-brakes). sont utilisés à l'arrière pour leur rentabilité et leur durabilité. Les freins à tambour offrent des performances adéquates pour les roues arrière, nécessitent moins d'entretien et s'intègrent parfaitement au système de freinage régénératif du véhicule. Cette combinaison assure des performances de freinage optimales et une rentabilité, en accord avec les objectifs d'efficacité globaux de l'EV. Les disques avant mesurent 358 mm.
-
 
 ### Freinage régénératif
 
@@ -106,9 +101,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -149,7 +142,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/frontseats_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="1999"  >}}
 
-
 #### Siège de deuxième rangée
 
 
@@ -184,7 +176,6 @@ L'SKODA Enyaq iV80x comprend plusieurs fonctionnalités pour améliorer le confo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le SKODA Enyaq iV80x dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -200,14 +191,22 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/screens_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="1999"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le SKODA Enyaq iV80x prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Vous pouvez choisir entre deux systèmes audio sur le SKODA Enyaq iV80x. Avec le Sound system, vous obtenez huit haut-parleurs avec une puissance système maximale de 80 watts. Avec le Canton Soundsystem, vous obtenez dix haut-parleurs avec une puissance système maximale de 550 watts.
 
-De plus, avec le système de navigation embarqué facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le SKODA Enyaq iV80x prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
+
 ## Lumières
 
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
@@ -220,6 +219,7 @@ Les phares standard utilisent la technologie LED Matrix. LED Matrix est un syst�
 Le SKODA Enyaq iV80x dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -251,7 +251,6 @@ Avec le système MAX  niveau 2, vous bénéficiez des fonctionnalités d'automat
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

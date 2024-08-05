@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Seres 5 4WD Premium i seksjoner. Hvis du vil ven
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Seres 5 4WD Premium imponerer med en imponerende kraft på 430 kW (585 hk) og et betydelig dreiemoment på 940 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4 sekunder og har en toppfart på 200 km/t, noe som gjør den til en markant modell i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Seres 5 4WD Premium har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
-
 
 ### Hjuloppheng
 
@@ -65,7 +62,6 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsing
 
@@ -97,13 +93,11 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Du kan velge mellom flere interiørdesign.
 
 ### Seter
-
 
 
 #### Forseter
@@ -126,7 +120,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 
-
 #### Seter på andre rad
 
 
@@ -143,7 +136,6 @@ Det er ett tilgjengelig klimasystem.
 
 - **3-soners klimasystem:** Støtter forskjellige temperaturer i tre soner for fører, passasjer og baksete.
 
-
 ## Komfortfunksjoner
 
 Seres 5 4WD Premium inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
@@ -154,7 +146,6 @@ Seres 5 4WD Premium inkluderer flere funksjoner for å forbedre komfort og bekve
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brukergrensesnitt og kontroll
@@ -171,20 +162,26 @@ Et head-up display er standard-system som viser hastighet og annen viktig fører
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/screens_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707"  >}}
 
-
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Seres 5 4WD Premium. Med  får du 11 høyttalere med en maksimal systemeffekt på  watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### header.soundsystem
+
+Én type lydsystem er tilgjengelig for Seres 5 4WD Premium. Med  får du 11 høyttalere med en maksimal systemeffekt på  watt.
+
 Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 Seres 5 4WD Premium har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -212,7 +209,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

@@ -26,7 +26,6 @@ Vi har opdelt vores Nio ES8 artikel i sektioner. Hvis du vil vente med at læse 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Nio ES8 imponerer med en maksimal effekt på 400 kW (544 hk) og et imponerende samlet drejningsmoment på 725 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 4,9 sekunder og har en topfart på 200 km/h, hvilket gør den til en standout i sin klasse.
@@ -34,6 +33,7 @@ Nio ES8 imponerer med en maksimal effekt på 400 kW (544 hk) og et imponerende s
 ## Batteri, rækkevidde og opladning
 
 Nio ES8 har to batterimuligheder med forskellige specifikationer. Nedenfor kan du se, hvordan dette påvirker rækkevidde og opladning.
+
 ### 100kWh
 
 Det højkapacitetsbatteri har en bruttokapacitet på 100 kWh og en nettoanvendelig kapacitet på 90 kWh, hvilket giver en buffer på 10 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 358 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
@@ -43,6 +43,7 @@ Ifølge [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmonize
 Den maksimale DC-opladningshastighed er 126kW. En fuld opladning fra 0 - 100 % ville tage 83 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 43 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 7% til 72%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 79kW. Hver opladningssession ville tage 44 minutter og 24 sekunder.
 
 I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 30 kWh/100 km, ville turen tage cirka 11 timer og 1 minutter. Denne rejse ville kræve to opladningsstop fra 8% til 67%, med en samlet opladningstid på 162 minutter
+
 ### 75kWh
 
 Det højkapacitetsbatteri har en bruttokapacitet på 75 kWh og en nettoanvendelig kapacitet på 70,5 kWh, hvilket giver en buffer på 4,5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 386 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
@@ -60,6 +61,7 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 ### Ladeport
 
 Placeringen af ladeporten er på [højre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at bruge ladestationer, hvor du parkerer siden ind i opladeren. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+
 ### Batteri swap
 
 Denne model understøtter batteriskift. Batteriskift betyder, at du kan køre til en unik batteribyttestation og få batteriet udskiftet med et nyt batteri med 90 % SOC. Batteriskiftet tager 7 minutter.
@@ -67,11 +69,9 @@ Denne model understøtter batteriskift. Batteriskift betyder, at du kan køre ti
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Nio ES8 har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
-
 
 ### Hjulophæng
 
@@ -84,7 +84,6 @@ Dynamisk styring er en standard-funktion på Nio ES8. Dynamisk styring varierer 
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsning
 
@@ -115,13 +114,10 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 
-
 ### Sæder
-
 
 
 #### Første række sæder
@@ -146,7 +142,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/nio/es8/es8/frontseats_1_st.jpg" title="Nio ES8" width="2880" height="1784"  >}}
-
 
 #### Sæder på anden række
 
@@ -175,7 +170,6 @@ Der er et tilgængeligt klimasystem.
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
 
-
 ## Komfortfunktioner
 
 Nio ES8 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
@@ -187,7 +181,6 @@ Nio ES8 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brugergrænseflade og kontrol
@@ -209,11 +202,16 @@ Denne model har et valgfrit stemmestyringssystem. Stemmestyringen lader dig styr
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
+
 Du kan vælge mellem to lydsystemer på Nio ES8. Med Surroundsystem får du syv højttalere med en maksimal systemeffekt på  watt. Med Premium sound system får du 12 højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 Modellen har 3 USB-A-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
@@ -224,6 +222,7 @@ Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-
 ## Avancerede førerassistentsystemer
 
 Nio ES8 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -261,7 +260,6 @@ Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere køreautomatis
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

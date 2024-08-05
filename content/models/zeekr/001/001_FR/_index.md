@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Zeekr 001 FR delivers a jaw-dropping maximum power of 930 KW (1264 hp/1247 bhp) and a massive total torque of 1200 Nm (886 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.02 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 280 km/h (174 mph), making it a true marvel of engineering and performance.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Zeekr 001 FR has an all-wheel drive system supported by four motors. One for each wheel. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 ### Brakes
 
 The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 533mm, and the rear discs are 457mm.
-
 
 ### Regenerative braking
 
@@ -90,7 +86,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -125,7 +120,6 @@ You can choose from 5 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/frontseats_1_st.jpg" title="Zeekr 001 FR" width="3000" height="2250"  >}}
 
-
 #### Second-row seat
 
 
@@ -159,7 +153,6 @@ The Zeekr 001 FR includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Zeekr 001 FR has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -180,7 +173,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -194,14 +186,17 @@ Furthermore, the Zeekr 001 FR supports Android Auto and Apple CarPlay. This func
 One type of sound system is available for the Zeekr 001 FR. With the Yamaha Sound System, you get 12 speakers with a max system output of 300 watts.
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Zeekr 001 FR has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -228,12 +223,12 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 539 liters. With the rear seat down, it is 1411 liters. On the roof, you can load up to 100 kg (220.5 lbs). Under the hood, there is frunk with more storage room. This frunk is 32 liters (1.1 CU FT). The maxium weight of the car is 3080 kg (6790 lbs), and with the base weight of 2350 kg (5181 lbs), you can max load 730 kg (1609 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
+
 ### Availability & Pricing
 
 This model had a world premiere on 30.10.2023, and deliveries started in January 2024.<div class="mt-3 mb-3">

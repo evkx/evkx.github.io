@@ -32,7 +32,6 @@ Denne modellen er erstattet av [Audi SQ8 Sportback e-tron](/models/audi/q8_e-tro
 
 </div>
 
-
 ## Ytelse
 
 Med overboost når Audi e-tron S Sportback en maksimal effekt på 370 kW (503 hk). Uten overboost leverer den 320 kW (435 hk). Maksimalt dreiemoment er 973 Nm. Den kan akselerere fra 0 til 100 km/t på 4,5 sekunder og når en topphastighet på 200 km/t, noe som viser dens solide ytelse.
@@ -58,11 +57,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Audi e-tron S Sportback har et firehjulsdriftssystem støttet av tre motorer. En på forakselen og to på bakakselen. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
-
 
 ### Hjuloppheng
 
@@ -86,11 +83,9 @@ Audi e-tron S Sportback lar brukeren velge forskjellige [kjøremoduser](../../..
 - Auto: Balansert styring, adaptiv fjæringshøyde med balansert gass og adaptiv fjæringsdemping.
 - Custom: Egendefinert styring, fjæring og gassrespons.
 
-
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 375mm, og de bakre skivene er 350mm.
-
 
 ### Regenerativ bremsing
 
@@ -122,9 +117,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -183,7 +176,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/frontseats_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2249"  >}}
 
-
 #### Seter på andre rad
 
 
@@ -218,7 +210,6 @@ Audi e-tron S Sportback inkluderer flere funksjoner for å forbedre komfort og b
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Audi e-tron S Sportback har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er to forskjellige [infotainment-skjermer](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -235,22 +226,32 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/screens_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2250"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Audi e-tron S Sportback Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan velge mellom to lydsystemer på Audi e-tron S Sportback. Med Audi Sound system får du ti høyttalere med en maksimal systemeffekt på 180 watt. Med Bang & Olufsen Sound System får du 16 høyttalere med en maksimal systemeffekt på 700 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Audi e-tron S Sportback Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
+
 ## Lys
 
 Du kan velge mellom tre typer frontlykter for Audi e-tron S Sportback. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. Hovedlys basert på LED Digital Matrix-teknologi er tilgjengelig som ekstrautstyr. I tillegg bruker standard baklykter LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 Audi e-tron S Sportback har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -292,7 +293,6 @@ Denne modellen bruker kameraer, radar og ultralydsensorer for førerassistentsys
 Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/) , fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydsensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

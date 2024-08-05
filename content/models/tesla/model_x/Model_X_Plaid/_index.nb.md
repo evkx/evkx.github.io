@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Tesla Model X Plaid i seksjoner. Hvis du vil ven
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Tesla Model X Plaid leverer en imponerende maksimal effekt på 760 KW (1033 hk) og et massivt dreiemoment på 1020 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 2,6 sekunder, noe som viser dens fantastiske akselerasjon. I tillegg oppnår den en topphastighet på 262 km/t, noe som gjør den til et virkelig underverk innen ingeniørkunst og ytelse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Tesla Model X Plaid har et firehjulsdriftssystem støttet av tre motorer. En på forakselen og to på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -69,7 +66,6 @@ Dynamisk styring er standard-funksjonen på Tesla Model X Plaid. Dynamisk styrin
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 355mm, og de bakre skivene er 355mm.
-
 
 ### Regenerativ bremsing
 
@@ -101,9 +97,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -126,7 +120,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
-
 #### Seter på andre rad
 
 
@@ -136,7 +129,6 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/secondrowseats_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2000"  >}}
-
 
 #### Seter på tredje rad
 
@@ -168,7 +160,6 @@ Tesla Model X Plaid inkluderer flere funksjoner for å forbedre komfort og bekve
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Tesla Model X Plaid har doble skjermer med informasjon for fører og passasjerer og en tredje skjerm bak for multimedia.
@@ -184,20 +175,24 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/screens_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2000"  >}}
 
-
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Tesla Model X Plaid. Med Tesla Premium Sound får du 22 høyttalere med en maksimal systemeffekt på 560 watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### header.soundsystem
+
+Én type lydsystem er tilgjengelig for Tesla Model X Plaid. Med Tesla Premium Sound får du 22 høyttalere med en maksimal systemeffekt på 560 watt.
 
 ## Lys
 
 Standardlyktene bruker LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 Tesla Model X Plaid har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -239,7 +234,6 @@ Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatis
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

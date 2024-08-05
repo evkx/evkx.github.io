@@ -26,7 +26,6 @@ Nous avons séparé notre article Hongqi E-HS9 Comfort en sections. Si vous souh
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 L'Hongqi E-HS9 Comfort offre des performances modestes avec une puissance maximale de 320 kW (435 ch) et un couple total de 300 Nm. Il accélère de 0 à 100 km/h en 6,5 secondes et atteint une vitesse maximale de 200 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Hongqi E-HS9 Comfort dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ La direction dynamique est une fonctionnalité un standard sur le Hongqi E-HS9 C
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
-
 
 ### Freinage régénératif
 
@@ -97,9 +93,7 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit p
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -121,7 +115,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
-
 
 
 #### Siège de deuxième rangée
@@ -147,7 +140,6 @@ Un système climatique est disponible.
 
 - **Système de climatisation à 6 zones** : Prend en charge différentes températures dans six zones : le conducteur, le passager et deux zones, toutes deux dans les rangées 2 et 3.
 
-
 ## Caractéristiques de confort
 
 L'Hongqi E-HS9 Comfort comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
@@ -159,7 +151,6 @@ L'Hongqi E-HS9 Comfort comprend plusieurs fonctionnalités pour améliorer le co
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interface utilisateur et contrôle
@@ -184,11 +175,16 @@ Ce modèle dispose d'un système de commande vocale en option. La commande vocal
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le Hongqi E-HS9 Comfort. Avec le Hongqi sound system, vous obtenez huit haut-parleurs avec une puissance système maximale de  watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
 Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 3 connexions USB-A en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
@@ -199,6 +195,7 @@ Les phares standards utilisent la technologie LED. De plus, les feux arrière st
 ## Systèmes avancés d'aide à la conduite
 
 Le Hongqi E-HS9 Comfort dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -232,7 +229,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

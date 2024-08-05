@@ -26,7 +26,6 @@ Nous avons séparé notre article Mercedes-EQ EQC 400 4MATIC en sections. Si vou
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Mercedes-EQ EQC 400 4MATIC offre des performances solides avec une puissance maximale de 300 kW (408 ch) et un couple total de 760 Nm. Elle peut accélérer de 0 à 100 km/h en 5,1 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Mercedes-EQ EQC 400 4MATIC dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ La direction dynamique est une fonctionnalité un standard sur le Mercedes-EQ EQ
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
-
 
 ### Freinage régénératif
 
@@ -94,9 +90,7 @@ Il n'y a qu'un seul toit pour ce modèle. En option, vous pouvez commander ce mo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -125,7 +119,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 
-
 ## Caractéristiques de confort
 
 L'Mercedes-EQ EQC 400 4MATIC comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
@@ -135,7 +128,6 @@ L'Mercedes-EQ EQC 400 4MATIC comprend plusieurs fonctionnalités pour améliorer
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interface utilisateur et contrôle
@@ -153,20 +145,28 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/screens_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="1721"  >}}
 
-
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Mercedes-EQ EQC 400 4MATIC prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Vous pouvez choisir entre trois systèmes audio sur le Mercedes-EQ EQC 400 4MATIC. Avec le Standard, vous obtenez sept haut-parleurs avec une puissance système maximale de 100 watts. Avec le Advanced Soundsystem, vous obtenez neuf haut-parleurs avec une puissance système maximale de 225 watts. Avec le Burmester Surround Soundsystem, vous obtenez 13 haut-parleurs avec une puissance système maximale de 590 watts.
-
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Mercedes-EQ EQC 400 4MATIC prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 
 ## Lumières
 
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Mercedes-EQ EQC 400 4MATIC dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -199,7 +199,6 @@ Avec le système Driver Assistance Package  niveau 1, vous bénéficiez des fonc
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

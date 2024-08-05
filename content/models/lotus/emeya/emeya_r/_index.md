@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Lotus Emeya R delivers a jaw-dropping maximum power of 675 KW (918 hp/905 bhp) and a massive total torque of 985 Nm (727 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.78 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 256 km/h (159 mph), making it a true marvel of engineering and performance.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Lotus Emeya R features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is a standard feature on the Lotus Emeya R. Dynamic steering va
 ### Brakes
 
 You can choose between different brake systems. The standard option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 412mm, and the rear discs are 397mm. The second option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 412mm, and the rear discs are 397mm.
-
 
 ### Regenerative braking
 
@@ -99,7 +95,6 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -134,7 +129,6 @@ You can choose from 5 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_r/frontseats_1_st.jpg" title="Lotus Emeya R" width="3000" height="1687"  >}}
-
 
 #### Second-row seats
 
@@ -175,7 +169,6 @@ The Lotus Emeya R includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 
@@ -195,7 +188,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -209,12 +201,15 @@ Furthermore, the Lotus Emeya R supports Android Auto and Apple CarPlay. This fun
 You can choose between two sound systems on the Lotus Emeya R. With the KEF Premium Audio system, you get 15 speakers with a max system output of 1380 watts. With the KEF Reference Audio system, you get 23 speakers with a max system output of 2160 watts.
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Lotus Emeya R has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -253,12 +248,12 @@ With the   level 2 system, you get the following driving automation features.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 688 liters. With the rear seat down, it is 1532 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 46 liters (1.6 CU FT). The maxium weight of the car is 3100 kg (6834 lbs), and with the base weight of 2565 kg (5655 lbs), you can max load 535 kg (1179 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1225, and on unbraked, it is 750 kg (2701/1653 lbs).
+
 ### Availability & Pricing
 
 This model had a world premiere on 12.10.2023, and deliveries is expected to start in March 2024.<div class="mt-3 mb-3">

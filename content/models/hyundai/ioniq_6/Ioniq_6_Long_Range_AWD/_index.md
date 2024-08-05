@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Hyundai Ioniq 6 Long Range AWD delivers a solid performance with a maximum power of 239 kW (325 hp / 321 bhp) and a total torque of 605 Nm (446 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.1 seconds and reaches a top speed of 185 km/h (115 mph), making it competitive within its class.
@@ -52,18 +51,15 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Hyundai Ioniq 6 Long Range AWD features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 141 mm.
 
 ### Brakes
-
 
 
 
@@ -97,13 +93,10 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 
-
 ### Seats
-
 
 
 #### First row seats
@@ -127,7 +120,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/frontseats_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2000"  >}}
-
 
 #### Second-row seat
 
@@ -162,7 +154,6 @@ The Hyundai Ioniq 6 Long Range AWD includes several features to enhance comfort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Hyundai Ioniq 6 Long Range AWD has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -178,9 +169,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/screens_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2000"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -195,6 +184,7 @@ Furthermore, the Hyundai Ioniq 6 Long Range AWD supports Android Auto and Apple 
 One type of sound system is available for the Hyundai Ioniq 6 Long Range AWD. With the Bose Premium Sound System, you get eight speakers with a max system output of  watts.
 
 The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -205,6 +195,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Advanced driver assistance systems
 
 The Hyundai Ioniq 6 Long Range AWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -236,7 +227,6 @@ With the   level 2 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

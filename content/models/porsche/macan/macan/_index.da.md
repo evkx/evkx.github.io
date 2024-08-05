@@ -26,7 +26,6 @@ Vi har opdelt vores Porsche Macan artikel i sektioner. Hvis du vil vente med at 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Med overboost når Porsche Macan en maksimal effekt på 265 kW (360 hk). Uden overboost leverer den 250 kW (340 hk). Det maksimale drejningsmoment er 563 Nm. Den kan accelerere fra 0 til 100 km/t på 5,7 sekunder og når en topfart på 220 km/t, hvilket demonstrerer dens solide præstation.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Porsche Macan har et baghjulstræksystem, der understøttes af en motor på bagakslen. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en standard-funktion på Porsche Macan. Dynamisk styring var
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 410mm, og de bagerste skiver er 365mm.
-
 
 ### Regenerativ bremsning
 
@@ -104,9 +100,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -154,7 +148,6 @@ Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 
-
 #### Sæde på anden række
 
 
@@ -186,7 +179,6 @@ Porsche Macan inkluderer flere funktioner, der forbedrer komfort og bekvemmeligh
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Porsche Macan har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet.
@@ -203,22 +195,32 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/porsche/macan/macan/screens_1_st.jpeg" title="Porsche Macan" width="3000" height="1687"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Porsche Macan Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Porsche Macan. Med  BOSE® Surround Sound System får du 14 højttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 højttalere med en maksimal systemeffekt på 1470 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Porsche Macan Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Porsche Macan. Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 Porsche Macan har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -255,7 +257,6 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

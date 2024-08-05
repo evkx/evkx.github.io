@@ -26,7 +26,6 @@ Nous avons séparé notre article BYD Seal U Design en sections. Si vous souhait
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 L'BYD Seal U Design offre des performances modestes avec une puissance maximale de 160 kW (218 ch) et un couple total de 310 Nm. Il accélère de 0 à 100 km/h en 9,3 secondes et atteint une vitesse maximale de 175 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -48,7 +47,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/charging_1_st.jpg" title="BYD Seal U Design" width="3000" height="1976"  >}}
 
-
 ### Port de recharge
 
 L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
@@ -56,11 +54,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 BYD Seal U Design dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -73,7 +69,6 @@ La direction dynamique est une fonctionnalité un standard sur le BYD Seal U Des
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
-
 
 ### Freinage régénératif
 
@@ -104,9 +99,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -130,7 +123,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/frontseats_1_st.jpg" title="BYD Seal U Design" width="3000" height="1687"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -168,7 +160,6 @@ L'BYD Seal U Design comprend plusieurs fonctionnalités pour améliorer le confo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le BYD Seal U Design possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -184,14 +175,22 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/screens_1_st.jpg" title="BYD Seal U Design" width="3000" height="1986"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le BYD Seal U Design prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Un type de système audio est disponible pour le BYD Seal U Design. Avec le Dynaudio Performance Audio System, vous obtenez 12 haut-parleurs avec une puissance système maximale de  watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le BYD Seal U Design prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
@@ -202,6 +201,7 @@ Les phares standards utilisent la technologie LED. De plus, les feux arrière st
 ## Systèmes avancés d'aide à la conduite
 
 Le BYD Seal U Design dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -234,7 +234,6 @@ Avec le système Smart Pilot  niveau 2, vous bénéficiez des fonctionnalités d
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

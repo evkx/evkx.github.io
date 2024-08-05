@@ -26,7 +26,6 @@ Nous avons séparé notre article Cadillac OPTIQ AWD en sections. Si vous souhai
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Cadillac OPTIQ AWD offre des performances solides avec une puissance maximale de 224 kW (305 ch) et un couple total de 480 Nm. Elle peut accélérer de 0 à 100 km/h en 5,9 secondes et atteindre une vitesse maximale de 210 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Cadillac OPTIQ AWD dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) au niveau de l'essieu avant et des [Moteurs à induction](../../../../technology/motors/asm/) sur l'essieu arrière.
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 432 mm et les disques arrière mesurent 432 mm.
-
 
 ### Freinage régénératif
 
@@ -91,13 +87,10 @@ Il existe deux options de toit différentes à choisir. Le toit standard a un gr
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 
-
 ### Sièges
-
 
 
 #### Sièges de première rangée
@@ -121,7 +114,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/cadillac/optiq/frontseats_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="1684"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -157,7 +149,6 @@ L'Cadillac OPTIQ AWD comprend plusieurs fonctionnalités pour améliorer le conf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Cadillac OPTIQ AWD a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement.
@@ -177,17 +168,26 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Cadillac OPTIQ AWD prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le Cadillac OPTIQ AWD. Avec le AKG sound system, vous obtenez 19 haut-parleurs avec une puissance système maximale de  watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Cadillac OPTIQ AWD prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 5 connexions USB-C en standard.
-## Lumières
 
+## Lumières
 
 ## Systèmes avancés d'aide à la conduite
 
 Le Cadillac OPTIQ AWD dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -212,7 +212,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

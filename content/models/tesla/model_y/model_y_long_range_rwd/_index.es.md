@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Tesla Model Y Long Range RWD en secciones. Si d
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Tesla Model Y Long Range RWD ofrece un rendimiento sólido con una potencia máxima de 250 kW (340 hp) y un par total de 450 Nm. Puede acelerar de 0 a 100 km/h en 5,9 segundos y alcanza una velocidad máxima de 217 km/h, lo que lo hace competitivo en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en la [esquina trasera izquierda](../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Tesla Model Y Long Range RWD tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
-
 
 ### Suspensión
 
@@ -69,7 +66,6 @@ La dirección dinámica es una característica un estándar en el Tesla Model Y 
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 355 mm y los discos traseros de 355 mm.
-
 
 ### Frenado regenerativo
 
@@ -102,9 +98,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -129,7 +123,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/frontseats_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2000"  >}}
 
-
 #### Asiento de segunda fila
 
 
@@ -139,7 +132,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 60:4
 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/secondrowseats_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2000"  >}}
-
 
 #### Asientos de tercera fila
 
@@ -176,7 +168,6 @@ El Tesla Model Y Long Range RWD incluye varias características para mejorar la 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Tesla Model Y Long Range RWD tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil.
@@ -196,17 +187,24 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el Tesla Model Y Long Range RWD. Con el Tesla Premium Sound, obtienes 13 parlantes con una salida máxima del sistema de 560 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
-
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Tesla Model Y Long Range RWD tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -254,12 +252,12 @@ Utiliza ocho [cámaras](../../../../technology/sensorsandcameras/cameras/) para 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 854 litros. Con el asiento trasero abatido, es de 2158 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 117 litros (4,1 CU FT). El peso máximo del automóvil es 2600 kg (5732 lbs), y con el peso base de 1959 kg (4319 lbs), puedes cargar como máximo 641 kg (1413 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Una barra de remolque es equipo estándar en este modelo. El peso total máximo en un remolque con freno es 1600, y sin freno, es 750 kg (3527/1653 lbs).
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 19.03.2019 y las entregas comenzaron en March 2020.<div class="mt-3 mb-3">

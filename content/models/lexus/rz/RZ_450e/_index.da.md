@@ -26,7 +26,6 @@ Vi har opdelt vores Lexus RZ 450e artikel i sektioner. Hvis du vil vente med at 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Lexus RZ 450e leverer en solid præstation med en maksimal effekt på 230 kW (313 hk) og et totalt drejningsmoment på 435 Nm. Den kan accelerere fra 0 til 100 km/t på 5,3 sekunder og når en topfart på 160 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordlader understøtter op til 6,6 kW til Level 1 og Level 2 AC-o
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/charging_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at lade stationer, hvor du parkerer siden ind i ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
@@ -56,18 +54,15 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Lexus RZ 450e har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
-
 
 ### Hjulophæng
 
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 177 mm.
 
 ### Bremser
-
 
 
 
@@ -99,13 +94,10 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 
-
 ### Sæder
-
 
 
 #### Første række sæder
@@ -126,7 +118,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/frontseats_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
-
 
 #### Sæde på anden række
 
@@ -161,7 +152,6 @@ Lexus RZ 450e inkluderer flere funktioner, der forbedrer komfort og bekvemmeligh
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 To forskellige skærmopsætninger er tilgængelige på Lexus RZ 450e.
@@ -188,14 +178,22 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/screens_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en valgfri navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Lexus RZ 450e Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Lexus RZ 450e. Med Standard får du 14 højttalere med en maksimal systemeffekt på  watt. Med Mark Levinson Premium Surround Sound får du 14 højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med valgfrit navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Lexus RZ 450e Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 5 USB-C-forbindelser som standard.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Lexus RZ 450e. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -206,6 +204,7 @@ Du kan vælge mellem to typer forlygter til Lexus RZ 450e. Standardlygterne brug
 ## Avancerede førerassistentsystemer
 
 Lexus RZ 450e har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -229,7 +228,6 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

@@ -26,7 +26,6 @@ Nous avons séparé notre article Porsche Taycan Turbo GT en sections. Si vous s
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 Grâce à l'overboost, la Porsche Taycan Turbo GT délivre une puissance maximale époustouflante de 815 kW (1108 ch). Même sans l'overboost, elle offre une puissance formidable de 815 kW (1108 ch). Le couple maximal atteint un incroyable 1340 Nm. Cette bête de puissance peut passer de 0 à 100 km/h en seulement 2,3 secondes et atteint une vitesse maximale de 300 km/h, soulignant ainsi ses performances à couper le souffle.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Porsche Taycan Turbo GT dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -71,7 +68,6 @@ La direction dynamique est une fonctionnalité un standard sur le Porsche Taycan
 ### Freins
 
 Les freins arrière et avant sont des [disques en céramique](../../../../technology/brakes/#ceramic-brakes). Les disques avant mesurent 420 mm et les disques arrière mesurent 410 mm.
-
 
 ### Freinage régénératif
 
@@ -104,9 +100,7 @@ Il existe trois options de toit différentes à choisir. Le standard est juste u
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -145,7 +139,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt/frontseats_1_st.jpg" title="Porsche Taycan Turbo GT" width="3000" height="1687"  >}}
 
-
 #### Sièges de deuxième rangée
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Porsche Taycan Turbo GT.
@@ -180,7 +173,6 @@ L'Porsche Taycan Turbo GT comprend plusieurs fonctionnalités pour améliorer le
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Porsche Taycan Turbo GT possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en bas de la console centrale. Pour le passager, il y a un [écran d'infodivertissement] en option (../../../../technology/userinterface/screens/#front-passenger-screen).
@@ -198,22 +190,30 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt/screens_1_st.jpg" title="Porsche Taycan Turbo GT" width="3000" height="1687"  >}}
 
-
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Porsche Taycan Turbo GT prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Vous pouvez choisir entre trois systèmes audio sur le Porsche Taycan Turbo GT. Avec le Porsche Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 150 watts. Avec le  BOSE® Surround Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de 710 watts. Avec le  Burmester® 3D High-End Surround Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 1455 watts.
-
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Porsche Taycan Turbo GT prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 
 ## Lumières
 
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Porsche Taycan Turbo GT dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -252,12 +252,12 @@ Avec le système Porsche InnoDrive  niveau 2, vous bénéficiez de fonctionnalit
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement du coffre est de 366 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2880 kg (6349 lbs), et avec le poids de base de 2230 kg (4916 lbs), vous pouvez charger au maximum 650 kg (1433 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+
 ### Disponibilité et prix
 
 <div class="mt-3 mb-3">

@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Opel Frontera i avsnitt. Om du vill vänta m
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Opel Frontera erbjuder grundläggande prestanda med en maximal effekt på 83 kW (113 hk) och ett totalt vridmoment på 120 Nm. Den accelererar från 0 till 100 km/h på 11 sekunder och når en topphastighet på 135 km/h, vilket är mer jämförbart med instegsmodeller av traditionella förbränningsmotorfordon.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Opel Frontera har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
-
 
 ### Hjulupphängning
 
@@ -69,7 +66,6 @@ Dynamisk styrning är standard-funktionen för Opel Frontera. Dynamisk styrning 
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bromsning
 
@@ -101,9 +97,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -128,7 +122,6 @@ Följande funktioner är tillgängliga på **Advanced Comfort** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - Black/Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
-
 
 
 #### Säten på andra raden
@@ -168,7 +161,6 @@ Opel Frontera inkluderar flera funktioner för att förbättra komfort och bekv�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Opel Frontera har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
@@ -189,11 +181,20 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Opel Frontera Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan välja mellan två ljudsystem på Opel Frontera. Med  får du två högtalare med en maximal systemeffekt på  watt. Med Max Sound system får du två högtalare med en maximal systemeffekt på  watt.
 
-Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Opel Frontera Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
@@ -204,6 +205,7 @@ Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-
 ## Avancerade förarassistanssystem
 
 Opel Frontera har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -227,7 +229,6 @@ Denna modell använder kameror, radar och ultraljudssensorer för förarassistan
 Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), common.number.zero [LiDARsensorer](../../../../technology/sensorsandcameras/lidar/), en [kameraer](../../../../technology/sensorsandcameras/cameras/), og fyra [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

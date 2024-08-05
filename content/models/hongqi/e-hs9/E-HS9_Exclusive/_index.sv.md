@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Hongqi E-HS9 Exclusive i avsnitt. Om du vill
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Hongqi E-HS9 Exclusive imponerar med en imponerande kraft på 405 kW (551 hk) och ett imponerande totalt vridmoment på 670 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 4,9 sekunder och når en topphastighet på 200 km/h, vilket gör den till en stjärna i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Hongqi E-HS9 Exclusive har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -69,7 +66,6 @@ Dynamisk styrning är standard-funktionen för Hongqi E-HS9 Exclusive. Dynamisk 
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bromsning
 
@@ -97,9 +93,7 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -122,7 +116,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
-
 
 
 #### Säten på andra raden
@@ -149,7 +142,6 @@ Det finns ett tillgängligt klimatsystem.
 
 - **6-zons klimatsystem:** Stöder olika temperaturer i sex zoner: förare, passagerare och två zoner, både på raden 2 och 3.
 
-
 ## Komfortfunktioner
 
 Hongqi E-HS9 Exclusive inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -161,7 +153,6 @@ Hongqi E-HS9 Exclusive inkluderar flera funktioner för att förbättra komfort 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Användargränssnitt och kontroll
@@ -186,11 +177,16 @@ Denna modell har ett valfritt röststyrningssystem. Röstkontrollen låter dig s
 
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för Hongqi E-HS9 Exclusive. Med Hongqi sound system får du 12 högtalare med en maximal systemeffekt på  watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### header.soundsystem
+
+En typ av ljudsystem är tillgänglig för Hongqi E-HS9 Exclusive. Med Hongqi sound system får du 12 högtalare med en maximal systemeffekt på  watt.
+
 Modellen har 1 USB-C-anslutningar som standard. Modellen har 3 USB-A-anslutningar som standard.
+
 ## Ljus
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Dessutom använder standardbakljusen LED-teknik.
@@ -201,6 +197,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 ## Avancerade förarassistanssystem
 
 Hongqi E-HS9 Exclusive har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -234,7 +231,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

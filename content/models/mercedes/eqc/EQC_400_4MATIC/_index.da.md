@@ -26,7 +26,6 @@ Vi har opdelt vores Mercedes-EQ EQC 400 4MATIC artikel i sektioner. Hvis du vil 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Mercedes-EQ EQC 400 4MATIC leverer en solid præstation med en maksimal effekt på 300 kW (408 hk) og et totalt drejningsmoment på 760 Nm. Den kan accelerere fra 0 til 100 km/t på 5,1 sekunder og når en topfart på 180 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Mercedes-EQ EQC 400 4MATIC har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/).
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en standard-funktion på Mercedes-EQ EQC 400 4MATIC. Dynamis
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsning
 
@@ -94,9 +90,7 @@ Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -125,7 +119,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 
-
 ## Komfortfunktioner
 
 Mercedes-EQ EQC 400 4MATIC inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
@@ -135,7 +128,6 @@ Mercedes-EQ EQC 400 4MATIC inkluderer flere funktioner, der forbedrer komfort og
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brugergrænseflade og kontrol
@@ -153,20 +145,28 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/screens_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="1721"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Mercedes-EQ EQC 400 4MATIC Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan vælge mellem tre lydsystemer på Mercedes-EQ EQC 400 4MATIC. Med Standard får du syv højttalere med en maksimal systemeffekt på 100 watt. Med Advanced Soundsystem får du ni højttalere med en maksimal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 højttalere med en maksimal systemeffekt på 590 watt.
-
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Mercedes-EQ EQC 400 4MATIC Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 
 ## Lys
 
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 Mercedes-EQ EQC 400 4MATIC har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -199,7 +199,6 @@ Med Driver Assistance Package  niveau 1-systemet får du følgende køreautomati
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

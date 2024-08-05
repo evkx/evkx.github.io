@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Porsche Taycan Turbo S Cross Turismo i avsni
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Med overboost levererar Porsche Taycan Turbo S Cross Turismo en häpnadsväckande maximal effekt på 700 kW (952 hk). Även utan overboost har den en formidabel effekt på 775 kW (939 hk). Det maximala vridmomentet når otroliga 1110 Nm. Denna kraftfulla maskin kan accelerera från 0 till 100 km/h på endast 2,5 sekunder och når en topphastighet på 250 km/h, vilket understryker dess imponerande prestanda.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Porsche Taycan Turbo S Cross Turismo har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -73,7 +70,6 @@ Dynamisk styrning är standard-funktionen för Porsche Taycan Turbo S Cross Turi
 ### Bromsar
 
 Bromsar bak och fram är [keramiska skivor](../../../../technology/brakes/#ceramic-brakes). De främre skivorna är 420mm och de bakre skivorna är 410mm.
-
 
 ### Regenerativ bromsning
 
@@ -106,9 +102,7 @@ Det finns tre olika takalternativ att välja mellan. Standardinställningen är 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -151,7 +145,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/frontseats_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
-
 #### Säten på andra raden
 
 Du kan välja två sätestyper för den andra raden i Porsche Taycan Turbo S Cross Turismo.
@@ -190,7 +183,6 @@ Porsche Taycan Turbo S Cross Turismo inkluderar flera funktioner för att förb�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Porsche Taycan Turbo S Cross Turismo har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface /screens/#infotainment-screen) längst ner på mittkonsolen För passageraren finns en valfri [infotainment-skärm](../../../../technology/userinterface/screens/#front-passager-screen).
@@ -208,13 +200,19 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Porsche Taycan Turbo S Cross Turismo Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan välja mellan tre ljudsystem på Porsche Taycan Turbo S Cross Turismo. Med Porsche Sound system får du tio högtalare med en maximal systemeffekt på 150 watt. Med  BOSE® Surround Sound System får du 14 högtalare med en maximal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 högtalare med en maximal systemeffekt på 1455 watt.
-
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Porsche Taycan Turbo S Cross Turismo Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 
 ## Ljus
 
@@ -228,6 +226,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 Porsche Taycan Turbo S Cross Turismo har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -266,12 +265,12 @@ Med Porsche InnoDrive  nivå 2-systemet får du fler körautomatiseringsfunktion
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastkapaciteten i bagageutrymmet är 405 liter. Med baksätet nedfällt är det 1171 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 84 liter. Bilens maximala vikt är 2880 kg, och med basvikten på 2250 kg kan du lasta maximalt 630 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+
 ### Tillgänglighet och pris
 
 Denna modell hade världspremiär 07.02.2024 och leveranserna startade i June 2024.<div class="mt-3 mb-3">

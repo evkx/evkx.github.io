@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Mercedes-EQ EQE 350+ SUV delivers a solid performance with a maximum power of 215 kW (292 hp / 288 bhp) and a total torque of 565 Nm (417 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.9 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
@@ -48,7 +47,6 @@ The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC cha
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350plus_suv/charging_1_st.jpg" title="Mercedes-EQ EQE 350+ SUV" width="3000" height="2001"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Mercedes-EQ EQE 350+ SUV has a rear-wheel drive system supported by one motor on the rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -73,7 +69,6 @@ Dynamic steering is a standard feature on the Mercedes-EQ EQE 350+ SUV. Dynamic 
 ### Brakes
 
 You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The second option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes).
-
 
 ### Regenerative braking
 
@@ -110,9 +105,7 @@ There are two different roof options to select from. The standard is just a regu
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -158,7 +151,6 @@ You can choose from 5 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350plus_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQE 350+ SUV" width="3000" height="2250"  >}}
 
-
 #### Second-row seat
 
 
@@ -191,7 +183,6 @@ The Mercedes-EQ EQE 350+ SUV includes several features to enhance comfort and co
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -227,7 +218,6 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -241,6 +231,7 @@ Furthermore, the Mercedes-EQ EQE 350+ SUV supports Android Auto and Apple CarPla
 You can choose between two sound systems on the Mercedes-EQ EQE 350+ SUV. With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get 13 speakers with a max system output of 590 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the Mercedes-EQ EQE 350+ SUV. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -251,6 +242,7 @@ You can choose between two types of headlights for the Mercedes-EQ EQE 350+ SUV.
 ## Advanced driver assistance systems
 
 The Mercedes-EQ EQE 350+ SUV has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -285,7 +277,6 @@ With the Driver Assistance Package Plus  level 2 system, you get additional driv
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

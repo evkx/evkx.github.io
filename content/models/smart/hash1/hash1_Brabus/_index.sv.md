@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Smart #1 Brabus i avsnitt. Om du vill vänta
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Smart #1 Brabus levererar en solid prestanda med en maximal effekt på 315 kW (428 hk) och ett totalt vridmoment på 584 Nm. Den kan accelerera från 0 till 100 km/h på 3,9 sekunder och når en topphastighet på 180 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Smart #1 Brabus har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
-
 
 ### Hjulupphängning
 
@@ -65,7 +62,6 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 350mm och de bakre skivorna är 333mm.
-
 
 ### Regenerativ bromsning
 
@@ -92,9 +88,7 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -118,7 +112,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/frontseats_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
-
 
 #### Säten på andra raden
 
@@ -156,7 +149,6 @@ Smart #1 Brabus inkluderar flera funktioner för att förbättra komfort och bek
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 
@@ -171,14 +163,18 @@ En head-up display är ett standard-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/screens_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
-
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för Smart #1 Brabus. Med Yamaha surround sound system får du 13 högtalare med en maximal systemeffekt på 1040 watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### header.soundsystem
+
+En typ av ljudsystem är tillgänglig för Smart #1 Brabus. Med Yamaha surround sound system får du 13 högtalare med en maximal systemeffekt på 1040 watt.
+
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Smart #1 Brabus. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
@@ -191,6 +187,7 @@ Du kan välja mellan två typer av strålkastare för Smart #1 Brabus. Standardl
 Smart #1 Brabus har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -221,7 +218,6 @@ Med Pilot Assist  nivå 2-systemet får du följande körautomatiseringsfunktion
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

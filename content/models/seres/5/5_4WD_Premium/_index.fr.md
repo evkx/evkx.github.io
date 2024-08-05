@@ -26,7 +26,6 @@ Nous avons séparé notre article Seres 5 4WD Premium en sections. Si vous souha
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Seres 5 4WD Premium impressionne avec une puissance maximale de 430 kW (585 ch) et un couple total impressionnant de 940 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4 secondes, et atteint une vitesse maximale de 200 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Seres 5 4WD Premium dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
-
 
 ### Freinage régénératif
 
@@ -97,13 +93,11 @@ Les vitres du montant B et de l'arrière sont teintées.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
-
 
 
 #### Sièges de première rangée
@@ -126,7 +120,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 - Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 
-
 #### Siège de deuxième rangée
 
 
@@ -143,7 +136,6 @@ Un système climatique est disponible.
 
 - **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
 
-
 ## Caractéristiques de confort
 
 L'Seres 5 4WD Premium comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
@@ -154,7 +146,6 @@ L'Seres 5 4WD Premium comprend plusieurs fonctionnalités pour améliorer le con
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interface utilisateur et contrôle
@@ -171,20 +162,26 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/screens_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
 
 Un type de système audio est disponible pour le Seres 5 4WD Premium. Avec le , vous obtenez 11 haut-parleurs avec une puissance système maximale de  watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Seres 5 4WD Premium dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -212,7 +209,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

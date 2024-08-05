@@ -26,7 +26,6 @@ Nous avons séparé notre article Audi Q8 e-tron edition Dakar en sections. Si v
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 Avec overboost, l'Audi Q8 e-tron edition Dakar atteint une puissance maximale de  300 kW (408 ch). Sans overboost, elle délivre 265 kW (360 ch). Le couple maximal est de 664 Nm. Elle peut accélérer de 0 à 100 km/h en 5,8 secondes et atteint une vitesse maximale de 200 km/h, démontrant ses performances solides.
@@ -48,7 +47,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/charging_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
-
 ### Port de recharge
 
 L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite la recharge des bornes où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés. Un deuxième port se trouve sur le [côté avant droit](../../../../technology/charging/connectors/#front-side). Ce port supplémentaire vous offre plus d'options de stationnement pour la recharge AC. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**J1772**](../../../../technology/charging/connectors/# j1772) pour l'Amérique du Nord et l'Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Voir les spécifications complètes pour tous les marchés.
@@ -56,11 +54,9 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Audi Q8 e-tron edition Dakar dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
-
 
 ### Suspension
 
@@ -84,11 +80,9 @@ Le Audi Q8 e-tron edition Dakar permet à l'utilisateur de sélectionner différ
 - Auto : direction équilibrée, hauteur de suspension adaptative avec accélérateur équilibré et amortissement de suspension adaptatif.
 - Custom : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
 
-
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 375 mm et les disques arrière mesurent 350 mm.
-
 
 ### Freinage régénératif
 
@@ -122,9 +116,7 @@ Les vitres du montant B et de l'arrière sont teintées. En option, des vitres l
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -209,7 +201,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/frontseats_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
-
 #### Siège de deuxième rangée
 
 
@@ -248,7 +239,6 @@ L'Audi Q8 e-tron edition Dakar comprend plusieurs fonctionnalités pour amélior
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Audi Q8 e-tron edition Dakar possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il existe deux [écrans d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -265,14 +255,22 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/screens_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Audi Q8 e-tron edition Dakar prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Vous pouvez choisir entre deux systèmes audio sur le Audi Q8 e-tron edition Dakar. Avec le Audi Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 180 watts. Avec le Bang & Olufsen Sound System, vous obtenez 16 haut-parleurs avec une puissance système maximale de 700 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Audi Q8 e-tron edition Dakar prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
+
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le Audi Q8 e-tron edition Dakar. Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant. Des phares basés sur la technologie LED Digital Matrix sont disponibles en option. De plus, les feux arrière standard utilisent la technologie LED.
@@ -285,6 +283,7 @@ Vous pouvez choisir entre deux types de phares pour le Audi Q8 e-tron edition Da
 Le Audi Q8 e-tron edition Dakar dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -326,7 +325,6 @@ Ce modèle utilise des caméras, des radars et des capteurs à ultrasons pour le
 Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/), et 12 [capteurs à ultrasons](../../../../technology/sensorsandcameras/ultrasonic/) enregistrent tout ce qui se passe dans le l'environnement du véhicule.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

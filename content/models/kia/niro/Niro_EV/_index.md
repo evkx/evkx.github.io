@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Kia Niro EV offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 255 Nm (188 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.8 seconds and has a top speed of 167 km/h (104 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/charging_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [front](../../../../technology/charging/connectors/#front). This location makes it easy to use charge stations where you need to park with the front in. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,18 +54,15 @@ The location of the charge port is on the [front](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Kia Niro EV has a rear-wheel drive system supported by one motor on the rear axle.
-
 
 ### Suspension
 
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 160 mm.
 
 ### Brakes
-
 
 
 
@@ -101,13 +96,11 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
 
 ### Seats
-
 
 
 #### First row seats
@@ -130,7 +123,6 @@ You can choose from 6 different materials/colors for this seat type.
 - Gray [leather upholstering](../../../../technology/seats/materials/#leather)
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
-
 
 
 #### Second-row seat
@@ -166,7 +158,6 @@ The Kia Niro EV includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Kia Niro EV has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -182,9 +173,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/screens_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -199,12 +188,15 @@ Furthermore, the Kia Niro EV supports Android Auto and Apple CarPlay. This funct
 You can choose between two sound systems on the Kia Niro EV. With the Standard, you get six speakers with a max system output of  watts. With the Meridian Premium Sound System, you get 14 speakers with a max system output of  watts.
 
 The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Kia Niro EV has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -235,7 +227,6 @@ With the   level 2 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

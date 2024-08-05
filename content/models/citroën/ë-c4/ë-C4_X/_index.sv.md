@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Citroën ë-C4 X i avsnitt. Om du vill vänt
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Citroën ë-C4 X erbjuder blygsamma prestanda med en maximal effekt på 115 kW (156 hk) och ett totalt vridmoment på 260 Nm. Den accelererar från 0 till 100 km/h på 9 sekunder och har en topphastighet på 150 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
@@ -52,18 +51,15 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Citroën ë-C4 X har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
-
 
 ### Hjulupphängning
 
 Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 170 mm.
 
 ### Bromsar
-
 
 
 
@@ -95,7 +91,6 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
 
 Det finns en sätestyp du kan välja i olika material.
@@ -118,7 +113,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-
 
 
 #### Säten på andra raden
@@ -149,7 +143,6 @@ Citroën ë-C4 X inkluderar flera funktioner för att förbättra komfort och be
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 
@@ -163,10 +156,17 @@ En head-up display är ett standard-system som visar hastighet och annan viktig 
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Citroën ë-C4 X Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 En typ av ljudsystem är tillgänglig för Citroën ë-C4 X. Med  får du NULL högtalare med en maximal systemeffekt på  watt.
-
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Citroën ë-C4 X Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 
 ## Ljus
 
@@ -178,6 +178,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 ## Avancerade förarassistanssystem
 
 Citroën ë-C4 X har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -193,7 +194,6 @@ Med DS Drive Assist  nivå 1-systemet får du följande körautomationsfunktione
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

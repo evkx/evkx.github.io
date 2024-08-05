@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Aion Hyper GT 710 Supercharged en secciones. Si
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Aion Hyper GT 710 Supercharged ofrece un rendimiento sólido con una potencia máxima de 250 kW (340 hp) y un par total de 430 Nm. Puede acelerar de 0 a 100 km/h en 4,9 segundos y alcanza una velocidad máxima de 257 km/h, lo que lo hace competitivo en su clase.
@@ -44,7 +43,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 ### Cargador a bordo
 
 
-
 ### Puerto de carga
 
 Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
@@ -52,11 +50,9 @@ Los tipos de conectores varían entre los diferentes mercados. Este modelo utili
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Aion Hyper GT 710 Supercharged tiene un sistema de tracción trasera sostenido por un motor en el eje trasero.
-
 
 ### Suspensión
 
@@ -66,9 +62,7 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
 
-
 ### Frenado regenerativo
-
 
 
 ## Exterior
@@ -94,9 +88,7 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -122,7 +114,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/frontseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1875" height="1250"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -163,7 +154,6 @@ El Aion Hyper GT 710 Supercharged incluye varias características para mejorar l
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 
@@ -178,12 +168,14 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/screens_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="2500" height="1250"  >}}
 
-
 ## Infoentretenimiento
+
+### header.soundsystem
 
 Un tipo de sistema de sonido está disponible para el Aion Hyper GT 710 Supercharged. Con el , obtienes 23 parlantes con una salida máxima del sistema de  vatios.
 
 El modelo tiene 1 conexiones USB-C de serie.
+
 ## Luces
 
 
@@ -194,6 +186,7 @@ El modelo tiene 1 conexiones USB-C de serie.
 ## Sistemas avanzados de asistencia al conductor
 
 El Aion Hyper GT 710 Supercharged tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -218,12 +211,12 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 500 litros. Con el asiento trasero abatido, es de 1100 litros. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 60 litros (2,1 CU FT).
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 31.12.2022 y las entregas comenzaron en October 2023.<div class="mt-3 mb-3">

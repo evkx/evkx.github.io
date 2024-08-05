@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Fisker Ocean Extreme i avsnitt. Om du vill v
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Med överboost når Fisker Ocean Extreme en maximal effekt på 415 kW (564 hk). Utan överboost ger den en stark effekt på 344 kW (468 hk). Det maximala vridmomentet är 737 Nm. Denna kraftpaket kan accelerera från 0 till 100 km/h på bara 4 sekunder och har en topphastighet på 205 km/h, vilket visar dess imponerande prestanda.
@@ -48,7 +47,6 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/charging_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="2250"  >}}
 
-
 ### Laddningsport
 
 Platsen för laddningsporten är på [vänster front](../../../../technology/charging/connectors/#front-side). Detta placering gör det enkelt att ladda stationer där du parkerar sidan i laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
@@ -56,11 +54,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Fisker Ocean Extreme har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
-
 
 ### Hjulupphängning
 
@@ -75,11 +71,9 @@ Fisker Ocean Extreme låter användaren välja olika [drivemodes](../../../../te
 - Hyper: Balanserad styrning, dynamiskt gasreglage och medelhög upphöjning.
 - Snow/Ice: Balanserad styrning, med effektiv gaspådrag och låg upplyftsregen.
 
-
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bromsning
 
@@ -107,7 +101,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiör
@@ -139,7 +132,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/frontseats_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="1687"  >}}
-
 
 #### Säten på andra raden
 
@@ -173,7 +165,6 @@ Fisker Ocean Extreme inkluderar flera funktioner för att förbättra komfort oc
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Fisker Ocean Extreme har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
@@ -189,22 +180,28 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/screens_1_st.jpg" title="Fisker Ocean Extreme" width="1920" height="1080"  >}}
 
-
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för Fisker Ocean Extreme. Med Fisker Hypersound 3D får du 16 högtalare med en maximal systemeffekt på 500 watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### header.soundsystem
+
+En typ av ljudsystem är tillgänglig för Fisker Ocean Extreme. Med Fisker Hypersound 3D får du 16 högtalare med en maximal systemeffekt på 500 watt.
+
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 Fisker Ocean Extreme har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -236,7 +233,6 @@ Med Fisker Intelligent Pilot  nivå 2-systemet får du följande körautomatiser
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

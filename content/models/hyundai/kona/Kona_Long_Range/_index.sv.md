@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Hyundai Kona Long Range i avsnitt. Om du vil
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Hyundai Kona Long Range erbjuder blygsamma prestanda med en maximal effekt på 160 kW (218 hk) och ett totalt vridmoment på 255 Nm. Den accelererar från 0 till 100 km/h på 7,3 sekunder och har en topphastighet på 185 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
@@ -48,7 +47,6 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/charging_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2054"  >}}
 
-
 ### Laddningsport
 
 Platsen för laddningsporten är på [fronten](../../../../technology/charging/connectors/#front). Denna plats gör det lättanvända laddstationer där du måste parkera med fronten in. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
@@ -56,18 +54,15 @@ Platsen för laddningsporten är på [fronten](../../../../technology/charging/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Hyundai Kona Long Range har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
-
 
 ### Hjulupphängning
 
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 178 mm.
 
 ### Bromsar
-
 
 
 
@@ -99,13 +94,11 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
 
 Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
-
 
 
 #### Framsäten
@@ -128,7 +121,6 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 - Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 - Green [läderklädsel](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Säten på andra raden
@@ -166,7 +158,6 @@ Hyundai Kona Long Range inkluderar flera funktioner för att förbättra komfort
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Hyundai Kona Long Range har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
@@ -182,14 +173,22 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/screens_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="1687"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Hyundai Kona Long Range Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 En typ av ljudsystem är tillgänglig för Hyundai Kona Long Range. Med Bose Premium Sound System får du sju högtalare med en maximal systemeffekt på  watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Hyundai Kona Long Range Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
@@ -200,6 +199,7 @@ Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-
 ## Avancerade förarassistanssystem
 
 Hyundai Kona Long Range har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -234,7 +234,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

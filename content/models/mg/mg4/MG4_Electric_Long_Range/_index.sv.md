@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av MG MG4 Electric Long Range i avsnitt. Om du 
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 MG MG4 Electric Long Range erbjuder blygsamma prestanda med en maximal effekt på 150 kW (204 hk) och ett totalt vridmoment på 250 Nm. Den accelererar från 0 till 100 km/h på 7,9 sekunder och har en topphastighet på 160 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
@@ -48,7 +47,6 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/charging_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2249"  >}}
 
-
 ### Laddningsport
 
 Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
@@ -56,11 +54,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 MG MG4 Electric Long Range har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
-
 
 ### Hjulupphängning
 
@@ -69,7 +65,6 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bromsning
 
@@ -93,13 +88,11 @@ Det finns bara ett tak för denna modell. Som tillval kan du beställa denna mod
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
 
 Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
-
 
 
 #### Framsäten
@@ -118,7 +111,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/frontseats_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2000"  >}}
-
 
 #### Säten på andra raden
 
@@ -153,7 +145,6 @@ MG MG4 Electric Long Range inkluderar flera funktioner för att förbättra komf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 
@@ -173,11 +164,20 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder MG MG4 Electric Long Range Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 En typ av ljudsystem är tillgänglig för MG MG4 Electric Long Range. Med  får du NULL högtalare med en maximal systemeffekt på  watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder MG MG4 Electric Long Range Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 1 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
+
 ## Ljus
 
 
@@ -188,6 +188,7 @@ Modellen har 1 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 ## Avancerade förarassistanssystem
 
 MG MG4 Electric Long Range har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -204,7 +205,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

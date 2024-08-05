@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Lexus RZ 450e i avsnitt. Om du vill vänta m
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Lexus RZ 450e levererar en solid prestanda med en maximal effekt på 230 kW (313 hk) och ett totalt vridmoment på 435 Nm. Den kan accelerera från 0 till 100 km/h på 5,3 sekunder och når en topphastighet på 160 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -48,7 +47,6 @@ Den standard ombordladdaren stöder upp till 6,6 kW för nivå 1 och nivå 2 AC-
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/charging_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
-
 ### Laddningsport
 
 Platsen för laddningsporten är på [vänster front](../../../../technology/charging/connectors/#front-side). Detta placering gör det enkelt att ladda stationer där du parkerar sidan i laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
@@ -56,18 +54,15 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Lexus RZ 450e har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
-
 
 ### Hjulupphängning
 
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 177 mm.
 
 ### Bromsar
-
 
 
 
@@ -99,13 +94,10 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
 
 
-
 ### Säten
-
 
 
 #### Framsäten
@@ -126,7 +118,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/frontseats_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
-
 
 #### Säten på andra raden
 
@@ -161,7 +152,6 @@ Lexus RZ 450e inkluderar flera funktioner för att förbättra komfort och bekv�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Två olika skärmlayouter är tillgängliga på Lexus RZ 450e.
@@ -188,14 +178,22 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/screens_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Lexus RZ 450e Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan välja mellan två ljudsystem på Lexus RZ 450e. Med Standard får du 14 högtalare med en maximal systemeffekt på  watt. Med Mark Levinson Premium Surround Sound får du 14 högtalare med en maximal systemeffekt på  watt.
 
-Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Lexus RZ 450e Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 5 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Lexus RZ 450e. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför. Dessutom använder standardbakljusen LED-teknik.
@@ -206,6 +204,7 @@ Du kan välja mellan två typer av strålkastare för Lexus RZ 450e. Standardlam
 ## Avancerade förarassistanssystem
 
 Lexus RZ 450e har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -229,7 +228,6 @@ Med standardsystemet erbjuder modellen ingen körautomatisering.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

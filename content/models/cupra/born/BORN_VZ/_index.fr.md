@@ -26,7 +26,6 @@ Nous avons séparé notre article CUPRA BORN VZ en sections. Si vous souhaitez a
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La CUPRA BORN VZ offre des performances solides avec une puissance maximale de 240 kW (326 ch) et un couple total de 545 Nm. Elle peut accélérer de 0 à 100 km/h en 5,7 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 CUPRA BORN VZ dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ La direction dynamique est une fonctionnalité un facultatif sur le CUPRA BORN V
 ### Freins
 
 La CUPRA BORN VZ utilise des [freins à disques](../../../../technology/brakes/#disc-brakes) à l'avant pour une puissance de freinage supérieure et une dissipation thermique, tandis que des [freins à tambour](../../../../technology/brakes/#drum-brakes). sont utilisés à l'arrière pour leur rentabilité et leur durabilité. Les freins à tambour offrent des performances adéquates pour les roues arrière, nécessitent moins d'entretien et s'intègrent parfaitement au système de freinage régénératif du véhicule. Cette combinaison assure des performances de freinage optimales et une rentabilité, en accord avec les objectifs d'efficacité globaux de l'EV. Les disques avant mesurent 330 mm.
-
 
 ### Freinage régénératif
 
@@ -100,9 +96,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -128,7 +122,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/cupra/born/born_vz/frontseats_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="2191"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -160,7 +153,6 @@ L'CUPRA BORN VZ comprend plusieurs fonctionnalités pour améliorer le confort e
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le CUPRA BORN VZ dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -176,22 +168,32 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/cupra/born/born_vz/screens_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="1717"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le CUPRA BORN VZ prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Vous pouvez choisir entre deux systèmes audio sur le CUPRA BORN VZ. Avec le Sound system, vous obtenez cinq haut-parleurs avec une puissance système maximale de 140 watts. Avec le Beats Audio, vous obtenez neuf haut-parleurs avec une puissance système maximale de 395 watts.
 
-De plus, avec le système de navigation embarqué facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le CUPRA BORN VZ prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 4 connexions USB-C en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le CUPRA BORN VZ dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -232,12 +234,12 @@ Avec le système Assistantpackage plus  niveau 2, vous bénéficiez de fonctionn
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement dans le coffre est de 385 litres. Avec la banquette arrière rabattue, elle est de 1267 litres. Sur le toit, vous pouvez charger jusqu'à 0 kg (0,0 lbs). Le poids maximum de la voiture est de 2300 kg (5071 lbs), et avec le poids de base de 1895 kg (4178 lbs), vous pouvez charger au maximum 405 kg (893 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 20.02.2024 et les livraisons ont commencé en August 2024.<div class="mt-3 mb-3">

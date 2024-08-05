@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Volkswagen ID. Buzz GTX LWB i seksjoner. Hvis du
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Volkswagen ID. Buzz GTX LWB leverer solid ytelse med en maksimal effekt på 250 kW (340 hk) og et totalt dreiemoment på 560 Nm. Den kan akselerere fra 0 til 100 km/t på 6,5 sekunder og når en topphastighet på 160 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -52,14 +51,11 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Volkswagen ID. Buzz GTX LWB har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
 
-
 ### Hjuloppheng
-
 
 
 ### Styring
@@ -69,7 +65,6 @@ Dynamisk styring er tilvalg-funksjonen på Volkswagen ID. Buzz GTX LWB. Dynamisk
 ### Bremser
 
 Volkswagen ID. Buzz GTX LWB bruker [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremsekraft og varmespredning, mens [trommelbremser](../../../../technology/brakes/#trommelbremser) brukes bak for kostnadseffektivitet og holdbarhet. Trommelbremser gir tilstrekkelig ytelse for bakhjulene, krever mindre vedlikehold og integreres sømløst med kjøretøyets regenererende bremsesystem. Denne kombinasjonen sikrer optimal bremseytelse og kostnadseffektivitet, i tråd med EV-ens overordnede effektivitetsmål. De fremre skivene er 358mm.
-
 
 ### Regenerativ bremsing
 
@@ -100,13 +95,10 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 
-
 ### Seter
-
 
 
 #### Forseter
@@ -149,7 +141,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/frontseats_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2010"  >}}
 
-
 #### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Volkswagen ID. Buzz GTX LWB.
@@ -163,7 +154,6 @@ Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgj
 
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2000"  >}}
-
 
 #### Seter på tredje rad
 
@@ -195,7 +185,6 @@ Volkswagen ID. Buzz GTX LWB inkluderer flere funksjoner for å forbedre komfort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Volkswagen ID. Buzz GTX LWB har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
@@ -211,14 +200,22 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/screens_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Volkswagen ID. Buzz GTX LWB Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Én type lydsystem er tilgjengelig for Volkswagen ID. Buzz GTX LWB. Med Volkswagen Soundsystem får du seks høyttalere med en maksimal systemeffekt på 450 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Volkswagen ID. Buzz GTX LWB Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 5 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Volkswagen ID. Buzz GTX LWB. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
@@ -231,6 +228,7 @@ Du kan velge mellom to typer frontlykter for Volkswagen ID. Buzz GTX LWB. Standa
 Volkswagen ID. Buzz GTX LWB har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -265,7 +263,6 @@ Med Assistantpackage plus  nivå 2-systemet får du flere kjøreautomatiseringsf
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

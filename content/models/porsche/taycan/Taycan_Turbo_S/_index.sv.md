@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Porsche Taycan Turbo S i avsnitt. Om du vill
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Med overboost levererar Porsche Taycan Turbo S en häpnadsväckande maximal effekt på 700 kW (952 hk). Även utan overboost har den en formidabel effekt på 843 kW (939 hk). Det maximala vridmomentet når otroliga 1110 Nm. Denna kraftfulla maskin kan accelerera från 0 till 100 km/h på endast 2,4 sekunder och når en topphastighet på 260 km/h, vilket understryker dess imponerande prestanda.
@@ -48,7 +47,6 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/charging_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2242"  >}}
 
-
 ### Laddningsport
 
 Platsen för laddningsporten är på [höger framsida](../../../../technology/charging/connectors/#front-side). Denna placering gör det enkelt att använda laddstationer där du parkerar sidan i laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader. En andra port finns på [vänster front](../../../../technology/charging/connectors/#front-side). Denna extra port ger du fler parkeringsmöjligheter för AC-laddning. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**J1772**](../../../../technology/charging/connectors/#j1772) för Nordamerika och för Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullständiga specifikationer för alla marknader.
@@ -56,11 +54,9 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Porsche Taycan Turbo S har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -75,7 +71,6 @@ Dynamisk styrning är standard-funktionen för Porsche Taycan Turbo S. Dynamisk 
 ### Bromsar
 
 Bromsar bak och fram är [keramiska skivor](../../../../technology/brakes/#ceramic-brakes). De främre skivorna är 420mm och de bakre skivorna är 410mm.
-
 
 ### Regenerativ bromsning
 
@@ -108,9 +103,7 @@ Det finns tre olika takalternativ att välja mellan. Standardinställningen är 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -153,7 +146,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/frontseats_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2250"  >}}
 
-
 #### Säten på andra raden
 
 Du kan välja två sätestyper för den andra raden i Porsche Taycan Turbo S.
@@ -192,7 +184,6 @@ Porsche Taycan Turbo S inkluderar flera funktioner för att förbättra komfort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Porsche Taycan Turbo S har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface /screens/#infotainment-screen) längst ner på mittkonsolen För passageraren finns en valfri [infotainment-skärm](../../../../technology/userinterface/screens/#front-passager-screen).
@@ -210,13 +201,19 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/screens_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2250"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Porsche Taycan Turbo S Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan välja mellan tre ljudsystem på Porsche Taycan Turbo S. Med Porsche Sound system får du tio högtalare med en maximal systemeffekt på 150 watt. Med  BOSE® Surround Sound System får du 14 högtalare med en maximal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 högtalare med en maximal systemeffekt på 1455 watt.
-
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Porsche Taycan Turbo S Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 
 ## Ljus
 
@@ -230,6 +227,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 Porsche Taycan Turbo S har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -266,7 +264,6 @@ Med Porsche InnoDrive  nivå 2-systemet får du fler körautomatiseringsfunktion
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

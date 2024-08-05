@@ -26,7 +26,6 @@ Vi har opdelt vores Volvo EX40 Single Motor ER artikel i sektioner. Hvis du vil 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Volvo EX40 Single Motor ER tilbyder beskedne præstationer med en maksimal effekt på 185 kW (252 hk) og et samlet drejningsmoment på 420 Nm. Den accelererer fra 0 til 100 km/t på 7,3 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Volvo EX40 Single Motor ER har et baghjulstræksystem, der understøttes af en motor på bagakslen.
-
 
 ### Hjulophæng
 
@@ -65,7 +62,6 @@ Volvo EX40 Single Motor ER har et baghjulstræksystem, der understøttes af en m
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsning
 
@@ -93,9 +89,7 @@ Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du b
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -118,7 +112,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/frontseats_1_st.jpg" title="Volvo EX40 Single Motor ER" width="1920" height="1080"  >}}
-
 
 #### Sæde på anden række
 
@@ -151,7 +144,6 @@ Volvo EX40 Single Motor ER inkluderer flere funktioner, der forbedrer komfort og
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Volvo EX40 Single Motor ER har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
@@ -167,12 +159,14 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/screens_1_st.jpg" title="Volvo EX40 Single Motor ER" width="3000" height="2249"  >}}
 
-
 ## Infotainment
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Volvo EX40 Single Motor ER. Med High Performance får du otte højttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 højttalere med en maksimal systemeffekt på 600 watt.
 
 Modellen har 1 USB-C-forbindelser som standard.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Volvo EX40 Single Motor ER. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
@@ -185,6 +179,7 @@ Du kan vælge mellem to typer forlygter til Volvo EX40 Single Motor ER. Standard
 Volvo EX40 Single Motor ER har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -209,7 +204,6 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

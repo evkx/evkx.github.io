@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av VOYAH FREE i avsnitt. Om du vill vänta med 
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 VOYAH FREE levererar en solid prestanda med en maximal effekt på 360 kW (490 hk) och ett totalt vridmoment på 720 Nm. Den kan accelerera från 0 till 100 km/h på 4,4 sekunder och når en topphastighet på 200 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 VOYAH FREE har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
-
 
 ### Hjulupphängning
 
@@ -65,7 +62,6 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bromsning
 
@@ -92,9 +88,7 @@ B-stolpen och vyerna bak är tonade.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -119,7 +113,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Blue [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Brown [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Beige/Red [läderklädsel](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Säten på andra raden
@@ -149,7 +142,6 @@ VOYAH FREE inkluderar flera funktioner för att förbättra komfort och bekväml
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 VOYAH FREE har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet.
@@ -166,20 +158,26 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/voyah/free/free/screens_1_st.jpg" title="VOYAH FREE" width="2560" height="1767"  >}}
 
-
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för VOYAH FREE. Med DYNAUDIO HIFI Sound system får du NULL högtalare med en maximal systemeffekt på  watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### header.soundsystem
+
+En typ av ljudsystem är tillgänglig för VOYAH FREE. Med DYNAUDIO HIFI Sound system får du NULL högtalare med en maximal systemeffekt på  watt.
+
 Modellen har 1 USB-C-anslutningar som standard. Modellen har 3 USB-A-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 VOYAH FREE har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -200,7 +198,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

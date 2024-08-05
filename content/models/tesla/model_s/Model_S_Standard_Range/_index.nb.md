@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Tesla Model S Standard Range i seksjoner. Hvis d
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Tesla Model S Standard Range leverer solid ytelse med en maksimal effekt på 381 kW (518 hk) og et totalt dreiemoment på 700 Nm. Den kan akselerere fra 0 til 100 km/t på 3,9 sekunder og når en topphastighet på 250 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Tesla Model S Standard Range har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
-
 
 ### Hjuloppheng
 
@@ -69,7 +66,6 @@ Dynamisk styring er standard-funksjonen på Tesla Model S Standard Range. Dynami
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 355mm, og de bakre skivene er 355mm.
-
 
 ### Regenerativ bremsing
 
@@ -101,9 +97,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -124,7 +118,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
-
 
 
 #### Seter på andre rad
@@ -162,7 +155,6 @@ Tesla Model S Standard Range inkluderer flere funksjoner for å forbedre komfort
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Tesla Model S Standard Range har doble skjermer med informasjon for fører og passasjerer og en tredje skjerm bak for multimedia.
@@ -178,20 +170,24 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_standard_range/screens_1_st.jpg" title="Tesla Model S Standard Range" width="3000" height="2000"  >}}
 
-
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Tesla Model S Standard Range. Med Tesla Premium Sound får du 22 høyttalere med en maksimal systemeffekt på 560 watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### header.soundsystem
+
+Én type lydsystem er tilgjengelig for Tesla Model S Standard Range. Med Tesla Premium Sound får du 22 høyttalere med en maksimal systemeffekt på 560 watt.
 
 ## Lys
 
 Standardlyktene bruker LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 Tesla Model S Standard Range har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -233,7 +229,6 @@ Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatis
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

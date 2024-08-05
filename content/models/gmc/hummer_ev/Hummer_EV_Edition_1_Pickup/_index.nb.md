@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av GMC Hummer EV Edition 1 Pickup i seksjoner. Hvis
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 GMC Hummer EV Edition 1 Pickup leverer en imponerende maksimal effekt på 746 KW (1014 hk) og et massivt dreiemoment på 1150 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 3,5 sekunder, noe som viser dens fantastiske akselerasjon. I tillegg oppnår den en topphastighet på 170 km/t, noe som gjør den til et virkelig underverk innen ingeniørkunst og ytelse.
@@ -52,18 +51,15 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 GMC Hummer EV Edition 1 Pickup har et firehjulsdriftssystem støttet av tre motorer. En på forakselen og to på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker luftfjæring og hydrauliske dempere. Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping kan justeres manuelt og automatisk. Minste bakkeklaring er 257 mm, og maksimum er 406 mm. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
 
 ### Bremser
-
 
 
 
@@ -91,9 +87,7 @@ Det er bare ett tak for denne modellen. Standardtaket har 4 separate glasspanele
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -115,7 +109,6 @@ Følgende funksjoner er tilgjengelige på **** setet.
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Seter på andre rad
@@ -151,7 +144,6 @@ GMC Hummer EV Edition 1 Pickup inkluderer flere funksjoner for å forbedre komfo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 GMC Hummer EV Edition 1 Pickup har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
@@ -167,20 +159,28 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2001"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter GMC Hummer EV Edition 1 Pickup Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Én type lydsystem er tilgjengelig for GMC Hummer EV Edition 1 Pickup. Med Bose Premium Sound System får du 14 høyttalere med en maksimal systemeffekt på 625 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter GMC Hummer EV Edition 1 Pickup Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
-## Lys
 
+## Lys
 
 ## Avanserte førerassistentsystemer
 
 GMC Hummer EV Edition 1 Pickup har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -204,12 +204,12 @@ Med Super Cruise  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i lastebilen er 1039 liter. Bredden på lasteplanet er 1272 mm, og lengden er 1524 mm. Maksimal lastevekt i lasteplanet er 614 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 320 liter. Maksimumsvekten til bilen er 4717 kg, og med basisvekten på 4103 kg kan du maksimalt laste 614 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 3402, og på ubremset er den 750 kg.
+
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 20.10.2020, og leveringene startet i December 2021. Denne modellen er kun tilgjengelig i Nord-Amerika.<div class="mt-3 mb-3">

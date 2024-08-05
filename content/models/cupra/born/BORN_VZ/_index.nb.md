@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av CUPRA BORN VZ i seksjoner. Hvis du vil vente med
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 CUPRA BORN VZ leverer solid ytelse med en maksimal effekt på 240 kW (326 hk) og et totalt dreiemoment på 545 Nm. Den kan akselerere fra 0 til 100 km/t på 5,7 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 CUPRA BORN VZ har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
-
 
 ### Hjuloppheng
 
@@ -69,7 +66,6 @@ Dynamisk styring er tilvalg-funksjonen på CUPRA BORN VZ. Dynamisk styring varie
 ### Bremser
 
 CUPRA BORN VZ bruker [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremsekraft og varmespredning, mens [trommelbremser](../../../../technology/brakes/#trommelbremser) brukes bak for kostnadseffektivitet og holdbarhet. Trommelbremser gir tilstrekkelig ytelse for bakhjulene, krever mindre vedlikehold og integreres sømløst med kjøretøyets regenererende bremsesystem. Denne kombinasjonen sikrer optimal bremseytelse og kostnadseffektivitet, i tråd med EV-ens overordnede effektivitetsmål. De fremre skivene er 330mm.
-
 
 ### Regenerativ bremsing
 
@@ -100,9 +96,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -128,7 +122,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/cupra/born/born_vz/frontseats_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="2191"  >}}
-
 
 #### Seter på andre rad
 
@@ -160,7 +153,6 @@ CUPRA BORN VZ inkluderer flere funksjoner for å forbedre komfort og bekvemmelig
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 CUPRA BORN VZ har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
@@ -176,22 +168,32 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/cupra/born/born_vz/screens_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="1717"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter CUPRA BORN VZ Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan velge mellom to lydsystemer på CUPRA BORN VZ. Med Sound system får du fem høyttalere med en maksimal systemeffekt på 140 watt. Med Beats Audio får du ni høyttalere med en maksimal systemeffekt på 395 watt.
 
-I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter CUPRA BORN VZ Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 4 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 CUPRA BORN VZ har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -232,12 +234,12 @@ Med Assistantpackage plus  nivå 2-systemet får du flere kjøreautomatiseringsf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 385 liter. Med baksetet nede er det 1267 liter. På taket kan du laste opptil 0 kg. Maksimumsvekten til bilen er 2300 kg, og med basisvekten på 1895 kg kan du maksimalt laste 405 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 20.02.2024, og leveringene startet i August 2024.<div class="mt-3 mb-3">

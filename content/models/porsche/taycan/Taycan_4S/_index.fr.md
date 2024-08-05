@@ -26,7 +26,6 @@ Nous avons séparé notre article Porsche Taycan 4S en sections. Si vous souhait
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 Avec overboost, l'Porsche Taycan 4S atteint une puissance maximale de  390 kW (530 ch). Sans overboost, elle délivre 320 kW (435 ch). Le couple maximal est de 640 Nm. Elle peut accélérer de 0 à 100 km/h en 4 secondes et atteint une vitesse maximale de 230 km/h, démontrant ses performances solides.
@@ -36,6 +35,7 @@ Avec la batterie Performance Battery Plus en option, vous obtenez d'autres chiff
 ## Batterie, autonomie et charge
 
 Porsche Taycan 4S propose deux options de batterie avec des spécifications différentes. Vous voyez ci-dessous comment cela affecte l'autonomie et la charge.
+
 ### Performance Battery
 
 La batterie haute capacité a une capacité brute de 79,2 kWh et une capacité nette utilisable de 71 kWh, offrant une réserve de 8,2 kWh (10,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 615 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
@@ -45,6 +45,7 @@ Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../..
 La vitesse de charge DC maximale est de 225kW. Une charge complète de 0 à 100 % prendrait 45 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 19 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 67 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 136kW. Chaque session de charge prendrait 21 minutes et 2 secondes. Cette capacité de charge efficace fait de l'Porsche Taycan 4S une option pratique pour les voyages longue distance.
 
 Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 22 kWh/100 km, le voyage prendrait environ 9 heures et 26 minutes. Ce trajet nécessiterait deux arrêts de recharge de 0% à 70%, avec un temps de recharge total de 66 minutes.
+
 ### Performance Battery Plus
 
 La batterie haute capacité a une capacité brute de 93,4 kWh et une capacité nette utilisable de 83,7 kWh, offrant une réserve de 9,7 kWh (10,4%) pour la protection de la batterie. Fonctionnant à une tension nominale de 725 volts, il se qualifie comme un système de batterie de 800 volts. Cette haute tension est essentielle pour permettre les capacités de charge du système. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
@@ -66,11 +67,9 @@ L'emplacement du port de charge est sur le [côté avant droit](../../../../tech
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Porsche Taycan 4S dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -85,7 +84,6 @@ La direction dynamique est une fonctionnalité un standard sur le Porsche Taycan
 ### Freins
 
 Vous pouvez choisir entre différents systèmes de freinage. Les freins de l'option standard utilisent des [disques en fonte] standards (../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 360 mm et les disques arrière mesurent 358 mm. Les freins de l'option second utilisent un [disque en fonte recouvert de carbure de tungstène](../../../../technology/brakes/#carbid-freins). Il ne rouille pas et ne produit pratiquement pas de poussière de frein. Les disques avant mesurent 410 mm et les disques arrière mesurent 365 mm.
-
 
 ### Freinage régénératif
 
@@ -118,9 +116,7 @@ Il existe trois options de toit différentes à choisir. Le standard est juste u
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -174,7 +170,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/frontseats_1_st.jpg" title="Porsche Taycan 4S" width="2048" height="1536"  >}}
 
-
 #### Sièges de deuxième rangée
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Porsche Taycan 4S.
@@ -209,7 +204,6 @@ L'Porsche Taycan 4S comprend plusieurs fonctionnalités pour améliorer le confo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Porsche Taycan 4S possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en bas de la console centrale. Pour le passager, il y a un [écran d'infodivertissement] en option (../../../../technology/userinterface/screens/#front-passenger-screen).
@@ -227,22 +221,30 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/screens_1_st.jpg" title="Porsche Taycan 4S" width="3000" height="1870"  >}}
 
-
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Porsche Taycan 4S prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Vous pouvez choisir entre trois systèmes audio sur le Porsche Taycan 4S. Avec le Porsche Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 150 watts. Avec le  BOSE® Surround Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de 710 watts. Avec le  Burmester® 3D High-End Surround Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 1455 watts.
-
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Porsche Taycan 4S prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le Porsche Taycan 4S. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Porsche Taycan 4S dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -279,7 +281,6 @@ Avec le système Porsche InnoDrive  niveau 2, vous bénéficiez de fonctionnalit
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

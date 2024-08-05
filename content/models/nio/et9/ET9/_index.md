@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Nio ET9 packs an impressive punch with a maximum power of 520 kW (707 hp / 697 bhp) and a commanding total torque of 900 Nm (664 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.8 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
@@ -48,6 +47,7 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 ### Charge port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+
 ### Battery swap
 
 This model support battery swap. Battery swap means you can drive to a unique battery swap station and get the battery replaced with a new battery with 90% SOC. The battery swap takes 7 minutes.
@@ -55,11 +55,9 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Nio ET9 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
-
 
 ### Suspension
 
@@ -72,7 +70,6 @@ Dynamic steering is a standard feature on the Nio ET9. Dynamic steering varies t
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -99,9 +96,7 @@ There is only one roof for this model. The standard roof includes a large panora
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -131,7 +126,6 @@ You can choose from 3 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/nio/et9/et9/frontseats_1_st.jpg" title="Nio ET9" width="1170" height="759"  >}}
 
-
 #### Second-row seat
 
 
@@ -157,7 +151,6 @@ There is one climate system available.
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
 
-
 ## Comfort features
 
 The Nio ET9 includes several features to enhance comfort and convenience:
@@ -169,7 +162,6 @@ The Nio ET9 includes several features to enhance comfort and convenience:
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -187,7 +179,6 @@ This model has an optional voice control system. The voice control lets you cont
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -197,6 +188,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Nio ET9. With the Premium sound system, you get 23 speakers with a max system output of  watts.
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -207,6 +199,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Advanced driver assistance systems
 
 The Nio ET9 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -246,12 +239,12 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 363 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2900 kg (6393 lbs), and with the base weight of 2379 kg (5245 lbs), you can max load 521 kg (1149 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
 ### Availability & Pricing
 
 This model had a world premiere on 23.12.2023, and deliveries is expected to start in February 2025.<div class="mt-3 mb-3">

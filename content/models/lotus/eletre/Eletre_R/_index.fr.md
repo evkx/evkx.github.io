@@ -26,7 +26,6 @@ Nous avons séparé notre article Lotus Eletre R en sections. Si vous souhaitez 
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Lotus Eletre R délivre une puissance maximale impressionnante de 675 kW (918 ch) et un couple massif de 985 Nm. Ce bolide peut passer de 0 à 100 km/h en seulement 2,9 secondes, démontrant ainsi son accélération étonnante. De plus, il atteint une vitesse maximale de 265 km/h, faisant de lui un véritable chef-d'œuvre d'ingénierie et de performance.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Lotus Eletre R dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ La direction dynamique est une fonctionnalité un standard sur le Lotus Eletre R
 ### Freins
 
 Vous pouvez choisir entre différents systèmes de freinage. Les freins de l'option standard utilisent un [disque en fonte recouvert de carbure de tungstène](../../../../technology/brakes/#carbid-freins). Il ne rouille pas et ne produit pratiquement pas de poussière de frein. Les disques avant mesurent 412 mm et les disques arrière mesurent 397 mm. Les freins de l'option second utilisent des [disques en céramique](../../../../technology/brakes/#ceramic-brakes). Les disques avant mesurent 412 mm et les disques arrière mesurent 397 mm.
-
 
 ### Freinage régénératif
 
@@ -99,7 +95,6 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Intérieur
@@ -134,7 +129,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/frontseats_1_st.jpg" title="Lotus Eletre R" width="3000" height="1783"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -172,7 +166,6 @@ L'Lotus Eletre R comprend plusieurs fonctionnalités pour améliorer le confort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 
@@ -192,11 +185,20 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Lotus Eletre R prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Vous pouvez choisir entre deux systèmes audio sur le Lotus Eletre R. Avec le KEF Premium Audio system, vous obtenez 15 haut-parleurs avec une puissance système maximale de 1380 watts. Avec le KEF Reference Audio system, vous obtenez 23 haut-parleurs avec une puissance système maximale de 2160 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Lotus Eletre R prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+
 ## Lumières
 
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
@@ -207,6 +209,7 @@ Les phares standard utilisent la technologie LED Matrix. LED Matrix est un syst�
 ## Systèmes avancés d'aide à la conduite
 
 Le Lotus Eletre R dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -247,7 +250,6 @@ Ce modèle utilise des caméras, du LiDAR et des capteurs à ultrasons pour les 
 Jusqu'à quatre [capteurs LiDAR](../../../../technology/sensorsandcameras/lidar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/), et 12 [capteurs à ultrasons](../../../../technology/sensorsandcameras/ultrasonic/) enregistrent tout ce qui se passe dans le l'environnement du véhicule.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

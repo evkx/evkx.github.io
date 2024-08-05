@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Tesla Model X Plaid delivers a jaw-dropping maximum power of 760 KW (1033 hp/1019 bhp) and a massive total torque of 1020 Nm (753 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.6 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 262 km/h (163 mph), making it a true marvel of engineering and performance.
@@ -52,11 +51,9 @@ The charge port is conveniently located at the [left rear corner](../../../../te
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Tesla Model X Plaid has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is a standard feature on the Tesla Model X Plaid. Dynamic steer
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 355mm.
-
 
 ### Regenerative braking
 
@@ -101,9 +97,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -126,7 +120,6 @@ The following functionalities are available on the **standard** seat.
 You can choose from 3 different materials/colors for this seat type.
 
 
-
 #### Second-row seat
 
 
@@ -136,7 +129,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/secondrowseats_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2000"  >}}
-
 
 #### Third-row seats
 
@@ -168,7 +160,6 @@ The Tesla Model X Plaid includes several features to enhance comfort and conveni
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Tesla Model X Plaid has twin screens with information for the driver and passengers and a third screen in rear for multimedia.
@@ -184,9 +175,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/screens_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2000"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -196,13 +185,14 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 One type of sound system is available for the Tesla Model X Plaid. With the Tesla Premium Sound, you get 22 speakers with a max system output of 560 watts.
 
-
 ## Lights
 
 The standard headlights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Tesla Model X Plaid has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -244,7 +234,6 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

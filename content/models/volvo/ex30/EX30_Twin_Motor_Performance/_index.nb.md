@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Volvo EX30 Twin Motor Performance i seksjoner. H
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Volvo EX30 Twin Motor Performance leverer solid ytelse med en maksimal effekt på 315 kW (428 hk) og et totalt dreiemoment på 543 Nm. Den kan akselerere fra 0 til 100 km/t på 3,6 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Volvo EX30 Twin Motor Performance har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
-
 
 ### Hjuloppheng
 
@@ -65,7 +62,6 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 350mm, og de bakre skivene er 333mm.
-
 
 ### Regenerativ bremsing
 
@@ -93,7 +89,6 @@ Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Du kan velge mellom ulike typer setematerialer og interiørstil. Du kan velge mellom flere interiørdesign.
@@ -117,7 +112,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 - Gray [ullpolstring](../../../../technology/seats/materials/#wool)
 - Brown [ull-/lærpolstring](../../../../technology/seats/materials/#wool)
 - Blue [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
-
 
 
 #### Seter på andre rad
@@ -156,7 +150,6 @@ Volvo EX30 Twin Motor Performance inkluderer flere funksjoner for å forbedre ko
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Volvo EX30 Twin Motor Performance har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment.
@@ -171,14 +164,18 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_twin_motor_performance/screens_1_st.jpg" title="Volvo EX30 Twin Motor Performance" width="3000" height="2776"  >}}
 
-
 ## Infotainment
 
-Du kan velge mellom to lydsystemer på Volvo EX30 Twin Motor Performance. Med High Performance får du åtte høyttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 1040 watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### header.soundsystem
+
+Du kan velge mellom to lydsystemer på Volvo EX30 Twin Motor Performance. Med High Performance får du åtte høyttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 1040 watt.
+
 Modellen har 4 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Volvo EX30 Twin Motor Performance. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
@@ -191,6 +188,7 @@ Du kan velge mellom to typer frontlykter for Volvo EX30 Twin Motor Performance. 
 Volvo EX30 Twin Motor Performance har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -221,7 +219,6 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

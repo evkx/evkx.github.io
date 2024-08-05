@@ -26,7 +26,6 @@ Vi har opdelt vores Audi SQ6 e-tron artikel i sektioner. Hvis du vil vente med a
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Med overboost når Audi SQ6 e-tron en maksimal effekt på 385 kW (524 hk). Uden overboost leverer den 360 kW (490 hk). Det maksimale drejningsmoment er 855 Nm. Den kan accelerere fra 0 til 100 km/t på 4,4 sekunder og når en topfart på 230 km/t, hvilket demonstrerer dens solide præstation.
@@ -48,7 +47,6 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/charging_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder. En anden port er på [højre bagside](../../../../technology/charging/connectors/#front-side). Denne ekstra port giver dig flere parkeringsmuligheder til AC-opladning. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**J1772**](../../../../technology/charging/connectors/#j1772) for Nordamerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se de fulde specifikationer for alle markeder.
@@ -56,11 +54,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Audi SQ6 e-tron har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
-
 
 ### Hjulophæng
 
@@ -86,11 +82,9 @@ Audi SQ6 e-tron lader brugeren vælge forskellige [drive modes](../../../../tech
 - Balanced: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
 - Custom: Brugerdefineret styring, affjedring og gasrespons.
 
-
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 375mm, og de bagerste skiver er 350mm.
-
 
 ### Regenerativ bremsning
 
@@ -127,7 +121,6 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Audi SQ6 e-tron har et førerfokuseret interiør, der forbedrer cockpitfølelsen, med premium materialer i alle vigtige områder. Derudover inkluderer det en traditionel midterkonsol, der adskiller fører og passager, og giver praktisk opbevaring og funktionalitet.
@@ -160,7 +153,6 @@ Følgende funktioner er tilgængelige på **Sport Plus** sædet.
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/frontseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
-
 
 #### Sæde på anden række
 
@@ -199,7 +191,6 @@ Audi SQ6 e-tron inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Betjeningsgrænsefladen for denne elbilmodel inkluderer en intuitiv kombination af knapper, kontakter og skærme, som giver en problemfri og brugervenlig oplevelse.
@@ -222,11 +213,20 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Audi SQ6 e-tron Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan vælge mellem to lydsystemer på Audi SQ6 e-tron. Med Audi Sound System får du fem højttalere med en maksimal systemeffekt på 200 watt. Med Bang & Olufsen Sound System får du 20 højttalere med en maksimal systemeffekt på 830 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Audi SQ6 e-tron Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Audi SQ6 e-tron. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -239,6 +239,7 @@ Du kan vælge mellem to typer forlygter til Audi SQ6 e-tron. Standardlygterne br
 Audi SQ6 e-tron har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -281,7 +282,6 @@ Denne model bruger kameraer, radar og ultralydssensorer til førerassistentsyste
 Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydssensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt, hvad der sker i køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

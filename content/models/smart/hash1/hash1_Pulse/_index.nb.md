@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Smart #1 Pulse i seksjoner. Hvis du vil vente me
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Smart #1 Pulse leverer solid ytelse med en maksimal effekt på 315 kW (428 hk) og et totalt dreiemoment på 584 Nm. Den kan akselerere fra 0 til 100 km/t på 4,5 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 22 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/charging_1_st.jpg" title="Smart #1 Pulse" width="3000" height="1687"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
@@ -56,11 +54,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Smart #1 Pulse har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
-
 
 ### Hjuloppheng
 
@@ -69,7 +65,6 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 350mm, og de bakre skivene er 333mm.
-
 
 ### Regenerativ bremsing
 
@@ -96,9 +91,7 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -117,7 +110,6 @@ Følgende funksjoner er tilgjengelige på **** setet.
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - White/Blue [lærpolstring](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Seter på andre rad
@@ -152,7 +144,6 @@ Smart #1 Pulse inkluderer flere funksjoner for å forbedre komfort og bekvemmeli
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 
@@ -167,22 +158,28 @@ Et head-up display er standard-system som viser hastighet og annen viktig fører
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/screens_1_st.jpg" title="Smart #1 Pulse" width="3000" height="1687"  >}}
 
-
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Smart #1 Pulse. Med Yamaha surround sound system får du 13 høyttalere med en maksimal systemeffekt på 1040 watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### header.soundsystem
+
+Én type lydsystem er tilgjengelig for Smart #1 Pulse. Med Yamaha surround sound system får du 13 høyttalere med en maksimal systemeffekt på 1040 watt.
+
 Modellen har 4 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Smart #1 Pulse. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
+
 ## Avanserte førerassistentsystemer
 
 Smart #1 Pulse har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -215,12 +212,12 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 313 liter. Med baksetet nede er det 976 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 15 liter. Maksimumsvekten til bilen er 2325 kg, og med basisvekten på 1925 kg kan du maksimalt laste 400 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1600, og på ubremset er den 750 kg.
+
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 07.04.2022, og leveringene forventes å starte om November 2023.<div class="mt-3 mb-3">

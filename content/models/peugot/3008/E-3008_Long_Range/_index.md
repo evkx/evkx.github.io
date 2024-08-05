@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Peugot E-3008 Long Range offers modest performance with a maximum power of 157 kW (214 hp / 211 bhp) and a total torque of 345 Nm (255 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -52,18 +51,15 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Peugot E-3008 Long Range has a front-wheel drive system supported by one motor on the front axle.
-
 
 ### Suspension
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 198 mm.
 
 ### Brakes
-
 
 
 
@@ -95,7 +91,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -130,7 +125,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/frontseats_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="2250"  >}}
 
-
 #### Second-row seat
 
 
@@ -163,7 +157,6 @@ The Peugot E-3008 Long Range includes several features to enhance comfort and co
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Peugot E-3008 Long Range has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -179,9 +172,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/screens_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="2167"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -196,6 +187,7 @@ Furthermore, the Peugot E-3008 Long Range supports Android Auto and Apple CarPla
 You can choose between two sound systems on the Peugot E-3008 Long Range. With the , you get six speakers with a max system output of 100 watts. With the , you get ten speakers with a max system output of 690 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the Peugot E-3008 Long Range. The standard headlights use LED technology. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -206,6 +198,7 @@ You can choose between two types of headlights for the Peugot E-3008 Long Range.
 ## Advanced driver assistance systems
 
 The Peugot E-3008 Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -239,12 +232,12 @@ Up to three [radar sensors](../../../../technology/sensorsandcameras/radar/), fi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1480 liters. On the roof, you can load up to 80 kg (176.4 lbs). The maxium weight of the car is 2640 kg (5820 lbs), and with the base weight of 2108 kg (4647 lbs), you can max load 532 kg (1173 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1250, and on unbraked, it is 750 kg (2756/1653 lbs).
+
 ### Availability & Pricing
 
 This model had a world premiere on 12.09.2023, and deliveries started in February 2024.<div class="mt-3 mb-3">

@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Nio ET9 en secciones. Si desea esperar para lee
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Nio ET9 impresiona con una potencia máxima de 520 kW (707 hp) y un impresionante par total de 900 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 3,8 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
@@ -48,6 +47,7 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+
 ### Cambio de batería
 
 Este modelo admite el cambio de batería. El cambio de batería significa que puedes conducir hasta una estación de cambio de batería única y reemplazarla por una batería nueva con 90 % de SOC. El cambio de batería tarda 7 minutos.
@@ -55,11 +55,9 @@ Este modelo admite el cambio de batería. El cambio de batería significa que pu
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Nio ET9 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
-
 
 ### Suspensión
 
@@ -72,7 +70,6 @@ La dirección dinámica es una característica un estándar en el Nio ET9. La di
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
-
 
 ### Frenado regenerativo
 
@@ -99,9 +96,7 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -131,7 +126,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/nio/et9/et9/frontseats_1_st.jpg" title="Nio ET9" width="1170" height="759"  >}}
 
-
 #### Asiento de segunda fila
 
 
@@ -157,7 +151,6 @@ Hay un sistema climático disponible.
 
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
 
-
 ## Características de confort
 
 El Nio ET9 incluye varias características para mejorar la comodidad y conveniencia:
@@ -169,7 +162,6 @@ El Nio ET9 incluye varias características para mejorar la comodidad y convenien
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interfaz de usuario y control
@@ -187,11 +179,16 @@ Este modelo tiene un sistema de control de voz opcional. El control de voz te pe
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el Nio ET9. Con el Premium sound system, obtienes 23 parlantes con una salida máxima del sistema de  vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
-
 El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
@@ -202,6 +199,7 @@ Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema ad
 ## Sistemas avanzados de asistencia al conductor
 
 El Nio ET9 tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -241,12 +239,12 @@ Con el sistema NIO Pilot Complete Pack  nivel 2, obtienes funciones de automatiz
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 363 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2900 kg (6393 lbs), y con el peso base de 2379 kg (5245 lbs), puedes cargar como máximo 521 kg (1149 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 23.12.2023 y se espera que las entregas comiencen en February 2025.<div class="mt-3 mb-3">

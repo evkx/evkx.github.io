@@ -26,7 +26,6 @@ Nous avons séparé notre article Rimac Nevera en sections. Si vous souhaitez at
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Rimac Nevera délivre une puissance maximale impressionnante de 1400 kW (1904 ch) et un couple massif de 2340 Nm. Ce bolide peut passer de 0 à 100 km/h en seulement 1,81 secondes, démontrant ainsi son accélération étonnante. De plus, il atteint une vitesse maximale de 412 km/h, faisant de lui un véritable chef-d'œuvre d'ingénierie et de performance.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Rimac Nevera dispose d'un système de transmission intégrale pris en charge par quatre moteurs. Un pour chaque roue. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -76,11 +73,9 @@ Le Rimac Nevera permet à l'utilisateur de sélectionner différents [modes de c
 - Track : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
 - Drift : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
 
-
 ### Freins
 
 Les freins arrière et avant sont des [disques en céramique](../../../../technology/brakes/#ceramic-brakes). Les disques avant mesurent 390 mm et les disques arrière mesurent 390 mm.
-
 
 ### Freinage régénératif
 
@@ -109,13 +104,10 @@ Il n'y a qu'un seul toit pour ce modèle.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 
-
 ### Sièges
-
 
 
 #### Sièges de première rangée
@@ -157,7 +149,6 @@ L'Rimac Nevera comprend plusieurs fonctionnalités pour améliorer le confort et
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Rimac Nevera possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager.
@@ -174,13 +165,19 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/screens_1_st.jpg" title="Rimac Nevera" width="3000" height="2000"  >}}
 
-
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Rimac Nevera prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le Rimac Nevera. Avec le Rimac Nevera Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de 1200 watts.
-
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Rimac Nevera prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 
 ## Lumières
 
@@ -192,6 +189,7 @@ Les phares standards utilisent la technologie LED. De plus, les feux arrière st
 ## Systèmes avancés d'aide à la conduite
 
 Le Rimac Nevera dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -212,12 +210,12 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement du coffre est de 100 litres. Le poids maximum de la voiture est de 2550 kg (5622 lbs), et avec le poids de base de 2300 kg (5071 lbs), vous pouvez charger au maximum 250 kg (551 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 01.06.2021 et les livraisons ont commencé en January 2023.<div class="mt-3 mb-3">

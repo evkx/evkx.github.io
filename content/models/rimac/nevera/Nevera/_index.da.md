@@ -26,7 +26,6 @@ Vi har opdelt vores Rimac Nevera artikel i sektioner. Hvis du vil vente med at l
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Rimac Nevera leverer en imponerende maksimal effekt på 1400 KW (1904 hk) og et massivt drejningsmoment på 2340 Nm. Denne kraftpakke kan accelerere fra 0 til 100 km/t på blot 1,81 sekunder, hvilket viser dens fantastiske acceleration. Derudover opnår den en topfart på 412 km/t, hvilket gør den til et sandt ingeniør- og præstationsmæssigt vidunder
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Rimac Nevera har et firehjulstræksystem understøttet af fire motorer. En til hvert hjul. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -76,11 +73,9 @@ Rimac Nevera lader brugeren vælge forskellige [drive modes](../../../../technol
 - Track: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
 - Drift: Dynamisk styring, lav affjedring med dynamisk gas og affjedring.
 
-
 ### Bremser
 
 Bremserne bag og foran er [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De forreste skiver er 390mm, og de bagerste skiver er 390mm.
-
 
 ### Regenerativ bremsning
 
@@ -109,13 +104,10 @@ Der er kun ét tag til denne model.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 
-
 ### Sæder
-
 
 
 #### Første række sæder
@@ -157,7 +149,6 @@ Rimac Nevera inkluderer flere funktioner, der forbedrer komfort og bekvemmelighe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Rimac Nevera har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet.
@@ -174,13 +165,19 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/screens_1_st.jpg" title="Rimac Nevera" width="3000" height="2000"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Rimac Nevera Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for Rimac Nevera. Med Rimac Nevera Sound System får du otte højttalere med en maksimal systemeffekt på 1200 watt.
-
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Rimac Nevera Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 
 ## Lys
 
@@ -192,6 +189,7 @@ Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-
 ## Avancerede førerassistentsystemer
 
 Rimac Nevera har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -212,12 +210,12 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 100 liter. Bilens maksimale vægt er 2550 kg (5622 lbs), og med basisvægten på 2300 kg (5071 lbs), kan du maksimalt laste 250 kg (551 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+
 ### Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 01.06.2021, og leveringerne startede i January 2023.<div class="mt-3 mb-3">

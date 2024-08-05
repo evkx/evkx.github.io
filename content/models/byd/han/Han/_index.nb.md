@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av BYD Han i seksjoner. Hvis du vil vente med å le
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 BYD Han leverer solid ytelse med en maksimal effekt på 380 kW (517 hk) og et totalt dreiemoment på 700 Nm. Den kan akselerere fra 0 til 100 km/t på 3,9 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -56,14 +55,11 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 BYD Han har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-
 ### Hjuloppheng
-
 
 
 ### Styring
@@ -73,7 +69,6 @@ Dynamisk styring er standard-funksjonen på BYD Han. Dynamisk styring varierer s
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsing
 
@@ -102,9 +97,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -133,7 +126,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/byd/han/han/frontseats_1_st.jpg" title="BYD Han" width="1920" height="1156"  >}}
-
 
 #### Seter på andre rad
 
@@ -171,7 +163,6 @@ BYD Han inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 BYD Han har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
@@ -187,14 +178,22 @@ Et head-up display er standard-system som viser hastighet og annen viktig fører
 
 {{< sitefiguresized thumb="models/byd/han/han/screens_1_st.jpg" title="BYD Han" width="1920" height="1059"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter BYD Han Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan velge mellom to lydsystemer på BYD Han. Med Surroundsystem får du syv høyttalere med en maksimal systemeffekt på  watt. Med Premium sound system får du 12 høyttalere med en maksimal systemeffekt på  watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter BYD Han Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 5 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
@@ -205,6 +204,7 @@ Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-te
 ## Avanserte førerassistentsystemer
 
 BYD Han har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -241,7 +241,6 @@ Med Smart Pilot  nivå 2-systemet får du flere kjøreautomatiseringsfunksjoner 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

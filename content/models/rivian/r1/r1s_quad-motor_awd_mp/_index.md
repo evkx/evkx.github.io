@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Rivian R1S Quad-Motor AWD MP delivers a jaw-dropping maximum power of 764 KW (1039 hp/1025 bhp) and a massive total torque of 1623 Nm (1198 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.6 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 201 km/h (125 mph), making it a true marvel of engineering and performance.
@@ -53,11 +52,9 @@ The location of the charge port is on the [left front corner](../../../../techno
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Rivian R1S Quad-Motor AWD MP has an all-wheel drive system supported by four motors. One for each wheel.
-
 
 ### Suspension
 
@@ -77,11 +74,9 @@ The Rivian R1S Quad-Motor AWD MP lets the user select different [drive modes](..
 - Soft sand: Balanced steering, max suspension height with balanced throttle and comfort suspension damping.
 - All-Terrain: Balanced steering, high suspension height with balanced throttle and damping.
 
-
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 343mm, and the rear discs are 328mm.
-
 
 ### Regenerative braking
 
@@ -113,9 +108,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -144,7 +137,6 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/frontseats_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
-
 
 #### Second-row seat
 
@@ -185,7 +177,6 @@ The Rivian R1S Quad-Motor AWD MP includes several features to enhance comfort an
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Rivian R1S Quad-Motor AWD MP has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -206,7 +197,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -216,6 +206,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Rivian R1S Quad-Motor AWD MP. With the Rivian Premium Audio, you get 19 speakers with a max system output of 960 watts.
 
 The model has 6 USB-C connections as standard.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
@@ -226,6 +217,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Advanced driver assistance systems
 
 The Rivian R1S Quad-Motor AWD MP has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -258,7 +250,6 @@ This model uses cameras, radar, and ultrasonic sensors for the driver assist sys
 Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), 11 [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

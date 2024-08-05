@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Genesis Electrified GV70 i seksjoner. Hvis du vi
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Genesis Electrified GV70 leverer solid ytelse med en maksimal effekt på 320 kW (435 hk) og et totalt dreiemoment på 700 Nm. Den kan akselerere fra 0 til 100 km/t på 4,8 sekunder og når en topphastighet på 235 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -52,18 +51,15 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Genesis Electrified GV70 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere.
 
 ### Bremser
-
 
 
 
@@ -99,13 +95,11 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
-
 
 
 #### Forseter
@@ -130,7 +124,6 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 - Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 - Green [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 - Black/White [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
-
 
 
 #### Seter på andre rad
@@ -162,7 +155,6 @@ Genesis Electrified GV70 inkluderer flere funksjoner for å forbedre komfort og 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 
@@ -178,20 +170,30 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/genesis/gv70/electrified_gv70/screens_1_st.jpg" title="Genesis Electrified GV70" width="3000" height="1535"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Genesis Electrified GV70 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Én type lydsystem er tilgjengelig for Genesis Electrified GV70. Med Bose Premium Sound System får du åtte høyttalere med en maksimal systemeffekt på  watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Genesis Electrified GV70 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 4 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 Genesis Electrified GV70 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -223,7 +225,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

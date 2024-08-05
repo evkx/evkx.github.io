@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Porsche Taycan en secciones. Si desea esperar p
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 
@@ -36,6 +35,7 @@ Con la batería Performance Battery Plus opcional, obtienes otros números de re
 ## Batería, autonomía y carga
 
 Porsche Taycan tiene dos opciones de batería con diferentes especificaciones. A continuación verás cómo esto afecta el alcance y la carga.
+
 ### Performance Battery Plus
 
 La batería de alta capacidad tiene una capacidad bruta de 105 kWh y una capacidad neta utilizable de 97 kWh, proporcionando un buffer de 8 kWh (7,6%) para la protección de la batería. Operando a un voltaje nominal de 725 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
@@ -45,6 +45,7 @@ Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](
 La velocidad máxima de carga de CC es 320kW. Una carga completa del 0 al 100 % tardaría 46 minutos, mientras que un escenario más común del 10 al 80 % tardaría 15 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 65%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 212kW. Cada sesión de carga tardaría 18 minutos y 32 segundos. Esta capacidad de carga excepcionalmente rápida hace que el Porsche Taycan sea uno de los vehículos eléctricos más eficientes y convenientes para viajes de larga distancia.
 
 En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 21 kWh/100 km, el viaje tomaría aproximadamente 8 horas y 52 minutos. Este viaje requeriría dos paradas de carga del 5% al 64%, con un tiempo total de carga de 33 minutos.
+
 ### Performance Battery
 
 La batería de alta capacidad tiene una capacidad bruta de 89 kWh y una capacidad neta utilizable de 83,6 kWh, proporcionando un buffer de 5,4 kWh (6,1%) para la protección de la batería. Operando a un voltaje nominal de 725 voltios, se califica como un sistema de batería de 800 voltios. Este alto voltaje es fundamental para habilitar las capacidades de carga del sistema. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
@@ -66,11 +67,9 @@ La ubicación del puerto de carga está en el [lado frontal derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Porsche Taycan tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -85,7 +84,6 @@ La dirección dinámica es una característica un estándar en el Porsche Taycan
 ### Frenos
 
 Puedes elegir entre diferentes sistemas de frenos. Los frenos de opción standard utilizan [discos de hierro fundido] normales (../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 360 mm y los discos traseros de 358 mm. Los frenos de opción second utilizan un [disco de hierro fundido recubierto con carburo de tungsteno](../../../../technology/brakes/#carbid -frenos). No se oxida y apenas produce polvo de freno. Los discos delanteros son de 410 mm y los discos traseros de 365 mm.
-
 
 ### Frenado regenerativo
 
@@ -118,9 +116,7 @@ Hay tres opciones de techo diferentes para elegir. El estándar es simplemente u
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -174,7 +170,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/frontseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1686"  >}}
 
-
 #### Asientos de la segunda fila
 
 Puedes elegir dos tipos de asientos para la segunda fila en el Porsche Taycan.
@@ -213,7 +208,6 @@ El Porsche Taycan incluye varias características para mejorar la comodidad y co
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Porsche Taycan tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte inferior de la consola central. Para el pasajero, hay una [pantalla de infoentretenimiento] opcional(../../../../technology/interfaz de usuario/pantallas/#pantalla-del-pasajero-frontal).
@@ -231,13 +225,19 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/screens_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
 
-
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Porsche Taycan es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre tres sistemas de sonido en el Porsche Taycan. Con el Porsche Sound system, obtienes diez parlantes con una salida máxima del sistema de 150 vatios. Con el  BOSE® Surround Sound System, obtienes 14 parlantes con una salida máxima del sistema de 710 vatios. Con el  Burmester® 3D High-End Surround Sound System, obtienes 21 parlantes con una salida máxima del sistema de 1455 vatios.
-
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Porsche Taycan es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 
 ## Luces
 
@@ -251,6 +251,7 @@ Puedes elegir entre dos tipos de faros para el Porsche Taycan. Los faros estánd
 El Porsche Taycan tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -287,7 +288,6 @@ Con el sistema Porsche InnoDrive  nivel 2, obtienes funciones de automatización
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

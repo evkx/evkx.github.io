@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Kia EV6 GT en secciones. Si desea esperar para 
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Kia EV6 GT impresiona con una potencia máxima de 430 kW (585 hp) y un impresionante par total de 740 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 3,5 segundos y alcanza una velocidad máxima de 260 km/h, destacándose en su clase.
@@ -48,7 +47,6 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/charging_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
-
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
@@ -56,18 +54,14 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Kia EV6 GT tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
 
-
 ### Suspensión
 
 
-
 ### Frenos
-
 
 
 
@@ -98,13 +92,10 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 
-
 ### Asientos
-
 
 
 #### Asientos de primera fila
@@ -127,7 +118,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -162,7 +152,6 @@ El Kia EV6 GT incluye varias características para mejorar la comodidad y conven
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Kia EV6 GT tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -178,14 +167,22 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/screens_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Kia EV6 GT es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
 
 Puedes elegir entre dos sistemas de sonido en el Kia EV6 GT. Con el Standard, obtienes seis parlantes con una salida máxima del sistema de  vatios. Con el Meridian Premium Sound System, obtienes 14 parlantes con una salida máxima del sistema de  vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Kia EV6 GT es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 4 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
@@ -196,6 +193,7 @@ Los faros estándar utilizan tecnología LED. Además, las luces traseras están
 ## Sistemas avanzados de asistencia al conductor
 
 El Kia EV6 GT tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -226,7 +224,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

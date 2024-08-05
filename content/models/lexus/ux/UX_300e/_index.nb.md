@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Lexus UX 300e i seksjoner. Hvis du vil vente med
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Lexus UX 300e tilbyr beskjedne ytelser med en maksimal effekt på 150 kW (204 hk) og et totalt dreiemoment på 300 Nm. Den akselererer fra 0 til 100 km/t på 7,5 sekunder og har en toppfart på 160 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 7 kW for Level 1 og Level 2 AC-lading
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/charging_1_st.jpg" title="Lexus UX 300e" width="3000" height="1687"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. En andre port er på [høyre bakside](../../../../technology/charging/connectors/#front-side). Denne ekstra porten gir deg flere parkeringsmuligheter for AC-lading. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
@@ -56,11 +54,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Lexus UX 300e har et forhjulsdriftssystem støttet av én motor på forakselen.
-
 
 ### Hjuloppheng
 
@@ -69,7 +65,6 @@ Lexus UX 300e har et forhjulsdriftssystem støttet av én motor på forakselen.
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 305mm, og de bakre skivene er 317mm.
-
 
 ### Regenerativ bremsing
 
@@ -99,13 +94,10 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 
-
 ### Seter
-
 
 
 #### Forseter
@@ -127,7 +119,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/frontseats_1_st.jpg" title="Lexus UX 300e" width="2281" height="1521"  >}}
-
 
 #### Seter på andre rad
 
@@ -165,7 +156,6 @@ Lexus UX 300e inkluderer flere funksjoner for å forbedre komfort og bekvemmelig
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 To forskjellige skjermoppsett er tilgjengelige på Lexus UX 300e.
@@ -192,14 +182,22 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/screens_1_st.jpg" title="Lexus UX 300e" width="2451" height="1510"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Lexus UX 300e Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan velge mellom to lydsystemer på Lexus UX 300e. Med Standard får du 14 høyttalere med en maksimal systemeffekt på  watt. Med Mark Levinson Premium Surround Sound får du 14 høyttalere med en maksimal systemeffekt på  watt.
 
-I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Lexus UX 300e Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Lexus UX 300e. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
@@ -210,6 +208,7 @@ Du kan velge mellom to typer frontlykter for Lexus UX 300e. Standardlyktene bruk
 ## Avanserte førerassistentsystemer
 
 Lexus UX 300e har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -237,7 +236,6 @@ Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

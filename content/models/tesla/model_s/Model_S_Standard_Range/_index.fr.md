@@ -26,7 +26,6 @@ Nous avons séparé notre article Tesla Model S Standard Range en sections. Si v
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Tesla Model S Standard Range offre des performances solides avec une puissance maximale de 381 kW (518 ch) et un couple total de 700 Nm. Elle peut accélérer de 0 à 100 km/h en 3,9 secondes et atteindre une vitesse maximale de 250 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Tesla Model S Standard Range dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ La direction dynamique est une fonctionnalité un standard sur le Tesla Model S 
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 355 mm et les disques arrière mesurent 355 mm.
-
 
 ### Freinage régénératif
 
@@ -101,9 +97,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -124,7 +118,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
-
 
 
 #### Siège de deuxième rangée
@@ -162,7 +155,6 @@ L'Tesla Model S Standard Range comprend plusieurs fonctionnalités pour amélior
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Tesla Model S Standard Range dispose de deux écrans avec des informations pour le conducteur et les passagers et d'un troisième écran à l'arrière pour le multimédia.
@@ -178,20 +170,24 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_standard_range/screens_1_st.jpg" title="Tesla Model S Standard Range" width="3000" height="2000"  >}}
 
-
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le Tesla Model S Standard Range. Avec le Tesla Premium Sound, vous obtenez 22 haut-parleurs avec une puissance système maximale de 560 watts.
-
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
 
 ## Lumières
 
 Les phares standards utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Tesla Model S Standard Range dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -233,7 +229,6 @@ Avec le système Full Self-Driving Capability  niveau 3, vous bénéficiez de fo
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

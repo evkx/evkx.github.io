@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Porsche Taycan Turbo GT Weissach i avsnitt. 
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Med overboost levererar Porsche Taycan Turbo GT Weissach en häpnadsväckande maximal effekt på 815 kW (1108 hk). Även utan overboost har den en formidabel effekt på 1108 kW (1093 hk). Det maximala vridmomentet når otroliga 1340 Nm. Denna kraftfulla maskin kan accelerera från 0 till 100 km/h på endast 2,2 sekunder och når en topphastighet på 300 km/h, vilket understryker dess imponerande prestanda.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Porsche Taycan Turbo GT Weissach har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -71,7 +68,6 @@ Dynamisk styrning är standard-funktionen för Porsche Taycan Turbo GT Weissach.
 ### Bromsar
 
 Bromsar bak och fram är [keramiska skivor](../../../../technology/brakes/#ceramic-brakes). De främre skivorna är 420mm och de bakre skivorna är 410mm.
-
 
 ### Regenerativ bromsning
 
@@ -104,13 +100,10 @@ Det finns tre olika takalternativ att välja mellan. Standardinställningen är 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
 
 
-
 ### Säten
-
 
 
 #### Framsäten
@@ -168,7 +161,6 @@ Porsche Taycan Turbo GT Weissach inkluderar flera funktioner för att förbättr
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Porsche Taycan Turbo GT Weissach har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface /screens/#infotainment-screen) längst ner på mittkonsolen För passageraren finns en valfri [infotainment-skärm](../../../../technology/userinterface/screens/#front-passager-screen).
@@ -186,22 +178,30 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt_weissach/screens_1_st.jpg" title="Porsche Taycan Turbo GT Weissach" width="3000" height="1687"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Porsche Taycan Turbo GT Weissach Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan välja mellan tre ljudsystem på Porsche Taycan Turbo GT Weissach. Med Porsche Sound system får du tio högtalare med en maximal systemeffekt på 150 watt. Med  BOSE® Surround Sound System får du 14 högtalare med en maximal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 högtalare med en maximal systemeffekt på 1455 watt.
-
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Porsche Taycan Turbo GT Weissach Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 
 ## Ljus
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Dessutom använder standardbakljusen LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 Porsche Taycan Turbo GT Weissach har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -240,12 +240,12 @@ Med Porsche InnoDrive  nivå 2-systemet får du fler körautomatiseringsfunktion
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastutrymmets kapacitet är 366 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2880 kg, och med basvikten på 2230 kg kan du lasta maximalt 650 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+
 ### Tillgänglighet och pris
 
 <div class="mt-3 mb-3">

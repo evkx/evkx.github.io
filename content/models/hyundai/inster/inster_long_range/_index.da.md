@@ -26,7 +26,6 @@ Vi har opdelt vores Hyundai INSTER Long Range artikel i sektioner. Hvis du vil v
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Hyundai INSTER Long Range kWh leverer grundlæggende ydeevne med en maksimal effekt på 84,5 kW (115 hk) og et samlet drejningsmoment på 147 Nm. Den accelererer fra 0 til 100 km/t på 10,6 sekunder og når en topfart på 150 km/t, hvilket er mere sammenligneligt med indgangsmodeller af traditionelle forbrændingsmotorbiler.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [forsiden](../../../../technology/charging/conn
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Hyundai INSTER Long Range har et forhjulstræksystem understøttet af en motor på forakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -65,7 +62,6 @@ Hyundai INSTER Long Range har et forhjulstræksystem understøttet af en motor p
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 254mm, og de bagerste skiver er 240mm.
-
 
 ### Regenerativ bremsning
 
@@ -95,13 +91,11 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
-
 
 
 #### Første række sæder
@@ -126,7 +120,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/frontseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
-
 
 #### Sæde på anden række
 
@@ -170,7 +163,6 @@ Hyundai INSTER Long Range inkluderer flere funktioner, der forbedrer komfort og 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 
@@ -185,14 +177,22 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/screens_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Hyundai INSTER Long Range Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Én type lydsystem er tilgængelig for Hyundai INSTER Long Range. Med Bose Premium Sound System får du syv højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Hyundai INSTER Long Range Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 4 USB-C-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
@@ -203,6 +203,7 @@ Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-
 ## Avancerede førerassistentsystemer
 
 Hyundai INSTER Long Range har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -239,7 +240,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

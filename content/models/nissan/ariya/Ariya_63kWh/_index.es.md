@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Nissan Ariya 63kWh en secciones. Si desea esper
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Nissan Ariya 63kWh ofrece un rendimiento modesto con una potencia máxima de 160 kW (218 hp) y un par total de 300 Nm. Acelera de 0 a 100 km/h en 7,5 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado frontal derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Nissan Ariya 63kWh tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motor utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
-
 
 ### Suspensión
 
@@ -69,7 +66,6 @@ La dirección dinámica es una característica un opcional en el Nissan Ariya 63
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
-
 
 ### Frenado regenerativo
 
@@ -99,7 +95,6 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
@@ -126,7 +121,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 - Black [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 - Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
-
 
 
 #### Asiento de segunda fila
@@ -161,7 +155,6 @@ El Nissan Ariya 63kWh incluye varias características para mejorar la comodidad 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Nissan Ariya 63kWh tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -182,17 +175,26 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Nissan Ariya 63kWh es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre dos sistemas de sonido en el Nissan Ariya 63kWh. Con el DAB Audiosystem, obtienes seis parlantes con una salida máxima del sistema de  vatios. Con el BOSE Premium Sound System, obtienes diez parlantes con una salida máxima del sistema de  vatios.
-
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Nissan Ariya 63kWh es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Nissan Ariya 63kWh. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Nissan Ariya 63kWh tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -222,7 +224,6 @@ Con el sistema ProPILOT  nivel 2, obtienes las siguientes funciones de automatiz
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

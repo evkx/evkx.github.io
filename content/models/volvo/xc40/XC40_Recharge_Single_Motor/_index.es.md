@@ -32,7 +32,6 @@ Este modelo ha sido reemplazado por [Volvo EX40 Single Motor](/models/volvo/ex40
 
 </div>
 
-
 ## Rendimiento
 
 El Volvo XC40 Recharge Single Motor ofrece un rendimiento modesto con una potencia máxima de 175 kW (238 hp) y un par total de 420 Nm. Acelera de 0 a 100 km/h en 7,3 segundos y tiene una velocidad máxima 180 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -58,11 +57,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Volvo XC40 Recharge Single Motor tiene un sistema de tracción trasera sostenido por un motor en el eje trasero.
-
 
 ### Suspensión
 
@@ -71,7 +68,6 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
-
 
 ### Frenado regenerativo
 
@@ -99,9 +95,7 @@ Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -124,7 +118,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/frontseats_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="1920" height="1080"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -157,7 +150,6 @@ El Volvo XC40 Recharge Single Motor incluye varias características para mejorar
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Volvo XC40 Recharge Single Motor tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
@@ -173,12 +165,14 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/screens_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="3000" height="2249"  >}}
 
-
 ## Infoentretenimiento
+
+### header.soundsystem
 
 Puedes elegir entre dos sistemas de sonido en el Volvo XC40 Recharge Single Motor. Con el High Performance, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios. Con el Harman Kardon Premium Sound, obtienes 13 parlantes con una salida máxima del sistema de 600 vatios.
 
 El modelo tiene 1 conexiones USB-C de serie.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Volvo XC40 Recharge Single Motor. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
@@ -191,6 +185,7 @@ Puedes elegir entre dos tipos de faros para el Volvo XC40 Recharge Single Motor.
 El Volvo XC40 Recharge Single Motor tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -215,7 +210,6 @@ Con el sistema Pilot Assist  nivel 2, obtienes las siguientes funciones de autom
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

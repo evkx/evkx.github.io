@@ -26,7 +26,6 @@ Vi har opdelt vores Tesla Model 3 Long Range artikel i sektioner. Hvis du vil ve
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Tesla Model 3 Long Range leverer en solid præstation med en maksimal effekt på 324 kW (441 hk) og et totalt drejningsmoment på 493 Nm. Den kan accelerere fra 0 til 100 km/t på 4,4 sekunder og når en topfart på 201 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er i [venstre bageste hjørne](../../../../technology/
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Tesla Model 3 Long Range har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en standard-funktion på Tesla Model 3 Long Range. Dynamisk 
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 355mm, og de bagerste skiver er 355mm.
-
 
 ### Regenerativ bremsning
 
@@ -101,7 +97,6 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Interiøret i Tesla Model 3 Long Range er minimalistisk og har materialer af høj kvalitet i flere områder i stedet for hård plast. Derudover inkluderer det en traditionel midterkonsol, der adskiller føreren og passageren, hvilket giver praktisk opbevaring og funktionalitet. Du kan vælge mellem flere interiørdesigns.
@@ -131,7 +126,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/frontseats_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
-
 
 #### Sæde på anden række
 
@@ -165,7 +159,6 @@ Tesla Model 3 Long Range inkluderer flere funktioner, der forbedrer komfort og b
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Tesla Model 3 Long Range har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment.
@@ -185,11 +178,16 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for Tesla Model 3 Long Range. Med Tesla Premium Sound får du 17 højttalere med en maksimal systemeffekt på 560 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 Modellen har 3 USB-C-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi.
@@ -200,6 +198,7 @@ Standardlygterne bruger LED-teknologi.
 ## Avancerede førerassistentsystemer
 
 Tesla Model 3 Long Range har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -247,12 +246,12 @@ Den bruger syv [kameraer](../../../../technology/sensorsandcameras/cameras/) til
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 594 liter. Med bagsædet nede er det 1234 liter. På taget kan du laste op til 70 kg (154,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 88 liter (3,1 CU FT). Bilens maksimale vægt er 2232 kg (4921 lbs), og med basisvægten på 1844 kg (4065 lbs), kan du maksimalt laste 388 kg (855 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
+
 ### Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 01.10.2023, og leveringerne startede i December 2023.<div class="mt-3 mb-3">

@@ -26,7 +26,6 @@ Nous avons séparé notre article Tesla Model Y Long Range RWD en sections. Si v
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Tesla Model Y Long Range RWD offre des performances solides avec une puissance maximale de 250 kW (340 ch) et un couple total de 450 Nm. Elle peut accélérer de 0 à 100 km/h en 5,9 secondes et atteindre une vitesse maximale de 217 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Tesla Model Y Long Range RWD dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ La direction dynamique est une fonctionnalité un standard sur le Tesla Model Y 
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 355 mm et les disques arrière mesurent 355 mm.
-
 
 ### Freinage régénératif
 
@@ -102,9 +98,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -129,7 +123,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/frontseats_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2000"  >}}
 
-
 #### Siège de deuxième rangée
 
 
@@ -139,7 +132,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/secondrowseats_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2000"  >}}
-
 
 #### Sièges de troisième rangée
 
@@ -176,7 +168,6 @@ L'Tesla Model Y Long Range RWD comprend plusieurs fonctionnalités pour amélior
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Tesla Model Y Long Range RWD a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement.
@@ -196,17 +187,24 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le Tesla Model Y Long Range RWD. Avec le Tesla Premium Sound, vous obtenez 13 haut-parleurs avec une puissance système maximale de 560 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
 Le modèle dispose de 4 connexions USB-C en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Tesla Model Y Long Range RWD dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -254,12 +252,12 @@ Il utilise huit [cameras](../../../../technology/sensorsandcameras/cameras/) pou
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement dans le coffre est de 854 litres. Avec la banquette arrière rabattue, elle est de 2158 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 117 litres (4,1 CU FT). Le poids maximum de la voiture est de 2600 kg (5732 lbs), et avec le poids de base de 1959 kg (4319 lbs), vous pouvez charger au maximum 641 kg (1413 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Une barre d'attelage est un équipement standard sur ce modèle. Le poids total maximum sur une remorque freinée est de 1600, et sur une remorque non freinée, il est de 750 kg (3527/1653 lbs).
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 19.03.2019 et les livraisons ont commencé en March 2020.<div class="mt-3 mb-3">

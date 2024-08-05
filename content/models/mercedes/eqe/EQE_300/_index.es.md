@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Mercedes-EQ EQE 300 en secciones. Si desea espe
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Mercedes-EQ EQE 300 ofrece un rendimiento modesto con una potencia máxima de 180 kW (245 hp) y un par total de 565 Nm. Acelera de 0 a 100 km/h en 7,3 segundos y tiene una velocidad máxima 210 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -48,7 +47,6 @@ El cargador a bordo estándar soporta hasta 22 kW para carga AC de Nivel 1 y Niv
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_300/charging_1_st.jpg" title="Mercedes-EQ EQE 300" width="3000" height="2000"  >}}
 
-
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
@@ -56,11 +54,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Mercedes-EQ EQE 300 tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -73,7 +69,6 @@ La dirección dinámica es una característica un estándar en el Mercedes-EQ EQ
 ### Frenos
 
 Puedes elegir entre diferentes sistemas de frenos. Los frenos de opción standard utilizan [discos de hierro fundido] normales (../../../../technology/brakes/#disc-brakes). Los frenos de opción second utilizan [discos cerámicos](../../../../technology/brakes/#ceramic-brakes).
-
 
 ### Frenado regenerativo
 
@@ -102,9 +97,7 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -150,7 +143,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_300/frontseats_1_st.jpg" title="Mercedes-EQ EQE 300" width="3000" height="2000"  >}}
 
-
 #### Asiento de segunda fila
 
 
@@ -183,7 +175,6 @@ El Mercedes-EQ EQE 300 incluye varias características para mejorar la comodidad
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interfaz de usuario y control
@@ -219,17 +210,28 @@ Este modelo también tiene un sistema de control de gestos opcional que te permi
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Mercedes-EQ EQE 300 es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre dos sistemas de sonido en el Mercedes-EQ EQE 300. Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios. Con el Burmester Surround Soundsystem, obtienes 13 parlantes con una salida máxima del sistema de 590 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Mercedes-EQ EQE 300 es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 4 conexiones USB-C adicionales.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Mercedes-EQ EQE 300. Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente. Además, las luces traseras estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Mercedes-EQ EQE 300 tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -264,7 +266,6 @@ Con el sistema Driver Assistance Package Plus  nivel 2, obtienes funciones de au
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

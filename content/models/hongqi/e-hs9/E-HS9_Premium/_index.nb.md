@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Hongqi E-HS9 Premium i seksjoner. Hvis du vil ve
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Hongqi E-HS9 Premium imponerer med en imponerende kraft på 405 kW (551 hk) og et betydelig dreiemoment på 670 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,9 sekunder og har en toppfart på 200 km/t, noe som gjør den til en markant modell i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Hongqi E-HS9 Premium har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -69,7 +66,6 @@ Dynamisk styring er standard-funksjonen på Hongqi E-HS9 Premium. Dynamisk styri
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsing
 
@@ -97,9 +93,7 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -121,7 +115,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
-
 
 
 #### Seter på andre rad
@@ -147,7 +140,6 @@ Det er ett tilgjengelig klimasystem.
 
 - **6-soners klimasystem:** Støtter forskjellige temperaturer i seks soner: fører, passasjer og to soner, både i 2. og 3. rad.
 
-
 ## Komfortfunksjoner
 
 Hongqi E-HS9 Premium inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
@@ -159,7 +151,6 @@ Hongqi E-HS9 Premium inkluderer flere funksjoner for å forbedre komfort og bekv
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brukergrensesnitt og kontroll
@@ -184,11 +175,16 @@ Denne modellen har et valgfritt stemmestyringssystem. Stemmekontrollen lar deg k
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Hongqi E-HS9 Premium. Med Hongqi sound system får du 12 høyttalere med en maksimal systemeffekt på  watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### header.soundsystem
+
+Én type lydsystem er tilgjengelig for Hongqi E-HS9 Premium. Med Hongqi sound system får du 12 høyttalere med en maksimal systemeffekt på  watt.
+
 Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 3 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
@@ -199,6 +195,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 ## Avanserte førerassistentsystemer
 
 Hongqi E-HS9 Premium har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -232,7 +229,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

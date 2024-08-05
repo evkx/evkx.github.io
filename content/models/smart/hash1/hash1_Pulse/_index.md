@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Smart #1 Pulse delivers a solid performance with a maximum power of 315 kW (428 hp / 422 bhp) and a total torque of 584 Nm (431 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/charging_1_st.jpg" title="Smart #1 Pulse" width="3000" height="1687"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Smart #1 Pulse features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
@@ -69,7 +65,6 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350mm, and the rear discs are 333mm.
-
 
 ### Regenerative braking
 
@@ -96,9 +91,7 @@ There are two different roof options to select from. The standard is just a regu
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -117,7 +110,6 @@ The following functionalities are available on the **** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 - White/Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Second-row seat
@@ -152,7 +144,6 @@ The Smart #1 Pulse includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 
@@ -167,9 +158,7 @@ A head-up display is a standard system that projects speed and other important d
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/screens_1_st.jpg" title="Smart #1 Pulse" width="3000" height="1687"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -180,14 +169,17 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Smart #1 Pulse. With the Yamaha surround sound system, you get 13 speakers with a max system output of 1040 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the Smart #1 Pulse. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+
 ## Advanced driver assistance systems
 
 The Smart #1 Pulse has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -220,12 +212,12 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 313 liters. With the rear seat down, it is 976 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 15 liters (0.5 CU FT). The maxium weight of the car is 2325 kg (5126 lbs), and with the base weight of 1925 kg (4244 lbs), you can max load 400 kg (882 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
+
 ### Availability & Pricing
 
 This model had a world premiere on 07.04.2022, and deliveries is expected to start in November 2023.<div class="mt-3 mb-3">

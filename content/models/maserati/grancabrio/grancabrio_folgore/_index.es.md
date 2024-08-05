@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Maserati GranCabrio Folgore en secciones. Si de
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Maserati GranCabrio Folgore impresiona con una potencia máxima de 410 kW (557 hp) y un impresionante par total de 820 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,1 segundos y alcanza una velocidad máxima de 220 km/h, destacándose en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Maserati GranCabrio Folgore tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
-
 
 ### Suspensión
 
@@ -71,11 +68,9 @@ El Maserati GranCabrio Folgore permite al usuario seleccionar diferentes [modos 
 - GT: dirección equilibrada, altura de suspensión normal con aceleración eficiente y amortiguación cómoda de la suspensión.
 - Off Road: dirección equilibrada, altura máxima de suspensión con acelerador y amortiguación equilibrados.
 
-
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 350 mm y los discos traseros de 350 mm.
-
 
 ### Frenado regenerativo
 
@@ -108,9 +103,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -136,7 +129,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/frontseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2000"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -175,7 +167,6 @@ El Maserati GranCabrio Folgore incluye varias características para mejorar la c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Maserati GranCabrio Folgore tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay dos [pantallas de infoentretenimiento] diferentes (../../../../technology/userinterface/screens/#infotainment-screen).
@@ -192,14 +183,22 @@ Un head-up display es un sistema un estándar que presenta la velocidad y otra i
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/screens_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1845"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Maserati GranCabrio Folgore es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
 
 Puedes elegir entre dos sistemas de sonido en el Maserati GranCabrio Folgore. Con el Sonus Faber Premium Sound System, obtienes 14 parlantes con una salida máxima del sistema de 860 vatios. Con el Sonus Faber High Premium Sound System, obtienes 21 parlantes con una salida máxima del sistema de 1285 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Maserati GranCabrio Folgore es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
@@ -210,6 +209,7 @@ Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema ad
 ## Sistemas avanzados de asistencia al conductor
 
 El Maserati GranCabrio Folgore tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -249,12 +249,12 @@ Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 151 litros. El peso máximo del automóvil es 2750 kg (6063 lbs), y con el peso base de 2340 kg (5159 lbs), puedes cargar como máximo 410 kg (904 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+
 ### Disponibilidad y precios
 
 <div class="mt-3 mb-3">

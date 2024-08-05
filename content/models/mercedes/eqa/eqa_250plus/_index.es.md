@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Mercedes-EQ EQA 250+ en secciones. Si desea esp
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Mercedes-EQ EQA 250+ ofrece un rendimiento modesto con una potencia máxima de 140 kW (190 hp) y un par total de 385 Nm. Acelera de 0 a 100 km/h en 8,6 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -48,7 +47,6 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/charging_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
-
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
@@ -56,14 +54,11 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Mercedes-EQ EQA 250+ tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motor utilizados son [Motores de inducción](../../../../technology/motors/asm/).
 
-
 ### Suspensión
-
 
 
 ### Dirección
@@ -73,7 +68,6 @@ La dirección dinámica es una característica un estándar en el Mercedes-EQ EQ
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
-
 
 ### Frenado regenerativo
 
@@ -101,9 +95,7 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -150,7 +142,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/frontseats_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
-
 #### Asiento de segunda fila
 
 
@@ -172,7 +163,6 @@ Hay dos opciones de sistema de climatización disponibles:
 - **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
-
 ## Características de confort
 
 El Mercedes-EQ EQA 250+ incluye varias características para mejorar la comodidad y conveniencia:
@@ -183,7 +173,6 @@ El Mercedes-EQ EQA 250+ incluye varias características para mejorar la comodida
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interfaz de usuario y control
@@ -208,11 +197,20 @@ Este modelo también tiene un sistema de control de gestos opcional que te permi
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Mercedes-EQ EQA 250+ es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre dos sistemas de sonido en el Mercedes-EQ EQA 250+. Con el Standard, obtienes siete parlantes con una salida máxima del sistema de 100 vatios. Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Mercedes-EQ EQA 250+ es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 4 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
@@ -223,6 +221,7 @@ Los faros estándar utilizan tecnología LED. Además, las luces traseras están
 ## Sistemas avanzados de asistencia al conductor
 
 El Mercedes-EQ EQA 250+ tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -254,7 +253,6 @@ Con el sistema Driver Assistance Package  nivel 1, obtienes las siguientes funci
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av BYD Seal RWD i seksjoner. Hvis du vil vente med 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 BYD Seal RWD leverer solid ytelse med en maksimal effekt på 230 kW (313 hk) og et totalt dreiemoment på 360 Nm. Den kan akselerere fra 0 til 100 km/t på 5,9 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 BYD Seal RWD har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -69,7 +66,6 @@ Dynamisk styring er standard-funksjonen på BYD Seal RWD. Dynamisk styring varie
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsing
 
@@ -98,9 +94,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -125,7 +119,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/frontseats_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
-
 
 #### Seter på andre rad
 
@@ -163,7 +156,6 @@ BYD Seal RWD inkluderer flere funksjoner for å forbedre komfort og bekvemmeligh
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 BYD Seal RWD har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
@@ -179,14 +171,22 @@ Et head-up display er standard-system som viser hastighet og annen viktig fører
 
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/screens_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter BYD Seal RWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Én type lydsystem er tilgjengelig for BYD Seal RWD. Med Dynaudio Performance Audio System får du 12 høyttalere med en maksimal systemeffekt på  watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter BYD Seal RWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
@@ -197,6 +197,7 @@ Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-te
 ## Avanserte førerassistentsystemer
 
 BYD Seal RWD har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -229,7 +230,6 @@ Med Smart Pilot  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjo
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

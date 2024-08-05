@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Opel Astra Electric offers modest performance with a maximum power of 115 kW (156 hp / 154 bhp) and a total torque of 260 Nm (192 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 10.5 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/charging_1_st.jpg" title="Opel Astra Electric" width="3000" height="2153"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,18 +54,15 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Opel Astra Electric has a front-wheel drive system supported by one motor on the front axle.
-
 
 ### Suspension
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 140 mm.
 
 ### Brakes
-
 
 
 
@@ -94,7 +89,6 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -127,7 +121,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/frontseats_1_st.jpg" title="Opel Astra Electric" width="3000" height="1687"  >}}
 
-
 #### Second-row seat
 
 
@@ -158,7 +151,6 @@ The Opel Astra Electric includes several features to enhance comfort and conveni
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Opel Astra Electric has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -174,9 +166,7 @@ A head-up display is a standard system that projects speed and other important d
 
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/screens_1_st.jpg" title="Opel Astra Electric" width="3000" height="1687"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -191,6 +181,7 @@ Furthermore, the Opel Astra Electric supports Android Auto and Apple CarPlay. Th
 One type of sound system is available for the Opel Astra Electric. With the , you get NULL speakers with a max system output of  watts.
 
 The model has 3 USB-C connections as standard.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -201,6 +192,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Advanced driver assistance systems
 
 The Opel Astra Electric has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -222,7 +214,6 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

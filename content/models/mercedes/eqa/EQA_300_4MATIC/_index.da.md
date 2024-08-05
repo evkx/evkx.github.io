@@ -26,7 +26,6 @@ Vi har opdelt vores Mercedes-EQ EQA 300 4MATIC artikel i sektioner. Hvis du vil 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Mercedes-EQ EQA 300 4MATIC tilbyder beskedne præstationer med en maksimal effekt på 168 kW (228 hk) og et samlet drejningsmoment på 390 Nm. Den accelererer fra 0 til 100 km/t på 7,7 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -52,14 +51,11 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Mercedes-EQ EQA 300 4MATIC har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
 
-
 ### Hjulophæng
-
 
 
 ### Styring
@@ -69,7 +65,6 @@ Dynamisk styring er en standard-funktion på Mercedes-EQ EQA 300 4MATIC. Dynamis
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsning
 
@@ -97,9 +92,7 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -146,7 +139,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_300_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQA 300 4MATIC" width="3000" height="2000"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -164,7 +156,6 @@ To klimaanlægsmuligheder er tilgængelige:
 - **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
-
 ## Komfortfunktioner
 
 Mercedes-EQ EQA 300 4MATIC inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
@@ -175,7 +166,6 @@ Mercedes-EQ EQA 300 4MATIC inkluderer flere funktioner, der forbedrer komfort og
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brugergrænseflade og kontrol
@@ -200,17 +190,28 @@ Denne model har også et valgfrit gestuskontrolsystem, der lader dig styre speci
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Mercedes-EQ EQA 300 4MATIC Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan vælge mellem to lydsystemer på Mercedes-EQ EQA 300 4MATIC. Med Standard får du syv højttalere med en maksimal systemeffekt på 100 watt. Med Advanced Soundsystem får du ni højttalere med en maksimal systemeffekt på 225 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Mercedes-EQ EQA 300 4MATIC Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 4 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 Mercedes-EQ EQA 300 4MATIC har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -242,7 +243,6 @@ Med Driver Assistance Package  niveau 1-systemet får du følgende køreautomati
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

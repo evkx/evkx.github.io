@@ -26,7 +26,6 @@ Vi har opdelt vores BMW iX M60 artikel i sektioner. Hvis du vil vente med at læ
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 BMW iX M60 imponerer med en maksimal effekt på 455 kW (619 hk) og et imponerende samlet drejningsmoment på 765 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3,8 sekunder og har en topfart på 250 km/h, hvilket gør den til en standout i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/charging_1_st.jpg" title="BMW iX M60" width="3000" height="2002"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
@@ -56,11 +54,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 BMW iX M60 har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
-
 
 ### Hjulophæng
 
@@ -71,7 +67,6 @@ Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double
 Dynamisk styring er en standard-funktion på BMW iX M60. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden. Derudover er baghjulsstyring tilgængelig som en standard-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
 
 ### Bremser
-
 
 
 
@@ -100,9 +95,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -130,7 +123,6 @@ Du kan vælge mellem 7 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/frontseats_1_st.jpg" title="BMW iX M60" width="3000" height="1999"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -148,7 +140,6 @@ To klimaanlægsmuligheder er tilgængelige:
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
 
-
 ## Komfortfunktioner
 
 BMW iX M60 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
@@ -160,7 +151,6 @@ BMW iX M60 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brugergrænseflade og kontrol
@@ -178,14 +168,22 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/screens_1_st.jpg" title="BMW iX M60" width="3000" height="2001"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter BMW iX M60 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på BMW iX M60. Med Harman Kardon Surround Sound system får du 18 højttalere med en maksimal systemeffekt på 655 watt. Med Bowers & Wilkins Diamond surround sound system får du 30 højttalere med en maksimal systemeffekt på 1615 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter BMW iX M60 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 6 USB-C-forbindelser som standard.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til BMW iX M60. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix med laserteknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukkes individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -196,6 +194,7 @@ Du kan vælge mellem to typer forlygter til BMW iX M60. Standardlygterne bruger 
 ## Avancerede førerassistentsystemer
 
 BMW iX M60 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -229,7 +228,6 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

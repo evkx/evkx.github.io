@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Volvo EX30 Single Motor i avsnitt. Om du vil
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Volvo EX30 Single Motor erbjuder blygsamma prestanda med en maximal effekt på 200 kW (272 hk) och ett totalt vridmoment på 343 Nm. Den accelererar från 0 till 100 km/h på 5,3 sekunder och har en topphastighet på 180 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Volvo EX30 Single Motor har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
-
 
 ### Hjulupphängning
 
@@ -65,7 +62,6 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 350mm och de bakre skivorna är 333mm.
-
 
 ### Regenerativ bromsning
 
@@ -93,7 +89,6 @@ Det finns två olika takalternativ att välja mellan. Som ekstrautstyr kan du be
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
 
 Du kan välja mellan olika typer av sitsmaterial och inredningsstilar. Du kan välja mellan flera inredningsdesigner.
@@ -117,7 +112,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Gray [ullklädsel](../../../../technology/seats/materials/#wool)
 - Brown [ull/läderklädsel](../../../../technology/seats/materials/#wool)
 - Blue [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
-
 
 
 #### Säten på andra raden
@@ -156,7 +150,6 @@ Volvo EX30 Single Motor inkluderar flera funktioner för att förbättra komfort
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Volvo EX30 Single Motor har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment.
@@ -171,14 +164,18 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/screens_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2776"  >}}
 
-
 ## Infotainment
 
-Du kan välja mellan två ljudsystem på Volvo EX30 Single Motor. Med High Performance får du åtta högtalare med en maximal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 högtalare med en maximal systemeffekt på 1040 watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### header.soundsystem
+
+Du kan välja mellan två ljudsystem på Volvo EX30 Single Motor. Med High Performance får du åtta högtalare med en maximal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 högtalare med en maximal systemeffekt på 1040 watt.
+
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Volvo EX30 Single Motor. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
@@ -191,6 +188,7 @@ Du kan välja mellan två typer av strålkastare för Volvo EX30 Single Motor. S
 Volvo EX30 Single Motor har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -221,7 +219,6 @@ Med Pilot Assist  nivå 2-systemet får du följande körautomatiseringsfunktion
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

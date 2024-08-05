@@ -26,7 +26,6 @@ Vi har opdelt vores Peugot E-308 SW artikel i sektioner. Hvis du vil vente med a
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Peugot E-308 SW tilbyder beskedne præstationer med en maksimal effekt på 115 kW (156 hk) og et samlet drejningsmoment på 260 Nm. Den accelererer fra 0 til 100 km/t på 10,5 sekunder og har en topfart på 170 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -52,18 +51,15 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Peugot E-308 SW har et forhjulstræksystem understøttet af en motor på forakslen.
-
 
 ### Hjulophæng
 
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 140 mm.
 
 ### Bremser
-
 
 
 
@@ -90,7 +86,6 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiør
@@ -122,7 +117,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/peugot/308/e-308_sw/frontseats_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
-
 
 #### Sæde på anden række
 
@@ -158,7 +152,6 @@ Peugot E-308 SW inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 
@@ -172,11 +165,20 @@ Et head-up display er en standard-system, der viser hastighed og andre vigtige f
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Peugot E-308 SW Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for Peugot E-308 SW. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Peugot E-308 SW Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 3 USB-C-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -187,6 +189,7 @@ Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, 
 ## Avancerede førerassistentsystemer
 
 Peugot E-308 SW har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -210,12 +213,12 @@ Med DS Drive Assist  niveau 1-systemet får du følgende køreautomatiseringsfun
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 548 liter. Med bagsædet nede er det 1574 liter. På taget kan du laste op til 70 kg (154,3 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Bilens maksimale vægt er 2175 kg (4795 lbs), og med basisvægten på 1716 kg (3783 lbs), kan du maksimalt laste 459 kg (1012 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+
 ### Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 06.07.2023, og leveringer forventes at starte om November 2023.<div class="mt-3 mb-3">

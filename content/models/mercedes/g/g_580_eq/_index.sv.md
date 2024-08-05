@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Mercedes-EQ G 580 EQ i avsnitt. Om du vill v
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Mercedes-EQ G 580 EQ imponerar med en imponerande kraft på 432 kW (587 hk) och ett imponerande totalt vridmoment på 1164 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 4,7 sekunder och når en topphastighet på 180 km/h, vilket gör den till en stjärna i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Mercedes-EQ G 580 EQ har ett fyrhjulsdriftsystem som stöds av fyra motorer. En för varje hjul. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -69,7 +66,6 @@ Dynamisk styrning är standard-funktionen för Mercedes-EQ G 580 EQ. Dynamisk st
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 415mm och de bakre skivorna är 378mm.
-
 
 ### Regenerativ bromsning
 
@@ -101,9 +97,7 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -149,7 +143,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/frontseats_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 
-
 #### Säten på andra raden
 
 
@@ -172,7 +165,6 @@ Två klimatsystemalternativ är tillgängliga:
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 - **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
 
-
 ## Komfortfunktioner
 
 Mercedes-EQ G 580 EQ inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -184,7 +176,6 @@ Mercedes-EQ G 580 EQ inkluderar flera funktioner för att förbättra komfort oc
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Användargränssnitt och kontroll
@@ -220,11 +211,20 @@ Denna modell har också ett valfritt gestkontrollsystem som låter dig styra spe
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Mercedes-EQ G 580 EQ Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan välja mellan två ljudsystem på Mercedes-EQ G 580 EQ. Med Advanced Soundsystem får du nio högtalare med en maximal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 högtalare med en maximal systemeffekt på 590 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Mercedes-EQ G 580 EQ Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 4 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
+
 ## Ljus
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Dessutom använder standardbakljusen LED-teknik.
@@ -235,6 +235,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 ## Avancerade förarassistanssystem
 
 Mercedes-EQ G 580 EQ har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -275,12 +276,12 @@ Med DRIVE PILOT  nivå 3-systemet får du fler körautomationsfunktioner än de 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastkapaciteten i bagageutrymmet är 555 liter. Med baksätet nedfällt är det 1990 liter. På taket kan du lasta upp till 100 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 3500 kg, och med basvikten på 3010 kg kan du lasta maximalt 490 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 490 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+
 ### Tillgänglighet och pris
 
 <div class="mt-3 mb-3">

@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Subaru Solterra AWD i seksjoner. Hvis du vil ven
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Subaru Solterra AWD tilbyr beskjedne ytelser med en maksimal effekt på 160 kW (218 hk) og et totalt dreiemoment på 337 Nm. Den akselererer fra 0 til 100 km/t på 6,9 sekunder og har en toppfart på 160 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Subaru Solterra AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
-
 
 ### Hjuloppheng
 
@@ -66,9 +63,7 @@ Subaru Solterra AWD har et firehjulsdriftssystem som støttes av to motorer, en 
 
 
 
-
 ### Regenerativ bremsing
-
 
 
 ## Eksteriør
@@ -91,13 +86,10 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 
-
 ### Seter
-
 
 
 #### Forseter
@@ -118,7 +110,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/frontseats_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}
-
 
 #### Seter på andre rad
 
@@ -153,7 +144,6 @@ Subaru Solterra AWD inkluderer flere funksjoner for å forbedre komfort og bekve
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 To forskjellige skjermoppsett er tilgjengelige på Subaru Solterra AWD.
@@ -180,14 +170,22 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/screens_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="1687"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Subaru Solterra AWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan velge mellom to lydsystemer på Subaru Solterra AWD. Med Toyota får du seks høyttalere med en maksimal systemeffekt på  watt. Med JBL Premium Sound får du ni høyttalere med en maksimal systemeffekt på  watt.
 
-I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Subaru Solterra AWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 4 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Subaru Solterra AWD. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
@@ -198,6 +196,7 @@ Du kan velge mellom to typer frontlykter for Subaru Solterra AWD. Standardlykten
 ## Avanserte førerassistentsystemer
 
 Subaru Solterra AWD har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -221,7 +220,6 @@ Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

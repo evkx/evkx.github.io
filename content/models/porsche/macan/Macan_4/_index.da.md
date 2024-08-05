@@ -26,7 +26,6 @@ Vi har opdelt vores Porsche Macan 4 artikel i sektioner. Hvis du vil vente med a
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Med overboost når Porsche Macan 4 en maksimal effekt på 300 kW (408 hk). Uden overboost leverer den 285 kW (388 hk). Det maksimale drejningsmoment er 650 Nm. Den kan accelerere fra 0 til 100 km/t på 5,2 sekunder og når en topfart på 220 km/t, hvilket demonstrerer dens solide præstation.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Porsche Macan 4 har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en standard-funktion på Porsche Macan 4. Dynamisk styring v
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 410mm, og de bagerste skiver er 365mm.
-
 
 ### Regenerativ bremsning
 
@@ -104,9 +100,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -154,7 +148,6 @@ Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 
-
 #### Sæde på anden række
 
 
@@ -190,7 +183,6 @@ Porsche Macan 4 inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Porsche Macan 4 har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet.
@@ -207,14 +199,22 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4/screens_1_st.jpg" title="Porsche Macan 4" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Porsche Macan 4 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Porsche Macan 4. Med  BOSE® Surround Sound System får du 14 højttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 højttalere med en maksimal systemeffekt på 1470 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Porsche Macan 4 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Porsche Macan 4. Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -227,6 +227,7 @@ Du kan vælge mellem to typer forlygter til Porsche Macan 4. Standardlygterne br
 Porsche Macan 4 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -263,7 +264,6 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

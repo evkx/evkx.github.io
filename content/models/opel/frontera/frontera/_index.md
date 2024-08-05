@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Opel Frontera kWh provides basic performance with a maximum power of 83 kW (113 hp / 111 bhp) and a total torque of 120 Nm (89 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 11 seconds and reaches a top speed of 135 km/h (84 mph), which is more comparable to entry-level traditional internal combustion engine vehicles.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Opel Frontera has a front-wheel drive system supported by one motor on the front axle.
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is a standard feature on the Opel Frontera. Dynamic steering va
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -101,9 +97,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -128,7 +122,6 @@ The following functionalities are available on the **Advanced Comfort** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 - Black/Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
-
 
 
 #### Second-row seats
@@ -168,7 +161,6 @@ The Opel Frontera includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Opel Frontera has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -189,7 +181,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the an optional in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -203,6 +194,7 @@ Furthermore, the Opel Frontera supports Android Auto and Apple CarPlay. This fun
 You can choose between two sound systems on the Opel Frontera. With the , you get two speakers with a max system output of  watts. With the Max Sound system, you get two speakers with a max system output of  watts.
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
@@ -213,6 +205,7 @@ The standard headlights use LED technology. In addition, the standard taillights
 ## Advanced driver assistance systems
 
 The Opel Frontera has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -236,7 +229,6 @@ This model uses cameras, radar, and ultrasonic sensors for the driver assist sys
 Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), one [cameras](../../../../technology/sensorsandcameras/cameras/), and four [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

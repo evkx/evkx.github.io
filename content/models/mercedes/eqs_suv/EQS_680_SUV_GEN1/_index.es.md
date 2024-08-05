@@ -32,7 +32,6 @@ Este modelo ha sido reemplazado por [Mercedes EQS 680 SUV](/models/mercedes/eqs_
 
 </div>
 
-
 ## Rendimiento
 
 El Mercedes-Maybach EQS 680 SUV impresiona con una potencia máxima de 484 kW (658 hp) y un impresionante par total de 950 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,4 segundos y alcanza una velocidad máxima de 210 km/h, destacándose en su clase.
@@ -58,11 +57,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Mercedes-Maybach EQS 680 SUV tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -75,7 +72,6 @@ La dirección dinámica es una característica un estándar en el Mercedes-Mayba
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 415 mm y los discos traseros de 378 mm.
-
 
 ### Frenado regenerativo
 
@@ -107,9 +103,7 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -140,7 +134,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2001"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -187,7 +180,6 @@ El Mercedes-Maybach EQS 680 SUV incluye varias características para mejorar la 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Mercedes-Maybach EQS 680 SUV tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero.
@@ -211,11 +203,20 @@ Este modelo también tiene un sistema de control de gestos opcional que te permi
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Mercedes-Maybach EQS 680 SUV es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre dos sistemas de sonido en el Mercedes-Maybach EQS 680 SUV. Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios. Con el Burmester Surround Soundsystem, obtienes 13 parlantes con una salida máxima del sistema de 590 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Mercedes-Maybach EQS 680 SUV es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 4 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
@@ -226,6 +227,7 @@ Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema ad
 ## Sistemas avanzados de asistencia al conductor
 
 El Mercedes-Maybach EQS 680 SUV tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -266,12 +268,12 @@ Con el sistema DRIVE PILOT  nivel 3, obtienes funciones de automatización de co
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 440 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 3375 kg (7441 lbs), y con el peso base de 2735 kg (6030 lbs), puedes cargar como máximo 640 kg (1411 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1800, y sin freno, es de 750 kg (3968/1653 lbs).
+
 ### Disponibilidad y precios
 
 <div class="mt-3 mb-3">

@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av CUPRA BORN VZ i avsnitt. Om du vill vänta m
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 CUPRA BORN VZ levererar en solid prestanda med en maximal effekt på 240 kW (326 hk) och ett totalt vridmoment på 545 Nm. Den kan accelerera från 0 till 100 km/h på 5,7 sekunder och når en topphastighet på 200 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 CUPRA BORN VZ har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [induktionsmotor](../../../../technology/motors/asm/).
-
 
 ### Hjulupphängning
 
@@ -69,7 +66,6 @@ Dynamisk styrning är valfritt-funktionen för CUPRA BORN VZ. Dynamisk styrning 
 ### Bromsar
 
 SKODA Elroq 85x använder [skivbromsar](../../../../technology/brakes/#disc-brakes) fram för överlägsen bromskraft och värmeavledning, medan [trumbromsar](../../../../technology/brakes/#trumbromsar) används bak för kostnadseffektivitet och hållbarhet. Trumbromsar ger tillräcklig prestanda för bakhjulen, kräver mindre underhåll och integreras sömlöst med fordonets regenerativa bromssystem. Denna kombination säkerställer optimal bromsprestanda och kostnadseffektivitet, i linje med elbilens övergripande effektivitetsmål. De främre skivorna är 330mm.
-
 
 ### Regenerativ bromsning
 
@@ -100,9 +96,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -128,7 +122,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/cupra/born/born_vz/frontseats_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="2191"  >}}
-
 
 #### Säten på andra raden
 
@@ -160,7 +153,6 @@ CUPRA BORN VZ inkluderar flera funktioner för att förbättra komfort och bekv�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 CUPRA BORN VZ har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm).
@@ -176,22 +168,32 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/cupra/born/born_vz/screens_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="1717"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder CUPRA BORN VZ Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan välja mellan två ljudsystem på CUPRA BORN VZ. Med Sound system får du fem högtalare med en maximal systemeffekt på 140 watt. Med Beats Audio får du nio högtalare med en maximal systemeffekt på 395 watt.
 
-Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder CUPRA BORN VZ Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 CUPRA BORN VZ har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -232,12 +234,12 @@ Med Assistantpackage plus  nivå 2-systemet får du fler körautomatiseringsfunk
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastkapaciteten i bagageutrymmet är 385 liter. Med baksätet nedfällt är det 1267 liter. På taket kan du lasta upp till 0 kg. Bilens maximala vikt är 2300 kg, och med basvikten på 1895 kg kan du lasta maximalt 405 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+
 ### Tillgänglighet och pris
 
 Denna modell hade världspremiär 20.02.2024 och leveranserna startade i August 2024.<div class="mt-3 mb-3">

@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av VinFast VF8 Plus i seksjoner. Hvis du vil vente 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 VinFast VF8 Plus leverer solid ytelse med en maksimal effekt på 300 kW (408 hk) og et totalt dreiemoment på 620 Nm. Den kan akselerere fra 0 til 100 km/t på 5,5 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -50,11 +49,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 VinFast VF8 Plus har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -68,11 +65,9 @@ VinFast VF8 Plus lar brukeren velge forskjellige [kjøremoduser](../../../../tec
 - Normal Mode: Balansert gass.
 - Sport Mode: Dynamisk gass.
 
-
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 375mm, og de bakre skivene er 341mm.
-
 
 ### Regenerativ bremsing
 
@@ -101,13 +96,11 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Du kan velge mellom flere interiørdesign.
 
 ### Seter
-
 
 
 #### Forseter
@@ -128,7 +121,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 - Brown [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Beige [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Blue [lærpolstring](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Seter på andre rad
@@ -153,7 +145,6 @@ Det er ett tilgjengelig klimasystem.
 
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
-
 ## Komfortfunksjoner
 
 VinFast VF8 Plus inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
@@ -164,7 +155,6 @@ VinFast VF8 Plus inkluderer flere funksjoner for å forbedre komfort og bekvemme
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brukergrensesnitt og kontroll
@@ -186,17 +176,28 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter VinFast VF8 Plus Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Én type lydsystem er tilgjengelig for VinFast VF8 Plus. Med  får du 11 høyttalere med en maksimal systemeffekt på  watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter VinFast VF8 Plus Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 4 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 VinFast VF8 Plus har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -231,7 +232,6 @@ Denne modellen bruker kameraer, radar og ultralydsensorer for førerassistentsys
 Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

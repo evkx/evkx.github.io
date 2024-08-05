@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av BMW i4 eDrive35 i seksjoner. Hvis du vil vente m
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 BMW i4 eDrive35 leverer solid ytelse med en maksimal effekt på 210 kW (286 hk) og et totalt dreiemoment på 400 Nm. Den kan akselerere fra 0 til 100 km/t på 6 sekunder og når en topphastighet på 190 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/charging_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2001"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
@@ -56,11 +54,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 BMW i4 eDrive35 har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Wound-Rotor Synchronous Motor](../../../../technology/motors/wrsm/).
-
 
 ### Hjuloppheng
 
@@ -73,7 +69,6 @@ Dynamisk styring er standard-funksjonen på BMW i4 eDrive35. Dynamisk styring va
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsing
 
@@ -106,9 +101,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -191,7 +184,6 @@ Du kan velge mellom 21 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/frontseats_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2121"  >}}
 
-
 #### Seter på andre rad
 
 
@@ -209,7 +201,6 @@ To klimasystemalternativer er tilgjengelige:
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 - **4-soners klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
 
-
 ## Komfortfunksjoner
 
 BMW i4 eDrive35 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
@@ -221,7 +212,6 @@ BMW i4 eDrive35 inkluderer flere funksjoner for å forbedre komfort og bekvemmel
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brukergrensesnitt og kontroll
@@ -238,17 +228,28 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter BMW i4 eDrive35 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan velge mellom to lydsystemer på BMW i4 eDrive35. Med Hifi Sound system får du ti høyttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Surround Sound system får du 17 høyttalere med en maksimal systemeffekt på 445 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter BMW i4 eDrive35 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 4 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for BMW i4 eDrive35. Standardlyktene bruker LED-teknologi. Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 BMW i4 eDrive35 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -282,7 +283,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du flere kjøreautomat
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

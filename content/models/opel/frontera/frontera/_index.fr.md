@@ -26,7 +26,6 @@ Nous avons séparé notre article Opel Frontera en sections. Si vous souhaitez a
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Opel Frontera kWh offre des performances de base avec une puissance maximale de 83 kW (113 ch) et un couple total de 120 Nm. Elle accélère de 0 à 100 km/h en 11 secondes et atteint une vitesse maximale de 135 km/h, ce qui est plus comparable aux modèles d'entrée de gamme des véhicules à moteur à combustion interne traditionnels.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Opel Frontera dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant.
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ La direction dynamique est une fonctionnalité un standard sur le Opel Frontera.
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
-
 
 ### Freinage régénératif
 
@@ -101,9 +97,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -128,7 +122,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Advanced Comfort
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 - Black/Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
-
 
 
 #### Sièges de deuxième rangée
@@ -168,7 +161,6 @@ L'Opel Frontera comprend plusieurs fonctionnalités pour améliorer le confort e
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Opel Frontera possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -189,11 +181,20 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Opel Frontera prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Vous pouvez choisir entre deux systèmes audio sur le Opel Frontera. Avec le , vous obtenez deux haut-parleurs avec une puissance système maximale de  watts. Avec le Max Sound system, vous obtenez deux haut-parleurs avec une puissance système maximale de  watts.
 
-De plus, avec le système de navigation embarqué facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Opel Frontera prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
@@ -204,6 +205,7 @@ Les phares standards utilisent la technologie LED. De plus, les feux arrière st
 ## Systèmes avancés d'aide à la conduite
 
 Le Opel Frontera dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -227,7 +229,6 @@ Ce modèle utilise des caméras, des radars et des capteurs à ultrasons pour le
 Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), un [caméras](../../../../technology/sensorsandcameras/cameras/), et quatre [capteurs à ultrasons](../../../../technology/sensorsandcameras/ultrasonic/) enregistrent tout ce qui se passe dans le l'environnement du véhicule.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

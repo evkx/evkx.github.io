@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Hyundai INSTER Standard Range i avsnitt. Om 
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Hyundai INSTER Standard Range erbjuder grundläggande prestanda med en maximal effekt på 71 kW (97 hk) och ett totalt vridmoment på 147 Nm. Den accelererar från 0 till 100 km/h på 11,7 sekunder och når en topphastighet på 140 km/h, vilket är mer jämförbart med instegsmodeller av traditionella förbränningsmotorfordon.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [fronten](../../../../technology/charging/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Hyundai INSTER Standard Range har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -65,7 +62,6 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 254mm och de bakre skivorna är 240mm.
-
 
 ### Regenerativ bromsning
 
@@ -93,7 +89,6 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiör
@@ -126,7 +121,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/frontseats_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
-
 
 #### Säten på andra raden
 
@@ -170,7 +164,6 @@ Hyundai INSTER Standard Range inkluderar flera funktioner för att förbättra k
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 
@@ -185,14 +178,22 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/screens_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Hyundai INSTER Standard Range Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 En typ av ljudsystem är tillgänglig för Hyundai INSTER Standard Range. Med Bose Premium Sound System får du sju högtalare med en maximal systemeffekt på  watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Hyundai INSTER Standard Range Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
@@ -203,6 +204,7 @@ Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-
 ## Avancerade förarassistanssystem
 
 Hyundai INSTER Standard Range har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -239,7 +241,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

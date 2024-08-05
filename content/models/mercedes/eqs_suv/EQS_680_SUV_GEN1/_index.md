@@ -32,7 +32,6 @@ This model has been replaced by [Mercedes EQS 680 SUV](/models/mercedes/eqs_suv/
 
 </div>
 
-
 ## Performance
 
 The Mercedes-Maybach EQS 680 SUV packs an impressive punch with a maximum power of 484 kW (658 hp / 649 bhp) and a commanding total torque of 950 Nm (701 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.4 seconds, and it reaches a top speed of 210 km/h (131 mph), making it a standout in its class.
@@ -58,11 +57,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Mercedes-Maybach EQS 680 SUV features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -75,7 +72,6 @@ Dynamic steering is a standard feature on the Mercedes-Maybach EQS 680 SUV. Dyna
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 415mm, and the rear discs are 378mm.
-
 
 ### Regenerative braking
 
@@ -110,9 +106,7 @@ There are two different roof options to select from. The standard is just a regu
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -143,7 +137,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2001"  >}}
-
 
 #### Second-row seat
 
@@ -190,7 +183,6 @@ The Mercedes-Maybach EQS 680 SUV includes several features to enhance comfort an
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Mercedes-Maybach EQS 680 SUV has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat.
@@ -214,7 +206,6 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -228,6 +219,7 @@ Furthermore, the Mercedes-Maybach EQS 680 SUV supports Android Auto and Apple Ca
 You can choose between two sound systems on the Mercedes-Maybach EQS 680 SUV. With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get 13 speakers with a max system output of 590 watts.
 
 The model has 4 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -238,6 +230,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Advanced driver assistance systems
 
 The Mercedes-Maybach EQS 680 SUV has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -278,12 +271,12 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 440 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 3375 kg (7441 lbs), and with the base weight of 2735 kg (6030 lbs), you can max load 640 kg (1411 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
+
 ### Availability & Pricing
 
 <div class="mt-3 mb-3">

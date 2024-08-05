@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Chevrolet Blazer EV SS i avsnitt. Om du vill
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Chevrolet Blazer EV SS imponerar med en imponerande kraft på 410 kW (557 hk) och ett imponerande totalt vridmoment på 880 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 4 sekunder och når en topphastighet på 190 km/h, vilket gör den till en stjärna i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Chevrolet Blazer EV SS har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -65,7 +62,6 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 321mm och de bakre skivorna är 345mm.
-
 
 ### Regenerativ bromsning
 
@@ -90,13 +86,10 @@ Det finns två olika takalternativ att välja mellan. Standardtaket har ett stor
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
 
 
-
 ### Säten
-
 
 
 #### Framsäten
@@ -120,7 +113,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
-
 
 #### Säten på andra raden
 
@@ -152,7 +144,6 @@ Chevrolet Blazer EV SS inkluderar flera funktioner för att förbättra komfort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Chevrolet Blazer EV SS har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
@@ -173,11 +164,20 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Chevrolet Blazer EV SS Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 En typ av ljudsystem är tillgänglig för Chevrolet Blazer EV SS. Med Lyric sound system får du sju högtalare med en maximal systemeffekt på  watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Chevrolet Blazer EV SS Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 5 USB-C-anslutningar som standard.
+
 ## Ljus
 
 
@@ -188,6 +188,7 @@ Modellen har 5 USB-C-anslutningar som standard.
 ## Avancerade förarassistanssystem
 
 Chevrolet Blazer EV SS har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -212,7 +213,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

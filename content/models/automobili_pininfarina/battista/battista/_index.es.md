@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Automobili Pininfarina Battista en secciones. S
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Automobili Pininfarina Battista entrega una impresionante potencia máxima de 1400 kW (1904 hp) y un enorme torque de 2340 Nm. Este monstruo puede acelerar de 0 a 100 km/h en solo 1,86 segundos, demostrando su asombrosa aceleración. Además, alcanza una velocidad máxima de 350 km/h, lo que lo convierte en una verdadera maravilla de la ingeniería y el rendimiento.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Automobili Pininfarina Battista tiene un sistema de tracción total sostenido por cuatro motores. Uno para cada rueda. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -76,11 +73,9 @@ El Automobili Pininfarina Battista permite al usuario seleccionar diferentes [mo
 - Track: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
 - Drift: dirección dinámica, suspensión baja con aceleración y suspensión dinámicas.
 
-
 ### Frenos
 
 Los frenos traseros y delanteros son [discos cerámicos](../../../../technology/brakes/#ceramic-brakes). Los discos delanteros son de 390 mm y los discos traseros de 390 mm.
-
 
 ### Frenado regenerativo
 
@@ -109,13 +104,10 @@ Sólo hay un techo para este modelo.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 
-
 ### Asientos
-
 
 
 #### Asientos de primera fila
@@ -153,7 +145,6 @@ El Automobili Pininfarina Battista incluye varias características para mejorar 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Automobili Pininfarina Battista tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments). Además, hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#front-passenger-screen) delante del asiento del pasajero.
@@ -170,13 +161,19 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/screens_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="1977"  >}}
 
-
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Automobili Pininfarina Battista es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el Automobili Pininfarina Battista. Con el Rimac Nevera Sound System, obtienes ocho parlantes con una salida máxima del sistema de 1200 vatios.
-
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Automobili Pininfarina Battista es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 
 ## Luces
 
@@ -188,6 +185,7 @@ Los faros estándar utilizan tecnología LED. Además, las luces traseras están
 ## Sistemas avanzados de asistencia al conductor
 
 El Automobili Pininfarina Battista tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -208,12 +206,12 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 100 litros. El peso máximo del automóvil es 2550 kg (5622 lbs), y con el peso base de 2300 kg (5071 lbs), puedes cargar como máximo 250 kg (551 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 01.07.2023 y las entregas comenzaron en October 2023.<div class="mt-3 mb-3">

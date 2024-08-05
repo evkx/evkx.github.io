@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The BMW i5 M60 xDrive Touring packs an impressive punch with a maximum power of 442 kW (601 hp / 593 bhp) and a commanding total torque of 795 Nm (587 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.8 seconds, and it reaches a top speed of 230 km/h (143 mph), making it a standout in its class.
@@ -48,7 +47,6 @@ The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC cha
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/charging_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="1686"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 BMW i5 M60 xDrive Touring features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
-
 
 ### Suspension
 
@@ -71,7 +67,6 @@ The  suspension has adaptive damping on the front and rear axle and air suspensi
 Dynamic steering is a standard feature on the BMW i5 M60 xDrive Touring. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as an optional feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
-
 
 
 
@@ -106,9 +101,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -142,7 +135,6 @@ The following functionalities are available on the **Comfort seats** seat.
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/frontseats_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
-
 
 #### Second-row seat
 
@@ -181,7 +173,6 @@ The BMW i5 M60 xDrive Touring includes several features to enhance comfort and c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The BMW i5 M60 xDrive Touring has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -204,7 +195,6 @@ A gesture control system that lets you control specific features using your hand
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -218,6 +208,7 @@ Furthermore, the BMW i5 M60 xDrive Touring supports Android Auto and Apple CarPl
 You can choose between three sound systems on the BMW i5 M60 xDrive Touring. With the Hifi Sound system, you get six speakers with a max system output of 100 watts. With the Harman Kardon Surround Sound system, you get 12 speakers with a max system output of 205 watts. With the Bower & Wilkins Surround System, you get 18 speakers with a max system output of 655 watts.
 
 The model has 6 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the BMW i5 M60 xDrive Touring. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -228,6 +219,7 @@ You can choose between two types of headlights for the BMW i5 M60 xDrive Touring
 ## Advanced driver assistance systems
 
 The BMW i5 M60 xDrive Touring has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -261,7 +253,6 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

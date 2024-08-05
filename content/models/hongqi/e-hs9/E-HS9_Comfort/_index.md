@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Hongqi E-HS9 Comfort offers modest performance with a maximum power of 320 kW (435 hp / 429 bhp) and a total torque of 300 Nm (221 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.5 seconds and has a top speed of 200 km/h (124 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Hongqi E-HS9 Comfort features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is a standard feature on the Hongqi E-HS9 Comfort. Dynamic stee
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -97,9 +93,7 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -121,7 +115,6 @@ The following functionalities are available on the **standard** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 You can choose from 2 different materials/colors for this seat type.
-
 
 
 #### Second-row seat
@@ -147,7 +140,6 @@ There is one climate system available.
 
 - **6-zone climate system:** Supports different temperatures in six zones: The driver, passenger, and two zones, both in the 2. and 3. row.
 
-
 ## Comfort features
 
 The Hongqi E-HS9 Comfort includes several features to enhance comfort and convenience:
@@ -159,7 +151,6 @@ The Hongqi E-HS9 Comfort includes several features to enhance comfort and conven
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -184,7 +175,6 @@ This model has an optional voice control system. The voice control lets you cont
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -194,6 +184,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Hongqi E-HS9 Comfort. With the Hongqi sound system, you get eight speakers with a max system output of  watts.
 
 The model has 1 USB-C connections as standard. The model has 3 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
@@ -204,6 +195,7 @@ The standard headlights use LED technology. In addition, the standard taillights
 ## Advanced driver assistance systems
 
 The Hongqi E-HS9 Comfort has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -237,7 +229,6 @@ With the   level 2 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

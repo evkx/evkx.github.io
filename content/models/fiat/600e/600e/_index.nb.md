@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Fiat 600e i seksjoner. Hvis du vil vente med å 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Fiat 600e tilbyr beskjedne ytelser med en maksimal effekt på 115 kW (156 hk) og et totalt dreiemoment på 260 Nm. Den akselererer fra 0 til 100 km/t på 9 sekunder og har en toppfart på 150 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
@@ -52,18 +51,15 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Fiat 600e har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
-
 
 ### Hjuloppheng
 
 Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherson-strut), og den bakre opphenget er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 200 mm.
 
 ### Bremser
-
 
 
 
@@ -95,7 +91,6 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Det er én setetype du kan velge i forskjellige materialer.
@@ -124,7 +119,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/frontseats_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
-
 
 #### Seter på andre rad
 
@@ -155,7 +149,6 @@ Fiat 600e inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 
@@ -170,14 +163,22 @@ Et head-up display er standard-system som viser hastighet og annen viktig fører
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/screens_1_st.jpg" title="Fiat 600e" width="3000" height="2001"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Fiat 600e Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Én type lydsystem er tilgjengelig for Fiat 600e. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
 
-I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Fiat 600e Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 3 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
@@ -188,6 +189,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 ## Avanserte førerassistentsystemer
 
 Fiat 600e har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -207,7 +209,6 @@ Med DS Drive Assist  nivå 1-systemet får du følgende kjøreautomatiseringsfun
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

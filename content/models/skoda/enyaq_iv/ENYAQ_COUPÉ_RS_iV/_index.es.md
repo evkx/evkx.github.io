@@ -26,7 +26,6 @@ Hemos separado nuestro artículo SKODA ENYAQ COUPÉ RS iV en secciones. Si desea
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El SKODA ENYAQ COUPÉ RS iV ofrece un rendimiento sólido con una potencia máxima de 250 kW (340 hp) y un par total de 679 Nm. Puede acelerar de 0 a 100 km/h en 5,5 segundos y alcanza una velocidad máxima de 180 km/h, lo que lo hace competitivo en su clase.
@@ -48,7 +47,6 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/charging_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" width="3000" height="2001"  >}}
 
-
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
@@ -56,11 +54,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 SKODA ENYAQ COUPÉ RS iV tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
-
 
 ### Suspensión
 
@@ -73,7 +69,6 @@ La dirección dinámica es una característica un estándar en el SKODA ENYAQ CO
 ### Frenos
 
 El SKODA ENYAQ COUPÉ RS iV utiliza [frenos de disco](../../../../technology/brakes/#disc-brakes) en la parte delantera para una potencia de frenado superior y disipación de calor, mientras que se emplean [frenos de tambor](../../../../technology/frenos/#frenos-de-tambor) en la parte trasera por su eficiencia en costos y durabilidad. Los frenos de tambor proporcionan un rendimiento adecuado para las ruedas traseras, requieren menos mantenimiento e integran perfectamente con el sistema de frenado regenerativo del vehículo. Esta combinación garantiza un rendimiento óptimo de frenado y rentabilidad, alineándose con los objetivos generales de eficiencia del EV. Los discos delanteros miden 358 mm.
-
 
 ### Frenado regenerativo
 
@@ -103,9 +98,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -131,7 +124,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/frontseats_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" width="3000" height="2001"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -167,7 +159,6 @@ El SKODA ENYAQ COUPÉ RS iV incluye varias características para mejorar la como
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El SKODA ENYAQ COUPÉ RS iV tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -183,22 +174,32 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/screens_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" width="3000" height="1999"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un opcional, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el SKODA ENYAQ COUPÉ RS iV es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
 
 Un tipo de sistema de sonido está disponible para el SKODA ENYAQ COUPÉ RS iV. Con el Canton Soundsystem, obtienes diez parlantes con una salida máxima del sistema de 550 vatios.
 
-Además, con el sistema de navegación para automóvil opcional, obtienes la ayuda que necesitas para encontrar tu destino. Además, el SKODA ENYAQ COUPÉ RS iV es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El SKODA ENYAQ COUPÉ RS iV tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -230,7 +231,6 @@ Con el sistema MAX  nivel 2, obtienes las siguientes funciones de automatizació
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

@@ -32,7 +32,6 @@ Denna modell har ersatts av [Volvo EX40 Single Motor](/models/volvo/ex40/ex40_si
 
 </div>
 
-
 ## Prestanda
 
 Volvo XC40 Recharge Single Motor erbjuder blygsamma prestanda med en maximal effekt på 175 kW (238 hk) och ett totalt vridmoment på 420 Nm. Den accelererar från 0 till 100 km/h på 7,3 sekunder och har en topphastighet på 180 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
@@ -58,11 +57,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Volvo XC40 Recharge Single Motor har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
-
 
 ### Hjulupphängning
 
@@ -71,7 +68,6 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bromsning
 
@@ -99,9 +95,7 @@ Det finns två olika takalternativ att välja mellan. Som tillval kan du bestäl
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -124,7 +118,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/frontseats_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="1920" height="1080"  >}}
-
 
 #### Säten på andra raden
 
@@ -157,7 +150,6 @@ Volvo XC40 Recharge Single Motor inkluderar flera funktioner för att förbättr
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Volvo XC40 Recharge Single Motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
@@ -173,12 +165,14 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/screens_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="3000" height="2249"  >}}
 
-
 ## Infotainment
+
+### header.soundsystem
 
 Du kan välja mellan två ljudsystem på Volvo XC40 Recharge Single Motor. Med High Performance får du åtta högtalare med en maximal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 högtalare med en maximal systemeffekt på 600 watt.
 
 Modellen har 1 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Volvo XC40 Recharge Single Motor. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
@@ -191,6 +185,7 @@ Du kan välja mellan två typer av strålkastare för Volvo XC40 Recharge Single
 Volvo XC40 Recharge Single Motor har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -215,7 +210,6 @@ Med Pilot Assist  nivå 2-systemet får du följande körautomatiseringsfunktion
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

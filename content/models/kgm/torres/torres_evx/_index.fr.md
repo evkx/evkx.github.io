@@ -26,7 +26,6 @@ Nous avons séparé notre article KGM Torres EVX en sections. Si vous souhaitez 
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 L'KGM Torres EVX offre des performances modestes avec une puissance maximale de 152,2 kW (207 ch) et un couple total de 339 Nm. Il accélère de 0 à 100 km/h en 8,1 secondes et atteint une vitesse maximale de 175 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 KGM Torres EVX dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 260 mm et les disques arrière mesurent 260 mm.
-
 
 ### Freinage régénératif
 
@@ -97,7 +93,6 @@ Les vitres du montant B et de l'arrière sont teintées.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
@@ -120,7 +115,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
-
 
 
 #### Siège de deuxième rangée
@@ -154,7 +148,6 @@ L'KGM Torres EVX comprend plusieurs fonctionnalités pour améliorer le confort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le KGM Torres EVX possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -170,14 +163,22 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/screens_1_st.jpg" title="KGM Torres EVX" width="3000" height="1960"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le KGM Torres EVX prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Un type de système audio est disponible pour le KGM Torres EVX. Avec le KGM, vous obtenez six haut-parleurs avec une puissance système maximale de 100 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le KGM Torres EVX prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 4 connexions USB-C en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
@@ -188,6 +189,7 @@ Les phares standards utilisent la technologie LED. De plus, les feux arrière st
 ## Systèmes avancés d'aide à la conduite
 
 Le KGM Torres EVX dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -222,12 +224,12 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement dans le coffre est de 703 litres. Avec la banquette arrière rabattue, elle est de 1662 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont standard sur ce modèle, ce qui facilite le montage du coffre de toit ou des barres de toit sur la voiture. Le poids maximum de la voiture est de 2410 kg (5313 lbs), et avec le poids de base de 1915 kg (4222 lbs), vous pouvez charger au maximum 495 kg (1091 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 495kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1500, et sur une remorque non freinée, il est de 500 kg (3307/1102 lbs).
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 30.03.2023 et les livraisons ont commencé en March 2024.<div class="mt-3 mb-3">

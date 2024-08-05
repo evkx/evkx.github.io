@@ -26,7 +26,6 @@ Vi har opdelt vores Honda Prologue AWD artikel i sektioner. Hvis du vil vente me
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Honda Prologue AWD leverer en solid præstation med en maksimal effekt på 214 kW (291 hk) og et totalt drejningsmoment på 451 Nm. Den kan accelerere fra 0 til 100 km/t på 6 sekunder og når en topfart på 185 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -49,7 +48,6 @@ Den standard ombordlader understøtter op til 11,5 kW til Level 1 og Level 2 AC-
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/charging_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at lade stationer, hvor du parkerer siden ind i ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
@@ -57,11 +55,9 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Honda Prologue AWD har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -70,7 +66,6 @@ Honda Prologue AWD har et firehjulstræk, der understøttes af to motorer, en p�
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 396mm, og de bagerste skiver er 343mm.
-
 
 ### Regenerativ bremsning
 
@@ -97,13 +92,11 @@ Der er to forskellige tagmuligheder at vælge imellem. Standardtaget har et stor
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Du kan vælge mellem flere interiørdesigns.
 
 ### Sæder
-
 
 
 #### Første række sæder
@@ -123,7 +116,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Gray [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Brown [læderbetræk](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Sæde på anden række
@@ -159,7 +151,6 @@ Honda Prologue AWD inkluderer flere funktioner, der forbedrer komfort og bekvemm
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Honda Prologue AWD har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
@@ -180,17 +171,26 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Honda Prologue AWD Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for Honda Prologue AWD. Med Bose premium audio system får du 12 højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Honda Prologue AWD Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 5 USB-C-forbindelser som standard.
-## Lys
 
+## Lys
 
 ## Avancerede førerassistentsystemer
 
 Honda Prologue AWD har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -220,7 +220,6 @@ Med   niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

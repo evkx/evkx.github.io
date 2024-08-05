@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Tesla Model Y Performance i avsnitt. Om du v
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Tesla Model Y Performance levererar en solid prestanda med en maximal effekt på 393 kW (534 hk) och ett totalt vridmoment på 660 Nm. Den kan accelerera från 0 till 100 km/h på 3,7 sekunder och når en topphastighet på 250 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är i [vänster bakre hörnet](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Tesla Model Y Performance har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
-
 
 ### Hjulupphängning
 
@@ -69,7 +66,6 @@ Dynamisk styrning är standard-funktionen för Tesla Model Y Performance. Dynami
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 355mm och de bakre skivorna är 355mm.
-
 
 ### Regenerativ bromsning
 
@@ -102,9 +98,7 @@ B-stolpen och vyerna bak är tonade.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -129,7 +123,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/frontseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
 
-
 #### Säten på andra raden
 
 
@@ -139,7 +132,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/secondrowseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
-
 
 #### Seter på tredje rad
 
@@ -176,7 +168,6 @@ Tesla Model Y Performance inkluderar flera funktioner för att förbättra komfo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Tesla Model Y Performance har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment.
@@ -191,20 +182,26 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/screens_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="1800"  >}}
 
-
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för Tesla Model Y Performance. Med Tesla Premium Sound får du 13 högtalare med en maximal systemeffekt på 560 watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### header.soundsystem
+
+En typ av ljudsystem är tillgänglig för Tesla Model Y Performance. Med Tesla Premium Sound får du 13 högtalare med en maximal systemeffekt på 560 watt.
+
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 Tesla Model Y Performance har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -252,12 +249,12 @@ Den använder åtta [kameror](../../../../technology/sensorsandcameras/cameras/)
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastkapaciteten i bagageutrymmet är 854 liter. Med baksätet nedfällt är det 2158 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 117 liter. Bilens maximala vikt är 2720 kg, och med basvikten på 2135 kg kan du lasta maximalt 585 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släpvagn med bromsar är 1600, och på obromsad är den 750 kg.
+
 ### Tillgänglighet och pris
 
 Denna modell hade världspremiär 19.03.2019 och leveranserna startade i March 2020.<div class="mt-3 mb-3">

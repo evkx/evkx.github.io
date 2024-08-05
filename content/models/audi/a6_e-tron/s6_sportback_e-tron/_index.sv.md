@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Audi S6 Sportback e-tron i avsnitt. Om du vi
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Med överboost når Audi S6 Sportback e-tron en maximal effekt på 405 kW (551 hk). Utan överboost ger den en stark effekt på 370 kW (503 hk). Det maximala vridmomentet är 855 Nm. Denna kraftpaket kan accelerera från 0 till 100 km/h på bara 3,9 sekunder och har en topphastighet på 240 km/h, vilket visar dess imponerande prestanda.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Audi S6 Sportback e-tron har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
-
 
 ### Hjulupphängning
 
@@ -78,11 +75,9 @@ Audi S6 Sportback e-tron låter användaren välja olika [drivemodes](../../../.
 - Balanced: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning.
 - Individual: Anpassad styrning, fjädring och gasrespons.
 
-
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 400mm och de bakre skivorna är 350mm.
-
 
 ### Regenerativ bromsning
 
@@ -118,7 +113,6 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
 
 Audi S6 Sportback e-tron har en förarfokuserad interiör som förbättrar cockpitkänslan, med premiummaterial i alla viktiga områden. Dessutom inkluderar den en traditionell mittkonsol som skiljer föraren från passageraren och ger praktisk förvaring och funktionalitet.
@@ -151,7 +145,6 @@ Följande funktioner är tillgängliga på **Sport Plus** sätet.
 
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/frontseats_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
-
 
 #### Säten på andra raden
 
@@ -187,7 +180,6 @@ Audi S6 Sportback e-tron inkluderar flera funktioner för att förbättra komfor
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Kontrollgränssnittet för denna elbilsmodell inkluderar en intuitiv kombination av knappar, spakar och skärmar, vilket ger en smidig och användarvänlig upplevelse.
@@ -206,11 +198,20 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Audi S6 Sportback e-tron Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan välja mellan två ljudsystem på Audi S6 Sportback e-tron. Med Audi Sound System får du fem högtalare med en maximal systemeffekt på 200 watt. Med Bang & Olufsen Sound System får du 20 högtalare med en maximal systemeffekt på 830 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Audi S6 Sportback e-tron Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Audi S6 Sportback e-tron. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför. Dessutom använder standardbakljusen LED-teknik.
@@ -223,6 +224,7 @@ Du kan välja mellan två typer av strålkastare för Audi S6 Sportback e-tron. 
 Audi S6 Sportback e-tron har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -265,7 +267,6 @@ Denna modell använder kameror, radar och ultraljudssensorer för förarassistan
 Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerar allt som händer i fordonets miljö.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

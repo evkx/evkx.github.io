@@ -32,7 +32,6 @@ This model has been replaced by [Volvo EX40 Twin Motor](/models/volvo/ex40/ex40_
 
 </div>
 
-
 ## Performance
 
 The Volvo XC40 Recharge Twin Motor delivers a solid performance with a maximum power of 300 kW (408 hp / 402 bhp) and a total torque of 670 Nm (494 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.8 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
@@ -58,11 +57,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Volvo XC40 Recharge Twin Motor features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
@@ -71,7 +68,6 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -99,9 +95,7 @@ There are two different roof options to select from. As an option, you can order
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -124,7 +118,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_twin_motor/frontseats_1_st.jpg" title="Volvo XC40 Recharge Twin Motor" width="1920" height="1080"  >}}
-
 
 #### Second-row seat
 
@@ -157,7 +150,6 @@ The Volvo XC40 Recharge Twin Motor includes several features to enhance comfort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Volvo XC40 Recharge Twin Motor has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -173,15 +165,14 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_twin_motor/screens_1_st.jpg" title="Volvo XC40 Recharge Twin Motor" width="3000" height="2249"  >}}
 
-
 ## Infotainment
-
 
 ### Sound system
 
 You can choose between two sound systems on the Volvo XC40 Recharge Twin Motor. With the High Performance, you get eight speakers with a max system output of 200 watts. With the Harman Kardon Premium Sound, you get 13 speakers with a max system output of 600 watts.
 
 The model has 1 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the Volvo XC40 Recharge Twin Motor. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
@@ -194,6 +185,7 @@ You can choose between two types of headlights for the Volvo XC40 Recharge Twin 
 The Volvo XC40 Recharge Twin Motor has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -218,7 +210,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

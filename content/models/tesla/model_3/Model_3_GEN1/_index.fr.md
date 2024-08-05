@@ -32,7 +32,6 @@ Ce modèle a été remplacé par [Tesla Model 3 Long Range](/models/tesla/model_
 
 </div>
 
-
 ## Performances
 
 L'Tesla Model 3 (GEN1) offre des performances modestes avec une puissance maximale de 208 kW (283 ch) et un couple total de 420 Nm. Il accélère de 0 à 100 km/h en 6,1 secondes et atteint une vitesse maximale de 225 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -54,7 +53,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_gen1/charging_1_st.jpg" title="Tesla Model 3 (GEN1)" width="3000" height="2000"  >}}
 
-
 ### Port de recharge
 
 L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../../../technology/charging/connectors/#rear-corner). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**NACS**](../../../../technology/charging/connectors/# nacs) pour l'Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) pour l'Europe. Voir les spécifications complètes pour tous les marchés.
@@ -62,11 +60,9 @@ L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Tesla Model 3 (GEN1) dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
-
 
 ### Suspension
 
@@ -79,7 +75,6 @@ La direction dynamique est une fonctionnalité un standard sur le Tesla Model 3 
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 355 mm et les disques arrière mesurent 355 mm.
-
 
 ### Freinage régénératif
 
@@ -111,9 +106,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -138,7 +131,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_gen1/frontseats_1_st.jpg" title="Tesla Model 3 (GEN1)" width="3000" height="2000"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -175,7 +167,6 @@ L'Tesla Model 3 (GEN1) comprend plusieurs fonctionnalités pour améliorer le co
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Tesla Model 3 (GEN1) a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement.
@@ -190,20 +181,26 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_gen1/screens_2_st.jpg" title="Tesla Model 3 (GEN1)" width="3000" height="2000"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
 
 Un type de système audio est disponible pour le Tesla Model 3 (GEN1). Avec le Tesla Immersive Sound, vous obtenez sept haut-parleurs avec une puissance système maximale de 560 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
 Le modèle dispose de 4 connexions USB-C en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Tesla Model 3 (GEN1) dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -251,12 +248,12 @@ Il utilise huit [cameras](../../../../technology/sensorsandcameras/cameras/) pou
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement dans le coffre est de 561 litres. Avec la banquette arrière rabattue, elle est de 1234 litres. Sur le toit, vous pouvez charger jusqu'à 70 kg (154,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 88 litres (3,1 CU FT). Le poids maximum de la voiture est de 2149 kg (4738 lbs), et avec le poids de base de 1760 kg (3880 lbs), vous pouvez charger au maximum 389 kg (858 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Une barre d'attelage est un équipement standard sur ce modèle. Le poids total maximum sur une remorque freinée est de 1000, et sur une remorque non freinée, il est de 750 kg (2205/1653 lbs).
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 01.04.2016 et les livraisons ont commencé en July 2017. Ce modèle a maintenant été abandonné. Ce modèle a été remplacé par [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range).<div class="mt-3 mb-3">

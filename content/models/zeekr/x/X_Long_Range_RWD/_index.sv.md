@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Zeekr X Long Range RWD i avsnitt. Om du vill
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Zeekr X Long Range RWD erbjuder blygsamma prestanda med en maximal effekt på 200 kW (272 hk) och ett totalt vridmoment på 343 Nm. Den accelererar från 0 till 100 km/h på 5,6 sekunder och har en topphastighet på 180 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Zeekr X Long Range RWD har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
-
 
 ### Hjulupphängning
 
@@ -65,7 +62,6 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 350mm och de bakre skivorna är 333mm.
-
 
 ### Regenerativ bromsning
 
@@ -90,9 +86,7 @@ Det finns två olika takalternativ att välja mellan. Som tillval kan du bestäl
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -116,7 +110,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/frontseats_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="2000"  >}}
-
 
 #### Säten på andra raden
 
@@ -154,7 +147,6 @@ Zeekr X Long Range RWD inkluderar flera funktioner för att förbättra komfort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 
@@ -169,14 +161,18 @@ En head-up display är ett standard-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/screens_1_st.jpg" title="Zeekr X Long Range RWD" width="2280" height="1282"  >}}
 
-
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för Zeekr X Long Range RWD. Med Yamaha surround sound system får du 13 högtalare med en maximal systemeffekt på 1040 watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### header.soundsystem
+
+En typ av ljudsystem är tillgänglig för Zeekr X Long Range RWD. Med Yamaha surround sound system får du 13 högtalare med en maximal systemeffekt på 1040 watt.
+
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Zeekr X Long Range RWD. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
@@ -189,6 +185,7 @@ Du kan välja mellan två typer av strålkastare för Zeekr X Long Range RWD. St
 Zeekr X Long Range RWD har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -219,7 +216,6 @@ Med Pilot Assist  nivå 2-systemet får du följande körautomatiseringsfunktion
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

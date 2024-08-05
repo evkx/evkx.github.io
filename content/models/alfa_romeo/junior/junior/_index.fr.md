@@ -26,7 +26,6 @@ Nous avons séparé notre article Alfa Romeo Junior en sections. Si vous souhait
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 L'Alfa Romeo Junior offre des performances modestes avec une puissance maximale de 115 kW (156 ch) et un couple total de 260 Nm. Il accélère de 0 à 100 km/h en 9 secondes et atteint une vitesse maximale de 150 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -52,18 +51,15 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Alfa Romeo Junior dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
-
 
 ### Suspension
 
 La suspension avant est [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), et la suspension arrière est [Torsion Beam](../../../../technology/suspension/#torsion-beam). Il utilise des ressorts en acier et des amortisseurs hydrauliques. La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 200 mm.
 
 ### Freins
-
 
 
 
@@ -95,7 +91,6 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
@@ -124,7 +119,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/frontseats_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2250"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -158,7 +152,6 @@ L'Alfa Romeo Junior comprend plusieurs fonctionnalités pour améliorer le confo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 
@@ -172,10 +165,17 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Alfa Romeo Junior prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le Alfa Romeo Junior. Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
-
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Alfa Romeo Junior prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 
 ## Lumières
 
@@ -187,6 +187,7 @@ Les phares standard utilisent la technologie LED Matrix. LED Matrix est un syst�
 ## Systèmes avancés d'aide à la conduite
 
 Le Alfa Romeo Junior dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -206,7 +207,6 @@ Avec le système DS Drive Assist  niveau 1, vous bénéficiez des fonctionnalit�
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

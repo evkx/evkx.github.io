@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Genesis GV60 2WD en secciones. Si desea esperar
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Genesis GV60 2WD ofrece un rendimiento modesto con una potencia máxima de 168 kW (228 hp) y un par total de 350 Nm. Acelera de 0 a 100 km/h en 5,5 segundos y tiene una velocidad máxima 185 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -52,18 +51,15 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Genesis GV60 2WD tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
 La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 161 mm.
 
 ### Frenos
-
 
 
 
@@ -97,13 +93,11 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos
-
 
 
 #### Asientos de primera fila
@@ -131,7 +125,6 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/frontseats_1_st.jpg" title="Genesis GV60 2WD" width="1500" height="1090"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -166,7 +159,6 @@ El Genesis GV60 2WD incluye varias características para mejorar la comodidad y 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 
@@ -182,14 +174,22 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/screens_1_st.jpg" title="Genesis GV60 2WD" width="3000" height="1796"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Genesis GV60 2WD es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
 
 Un tipo de sistema de sonido está disponible para el Genesis GV60 2WD. Con el Bose Premium Sound System, obtienes ocho parlantes con una salida máxima del sistema de  vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Genesis GV60 2WD es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 4 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
@@ -200,6 +200,7 @@ Los faros estándar utilizan tecnología LED. Además, las luces traseras están
 ## Sistemas avanzados de asistencia al conductor
 
 El Genesis GV60 2WD tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -231,7 +232,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

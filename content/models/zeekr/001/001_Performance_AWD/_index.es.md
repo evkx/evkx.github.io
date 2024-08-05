@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Zeekr 001 Performance AWD en secciones. Si dese
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Zeekr 001 Performance AWD impresiona con una potencia máxima de 400 kW (544 hp) y un impresionante par total de 686 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 3,8 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
@@ -48,7 +47,6 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 
 {{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/charging_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2250"  >}}
 
-
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
@@ -56,11 +54,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Zeekr 001 Performance AWD tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
-
 
 ### Suspensión
 
@@ -69,7 +65,6 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 482 mm y los discos traseros de 457 mm.
-
 
 ### Frenado regenerativo
 
@@ -96,7 +91,6 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
@@ -121,7 +115,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
-
 
 
 #### Asiento de segunda fila
@@ -157,7 +150,6 @@ El Zeekr 001 Performance AWD incluye varias características para mejorar la com
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Zeekr 001 Performance AWD tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
@@ -178,11 +170,20 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Zeekr 001 Performance AWD es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el Zeekr 001 Performance AWD. Con el Yamaha Sound System, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Zeekr 001 Performance AWD es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
@@ -195,6 +196,7 @@ Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema ad
 El Zeekr 001 Performance AWD tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -219,7 +221,6 @@ Con el sistema Pilot Assist  nivel 2, obtienes las siguientes funciones de autom
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

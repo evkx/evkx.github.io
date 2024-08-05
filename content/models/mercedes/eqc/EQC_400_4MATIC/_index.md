@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Mercedes-EQ EQC 400 4MATIC delivers a solid performance with a maximum power of 300 kW (408 hp / 402 bhp) and a total torque of 760 Nm (561 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.1 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Mercedes-EQ EQC 400 4MATIC features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is a standard feature on the Mercedes-EQ EQC 400 4MATIC. Dynami
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -97,9 +93,7 @@ There is only one roof for this model. As an option, you can order this model wi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -128,7 +122,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 
-
 ## Comfort features
 
 The Mercedes-EQ EQC 400 4MATIC includes several features to enhance comfort and convenience:
@@ -138,7 +131,6 @@ The Mercedes-EQ EQC 400 4MATIC includes several features to enhance comfort and 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -156,9 +148,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/screens_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="1721"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -172,13 +162,14 @@ Furthermore, the Mercedes-EQ EQC 400 4MATIC supports Android Auto and Apple CarP
 
 You can choose between three sound systems on the Mercedes-EQ EQC 400 4MATIC. With the Standard, you get seven speakers with a max system output of 100 watts. With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get 13 speakers with a max system output of 590 watts.
 
-
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Mercedes-EQ EQC 400 4MATIC has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -211,7 +202,6 @@ With the Driver Assistance Package  level 1 system, you get the following drivin
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

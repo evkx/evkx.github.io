@@ -26,7 +26,6 @@ Nous avons séparé notre article MG Marvel R Electric Performance en sections. 
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La MG Marvel R Electric Performance offre des performances solides avec une puissance maximale de 212 kW (288 ch) et un couple total de 665 Nm. Elle peut accélérer de 0 à 100 km/h en 4,9 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 MG Marvel R Electric Performance dispose d'un système de transmission intégrale pris en charge par trois moteurs. Un sur l'essieu avant et deux sur l'essieu arrière.
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
-
 
 ### Freinage régénératif
 
@@ -91,13 +87,11 @@ Les vitres du montant B et de l'arrière sont teintées.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 Vous pouvez choisir entre différents types de matériaux de siège et de style intérieur. Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
-
 
 
 #### Sièges de première rangée
@@ -117,7 +111,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/frontseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1999"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -152,7 +145,6 @@ L'MG Marvel R Electric Performance comprend plusieurs fonctionnalités pour amé
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 
@@ -172,11 +164,20 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le MG Marvel R Electric Performance prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le MG Marvel R Electric Performance. Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le MG Marvel R Electric Performance prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 4 connexions USB-A en standard.
+
 ## Lumières
 
 
@@ -187,6 +188,7 @@ Le modèle dispose de 4 connexions USB-A en standard.
 ## Systèmes avancés d'aide à la conduite
 
 Le MG Marvel R Electric Performance dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -203,7 +205,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

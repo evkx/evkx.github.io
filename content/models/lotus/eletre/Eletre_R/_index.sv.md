@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Lotus Eletre R i avsnitt. Om du vill vänta 
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Lotus Eletre R levererar en häpnadsväckande maximal effekt på 675 KW (918 hk) och ett massivt vridmoment på 985 Nm. Denna kraftmaskin kan accelerera från 0 till 100 km/h på bara 2,9 sekunder, vilket visar på dess fantastiska acceleration. Dessutom uppnår den en topphastighet på 265 km/h, vilket gör den till ett verkligt ingenjörsmässigt och prestandamässigt underverk.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Lotus Eletre R har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -69,7 +66,6 @@ Dynamisk styrning är standard-funktionen för Lotus Eletre R. Dynamisk styrning
 ### Bromsar
 
 Du kan välja mellan olika bromssystem. Bromsarna standard använder en [volframkarbidbelagd gjutjärnsskiva](../../../../technology/brakes/#carbide brakes) . Den rostar inte och producerar nästan inget bromsdamm. De främre skivorna är 412mm och de bakre skivorna är 397mm. Bromsarna för alternativet second använder [keramiska skivor](../../../../technology/brakes/#ceramic-brakes). De främre skivorna är 412mm och de bakre skivorna är 397mm.
-
 
 ### Regenerativ bromsning
 
@@ -99,7 +95,6 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiör
@@ -134,7 +129,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/frontseats_1_st.jpg" title="Lotus Eletre R" width="3000" height="1783"  >}}
-
 
 #### Säten på andra raden
 
@@ -172,7 +166,6 @@ Lotus Eletre R inkluderar flera funktioner för att förbättra komfort och bekv
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 
@@ -192,11 +185,20 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Lotus Eletre R Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan välja mellan två ljudsystem på Lotus Eletre R. Med KEF Premium Audio system får du 15 högtalare med en maximal systemeffekt på 1380 watt. Med KEF Reference Audio system får du 23 högtalare med en maximal systemeffekt på 2160 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Lotus Eletre R Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
+
 ## Ljus
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Dessutom använder standardbakljusen LED-teknik.
@@ -207,6 +209,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 ## Avancerade förarassistanssystem
 
 Lotus Eletre R har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -247,7 +250,6 @@ Denna modell använder kameror, LiDAR och ultraljudssensorer för förarassistan
 Upp till fyra [LiDARsensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerar allt som händer i fordonets miljö.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

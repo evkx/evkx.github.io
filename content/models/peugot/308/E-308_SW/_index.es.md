@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Peugot E-308 SW en secciones. Si desea esperar 
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Peugot E-308 SW ofrece un rendimiento modesto con una potencia máxima de 115 kW (156 hp) y un par total de 260 Nm. Acelera de 0 a 100 km/h en 10,5 segundos y tiene una velocidad máxima 170 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -52,18 +51,15 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Peugot E-308 SW tiene un sistema de tracción delantera sostenido por un motor en el eje delantero.
-
 
 ### Suspensión
 
 La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Torsion Beam](../../../../technology/suspension/#torsion-beam). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 140 mm.
 
 ### Frenos
-
 
 
 
@@ -90,7 +86,6 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -122,7 +117,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/peugot/308/e-308_sw/frontseats_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -158,7 +152,6 @@ El Peugot E-308 SW incluye varias características para mejorar la comodidad y c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 
@@ -172,11 +165,20 @@ Un head-up display es un sistema un estándar que presenta la velocidad y otra i
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Peugot E-308 SW es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el Peugot E-308 SW. Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Peugot E-308 SW es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 3 conexiones USB-C de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
@@ -187,6 +189,7 @@ Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema ad
 ## Sistemas avanzados de asistencia al conductor
 
 El Peugot E-308 SW tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -210,12 +213,12 @@ Con el sistema DS Drive Assist  nivel 1, obtienes las siguientes funciones de au
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 548 litros. Con el asiento trasero abatido, es de 1574 litros. En el techo, puedes cargar hasta 70 kg (154,3 lbs). Los rieles de techo son estándar en este modelo, lo que facilita el montaje del cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2175 kg (4795 lbs), y con el peso base de 1716 kg (3783 lbs), puedes cargar como máximo 459 kg (1012 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 06.07.2023 y se espera que las entregas comiencen en November 2023.<div class="mt-3 mb-3">

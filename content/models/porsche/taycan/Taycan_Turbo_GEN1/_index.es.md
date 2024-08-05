@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Porsche Taycan Turbo (GEN1) en secciones. Si de
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 
@@ -54,11 +53,9 @@ La ubicación del puerto de carga está en el [lado frontal derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Porsche Taycan Turbo (GEN1) tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -73,7 +70,6 @@ La dirección dinámica es una característica un estándar en el Porsche Taycan
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 410 mm y los discos traseros de 365 mm.
-
 
 ### Frenado regenerativo
 
@@ -106,9 +102,7 @@ Hay tres opciones de techo diferentes para elegir. El estándar es simplemente u
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -158,7 +152,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Pl
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 
-
 #### Asientos de la segunda fila
 
 Puedes elegir dos tipos de asientos para la segunda fila en el Porsche Taycan Turbo (GEN1).
@@ -193,7 +186,6 @@ El Porsche Taycan Turbo (GEN1) incluye varias características para mejorar la c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Porsche Taycan Turbo (GEN1) tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central y una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte inferior de la consola central. Para el pasajero, hay una [pantalla de infoentretenimiento] opcional(../../../../technology/interfaz de usuario/pantallas/#pantalla-del-pasajero-frontal).
@@ -211,22 +203,30 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gen1/screens_1_st.jpg" title="Porsche Taycan Turbo (GEN1)" width="3000" height="2000"  >}}
 
-
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Porsche Taycan Turbo (GEN1) es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre tres sistemas de sonido en el Porsche Taycan Turbo (GEN1). Con el Porsche Sound system, obtienes diez parlantes con una salida máxima del sistema de 150 vatios. Con el  BOSE® Surround Sound System, obtienes 14 parlantes con una salida máxima del sistema de 710 vatios. Con el  Burmester® 3D High-End Surround Sound System, obtienes 21 parlantes con una salida máxima del sistema de 1455 vatios.
-
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Porsche Taycan Turbo (GEN1) es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Porsche Taycan Turbo (GEN1) tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -263,7 +263,6 @@ Con el sistema Porsche InnoDrive  nivel 2, obtienes funciones de automatización
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

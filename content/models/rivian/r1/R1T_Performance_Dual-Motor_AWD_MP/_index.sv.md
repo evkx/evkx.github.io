@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Rivian R1T Performance Dual-Motor AWD MP i a
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Rivian R1T Performance Dual-Motor AWD MP imponerar med en imponerande kraft på 495 kW (673 hk) och ett imponerande totalt vridmoment på 1124 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,5 sekunder och når en topphastighet på 201 km/h, vilket gör den till en stjärna i sin klass.
@@ -48,7 +47,6 @@ Den standard ombordladdaren stöder upp till 11,5 kW för nivå 1 och nivå 2 AC
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/charging_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="2048" height="1280"  >}}
 
-
 ### Laddningsport
 
 Platsen för laddningsporten är i [främre vänstra hörnet](../../../../technology/charging/connectors/#front-corner). Denna plats gör det lätt att använda laddstationer där du måste parkera med fronten in. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
@@ -56,11 +54,9 @@ Platsen för laddningsporten är i [främre vänstra hörnet](../../../../techno
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Rivian R1T Performance Dual-Motor AWD MP har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
-
 
 ### Hjulupphängning
 
@@ -69,7 +65,6 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 343mm och de bakre skivorna är 328mm.
-
 
 ### Regenerativ bromsning
 
@@ -97,9 +92,7 @@ B-stolpen och vyerna bak är tonade.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -123,7 +116,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Green [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Blue [läderklädsel](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Säten på andra raden
@@ -159,7 +151,6 @@ Rivian R1T Performance Dual-Motor AWD MP inkluderar flera funktioner för att f�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Rivian R1T Performance Dual-Motor AWD MP har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
@@ -180,11 +171,16 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för Rivian R1T Performance Dual-Motor AWD MP. Med Rivian Elevation audio system får du 22 högtalare med en maximal systemeffekt på 1100 watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### header.soundsystem
+
+En typ av ljudsystem är tillgänglig för Rivian R1T Performance Dual-Motor AWD MP. Med Rivian Elevation audio system får du 22 högtalare med en maximal systemeffekt på 1100 watt.
+
 Modellen har 8 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik.
@@ -195,6 +191,7 @@ Standardlamporna använder LED-teknik.
 ## Avancerade förarassistanssystem
 
 Rivian R1T Performance Dual-Motor AWD MP har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -223,7 +220,6 @@ Med Driver+  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

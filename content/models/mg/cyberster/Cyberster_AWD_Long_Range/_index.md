@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The MG Cyberster AWD Long Range packs an impressive punch with a maximum power of 400 kW (544 hp / 536 bhp) and a commanding total torque of 725 Nm (535 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.2 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 MG Cyberster AWD Long Range features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -90,13 +86,11 @@ There is only one roof for this model. The standard roof is a soft top that can 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
 
 ### Seats
-
 
 
 #### First row seats
@@ -139,7 +133,6 @@ The MG Cyberster AWD Long Range includes several features to enhance comfort and
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 On top of the dashboard is a shared frame with three screens, and in the center console, there is a fourth [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -162,7 +155,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -176,6 +168,7 @@ Furthermore, the MG Cyberster AWD Long Range supports Android Auto and Apple Car
 One type of sound system is available for the MG Cyberster AWD Long Range. With the Bose Sound System, you get six speakers with a max system output of 300 watts.
 
 The model has 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 
@@ -186,6 +179,7 @@ The model has 1 USB-C connections as standard. The model has 1 USB-A connections
 ## Advanced driver assistance systems
 
 The MG Cyberster AWD Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -204,12 +198,12 @@ With the   level 2 system, you get the following driving automation features.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 240 liters. The maxium weight of the car is 2250 kg (4960 lbs), and with the base weight of 1985 kg (4376 lbs), you can max load 265 kg (584 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
 ### Availability & Pricing
 
 This model had a world premiere on 13.07.2023, and deliveries started in December 2023.<div class="mt-3 mb-3">

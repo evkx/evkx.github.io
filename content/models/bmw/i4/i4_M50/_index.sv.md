@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av BMW i4 M50 i avsnitt. Om du vill vänta med 
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 BMW i4 M50 imponerar med en imponerande kraft på 400 kW (544 hk) och ett imponerande totalt vridmoment på 795 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,9 sekunder och når en topphastighet på 225 km/h, vilket gör den till en stjärna i sin klass.
@@ -48,7 +47,6 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/charging_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 
-
 ### Laddningsport
 
 Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
@@ -56,11 +54,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 BMW i4 M50 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
-
 
 ### Hjulupphängning
 
@@ -73,7 +69,6 @@ Dynamisk styrning är standard-funktionen för BMW i4 M50. Dynamisk styrning var
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bromsning
 
@@ -106,9 +101,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -191,7 +184,6 @@ Du kan välja mellan 21 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/frontseats_1_st.jpg" title="BMW i4 M50" width="3000" height="2121"  >}}
 
-
 #### Säten på andra raden
 
 
@@ -209,7 +201,6 @@ Två klimatsystemalternativ är tillgängliga:
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 - **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
 
-
 ## Komfortfunktioner
 
 BMW i4 M50 inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -221,7 +212,6 @@ BMW i4 M50 inkluderar flera funktioner för att förbättra komfort och bekväml
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Användargränssnitt och kontroll
@@ -239,20 +229,30 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/screens_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder BMW i4 M50 Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan välja mellan två ljudsystem på BMW i4 M50. Med Hifi Sound system får du tio högtalare med en maximal systemeffekt på 200 watt. Med Harman Kardon Surround Sound system får du 17 högtalare med en maximal systemeffekt på 445 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder BMW i4 M50 Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för BMW i4 M50. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix med laserteknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkla ljusstrålen i dussintals mindre strålar som ljusregulatorn kan slå på och av individuellt för att avbryta små ytor framför. Dessutom använder standardbakljusen LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 BMW i4 M50 har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -286,7 +286,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du fler körautomatise
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

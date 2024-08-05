@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Zeekr 009 ME Edition i seksjoner. Hvis du vil ve
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Zeekr 009 ME Edition imponerer med en imponerende kraft på 400 kW (544 hk) og et betydelig dreiemoment på 686 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,5 sekunder og har en toppfart på 190 km/t, noe som gjør den til en markant modell i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Zeekr 009 ME Edition har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -65,7 +62,6 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 533mm, og de bakre skivene er 457mm.
-
 
 ### Regenerativ bremsing
 
@@ -90,7 +86,6 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiør
@@ -121,7 +116,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Gray [skinntrekk](../../../../technology/seats/materials/#leather)
 
 
-
 #### Seter på andre rad
 
 
@@ -135,7 +129,6 @@ For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende 
 
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/secondrowseats_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440"  >}}
-
 
 #### Seter på tredje rad
 
@@ -167,7 +160,6 @@ Zeekr 009 ME Edition inkluderer flere funksjoner for å forbedre komfort og bekv
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Zeekr 009 ME Edition har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
@@ -188,19 +180,30 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Zeekr 009 ME Edition Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Én type lydsystem er tilgjengelig for Zeekr 009 ME Edition. Med Yamaha Sound System får du 20 høyttalere med en maksimal systemeffekt på 300 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Zeekr 009 ME Edition Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 Zeekr 009 ME Edition har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -227,12 +230,12 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 376 liter. Med setet på tredje rad nede er det 2979 liter. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 32 liter. Maksimumsvekten til bilen er 3400 kg, og med basisvekten på 2830 kg kan du maksimalt laste 570 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 14.04.2021, og leveringene startet i October 2021. Denne modellen er kun tilgjengelig i Kina.<div class="mt-3 mb-3">

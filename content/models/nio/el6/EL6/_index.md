@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Nio EL6 packs an impressive punch with a maximum power of 480 kW (653 hp / 644 bhp) and a commanding total torque of 850 Nm (627 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.5 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
@@ -34,6 +33,7 @@ The Nio EL6 packs an impressive punch with a maximum power of 480 kW (653 hp / 6
 ## Battery, range, and charging
 
 Nio EL6 has two battery options with different specifications. Below you see how this affects range and charging.
+
 ### 100kWh
 
 The high-capacity battery has a gross capacity of 100 kWh and a net usable capacity of 90 kWh, providing an 10 kWh buffer (10.0%) for battery protection. With a nominal voltage of 358 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
@@ -43,6 +43,7 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 The vehicle supports fast DC charging with a maximum power of 126 kW. Charging from 0% to 100% takes approximately 75 minutes, while a more typical charging scenario from 10% to 80% takes 41 minutes with an average charging speed at 91 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 1% to 44%. This results in an effective charging speed, including time lost, of 86 kW, with each charging session taking about 27 minutes and 2 seconds..
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 28 kWh/100 km, the trip would take approximately 10 hours and 34 minutes. This journey would require four charging stops from 1% to 54%, with a total charging time of 134 minutes.
+
 ### 75kWh
 
 The high-capacity battery has a gross capacity of 75 kWh and a net usable capacity of 70,5 kWh, providing an 4,5 kWh buffer (6.0%) for battery protection. With a nominal voltage of 386 volts, the system is classified as a 400-volt battery system, aligning with industry standards.
@@ -60,6 +61,7 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 ### Charge port
 
 The charge port is conveniently located on the [right front side](../../../../technology/charging/connectors/#front-side), facilitating easy access at charging stations where you park parallel to the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
+
 ### Battery swap
 
 This model support battery swap. Battery swap means you can drive to a unique battery swap station and get the battery replaced with a new battery with 90% SOC. The battery swap takes 7 minutes.
@@ -67,11 +69,9 @@ This model support battery swap. Battery swap means you can drive to a unique ba
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Nio EL6 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
-
 
 ### Suspension
 
@@ -84,7 +84,6 @@ Dynamic steering is a standard feature on the Nio EL6. Dynamic steering varies t
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -114,9 +113,7 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -147,7 +144,6 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/nio/el6/el6/frontseats_1_st.jpg" title="Nio EL6" width="2880" height="2316"  >}}
-
 
 #### Second-row seat
 
@@ -182,7 +178,6 @@ The Nio EL6 includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 
@@ -202,7 +197,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -212,12 +206,15 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Nio EL6. With the Premium sound system, you get 23 speakers with a max system output of  watts.
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Nio EL6 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -255,7 +252,6 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

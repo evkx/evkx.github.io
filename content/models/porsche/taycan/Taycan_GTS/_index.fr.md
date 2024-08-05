@@ -26,7 +26,6 @@ Nous avons séparé notre article Porsche Taycan GTS en sections. Si vous souhai
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 
@@ -54,11 +53,9 @@ L'emplacement du port de charge est sur le [côté avant droit](../../../../tech
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Porsche Taycan GTS dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -73,7 +70,6 @@ La direction dynamique est une fonctionnalité un standard sur le Porsche Taycan
 ### Freins
 
 Vous pouvez choisir entre différents systèmes de freinage. Les freins de l'option standard utilisent des [disques en fonte] standards (../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 360 mm et les disques arrière mesurent 358 mm. Les freins de l'option second utilisent un [disque en fonte recouvert de carbure de tungstène](../../../../technology/brakes/#carbid-freins). Il ne rouille pas et ne produit pratiquement pas de poussière de frein. Les disques avant mesurent 410 mm et les disques arrière mesurent 365 mm.
-
 
 ### Freinage régénératif
 
@@ -106,9 +102,7 @@ Il existe trois options de toit différentes à choisir. Le standard est juste u
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -162,7 +156,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/frontseats_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000"  >}}
 
-
 #### Sièges de deuxième rangée
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Porsche Taycan GTS.
@@ -197,7 +190,6 @@ L'Porsche Taycan GTS comprend plusieurs fonctionnalités pour améliorer le conf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Porsche Taycan GTS possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en bas de la console centrale. Pour le passager, il y a un [écran d'infodivertissement] en option (../../../../technology/userinterface/screens/#front-passenger-screen).
@@ -215,22 +207,30 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts/screens_1_st.jpg" title="Porsche Taycan GTS" width="3000" height="2000"  >}}
 
-
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Porsche Taycan GTS prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Vous pouvez choisir entre trois systèmes audio sur le Porsche Taycan GTS. Avec le Porsche Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 150 watts. Avec le  BOSE® Surround Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de 710 watts. Avec le  Burmester® 3D High-End Surround Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 1455 watts.
-
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Porsche Taycan GTS prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 
 ## Lumières
 
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Porsche Taycan GTS dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -267,7 +267,6 @@ Avec le système Porsche InnoDrive  niveau 2, vous bénéficiez de fonctionnalit
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

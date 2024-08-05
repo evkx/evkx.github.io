@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Maserati Grecale Folgore packs an impressive punch with a maximum power of 410 kW (557 hp / 550 bhp) and a commanding total torque of 820 Nm (605 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.1 seconds, and it reaches a top speed of 220 km/h (137 mph), making it a standout in its class.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/charging_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Maserati Grecale Folgore features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
@@ -75,11 +71,9 @@ The Maserati Grecale Folgore lets the user select different [drive modes](../../
 - GT: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
 - Off Road: Balanced steering, max suspension height with balanced throttle and damping.
 
-
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350mm, and the rear discs are 350mm.
-
 
 ### Regenerative braking
 
@@ -112,13 +106,10 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 
-
 ### Seats
-
 
 
 #### First row seats
@@ -135,7 +126,6 @@ The following functionalities are available on the **Sport** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 1 different materials/colors for this seat type.
-
 
 
 #### Second-row seat
@@ -175,7 +165,6 @@ The Maserati Grecale Folgore includes several features to enhance comfort and co
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Maserati Grecale Folgore has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -192,9 +181,7 @@ A head-up display is a standard system that projects speed and other important d
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/screens_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -209,6 +196,7 @@ Furthermore, the Maserati Grecale Folgore supports Android Auto and Apple CarPla
 You can choose between two sound systems on the Maserati Grecale Folgore. With the Sonus Faber Premium Sound System, you get 14 speakers with a max system output of 860 watts. With the Sonus Faber High Premium Sound System, you get 21 speakers with a max system output of 1285 watts.
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -219,6 +207,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Advanced driver assistance systems
 
 The Maserati Grecale Folgore has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -258,12 +247,12 @@ Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), five
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 535 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 3110 kg (6856 lbs), and with the base weight of 2480 kg (5467 lbs), you can max load 630 kg (1389 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
+
 ### Availability & Pricing
 
 <div class="mt-3 mb-3">

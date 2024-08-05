@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av CUPRA Tavascan VZ i avsnitt. Om du vill vän
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 CUPRA Tavascan VZ levererar en solid prestanda med en maximal effekt på 250 kW (340 hk) och ett totalt vridmoment på 679 Nm. Den kan accelerera från 0 till 100 km/h på 5,6 sekunder och når en topphastighet på 180 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 CUPRA Tavascan VZ har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
-
 
 ### Hjulupphängning
 
@@ -69,7 +66,6 @@ Dynamisk styrning är valfritt-funktionen för CUPRA Tavascan VZ. Dynamisk styrn
 ### Bromsar
 
 SKODA Elroq 85x använder [skivbromsar](../../../../technology/brakes/#disc-brakes) fram för överlägsen bromskraft och värmeavledning, medan [trumbromsar](../../../../technology/brakes/#trumbromsar) används bak för kostnadseffektivitet och hållbarhet. Trumbromsar ger tillräcklig prestanda för bakhjulen, kräver mindre underhåll och integreras sömlöst med fordonets regenerativa bromssystem. Denna kombination säkerställer optimal bromsprestanda och kostnadseffektivitet, i linje med elbilens övergripande effektivitetsmål. De främre skivorna är 330mm.
-
 
 ### Regenerativ bromsning
 
@@ -100,9 +96,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -128,7 +122,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_vz/frontseats_1_st.jpg" title="CUPRA Tavascan VZ" width="3000" height="2250"  >}}
-
 
 #### Säten på andra raden
 
@@ -160,7 +153,6 @@ CUPRA Tavascan VZ inkluderar flera funktioner för att förbättra komfort och b
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 CUPRA Tavascan VZ har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm).
@@ -176,14 +168,22 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_vz/screens_1_st.jpg" title="CUPRA Tavascan VZ" width="3000" height="1714"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder CUPRA Tavascan VZ Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan välja mellan två ljudsystem på CUPRA Tavascan VZ. Med Sound system får du fem högtalare med en maximal systemeffekt på 140 watt. Med Sennheiser Soundsystem får du 12 högtalare med en maximal systemeffekt på 395 watt.
 
-Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder CUPRA Tavascan VZ Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik.
@@ -196,6 +196,7 @@ Standardlamporna använder LED-teknik.
 CUPRA Tavascan VZ har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -236,7 +237,6 @@ Med Assistantpackage plus  nivå 2-systemet får du fler körautomatiseringsfunk
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

@@ -32,7 +32,6 @@ This model has been replaced by [Volvo EC40 Single Motor ER](/models/volvo/ec40/
 
 </div>
 
-
 ## Performance
 
 The Volvo C40 Recharge Single Motor ER offers modest performance with a maximum power of 185 kW (252 hp / 248 bhp) and a total torque of 420 Nm (310 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.3 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -54,7 +53,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/charging_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -62,11 +60,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Volvo C40 Recharge Single Motor ER has a rear-wheel drive system supported by one motor on the rear axle.
-
 
 ### Suspension
 
@@ -75,7 +71,6 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -103,9 +98,7 @@ There are two different roof options to select from. As an option, you can order
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -128,7 +121,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/frontseats_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000"  >}}
-
 
 #### Second-row seat
 
@@ -165,7 +157,6 @@ The Volvo C40 Recharge Single Motor ER includes several features to enhance comf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Volvo C40 Recharge Single Motor ER has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -181,15 +172,14 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor_er/screens_1_st.jpg" title="Volvo C40 Recharge Single Motor ER" width="3000" height="2000"  >}}
 
-
 ## Infotainment
-
 
 ### Sound system
 
 You can choose between two sound systems on the Volvo C40 Recharge Single Motor ER. With the High Performance, you get eight speakers with a max system output of 200 watts. With the Harman Kardon Premium Sound, you get 13 speakers with a max system output of 600 watts.
 
 The model has 1 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the Volvo C40 Recharge Single Motor ER. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
@@ -202,6 +192,7 @@ You can choose between two types of headlights for the Volvo C40 Recharge Single
 The Volvo C40 Recharge Single Motor ER has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -226,7 +217,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

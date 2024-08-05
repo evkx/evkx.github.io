@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Porsche Macan 4S i seksjoner. Hvis du vil vente 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Med overboost når Porsche Macan 4S en maksimal effekt på 380 kW (517 hk). Uten overboost leverer den 330 kW (449 hk). Maksimalt dreiemoment er 820 Nm. Den kan akselerere fra 0 til 100 km/t på 4,1 sekunder og når en topphastighet på 240 km/t, noe som viser dens solide ytelse.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/charging_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. En andre port er på [høyre bakside](../../../../technology/charging/connectors/#front-side). Denne ekstra porten gir deg flere parkeringsmuligheter for AC-lading. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**J1772**](../../../../technology/charging/connectors/#j1772) for Nord-Amerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullstendige spesifikasjoner for alle markeder.
@@ -56,11 +54,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Porsche Macan 4S har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -73,7 +69,6 @@ Dynamisk styring er standard-funksjonen på Porsche Macan 4S. Dynamisk styring v
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 410mm, og de bakre skivene er 365mm.
-
 
 ### Regenerativ bremsing
 
@@ -108,9 +103,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -158,7 +151,6 @@ Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
-
 #### Seter på andre rad
 
 
@@ -194,7 +186,6 @@ Porsche Macan 4S inkluderer flere funksjoner for å forbedre komfort og bekvemme
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Porsche Macan 4S har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet.
@@ -211,14 +202,22 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/screens_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Porsche Macan 4S Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan velge mellom to lydsystemer på Porsche Macan 4S. Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1470 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Porsche Macan 4S Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Porsche Macan 4S. Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
@@ -231,6 +230,7 @@ Du kan velge mellom to typer frontlykter for Porsche Macan 4S. Standardlyktene b
 Porsche Macan 4S har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -267,7 +267,6 @@ Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

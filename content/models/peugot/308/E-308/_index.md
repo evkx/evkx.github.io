@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Peugot E-308 offers modest performance with a maximum power of 115 kW (156 hp / 154 bhp) and a total torque of 260 Nm (192 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 9.8 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -52,18 +51,15 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Peugot E-308 has a front-wheel drive system supported by one motor on the front axle.
-
 
 ### Suspension
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 140 mm.
 
 ### Brakes
-
 
 
 
@@ -95,7 +91,6 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
@@ -125,7 +120,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/peugot/308/e-308/frontseats_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
-
 
 #### Second-row seat
 
@@ -161,7 +155,6 @@ The Peugot E-308 includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 
@@ -176,9 +169,7 @@ A head-up display is a standard system that projects speed and other important d
 
 {{< sitefiguresized thumb="models/peugot/308/e-308/screens_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -193,6 +184,7 @@ Furthermore, the Peugot E-308 supports Android Auto and Apple CarPlay. This func
 One type of sound system is available for the Peugot E-308. With the , you get NULL speakers with a max system output of  watts.
 
 The model has 3 USB-C connections as standard.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -203,6 +195,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Advanced driver assistance systems
 
 The Peugot E-308 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -224,7 +217,6 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

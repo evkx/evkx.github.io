@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av BMW i5 M60 xDrive Touring i seksjoner. Hvis du v
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 BMW i5 M60 xDrive Touring imponerer med en imponerende kraft på 442 kW (601 hk) og et betydelig dreiemoment på 795 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 3,8 sekunder og har en toppfart på 230 km/t, noe som gjør den til en markant modell i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/charging_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="1686"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
@@ -56,11 +54,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 BMW i5 M60 xDrive Touring har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
-
 
 ### Hjuloppheng
 
@@ -71,7 +67,6 @@ BMW i5 M60 xDrive Touring har et firehjulsdriftssystem som støttes av to motore
 Dynamisk styring er standard-funksjonen på BMW i5 M60 xDrive Touring. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som tilvalg-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
 
 ### Bremser
-
 
 
 
@@ -106,9 +101,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -142,7 +135,6 @@ Følgende funksjoner er tilgjengelige på **Comfort seats** setet.
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/frontseats_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
-
 
 #### Seter på andre rad
 
@@ -181,7 +173,6 @@ BMW i5 M60 xDrive Touring inkluderer flere funksjoner for å forbedre komfort og
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 BMW i5 M60 xDrive Touring har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
@@ -204,11 +195,20 @@ Et bevegelseskontrollsystem som lar deg kontrollere spesifikke funksjoner med he
 
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter BMW i5 M60 xDrive Touring Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan velge mellom tre lydsystemer på BMW i5 M60 xDrive Touring. Med Hifi Sound system får du seks høyttalere med en maksimal systemeffekt på 100 watt. Med Harman Kardon Surround Sound system får du 12 høyttalere med en maksimal systemeffekt på 205 watt. Med Bower & Wilkins Surround System får du 18 høyttalere med en maksimal systemeffekt på 655 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter BMW i5 M60 xDrive Touring Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 6 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for BMW i5 M60 xDrive Touring. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
@@ -219,6 +219,7 @@ Du kan velge mellom to typer frontlykter for BMW i5 M60 xDrive Touring. Standard
 ## Avanserte førerassistentsystemer
 
 BMW i5 M60 xDrive Touring har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -252,7 +253,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du flere kjøreautomat
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

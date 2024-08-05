@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Tesla Cybertruck Cyberbeast i avsnitt. Om du
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Tesla Cybertruck Cyberbeast levererar en häpnadsväckande maximal effekt på 630 KW (857 hk) och ett massivt vridmoment på 930 Nm. Denna kraftmaskin kan accelerera från 0 till 100 km/h på bara 2,7 sekunder, vilket visar på dess fantastiska acceleration. Dessutom uppnår den en topphastighet på 209 km/h, vilket gör den till ett verkligt ingenjörsmässigt och prestandamässigt underverk.
@@ -48,7 +47,6 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/charging_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2250"  >}}
 
-
 ### Laddningsport
 
 Platsen för laddningsporten är i [vänster bakre hörnet](../../../../technology/charging/connectors/#rear-corner). Denna plats gör det lätt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**NACS**](../../../../technology/charging/connectors/#nacs) för Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) för Europa. Se fullständiga specifikationer för alla marknader.
@@ -56,11 +54,9 @@ Platsen för laddningsporten är i [vänster bakre hörnet](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Tesla Cybertruck Cyberbeast har ett fyrhjulsdriftssystem som stöds av tre motorer. En på framaxeln och två på bakaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på framaxeln och [induktionsmotorer] (../../../../technology/motors/asm/) på bakaxeln.
-
 
 ### Hjulupphängning
 
@@ -73,7 +69,6 @@ Dynamisk styrning är standard-funktionen för Tesla Cybertruck Cyberbeast. Dyna
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 355mm och de bakre skivorna är 355mm.
-
 
 ### Regenerativ bromsning
 
@@ -102,9 +97,7 @@ B-stolpen och vyerna bak är tonade.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -129,7 +122,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/frontseats_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
-
 
 #### Säten på andra raden
 
@@ -164,7 +156,6 @@ Tesla Cybertruck Cyberbeast inkluderar flera funktioner för att förbättra kom
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Tesla Cybertruck Cyberbeast har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment.
@@ -179,13 +170,15 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/screens_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
 
-
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för Tesla Cybertruck Cyberbeast. Med Tesla Premium Sound får du 17 högtalare med en maximal systemeffekt på 560 watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### header.soundsystem
+
+En typ av ljudsystem är tillgänglig för Tesla Cybertruck Cyberbeast. Med Tesla Premium Sound får du 17 högtalare med en maximal systemeffekt på 560 watt.
 
 ## Ljus
 
@@ -197,6 +190,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 ## Avancerade förarassistanssystem
 
 Tesla Cybertruck Cyberbeast har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -238,7 +232,6 @@ Med Full Self-Driving Capability  nivå 3-systemet får du fler körautomationsf
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

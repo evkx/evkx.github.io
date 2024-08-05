@@ -26,7 +26,6 @@ Vi har opdelt vores MG MG4 Electric Long Range artikel i sektioner. Hvis du vil 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 MG MG4 Electric Long Range tilbyder beskedne præstationer med en maksimal effekt på 150 kW (204 hk) og et samlet drejningsmoment på 250 Nm. Den accelererer fra 0 til 100 km/t på 7,9 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -48,7 +47,6 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/charging_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2249"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
@@ -56,11 +54,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 MG MG4 Electric Long Range har et baghjulstræksystem, der understøttes af en motor på bagakslen.
-
 
 ### Hjulophæng
 
@@ -69,7 +65,6 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsning
 
@@ -93,13 +88,11 @@ Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
-
 
 
 #### Første række sæder
@@ -118,7 +111,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/frontseats_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2000"  >}}
-
 
 #### Sæde på anden række
 
@@ -153,7 +145,6 @@ MG MG4 Electric Long Range inkluderer flere funktioner, der forbedrer komfort og
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 
@@ -173,11 +164,20 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter MG MG4 Electric Long Range Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for MG MG4 Electric Long Range. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter MG MG4 Electric Long Range Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 1 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+
 ## Lys
 
 
@@ -188,6 +188,7 @@ Modellen har 1 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelse
 ## Avancerede førerassistentsystemer
 
 MG MG4 Electric Long Range har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -204,7 +205,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

@@ -26,7 +26,6 @@ Vi har opdelt vores Lotus Eletre R artikel i sektioner. Hvis du vil vente med at
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Lotus Eletre R leverer en imponerende maksimal effekt på 675 KW (918 hk) og et massivt drejningsmoment på 985 Nm. Denne kraftpakke kan accelerere fra 0 til 100 km/t på blot 2,9 sekunder, hvilket viser dens fantastiske acceleration. Derudover opnår den en topfart på 265 km/t, hvilket gør den til et sandt ingeniør- og præstationsmæssigt vidunder
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Lotus Eletre R har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en standard-funktion på Lotus Eletre R. Dynamisk styring va
 ### Bremser
 
 Du kan vælge mellem forskellige bremsesystemer. Bremserne standard bruger en [støbejernsskive belagt med wolframcarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og producerer næsten ikke bremsestøv. De forreste skiver er 412mm, og de bagerste skiver er 397mm. Bremserne second bruger [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De forreste skiver er 412mm, og de bagerste skiver er 397mm.
-
 
 ### Regenerativ bremsning
 
@@ -99,7 +95,6 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiør
@@ -134,7 +129,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/frontseats_1_st.jpg" title="Lotus Eletre R" width="3000" height="1783"  >}}
-
 
 #### Sæde på anden række
 
@@ -172,7 +166,6 @@ Lotus Eletre R inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 
@@ -192,11 +185,20 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Lotus Eletre R Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan vælge mellem to lydsystemer på Lotus Eletre R. Med KEF Premium Audio system får du 15 højttalere med en maksimal systemeffekt på 1380 watt. Med KEF Reference Audio system får du 23 højttalere med en maksimal systemeffekt på 2160 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Lotus Eletre R Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -207,6 +209,7 @@ Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, 
 ## Avancerede førerassistentsystemer
 
 Lotus Eletre R har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -247,7 +250,6 @@ Denne model bruger kameraer, LiDAR og ultralydssensorer til førerassistentsyste
 Op til fire [LiDAR sensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydssensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt, hvad der sker i køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

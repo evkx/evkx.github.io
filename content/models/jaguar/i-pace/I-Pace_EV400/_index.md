@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Jaguar I-Pace EV400 delivers a solid performance with a maximum power of 294 kW (400 hp / 394 bhp) and a total torque of 696 Nm (514 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.8 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/charging_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Jaguar I-Pace EV400 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -70,9 +66,7 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350mm, and the rear discs are 325mm.
 
-
 ### Regenerative braking
-
 
 
 ## Exterior
@@ -101,9 +95,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -157,7 +149,6 @@ You can choose from 6 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/frontseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1946"  >}}
 
-
 #### Second-row seats
 
 You can choose two seat types for the second row in the Jaguar I-Pace EV400.
@@ -182,7 +173,6 @@ Two climate system options are available:
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
-
 ## Comfort features
 
 The Jaguar I-Pace EV400 includes several features to enhance comfort and convenience:
@@ -191,7 +181,6 @@ The Jaguar I-Pace EV400 includes several features to enhance comfort and conveni
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -210,9 +199,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/screens_1_st.jpg" title="Jaguar I-Pace EV400" width="2560" height="1632"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -226,7 +213,6 @@ Furthermore, the Jaguar I-Pace EV400 supports Android Auto and Apple CarPlay. Th
 
 You can choose between two sound systems on the Jaguar I-Pace EV400. With the Meridian Sound System, you get 11 speakers with a max system output of 400 watts. With the Meridian 3D Surround, you get 16 speakers with a max system output of 750 watts.
 
-
 ## Lights
 
 You can choose between two types of headlights for the Jaguar I-Pace EV400. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -237,6 +223,7 @@ You can choose between two types of headlights for the Jaguar I-Pace EV400. The 
 ## Advanced driver assistance systems
 
 The Jaguar I-Pace EV400 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -255,7 +242,6 @@ With the standard system the model offers no driving automation.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

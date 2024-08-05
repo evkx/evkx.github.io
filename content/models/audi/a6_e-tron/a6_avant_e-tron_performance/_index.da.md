@@ -26,7 +26,6 @@ Vi har opdelt vores Audi A6 Avant e-tron performance artikel i sektioner. Hvis d
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Audi A6 Avant e-tron performance leverer en solid præstation med en maksimal effekt på 270 kW (367 hk) og et totalt drejningsmoment på 565 Nm. Den kan accelerere fra 0 til 100 km/t på 5,4 sekunder og når en topfart på 210 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Audi A6 Avant e-tron performance har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -80,11 +77,9 @@ Audi A6 Avant e-tron performance lader brugeren vælge forskellige [drive modes]
 - Balanced: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
 - Individual: Brugerdefineret styring, affjedring og gasrespons.
 
-
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 350mm, og de bagerste skiver er 350mm.
-
 
 ### Regenerativ bremsning
 
@@ -121,7 +116,6 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Audi A6 Avant e-tron performance har et førerfokuseret interiør, der forbedrer cockpitfølelsen, med premium materialer i alle vigtige områder. Derudover inkluderer det en traditionel midterkonsol, der adskiller fører og passager, og giver praktisk opbevaring og funktionalitet.
@@ -154,7 +148,6 @@ Følgende funktioner er tilgængelige på **Sport Plus** sædet.
 
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/frontseats_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
-
 
 #### Sæde på anden række
 
@@ -190,7 +183,6 @@ Audi A6 Avant e-tron performance inkluderer flere funktioner, der forbedrer komf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Betjeningsgrænsefladen for denne elbilmodel inkluderer en intuitiv kombination af knapper, kontakter og skærme, som giver en problemfri og brugervenlig oplevelse.
@@ -213,11 +205,20 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Audi A6 Avant e-tron performance Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan vælge mellem to lydsystemer på Audi A6 Avant e-tron performance. Med Audi Sound System får du fem højttalere med en maksimal systemeffekt på 200 watt. Med Bang & Olufsen Sound System får du 20 højttalere med en maksimal systemeffekt på 830 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Audi A6 Avant e-tron performance Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Audi A6 Avant e-tron performance. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -230,6 +231,7 @@ Du kan vælge mellem to typer forlygter til Audi A6 Avant e-tron performance. St
 Audi A6 Avant e-tron performance har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -272,7 +274,6 @@ Denne model bruger kameraer, radar og ultralydssensorer til førerassistentsyste
 Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydssensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt, hvad der sker i køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

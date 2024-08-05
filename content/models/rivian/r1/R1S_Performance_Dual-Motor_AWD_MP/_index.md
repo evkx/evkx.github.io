@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Rivian R1S Performance Dual-Motor AWD MP packs an impressive punch with a maximum power of 489 kW (665 hp / 656 bhp) and a commanding total torque of 1123 Nm (829 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.6 seconds, and it reaches a top speed of 201 km/h (125 mph), making it a standout in its class.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging.
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_mp/charging_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD MP" width="2880" height="1920"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left front corner](../../../../technology/charging/connectors/#front-corner). This location makes it easy to use charge stations where you need to park with the front in. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [left front corner](../../../../techno
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Rivian R1S Performance Dual-Motor AWD MP features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
@@ -69,7 +65,6 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 343mm, and the rear discs are 328mm.
-
 
 ### Regenerative braking
 
@@ -97,9 +92,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -123,7 +116,6 @@ You can choose from 3 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Green [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Second-row seat
@@ -165,7 +157,6 @@ The Rivian R1S Performance Dual-Motor AWD MP includes several features to enhanc
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Rivian R1S Performance Dual-Motor AWD MP has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -186,7 +177,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -196,12 +186,15 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Rivian R1S Performance Dual-Motor AWD MP. With the Rivian Elevation audio system, you get 22 speakers with a max system output of 1100 watts.
 
 The model has 6 USB-C connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Rivian R1S Performance Dual-Motor AWD MP has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -230,7 +223,6 @@ With the Driver+  level 2 system, you get the following driving automation featu
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

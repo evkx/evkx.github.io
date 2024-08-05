@@ -26,7 +26,6 @@ Nous avons séparé notre article Xiaomi SU7 Max en sections. Si vous souhaitez 
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Xiaomi SU7 Max impressionne avec une puissance maximale de 495 kW (673 ch) et un couple total impressionnant de 838 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 2,78 secondes, et atteint une vitesse maximale de 265 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Xiaomi SU7 Max dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ La direction dynamique est une fonctionnalité un standard sur le Xiaomi SU7 Max
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
-
 
 ### Freinage régénératif
 
@@ -100,7 +96,6 @@ Les vitres du montant B et de l'arrière sont teintées.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 Vous pouvez choisir entre plusieurs aménagements intérieurs.
@@ -129,7 +124,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/frontseats_1_st.jpg" title="Xiaomi SU7 Max" width="1760" height="1000"  >}}
 
-
 #### Siège de deuxième rangée
 
 
@@ -151,7 +145,6 @@ Un système climatique est disponible.
 
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 
-
 ## Caractéristiques de confort
 
 L'Xiaomi SU7 Max comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
@@ -163,7 +156,6 @@ L'Xiaomi SU7 Max comprend plusieurs fonctionnalités pour améliorer le confort 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interface utilisateur et contrôle
@@ -180,12 +172,14 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/screens_1_st.jpg" title="Xiaomi SU7 Max" width="2560" height="1440"  >}}
 
-
 ## Infodivertissement
+
+### header.soundsystem
 
 Un type de système audio est disponible pour le Xiaomi SU7 Max. Avec le Xiaomi Soundsystem, vous obtenez 25 haut-parleurs avec une puissance système maximale de  watts.
 
 Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+
 ## Lumières
 
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
@@ -196,6 +190,7 @@ Les phares standard utilisent la technologie LED Matrix. LED Matrix est un syst�
 ## Systèmes avancés d'aide à la conduite
 
 Le Xiaomi SU7 Max dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -237,12 +232,12 @@ Jusqu'à trois [capteurs radar](../../../../technology/sensorsandcameras/radar/)
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement du coffre est de 493 litres. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 105 litres (3,7 CU FT). Le poids maximum de la voiture est de 2655 kg (5853 lbs), et avec le poids de base de 2205 kg (4861 lbs), vous pouvez charger au maximum 450 kg (992 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 28.12.2023 et les livraisons ont commencé en March 2024. Ce modèle est uniquement disponible en Chine.<div class="mt-3 mb-3">

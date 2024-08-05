@@ -26,7 +26,6 @@ Nous avons séparé notre article Hyundai Ioniq 5 N en sections. Si vous souhait
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 Avec l'overboost, la Hyundai Ioniq 5 N atteint une puissance maximale de 478 kW (650 ch). Sans overboost, elle offre une puissance solide de 448 kW (609 ch). Le couple maximal est de 770 Nm. Ce bolide peut accélérer de 0 à 100 km/h en seulement 3,4 secondes et atteint une vitesse maximale de 260 km/h, démontrant ses performances impressionnantes.
@@ -52,18 +51,15 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Hyundai Ioniq 5 N dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
-
 
 ### Suspension
 
 La suspension  est dotée de ressorts en acier à hauteur fixe, mais vous pouvez régler l'amortissement en fonction de votre style de conduite ou des conditions de la route. La garde au sol avec cette suspension est de 158 mm.
 
 ### Freins
-
 
 
 
@@ -94,13 +90,11 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
 ### Sièges
-
 
 
 #### Sièges de première rangée
@@ -117,7 +111,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 - Black [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
 - Black [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
-
 
 
 #### Siège de deuxième rangée
@@ -149,7 +142,6 @@ L'Hyundai Ioniq 5 N comprend plusieurs fonctionnalités pour améliorer le confo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Hyundai Ioniq 5 N possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -165,14 +157,22 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/screens_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="1748"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Hyundai Ioniq 5 N prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Un type de système audio est disponible pour le Hyundai Ioniq 5 N. Avec le Bose Premium Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de  watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Hyundai Ioniq 5 N prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
@@ -183,6 +183,7 @@ Les phares standards utilisent la technologie LED. De plus, les feux arrière st
 ## Systèmes avancés d'aide à la conduite
 
 Le Hyundai Ioniq 5 N dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -214,7 +215,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

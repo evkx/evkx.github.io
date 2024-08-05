@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av MG ZS EV Standard Range i seksjoner. Hvis du vil
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 MG ZS EV Standard Range tilbyr beskjedne ytelser med en maksimal effekt på 115 kW (156 hk) og et totalt dreiemoment på 280 Nm. Den akselererer fra 0 til 100 km/t på 8,6 sekunder og har en toppfart på 175 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/charging_1_st.jpg" title="MG ZS EV Standard Range" width="3000" height="2000"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [fronten](../../../../technology/charging/connectors/#front). Denne plasseringen gjør det brukervennlige ladestasjoner der du må parkere med fronten inn. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
@@ -56,11 +54,9 @@ Plasseringen av ladeporten er på [fronten](../../../../technology/charging/conn
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 MG ZS EV Standard Range har et bakhjulsdriftssystem støttet av en motor på bakakselen.
-
 
 ### Hjuloppheng
 
@@ -69,7 +65,6 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsing
 
@@ -94,7 +89,6 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiør
@@ -123,7 +117,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/frontseats_1_st.jpg" title="MG ZS EV Standard Range" width="3000" height="1999"  >}}
-
 
 #### Seter på andre rad
 
@@ -158,7 +151,6 @@ MG ZS EV Standard Range inkluderer flere funksjoner for å forbedre komfort og b
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 
@@ -178,11 +170,20 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter MG ZS EV Standard Range Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan velge mellom to lydsystemer på MG ZS EV Standard Range. Med MG standard system får du fire høyttalere med en maksimal systemeffekt på  watt. Med MG luxury sound system får du seks høyttalere med en maksimal systemeffekt på  watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter MG ZS EV Standard Range Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
@@ -193,6 +194,7 @@ Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-te
 ## Avanserte førerassistentsystemer
 
 MG ZS EV Standard Range har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -215,7 +217,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

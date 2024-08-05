@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av BMW i5 M60 xDrive i avsnitt. Om du vill vän
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 BMW i5 M60 xDrive imponerar med en imponerande kraft på 442 kW (601 hk) och ett imponerande totalt vridmoment på 795 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,8 sekunder och når en topphastighet på 230 km/h, vilket gör den till en stjärna i sin klass.
@@ -48,7 +47,6 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/charging_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="3000"  >}}
 
-
 ### Laddningsport
 
 Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
@@ -56,11 +54,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 BMW i5 M60 xDrive har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
-
 
 ### Hjulupphängning
 
@@ -71,7 +67,6 @@ Fjädringen  har adaptiv dämpning på fram- och bakaxeln och luftfjädring på 
 Dynamisk styrning är standard-funktionen för BMW i5 M60 xDrive. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten. Dessutom är bakhjulsstyrning tillgänglig som en valfritt-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
 
 ### Bromsar
-
 
 
 
@@ -106,9 +101,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -142,7 +135,6 @@ Följande funktioner är tillgängliga på **Comfort seats** sätet.
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/frontseats_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="2000"  >}}
-
 
 #### Säten på andra raden
 
@@ -181,7 +173,6 @@ BMW i5 M60 xDrive inkluderar flera funktioner för att förbättra komfort och b
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 BMW i5 M60 xDrive har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
@@ -204,11 +195,20 @@ Ett gestkontrollsystem som låter dig styra specifika funktioner med dina hände
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder BMW i5 M60 xDrive Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan välja mellan tre ljudsystem på BMW i5 M60 xDrive. Med Hifi Sound system får du sex högtalare med en maximal systemeffekt på 100 watt. Med Harman Kardon Surround Sound system får du 12 högtalare med en maximal systemeffekt på 205 watt. Med Bower & Wilkins Surround System får du 18 högtalare med en maximal systemeffekt på 655 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder BMW i5 M60 xDrive Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 6 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för BMW i5 M60 xDrive. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför. Dessutom använder standardbakljusen LED-teknik.
@@ -219,6 +219,7 @@ Du kan välja mellan två typer av strålkastare för BMW i5 M60 xDrive. Standar
 ## Avancerade förarassistanssystem
 
 BMW i5 M60 xDrive har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -252,7 +253,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du fler körautomatise
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

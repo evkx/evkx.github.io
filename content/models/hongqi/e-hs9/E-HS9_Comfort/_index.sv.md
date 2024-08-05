@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Hongqi E-HS9 Comfort i avsnitt. Om du vill v
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Hongqi E-HS9 Comfort erbjuder blygsamma prestanda med en maximal effekt på 320 kW (435 hk) och ett totalt vridmoment på 300 Nm. Den accelererar från 0 till 100 km/h på 6,5 sekunder och har en topphastighet på 200 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Hongqi E-HS9 Comfort har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -69,7 +66,6 @@ Dynamisk styrning är standard-funktionen för Hongqi E-HS9 Comfort. Dynamisk st
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bromsning
 
@@ -97,9 +93,7 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -121,7 +115,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
-
 
 
 #### Säten på andra raden
@@ -147,7 +140,6 @@ Det finns ett tillgängligt klimatsystem.
 
 - **6-zons klimatsystem:** Stöder olika temperaturer i sex zoner: förare, passagerare och två zoner, både på raden 2 och 3.
 
-
 ## Komfortfunktioner
 
 Hongqi E-HS9 Comfort inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -159,7 +151,6 @@ Hongqi E-HS9 Comfort inkluderar flera funktioner för att förbättra komfort oc
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Användargränssnitt och kontroll
@@ -184,11 +175,16 @@ Denna modell har ett valfritt röststyrningssystem. Röstkontrollen låter dig s
 
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för Hongqi E-HS9 Comfort. Med Hongqi sound system får du åtta högtalare med en maximal systemeffekt på  watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### header.soundsystem
+
+En typ av ljudsystem är tillgänglig för Hongqi E-HS9 Comfort. Med Hongqi sound system får du åtta högtalare med en maximal systemeffekt på  watt.
+
 Modellen har 1 USB-C-anslutningar som standard. Modellen har 3 USB-A-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
@@ -199,6 +195,7 @@ Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-
 ## Avancerade förarassistanssystem
 
 Hongqi E-HS9 Comfort har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -232,7 +229,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

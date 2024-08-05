@@ -26,7 +26,6 @@ Nous avons séparé notre article Smart #1 Pulse en sections. Si vous souhaitez 
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Smart #1 Pulse offre des performances solides avec une puissance maximale de 315 kW (428 ch) et un couple total de 584 Nm. Elle peut accélérer de 0 à 100 km/h en 4,5 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -48,7 +47,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 22 kW pour la charge CA 
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/charging_1_st.jpg" title="Smart #1 Pulse" width="3000" height="1687"  >}}
 
-
 ### Port de recharge
 
 L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
@@ -56,11 +54,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Smart #1 Pulse dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
-
 
 ### Suspension
 
@@ -69,7 +65,6 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 350 mm et les disques arrière mesurent 333 mm.
-
 
 ### Freinage régénératif
 
@@ -96,9 +91,7 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -117,7 +110,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 - White/Blue [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Siège de deuxième rangée
@@ -152,7 +144,6 @@ L'Smart #1 Pulse comprend plusieurs fonctionnalités pour améliorer le confort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 
@@ -167,22 +158,28 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/screens_1_st.jpg" title="Smart #1 Pulse" width="3000" height="1687"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
 
 Un type de système audio est disponible pour le Smart #1 Pulse. Avec le Yamaha surround sound system, vous obtenez 13 haut-parleurs avec une puissance système maximale de 1040 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
 Le modèle dispose de 4 connexions USB-C en standard.
+
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le Smart #1 Pulse. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Smart #1 Pulse dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -215,12 +212,12 @@ Avec le système Pilot Assist  niveau 2, vous bénéficiez des fonctionnalités 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement dans le coffre est de 313 litres. Avec la banquette arrière rabattue, elle est de 976 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 15 litres (0,5 CU FT). Le poids maximum de la voiture est de 2325 kg (5126 lbs), et avec le poids de base de 1925 kg (4244 lbs), vous pouvez charger au maximum 400 kg (882 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1600, et sur une remorque non freinée, il est de 750 kg (3527/1653 lbs).
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 07.04.2022 et les livraisons devraient commencer en November 2023.<div class="mt-3 mb-3">

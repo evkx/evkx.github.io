@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Tesla Cybertruck Cyberbeast delivers a jaw-dropping maximum power of 630 KW (857 hp/845 bhp) and a massive total torque of 930 Nm (686 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.7 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 209 km/h (130 mph), making it a true marvel of engineering and performance.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/charging_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2250"  >}}
 
-
 ### Charge port
 
 The charge port is conveniently located at the [left rear corner](../../../../technology/charging/connectors/#rear-corner) of the vehicle, facilitating easy access when backing into charging stations. The connector types vary between the different markets. This model uses [**NACS**](../../../../technology/charging/connectors/#nacs) for North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The charge port is conveniently located at the [left rear corner](../../../../te
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Tesla Cybertruck Cyberbeast has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the front axle and [Induction Motors](../../../../technology/motors/asm/) at the rear axle.
-
 
 ### Suspension
 
@@ -73,7 +69,6 @@ Dynamic steering is a standard feature on the Tesla Cybertruck Cyberbeast. Dynam
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 355mm.
-
 
 ### Regenerative braking
 
@@ -102,9 +97,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -129,7 +122,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/frontseats_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
-
 
 #### Second-row seat
 
@@ -164,7 +156,6 @@ The Tesla Cybertruck Cyberbeast includes several features to enhance comfort and
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Tesla Cybertruck Cyberbeast has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
@@ -179,9 +170,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/screens_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -190,7 +179,6 @@ With the a standard in-car navigation system, you have all the assistance you ne
 ### Sound system
 
 One type of sound system is available for the Tesla Cybertruck Cyberbeast. With the Tesla Premium Sound, you get 17 speakers with a max system output of 560 watts.
-
 
 ## Lights
 
@@ -202,6 +190,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Advanced driver assistance systems
 
 The Tesla Cybertruck Cyberbeast has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -243,7 +232,6 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

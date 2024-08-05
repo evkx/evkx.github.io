@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The GMC Hummer EV Edition 1 Pickup delivers a jaw-dropping maximum power of 746 KW (1014 hp/1000 bhp) and a massive total torque of 1150 Nm (849 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 3.5 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 170 km/h (106 mph), making it a true marvel of engineering and performance.
@@ -52,18 +51,15 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 GMC Hummer EV Edition 1 Pickup has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
 The front suspension is [double wishbone](../../../../technology/suspension/#double-wishbone), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). It uses air suspension and hydraulic dampers. The suspension is fully adaptive on the front and rear axle, so height and damping can be adjusted manually and automatically. The minimum ground clearance is 257 mm, and the maximum is 406 mm. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
-
 
 
 
@@ -91,9 +87,7 @@ There is only one roof for this model. The standard roof has a 4 seperate glass 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -115,7 +109,6 @@ The following functionalities are available on the **** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Second-row seat
@@ -151,7 +144,6 @@ The GMC Hummer EV Edition 1 Pickup includes several features to enhance comfort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The GMC Hummer EV Edition 1 Pickup has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -167,9 +159,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2001"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -184,12 +174,13 @@ Furthermore, the GMC Hummer EV Edition 1 Pickup supports Android Auto and Apple 
 One type of sound system is available for the GMC Hummer EV Edition 1 Pickup. With the Bose Premium Sound System, you get 14 speakers with a max system output of 625 watts.
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
-## Lights
 
+## Lights
 
 ## Advanced driver assistance systems
 
 The GMC Hummer EV Edition 1 Pickup has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -213,12 +204,12 @@ With the Super Cruise  level 2 system, you get the following driving automation 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the truck bed is 1039 liters. The bed width is 1272 mm, and length is 1524 mm. The max load weight in bed is 614 kg. Under the hood, there is frunk with more storage room. This frunk is 320 liters (11.3 CU FT). The maxium weight of the car is 4717 kg (10399 lbs), and with the base weight of 4103 kg (9046 lbs), you can max load 614 kg (1354 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 3402, and on unbraked, it is 750 kg (7500/1653 lbs).
+
 ### Availability & Pricing
 
 This model had a world premiere on 20.10.2020, and deliveries started in December 2021. This model is only available in North America.<div class="mt-3 mb-3">

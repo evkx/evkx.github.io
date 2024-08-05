@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Honda Prologue AWD delivers a solid performance with a maximum power of 214 kW (291 hp / 287 bhp) and a total torque of 451 Nm (333 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6 seconds and reaches a top speed of 185 km/h (115 mph), making it competitive within its class.
@@ -49,7 +48,6 @@ The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging.
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/charging_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -57,11 +55,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Honda Prologue AWD features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -70,7 +66,6 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 396mm, and the rear discs are 343mm.
-
 
 ### Regenerative braking
 
@@ -97,13 +92,11 @@ There are two different roof options to select from. The standard roof has a lar
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 You can choose between several interior designs.
 
 ### Seats
-
 
 
 #### First row seats
@@ -123,7 +116,6 @@ You can choose from 3 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Brown [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Second-row seat
@@ -159,7 +151,6 @@ The Honda Prologue AWD includes several features to enhance comfort and convenie
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Honda Prologue AWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -180,7 +171,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -194,12 +184,13 @@ Furthermore, the Honda Prologue AWD supports Android Auto and Apple CarPlay. Thi
 One type of sound system is available for the Honda Prologue AWD. With the Bose premium audio system, you get 12 speakers with a max system output of  watts.
 
 The model has 5 USB-C connections as standard.
-## Lights
 
+## Lights
 
 ## Advanced driver assistance systems
 
 The Honda Prologue AWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -229,7 +220,6 @@ With the   level 1 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

@@ -26,7 +26,6 @@ Vi har opdelt vores Honda e:Ny1 artikel i sektioner. Hvis du vil vente med at l�
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Honda e:Ny1 tilbyder beskedne præstationer med en maksimal effekt på 150 kW (204 hk) og et samlet drejningsmoment på 310 Nm. Den accelererer fra 0 til 100 km/t på 7,7 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -44,7 +43,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 ### Ombordlader
 
 
-
 ### Ladeport
 
 Placeringen af ladeporten er på [forsiden](../../../../technology/charging/connectors/#front). Denne placering gør det letanvendelige ladestationer, hvor du skal parkere med fronten ind. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
@@ -52,11 +50,9 @@ Placeringen af ladeporten er på [forsiden](../../../../technology/charging/conn
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Honda e:Ny1 har et forhjulstræksystem understøttet af en motor på forakslen.
-
 
 ### Hjulophæng
 
@@ -66,9 +62,7 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 
 
 
-
 ### Regenerativ bremsning
-
 
 
 ## Udvendig
@@ -89,13 +83,10 @@ Der er kun ét tag til denne model.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 
-
 ### Sæder
-
 
 
 #### Første række sæder
@@ -106,7 +97,6 @@ Følgende funktioner er tilgængelige på **** sædet.
 
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-
 
 
 #### Sæde på anden række
@@ -123,7 +113,6 @@ Der er kun én type rat tilgængelig.
 Der er et tilgængeligt klimasystem.
 
 
-
 ## Komfortfunktioner
 
 Honda e:Ny1 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
@@ -131,7 +120,6 @@ Honda e:Ny1 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brugergrænseflade og kontrol
@@ -149,11 +137,11 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/screens_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
-
 ## Infotainment
 
-Én type lydsystem er tilgængelig for Honda e:Ny1. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+### header.soundsystem
 
+Én type lydsystem er tilgængelig for Honda e:Ny1. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
 
 ## Lys
 
@@ -165,8 +153,8 @@ Modellen har ikke et head-up display.
 ## Avancerede førerassistentsystemer
 
 Honda e:Ny1 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
-### Sikkerhedssystemer
 
+### Sikkerhedssystemer
 
 
 ### Køreautomatisering
@@ -177,7 +165,6 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

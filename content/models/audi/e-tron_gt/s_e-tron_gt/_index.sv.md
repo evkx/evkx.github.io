@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Audi S e-tron GT i avsnitt. Om du vill vänt
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Audi S e-tron GT imponerar med en imponerande kraft på 500 kW (680 hk) och ett imponerande totalt vridmoment på 740 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,4 sekunder och når en topphastighet på 245 km/h, vilket gör den till en stjärna i sin klass.
@@ -48,7 +47,6 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/charging_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
-
 ### Laddningsport
 
 Platsen för laddningsporten är på [höger framsida](../../../../technology/charging/connectors/#front-side). Denna placering gör det enkelt att använda laddstationer där du parkerar sidan i laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader. En andra port finns på [vänster front](../../../../technology/charging/connectors/#front-side). Denna extra port ger du fler parkeringsmöjligheter för AC-laddning. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**J1772**](../../../../technology/charging/connectors/#j1772) för Nordamerika och för Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullständiga specifikationer för alla marknader.
@@ -56,11 +54,9 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Audi S e-tron GT har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -81,7 +77,6 @@ Dynamisk styrning är standard-funktionen för Audi S e-tron GT. Dynamisk styrni
 ### Bromsar
 
 Du kan välja mellan olika bromssystem. Bromsarna standard använder vanliga [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 360mm och de bakre skivorna är 358mm. Bromsarna second använder en [volframkarbidbelagd gjutjärnsskiva](../../../../technology/brakes/#carbide brakes) . Den rostar inte och producerar nästan inget bromsdamm. De främre skivorna är 410mm och de bakre skivorna är 365mm. Bromsarna för alternativet third använder [keramiska skivor](../../../../technology/brakes/#ceramic-brakes). De främre skivorna är 420mm och de bakre skivorna är 410mm.
-
 
 ### Regenerativ bromsning
 
@@ -118,9 +113,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -199,7 +192,6 @@ Audi S e-tron GT inkluderar flera funktioner för att förbättra komfort och be
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Audi S e-tron GT har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
@@ -214,10 +206,17 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Audi S e-tron GT Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan välja mellan två ljudsystem på Audi S e-tron GT. Med Audi Sound system får du tio högtalare med en maximal systemeffekt på 180 watt. Med Bang & Olufsen Sound System får du 16 högtalare med en maximal systemeffekt på 700 watt.
-
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Audi S e-tron GT Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 
 ## Ljus
 
@@ -231,6 +230,7 @@ Du kan välja mellan tre typer av strålkastare för Audi S e-tron GT. Standardl
 Audi S e-tron GT har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -267,7 +267,6 @@ Med Assistantpackage Tour  nivå 2-systemet får du fler körautomatiseringsfunk
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

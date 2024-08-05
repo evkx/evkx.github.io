@@ -26,7 +26,6 @@ Vi har opdelt vores BYD Dolphin 60.4kWh artikel i sektioner. Hvis du vil vente m
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 BYD Dolphin 60.4kWh tilbyder beskedne præstationer med en maksimal effekt på 150 kW (204 hk) og et samlet drejningsmoment på 310 Nm. Den accelererer fra 0 til 100 km/t på 7 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 BYD Dolphin 60.4kWh har et forhjulstræksystem understøttet af en motor på forakslen. Den anvendte motor er [induktionsmotorer](../../../../technology/motors/asm/).
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en standard-funktion på BYD Dolphin 60.4kWh. Dynamisk styri
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsning
 
@@ -98,9 +94,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -129,7 +123,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/frontseats_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1579"  >}}
-
 
 #### Sæde på anden række
 
@@ -166,7 +159,6 @@ BYD Dolphin 60.4kWh inkluderer flere funktioner, der forbedrer komfort og bekvem
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 To forskellige skærmopsætninger er tilgængelige på BYD Dolphin 60.4kWh.
@@ -193,14 +185,18 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/screens_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1550"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
 
 Én type lydsystem er tilgængelig for BYD Dolphin 60.4kWh. Med Dirac får du otte højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
@@ -211,6 +207,7 @@ Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-
 ## Avancerede førerassistentsystemer
 
 BYD Dolphin 60.4kWh har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -242,7 +239,6 @@ Med   niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

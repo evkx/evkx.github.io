@@ -26,7 +26,6 @@ Hemos separado nuestro artículo CUPRA BORN 58 en secciones. Si desea esperar pa
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El CUPRA BORN 58 ofrece un rendimiento modesto con una potencia máxima de 150 kW (204 hp) y un par total de 310 Nm. Acelera de 0 a 100 km/h en 7,3 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 CUPRA BORN 58 tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores de inducción](../../../../technology/motors/asm/).
-
 
 ### Suspensión
 
@@ -69,7 +66,6 @@ La dirección dinámica es una característica un opcional en el CUPRA BORN 58. 
 ### Frenos
 
 El CUPRA BORN 58 utiliza [frenos de disco](../../../../technology/brakes/#disc-brakes) en la parte delantera para una potencia de frenado superior y disipación de calor, mientras que se emplean [frenos de tambor](../../../../technology/frenos/#frenos-de-tambor) en la parte trasera por su eficiencia en costos y durabilidad. Los frenos de tambor proporcionan un rendimiento adecuado para las ruedas traseras, requieren menos mantenimiento e integran perfectamente con el sistema de frenado regenerativo del vehículo. Esta combinación garantiza un rendimiento óptimo de frenado y rentabilidad, alineándose con los objetivos generales de eficiencia del EV. Los discos delanteros miden 340 mm.
-
 
 ### Frenado regenerativo
 
@@ -100,9 +96,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -128,7 +122,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/cupra/born/born_58/frontseats_1_st.jpg" title="CUPRA BORN 58" width="3000" height="2110"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -160,7 +153,6 @@ El CUPRA BORN 58 incluye varias características para mejorar la comodidad y con
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El CUPRA BORN 58 tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -176,14 +168,22 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/cupra/born/born_58/screens_1_st.jpg" title="CUPRA BORN 58" width="3000" height="1714"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un opcional, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el CUPRA BORN 58 es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
 
 Puedes elegir entre dos sistemas de sonido en el CUPRA BORN 58. Con el Sound system, obtienes cinco parlantes con una salida máxima del sistema de 140 vatios. Con el Beats Audio, obtienes nueve parlantes con una salida máxima del sistema de 395 vatios.
 
-Además, con el sistema de navegación para automóvil opcional, obtienes la ayuda que necesitas para encontrar tu destino. Además, el CUPRA BORN 58 es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED.
@@ -196,6 +196,7 @@ Los faros estándar utilizan tecnología LED.
 El CUPRA BORN 58 tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -234,7 +235,6 @@ Con el sistema Assistantpackage plus  nivel 2, obtienes funciones de automatizac
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

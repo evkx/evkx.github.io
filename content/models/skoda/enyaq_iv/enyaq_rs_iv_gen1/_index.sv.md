@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av SKODA ENYAQ RS iV (GEN1) i avsnitt. Om du vi
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Med overboost når SKODA ENYAQ RS iV (GEN1) en maximal effekt på 220 kW (299 hk). Utan overboost levererar den 195 kW (265 hk). Det maximala vridmomentet är 460 Nm. Den kan accelerera från 0 till 100 km/h på 6,5 sekunder och når en topphastighet på 180 km/h, vilket demonstrerar dess solida prestanda.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 SKODA ENYAQ RS iV (GEN1) har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
-
 
 ### Hjulupphängning
 
@@ -69,7 +66,6 @@ Dynamisk styrning är standard-funktionen för SKODA ENYAQ RS iV (GEN1). Dynamis
 ### Bromsar
 
 SKODA Elroq 85x använder [skivbromsar](../../../../technology/brakes/#disc-brakes) fram för överlägsen bromskraft och värmeavledning, medan [trumbromsar](../../../../technology/brakes/#trumbromsar) används bak för kostnadseffektivitet och hållbarhet. Trumbromsar ger tillräcklig prestanda för bakhjulen, kräver mindre underhåll och integreras sömlöst med fordonets regenerativa bromssystem. Denna kombination säkerställer optimal bromsprestanda och kostnadseffektivitet, i linje med elbilens övergripande effektivitetsmål. De främre skivorna är 358mm.
-
 
 ### Regenerativ bromsning
 
@@ -99,9 +95,7 @@ B-stolpen och vyerna bak är tonade.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -122,7 +116,6 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
-
 
 
 #### Säten på andra raden
@@ -155,7 +148,6 @@ SKODA ENYAQ RS iV (GEN1) inkluderar flera funktioner för att förbättra komfor
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 SKODA ENYAQ RS iV (GEN1) har två skärmar med information för föraren och passagerarna. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument) monterat på rattstången, och ovanpå instrumentbrädan finns en [infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm).
@@ -170,19 +162,30 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder SKODA ENYAQ RS iV (GEN1) Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 En typ av ljudsystem är tillgänglig för SKODA ENYAQ RS iV (GEN1). Med Canton Soundsystem får du tio högtalare med en maximal systemeffekt på 550 watt.
 
-Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder SKODA ENYAQ RS iV (GEN1) Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
+
 ## Avancerade förarassistanssystem
 
 SKODA ENYAQ RS iV (GEN1) har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -216,12 +219,12 @@ Med MAX  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastkapaciteten i bagageutrymmet är 585 liter. Med baksätet nedfällt är det 1710 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2750 kg, och med basvikten på 2117 kg kan du lasta maximalt 633 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1200, och på en obromsad är den 750 kg.
+
 ### Tillgänglighet och pris
 
 Denna modell hade världspremiär 01.01.2020 och leveranser startade i March 2021. Denna modell har nu utgått.<div class="mt-3 mb-3">

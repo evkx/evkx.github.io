@@ -26,7 +26,6 @@ Nous avons séparé notre article Nissan Ariya 87kWh en sections. Si vous souhai
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 L'Nissan Ariya 87kWh offre des performances modestes avec une puissance maximale de 178 kW (242 ch) et un couple total de 300 Nm. Il accélère de 0 à 100 km/h en 7,5 secondes et atteint une vitesse maximale de 160 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté avant droit](../../../../tech
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Nissan Ariya 87kWh dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs synchrones à rotor bobiné](../../../../technology/motors/wrsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ La direction dynamique est une fonctionnalité un facultatif sur le Nissan Ariya
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
-
 
 ### Freinage régénératif
 
@@ -99,7 +95,6 @@ Les vitres du montant B et de l'arrière sont teintées.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
@@ -126,7 +121,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 - Gray [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
 - Black [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 - Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
-
 
 
 #### Siège de deuxième rangée
@@ -161,7 +155,6 @@ L'Nissan Ariya 87kWh comprend plusieurs fonctionnalités pour améliorer le conf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Nissan Ariya 87kWh possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -182,17 +175,26 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Nissan Ariya 87kWh prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Vous pouvez choisir entre deux systèmes audio sur le Nissan Ariya 87kWh. Avec le DAB Audiosystem, vous obtenez six haut-parleurs avec une puissance système maximale de  watts. Avec le BOSE Premium Sound System, vous obtenez dix haut-parleurs avec une puissance système maximale de  watts.
-
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Nissan Ariya 87kWh prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le Nissan Ariya 87kWh. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Nissan Ariya 87kWh dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -222,7 +224,6 @@ Avec le système ProPILOT  niveau 2, vous bénéficiez des fonctionnalités d'au
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

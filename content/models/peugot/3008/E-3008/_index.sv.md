@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Peugot E-3008 i avsnitt. Om du vill vänta m
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Peugot E-3008 erbjuder blygsamma prestanda med en maximal effekt på 157 kW (214 hk) och ett totalt vridmoment på 345 Nm. Den accelererar från 0 till 100 km/h på 8,8 sekunder och har en topphastighet på 170 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
@@ -52,18 +51,15 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Peugot E-3008 har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
-
 
 ### Hjulupphängning
 
 Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson-strut) och den bakre fjädringen är [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 198 mm.
 
 ### Bromsar
-
 
 
 
@@ -95,7 +91,6 @@ B-stolpen och vyerna bak är tonade.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiör
@@ -130,7 +125,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/frontseats_1_st.jpg" title="Peugot E-3008" width="3000" height="2250"  >}}
 
-
 #### Säten på andra raden
 
 
@@ -163,7 +157,6 @@ Peugot E-3008 inkluderar flera funktioner för att förbättra komfort och bekv�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Peugot E-3008 har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
@@ -179,14 +172,22 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/screens_1_st.jpg" title="Peugot E-3008" width="3000" height="2167"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Peugot E-3008 Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan välja mellan två ljudsystem på Peugot E-3008. Med  får du sex högtalare med en maximal systemeffekt på 100 watt. Med  får du tio högtalare med en maximal systemeffekt på 690 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Peugot E-3008 Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Peugot E-3008. Standardlamporna använder LED-teknik. Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Dessutom använder standardbakljusen LED-teknik.
@@ -197,6 +198,7 @@ Du kan välja mellan två typer av strålkastare för Peugot E-3008. Standardlam
 ## Avancerade förarassistanssystem
 
 Peugot E-3008 har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -230,12 +232,12 @@ Upp till tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastkapaciteten i bagageutrymmet är 520 liter. Med baksätet nedfällt är det 1480 liter. På taket kan du lasta upp till 80 kg. Bilens maximala vikt är 2640 kg, och med basvikten på 2008 kg kan du lasta maximalt 632 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1250, och på en obromsad är den 750 kg.
+
 ### Tillgänglighet och pris
 
 Denna modell hade världspremiär 12.09.2023 och leveranserna startade i February 2024.<div class="mt-3 mb-3">

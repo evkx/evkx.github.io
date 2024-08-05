@@ -32,7 +32,6 @@ Este modelo ha sido reemplazado por [Volkswagen ID.5 GTX 4MOTION](/models/volksw
 
 </div>
 
-
 ## Rendimiento
 
 Con overboost, el Volkswagen ID.5 GTX 4MOTION (GEN1) alcanza una potencia máxima de 220 kW (299 hp). Sin overboost, entrega 195 kW (265 hp). El par máximo es de 460 Nm. Puede acelerar de 0 a 100 km/h en 6,3 segundos y alcanza una velocidad máxima de 180 km/h, demostrando su sólido rendimiento.
@@ -58,11 +57,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Volkswagen ID.5 GTX 4MOTION (GEN1) tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/).
-
 
 ### Suspensión
 
@@ -77,7 +74,6 @@ La dirección dinámica es una característica un opcional en el Volkswagen ID.5
 ### Frenos
 
 El Volkswagen ID.5 GTX 4MOTION (GEN1) utiliza [frenos de disco](../../../../technology/brakes/#disc-brakes) en la parte delantera para una potencia de frenado superior y disipación de calor, mientras que se emplean [frenos de tambor](../../../../technology/frenos/#frenos-de-tambor) en la parte trasera por su eficiencia en costos y durabilidad. Los frenos de tambor proporcionan un rendimiento adecuado para las ruedas traseras, requieren menos mantenimiento e integran perfectamente con el sistema de frenado regenerativo del vehículo. Esta combinación garantiza un rendimiento óptimo de frenado y rentabilidad, alineándose con los objetivos generales de eficiencia del EV. Los discos delanteros miden 358 mm.
-
 
 ### Frenado regenerativo
 
@@ -107,9 +103,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -147,7 +141,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion_gen1/frontseats_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
-
 #### Asiento de segunda fila
 
 
@@ -183,7 +176,6 @@ El Volkswagen ID.5 GTX 4MOTION (GEN1) incluye varias características para mejor
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 Hay dos configuraciones de pantalla diferentes disponibles en Volkswagen ID.5 GTX 4MOTION (GEN1).
@@ -210,14 +202,22 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion_gen1/screens_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un opcional, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Volkswagen ID.5 GTX 4MOTION (GEN1) es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
 
 Puedes elegir entre dos sistemas de sonido en el Volkswagen ID.5 GTX 4MOTION (GEN1). Con el Sound system, obtienes seis parlantes con una salida máxima del sistema de 140 vatios. Con el Volkswagen Soundsystem, obtienes seis parlantes con una salida máxima del sistema de 450 vatios.
 
-Además, con el sistema de navegación para automóvil opcional, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Volkswagen ID.5 GTX 4MOTION (GEN1) es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
@@ -230,6 +230,7 @@ Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema ad
 El Volkswagen ID.5 GTX 4MOTION (GEN1) tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -264,7 +265,6 @@ Con el sistema Assistantpackage plus  nivel 2, obtienes funciones de automatizac
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

@@ -26,7 +26,6 @@ Nous avons séparé notre article Mercedes-EQ EQS 580 4MATIC SUV en sections. Si
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Mercedes-EQ EQS 580 4MATIC SUV impressionne avec une puissance maximale de 400 kW (544 ch) et un couple total impressionnant de 858 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,6 secondes, et atteint une vitesse maximale de 210 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Mercedes-EQ EQS 580 4MATIC SUV dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ La direction dynamique est une fonctionnalité un standard sur le Mercedes-EQ EQ
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 415 mm et les disques arrière mesurent 378 mm.
-
 
 ### Freinage régénératif
 
@@ -101,9 +97,7 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -149,7 +143,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1687"  >}}
 
-
 #### Siège de deuxième rangée
 
 
@@ -161,7 +154,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="2250"  >}}
-
 
 #### Sièges de troisième rangée
 
@@ -182,7 +174,6 @@ Deux options de système de climatisation sont disponibles :
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 - **Système de climatisation à 4 zones** : Prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
 
-
 ## Caractéristiques de confort
 
 L'Mercedes-EQ EQS 580 4MATIC SUV comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
@@ -194,7 +185,6 @@ L'Mercedes-EQ EQS 580 4MATIC SUV comprend plusieurs fonctionnalités pour améli
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interface utilisateur et contrôle
@@ -230,17 +220,28 @@ Ce modèle dispose également d'un système de contrôle gestuel en option qui v
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Mercedes-EQ EQS 580 4MATIC SUV prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Vous pouvez choisir entre deux systèmes audio sur le Mercedes-EQ EQS 580 4MATIC SUV. Avec le Advanced Soundsystem, vous obtenez neuf haut-parleurs avec une puissance système maximale de 225 watts. Avec le Burmester Surround Soundsystem, vous obtenez 13 haut-parleurs avec une puissance système maximale de 590 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Mercedes-EQ EQS 580 4MATIC SUV prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 4 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
+
 ## Lumières
 
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Mercedes-EQ EQS 580 4MATIC SUV dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -279,7 +280,6 @@ Avec le système DRIVE PILOT  niveau 3, vous bénéficiez de fonctionnalités d'
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

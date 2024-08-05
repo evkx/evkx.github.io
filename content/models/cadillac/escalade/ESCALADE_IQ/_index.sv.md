@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Cadillac ESCALADE IQ i avsnitt. Om du vill v
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Cadillac ESCALADE IQ imponerar med en imponerande kraft på 560 kW (761 hk) och ett imponerande totalt vridmoment på 1064 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 4,7 sekunder och når en topphastighet på 200 km/h, vilket gör den till en stjärna i sin klass.
@@ -52,18 +51,15 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Cadillac ESCALADE IQ har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
 Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 125 mm, och maximal är 200 mm. Dessutom är bakhjulsstyrning tillgänglig som en standard-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
 
 ### Bromsar
-
 
 
 
@@ -92,9 +88,7 @@ Det finns bara ett tak för denna modell. Som ekstrautstyr kan du bestille denne
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -124,7 +118,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
-
 #### Säten på andra raden
 
 
@@ -139,7 +132,6 @@ För den andra raden har den här modellen dubbla [executive-säten](../../../..
 
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2003"  >}}
-
 
 #### Seter på tredje rad
 
@@ -171,7 +163,6 @@ Cadillac ESCALADE IQ inkluderar flera funktioner för att förbättra komfort oc
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 
@@ -187,20 +178,24 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/screens_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2250"  >}}
 
-
 ## Infotainment
 
-Du kan välja mellan två ljudsystem på Cadillac ESCALADE IQ. Med AKG Studio audi System får du 19 högtalare med en maximal systemeffekt på 1000 watt. Med AKG Studio Reference System får du 40 högtalare med en maximal systemeffekt på 1000 watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
-## Ljus
+### header.soundsystem
 
+Du kan välja mellan två ljudsystem på Cadillac ESCALADE IQ. Med AKG Studio audi System får du 19 högtalare med en maximal systemeffekt på 1000 watt. Med AKG Studio Reference System får du 40 högtalare med en maximal systemeffekt på 1000 watt.
+
+Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
+
+## Ljus
 
 ## Avancerade förarassistanssystem
 
 Cadillac ESCALADE IQ har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -227,7 +222,6 @@ Med Super Cruise  nivå 2-systemet får du följande körautomatiseringsfunktion
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

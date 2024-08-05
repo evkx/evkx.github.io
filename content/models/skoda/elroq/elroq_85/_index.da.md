@@ -26,7 +26,6 @@ Vi har opdelt vores SKODA Elroq 85 artikel i sektioner. Hvis du vil vente med at
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 SKODA Elroq 85 leverer en solid præstation med en maksimal effekt på 210 kW (286 hk) og et totalt drejningsmoment på 679 Nm. Den kan accelerere fra 0 til 100 km/t på 6,6 sekunder og når en topfart på 180 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_85/charging_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2002"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
@@ -56,11 +54,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 SKODA Elroq 85 har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -73,7 +69,6 @@ Dynamisk styring er en standard-funktion på SKODA Elroq 85. Dynamisk styring va
 ### Bremser
 
 SKODA Elroq 85 bruger [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremseevne og varmeafledning, mens [tromlebremser](../../../../technology/brakes/#tromle-brakes) anvendes bagtil for omkostningseffektivitet og holdbarhed. Tromlebremser yder tilstrækkelig ydeevne for baghjulene, kræver mindre vedligeholdelse og integreres problemfrit med køretøjets regenererende bremsesystem. Denne kombination sikrer optimal bremseydelse og omkostningseffektivitet, i tråd med EV'ens overordnede effektivitetsmål. De forreste skiver er 358mm.
-
 
 ### Regenerativ bremsning
 
@@ -103,9 +98,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -126,7 +119,6 @@ Følgende funktioner er tilgængelige på **Sport** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
-
 
 
 #### Sæde på anden række
@@ -159,7 +151,6 @@ SKODA Elroq 85 inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 SKODA Elroq 85 har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
@@ -174,11 +165,20 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en valgfri navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter SKODA Elroq 85 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for SKODA Elroq 85. Med Canton Soundsystem får du ti højttalere med en maksimal systemeffekt på 550 watt.
 
-Derudover får du med valgfrit navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter SKODA Elroq 85 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 4 USB-C-forbindelser som standard.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til SKODA Elroq 85. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
@@ -191,6 +191,7 @@ Du kan vælge mellem to typer forlygter til SKODA Elroq 85. Standardlygterne bru
 SKODA Elroq 85 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -224,12 +225,12 @@ Med MAX  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 490 liter. Med bagsædet nede er det 1610 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2300 kg (5071 lbs), og med basisvægten på 1750 kg (3858 lbs), kan du maksimalt laste 550 kg (1213 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1200, og på ubremset er den 750 kg (2646/1653 lbs).
+
 ### Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 01.07.2024, og leveringer forventes at starte om February 2025.<div class="mt-3 mb-3">

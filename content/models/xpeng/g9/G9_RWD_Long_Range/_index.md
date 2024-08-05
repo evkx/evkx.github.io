@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The XPENG G9 RWD Long Range delivers a solid performance with a maximum power of 230 kW (313 hp / 308 bhp) and a total torque of 430 Nm (317 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.4 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_long_range/charging_1_st.jpg" title="XPENG G9 RWD Long Range" width="1600" height="1040"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 XPENG G9 RWD Long Range has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +65,6 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -95,9 +90,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -129,7 +122,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_long_range/frontseats_1_st.jpeg" title="XPENG G9 RWD Long Range" width="3000" height="2250"  >}}
-
 
 #### Second-row seat
 
@@ -168,7 +160,6 @@ The XPENG G9 RWD Long Range includes several features to enhance comfort and con
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The XPENG G9 RWD Long Range has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat.
@@ -190,7 +181,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -199,13 +189,12 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 One type of sound system is available for the XPENG G9 RWD Long Range. With the , you get 24 speakers with a max system output of 1940 watts.
 
-
 ## Lights
-
 
 ## Advanced driver assistance systems
 
 The XPENG G9 RWD Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -237,7 +226,6 @@ With the   level 2 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

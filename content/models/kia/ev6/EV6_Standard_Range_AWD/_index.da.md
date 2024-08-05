@@ -26,7 +26,6 @@ Vi har opdelt vores Kia EV6 Standard Range AWD artikel i sektioner. Hvis du vil 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Kia EV6 Standard Range AWD tilbyder beskedne præstationer med en maksimal effekt på 173 kW (235 hk) og et samlet drejningsmoment på 605 Nm. Den accelererer fra 0 til 100 km/t på 6,2 sekunder og har en topfart på 185 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -48,7 +47,6 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_awd/charging_1_st.jpg" title="Kia EV6 Standard Range AWD" width="3000" height="2000"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
@@ -56,18 +54,15 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Kia EV6 Standard Range AWD har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
-
 
 ### Hjulophæng
 
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 178 mm.
 
 ### Bremser
-
 
 
 
@@ -101,13 +96,11 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
-
 
 
 #### Første række sæder
@@ -135,7 +128,6 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_awd/frontseats_1_st.jpg" title="Kia EV6 Standard Range AWD" width="3000" height="1999"  >}}
-
 
 #### Sæde på anden række
 
@@ -170,7 +162,6 @@ Kia EV6 Standard Range AWD inkluderer flere funktioner, der forbedrer komfort og
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Kia EV6 Standard Range AWD har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
@@ -186,14 +177,22 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_awd/screens_1_st.jpg" title="Kia EV6 Standard Range AWD" width="3000" height="2003"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Kia EV6 Standard Range AWD Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Kia EV6 Standard Range AWD. Med Standard får du seks højttalere med en maksimal systemeffekt på  watt. Med Meridian Premium Sound System får du 14 højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Kia EV6 Standard Range AWD Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
@@ -204,6 +203,7 @@ Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-
 ## Avancerede førerassistentsystemer
 
 Kia EV6 Standard Range AWD har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -234,7 +234,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

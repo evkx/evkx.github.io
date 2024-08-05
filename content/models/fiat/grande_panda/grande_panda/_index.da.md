@@ -26,7 +26,6 @@ Vi har opdelt vores Fiat Grande Panda artikel i sektioner. Hvis du vil vente med
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Fiat Grande Panda kWh leverer grundlæggende ydeevne med en maksimal effekt på 83 kW (113 hk) og et samlet drejningsmoment på 120 Nm. Den accelererer fra 0 til 100 km/t på 11 sekunder og når en topfart på 135 km/t, hvilket er mere sammenligneligt med indgangsmodeller af traditionelle forbrændingsmotorbiler.
@@ -48,7 +47,6 @@ Den standard ombordlader understøtter op til 7,4 kW til Level 1 og Level 2 AC-o
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/charging_1_st.JPG" title="Fiat Grande Panda" width="3000" height="1999"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
@@ -56,11 +54,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Fiat Grande Panda har et forhjulstræksystem understøttet af en motor på forakslen.
-
 
 ### Hjulophæng
 
@@ -73,7 +69,6 @@ Dynamisk styring er en standard-funktion på Fiat Grande Panda. Dynamisk styring
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsning
 
@@ -105,9 +100,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -138,7 +131,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/frontseats_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -168,7 +160,6 @@ Fiat Grande Panda inkluderer flere funktioner, der forbedrer komfort og bekvemme
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Fiat Grande Panda har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
@@ -189,11 +180,20 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Fiat Grande Panda Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan vælge mellem to lydsystemer på Fiat Grande Panda. Med  får du to højttalere med en maksimal systemeffekt på  watt. Med Max Sound system får du to højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Fiat Grande Panda Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
@@ -204,6 +204,7 @@ Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-
 ## Avancerede førerassistentsystemer
 
 Fiat Grande Panda har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -227,7 +228,6 @@ Denne model bruger kameraer, radar og ultralydssensorer til førerassistentsyste
 Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), én [kameraer](../../../../technology/sensorsandcameras/cameras/), og fire [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt, hvad der sker i køretøjets miljø.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

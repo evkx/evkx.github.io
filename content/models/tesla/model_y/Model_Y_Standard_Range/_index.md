@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Tesla Model Y Standard Range delivers a solid performance with a maximum power of 255 kW (347 hp / 342 bhp) and a total torque of 420 Nm (310 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.9 seconds and reaches a top speed of 217 km/h (135 mph), making it competitive within its class.
@@ -34,6 +33,7 @@ The Tesla Model Y Standard Range delivers a solid performance with a maximum pow
 ## Battery, range, and charging
 
 Tesla Model Y Standard Range has four battery options with different specifications. Below you see how this affects range and charging.
+
 ### CATL LFP Europa/China market
 
 The high-capacity battery has a gross capacity of 60 kWh and a net usable capacity of 55 kWh, providing an 5 kWh buffer (8.3%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
@@ -43,6 +43,7 @@ According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide 
 The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 52 minutes, while a more typical charging scenario from 10% to 80% takes 27 minutes with an average charging speed at 84 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 47%. This results in an effective charging speed, including time lost, of 89 kW, with each charging session taking about 17 minutes and 30 seconds..
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 55 minutes. This journey would require five charging stops from 0% to 51%, with a total charging time of 95 minutes.
+
 ### BYD LFP Europa/China market
 
 The high-capacity battery has a gross capacity of 60 kWh and a net usable capacity of 55 kWh, providing an 5 kWh buffer (8.3%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. The Lithium-Ion battery uses [LFP technology.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) This has some benefits and disadvantages from the typical NCA/NCM batteries.
@@ -52,6 +53,7 @@ According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide 
 The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 37 minutes, while a more typical charging scenario from 10% to 80% takes 18 minutes with an average charging speed at 129 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 63%. This results in an effective charging speed, including time lost, of 113 kW, with each charging session taking about 18 minutes and 28 seconds..
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 35 minutes. This journey would require four charging stops from 0% to 64%, with a total charging time of 75 minutes.
+
 ### NMC 4850 US Market
 
 The high-capacity battery has a gross capacity of 70 kWh and a net usable capacity of 68,5 kWh, providing an 1,5 kWh buffer (2.1%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
@@ -61,6 +63,7 @@ According to the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide 
 The vehicle supports fast DC charging with a maximum power of 250 kW. Charging from 0% to 100% takes approximately 84 minutes, while a more typical charging scenario from 10% to 80% takes 41 minutes with an average charging speed at 70 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 36%. This results in an effective charging speed, including time lost, of 82 kW, with each charging session taking about 18 minutes and 60 seconds..
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 19.5 kWh/100 km, the trip would take approximately 9 hours and 52 minutes. This journey would require five charging stops from 0% to 37%, with a total charging time of 93 minutes.
+
 ### NMC 21700 US Market Software locked
 
 The high-capacity battery has a gross capacity of 70 kWh and a net usable capacity of 68,5 kWh, providing an 1,5 kWh buffer (2.1%) for battery protection. With a nominal voltage of 340 volts, the system is classified as a 400-volt battery system, aligning with industry standards. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
@@ -82,11 +85,9 @@ The charge port is conveniently located at the [left rear corner](../../../../te
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Tesla Model Y Standard Range has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -99,7 +100,6 @@ Dynamic steering is a standard feature on the Tesla Model Y Standard Range. Dyna
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 355mm.
-
 
 ### Regenerative braking
 
@@ -132,9 +132,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -159,7 +157,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/frontseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
-
 #### Second-row seat
 
 
@@ -169,7 +166,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/secondrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
-
 
 #### Third-row seats
 
@@ -206,7 +202,6 @@ The Tesla Model Y Standard Range includes several features to enhance comfort an
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Tesla Model Y Standard Range has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
@@ -221,9 +216,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/screens_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="1800"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -234,12 +227,15 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Tesla Model Y Standard Range. With the Tesla Premium Sound, you get 13 speakers with a max system output of 560 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Tesla Model Y Standard Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -287,12 +283,12 @@ It uses eight [cameras](../../../../technology/sensorsandcameras/cameras/) to re
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 854 liters. With the rear seat down, it is 2158 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 117 liters (4.1 CU FT). The maxium weight of the car is 2720 kg (5997 lbs), and with the base weight of 2135 kg (4707 lbs), you can max load 585 kg (1290 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
+
 ### Availability & Pricing
 
 This model had a world premiere on 19.03.2019, and deliveries started in March 2020.<div class="mt-3 mb-3">

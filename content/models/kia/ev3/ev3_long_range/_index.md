@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Kia EV3 Long Range offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 283 Nm (209 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.5 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -52,18 +51,15 @@ The location of the charge port is on the [front](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Kia EV3 Long Range has a front-wheel drive system supported by one motor on the front axle.
-
 
 ### Suspension
 
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 160 mm.
 
 ### Brakes
-
 
 
 
@@ -97,13 +93,11 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
 
 ### Seats
-
 
 
 #### First row seats
@@ -126,7 +120,6 @@ You can choose from 6 different materials/colors for this seat type.
 - Gray [leather upholstering](../../../../technology/seats/materials/#leather)
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
-
 
 
 #### Second-row seat
@@ -158,7 +151,6 @@ The Kia EV3 Long Range includes several features to enhance comfort and convenie
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Kia EV3 Long Range has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -174,9 +166,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/kia/ev3/ev3_long_range/screens_1_st.jpg" title="Kia EV3 Long Range" width="2903" height="1633"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -191,12 +181,15 @@ Furthermore, the Kia EV3 Long Range supports Android Auto and Apple CarPlay. Thi
 You can choose between two sound systems on the Kia EV3 Long Range. With the Standard, you get six speakers with a max system output of  watts. With the Meridian Premium Sound System, you get 14 speakers with a max system output of  watts.
 
 The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Kia EV3 Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -227,7 +220,6 @@ With the   level 2 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

@@ -26,7 +26,6 @@ Nous avons séparé notre article MG MG4 Electric Long Range en sections. Si vou
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 L'MG MG4 Electric Long Range offre des performances modestes avec une puissance maximale de 150 kW (204 ch) et un couple total de 250 Nm. Il accélère de 0 à 100 km/h en 7,9 secondes et atteint une vitesse maximale de 160 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -48,7 +47,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/charging_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2249"  >}}
 
-
 ### Port de recharge
 
 L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
@@ -56,11 +54,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 MG MG4 Electric Long Range dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière.
-
 
 ### Suspension
 
@@ -69,7 +65,6 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
-
 
 ### Freinage régénératif
 
@@ -93,13 +88,11 @@ Il n'y a qu'un seul toit pour ce modèle. En option, vous pouvez commander ce mo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
 ### Sièges
-
 
 
 #### Sièges de première rangée
@@ -118,7 +111,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/frontseats_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2000"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -153,7 +145,6 @@ L'MG MG4 Electric Long Range comprend plusieurs fonctionnalités pour améliorer
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 
@@ -173,11 +164,20 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le MG MG4 Electric Long Range prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le MG MG4 Electric Long Range. Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le MG MG4 Electric Long Range prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+
 ## Lumières
 
 
@@ -188,6 +188,7 @@ Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 1 co
 ## Systèmes avancés d'aide à la conduite
 
 Le MG MG4 Electric Long Range dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -204,7 +205,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Li Auto MEGA delivers a solid performance with a maximum power of 400 kW (544 hp / 536 bhp) and a total torque of 542 Nm (400 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.5 seconds and reaches a top speed of 190 km/h (118 mph), making it competitive within its class.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/charging_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -60,11 +58,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Li Auto MEGA has a rear-wheel drive system supported by one motor on the rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -73,7 +69,6 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 533mm, and the rear discs are 457mm.
-
 
 ### Regenerative braking
 
@@ -98,7 +93,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -137,7 +131,6 @@ You can choose from 5 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/frontseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
-
 #### Second-row seat
 
 
@@ -151,7 +144,6 @@ For the second row, this model has two captain chairs. In addition, the followin
 
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/secondrowseats_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
-
 
 #### Third-row seats
 
@@ -187,7 +179,6 @@ The Li Auto MEGA includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Li Auto MEGA has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment. For the passenger, there is an infotainment screen.
@@ -208,7 +199,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -222,6 +212,7 @@ Furthermore, the Li Auto MEGA supports Android Auto and Apple CarPlay. This func
 One type of sound system is available for the Li Auto MEGA. With the Platinum audio system, you get 21 speakers with a max system output of 2160 watts.
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
@@ -234,6 +225,7 @@ The standard headlights use LED technology. In addition, the standard taillights
 The Li Auto MEGA has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -268,7 +260,6 @@ This model uses cameras, radar, LiDAR and ultrasonic sensors for the driver assi
 Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), one [LiDAR sensors](../../../../technology/sensorsandcameras/lidar/), nine [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

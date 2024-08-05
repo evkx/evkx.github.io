@@ -216,7 +216,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 ### App store
 
-In the infotainment systemet there is a App Store where you can download ThirdParty apps to run nativly in the cars screen without any phone connected. There might be differences depending on market but some of the apps are:
+The infotainment system includes an App Store where you can download third-party apps to run natively on the car's screen without needing a connected phone. Available apps vary by market but include popular options such as:
 
 - **Spotify**
 - **TIDAL**

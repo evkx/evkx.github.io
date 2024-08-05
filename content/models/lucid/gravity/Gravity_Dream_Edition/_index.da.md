@@ -26,7 +26,6 @@ Vi har opdelt vores Lucid Gravity Dream Edition artikel i sektioner. Hvis du vil
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Lucid Gravity Dream Edition imponerer med en maksimal effekt på 600 kW (816 hk) og et imponerende samlet drejningsmoment på 1000 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3,5 sekunder og har en topfart på 250 km/h, hvilket gør den til en standout i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Lucid Gravity Dream Edition har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -71,7 +68,6 @@ Dynamisk styring er en standard-funktion på Lucid Gravity Dream Edition. Dynami
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 386mm, og de bagerste skiver er 381mm.
-
 
 ### Regenerativ bremsning
 
@@ -99,7 +95,6 @@ Der er kun ét tag til denne model. Forruden er panoramisk tilbage over første 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiør
@@ -137,7 +132,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/frontseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -148,7 +142,6 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/secondrowseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
-
 
 #### Sæder på tredje række
 
@@ -180,7 +173,6 @@ Lucid Gravity Dream Edition inkluderer flere funktioner, der forbedrer komfort o
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 
@@ -195,14 +187,18 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/screens_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
 
 Én type lydsystem er tilgængelig for Lucid Gravity Dream Edition. Med Surreal Sound Pro System får du 22 højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi.
@@ -213,6 +209,7 @@ Standardlygterne bruger LED-teknologi.
 ## Avancerede førerassistentsystemer
 
 Lucid Gravity Dream Edition har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -239,7 +236,6 @@ Med ADAS  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

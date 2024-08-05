@@ -26,7 +26,6 @@ Vi har opdelt vores Audi Q4 35 e-tron (GEN1) artikel i sektioner. Hvis du vil ve
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Audi Q4 35 e-tron (GEN1) tilbyder beskedne præstationer med en maksimal effekt på 125 kW (170 hk) og et samlet drejningsmoment på 310 Nm. Den accelererer fra 0 til 100 km/t på 9 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -56,11 +55,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Audi Q4 35 e-tron (GEN1) har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -75,7 +72,6 @@ Dynamisk styring er en valgfri-funktion på Audi Q4 35 e-tron (GEN1). Dynamisk s
 ### Bremser
 
 Audi Q4 35 e-tron (GEN1) bruger [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremseevne og varmeafledning, mens [tromlebremser](../../../../technology/brakes/#tromle-brakes) anvendes bagtil for omkostningseffektivitet og holdbarhed. Tromlebremser yder tilstrækkelig ydeevne for baghjulene, kræver mindre vedligeholdelse og integreres problemfrit med køretøjets regenererende bremsesystem. Denne kombination sikrer optimal bremseydelse og omkostningseffektivitet, i tråd med EV'ens overordnede effektivitetsmål. De forreste skiver er 358mm.
-
 
 ### Regenerativ bremsning
 
@@ -110,9 +106,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -148,7 +142,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron_gen1/frontseats_1_st.jpg" title="Audi Q4 35 e-tron (GEN1)" width="3000" height="1998"  >}}
-
 
 #### Sæder på anden række
 
@@ -189,7 +182,6 @@ Audi Q4 35 e-tron (GEN1) inkluderer flere funktioner, der forbedrer komfort og b
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Audi Q4 35 e-tron (GEN1) har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
@@ -205,14 +197,22 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron_gen1/screens_1_st.jpg" title="Audi Q4 35 e-tron (GEN1)" width="3000" height="1686"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en valgfri navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Audi Q4 35 e-tron (GEN1) Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Audi Q4 35 e-tron (GEN1). Med Audi Sound system får du otte højttalere med en maksimal systemeffekt på 180 watt. Med Sonos Sound System får du ti højttalere med en maksimal systemeffekt på 580 watt.
 
-Derudover får du med valgfrit navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Audi Q4 35 e-tron (GEN1) Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Audi Q4 35 e-tron (GEN1). Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Desuden kan du vælge mellem to typer baglygter.
@@ -225,6 +225,7 @@ Du kan vælge mellem to typer forlygter til Audi Q4 35 e-tron (GEN1). Standardly
 Audi Q4 35 e-tron (GEN1) har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -262,7 +263,6 @@ Med Assistantpackage Tour  niveau 2-systemet får du yderligere køreautomatiser
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

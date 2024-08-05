@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av HiPhi Z 4 Seater i avsnitt. Om du vill vänt
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 HiPhi Z 4 Seater imponerar med en imponerande kraft på 494 kW (672 hk) och ett imponerande totalt vridmoment på 820 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,8 sekunder och når en topphastighet på 200 km/h, vilket gör den till en stjärna i sin klass.
@@ -48,7 +47,6 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/charging_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2032"  >}}
 
-
 ### Laddningsport
 
 Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Denna modell använder [**GBT**](../../../../technology/charging/connectors/#gbt) för Kina och Europa, vilket betyder att du måste använda en CCS2>GBT-adapter i Europa. Se fullständiga specifikationer för alla marknader.
@@ -56,11 +54,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 HiPhi Z 4 Seater har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -74,9 +70,7 @@ Dynamisk styrning är standard-funktionen för HiPhi Z 4 Seater. Dynamisk styrni
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
 
-
 ### Regenerativ bromsning
-
 
 
 ## Exteriör
@@ -100,9 +94,7 @@ B-stolpen och vyerna bak är tonade.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -132,7 +124,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/frontseats_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2256"  >}}
-
 
 #### Säten på andra raden
 
@@ -173,7 +164,6 @@ HiPhi Z 4 Seater inkluderar flera funktioner för att förbättra komfort och be
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 HiPhi Z 4 Seater har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment.
@@ -193,9 +183,12 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
+### header.soundsystem
+
 En typ av ljudsystem är tillgänglig för HiPhi Z 4 Seater. Med SONIC PRO SYSTEM får du 23 högtalare med en maximal systemeffekt på 600 watt.
 
 Modellen har 1 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar. Modellen har 1 USB-A-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
@@ -206,6 +199,7 @@ Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-
 ## Avancerade förarassistanssystem
 
 HiPhi Z 4 Seater har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -237,7 +231,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

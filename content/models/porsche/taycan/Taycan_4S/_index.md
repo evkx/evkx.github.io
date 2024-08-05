@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 With overboost, the Porsche Taycan 4S reaches a maximum power of 390 kW (530 hp / 523 bhp). Without overboost, it delivers 320 kW (435 hp / 429 bhp). The maximum torque is 640 Nm (472 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4 seconds and reaches a top speed of 230 km/h (143 mph), demonstrating its solid performance.
@@ -36,6 +35,7 @@ With the optional Performance Battery Plus battery, you get other performance nu
 ## Battery, range, and charging
 
 Porsche Taycan 4S has two battery options with different specifications. Below you see how this affects range and charging.
+
 ### Performance Battery
 
 The high-capacity battery has a gross capacity of 79,2 kWh and a net usable capacity of 71 kWh, providing an 8,2 kWh buffer (10.4%) for battery protection. Operating at a nominal voltage of 615 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
@@ -45,6 +45,7 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 The vehicle supports fast DC charging with a maximum power of 225 kW. Charging from 0% to 100% takes approximately 45 minutes, while a more typical charging scenario from 10% to 80% takes 19 minutes with an average charging speed at 156 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 0% to 67%. This results in an effective charging speed, including time lost, of 136 kW, with each charging session taking about 21 minutes and 2 seconds.. This efficient charging capability makes the Porsche Taycan 4S a convenient option for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 22 kWh/100 km, the trip would take approximately 9 hours and 26 minutes. This journey would require three charging stops from 0% to 70%, with a total charging time of 66 minutes.
+
 ### Performance Battery Plus
 
 The high-capacity battery has a gross capacity of 93,4 kWh and a net usable capacity of 83,7 kWh, providing an 9,7 kWh buffer (10.4%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
@@ -66,11 +67,9 @@ The charge port is conveniently located on the [right front side](../../../../te
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Porsche Taycan 4S features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -85,7 +84,6 @@ Dynamic steering is a standard feature on the Porsche Taycan 4S. Dynamic steerin
 ### Brakes
 
 You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm.
-
 
 ### Regenerative braking
 
@@ -127,9 +125,7 @@ There are three different roof options to select from. The standard is just a re
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -183,7 +179,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/frontseats_1_st.jpg" title="Porsche Taycan 4S" width="2048" height="1536"  >}}
 
-
 #### Second-row seats
 
 You can choose two seat types for the second row in the Porsche Taycan 4S.
@@ -218,7 +213,6 @@ The Porsche Taycan 4S includes several features to enhance comfort and convenien
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Porsche Taycan 4S has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console and one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the bottom of center console. For the passenger, there is an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen).
@@ -236,9 +230,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/screens_1_st.jpg" title="Porsche Taycan 4S" width="3000" height="1870"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -252,15 +244,16 @@ Furthermore, the Porsche Taycan 4S supports Android Auto and Apple CarPlay. This
 
 You can choose between three sound systems on the Porsche Taycan 4S. With the Porsche Sound system, you get ten speakers with a max system output of 150 watts. With the  BOSE® Surround Sound System, you get 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 speakers with a max system output of 1455 watts.
 
-
 ## Lights
 
 You can choose between two types of headlights for the Porsche Taycan 4S. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Porsche Taycan 4S has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -297,7 +290,6 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

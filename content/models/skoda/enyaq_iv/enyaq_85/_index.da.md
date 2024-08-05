@@ -26,7 +26,6 @@ Vi har opdelt vores SKODA ENYAQ 85 artikel i sektioner. Hvis du vil vente med at
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 SKODA ENYAQ 85 leverer en solid præstation med en maksimal effekt på 210 kW (286 hk) og et totalt drejningsmoment på 545 Nm. Den kan accelerere fra 0 til 100 km/t på 6,7 sekunder og når en topfart på 180 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 SKODA ENYAQ 85 har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en standard-funktion på SKODA ENYAQ 85. Dynamisk styring va
 ### Bremser
 
 SKODA ENYAQ 85 bruger [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremseevne og varmeafledning, mens [tromlebremser](../../../../technology/brakes/#tromle-brakes) anvendes bagtil for omkostningseffektivitet og holdbarhed. Tromlebremser yder tilstrækkelig ydeevne for baghjulene, kræver mindre vedligeholdelse og integreres problemfrit med køretøjets regenererende bremsesystem. Denne kombination sikrer optimal bremseydelse og omkostningseffektivitet, i tråd med EV'ens overordnede effektivitetsmål. De forreste skiver er 358mm.
-
 
 ### Regenerativ bremsning
 
@@ -99,9 +95,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -127,7 +121,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/frontseats_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="2107"  >}}
-
 
 #### Sæde på anden række
 
@@ -163,7 +156,6 @@ SKODA ENYAQ 85 inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 SKODA ENYAQ 85 har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
@@ -179,14 +171,22 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/screens_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="1999"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en valgfri navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter SKODA ENYAQ 85 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Én type lydsystem er tilgængelig for SKODA ENYAQ 85. Med Canton Soundsystem får du ti højttalere med en maksimal systemeffekt på 550 watt.
 
-Derudover får du med valgfrit navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter SKODA ENYAQ 85 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 4 USB-C-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
@@ -199,6 +199,7 @@ Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, 
 SKODA ENYAQ 85 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -230,7 +231,6 @@ Med MAX  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

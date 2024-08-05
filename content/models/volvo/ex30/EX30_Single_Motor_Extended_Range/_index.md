@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Volvo EX30 Single Motor Extended Range offers modest performance with a maximum power of 200 kW (272 hp / 268 bhp) and a total torque of 343 Nm (253 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.3 seconds and has a top speed of 180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Volvo EX30 Single Motor Extended Range has a rear-wheel drive system supported by one motor on the rear axle.
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350mm, and the rear discs are 333mm.
-
 
 ### Regenerative braking
 
@@ -93,7 +89,6 @@ There are two different roof options to select from. As an option, you can order
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 You can choose between different types of seat materials and interior styling. You can choose between several interior designs.
@@ -117,7 +112,6 @@ You can choose from 4 different materials/colors for this seat type.
 - Gray [wool upholstering](../../../../technology/seats/materials/#wool)
 - Brown [wool/leatherette upholstering](../../../../technology/seats/materials/#wool)
 - Blue [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
-
 
 
 #### Second-row seat
@@ -156,7 +150,6 @@ The Volvo EX30 Single Motor Extended Range includes several features to enhance 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Volvo EX30 Single Motor Extended Range has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
@@ -171,9 +164,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/screens_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2776"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -184,6 +175,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 You can choose between two sound systems on the Volvo EX30 Single Motor Extended Range. With the High Performance, you get eight speakers with a max system output of 200 watts. With the Harman Kardon Premium Sound, you get 13 speakers with a max system output of 1040 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the Volvo EX30 Single Motor Extended Range. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
@@ -196,6 +188,7 @@ You can choose between two types of headlights for the Volvo EX30 Single Motor E
 The Volvo EX30 Single Motor Extended Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -226,7 +219,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

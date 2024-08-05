@@ -26,7 +26,6 @@ Nous avons séparé notre article Chevrolet Blazer EV SS en sections. Si vous so
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Chevrolet Blazer EV SS impressionne avec une puissance maximale de 410 kW (557 ch) et un couple total impressionnant de 880 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4 secondes, et atteint une vitesse maximale de 190 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Chevrolet Blazer EV SS dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cet
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 321 mm et les disques arrière mesurent 345 mm.
-
 
 ### Freinage régénératif
 
@@ -90,13 +86,10 @@ Il existe deux options de toit différentes à choisir. Le toit standard a un gr
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 
-
 ### Sièges
-
 
 
 #### Sièges de première rangée
@@ -120,7 +113,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -152,7 +144,6 @@ L'Chevrolet Blazer EV SS comprend plusieurs fonctionnalités pour améliorer le 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Chevrolet Blazer EV SS possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -173,11 +164,20 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Chevrolet Blazer EV SS prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le Chevrolet Blazer EV SS. Avec le Lyric sound system, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Chevrolet Blazer EV SS prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 5 connexions USB-C en standard.
+
 ## Lumières
 
 
@@ -188,6 +188,7 @@ Le modèle dispose de 5 connexions USB-C en standard.
 ## Systèmes avancés d'aide à la conduite
 
 Le Chevrolet Blazer EV SS dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -212,7 +213,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

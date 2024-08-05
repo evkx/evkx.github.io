@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Citroën ë-C3 Aircross kWh provides basic performance with a maximum power of 83 kW (113 hp / 111 bhp) and a total torque of 120 Nm (89 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 11 seconds and reaches a top speed of 135 km/h (84 mph), which is more comparable to entry-level traditional internal combustion engine vehicles.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 7.4 kW for Level 1 and Level 2 AC charging. 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/charging_1_st.jpg" title="Citroën ë-C3 Aircross" width="2893" height="2170"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Citroën ë-C3 Aircross has a front-wheel drive system supported by one motor on the front axle.
-
 
 ### Suspension
 
@@ -73,7 +69,6 @@ Dynamic steering is a standard feature on the Citroën ë-C3 Aircross. Dynamic s
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -105,9 +100,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -137,7 +130,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/frontseats_1_st.jpg" title="Citroën ë-C3 Aircross" width="3000" height="2000"  >}}
-
 
 #### Second-row seats
 
@@ -182,7 +174,6 @@ The Citroën ë-C3 Aircross includes several features to enhance comfort and con
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Citroën ë-C3 Aircross has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -203,7 +194,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the an optional in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -217,12 +207,15 @@ Furthermore, the Citroën ë-C3 Aircross supports Android Auto and Apple CarPlay
 You can choose between two sound systems on the Citroën ë-C3 Aircross. With the , you get two speakers with a max system output of  watts. With the Max Sound system, you get two speakers with a max system output of  watts.
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Citroën ë-C3 Aircross has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -246,7 +239,6 @@ This model uses cameras, radar, and ultrasonic sensors for the driver assist sys
 Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), one [cameras](../../../../technology/sensorsandcameras/cameras/), and four [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

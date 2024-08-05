@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av BMW iX2 xDrive30 i seksjoner. Hvis du vil vente 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 BMW iX2 xDrive30 leverer solid ytelse med en maksimal effekt på 230 kW (313 hk) og et totalt dreiemoment på 494 Nm. Den kan akselerere fra 0 til 100 km/t på 5,6 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 BMW iX2 xDrive30 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
-
 
 ### Hjuloppheng
 
@@ -67,7 +64,6 @@ Adaptive M Suspension-fjæringen har stålfjærer med fast høyde, men du kan ju
 Dynamisk styring er standard-funksjonen på BMW iX2 xDrive30. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten.
 
 ### Bremser
-
 
 
 
@@ -102,9 +98,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -148,7 +142,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/frontseats_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2250"  >}}
 
-
 #### Seter på andre rad
 
 
@@ -184,7 +177,6 @@ BMW iX2 xDrive30 inkluderer flere funksjoner for å forbedre komfort og bekvemme
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 BMW iX2 xDrive30 har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
@@ -200,14 +192,22 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/screens_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2250"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter BMW iX2 xDrive30 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan velge mellom to lydsystemer på BMW iX2 xDrive30. Med Harman Kardon Surround Sound system får du 16 høyttalere med en maksimal systemeffekt på 464 watt. Med Harman Kardon Surround Sound system får du 16 høyttalere med en maksimal systemeffekt på 464 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter BMW iX2 xDrive30 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for BMW iX2 xDrive30. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
@@ -218,6 +218,7 @@ Du kan velge mellom to typer frontlykter for BMW iX2 xDrive30. Standardlyktene b
 ## Avanserte førerassistentsystemer
 
 BMW iX2 xDrive30 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -247,7 +248,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du følgende kjøreaut
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

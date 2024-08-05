@@ -26,7 +26,6 @@ Vi har opdelt vores Porsche Taycan Turbo (GEN1) artikel i sektioner. Hvis du vil
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 
@@ -54,11 +53,9 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Porsche Taycan Turbo (GEN1) har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -73,7 +70,6 @@ Dynamisk styring er en standard-funktion på Porsche Taycan Turbo (GEN1). Dynami
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 410mm, og de bagerste skiver er 365mm.
-
 
 ### Regenerativ bremsning
 
@@ -106,9 +102,7 @@ Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et al
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -158,7 +152,6 @@ Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 
-
 #### Sæder på anden række
 
 Du kan vælge to sædetyper til anden række i Porsche Taycan Turbo (GEN1).
@@ -193,7 +186,6 @@ Porsche Taycan Turbo (GEN1) inkluderer flere funktioner, der forbedrer komfort o
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Porsche Taycan Turbo (GEN1) har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , er der én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen og én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) i bunden af midterkonsollen. Til passageren er der en valgfri [infotainment-skærm](../../../../technology/userinterface/screens/#front-passager-screen).
@@ -211,22 +203,30 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gen1/screens_1_st.jpg" title="Porsche Taycan Turbo (GEN1)" width="3000" height="2000"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Porsche Taycan Turbo (GEN1) Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan vælge mellem tre lydsystemer på Porsche Taycan Turbo (GEN1). Med Porsche Sound system får du ti højttalere med en maksimal systemeffekt på 150 watt. Med  BOSE® Surround Sound System får du 14 højttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 højttalere med en maksimal systemeffekt på 1455 watt.
-
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Porsche Taycan Turbo (GEN1) Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 
 ## Lys
 
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 Porsche Taycan Turbo (GEN1) har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -263,7 +263,6 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

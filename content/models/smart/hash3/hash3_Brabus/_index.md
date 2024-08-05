@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Smart #3 Brabus delivers a solid performance with a maximum power of 315 kW (428 hp / 422 bhp) and a total torque of 543 Nm (401 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.7 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/charging_1_st.jpg" title="Smart #3 Brabus" width="3000" height="1687"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Smart #3 Brabus features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
@@ -69,7 +65,6 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350mm, and the rear discs are 333mm.
-
 
 ### Regenerative braking
 
@@ -94,9 +89,7 @@ There are two different roof options to select from. The standard is just a regu
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -120,7 +113,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/frontseats_1_st.jpg" title="Smart #3 Brabus" width="1536" height="864"  >}}
-
 
 #### Second-row seat
 
@@ -154,7 +146,6 @@ The Smart #3 Brabus includes several features to enhance comfort and convenience
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 
@@ -169,9 +160,7 @@ A head-up display is a standard system that projects speed and other important d
 
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/screens_1_st.jpg" title="Smart #3 Brabus" width="3000" height="2000"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -182,6 +171,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Smart #3 Brabus. With the Yamaha surround sound system, you get 13 speakers with a max system output of 1040 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the Smart #3 Brabus. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
@@ -194,6 +184,7 @@ You can choose between two types of headlights for the Smart #3 Brabus. The stan
 The Smart #3 Brabus has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -226,12 +217,12 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 370 liters. With the rear seat down, it is 1160 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 15 liters (0.5 CU FT). The maxium weight of the car is 2360 kg (5203 lbs), and with the base weight of 1910 kg (4211 lbs), you can max load 450 kg (992 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
+
 ### Availability & Pricing
 
 This model had a world premiere on 03.09.2023, and deliveries is expected to start in November 2023.<div class="mt-3 mb-3">

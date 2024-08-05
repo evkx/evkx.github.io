@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Tesla Cybertruck Cyberbeast i seksjoner. Hvis du
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Tesla Cybertruck Cyberbeast leverer en imponerende maksimal effekt på 630 KW (857 hk) og et massivt dreiemoment på 930 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 2,7 sekunder, noe som viser dens fantastiske akselerasjon. I tillegg oppnår den en topphastighet på 209 km/t, noe som gjør den til et virkelig underverk innen ingeniørkunst og ytelse.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/charging_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2250"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/charging/connectors/#rear-corner). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**NACS**](../../../../technology/charging/connectors/#nacs) for Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se fullstendige spesifikasjoner for alle markeder.
@@ -56,11 +54,9 @@ Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Tesla Cybertruck Cyberbeast har et firehjulsdriftssystem støttet av tre motorer. En på forakselen og to på bakakselen. Motorene som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på forakselen og [induksjonsmotorer](../../../../technology/motors/asm/) på bakakselen.
-
 
 ### Hjuloppheng
 
@@ -73,7 +69,6 @@ Dynamisk styring er standard-funksjonen på Tesla Cybertruck Cyberbeast. Dynamis
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 355mm, og de bakre skivene er 355mm.
-
 
 ### Regenerativ bremsing
 
@@ -102,9 +97,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -129,7 +122,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/frontseats_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
-
 
 #### Seter på andre rad
 
@@ -164,7 +156,6 @@ Tesla Cybertruck Cyberbeast inkluderer flere funksjoner for å forbedre komfort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Tesla Cybertruck Cyberbeast har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment.
@@ -179,13 +170,15 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/screens_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
 
-
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Tesla Cybertruck Cyberbeast. Med Tesla Premium Sound får du 17 høyttalere med en maksimal systemeffekt på 560 watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### header.soundsystem
+
+Én type lydsystem er tilgjengelig for Tesla Cybertruck Cyberbeast. Med Tesla Premium Sound får du 17 høyttalere med en maksimal systemeffekt på 560 watt.
 
 ## Lys
 
@@ -197,6 +190,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 ## Avanserte førerassistentsystemer
 
 Tesla Cybertruck Cyberbeast har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -238,7 +232,6 @@ Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatis
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

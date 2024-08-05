@@ -32,7 +32,6 @@ Ce modèle a été remplacé par [Volkswagen ID.4 Pro 4MOTION](/models/volkswage
 
 </div>
 
-
 ## Performances
 
 L'Volkswagen ID.4 Pro 4MOTION (GEN1) offre des performances modestes avec une puissance maximale de 195 kW (265 ch) et un couple total de 425 Nm. Il accélère de 0 à 100 km/h en 6,9 secondes et atteint une vitesse maximale de 180 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -58,11 +57,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Volkswagen ID.4 Pro 4MOTION (GEN1) dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
-
 
 ### Suspension
 
@@ -77,7 +74,6 @@ La direction dynamique est une fonctionnalité un facultatif sur le Volkswagen I
 ### Freins
 
 La Volkswagen ID.4 Pro 4MOTION (GEN1) utilise des [freins à disques](../../../../technology/brakes/#disc-brakes) à l'avant pour une puissance de freinage supérieure et une dissipation thermique, tandis que des [freins à tambour](../../../../technology/brakes/#drum-brakes). sont utilisés à l'arrière pour leur rentabilité et leur durabilité. Les freins à tambour offrent des performances adéquates pour les roues arrière, nécessitent moins d'entretien et s'intègrent parfaitement au système de freinage régénératif du véhicule. Cette combinaison assure des performances de freinage optimales et une rentabilité, en accord avec les objectifs d'efficacité globaux de l'EV. Les disques avant mesurent 358 mm.
-
 
 ### Freinage régénératif
 
@@ -108,9 +104,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -151,7 +145,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/frontseats_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
-
 #### Siège de deuxième rangée
 
 
@@ -187,7 +180,6 @@ L'Volkswagen ID.4 Pro 4MOTION (GEN1) comprend plusieurs fonctionnalités pour am
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Deux configurations d'écran différentes sont disponibles sur le Volkswagen ID.4 Pro 4MOTION (GEN1).
@@ -214,14 +206,22 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/screens_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Volkswagen ID.4 Pro 4MOTION (GEN1) prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Vous pouvez choisir entre deux systèmes audio sur le Volkswagen ID.4 Pro 4MOTION (GEN1). Avec le Sound system, vous obtenez six haut-parleurs avec une puissance système maximale de 140 watts. Avec le Volkswagen Soundsystem, vous obtenez six haut-parleurs avec une puissance système maximale de 450 watts.
 
-De plus, avec le système de navigation embarqué facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Volkswagen ID.4 Pro 4MOTION (GEN1) prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 4 connexions USB-C en standard.
+
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le Volkswagen ID.4 Pro 4MOTION (GEN1). Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
@@ -234,6 +234,7 @@ Vous pouvez choisir entre deux types de phares pour le Volkswagen ID.4 Pro 4MOTI
 Le Volkswagen ID.4 Pro 4MOTION (GEN1) dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -268,7 +269,6 @@ Avec le système Assistantpackage plus  niveau 2, vous bénéficiez de fonctionn
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

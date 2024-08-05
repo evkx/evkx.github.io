@@ -26,7 +26,6 @@ Nous avons séparé notre article GMC Hummer EV Edition 1 Pickup en sections. Si
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La GMC Hummer EV Edition 1 Pickup délivre une puissance maximale impressionnante de 746 kW (1014 ch) et un couple massif de 1150 Nm. Ce bolide peut passer de 0 à 100 km/h en seulement 3,5 secondes, démontrant ainsi son accélération étonnante. De plus, il atteint une vitesse maximale de 170 km/h, faisant de lui un véritable chef-d'œuvre d'ingénierie et de performance.
@@ -52,18 +51,15 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 GMC Hummer EV Edition 1 Pickup dispose d'un système de transmission intégrale pris en charge par trois moteurs. Un sur l'essieu avant et deux sur l'essieu arrière. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
 La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 257 mm et la garde au sol maximale est de 406 mm. De plus, la direction des roues arrière est disponible en tant que fonctionnalité un standard. La direction des roues arrière réduit le rayon de braquage lorsque vous roulez lentement.
 
 ### Freins
-
 
 
 
@@ -91,9 +87,7 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comporte 4 panneaux d
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -115,7 +109,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Siège de deuxième rangée
@@ -151,7 +144,6 @@ L'GMC Hummer EV Edition 1 Pickup comprend plusieurs fonctionnalités pour améli
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le GMC Hummer EV Edition 1 Pickup possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -167,20 +159,28 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2001"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le GMC Hummer EV Edition 1 Pickup prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Un type de système audio est disponible pour le GMC Hummer EV Edition 1 Pickup. Avec le Bose Premium Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de 625 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le GMC Hummer EV Edition 1 Pickup prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
-## Lumières
 
+## Lumières
 
 ## Systèmes avancés d'aide à la conduite
 
 Le GMC Hummer EV Edition 1 Pickup dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -204,12 +204,12 @@ Avec le système Super Cruise  niveau 2, vous bénéficiez des fonctionnalités 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement dans la caisse du camion est de 1039 litres. La largeur de la caisse est de 1272 mm et la longueur est de 1524 mm. Le poids de charge maximal dans la caisse est de 614 kg. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 320 litres (11,3 CU FT). Le poids maximum de la voiture est de 4717 kg (10399 lbs), et avec le poids de base de 4103 kg (9046 lbs), vous pouvez charger au maximum 614 kg (1354 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 3402, et sur une remorque non freinée, il est de 750 kg (7500/1653 lbs).
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 20.10.2020 et les livraisons ont commencé en December 2021. Ce modèle est uniquement disponible en Amérique du Nord.<div class="mt-3 mb-3">

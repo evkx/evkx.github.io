@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Mercedes-EQ EQA 250 i avsnitt. Om du vill v�
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Mercedes-EQ EQA 250 erbjuder blygsamma prestanda med en maximal effekt på 168 kW (228 hk) och ett totalt vridmoment på 390 Nm. Den accelererar från 0 till 100 km/h på 7,7 sekunder och har en topphastighet på 160 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
@@ -52,14 +51,11 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Mercedes-EQ EQA 250 har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [induktionsmotor](../../../../technology/motors/asm/).
 
-
 ### Hjulupphängning
-
 
 
 ### Styrning
@@ -69,7 +65,6 @@ Dynamisk styrning är standard-funktionen för Mercedes-EQ EQA 250. Dynamisk sty
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bromsning
 
@@ -97,9 +92,7 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -146,7 +139,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250/frontseats_1_st.jpg" title="Mercedes-EQ EQA 250" width="3000" height="2000"  >}}
 
-
 #### Säten på andra raden
 
 
@@ -164,7 +156,6 @@ Två klimatsystemalternativ är tillgängliga:
 - **1-zons klimatsystem:** Stöder endast kontroll av en delad zon för hela bilen.
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 
-
 ## Komfortfunktioner
 
 Mercedes-EQ EQA 250 inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -175,7 +166,6 @@ Mercedes-EQ EQA 250 inkluderar flera funktioner för att förbättra komfort och
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Användargränssnitt och kontroll
@@ -200,17 +190,28 @@ Denna modell har också ett valfritt gestkontrollsystem som låter dig styra spe
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Mercedes-EQ EQA 250 Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan välja mellan två ljudsystem på Mercedes-EQ EQA 250. Med Standard får du sju högtalare med en maximal systemeffekt på 100 watt. Med Advanced Soundsystem får du nio högtalare med en maximal systemeffekt på 225 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Mercedes-EQ EQA 250 Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 4 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 Mercedes-EQ EQA 250 har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -244,12 +245,12 @@ Med Driver Assistance Package  nivå 1-systemet får du följande körautomation
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastkapaciteten i bagageutrymmet är 340 liter. Med baksätet nedfällt är det 1320 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 2535 kg, och med basvikten på 2030 kg kan du lasta maximalt 505 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1800, och på en obromsad är den 750 kg.
+
 ### Tillgänglighet och pris
 
 <div class="mt-3 mb-3">

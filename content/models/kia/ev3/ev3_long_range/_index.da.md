@@ -26,7 +26,6 @@ Vi har opdelt vores Kia EV3 Long Range artikel i sektioner. Hvis du vil vente me
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Kia EV3 Long Range tilbyder beskedne præstationer med en maksimal effekt på 150 kW (204 hk) og et samlet drejningsmoment på 283 Nm. Den accelererer fra 0 til 100 km/t på 7,5 sekunder og har en topfart på 170 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -52,18 +51,15 @@ Placeringen af ladeporten er på [forsiden](../../../../technology/charging/conn
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Kia EV3 Long Range har et forhjulstræksystem understøttet af en motor på forakslen.
-
 
 ### Hjulophæng
 
 -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 160 mm.
 
 ### Bremser
-
 
 
 
@@ -97,13 +93,11 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
-
 
 
 #### Første række sæder
@@ -126,7 +120,6 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 - Gray [læderpolstring](../../../../technology/seats/materials/#leather)
 - Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 - Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
-
 
 
 #### Sæde på anden række
@@ -158,7 +151,6 @@ Kia EV3 Long Range inkluderer flere funktioner, der forbedrer komfort og bekvemm
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Kia EV3 Long Range har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
@@ -174,20 +166,30 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/kia/ev3/ev3_long_range/screens_1_st.jpg" title="Kia EV3 Long Range" width="2903" height="1633"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Kia EV3 Long Range Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Kia EV3 Long Range. Med Standard får du seks højttalere med en maksimal systemeffekt på  watt. Med Meridian Premium Sound System får du 14 højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Kia EV3 Long Range Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 Kia EV3 Long Range har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -218,7 +220,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

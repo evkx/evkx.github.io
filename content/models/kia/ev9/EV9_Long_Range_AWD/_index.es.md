@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Kia EV9 Long Range AWD en secciones. Si desea e
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Kia EV9 Long Range AWD ofrece un rendimiento sólido con una potencia máxima de 283 kW (385 hp) y un par total de 600 Nm. Puede acelerar de 0 a 100 km/h en 6 segundos y alcanza una velocidad máxima de 200 km/h, lo que lo hace competitivo en su clase.
@@ -52,18 +51,14 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Kia EV9 Long Range AWD tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
 
-
 ### Suspensión
 
 
-
 ### Frenos
-
 
 
 
@@ -98,13 +93,11 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos
-
 
 
 #### Asientos de primera fila
@@ -133,7 +126,6 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/frontseats_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
-
 #### Asientos de la segunda fila
 
 Puedes elegir tres tipos de asientos para la segunda fila en el Kia EV9 Long Range AWD.
@@ -156,7 +148,6 @@ La opción third son dos sillas estilo capitán. Además, las siguientes funcion
 
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
-
 
 #### Asientos de tercera fila
 
@@ -192,7 +183,6 @@ El Kia EV9 Long Range AWD incluye varias características para mejorar la comodi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Kia EV9 Long Range AWD tiene tres pantallas en un marco compartido montado con soportes en el tablero.
@@ -208,14 +198,22 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/screens_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Kia EV9 Long Range AWD es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
 
 Puedes elegir entre dos sistemas de sonido en el Kia EV9 Long Range AWD. Con el Standard, obtienes seis parlantes con una salida máxima del sistema de  vatios. Con el Meridian Premium Sound System, obtienes 14 parlantes con una salida máxima del sistema de  vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Kia EV9 Long Range AWD es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 6 conexiones USB-C de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
@@ -226,6 +224,7 @@ Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema ad
 ## Sistemas avanzados de asistencia al conductor
 
 El Kia EV9 Long Range AWD tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -256,7 +255,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

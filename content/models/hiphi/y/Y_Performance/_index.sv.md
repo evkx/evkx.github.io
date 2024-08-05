@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av HiPhi Y Performance i avsnitt. Om du vill v�
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 HiPhi Y Performance levererar en solid prestanda med en maximal effekt på 371 kW (504 hk) och ett totalt vridmoment på 620 Nm. Den kan accelerera från 0 till 100 km/h på 4,7 sekunder och når en topphastighet på 200 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 HiPhi Y Performance har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -70,9 +67,7 @@ Dynamisk styrning är standard-funktionen för HiPhi Y Performance. Dynamisk sty
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
 
-
 ### Regenerativ bromsning
-
 
 
 ## Exteriör
@@ -96,9 +91,7 @@ B-stolpen och vyerna bak är tonade.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -125,7 +118,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Säten på andra raden
@@ -162,7 +154,6 @@ HiPhi Y Performance inkluderar flera funktioner för att förbättra komfort och
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 HiPhi Y Performance har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet.
@@ -184,11 +175,16 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
-Du kan välja mellan två ljudsystem på HiPhi Y Performance. Med SONIC LINE SYSTEM får du 14 högtalare med en maximal systemeffekt på 600 watt. Med SONIC PRO SYSTEM får du 25 högtalare med en maximal systemeffekt på 2820 watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### header.soundsystem
+
+Du kan välja mellan två ljudsystem på HiPhi Y Performance. Med SONIC LINE SYSTEM får du 14 högtalare med en maximal systemeffekt på 600 watt. Med SONIC PRO SYSTEM får du 25 högtalare med en maximal systemeffekt på 2820 watt.
+
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
@@ -199,6 +195,7 @@ Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-
 ## Avancerade förarassistanssystem
 
 HiPhi Y Performance har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -232,12 +229,12 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastkapaciteten i bagageutrymmet är 692 liter. Med baksätet nedfällt är det 1848 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 85 liter.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+
 ### Tillgänglighet och pris
 
 Denna modell hade världspremiär 18.04.2023 och leveranser förväntas starta om March 2024.<div class="mt-3 mb-3">

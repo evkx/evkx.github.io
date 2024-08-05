@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Volvo EM90 i seksjoner. Hvis du vil vente med å
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Volvo EM90 tilbyr beskjedne ytelser med en maksimal effekt på 200 kW (272 hk) og et totalt dreiemoment på 686 Nm. Den akselererer fra 0 til 100 km/t på 8,3 sekunder og har en toppfart på 190 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Volvo EM90 har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -65,7 +62,6 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 533mm, og de bakre skivene er 457mm.
-
 
 ### Regenerativ bremsing
 
@@ -93,7 +89,6 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiør
@@ -128,7 +123,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/frontseats_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
-
 #### Seter på andre rad
 
 
@@ -142,7 +136,6 @@ For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende 
 
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/secondrowseats_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
-
 
 #### Seter på tredje rad
 
@@ -174,7 +167,6 @@ Volvo EM90 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Volvo EM90 har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
@@ -195,11 +187,20 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Volvo EM90 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Én type lydsystem er tilgjengelig for Volvo EM90. Med Bowers & Wilkins Sound System får du 21 høyttalere med en maksimal systemeffekt på 500 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Volvo EM90 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
@@ -212,6 +213,7 @@ Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-te
 Volvo EM90 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -238,12 +240,12 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 376 liter. Med setet på tredje rad nede er det 2979 liter. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 32 liter. Maksimumsvekten til bilen er 3400 kg, og med basisvekten på 2763 kg kan du maksimalt laste 637 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 12.11.2023, og leveringene forventes å starte om March 2025. Denne modellen er kun tilgjengelig i Kina.<div class="mt-3 mb-3">

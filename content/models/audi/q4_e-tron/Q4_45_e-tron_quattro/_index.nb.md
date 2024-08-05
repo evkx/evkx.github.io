@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Audi Q4 45 e-tron quattro i seksjoner. Hvis du v
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Audi Q4 45 e-tron quattro leverer solid ytelse med en maksimal effekt på 210 kW (286 hk) og et totalt dreiemoment på 679 Nm. Den kan akselerere fra 0 til 100 km/t på 6,9 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -56,11 +55,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Audi Q4 45 e-tron quattro har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
-
 
 ### Hjuloppheng
 
@@ -75,7 +72,6 @@ Dynamisk styring er tilvalg-funksjonen på Audi Q4 45 e-tron quattro. Dynamisk s
 ### Bremser
 
 Audi Q4 45 e-tron quattro bruker [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremsekraft og varmespredning, mens [trommelbremser](../../../../technology/brakes/#trommelbremser) brukes bak for kostnadseffektivitet og holdbarhet. Trommelbremser gir tilstrekkelig ytelse for bakhjulene, krever mindre vedlikehold og integreres sømløst med kjøretøyets regenererende bremsesystem. Denne kombinasjonen sikrer optimal bremseytelse og kostnadseffektivitet, i tråd med EV-ens overordnede effektivitetsmål. De fremre skivene er 358mm.
-
 
 ### Regenerativ bremsing
 
@@ -110,9 +106,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -148,7 +142,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="1998"  >}}
-
 
 #### Seter på andre rad
 
@@ -189,7 +182,6 @@ Audi Q4 45 e-tron quattro inkluderer flere funksjoner for å forbedre komfort og
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Audi Q4 45 e-tron quattro har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
@@ -205,14 +197,22 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/screens_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="1686"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Audi Q4 45 e-tron quattro Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan velge mellom to lydsystemer på Audi Q4 45 e-tron quattro. Med Audi Sound system får du åtte høyttalere med en maksimal systemeffekt på 180 watt. Med Sonos Sound System får du ti høyttalere med en maksimal systemeffekt på 580 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Audi Q4 45 e-tron quattro Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Audi Q4 45 e-tron quattro. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg kan du velge mellom to typer baklys.
@@ -225,6 +225,7 @@ Du kan velge mellom to typer frontlykter for Audi Q4 45 e-tron quattro. Standard
 Audi Q4 45 e-tron quattro har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -263,7 +264,6 @@ Med Assistantpackage Tour  nivå 2-systemet får du flere kjøreautomatiseringsf
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

@@ -32,7 +32,6 @@ Denna modell har ersatts av [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-tron/
 
 </div>
 
-
 ## Prestanda
 
 Med overboost når Audi e-tron S en maximal effekt på 370 kW (503 hk). Utan overboost levererar den 320 kW (435 hk). Det maximala vridmomentet är 973 Nm. Den kan accelerera från 0 till 100 km/h på 4,5 sekunder och når en topphastighet på 200 km/h, vilket demonstrerar dess solida prestanda.
@@ -58,11 +57,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Audi e-tron S har ett fyrhjulsdriftssystem som stöds av tre motorer. En på framaxeln och två på bakaxeln. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/).
-
 
 ### Hjulupphängning
 
@@ -86,11 +83,9 @@ Audi e-tron S låter användaren välja olika [drivemodes](../../../../technolog
 - Auto: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning.
 - Custom: Anpassad styrning, fjädring och gasrespons.
 
-
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 375mm och de bakre skivorna är 350mm.
-
 
 ### Regenerativ bromsning
 
@@ -122,9 +117,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -183,7 +176,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/frontseats_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
-
 #### Säten på andra raden
 
 
@@ -222,7 +214,6 @@ Audi e-tron S inkluderar flera funktioner för att förbättra komfort och bekv�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Audi e-tron S har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm).
@@ -238,11 +229,20 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Audi e-tron S Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan välja mellan två ljudsystem på Audi e-tron S. Med Audi Sound system får du tio högtalare med en maximal systemeffekt på 180 watt. Med Bang & Olufsen Sound System får du 16 högtalare med en maximal systemeffekt på 700 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Audi e-tron S Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
+
 ## Ljus
 
 Du kan välja mellan tre typer av strålkastare för Audi e-tron S. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför. Strålkastare baserade på LED Digital Matrix-teknik finns som tillval. Dessutom använder standardbakljusen LED-teknik.
@@ -255,6 +255,7 @@ Du kan välja mellan tre typer av strålkastare för Audi e-tron S. Standardlamp
 Audi e-tron S har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -296,7 +297,6 @@ Denna modell använder kameror, radar och ultraljudssensorer för förarassistan
 Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerar allt som händer i fordonets miljö.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

@@ -26,7 +26,6 @@ Hemos separado nuestro artículo BYD Dolphin 60.4kWh en secciones. Si desea espe
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El BYD Dolphin 60.4kWh ofrece un rendimiento modesto con una potencia máxima de 150 kW (204 hp) y un par total de 310 Nm. Acelera de 0 a 100 km/h en 7 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado frontal derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 BYD Dolphin 60.4kWh tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motor utilizados son [Motores de inducción](../../../../technology/motors/asm/).
-
 
 ### Suspensión
 
@@ -69,7 +66,6 @@ La dirección dinámica es una característica un estándar en el BYD Dolphin 60
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
-
 
 ### Frenado regenerativo
 
@@ -98,9 +94,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -129,7 +123,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/frontseats_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1579"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -166,7 +159,6 @@ El BYD Dolphin 60.4kWh incluye varias características para mejorar la comodidad
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 Hay dos configuraciones de pantalla diferentes disponibles en BYD Dolphin 60.4kWh.
@@ -193,14 +185,18 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/screens_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1550"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.soundsystem
 
 Un tipo de sistema de sonido está disponible para el BYD Dolphin 60.4kWh. Con el Dirac, obtienes ocho parlantes con una salida máxima del sistema de  vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
-
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
@@ -211,6 +207,7 @@ Los faros estándar utilizan tecnología LED. Además, las luces traseras están
 ## Sistemas avanzados de asistencia al conductor
 
 El BYD Dolphin 60.4kWh tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -242,7 +239,6 @@ Con el sistema   nivel 1, obtienes las siguientes funciones de automatización d
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

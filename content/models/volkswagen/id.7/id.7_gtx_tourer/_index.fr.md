@@ -26,7 +26,6 @@ Nous avons séparé notre article Volkswagen ID.7 GTX Tourer en sections. Si vou
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Volkswagen ID.7 GTX Tourer offre des performances solides avec une puissance maximale de 250 kW (340 ch) et un couple total de 679 Nm. Elle peut accélérer de 0 à 100 km/h en 5,4 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Volkswagen ID.7 GTX Tourer dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ La direction dynamique est une fonctionnalité un facultatif sur le Volkswagen I
 ### Freins
 
 La Volkswagen ID.7 GTX Tourer utilise des [freins à disques](../../../../technology/brakes/#disc-brakes) à l'avant pour une puissance de freinage supérieure et une dissipation thermique, tandis que des [freins à tambour](../../../../technology/brakes/#drum-brakes). sont utilisés à l'arrière pour leur rentabilité et leur durabilité. Les freins à tambour offrent des performances adéquates pour les roues arrière, nécessitent moins d'entretien et s'intègrent parfaitement au système de freinage régénératif du véhicule. Cette combinaison assure des performances de freinage optimales et une rentabilité, en accord avec les objectifs d'efficacité globaux de l'EV. Les disques avant mesurent 358 mm.
-
 
 ### Freinage régénératif
 
@@ -100,9 +96,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -143,7 +137,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/frontseats_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
-
 #### Siège de deuxième rangée
 
 
@@ -175,7 +168,6 @@ L'Volkswagen ID.7 GTX Tourer comprend plusieurs fonctionnalités pour améliorer
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Volkswagen ID.7 GTX Tourer dispose de deux écrans avec des informations pour le conducteur et les passagers. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) monté sur la colonne du volant , et au-dessus du tableau de bord se trouve un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -191,14 +183,22 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/screens_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Volkswagen ID.7 GTX Tourer prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Vous pouvez choisir entre deux systèmes audio sur le Volkswagen ID.7 GTX Tourer. Avec le Sound system, vous obtenez six haut-parleurs avec une puissance système maximale de 140 watts. Avec le Volkswagen Soundsystem, vous obtenez six haut-parleurs avec une puissance système maximale de 450 watts.
 
-De plus, avec le système de navigation embarqué facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Volkswagen ID.7 GTX Tourer prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 4 connexions USB-C en standard.
+
 ## Lumières
 
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
@@ -211,6 +211,7 @@ Les phares standard utilisent la technologie LED Matrix. LED Matrix est un syst�
 Le Volkswagen ID.7 GTX Tourer dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -245,7 +246,6 @@ Avec le système Assistantpackage plus  niveau 2, vous bénéficiez de fonctionn
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

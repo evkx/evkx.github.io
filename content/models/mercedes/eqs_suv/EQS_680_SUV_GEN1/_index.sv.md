@@ -32,7 +32,6 @@ Denna modell har ersatts av [Mercedes EQS 680 SUV](/models/mercedes/eqs_suv/eqs_
 
 </div>
 
-
 ## Prestanda
 
 Mercedes-Maybach EQS 680 SUV imponerar med en imponerande kraft på 484 kW (658 hk) och ett imponerande totalt vridmoment på 950 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 4,4 sekunder och når en topphastighet på 210 km/h, vilket gör den till en stjärna i sin klass.
@@ -58,11 +57,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Mercedes-Maybach EQS 680 SUV har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -75,7 +72,6 @@ Dynamisk styrning är standard-funktionen för Mercedes-Maybach EQS 680 SUV. Dyn
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 415mm och de bakre skivorna är 378mm.
-
 
 ### Regenerativ bromsning
 
@@ -107,9 +103,7 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -140,7 +134,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2001"  >}}
-
 
 #### Säten på andra raden
 
@@ -187,7 +180,6 @@ Mercedes-Maybach EQS 680 SUV inkluderar flera funktioner för att förbättra ko
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Mercedes-Maybach EQS 680 SUV har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet.
@@ -211,11 +203,20 @@ Denna modell har också ett valfritt gestkontrollsystem som låter dig styra spe
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Mercedes-Maybach EQS 680 SUV Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan välja mellan två ljudsystem på Mercedes-Maybach EQS 680 SUV. Med Advanced Soundsystem får du nio högtalare med en maximal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 högtalare med en maximal systemeffekt på 590 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Mercedes-Maybach EQS 680 SUV Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 4 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
+
 ## Ljus
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Dessutom använder standardbakljusen LED-teknik.
@@ -226,6 +227,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 ## Avancerade förarassistanssystem
 
 Mercedes-Maybach EQS 680 SUV har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -266,12 +268,12 @@ Med DRIVE PILOT  nivå 3-systemet får du fler körautomationsfunktioner än de 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastutrymmets kapacitet är 440 liter. På taket kan du lasta upp till 100 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 3375 kg, och med basvikten på 2735 kg kan du lasta maximalt 640 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1800, och på en obromsad är den 750 kg.
+
 ### Tillgänglighet och pris
 
 <div class="mt-3 mb-3">

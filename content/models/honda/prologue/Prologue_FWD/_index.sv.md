@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Honda Prologue FWD i avsnitt. Om du vill vä
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Honda Prologue FWD erbjuder blygsamma prestanda med en maximal effekt på 158 kW (215 hk) och ett totalt vridmoment på 320 Nm. Den accelererar från 0 till 100 km/h på 7,5 sekunder och har en topphastighet på 182 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
@@ -48,7 +47,6 @@ Den standard ombordladdaren stöder upp till 11,5 kW för nivå 1 och nivå 2 AC
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/charging_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
 
-
 ### Laddningsport
 
 Platsen för laddningsporten är på [vänster front](../../../../technology/charging/connectors/#front-side). Detta placering gör det enkelt att ladda stationer där du parkerar sidan i laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
@@ -56,11 +54,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Honda Prologue FWD har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -69,7 +65,6 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 396mm och de bakre skivorna är 343mm.
-
 
 ### Regenerativ bromsning
 
@@ -96,13 +91,11 @@ Det finns två olika takalternativ att välja mellan. Standardtaket har ett stor
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
 
 Du kan välja mellan flera inredningsdesigner.
 
 ### Säten
-
 
 
 #### Framsäten
@@ -122,7 +115,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Brown [läderklädsel](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Säten på andra raden
@@ -158,7 +150,6 @@ Honda Prologue FWD inkluderar flera funktioner för att förbättra komfort och 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Honda Prologue FWD har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
@@ -179,17 +170,26 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Honda Prologue FWD Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 En typ av ljudsystem är tillgänglig för Honda Prologue FWD. Med Bose premium audio system får du 12 högtalare med en maximal systemeffekt på  watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Honda Prologue FWD Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 5 USB-C-anslutningar som standard.
-## Ljus
 
+## Ljus
 
 ## Avancerade förarassistanssystem
 
 Honda Prologue FWD har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -219,7 +219,6 @@ Med   nivå 1-systemet får du följande körautomationsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

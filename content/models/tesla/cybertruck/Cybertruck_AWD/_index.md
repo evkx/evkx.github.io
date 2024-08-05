@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Tesla Cybertruck AWD packs an impressive punch with a maximum power of 448 kW (609 hp / 601 bhp) and a commanding total torque of 671 Nm (495 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.1 seconds, and it reaches a top speed of 180 km/h (112 mph), making it a standout in its class.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/charging_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
 
-
 ### Charge port
 
 The charge port is conveniently located at the [left rear corner](../../../../technology/charging/connectors/#rear-corner) of the vehicle, facilitating easy access when backing into charging stations. The connector types vary between the different markets. This model uses [**NACS**](../../../../technology/charging/connectors/#nacs) for North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europe. For complete specifications for all markets, refer to the full specifications.
@@ -64,11 +62,9 @@ This model supports V2L (Vehicle 2 Load), which means you can power electrical e
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Tesla Cybertruck AWD features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
-
 
 ### Suspension
 
@@ -87,11 +83,9 @@ The Tesla Cybertruck AWD lets the user select different [drive modes](../../../.
 - Custom: Custom-defined steering, suspension, and throttle response.
 - Off-Road: Balanced steering, max suspension height with balanced throttle and damping.
 
-
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 355mm.
-
 
 ### Regenerative braking
 
@@ -120,9 +114,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -147,7 +139,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/frontseats_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
-
 
 #### Second-row seat
 
@@ -182,7 +173,6 @@ The Tesla Cybertruck AWD includes several features to enhance comfort and conven
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Tesla Cybertruck AWD has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
@@ -197,9 +187,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/screens_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -210,6 +198,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Tesla Cybertruck AWD. With the Tesla Premium Sound, you get 17 speakers with a max system output of 560 watts.
 
 The model has 3 USB-C connections as standard.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
@@ -220,6 +209,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Advanced driver assistance systems
 
 The Tesla Cybertruck AWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -261,7 +251,6 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

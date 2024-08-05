@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The BMW iX xDrive50 delivers a solid performance with a maximum power of 385 kW (524 hp / 516 bhp) and a total torque of 765 Nm (565 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.6 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 BMW iX xDrive50 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
-
 
 ### Suspension
 
@@ -67,7 +64,6 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 Dynamic steering is a standard feature on the BMW iX xDrive50. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
-
 
 
 
@@ -96,9 +92,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -126,7 +120,6 @@ You can choose from 7 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/frontseat_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1999"  >}}
 
-
 #### Second-row seat
 
 
@@ -148,7 +141,6 @@ Two climate system options are available:
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
-
 ## Comfort features
 
 The BMW iX xDrive50 includes several features to enhance comfort and convenience:
@@ -160,7 +152,6 @@ The BMW iX xDrive50 includes several features to enhance comfort and convenience
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -178,9 +169,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/screens_1_st.jpg" title="BMW iX xDrive50" width="3000" height="2250"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -195,12 +184,15 @@ Furthermore, the BMW iX xDrive50 supports Android Auto and Apple CarPlay. This f
 You can choose between two sound systems on the BMW iX xDrive50. With the Harman Kardon Surround Sound system, you get 18 speakers with a max system output of 655 watts. With the Bowers & Wilkins Diamond surround sound system, you get 30 speakers with a max system output of 1615 watts.
 
 The model has 6 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the BMW iX xDrive50. The standard headlights use LED technology. Headlights based on LED Matrix with Laser technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The BMW iX xDrive50 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -234,7 +226,6 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

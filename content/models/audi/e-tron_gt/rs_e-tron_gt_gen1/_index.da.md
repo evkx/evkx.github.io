@@ -26,7 +26,6 @@ Vi har opdelt vores Audi RS e-tron GT (GEN1) artikel i sektioner. Hvis du vil ve
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Med overboost når Audi RS e-tron GT (GEN1) en maksimal effekt på 475 kW (646 hk). Uden overboost leverer den en stærk 440 kW (598 hk). Det maksimale drejningsmoment er på 830 Nm. Denne kraftkarl kan accelerere fra 0 til 100 km/t på blot 3,3 sekunder og har en topfart på 250 km/t, hvilket fremhæver dens imponerende præstationer.
@@ -48,7 +47,6 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_gen1/charging_1_st.jpg" title="Audi RS e-tron GT (GEN1)" width="3000" height="2249"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er på [højre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at bruge ladestationer, hvor du parkerer siden ind i opladeren. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder. En anden port er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne ekstra port giver dig flere parkeringsmuligheder til AC-opladning. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**J1772**](../../../../technology/charging/connectors/#j1772) for Nordamerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se de fulde specifikationer for alle markeder.
@@ -56,11 +54,9 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Audi RS e-tron GT (GEN1) har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -75,7 +71,6 @@ Dynamisk styring er en standard-funktion på Audi RS e-tron GT (GEN1). Dynamisk 
 ### Bremser
 
 Du kan vælge mellem forskellige bremsesystemer. Bremserne standard bruger almindelige [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 360mm, og de bagerste skiver er 358mm. Bremserne second bruger en [støbejernsskive belagt med wolframcarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og producerer næsten ikke bremsestøv. De forreste skiver er 410mm, og de bagerste skiver er 365mm. Bremserne third bruger [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De forreste skiver er 420mm, og de bagerste skiver er 410mm.
-
 
 ### Regenerativ bremsning
 
@@ -112,9 +107,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -193,7 +186,6 @@ Audi RS e-tron GT (GEN1) inkluderer flere funktioner, der forbedrer komfort og b
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Audi RS e-tron GT (GEN1) har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
@@ -209,13 +201,19 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_gen1/screens_1_st.jpg" title="Audi RS e-tron GT (GEN1)" width="3000" height="2000"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Audi RS e-tron GT (GEN1) Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan vælge mellem to lydsystemer på Audi RS e-tron GT (GEN1). Med Audi Sound system får du ti højttalere med en maksimal systemeffekt på 180 watt. Med Bang & Olufsen Sound System får du 16 højttalere med en maksimal systemeffekt på 700 watt.
-
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Audi RS e-tron GT (GEN1) Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 
 ## Lys
 
@@ -229,6 +227,7 @@ Du kan vælge mellem tre typer forlygter til Audi RS e-tron GT (GEN1). Standardl
 Audi RS e-tron GT (GEN1) har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -265,7 +264,6 @@ Med Assistantpackage Tour  niveau 2-systemet får du yderligere køreautomatiser
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

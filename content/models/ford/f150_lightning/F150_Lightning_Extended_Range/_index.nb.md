@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Ford F150 Lightning Extended Range i seksjoner. 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Ford F150 Lightning Extended Range imponerer med en imponerende kraft på 433 kW (589 hk) og et betydelig dreiemoment på 1050 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,2 sekunder og har en toppfart på 180 km/t, noe som gjør den til en markant modell i sin klasse.
@@ -49,7 +48,6 @@ Den standard ombordladeren støtter opptil 19,2 kW for Level 1 og Level 2 AC-lad
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/charging_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1506"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du parkerer siden inn i laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
@@ -57,18 +55,15 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Ford F150 Lightning Extended Range har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
-
 
 ### Hjuloppheng
 
 Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#double-wishbone), og den bakre opphenget er [Multilink](../../../../technology/suspension/#multilink). Den bruker stålfjærer og hydrauliske dempere. -opphenget har en fast høyde og demping. Bakkeklaringen med dette hjulopphenget er 226 mm.
 
 ### Bremser
-
 
 
 
@@ -97,7 +92,6 @@ Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne m
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiør
@@ -130,7 +124,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}
 
-
 #### Seter på andre rad
 
 
@@ -145,7 +138,6 @@ Det er bare én type ratt tilgjengelig.
 Det er ett tilgjengelig klimasystem.
 
 
-
 ## Komfortfunksjoner
 
 Ford F150 Lightning Extended Range inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
@@ -153,7 +145,6 @@ Ford F150 Lightning Extended Range inkluderer flere funksjoner for å forbedre k
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brukergrensesnitt og kontroll
@@ -180,13 +171,19 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/screens_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Ford F150 Lightning Extended Range Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan velge mellom tre lydsystemer på Ford F150 Lightning Extended Range. Med Ford får du fire høyttalere med en maksimal systemeffekt på 80 watt. Med B&O Sound System får du åtte høyttalere med en maksimal systemeffekt på 640 watt. Med B&O Unleashed Sound System får du 18 høyttalere med en maksimal systemeffekt på 1080 watt.
-
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Ford F150 Lightning Extended Range Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 
 ## Lys
 
@@ -198,6 +195,7 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 ## Avanserte førerassistentsystemer
 
 Ford F150 Lightning Extended Range har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -233,7 +231,6 @@ Med Ford Co-Pilot360™ Active 2.0  nivå 2-systemet får du flere kjøreautomat
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

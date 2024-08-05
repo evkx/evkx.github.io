@@ -26,7 +26,6 @@ Vi har opdelt vores Dacia Spring 65HP artikel i sektioner. Hvis du vil vente med
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Dacia Spring 65HP kWh leverer grundlæggende ydeevne med en maksimal effekt på 48 kW (65 hk) og et samlet drejningsmoment på 113 Nm. Den accelererer fra 0 til 100 km/t på 13,7 sekunder og når en topfart på 125 km/t, hvilket er mere sammenligneligt med indgangsmodeller af traditionelle forbrændingsmotorbiler.
@@ -46,7 +45,6 @@ Den standard ombordlader understøtter op til 7 kW til Level 1 og Level 2 AC-opl
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/charging_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1702"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er på [forsiden](../../../../technology/charging/connectors/#front). Denne placering gør det letanvendelige ladestationer, hvor du skal parkere med fronten ind. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
@@ -54,18 +52,15 @@ Placeringen af ladeporten er på [forsiden](../../../../technology/charging/conn
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Dacia Spring 65HP har et forhjulstræksystem understøttet af en motor på forakslen.
-
 
 ### Hjulophæng
 
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Multilink](../../../../technology/suspension/#multilink). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 150 mm.
 
 ### Bremser
-
 
 
 
@@ -95,9 +90,7 @@ Der er kun ét tag til denne model.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -118,7 +111,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/frontseats_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
-
 
 #### Sæde på anden række
 
@@ -153,7 +145,6 @@ Dacia Spring 65HP inkluderer flere funktioner, der forbedrer komfort og bekvemme
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 
@@ -168,14 +159,22 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/screens_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Dacia Spring 65HP Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Én type lydsystem er tilgængelig for Dacia Spring 65HP. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Dacia Spring 65HP Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 2 USB-C-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
@@ -186,6 +185,7 @@ Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-
 ## Avancerede førerassistentsystemer
 
 Dacia Spring 65HP har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -204,7 +204,6 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Lucid Air Dream Edition Performance i seksjoner.
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Lucid Air Dream Edition Performance leverer en imponerende maksimal effekt på 828 KW (1126 hk) og et massivt dreiemoment på 1390 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 2,7 sekunder, noe som viser dens fantastiske akselerasjon. I tillegg oppnår den en topphastighet på 270 km/t, noe som gjør den til et virkelig underverk innen ingeniørkunst og ytelse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Lucid Air Dream Edition Performance har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -69,7 +66,6 @@ Dynamisk styring er standard-funksjonen på Lucid Air Dream Edition Performance.
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 380mm, og de bakre skivene er 375mm.
-
 
 ### Regenerativ bremsing
 
@@ -98,9 +94,7 @@ Det er bare ett tak for denne modellen. Forruten er panoramautsikt tilbake over 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -129,7 +123,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/frontseats_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="2248"  >}}
-
 
 #### Seter på andre rad
 
@@ -167,7 +160,6 @@ Lucid Air Dream Edition Performance inkluderer flere funksjoner for å forbedre 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 På toppen av dashbordet er en delt ramme med tre skjermer, og i midtkonsollen er det en fjerde [infotainment-skjerm](../../../../technology /brukergrensesnitt/skjermer/#infotainment-skjerm).
@@ -185,14 +177,18 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/screens_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="1999"  >}}
 
-
 ## Infotainment
 
-Du kan velge mellom to lydsystemer på Lucid Air Dream Edition Performance. Med Surreal Sound får du ni høyttalere med en maksimal systemeffekt på 300 watt. Med Surreal Sound Pro får du 21 høyttalere med en maksimal systemeffekt på 800 watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### header.soundsystem
+
+Du kan velge mellom to lydsystemer på Lucid Air Dream Edition Performance. Med Surreal Sound får du ni høyttalere med en maksimal systemeffekt på 300 watt. Med Surreal Sound Pro får du 21 høyttalere med en maksimal systemeffekt på 800 watt.
+
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi.
@@ -203,6 +199,7 @@ Standardlyktene bruker LED-teknologi.
 ## Avanserte førerassistentsystemer
 
 Lucid Air Dream Edition Performance har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -229,7 +226,6 @@ Med ADAS  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

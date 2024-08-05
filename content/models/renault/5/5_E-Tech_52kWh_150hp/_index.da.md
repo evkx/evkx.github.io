@@ -26,7 +26,6 @@ Vi har opdelt vores Renault 5 E-Tech 52kWh 150hp artikel i sektioner. Hvis du vi
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Renault 5 E-Tech 52kWh 150hp tilbyder beskedne præstationer med en maksimal effekt på 110 kW (150 hk) og et samlet drejningsmoment på 245 Nm. Den accelererer fra 0 til 100 km/t på 7,9 sekunder og har en topfart på 150 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -48,7 +47,6 @@ Den standard ombordlader understøtter op til 7,2 kW til Level 1 og Level 2 AC-o
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/charging_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1688"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at lade stationer, hvor du parkerer siden ind i ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
@@ -56,11 +54,9 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Renault 5 E-Tech 52kWh 150hp har et forhjulstræksystem understøttet af en motor på forakslen. Den anvendte motor er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
-
 
 ### Hjulophæng
 
@@ -73,7 +69,6 @@ Dynamisk styring er en valgfri-funktion på Renault 5 E-Tech 52kWh 150hp. Dynami
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsning
 
@@ -98,9 +93,7 @@ Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -123,7 +116,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/frontseats_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
-
 
 #### Sæde på anden række
 
@@ -156,7 +148,6 @@ Renault 5 E-Tech 52kWh 150hp inkluderer flere funktioner, der forbedrer komfort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Renault 5 E-Tech 52kWh 150hp har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
@@ -173,11 +164,20 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Renault 5 E-Tech 52kWh 150hp Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan vælge mellem to lydsystemer på Renault 5 E-Tech 52kWh 150hp. Med DAB Audiosystem får du seks højttalere med en maksimal systemeffekt på  watt. Med BOSE Premium Sound System får du ti højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Renault 5 E-Tech 52kWh 150hp Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 4 USB-C-forbindelser som standard.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Renault 5 E-Tech 52kWh 150hp. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
@@ -188,6 +188,7 @@ Du kan vælge mellem to typer forlygter til Renault 5 E-Tech 52kWh 150hp. Standa
 ## Avancerede førerassistentsystemer
 
 Renault 5 E-Tech 52kWh 150hp har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -217,7 +218,6 @@ Med ProPILOT  niveau 2-systemet får du følgende køreautomatiseringsfunktioner
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

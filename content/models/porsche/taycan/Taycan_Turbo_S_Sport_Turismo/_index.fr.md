@@ -26,7 +26,6 @@ Nous avons séparé notre article Porsche Taycan Turbo S Sport Turismo en sectio
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 Grâce à l'overboost, la Porsche Taycan Turbo S Sport Turismo délivre une puissance maximale époustouflante de 700 kW (952 ch). Même sans l'overboost, elle offre une puissance formidable de 620 kW (843 ch). Le couple maximal atteint un incroyable 1110 Nm. Cette bête de puissance peut passer de 0 à 100 km/h en seulement 2,4 secondes et atteint une vitesse maximale de 260 km/h, soulignant ainsi ses performances à couper le souffle.
@@ -48,7 +47,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/charging_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo" width="3000" height="2000"  >}}
 
-
 ### Port de recharge
 
 L'emplacement du port de charge est sur le [côté avant droit](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite l'utilisation des bornes de recharge où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés. Un deuxième port se trouve sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Ce port supplémentaire vous offre plus d'options de stationnement pour la recharge AC. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**J1772**](../../../../technology/charging/connectors/# j1772) pour l'Amérique du Nord et l'Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Voir les spécifications complètes pour tous les marchés.
@@ -56,11 +54,9 @@ L'emplacement du port de charge est sur le [côté avant droit](../../../../tech
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Porsche Taycan Turbo S Sport Turismo dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -75,7 +71,6 @@ La direction dynamique est une fonctionnalité un standard sur le Porsche Taycan
 ### Freins
 
 Les freins arrière et avant sont des [disques en céramique](../../../../technology/brakes/#ceramic-brakes). Les disques avant mesurent 420 mm et les disques arrière mesurent 410 mm.
-
 
 ### Freinage régénératif
 
@@ -108,9 +103,7 @@ Il existe trois options de toit différentes à choisir. Le standard est juste u
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -149,7 +142,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
 
-
 #### Sièges de deuxième rangée
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Porsche Taycan Turbo S Sport Turismo.
@@ -184,7 +176,6 @@ L'Porsche Taycan Turbo S Sport Turismo comprend plusieurs fonctionnalités pour 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Porsche Taycan Turbo S Sport Turismo possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en bas de la console centrale. Pour le passager, il y a un [écran d'infodivertissement] en option (../../../../technology/userinterface/screens/#front-passenger-screen).
@@ -202,13 +193,19 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo" width="3000" height="1688"  >}}
 
-
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Porsche Taycan Turbo S Sport Turismo prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Vous pouvez choisir entre trois systèmes audio sur le Porsche Taycan Turbo S Sport Turismo. Avec le Porsche Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 150 watts. Avec le  BOSE® Surround Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de 710 watts. Avec le  Burmester® 3D High-End Surround Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 1455 watts.
-
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Porsche Taycan Turbo S Sport Turismo prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 
 ## Lumières
 
@@ -222,6 +219,7 @@ Les phares standard utilisent la technologie LED Matrix. LED Matrix est un syst�
 Le Porsche Taycan Turbo S Sport Turismo dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -258,7 +256,6 @@ Avec le système Porsche InnoDrive  niveau 2, vous bénéficiez de fonctionnalit
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

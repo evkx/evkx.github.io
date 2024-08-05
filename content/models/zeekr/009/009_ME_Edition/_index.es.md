@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Zeekr 009 ME Edition en secciones. Si desea esp
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Zeekr 009 ME Edition impresiona con una potencia máxima de 400 kW (544 hp) y un impresionante par total de 686 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,5 segundos y alcanza una velocidad máxima de 190 km/h, destacándose en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Zeekr 009 ME Edition tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -65,7 +62,6 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 533 mm y los discos traseros de 457 mm.
-
 
 ### Frenado regenerativo
 
@@ -90,7 +86,6 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -121,7 +116,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
 
-
 #### Asiento de segunda fila
 
 
@@ -135,7 +129,6 @@ Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las s
 
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/secondrowseats_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440"  >}}
-
 
 #### Asientos de tercera fila
 
@@ -167,7 +160,6 @@ El Zeekr 009 ME Edition incluye varias características para mejorar la comodida
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Zeekr 009 ME Edition tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
@@ -188,19 +180,30 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Zeekr 009 ME Edition es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el Zeekr 009 ME Edition. Con el Yamaha Sound System, obtienes 20 parlantes con una salida máxima del sistema de 300 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Zeekr 009 ME Edition es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Zeekr 009 ME Edition tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -227,12 +230,12 @@ Con el sistema Pilot Assist  nivel 2, obtienes las siguientes funciones de autom
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 376 litros. Con el asiento de la tercera fila abatido, es de 2979 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 32 litros (1,1 CU FT). El peso máximo del automóvil es 3400 kg (7496 lbs), y con el peso base de 2830 kg (6239 lbs), puedes cargar como máximo 570 kg (1257 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 14.04.2021 y las entregas comenzaron en October 2021. Este modelo sólo está disponible en China.<div class="mt-3 mb-3">

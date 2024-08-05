@@ -26,7 +26,6 @@ Nous avons séparé notre article Maserati Grecale Folgore en sections. Si vous 
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Maserati Grecale Folgore impressionne avec une puissance maximale de 410 kW (557 ch) et un couple total impressionnant de 820 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,1 secondes, et atteint une vitesse maximale de 220 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
@@ -48,7 +47,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 22 kW pour la charge CA 
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/charging_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
-
 ### Port de recharge
 
 L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
@@ -56,11 +54,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Maserati Grecale Folgore dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
-
 
 ### Suspension
 
@@ -75,11 +71,9 @@ Le Maserati Grecale Folgore permet à l'utilisateur de sélectionner différents
 - GT : direction équilibrée, hauteur de suspension normale avec accélérateur efficace et amortissement de suspension confortable.
 - Off Road : Direction équilibrée, hauteur de suspension maximale avec accélérateur et amortissement équilibrés.
 
-
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 350 mm et les disques arrière mesurent 350 mm.
-
 
 ### Freinage régénératif
 
@@ -112,13 +106,10 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 
-
 ### Sièges
-
 
 
 #### Sièges de première rangée
@@ -135,7 +126,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-
 
 
 #### Siège de deuxième rangée
@@ -175,7 +165,6 @@ L'Maserati Grecale Folgore comprend plusieurs fonctionnalités pour améliorer l
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Maserati Grecale Folgore possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il existe deux [écrans d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -192,14 +181,22 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/screens_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Maserati Grecale Folgore prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Vous pouvez choisir entre deux systèmes audio sur le Maserati Grecale Folgore. Avec le Sonus Faber Premium Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de 860 watts. Avec le Sonus Faber High Premium Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 1285 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Maserati Grecale Folgore prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
+
 ## Lumières
 
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
@@ -210,6 +207,7 @@ Les phares standard utilisent la technologie LED Matrix. LED Matrix est un syst�
 ## Systèmes avancés d'aide à la conduite
 
 Le Maserati Grecale Folgore dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -249,12 +247,12 @@ Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement du coffre est de 535 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 3110 kg (6856 lbs), et avec le poids de base de 2480 kg (5467 lbs), vous pouvez charger au maximum 630 kg (1389 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1800, et sur une remorque non freinée, il est de 750 kg (3968/1653 lbs).
+
 ### Disponibilité et prix
 
 <div class="mt-3 mb-3">

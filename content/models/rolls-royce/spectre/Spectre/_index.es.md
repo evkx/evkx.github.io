@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Rolls-Royce Spectre en secciones. Si desea espe
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Rolls-Royce Spectre impresiona con una potencia máxima de 430 kW (585 hp) y un impresionante par total de 900 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,5 segundos y alcanza una velocidad máxima de 250 km/h, destacándose en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Rolls-Royce Spectre tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
-
 
 ### Suspensión
 
@@ -67,7 +64,6 @@ La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo qu
 La dirección dinámica es una característica un estándar en el Rolls-Royce Spectre. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
 
 ### Frenos
-
 
 
 
@@ -96,9 +92,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -134,7 +128,6 @@ Puedes elegir entre 7 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1687"  >}}
 
-
 #### Asiento de segunda fila
 
 
@@ -158,7 +151,6 @@ Hay un sistema climático disponible.
 
 - **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
 
-
 ## Características de confort
 
 El Rolls-Royce Spectre incluye varias características para mejorar la comodidad y conveniencia:
@@ -170,7 +162,6 @@ El Rolls-Royce Spectre incluye varias características para mejorar la comodidad
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interfaz de usuario y control
@@ -188,14 +179,22 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/screens_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1862"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Rolls-Royce Spectre es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
 
 Puedes elegir entre dos sistemas de sonido en el Rolls-Royce Spectre. Con el Harman Kardon Surround Sound system, obtienes 18 parlantes con una salida máxima del sistema de 655 vatios. Con el Bowers & Wilkins Diamond surround sound system, obtienes 30 parlantes con una salida máxima del sistema de 1615 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Rolls-Royce Spectre es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 6 conexiones USB-C de serie.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Rolls-Royce Spectre. Los faros estándar utilizan tecnología LED. Los faros basados en LED Matrix con tecnología láser están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apague individualmente para apagar las áreas pequeñas en el frente. Además, las luces traseras estándar utilizan tecnología LED.
@@ -206,6 +205,7 @@ Puedes elegir entre dos tipos de faros para el Rolls-Royce Spectre. Los faros es
 ## Sistemas avanzados de asistencia al conductor
 
 El Rolls-Royce Spectre tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -237,12 +237,12 @@ Con el sistema Driving Assistant Professional  nivel 2, obtienes las siguientes 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 500 litros. El peso máximo del automóvil es 3400 kg (7496 lbs), y con el peso base de 2890 kg (6371 lbs), puedes cargar como máximo 510 kg (1124 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 18.10.2022 y las entregas comenzaron en December 2023.<div class="mt-3 mb-3">

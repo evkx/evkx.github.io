@@ -26,7 +26,6 @@ Hemos separado nuestro artículo MG Cyberster AWD Long Range en secciones. Si de
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El MG Cyberster AWD Long Range impresiona con una potencia máxima de 400 kW (544 hp) y un impresionante par total de 725 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 3,2 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 MG Cyberster AWD Long Range tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
-
 
 ### Suspensión
 
@@ -65,7 +62,6 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
-
 
 ### Frenado regenerativo
 
@@ -90,13 +86,11 @@ Sólo hay un techo para este modelo. El techo estándar es una capota blanda que
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos
-
 
 
 #### Asientos de primera fila
@@ -139,7 +133,6 @@ El MG Cyberster AWD Long Range incluye varias características para mejorar la c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 En la parte superior del tablero hay un marco compartido con tres pantallas, y en la consola central, hay una cuarta [pantalla de infoentretenimiento](../../../../technology /userinterface/screens/#infotainment-screen).
@@ -162,11 +155,20 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el MG Cyberster AWD Long Range es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el MG Cyberster AWD Long Range. Con el Bose Sound System, obtienes seis parlantes con una salida máxima del sistema de 300 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el MG Cyberster AWD Long Range es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+
 ## Luces
 
 
@@ -177,6 +179,7 @@ El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 ## Sistemas avanzados de asistencia al conductor
 
 El MG Cyberster AWD Long Range tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -195,12 +198,12 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 240 litros. El peso máximo del automóvil es 2250 kg (4960 lbs), y con el peso base de 1985 kg (4376 lbs), puedes cargar como máximo 265 kg (584 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 13.07.2023 y las entregas comenzaron en December 2023.<div class="mt-3 mb-3">

@@ -26,7 +26,6 @@ Vi har opdelt vores Cadillac OPTIQ AWD artikel i sektioner. Hvis du vil vente me
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Cadillac OPTIQ AWD leverer en solid præstation med en maksimal effekt på 224 kW (305 hk) og et totalt drejningsmoment på 480 Nm. Den kan accelerere fra 0 til 100 km/t på 5,9 sekunder og når en topfart på 210 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Cadillac OPTIQ AWD har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på forakslen og [induktionsmotorer] (../../../../technology/motors/asm/) på bagakslen.
-
 
 ### Hjulophæng
 
@@ -65,7 +62,6 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 432mm, og de bagerste skiver er 432mm.
-
 
 ### Regenerativ bremsning
 
@@ -91,13 +87,10 @@ Der er to forskellige tagmuligheder at vælge imellem. Standardtaget har et stor
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 
-
 ### Sæder
-
 
 
 #### Første række sæder
@@ -121,7 +114,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/cadillac/optiq/frontseats_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="1684"  >}}
-
 
 #### Sæde på anden række
 
@@ -157,7 +149,6 @@ Cadillac OPTIQ AWD inkluderer flere funktioner, der forbedrer komfort og bekvemm
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Cadillac OPTIQ AWD har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment.
@@ -177,17 +168,26 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Cadillac OPTIQ AWD Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for Cadillac OPTIQ AWD. Med AKG sound system får du 19 højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Cadillac OPTIQ AWD Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 5 USB-C-forbindelser som standard.
-## Lys
 
+## Lys
 
 ## Avancerede førerassistentsystemer
 
 Cadillac OPTIQ AWD har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -212,7 +212,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

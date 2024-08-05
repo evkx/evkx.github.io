@@ -26,7 +26,6 @@ Vi har opdelt vores Tesla Cybertruck Cyberbeast artikel i sektioner. Hvis du vil
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Tesla Cybertruck Cyberbeast leverer en imponerende maksimal effekt på 630 KW (857 hk) og et massivt drejningsmoment på 930 Nm. Denne kraftpakke kan accelerere fra 0 til 100 km/t på blot 2,7 sekunder, hvilket viser dens fantastiske acceleration. Derudover opnår den en topfart på 209 km/t, hvilket gør den til et sandt ingeniør- og præstationsmæssigt vidunder
@@ -48,7 +47,6 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/charging_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2250"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er i [venstre bageste hjørne](../../../../technology/charging/connectors/#rear-corner). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**NACS**](../../../../technology/charging/connectors/# nacs) for Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se de fulde specifikationer for alle markeder.
@@ -56,11 +54,9 @@ Placeringen af ladeporten er i [venstre bageste hjørne](../../../../technology/
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Tesla Cybertruck Cyberbeast har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel. De anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på forakslen og [induktionsmotorer] (../../../../technology/motors/asm/) på bagakslen.
-
 
 ### Hjulophæng
 
@@ -73,7 +69,6 @@ Dynamisk styring er en standard-funktion på Tesla Cybertruck Cyberbeast. Dynami
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 355mm, og de bagerste skiver er 355mm.
-
 
 ### Regenerativ bremsning
 
@@ -102,9 +97,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -129,7 +122,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/frontseats_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
-
 
 #### Sæde på anden række
 
@@ -164,7 +156,6 @@ Tesla Cybertruck Cyberbeast inkluderer flere funktioner, der forbedrer komfort o
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Tesla Cybertruck Cyberbeast har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment.
@@ -179,13 +170,15 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/screens_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for Tesla Cybertruck Cyberbeast. Med Tesla Premium Sound får du 17 højttalere med en maksimal systemeffekt på 560 watt.
-
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 
 ## Lys
 
@@ -197,6 +190,7 @@ Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, 
 ## Avancerede førerassistentsystemer
 
 Tesla Cybertruck Cyberbeast har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -238,7 +232,6 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere køreauto
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

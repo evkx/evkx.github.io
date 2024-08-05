@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Li Auto MEGA i avsnitt. Om du vill vänta me
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Li Auto MEGA levererar en solid prestanda med en maximal effekt på 400 kW (544 hk) och ett totalt vridmoment på 542 Nm. Den kan accelerera från 0 till 100 km/h på 5,5 sekunder och når en topphastighet på 190 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -48,7 +47,6 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/charging_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
-
 ### Laddningsport
 
 Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
@@ -60,11 +58,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Li Auto MEGA har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -73,7 +69,6 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 533mm och de bakre skivorna är 457mm.
-
 
 ### Regenerativ bromsning
 
@@ -98,7 +93,6 @@ B-stolpen och vyerna bak är tonade.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiör
@@ -137,7 +131,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/frontseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
-
 #### Säten på andra raden
 
 
@@ -151,7 +144,6 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/secondrowseats_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
-
 
 #### Seter på tredje rad
 
@@ -187,7 +179,6 @@ Li Auto MEGA inkluderar flera funktioner för att förbättra komfort och bekvä
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Li Auto MEGA har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment. För passageraren finns en infotainmentskärm.
@@ -208,11 +199,20 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Li Auto MEGA Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 En typ av ljudsystem är tillgänglig för Li Auto MEGA. Med Platinum audio system får du 21 högtalare med en maximal systemeffekt på 2160 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Li Auto MEGA Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
@@ -225,6 +225,7 @@ Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-
 Li Auto MEGA har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -259,7 +260,6 @@ Denna modell använder kameror, radar, LiDAR och ultraljudssensorer för förara
 Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), nio [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Polestar 4 Long range Single motor en secciones
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Polestar 4 Long range Single motor ofrece un rendimiento modesto con una potencia máxima de 200 kW (272 hp) y un par total de 343 Nm. Acelera de 0 a 100 km/h en 7,4 segundos y tiene una velocidad máxima 180 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Polestar 4 Long range Single motor tiene un sistema de tracción trasera sostenido por un motor en el eje trasero.
-
 
 ### Suspensión
 
@@ -65,7 +62,6 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 400 mm y los discos traseros de 390 mm.
-
 
 ### Frenado regenerativo
 
@@ -90,7 +86,6 @@ Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -120,7 +115,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
-
 
 
 #### Asiento de segunda fila
@@ -155,7 +149,6 @@ El Polestar 4 Long range Single motor incluye varias características para mejor
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Polestar 4 Long range Single motor tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
@@ -170,9 +163,12 @@ Un head-up display es un sistema un estándar que presenta la velocidad y otra i
 
 ## Infoentretenimiento
 
+### header.soundsystem
+
 Puedes elegir entre dos sistemas de sonido en el Polestar 4 Long range Single motor. Con el High Performance, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios. Con el Bowers & Wilkins, obtienes 25 parlantes con una salida máxima del sistema de 1610 vatios.
 
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Polestar 4 Long range Single motor. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
@@ -185,6 +181,7 @@ Puedes elegir entre dos tipos de faros para el Polestar 4 Long range Single moto
 El Polestar 4 Long range Single motor tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -209,7 +206,6 @@ Con el sistema Pilot Assist  nivel 2, obtienes las siguientes funciones de autom
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

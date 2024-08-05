@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Toyota bZ4X FWD i avsnitt. Om du vill vänta
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Toyota bZ4X FWD erbjuder blygsamma prestanda med en maximal effekt på 160 kW (218 hk) och ett totalt vridmoment på 337 Nm. Den accelererar från 0 till 100 km/h på 6,9 sekunder och har en topphastighet på 160 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Toyota bZ4X FWD har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
-
 
 ### Hjulupphängning
 
@@ -66,9 +63,7 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 
 
 
-
 ### Regenerativ bromsning
-
 
 
 ## Exteriör
@@ -91,13 +86,10 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
 
 
-
 ### Säten
-
 
 
 #### Framsäten
@@ -113,7 +105,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
-
 
 
 #### Säten på andra raden
@@ -149,7 +140,6 @@ Toyota bZ4X FWD inkluderar flera funktioner för att förbättra komfort och bek
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Två olika skärmlayouter är tillgängliga på Toyota bZ4X FWD.
@@ -176,20 +166,30 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/screens_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="1999"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Toyota bZ4X FWD Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan välja mellan två ljudsystem på Toyota bZ4X FWD. Med Toyota får du sex högtalare med en maximal systemeffekt på  watt. Med JBL Premium Sound får du nio högtalare med en maximal systemeffekt på  watt.
 
-Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Toyota bZ4X FWD Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Toyota bZ4X FWD. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför. Dessutom använder standardbakljusen LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 Toyota bZ4X FWD har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -213,7 +213,6 @@ Med standardsystemet erbjuder modellen ingen körautomatisering.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The BMW iX1 xDrive30 delivers a solid performance with a maximum power of 230 kW (313 hp / 308 bhp) and a total torque of 494 Nm (365 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.6 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 BMW iX1 xDrive30 features an all-wheel drive system powered by two motors, one on each axle. The motor used are [Induction Motors](../../../../technology/motors/asm/).
-
 
 ### Suspension
 
@@ -67,7 +64,6 @@ The Adaptive M Suspension suspension has steel springs with a fixed height, but 
 Dynamic steering is a standard feature on the BMW iX1 xDrive30. Dynamic steering varies the steering ratio as a function of driving speed.
 
 ### Brakes
-
 
 
 
@@ -102,9 +98,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -148,7 +142,6 @@ You can choose from 3 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/frontseats_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
 
-
 #### Second-row seat
 
 
@@ -184,7 +177,6 @@ The BMW iX1 xDrive30 includes several features to enhance comfort and convenienc
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The BMW iX1 xDrive30 has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -200,9 +192,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/screens_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -217,6 +207,7 @@ Furthermore, the BMW iX1 xDrive30 supports Android Auto and Apple CarPlay. This 
 You can choose between two sound systems on the BMW iX1 xDrive30. With the Harman Kardon Surround Sound system, you get 16 speakers with a max system output of 464 watts. With the Harman Kardon Surround Sound system, you get 16 speakers with a max system output of 464 watts.
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the BMW iX1 xDrive30. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -227,6 +218,7 @@ You can choose between two types of headlights for the BMW iX1 xDrive30. The sta
 ## Advanced driver assistance systems
 
 The BMW iX1 xDrive30 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -256,7 +248,6 @@ With the Driving Assistant Professional  level 2 system, you get the following d
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

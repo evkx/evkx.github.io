@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Hyundai Ioniq 6 Long Range AWD i avsnitt. Om
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Hyundai Ioniq 6 Long Range AWD levererar en solid prestanda med en maximal effekt på 239 kW (325 hk) och ett totalt vridmoment på 605 Nm. Den kan accelerera från 0 till 100 km/h på 5,1 sekunder och når en topphastighet på 185 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -52,18 +51,15 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Hyundai Ioniq 6 Long Range AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
-
 
 ### Hjulupphängning
 
 Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 141 mm.
 
 ### Bromsar
-
 
 
 
@@ -97,13 +93,10 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
 
 
-
 ### Säten
-
 
 
 #### Framsäten
@@ -127,7 +120,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/frontseats_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2000"  >}}
-
 
 #### Säten på andra raden
 
@@ -162,7 +154,6 @@ Hyundai Ioniq 6 Long Range AWD inkluderar flera funktioner för att förbättra 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Hyundai Ioniq 6 Long Range AWD har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
@@ -178,14 +169,22 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/screens_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Hyundai Ioniq 6 Long Range AWD Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 En typ av ljudsystem är tillgänglig för Hyundai Ioniq 6 Long Range AWD. Med Bose Premium Sound System får du åtta högtalare med en maximal systemeffekt på  watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Hyundai Ioniq 6 Long Range AWD Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
+
 ## Ljus
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Dessutom använder standardbakljusen LED-teknik.
@@ -196,6 +195,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 ## Avancerade förarassistanssystem
 
 Hyundai Ioniq 6 Long Range AWD har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -227,7 +227,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

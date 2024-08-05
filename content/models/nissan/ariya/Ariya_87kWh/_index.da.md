@@ -26,7 +26,6 @@ Vi har opdelt vores Nissan Ariya 87kWh artikel i sektioner. Hvis du vil vente me
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Nissan Ariya 87kWh tilbyder beskedne præstationer med en maksimal effekt på 178 kW (242 hk) og et samlet drejningsmoment på 300 Nm. Den accelererer fra 0 til 100 km/t på 7,5 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Nissan Ariya 87kWh har et forhjulstræksystem understøttet af en motor på forakslen. Den anvendte motor er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en valgfri-funktion på Nissan Ariya 87kWh. Dynamisk styring
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsning
 
@@ -99,7 +95,6 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Der er én sædetype, du kan vælge i forskellige materialer.
@@ -126,7 +121,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 - Gray [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 - Black [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 - Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
-
 
 
 #### Sæde på anden række
@@ -161,7 +155,6 @@ Nissan Ariya 87kWh inkluderer flere funktioner, der forbedrer komfort og bekvemm
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Nissan Ariya 87kWh har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
@@ -182,17 +175,26 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Nissan Ariya 87kWh Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan vælge mellem to lydsystemer på Nissan Ariya 87kWh. Med DAB Audiosystem får du seks højttalere med en maksimal systemeffekt på  watt. Med BOSE Premium Sound System får du ti højttalere med en maksimal systemeffekt på  watt.
-
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Nissan Ariya 87kWh Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Nissan Ariya 87kWh. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
+
 ## Avancerede førerassistentsystemer
 
 Nissan Ariya 87kWh har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -222,7 +224,6 @@ Med ProPILOT  niveau 2-systemet får du følgende køreautomatiseringsfunktioner
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 With overboost, the Fisker Ocean Sport achieves a maximum power of 209 kW (284 hp / 280 bhp). Without overboost, it delivers 180 kW (245 hp / 241 bhp). The maximum torque is 386 Nm (285 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.9 seconds and reaches a top speed of 188 km/h (117 mph), offering performance more akin to traditional internal combustion engine vehicles.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Fisker Ocean Sport has a front-wheel drive system supported by one motor on the front axle.
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -93,7 +89,6 @@ There is only one roof for this model. The standard roof includes a large panora
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -126,7 +121,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/frontseats_2_st.jpg" title="Fisker Ocean Sport" width="3000" height="1687"  >}}
 
-
 #### Second-row seat
 
 
@@ -158,7 +152,6 @@ The Fisker Ocean Sport includes several features to enhance comfort and convenie
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Fisker Ocean Sport has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -174,9 +167,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/screens_1_st.jpg" title="Fisker Ocean Sport" width="1920" height="1080"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -187,14 +178,17 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Fisker Ocean Sport. With the Fisker Hypersound 3D, you get 16 speakers with a max system output of 500 watts.
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Fisker Ocean Sport has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -225,7 +219,6 @@ With the Fisker Intelligent Pilot  level 2 system, you get the following driving
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

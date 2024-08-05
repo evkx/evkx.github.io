@@ -26,7 +26,6 @@ Hemos separado nuestro artículo SKODA Elroq 85x en secciones. Si desea esperar 
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El SKODA Elroq 85x ofrece un rendimiento sólido con una potencia máxima de 220 kW (299 hp) y un par total de 679 Nm. Puede acelerar de 0 a 100 km/h en 6,6 segundos y alcanza una velocidad máxima de 180 km/h, lo que lo hace competitivo en su clase.
@@ -48,7 +47,6 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/charging_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2002"  >}}
 
-
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
@@ -56,11 +54,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 SKODA Elroq 85x tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
-
 
 ### Suspensión
 
@@ -73,7 +69,6 @@ La dirección dinámica es una característica un estándar en el SKODA Elroq 85
 ### Frenos
 
 El SKODA Elroq 85x utiliza [frenos de disco](../../../../technology/brakes/#disc-brakes) en la parte delantera para una potencia de frenado superior y disipación de calor, mientras que se emplean [frenos de tambor](../../../../technology/frenos/#frenos-de-tambor) en la parte trasera por su eficiencia en costos y durabilidad. Los frenos de tambor proporcionan un rendimiento adecuado para las ruedas traseras, requieren menos mantenimiento e integran perfectamente con el sistema de frenado regenerativo del vehículo. Esta combinación garantiza un rendimiento óptimo de frenado y rentabilidad, alineándose con los objetivos generales de eficiencia del EV. Los discos delanteros miden 358 mm.
-
 
 ### Frenado regenerativo
 
@@ -103,9 +98,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -126,7 +119,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
-
 
 
 #### Asiento de segunda fila
@@ -159,7 +151,6 @@ El SKODA Elroq 85x incluye varias características para mejorar la comodidad y c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El SKODA Elroq 85x tiene pantallas gemelas con información para el conductor y los pasajeros. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments) montado en la columna del volante , y encima del tablero hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -174,11 +165,20 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un opcional, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el SKODA Elroq 85x es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el SKODA Elroq 85x. Con el Canton Soundsystem, obtienes diez parlantes con una salida máxima del sistema de 550 vatios.
 
-Además, con el sistema de navegación para automóvil opcional, obtienes la ayuda que necesitas para encontrar tu destino. Además, el SKODA Elroq 85x es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el SKODA Elroq 85x. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
@@ -191,6 +191,7 @@ Puedes elegir entre dos tipos de faros para el SKODA Elroq 85x. Los faros están
 El SKODA Elroq 85x tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -224,12 +225,12 @@ Con el sistema MAX  nivel 2, obtienes las siguientes funciones de automatizació
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 490 litros. Con el asiento trasero abatido, es de 1610 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2350 kg (5181 lbs), y con el peso base de 1800 kg (3968 lbs), puedes cargar como máximo 550 kg (1213 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1200, y sin freno, es de 750 kg (2646/1653 lbs).
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 01.07.2024 y se espera que las entregas comiencen en February 2025.<div class="mt-3 mb-3">

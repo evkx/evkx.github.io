@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Mercedes-AMG EQE 53 4MATIC+ SUV i avsnitt. O
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Mercedes-AMG EQE 53 4MATIC+ SUV imponerar med en imponerande kraft på 460 kW (625 hk) och ett imponerande totalt vridmoment på 950 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,7 sekunder och når en topphastighet på 220 km/h, vilket gör den till en stjärna i sin klass.
@@ -54,11 +53,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Mercedes-AMG EQE 53 4MATIC+ SUV har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -71,7 +68,6 @@ Dynamisk styrning är standard-funktionen för Mercedes-AMG EQE 53 4MATIC+ SUV. 
 ### Bromsar
 
 Du kan välja mellan olika bromssystem. Bromsarna standard använder vanliga [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). Bromsarna för alternativet second använder [keramiska skivor](../../../../technology/brakes/#ceramic-brakes).
-
 
 ### Regenerativ bromsning
 
@@ -102,9 +98,7 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -146,7 +140,6 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 
-
 #### Säten på andra raden
 
 
@@ -185,7 +178,6 @@ Mercedes-AMG EQE 53 4MATIC+ SUV inkluderar flera funktioner för att förbättra
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Två olika skärmlayouter är tillgängliga på Mercedes-AMG EQE 53 4MATIC+ SUV.
@@ -219,11 +211,20 @@ Denna modell har också ett valfritt gestkontrollsystem som låter dig styra spe
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Mercedes-AMG EQE 53 4MATIC+ SUV Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan välja mellan två ljudsystem på Mercedes-AMG EQE 53 4MATIC+ SUV. Med Advanced Soundsystem får du nio högtalare med en maximal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 högtalare med en maximal systemeffekt på 590 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Mercedes-AMG EQE 53 4MATIC+ SUV Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Mercedes-AMG EQE 53 4MATIC+ SUV. Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför. Dessutom använder standardbakljusen LED-teknik.
@@ -234,6 +235,7 @@ Du kan välja mellan två typer av strålkastare för Mercedes-AMG EQE 53 4MATIC
 ## Avancerade förarassistanssystem
 
 Mercedes-AMG EQE 53 4MATIC+ SUV har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -268,7 +270,6 @@ Med Driver Assistance Package Plus  nivå 2-systemet får du fler körautomatise
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

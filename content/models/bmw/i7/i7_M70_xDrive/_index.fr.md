@@ -26,7 +26,6 @@ Nous avons séparé notre article BMW i7 M70 xDrive en sections. Si vous souhait
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La BMW i7 M70 xDrive impressionne avec une puissance maximale de 485 kW (659 ch) et un couple total impressionnant de 1015 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 3,7 secondes, et atteint une vitesse maximale de 250 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 BMW i7 M70 xDrive dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à rotor bobiné](../../../../technology/motors/wrsm/).
-
 
 ### Suspension
 
@@ -67,7 +64,6 @@ La suspension est entièrement adaptative sur les essieux avant et arrière, de 
 La direction dynamique est une fonctionnalité un standard sur le BMW i7 M70 xDrive. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite. De plus, la direction des roues arrière est disponible en tant que fonctionnalité un standard. La direction des roues arrière réduit le rayon de braquage lorsque vous roulez lentement.
 
 ### Freins
-
 
 
 
@@ -100,9 +96,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -130,7 +124,6 @@ Vous pouvez choisir parmi 7 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/frontseats_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2001"  >}}
 
-
 #### Sièges de deuxième rangée
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le BMW i7 M70 xDrive.
@@ -157,7 +150,6 @@ Deux options de système de climatisation sont disponibles :
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 - **Système de climatisation à 4 zones** : Prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
 
-
 ## Caractéristiques de confort
 
 L'BMW i7 M70 xDrive comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
@@ -169,7 +161,6 @@ L'BMW i7 M70 xDrive comprend plusieurs fonctionnalités pour améliorer le confo
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interface utilisateur et contrôle
@@ -187,14 +178,22 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/screens_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1991"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le BMW i7 M70 xDrive prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Vous pouvez choisir entre deux systèmes audio sur le BMW i7 M70 xDrive. Avec le Harman Kardon Surround Sound system, vous obtenez 18 haut-parleurs avec une puissance système maximale de 655 watts. Avec le Bowers & Wilkins Diamond surround sound system, vous obtenez 30 haut-parleurs avec une puissance système maximale de 1615 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le BMW i7 M70 xDrive prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 6 connexions USB-C en standard.
+
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le BMW i7 M70 xDrive. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix avec technologie Laser sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer. et éteindre individuellement pour éteindre les petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
@@ -205,6 +204,7 @@ Vous pouvez choisir entre deux types de phares pour le BMW i7 M70 xDrive. Les ph
 ## Systèmes avancés d'aide à la conduite
 
 Le BMW i7 M70 xDrive dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -238,7 +238,6 @@ Avec le système Driving Assistant Professional  niveau 2, vous bénéficiez de 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

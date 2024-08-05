@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The BYD Seagull 38kWh kWh provides basic performance with a maximum power of 55 kW (75 hp / 74 bhp) and a total torque of 135 Nm (100 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 13 seconds and reaches a top speed of 130 km/h (81 mph), which is more comparable to entry-level traditional internal combustion engine vehicles.
@@ -52,11 +51,9 @@ The charge port is conveniently located on the [right front side](../../../../te
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 BYD Seagull 38kWh has a front-wheel drive system supported by one motor on the front axle. The motor used are [Induction Motors](../../../../technology/motors/asm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is a standard feature on the BYD Seagull 38kWh. Dynamic steerin
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -98,9 +94,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -115,7 +109,6 @@ The following functionalities are available on the **standard** seat.
 
 
 You can choose from 1 different materials/colors for this seat type.
-
 
 
 #### Second-row seat
@@ -157,7 +150,6 @@ The BYD Seagull 38kWh includes several features to enhance comfort and convenien
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The BYD Seagull 38kWh has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -173,9 +165,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/screens_1_st.jpg" title="BYD Seagull 38kWh" width="2400" height="1600"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -186,12 +176,15 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the BYD Seagull 38kWh. With the Dirac, you get eight speakers with a max system output of  watts.
 
 The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The BYD Seagull 38kWh has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -215,7 +208,6 @@ With the   level 1 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

@@ -32,7 +32,6 @@ Denne model er blevet erstattet af [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_
 
 </div>
 
-
 ## Ydeevne
 
 Med overboost når Audi e-tron S en maksimal effekt på 370 kW (503 hk). Uden overboost leverer den 320 kW (435 hk). Det maksimale drejningsmoment er 973 Nm. Den kan accelerere fra 0 til 100 km/t på 4,5 sekunder og når en topfart på 200 km/t, hvilket demonstrerer dens solide præstation.
@@ -58,11 +57,9 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Audi e-tron S har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel. Dene anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/).
-
 
 ### Hjulophæng
 
@@ -86,11 +83,9 @@ Audi e-tron S lader brugeren vælge forskellige [drive modes](../../../../techno
 - Auto: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
 - Custom: Brugerdefineret styring, affjedring og gasrespons.
 
-
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 375mm, og de bagerste skiver er 350mm.
-
 
 ### Regenerativ bremsning
 
@@ -122,9 +117,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -183,7 +176,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/frontseats_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -222,7 +214,6 @@ Audi e-tron S inkluderer flere funktioner, der forbedrer komfort og bekvemmeligh
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Audi e-tron S har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er to forskellige [infotainment-skærme](../../../../technology/userinterface/screens/#infotainment-skærm).
@@ -238,11 +229,20 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Audi e-tron S Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan vælge mellem to lydsystemer på Audi e-tron S. Med Audi Sound system får du ti højttalere med en maksimal systemeffekt på 180 watt. Med Bang & Olufsen Sound System får du 16 højttalere med en maksimal systemeffekt på 700 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Audi e-tron S Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+
 ## Lys
 
 Du kan vælge mellem tre typer forlygter til Audi e-tron S. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Forlygter baseret på LED Digital Matrix-teknologi er tilgængelig som ekstraudstyr. Derudover bruger standardbaglygterne LED-teknologi.
@@ -255,6 +255,7 @@ Du kan vælge mellem tre typer forlygter til Audi e-tron S. Standardlygterne bru
 Audi e-tron S har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -296,7 +297,6 @@ Denne model bruger kameraer, radar og ultralydssensorer til førerassistentsyste
 Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/) og 12 [ultralydssensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt, hvad der sker i køretøjets omgivelser.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

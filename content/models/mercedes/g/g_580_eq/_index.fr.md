@@ -26,7 +26,6 @@ Nous avons séparé notre article Mercedes-EQ G 580 EQ en sections. Si vous souh
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Mercedes-EQ G 580 EQ impressionne avec une puissance maximale de 432 kW (587 ch) et un couple total impressionnant de 1164 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,7 secondes, et atteint une vitesse maximale de 180 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Mercedes-EQ G 580 EQ dispose d'un système de transmission intégrale pris en charge par quatre moteurs. Un pour chaque roue. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ La direction dynamique est une fonctionnalité un standard sur le Mercedes-EQ G 
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 415 mm et les disques arrière mesurent 378 mm.
-
 
 ### Freinage régénératif
 
@@ -101,9 +97,7 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -149,7 +143,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/frontseats_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 
-
 #### Siège de deuxième rangée
 
 
@@ -172,7 +165,6 @@ Deux options de système de climatisation sont disponibles :
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 - **Système de climatisation à 4 zones** : Prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
 
-
 ## Caractéristiques de confort
 
 L'Mercedes-EQ G 580 EQ comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
@@ -184,7 +176,6 @@ L'Mercedes-EQ G 580 EQ comprend plusieurs fonctionnalités pour améliorer le co
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interface utilisateur et contrôle
@@ -220,11 +211,20 @@ Ce modèle dispose également d'un système de contrôle gestuel en option qui v
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Mercedes-EQ G 580 EQ prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Vous pouvez choisir entre deux systèmes audio sur le Mercedes-EQ G 580 EQ. Avec le Advanced Soundsystem, vous obtenez neuf haut-parleurs avec une puissance système maximale de 225 watts. Avec le Burmester Surround Soundsystem, vous obtenez 13 haut-parleurs avec une puissance système maximale de 590 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Mercedes-EQ G 580 EQ prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 4 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
+
 ## Lumières
 
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
@@ -235,6 +235,7 @@ Les phares standard utilisent la technologie LED Matrix. LED Matrix est un syst�
 ## Systèmes avancés d'aide à la conduite
 
 Le Mercedes-EQ G 580 EQ dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -275,12 +276,12 @@ Avec le système DRIVE PILOT  niveau 3, vous bénéficiez de fonctionnalités d'
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement dans le coffre est de 555 litres. Avec la banquette arrière rabattue, elle est de 1990 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 3500 kg (7716 lbs), et avec le poids de base de 3010 kg (6636 lbs), vous pouvez charger au maximum 490 kg (1080 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 490kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+
 ### Disponibilité et prix
 
 <div class="mt-3 mb-3">

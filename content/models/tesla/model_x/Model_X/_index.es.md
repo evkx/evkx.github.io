@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Tesla Model X en secciones. Si desea esperar pa
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Tesla Model X impresiona con una potencia máxima de 493 kW (670 hp) y un impresionante par total de 800 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 3,9 segundos y alcanza una velocidad máxima de 250 km/h, destacándose en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en la [esquina trasera izquierda](../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Tesla Model X tiene un sistema de tracción total sostenido por tres motores. Uno en el eje delantero y dos en el eje trasero. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
-
 
 ### Suspensión
 
@@ -69,7 +66,6 @@ La dirección dinámica es una característica un estándar en el Tesla Model X.
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 355 mm y los discos traseros de 355 mm.
-
 
 ### Frenado regenerativo
 
@@ -101,9 +97,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -126,7 +120,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 
-
 #### Asiento de segunda fila
 
 
@@ -136,7 +129,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 60:4
 
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/secondrowseats_1_st.jpg" title="Tesla Model X" width="3000" height="2000"  >}}
-
 
 #### Asientos de tercera fila
 
@@ -168,7 +160,6 @@ El Tesla Model X incluye varias características para mejorar la comodidad y con
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Tesla Model X tiene dos pantallas con información para el conductor y los pasajeros y una tercera pantalla en la parte trasera para multimedia.
@@ -184,20 +175,24 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/screens_1_st.jpg" title="Tesla Model X" width="3000" height="2000"  >}}
 
-
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el Tesla Model X. Con el Tesla Premium Sound, obtienes 22 parlantes con una salida máxima del sistema de 560 vatios.
-
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
-
 
 ## Luces
 
 Los faros estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Tesla Model X tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -239,7 +234,6 @@ Con el sistema Full Self-Driving Capability  nivel 3, obtienes funciones de auto
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

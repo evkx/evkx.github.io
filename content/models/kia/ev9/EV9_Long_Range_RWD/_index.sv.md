@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Kia EV9 Long Range RWD i avsnitt. Om du vill
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Kia EV9 Long Range RWD erbjuder blygsamma prestanda med en maximal effekt på 150 kW (204 hk) och ett totalt vridmoment på 350 Nm. Den accelererar från 0 till 100 km/h på 9,4 sekunder och har en topphastighet på 185 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
@@ -52,18 +51,14 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Kia EV9 Long Range RWD har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-
 ### Hjulupphängning
 
 
-
 ### Bromsar
-
 
 
 
@@ -98,13 +93,11 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
 
 Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
-
 
 
 #### Framsäten
@@ -133,7 +126,6 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/frontseats_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
 
-
 #### Säten på andra raden
 
 Du kan välja tre sätestyper för den andra raden i Kia EV9 Long Range RWD.
@@ -156,7 +148,6 @@ Alternativ third är två kaptensstolar. Dessutom är följande funktioner tillg
 
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/secondrowseats_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
-
 
 #### Seter på tredje rad
 
@@ -192,7 +183,6 @@ Kia EV9 Long Range RWD inkluderar flera funktioner för att förbättra komfort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Kia EV9 Long Range RWD har tre skärmar på en delad ram monterad med fästen på instrumentbrädan.
@@ -208,14 +198,22 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/screens_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Kia EV9 Long Range RWD Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan välja mellan två ljudsystem på Kia EV9 Long Range RWD. Med Standard får du sex högtalare med en maximal systemeffekt på  watt. Med Meridian Premium Sound System får du 14 högtalare med en maximal systemeffekt på  watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Kia EV9 Long Range RWD Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 6 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Dessutom använder standardbakljusen LED-teknik.
@@ -226,6 +224,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 ## Avancerade förarassistanssystem
 
 Kia EV9 Long Range RWD har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -256,7 +255,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

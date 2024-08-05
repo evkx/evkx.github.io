@@ -26,7 +26,6 @@ Vi har opdelt vores Volkswagen ID. Buzz Pro artikel i sektioner. Hvis du vil ven
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Volkswagen ID. Buzz Pro tilbyder beskedne præstationer med en maksimal effekt på 150 kW (204 hk) og et samlet drejningsmoment på 310 Nm. Den accelererer fra 0 til 100 km/t på 10,2 sekunder og har en topfart på 145 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -48,7 +47,6 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/charging_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
@@ -56,14 +54,11 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Volkswagen ID. Buzz Pro har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [induktionsmotorer](../../../../technology/motors/asm/).
 
-
 ### Hjulophæng
-
 
 
 ### Styring
@@ -73,7 +68,6 @@ Dynamisk styring er en valgfri-funktion på Volkswagen ID. Buzz Pro. Dynamisk st
 ### Bremser
 
 Volkswagen ID. Buzz Pro bruger [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremseevne og varmeafledning, mens [tromlebremser](../../../../technology/brakes/#tromle-brakes) anvendes bagtil for omkostningseffektivitet og holdbarhed. Tromlebremser yder tilstrækkelig ydeevne for baghjulene, kræver mindre vedligeholdelse og integreres problemfrit med køretøjets regenererende bremsesystem. Denne kombination sikrer optimal bremseydelse og omkostningseffektivitet, i tråd med EV'ens overordnede effektivitetsmål. De forreste skiver er 358mm.
-
 
 ### Regenerativ bremsning
 
@@ -104,9 +98,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -153,7 +145,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/frontseats_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -189,7 +180,6 @@ Volkswagen ID. Buzz Pro inkluderer flere funktioner, der forbedrer komfort og be
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Volkswagen ID. Buzz Pro har to skærme med information til fører og passagerer. Bag rattet er en [digital instrumentgruppe](../../../../technology/userinterface/screens/#digital-instruments) monteret på ratstammen , og oven på dashboardet er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
@@ -205,22 +195,32 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/screens_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Volkswagen ID. Buzz Pro Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Én type lydsystem er tilgængelig for Volkswagen ID. Buzz Pro. Med Volkswagen Soundsystem får du seks højttalere med en maksimal systemeffekt på 450 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Volkswagen ID. Buzz Pro Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 5 USB-C-forbindelser som standard.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Volkswagen ID. Buzz Pro. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
+
 ## Avancerede førerassistentsystemer
 
 Volkswagen ID. Buzz Pro har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -255,7 +255,6 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

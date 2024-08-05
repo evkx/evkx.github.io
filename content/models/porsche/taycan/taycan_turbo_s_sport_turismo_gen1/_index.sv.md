@@ -32,7 +32,6 @@ Denna modell har ersatts av [Porsche Taycan Turbo S Sport Turismo](/models/porsc
 
 </div>
 
-
 ## Prestanda
 
 Med överboost når Porsche Taycan Turbo S Sport Turismo (GEN1) en maximal effekt på 560 kW (761 hk). Utan överboost ger den en stark effekt på 460 kW (625 hk). Det maximala vridmomentet är 850 Nm. Denna kraftpaket kan accelerera från 0 till 100 km/h på bara 2,8 sekunder och har en topphastighet på 260 km/h, vilket visar dess imponerande prestanda.
@@ -58,11 +57,9 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Porsche Taycan Turbo S Sport Turismo (GEN1) har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -77,7 +74,6 @@ Dynamisk styrning är standard-funktionen för Porsche Taycan Turbo S Sport Turi
 ### Bromsar
 
 Bromsar bak och fram är [keramiska skivor](../../../../technology/brakes/#ceramic-brakes). De främre skivorna är 420mm och de bakre skivorna är 410mm.
-
 
 ### Regenerativ bromsning
 
@@ -110,9 +106,7 @@ Det finns tre olika takalternativ att välja mellan. Standardinställningen är 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -155,7 +149,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo_gen1/frontseats_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo (GEN1)" width="3000" height="2001"  >}}
 
-
 #### Säten på andra raden
 
 Du kan välja två sätestyper för den andra raden i Porsche Taycan Turbo S Sport Turismo (GEN1).
@@ -194,7 +187,6 @@ Porsche Taycan Turbo S Sport Turismo (GEN1) inkluderar flera funktioner för att
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Porsche Taycan Turbo S Sport Turismo (GEN1) har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface /screens/#infotainment-screen) längst ner på mittkonsolen För passageraren finns en valfri [infotainment-skärm](../../../../technology/userinterface/screens/#front-passager-screen).
@@ -212,13 +204,19 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo_gen1/screens_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo (GEN1)" width="3000" height="2001"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Porsche Taycan Turbo S Sport Turismo (GEN1) Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan välja mellan tre ljudsystem på Porsche Taycan Turbo S Sport Turismo (GEN1). Med Porsche Sound system får du tio högtalare med en maximal systemeffekt på 150 watt. Med  BOSE® Surround Sound System får du 14 högtalare med en maximal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 högtalare med en maximal systemeffekt på 1455 watt.
-
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Porsche Taycan Turbo S Sport Turismo (GEN1) Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 
 ## Ljus
 
@@ -232,6 +230,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 Porsche Taycan Turbo S Sport Turismo (GEN1) har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -268,7 +267,6 @@ Med Porsche InnoDrive  nivå 2-systemet får du fler körautomatiseringsfunktion
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

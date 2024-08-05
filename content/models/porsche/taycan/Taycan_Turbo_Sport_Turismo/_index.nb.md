@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Porsche Taycan Turbo Sport Turismo i seksjoner. 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 
@@ -50,7 +49,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/charging_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="2000"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du parkerer siden inn i laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. En andre port er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne ekstra porten gir deg flere parkeringsmuligheter for AC-lading. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**J1772**](../../../../technology/charging/connectors/#j1772) for Nord-Amerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullstendige spesifikasjoner for alle markeder.
@@ -58,11 +56,9 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Porsche Taycan Turbo Sport Turismo har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -77,7 +73,6 @@ Dynamisk styring er standard-funksjonen på Porsche Taycan Turbo Sport Turismo. 
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 410mm, og de bakre skivene er 365mm.
-
 
 ### Regenerativ bremsing
 
@@ -110,9 +105,7 @@ Det er tre forskjellige takalternativer å velge mellom. Standarden er bare et v
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -162,7 +155,6 @@ Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
-
 #### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Porsche Taycan Turbo Sport Turismo.
@@ -197,7 +189,6 @@ Porsche Taycan Turbo Sport Turismo inkluderer flere funksjoner for å forbedre k
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Porsche Taycan Turbo Sport Turismo har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , er det én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen og én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) nederst på midtkonsollen. For passasjeren er det en valgfri [infotainment-skjerm](../../../../technology/userinterface/screens/#front-passasjer-screen).
@@ -215,13 +206,19 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="1688"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Porsche Taycan Turbo Sport Turismo Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan velge mellom tre lydsystemer på Porsche Taycan Turbo Sport Turismo. Med Porsche Sound system får du ti høyttalere med en maksimal systemeffekt på 150 watt. Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1455 watt.
-
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Porsche Taycan Turbo Sport Turismo Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 
 ## Lys
 
@@ -235,6 +232,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 Porsche Taycan Turbo Sport Turismo har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -271,7 +269,6 @@ Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

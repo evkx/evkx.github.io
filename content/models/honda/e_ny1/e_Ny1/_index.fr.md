@@ -26,7 +26,6 @@ Nous avons séparé notre article Honda e:Ny1 en sections. Si vous souhaitez att
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 L'Honda e:Ny1 offre des performances modestes avec une puissance maximale de 150 kW (204 ch) et un couple total de 310 Nm. Il accélère de 0 à 100 km/h en 7,7 secondes et atteint une vitesse maximale de 160 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -44,7 +43,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 ### Chargeur embarqué
 
 
-
 ### Port de recharge
 
 L'emplacement du port de charge est sur [avant](../../../../technology/charging/connectors/#front). Cet emplacement le rend des bornes de recharge faciles à utiliser où il faut se garer avec l'avant vers l'intérieur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
@@ -52,11 +50,9 @@ L'emplacement du port de charge est sur [avant](../../../../technology/charging/
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Honda e:Ny1 dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant.
-
 
 ### Suspension
 
@@ -66,9 +62,7 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 
 
 
-
 ### Freinage régénératif
-
 
 
 ## Extérieur
@@ -89,13 +83,10 @@ Il n'y a qu'un seul toit pour ce modèle.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 
-
 ### Sièges
-
 
 
 #### Sièges de première rangée
@@ -106,7 +97,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-
 
 
 #### Siège de deuxième rangée
@@ -123,7 +113,6 @@ Il n'y a qu'un seul type de volant disponible.
 Un système climatique est disponible.
 
 
-
 ## Caractéristiques de confort
 
 L'Honda e:Ny1 comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
@@ -131,7 +120,6 @@ L'Honda e:Ny1 comprend plusieurs fonctionnalités pour améliorer le confort et 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interface utilisateur et contrôle
@@ -149,11 +137,11 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/screens_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
-
 ## Infodivertissement
 
-Un type de système audio est disponible pour le Honda e:Ny1. Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+### header.soundsystem
 
+Un type de système audio est disponible pour le Honda e:Ny1. Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
 
 ## Lumières
 
@@ -165,8 +153,8 @@ Un type de système audio est disponible pour le Honda e:Ny1. Avec le , vous obt
 ## Systèmes avancés d'aide à la conduite
 
 Le Honda e:Ny1 dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
-### Systèmes de sécurité
 
+### Systèmes de sécurité
 
 
 ### Automatisation de la conduite
@@ -177,7 +165,6 @@ Avec le système standard, le modèle n'offre aucune automatisation de conduite.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

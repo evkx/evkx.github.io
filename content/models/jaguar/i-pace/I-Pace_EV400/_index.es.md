@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Jaguar I-Pace EV400 en secciones. Si desea espe
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Jaguar I-Pace EV400 ofrece un rendimiento sólido con una potencia máxima de 294 kW (400 hp) y un par total de 696 Nm. Puede acelerar de 0 a 100 km/h en 4,8 segundos y alcanza una velocidad máxima de 200 km/h, lo que lo hace competitivo en su clase.
@@ -48,7 +47,6 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/charging_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
 
-
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../../technology/charging/connectors/#lado-delantero). Esta ubicación facilita la carga de las estaciones donde se estaciona junto al cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
@@ -56,11 +54,9 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Jaguar I-Pace EV400 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -70,9 +66,7 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 350 mm y los discos traseros de 325 mm.
 
-
 ### Frenado regenerativo
-
 
 
 ## Exterior
@@ -101,9 +95,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -157,7 +149,6 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/frontseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1946"  >}}
 
-
 #### Asientos de la segunda fila
 
 Puedes elegir dos tipos de asientos para la segunda fila en el Jaguar I-Pace EV400.
@@ -182,7 +173,6 @@ Hay dos opciones de sistema de climatización disponibles:
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 - **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
 
-
 ## Características de confort
 
 El Jaguar I-Pace EV400 incluye varias características para mejorar la comodidad y conveniencia:
@@ -191,7 +181,6 @@ El Jaguar I-Pace EV400 incluye varias características para mejorar la comodidad
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interfaz de usuario y control
@@ -210,13 +199,19 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/screens_1_st.jpg" title="Jaguar I-Pace EV400" width="2560" height="1632"  >}}
 
-
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Jaguar I-Pace EV400 es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre dos sistemas de sonido en el Jaguar I-Pace EV400. Con el Meridian Sound System, obtienes 11 parlantes con una salida máxima del sistema de 400 vatios. Con el Meridian 3D Surround, obtienes 16 parlantes con una salida máxima del sistema de 750 vatios.
-
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Jaguar I-Pace EV400 es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 
 ## Luces
 
@@ -228,6 +223,7 @@ Puedes elegir entre dos tipos de faros para el Jaguar I-Pace EV400. Los faros es
 ## Sistemas avanzados de asistencia al conductor
 
 El Jaguar I-Pace EV400 tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -246,7 +242,6 @@ Con el sistema estándar, el modelo no ofrece automatización de conducción.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

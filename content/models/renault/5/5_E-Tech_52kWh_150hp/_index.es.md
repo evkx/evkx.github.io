@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Renault 5 E-Tech 52kWh 150hp en secciones. Si d
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Renault 5 E-Tech 52kWh 150hp ofrece un rendimiento modesto con una potencia máxima de 110 kW (150 hp) y un par total de 245 Nm. Acelera de 0 a 100 km/h en 7,9 segundos y tiene una velocidad máxima 150 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -48,7 +47,6 @@ El cargador a bordo estándar soporta hasta 7,2 kW para carga AC de Nivel 1 y Ni
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/charging_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1688"  >}}
 
-
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../../technology/charging/connectors/#lado-delantero). Esta ubicación facilita la carga de las estaciones donde se estaciona junto al cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
@@ -56,11 +54,9 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Renault 5 E-Tech 52kWh 150hp tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motor utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
-
 
 ### Suspensión
 
@@ -73,7 +69,6 @@ La dirección dinámica es una característica un opcional en el Renault 5 E-Tec
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
-
 
 ### Frenado regenerativo
 
@@ -98,9 +93,7 @@ Sólo hay un techo para este modelo. El estándar es simplemente un techo normal
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -123,7 +116,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/frontseats_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -156,7 +148,6 @@ El Renault 5 E-Tech 52kWh 150hp incluye varias características para mejorar la 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Renault 5 E-Tech 52kWh 150hp tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -173,11 +164,20 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Renault 5 E-Tech 52kWh 150hp es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre dos sistemas de sonido en el Renault 5 E-Tech 52kWh 150hp. Con el DAB Audiosystem, obtienes seis parlantes con una salida máxima del sistema de  vatios. Con el BOSE Premium Sound System, obtienes diez parlantes con una salida máxima del sistema de  vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Renault 5 E-Tech 52kWh 150hp es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Renault 5 E-Tech 52kWh 150hp. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
@@ -188,6 +188,7 @@ Puedes elegir entre dos tipos de faros para el Renault 5 E-Tech 52kWh 150hp. Los
 ## Sistemas avanzados de asistencia al conductor
 
 El Renault 5 E-Tech 52kWh 150hp tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -217,7 +218,6 @@ Con el sistema ProPILOT  nivel 2, obtienes las siguientes funciones de automatiz
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

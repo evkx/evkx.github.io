@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Lotus Eletre en secciones. Si desea esperar par
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Lotus Eletre impresiona con una potencia máxima de 450 kW (612 hp) y un impresionante par total de 710 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,5 segundos y alcanza una velocidad máxima de 258 km/h, destacándose en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Lotus Eletre tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -69,7 +66,6 @@ La dirección dinámica es una característica un estándar en el Lotus Eletre. 
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 412 mm y los discos traseros de 397 mm.
-
 
 ### Frenado regenerativo
 
@@ -99,7 +95,6 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -135,7 +130,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/frontseats_1_st.jpg" title="Lotus Eletre" width="3000" height="1783"  >}}
 
-
 #### Asiento de segunda fila
 
 
@@ -170,7 +164,6 @@ El Lotus Eletre incluye varias características para mejorar la comodidad y conv
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 
@@ -190,11 +183,20 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Lotus Eletre es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre dos sistemas de sonido en el Lotus Eletre. Con el KEF Premium Audio system, obtienes 15 parlantes con una salida máxima del sistema de 1380 vatios. Con el KEF Reference Audio system, obtienes 23 parlantes con una salida máxima del sistema de 2160 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Lotus Eletre es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
@@ -205,6 +207,7 @@ Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema ad
 ## Sistemas avanzados de asistencia al conductor
 
 El Lotus Eletre tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -245,7 +248,6 @@ Este modelo utiliza cámaras, LiDAR y sensores ultrasónicos para los sistemas d
 Hasta cuatro [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/), y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) registran todo lo que sucede en el entorno del vehículo.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

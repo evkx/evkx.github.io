@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Ford F150 Lightning Standard Range en secciones
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Ford F150 Lightning Standard Range impresiona con una potencia máxima de 433 kW (589 hp) y un impresionante par total de 1050 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,2 segundos y alcanza una velocidad máxima de 180 km/h, destacándose en su clase.
@@ -48,7 +47,6 @@ El cargador a bordo estándar soporta hasta 19,2 kW para carga AC de Nivel 1 y N
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/charging_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1506"  >}}
 
-
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado frontal derecho](../../../../technology/charging/connectors/#lado-delantero). Esta ubicación facilita el uso de las estaciones de carga donde se estaciona junto al cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
@@ -56,18 +54,15 @@ La ubicación del puerto de carga está en el [lado frontal derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Ford F150 Lightning Standard Range tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
-
 
 ### Suspensión
 
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 226 mm.
 
 ### Frenos
-
 
 
 
@@ -96,7 +91,6 @@ Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -129,7 +123,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/frontseats_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1687"  >}}
 
-
 #### Asiento de segunda fila
 
 
@@ -144,7 +137,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 
-
 ## Características de confort
 
 El Ford F150 Lightning Standard Range incluye varias características para mejorar la comodidad y conveniencia:
@@ -152,7 +144,6 @@ El Ford F150 Lightning Standard Range incluye varias características para mejor
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interfaz de usuario y control
@@ -179,13 +170,19 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/screens_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1687"  >}}
 
-
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Ford F150 Lightning Standard Range es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre tres sistemas de sonido en el Ford F150 Lightning Standard Range. Con el Ford, obtienes cuatro parlantes con una salida máxima del sistema de 80 vatios. Con el B&O Sound System, obtienes ocho parlantes con una salida máxima del sistema de 640 vatios. Con el B&O Unleashed Sound System, obtienes 18 parlantes con una salida máxima del sistema de 1080 vatios.
-
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Ford F150 Lightning Standard Range es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 
 ## Luces
 
@@ -197,6 +194,7 @@ Además, con el sistema de navegación para automóvil estándar, obtienes la ay
 ## Sistemas avanzados de asistencia al conductor
 
 El Ford F150 Lightning Standard Range tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -232,7 +230,6 @@ Con el sistema Ford Co-Pilot360™ Active 2.0  nivel 2, obtienes funciones de au
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

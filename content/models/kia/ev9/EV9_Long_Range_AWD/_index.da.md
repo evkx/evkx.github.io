@@ -26,7 +26,6 @@ Vi har opdelt vores Kia EV9 Long Range AWD artikel i sektioner. Hvis du vil vent
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Kia EV9 Long Range AWD leverer en solid præstation med en maksimal effekt på 283 kW (385 hk) og et totalt drejningsmoment på 600 Nm. Den kan accelerere fra 0 til 100 km/t på 6 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,18 +51,14 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Kia EV9 Long Range AWD har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-
 ### Hjulophæng
 
 
-
 ### Bremser
-
 
 
 
@@ -98,13 +93,11 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Der er én sædetype, du kan vælge i forskellige materialer.
 
 ### Sæder
-
 
 
 #### Første række sæder
@@ -133,7 +126,6 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/frontseats_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
-
 #### Sæder på anden række
 
 Du kan vælge tre sædetyper til anden række i Kia EV9 Long Range AWD.
@@ -156,7 +148,6 @@ Muligheden third er to kaptajnstole. Derudover er følgende funktionaliteter til
 
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
-
 
 #### Sæder på tredje række
 
@@ -192,7 +183,6 @@ Kia EV9 Long Range AWD inkluderer flere funktioner, der forbedrer komfort og bek
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Kia EV9 Long Range AWD har tre skærme på en delt ramme monteret med beslag på instrumentbrættet.
@@ -208,14 +198,22 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/screens_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Kia EV9 Long Range AWD Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Kia EV9 Long Range AWD. Med Standard får du seks højttalere med en maksimal systemeffekt på  watt. Med Meridian Premium Sound System får du 14 højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Kia EV9 Long Range AWD Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 6 USB-C-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -226,6 +224,7 @@ Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, 
 ## Avancerede førerassistentsystemer
 
 Kia EV9 Long Range AWD har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -256,7 +255,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

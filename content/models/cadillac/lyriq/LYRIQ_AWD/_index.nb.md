@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Cadillac LYRIQ AWD i seksjoner. Hvis du vil vent
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Cadillac LYRIQ AWD leverer solid ytelse med en maksimal effekt på 373 kW (507 hk) og et totalt dreiemoment på 610 Nm. Den kan akselerere fra 0 til 100 km/t på 4,6 sekunder og når en topphastighet på 210 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Cadillac LYRIQ AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -65,7 +62,6 @@ Cadillac LYRIQ AWD har et firehjulsdriftssystem som støttes av to motorer, en p
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 321mm, og de bakre skivene er 345mm.
-
 
 ### Regenerativ bremsing
 
@@ -91,13 +87,10 @@ Det er to forskjellige takalternativer å velge mellom. Standardtaket har et sto
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 
-
 ### Seter
-
 
 
 #### Forseter
@@ -121,7 +114,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/frontseats_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2700"  >}}
-
 
 #### Seter på andre rad
 
@@ -157,7 +149,6 @@ Cadillac LYRIQ AWD inkluderer flere funksjoner for å forbedre komfort og bekvem
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Cadillac LYRIQ AWD har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment.
@@ -177,11 +168,20 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Cadillac LYRIQ AWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Én type lydsystem er tilgjengelig for Cadillac LYRIQ AWD. Med Lyric sound system får du syv høyttalere med en maksimal systemeffekt på  watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Cadillac LYRIQ AWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 5 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 
@@ -192,6 +192,7 @@ Modellen har 5 USB-C-tilkoblinger som standard.
 ## Avanserte førerassistentsystemer
 
 Cadillac LYRIQ AWD har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -216,7 +217,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

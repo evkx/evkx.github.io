@@ -26,7 +26,6 @@ Vi har opdelt vores Tesla Model Y Long Range RWD artikel i sektioner. Hvis du vi
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Tesla Model Y Long Range RWD leverer en solid præstation med en maksimal effekt på 250 kW (340 hk) og et totalt drejningsmoment på 450 Nm. Den kan accelerere fra 0 til 100 km/t på 5,9 sekunder og når en topfart på 217 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er i [venstre bageste hjørne](../../../../technology/
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Tesla Model Y Long Range RWD har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en standard-funktion på Tesla Model Y Long Range RWD. Dynam
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 355mm, og de bagerste skiver er 355mm.
-
 
 ### Regenerativ bremsning
 
@@ -102,9 +98,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -129,7 +123,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/frontseats_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2000"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -139,7 +132,6 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/secondrowseats_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2000"  >}}
-
 
 #### Sæder på tredje række
 
@@ -176,7 +168,6 @@ Tesla Model Y Long Range RWD inkluderer flere funktioner, der forbedrer komfort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Tesla Model Y Long Range RWD har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment.
@@ -196,17 +187,24 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for Tesla Model Y Long Range RWD. Med Tesla Premium Sound får du 13 højttalere med en maksimal systemeffekt på 560 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 Modellen har 4 USB-C-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 Tesla Model Y Long Range RWD har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -254,12 +252,12 @@ Den bruger otte [kameraer](../../../../technology/sensorsandcameras/cameras/) ti
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 854 liter. Med bagsædet nede er det 2158 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 117 liter (4,1 CU FT). Bilens maksimale vægt er 2600 kg (5732 lbs), og med basisvægten på 1959 kg (4319 lbs), kan du maksimalt laste 641 kg (1413 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
+
 ### Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 19.03.2019, og leveringerne startede i March 2020.<div class="mt-3 mb-3">

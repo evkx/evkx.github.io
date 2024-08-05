@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Acura ZDX Type S i seksjoner. Hvis du vil vente 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Acura ZDX Type S leverer solid ytelse med en maksimal effekt på 373 kW (507 hk) og et totalt dreiemoment på 737 Nm. Den kan akselerere fra 0 til 100 km/t på 4,6 sekunder og når en topphastighet på 210 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Acura ZDX Type S har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -65,7 +62,6 @@ Hjulopphenget foran og bak er [Multilink](../../../../technology/suspension/#mul
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 396mm, og de bakre skivene er 343mm.
-
 
 ### Regenerativ bremsing
 
@@ -90,13 +86,10 @@ Det er to forskjellige takalternativer å velge mellom. Standardtaket har et sto
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 
-
 ### Seter
-
 
 
 #### Forseter
@@ -121,7 +114,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/frontseats_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1997"  >}}
-
 
 #### Seter på andre rad
 
@@ -152,7 +144,6 @@ Acura ZDX Type S inkluderer flere funksjoner for å forbedre komfort og bekvemme
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Acura ZDX Type S har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
@@ -173,11 +164,20 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Acura ZDX Type S Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Én type lydsystem er tilgjengelig for Acura ZDX Type S. Med Bang & Olufsen sound system får du 18 høyttalere med en maksimal systemeffekt på  watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Acura ZDX Type S Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 5 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 
@@ -188,6 +188,7 @@ Modellen har 5 USB-C-tilkoblinger som standard.
 ## Avanserte førerassistentsystemer
 
 Acura ZDX Type S har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -212,7 +213,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

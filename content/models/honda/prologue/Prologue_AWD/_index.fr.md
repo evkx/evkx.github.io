@@ -26,7 +26,6 @@ Nous avons séparé notre article Honda Prologue AWD en sections. Si vous souhai
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Honda Prologue AWD offre des performances solides avec une puissance maximale de 214 kW (291 ch) et un couple total de 451 Nm. Elle peut accélérer de 0 à 100 km/h en 6 secondes et atteindre une vitesse maximale de 185 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -49,7 +48,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 11,5 kW pour la charge C
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/charging_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
 
-
 ### Port de recharge
 
 L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite la recharge des bornes où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
@@ -57,11 +55,9 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Honda Prologue AWD dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -70,7 +66,6 @@ La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cet
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 396 mm et les disques arrière mesurent 343 mm.
-
 
 ### Freinage régénératif
 
@@ -97,13 +92,11 @@ Il existe deux options de toit différentes à choisir. Le toit standard a un gr
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 Vous pouvez choisir entre plusieurs aménagements intérieurs.
 
 ### Sièges
-
 
 
 #### Sièges de première rangée
@@ -123,7 +116,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Gray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Brown [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Siège de deuxième rangée
@@ -159,7 +151,6 @@ L'Honda Prologue AWD comprend plusieurs fonctionnalités pour améliorer le conf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Honda Prologue AWD possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
@@ -180,17 +171,26 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Honda Prologue AWD prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le Honda Prologue AWD. Avec le Bose premium audio system, vous obtenez 12 haut-parleurs avec une puissance système maximale de  watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Honda Prologue AWD prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 5 connexions USB-C en standard.
-## Lumières
 
+## Lumières
 
 ## Systèmes avancés d'aide à la conduite
 
 Le Honda Prologue AWD dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -220,7 +220,6 @@ Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

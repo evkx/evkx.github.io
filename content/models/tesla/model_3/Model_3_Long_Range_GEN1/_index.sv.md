@@ -32,7 +32,6 @@ Denna modell har ersatts av [Tesla Model 3 Long Range](/models/tesla/model_3/mod
 
 </div>
 
-
 ## Prestanda
 
 Tesla Model 3 Long Range (GEN1) levererar en solid prestanda med en maximal effekt på 324 kW (441 hk) och ett totalt vridmoment på 493 Nm. Den kan accelerera från 0 till 100 km/h på 4,4 sekunder och når en topphastighet på 233 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -54,7 +53,6 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/charging_1_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}
 
-
 ### Laddningsport
 
 Platsen för laddningsporten är i [vänster bakre hörnet](../../../../technology/charging/connectors/#rear-corner). Denna plats gör det lätt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**NACS**](../../../../technology/charging/connectors/#nacs) för Nordamerika och [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) för Europa. Se fullständiga specifikationer för alla marknader.
@@ -62,11 +60,9 @@ Platsen för laddningsporten är i [vänster bakre hörnet](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Tesla Model 3 Long Range (GEN1) har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
-
 
 ### Hjulupphängning
 
@@ -79,7 +75,6 @@ Dynamisk styrning är standard-funktionen för Tesla Model 3 Long Range (GEN1). 
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 355mm och de bakre skivorna är 355mm.
-
 
 ### Regenerativ bromsning
 
@@ -111,9 +106,7 @@ B-stolpen och vyerna bak är tonade.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -138,7 +131,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/frontseats_1_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}
-
 
 #### Säten på andra raden
 
@@ -175,7 +167,6 @@ Tesla Model 3 Long Range (GEN1) inkluderar flera funktioner för att förbättra
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Tesla Model 3 Long Range (GEN1) har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment.
@@ -190,20 +181,26 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/screens_2_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}
 
-
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för Tesla Model 3 Long Range (GEN1). Med Tesla Premium Sound får du 13 högtalare med en maximal systemeffekt på 560 watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### header.soundsystem
+
+En typ av ljudsystem är tillgänglig för Tesla Model 3 Long Range (GEN1). Med Tesla Premium Sound får du 13 högtalare med en maximal systemeffekt på 560 watt.
+
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 Tesla Model 3 Long Range (GEN1) har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -251,12 +248,12 @@ Den använder åtta [kameror](../../../../technology/sensorsandcameras/cameras/)
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastkapaciteten i bagageutrymmet är 561 liter. Med baksätet nedfällt är det 1234 liter. På taket kan du lasta upp till 70 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 88 liter. Bilens maximala vikt är 2232 kg, och med basvikten på 1844 kg kan du lasta maximalt 388 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släpvagn med bromsar är 1000, och på obromsad är den 750 kg.
+
 ### Tillgänglighet och pris
 
 Denna modell hade världspremiär 01.04.2016 och leveranser startade i July 2017. Denna modell har nu utgått. Denna modell har ersatts av [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range).<div class="mt-3 mb-3">

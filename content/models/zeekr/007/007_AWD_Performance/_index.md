@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Zeekr 007 AWD Performance packs an impressive punch with a maximum power of 475 kW (646 hp / 637 bhp) and a commanding total torque of 710 Nm (524 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 2.84 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Zeekr 007 AWD Performance features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 533mm, and the rear discs are 457mm.
-
 
 ### Regenerative braking
 
@@ -90,7 +86,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -124,7 +119,6 @@ You can choose from 5 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/frontseats_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
-
 
 #### Second-row seat
 
@@ -163,7 +157,6 @@ The Zeekr 007 AWD Performance includes several features to enhance comfort and c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Zeekr 007 AWD Performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -184,7 +177,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -198,14 +190,17 @@ Furthermore, the Zeekr 007 AWD Performance supports Android Auto and Apple CarPl
 One type of sound system is available for the Zeekr 007 AWD Performance. With the Yamaha Sound System, you get 21 speakers with a max system output of 300 watts.
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Zeekr 007 AWD Performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -232,12 +227,12 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 462 liters. With the rear seat down, it is 1300 liters. On the roof, you can load up to 100 kg (220.5 lbs). Under the hood, there is frunk with more storage room. This frunk is 32 liters (1.1 CU FT). The maxium weight of the car is 2800 kg (6173 lbs), and with the base weight of 2200 kg (4850 lbs), you can max load 600 kg (1323 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
 ### Availability & Pricing
 
 This model had a world premiere on 27.12.2023, and deliveries started in January 2024.<div class="mt-3 mb-3">

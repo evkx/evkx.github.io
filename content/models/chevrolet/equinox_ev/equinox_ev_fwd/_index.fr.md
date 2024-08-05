@@ -26,7 +26,6 @@ Nous avons séparé notre article Chevrolet Equinox EV FWD en sections. Si vous 
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 L'Chevrolet Equinox EV FWD offre des performances modestes avec une puissance maximale de 159 kW (216 ch) et un couple total de 320 Nm. Il accélère de 0 à 100 km/h en 7 secondes et atteint une vitesse maximale de 190 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Chevrolet Equinox EV FWD dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cet
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 321 mm et les disques arrière mesurent 345 mm.
-
 
 ### Freinage régénératif
 
@@ -94,13 +90,10 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 
-
 ### Sièges
-
 
 
 #### Sièges de première rangée
@@ -123,7 +116,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/frontseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="1999"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -161,7 +153,6 @@ L'Chevrolet Equinox EV FWD comprend plusieurs fonctionnalités pour améliorer l
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Chevrolet Equinox EV FWD possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -182,11 +173,20 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Chevrolet Equinox EV FWD prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Vous pouvez choisir entre deux systèmes audio sur le Chevrolet Equinox EV FWD. Avec le Lyric sound system, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts. Avec le Lyric sound system, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Chevrolet Equinox EV FWD prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 5 connexions USB-C en standard.
+
 ## Lumières
 
 
@@ -197,6 +197,7 @@ Le modèle dispose de 5 connexions USB-C en standard.
 ## Systèmes avancés d'aide à la conduite
 
 Le Chevrolet Equinox EV FWD dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -224,7 +225,6 @@ Avec le système Super Cruise  niveau 2, vous bénéficiez de fonctionnalités d
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

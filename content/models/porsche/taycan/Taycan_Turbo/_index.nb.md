@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Porsche Taycan Turbo i seksjoner. Hvis du vil ve
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 
@@ -54,11 +53,9 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Porsche Taycan Turbo har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -73,7 +70,6 @@ Dynamisk styring er standard-funksjonen på Porsche Taycan Turbo. Dynamisk styri
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 410mm, og de bakre skivene er 365mm.
-
 
 ### Regenerativ bremsing
 
@@ -106,9 +102,7 @@ Det er tre forskjellige takalternativer å velge mellom. Standarden er bare et v
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -158,7 +152,6 @@ Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
-
 #### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Porsche Taycan Turbo.
@@ -193,7 +186,6 @@ Porsche Taycan Turbo inkluderer flere funksjoner for å forbedre komfort og bekv
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Porsche Taycan Turbo har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , er det én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen og én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) nederst på midtkonsollen. For passasjeren er det en valgfri [infotainment-skjerm](../../../../technology/userinterface/screens/#front-passasjer-screen).
@@ -211,22 +203,30 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo/screens_1_st.jpg" title="Porsche Taycan Turbo" width="3000" height="2000"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Porsche Taycan Turbo Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan velge mellom tre lydsystemer på Porsche Taycan Turbo. Med Porsche Sound system får du ti høyttalere med en maksimal systemeffekt på 150 watt. Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1455 watt.
-
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Porsche Taycan Turbo Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 
 ## Lys
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 Porsche Taycan Turbo har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -263,7 +263,6 @@ Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

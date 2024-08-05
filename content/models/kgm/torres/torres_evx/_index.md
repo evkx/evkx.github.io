@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The KGM Torres EVX offers modest performance with a maximum power of 152.2 kW (207 hp / 204 bhp) and a total torque of 339 Nm (250 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.1 seconds and has a top speed of 175 km/h (109 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 KGM Torres EVX has a front-wheel drive system supported by one motor on the front axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 260mm, and the rear discs are 260mm.
-
 
 ### Regenerative braking
 
@@ -97,7 +93,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
@@ -120,7 +115,6 @@ The following functionalities are available on the **standard** seat.
 You can choose from 2 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
-
 
 
 #### Second-row seat
@@ -154,7 +148,6 @@ The KGM Torres EVX includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The KGM Torres EVX has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -170,9 +163,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/screens_1_st.jpg" title="KGM Torres EVX" width="3000" height="1960"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -187,6 +178,7 @@ Furthermore, the KGM Torres EVX supports Android Auto and Apple CarPlay. This fu
 One type of sound system is available for the KGM Torres EVX. With the KGM, you get six speakers with a max system output of 100 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
@@ -197,6 +189,7 @@ The standard headlights use LED technology. In addition, the standard taillights
 ## Advanced driver assistance systems
 
 The KGM Torres EVX has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -231,12 +224,12 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 703 liters. With the rear seat down, it is 1662 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard on this model, making it easy to mount the roof box or rack to the car. The maxium weight of the car is 2410 kg (5313 lbs), and with the base weight of 1915 kg (4222 lbs), you can max load 495 kg (1091 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 495kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 500 kg (3307/1102 lbs).
+
 ### Availability & Pricing
 
 This model had a world premiere on 30.03.2023, and deliveries started in March 2024.<div class="mt-3 mb-3">

@@ -26,7 +26,6 @@ Vi har opdelt vores BMW iX2 eDrive20 artikel i sektioner. Hvis du vil vente med 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 BMW iX2 eDrive20 tilbyder beskedne præstationer med en maksimal effekt på 150 kW (204 hk) og et samlet drejningsmoment på 247 Nm. Den accelererer fra 0 til 100 km/t på 8,6 sekunder og har en topfart på 170 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 BMW iX2 eDrive20 har et forhjulstræksystem understøttet af en motor på forakslen. Den anvendte motor er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
-
 
 ### Hjulophæng
 
@@ -67,7 +64,6 @@ Adaptive M Suspension affjedringen har stålfjedre med en fast højde, men du ka
 Dynamisk styring er en standard-funktion på BMW iX2 eDrive20. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
 
 ### Bremser
-
 
 
 
@@ -102,9 +98,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -148,7 +142,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/frontseats_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2250"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -184,7 +177,6 @@ BMW iX2 eDrive20 inkluderer flere funktioner, der forbedrer komfort og bekvemmel
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 BMW iX2 eDrive20 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
@@ -200,14 +192,22 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/screens_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2250"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter BMW iX2 eDrive20 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på BMW iX2 eDrive20. Med Harman Kardon Surround Sound system får du 16 højttalere med en maksimal systemeffekt på 464 watt. Med Harman Kardon Surround Sound system får du 16 højttalere med en maksimal systemeffekt på 464 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter BMW iX2 eDrive20 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til BMW iX2 eDrive20. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -218,6 +218,7 @@ Du kan vælge mellem to typer forlygter til BMW iX2 eDrive20. Standardlygterne b
 ## Avancerede førerassistentsystemer
 
 BMW iX2 eDrive20 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -247,7 +248,6 @@ Med Driving Assistant Professional  niveau 2-systemet får du følgende køreaut
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

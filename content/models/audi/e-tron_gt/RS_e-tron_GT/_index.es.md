@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Audi RS e-tron GT en secciones. Si desea espera
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 Con el overboost, el Audi RS e-tron GT ofrece una asombrosa potencia máxima de 630 kW (857 hp). Incluso sin overboost, cuenta con una formidable potencia de 560 kW (761 hp). El par máximo alcanza unos increíbles 865 Nm. Esta máquina puede acelerar de 0 a 100 km/h en solo 2,8 segundos y alcanza una velocidad máxima de 250 km/h, lo que subraya su impresionante rendimiento.
@@ -48,7 +47,6 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/charging_2_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
-
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado frontal derecho](../../../../technology/charging/connectors/#lado-delantero). Esta ubicación facilita el uso de las estaciones de carga donde se estaciona junto al cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados. Hay un segundo puerto en el [lado frontal izquierdo](../../../../technology/charging/connectors/#lado-delantero). Este puerto adicional te ofrece más opciones de estacionamiento para la carga de CA. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**J1772**](../../../../technology/charging/connectors/#j1772) para Norteamérica y Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Consulte las especificaciones completas para todos los mercados.
@@ -56,11 +54,9 @@ La ubicación del puerto de carga está en el [lado frontal derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Audi RS e-tron GT tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -81,7 +77,6 @@ La dirección dinámica es una característica un estándar en el Audi RS e-tron
 ### Frenos
 
 Puedes elegir entre diferentes sistemas de frenos. Los frenos de opción standard utilizan [discos de hierro fundido] normales (../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 360 mm y los discos traseros de 358 mm. Los frenos de opción second utilizan un [disco de hierro fundido recubierto con carburo de tungsteno](../../../../technology/brakes/#carbid -frenos). No se oxida y apenas produce polvo de freno. Los discos delanteros son de 410 mm y los discos traseros de 365 mm. Los frenos de opción third utilizan [discos cerámicos](../../../../technology/brakes/#ceramic-brakes). Los discos delanteros son de 420 mm y los discos traseros de 410 mm.
-
 
 ### Frenado regenerativo
 
@@ -116,9 +111,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -197,7 +190,6 @@ El Audi RS e-tron GT incluye varias características para mejorar la comodidad y
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Audi RS e-tron GT tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
@@ -213,13 +205,19 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/screens_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
-
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Audi RS e-tron GT es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre dos sistemas de sonido en el Audi RS e-tron GT. Con el Audi Sound system, obtienes diez parlantes con una salida máxima del sistema de 180 vatios. Con el Bang & Olufsen Sound System, obtienes 16 parlantes con una salida máxima del sistema de 700 vatios.
-
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Audi RS e-tron GT es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 
 ## Luces
 
@@ -233,6 +231,7 @@ Puedes elegir entre tres tipos de faros para el Audi RS e-tron GT. Los faros est
 El Audi RS e-tron GT tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -271,12 +270,12 @@ Con el sistema Assistantpackage Tour  nivel 2, obtienes funciones de automatizac
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 405 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 85 litros (3,0 CU FT). El peso máximo del automóvil es 2860 kg (6305 lbs), y con el peso base de 2340 kg (5159 lbs), puedes cargar como máximo 520 kg (1146 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 18.06.2024 y las entregas comenzaron en September 2024.<div class="mt-3 mb-3">

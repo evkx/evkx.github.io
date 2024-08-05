@@ -26,7 +26,6 @@ Nous avons séparé notre article Audi RS e-tron GT en sections. Si vous souhait
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 Grâce à l'overboost, la Audi RS e-tron GT délivre une puissance maximale époustouflante de 630 kW (857 ch). Même sans l'overboost, elle offre une puissance formidable de 560 kW (761 ch). Le couple maximal atteint un incroyable 865 Nm. Cette bête de puissance peut passer de 0 à 100 km/h en seulement 2,8 secondes et atteint une vitesse maximale de 250 km/h, soulignant ainsi ses performances à couper le souffle.
@@ -48,7 +47,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/charging_2_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
-
 ### Port de recharge
 
 L'emplacement du port de charge est sur le [côté avant droit](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite l'utilisation des bornes de recharge où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés. Un deuxième port se trouve sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Ce port supplémentaire vous offre plus d'options de stationnement pour la recharge AC. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**J1772**](../../../../technology/charging/connectors/# j1772) pour l'Amérique du Nord et l'Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Voir les spécifications complètes pour tous les marchés.
@@ -56,11 +54,9 @@ L'emplacement du port de charge est sur le [côté avant droit](../../../../tech
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Audi RS e-tron GT dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -81,7 +77,6 @@ La direction dynamique est une fonctionnalité un standard sur le Audi RS e-tron
 ### Freins
 
 Vous pouvez choisir entre différents systèmes de freinage. Les freins de l'option standard utilisent des [disques en fonte] standards (../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 360 mm et les disques arrière mesurent 358 mm. Les freins de l'option second utilisent un [disque en fonte recouvert de carbure de tungstène](../../../../technology/brakes/#carbid-freins). Il ne rouille pas et ne produit pratiquement pas de poussière de frein. Les disques avant mesurent 410 mm et les disques arrière mesurent 365 mm. Les freins de l'option third utilisent des [disques en céramique](../../../../technology/brakes/#ceramic-brakes). Les disques avant mesurent 420 mm et les disques arrière mesurent 410 mm.
-
 
 ### Freinage régénératif
 
@@ -116,9 +111,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -197,7 +190,6 @@ L'Audi RS e-tron GT comprend plusieurs fonctionnalités pour améliorer le confo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Audi RS e-tron GT possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
@@ -213,13 +205,19 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/screens_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
-
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Audi RS e-tron GT prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Vous pouvez choisir entre deux systèmes audio sur le Audi RS e-tron GT. Avec le Audi Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 180 watts. Avec le Bang & Olufsen Sound System, vous obtenez 16 haut-parleurs avec une puissance système maximale de 700 watts.
-
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Audi RS e-tron GT prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 
 ## Lumières
 
@@ -233,6 +231,7 @@ Vous pouvez choisir entre trois types de phares pour le Audi RS e-tron GT. Les p
 Le Audi RS e-tron GT dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -271,12 +270,12 @@ Avec le système Assistantpackage Tour  niveau 2, vous bénéficiez de fonctionn
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement du coffre est de 405 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 85 litres (3,0 CU FT). Le poids maximum de la voiture est de 2860 kg (6305 lbs), et avec le poids de base de 2340 kg (5159 lbs), vous pouvez charger au maximum 520 kg (1146 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 18.06.2024 et les livraisons ont commencé en September 2024.<div class="mt-3 mb-3">

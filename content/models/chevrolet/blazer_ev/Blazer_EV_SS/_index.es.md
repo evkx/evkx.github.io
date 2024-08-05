@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Chevrolet Blazer EV SS en secciones. Si desea e
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Chevrolet Blazer EV SS impresiona con una potencia máxima de 410 kW (557 hp) y un impresionante par total de 880 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4 segundos y alcanza una velocidad máxima de 190 km/h, destacándose en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Chevrolet Blazer EV SS tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -65,7 +62,6 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 321 mm y los discos traseros de 345 mm.
-
 
 ### Frenado regenerativo
 
@@ -90,13 +86,10 @@ Hay dos opciones de techo diferentes para elegir El techo estándar tiene un gra
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 
-
 ### Asientos
-
 
 
 #### Asientos de primera fila
@@ -120,7 +113,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -152,7 +144,6 @@ El Chevrolet Blazer EV SS incluye varias características para mejorar la comodi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Chevrolet Blazer EV SS tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -173,11 +164,20 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Chevrolet Blazer EV SS es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el Chevrolet Blazer EV SS. Con el Lyric sound system, obtienes siete parlantes con una salida máxima del sistema de  vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Chevrolet Blazer EV SS es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 5 conexiones USB-C de serie.
+
 ## Luces
 
 
@@ -188,6 +188,7 @@ El modelo tiene 5 conexiones USB-C de serie.
 ## Sistemas avanzados de asistencia al conductor
 
 El Chevrolet Blazer EV SS tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -212,7 +213,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

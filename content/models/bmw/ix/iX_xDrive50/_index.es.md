@@ -26,7 +26,6 @@ Hemos separado nuestro artículo BMW iX xDrive50 en secciones. Si desea esperar 
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El BMW iX xDrive50 ofrece un rendimiento sólido con una potencia máxima de 385 kW (524 hp) y un par total de 765 Nm. Puede acelerar de 0 a 100 km/h en 4,6 segundos y alcanza una velocidad máxima de 200 km/h, lo que lo hace competitivo en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 BMW iX xDrive50 tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de rotor bobinado](../../../../technology/motors/wrsm/).
-
 
 ### Suspensión
 
@@ -67,7 +64,6 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 La dirección dinámica es una característica un estándar en el BMW iX xDrive50. La dirección dinámica varía la relación de dirección en función de la velocidad de conducción. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
 
 ### Frenos
-
 
 
 
@@ -96,9 +92,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -126,7 +120,6 @@ Puedes elegir entre 7 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/frontseat_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1999"  >}}
 
-
 #### Asiento de segunda fila
 
 
@@ -148,7 +141,6 @@ Hay dos opciones de sistema de climatización disponibles:
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 - **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
 
-
 ## Características de confort
 
 El BMW iX xDrive50 incluye varias características para mejorar la comodidad y conveniencia:
@@ -160,7 +152,6 @@ El BMW iX xDrive50 incluye varias características para mejorar la comodidad y c
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interfaz de usuario y control
@@ -178,20 +169,30 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/screens_1_st.jpg" title="BMW iX xDrive50" width="3000" height="2250"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el BMW iX xDrive50 es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
 
 Puedes elegir entre dos sistemas de sonido en el BMW iX xDrive50. Con el Harman Kardon Surround Sound system, obtienes 18 parlantes con una salida máxima del sistema de 655 vatios. Con el Bowers & Wilkins Diamond surround sound system, obtienes 30 parlantes con una salida máxima del sistema de 1615 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el BMW iX xDrive50 es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 6 conexiones USB-C de serie.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el BMW iX xDrive50. Los faros estándar utilizan tecnología LED. Los faros basados en LED Matrix con tecnología láser están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apague individualmente para apagar las áreas pequeñas en el frente. Además, las luces traseras estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El BMW iX xDrive50 tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -225,7 +226,6 @@ Con el sistema Driving Assistant Professional  nivel 2, obtienes funciones de au
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

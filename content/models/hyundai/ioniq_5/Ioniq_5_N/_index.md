@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 With overboost, the Hyundai Ioniq 5 N reaches a maximum power of 478 kW (650 hp / 641 bhp). Without overboost, it provides a strong 448 kW (609 hp / 601 bhp). The maxium torque is at 770 Nm (568 lb-ft). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.4 seconds and reaches a top speed of 260 km/h (162 mph), showcasing its impressive performance.
@@ -52,18 +51,15 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Hyundai Ioniq 5 N features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
 The  suspension has steel springs with a fixed height, but you can adjust damping to fit your driving style or road condition. The ground clearance with this suspension is 158 mm.
 
 ### Brakes
-
 
 
 
@@ -94,13 +90,11 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
 
 ### Seats
-
 
 
 #### First row seats
@@ -117,7 +111,6 @@ The following functionalities are available on the **** seat.
 You can choose from 2 different materials/colors for this seat type.
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Black [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
-
 
 
 #### Second-row seat
@@ -149,7 +142,6 @@ The Hyundai Ioniq 5 N includes several features to enhance comfort and convenien
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Hyundai Ioniq 5 N has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -165,9 +157,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/screens_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="1748"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -182,6 +172,7 @@ Furthermore, the Hyundai Ioniq 5 N supports Android Auto and Apple CarPlay. This
 One type of sound system is available for the Hyundai Ioniq 5 N. With the Bose Premium Sound System, you get eight speakers with a max system output of  watts.
 
 The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
@@ -192,6 +183,7 @@ The standard headlights use LED technology. In addition, the standard taillights
 ## Advanced driver assistance systems
 
 The Hyundai Ioniq 5 N has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -223,7 +215,6 @@ With the   level 2 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

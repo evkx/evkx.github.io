@@ -26,7 +26,6 @@ Vi har opdelt vores BMW iX xDrive40 artikel i sektioner. Hvis du vil vente med a
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 BMW iX xDrive40 leverer en solid præstation med en maksimal effekt på 240 kW (326 hk) og et totalt drejningsmoment på 630 Nm. Den kan accelerere fra 0 til 100 km/t på 6,1 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 BMW iX xDrive40 har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Du kan bestille BMW iX xDrive40 med en alternativ Adaptive Air Suspension hjulop
 Dynamisk styring er en standard-funktion på BMW iX xDrive40. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden. Derudover er baghjulsstyring tilgængelig som en standard-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
 
 ### Bremser
-
 
 
 
@@ -98,9 +94,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -128,7 +122,6 @@ Du kan vælge mellem 7 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/frontseat_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1999"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -150,7 +143,6 @@ To klimaanlægsmuligheder er tilgængelige:
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
 
-
 ## Komfortfunktioner
 
 BMW iX xDrive40 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
@@ -162,7 +154,6 @@ BMW iX xDrive40 inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brugergrænseflade og kontrol
@@ -180,20 +171,30 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/screens_1_st.jpg" title="BMW iX xDrive40" width="3000" height="2250"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter BMW iX xDrive40 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på BMW iX xDrive40. Med Harman Kardon Surround Sound system får du 18 højttalere med en maksimal systemeffekt på 655 watt. Med Bowers & Wilkins Diamond surround sound system får du 30 højttalere med en maksimal systemeffekt på 1615 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter BMW iX xDrive40 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 6 USB-C-forbindelser som standard.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til BMW iX xDrive40. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix med laserteknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukkes individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 BMW iX xDrive40 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -227,7 +228,6 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

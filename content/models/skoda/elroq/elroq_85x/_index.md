@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The SKODA Elroq 85x delivers a solid performance with a maximum power of 220 kW (299 hp / 295 bhp) and a total torque of 679 Nm (501 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.6 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_85x/charging_1_st.jpg" title="SKODA Elroq 85x" width="3000" height="2002"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 SKODA Elroq 85x features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
-
 
 ### Suspension
 
@@ -73,7 +69,6 @@ Dynamic steering is a standard feature on the SKODA Elroq 85x. Dynamic steering 
 ### Brakes
 
 The SKODA Elroq 85x uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 358mm.
-
 
 ### Regenerative braking
 
@@ -103,9 +98,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -126,7 +119,6 @@ The following functionalities are available on the **Sport** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 2 different materials/colors for this seat type.
-
 
 
 #### Second-row seat
@@ -159,7 +151,6 @@ The SKODA Elroq 85x includes several features to enhance comfort and convenience
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The SKODA Elroq 85x has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -174,7 +165,6 @@ A head-up display is an optional system that projects speed and other important 
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the an optional in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -188,6 +178,7 @@ Furthermore, the SKODA Elroq 85x supports Android Auto and Apple CarPlay. This f
 One type of sound system is available for the SKODA Elroq 85x. With the Canton Soundsystem, you get ten speakers with a max system output of 550 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the SKODA Elroq 85x. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
@@ -200,6 +191,7 @@ You can choose between two types of headlights for the SKODA Elroq 85x. The stan
 The SKODA Elroq 85x has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -233,12 +225,12 @@ With the MAX  level 2 system, you get the following driving automation features.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 490 liters. With the rear seat down, it is 1610 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2350 kg (5181 lbs), and with the base weight of 1800 kg (3968 lbs), you can max load 550 kg (1213 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
+
 ### Availability & Pricing
 
 This model had a world premiere on 01.07.2024, and deliveries is expected to start in February 2025.<div class="mt-3 mb-3">

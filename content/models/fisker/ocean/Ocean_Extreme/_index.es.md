@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Fisker Ocean Extreme en secciones. Si desea esp
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 Con overboost, el Fisker Ocean Extreme alcanza una potencia máxima de 415 kW (564 hp). Sin overboost, proporciona una sólida potencia de 344 kW (468 hp). El par máximo es de 737 Nm. Este motor de alta potencia puede acelerar de 0 a 100 km/h en solo 4 segundos y alcanza una velocidad máxima de 205 km/h, mostrando su impresionante rendimiento.
@@ -48,7 +47,6 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/charging_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="2250"  >}}
 
-
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../../technology/charging/connectors/#lado-delantero). Esta ubicación facilita la carga de las estaciones donde se estaciona junto al cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
@@ -56,11 +54,9 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Fisker Ocean Extreme tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
-
 
 ### Suspensión
 
@@ -75,11 +71,9 @@ El Fisker Ocean Extreme permite al usuario seleccionar diferentes [modos de cond
 - Hyper: dirección equilibrada, acelerador dinámico y regeneración de elevación media.
 - Snow/Ice: dirección equilibrada, con aceleración eficiente y baja regeneración de elevación.
 
-
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
-
 
 ### Frenado regenerativo
 
@@ -107,7 +101,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámi
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -139,7 +132,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/frontseats_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="1687"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -173,7 +165,6 @@ El Fisker Ocean Extreme incluye varias características para mejorar la comodida
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Fisker Ocean Extreme tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
@@ -189,22 +180,28 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/screens_1_st.jpg" title="Fisker Ocean Extreme" width="1920" height="1080"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.soundsystem
 
 Un tipo de sistema de sonido está disponible para el Fisker Ocean Extreme. Con el Fisker Hypersound 3D, obtienes 16 parlantes con una salida máxima del sistema de 500 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
-
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Fisker Ocean Extreme tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -236,7 +233,6 @@ Con el sistema Fisker Intelligent Pilot  nivel 2, obtienes las siguientes funcio
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

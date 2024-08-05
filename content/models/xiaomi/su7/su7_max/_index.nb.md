@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Xiaomi SU7 Max i seksjoner. Hvis du vil vente me
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Xiaomi SU7 Max imponerer med en imponerende kraft på 495 kW (673 hk) og et betydelig dreiemoment på 838 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 2,78 sekunder og har en toppfart på 265 km/t, noe som gjør den til en markant modell i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Xiaomi SU7 Max har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
-
 
 ### Hjuloppheng
 
@@ -69,7 +66,6 @@ Dynamisk styring er standard-funksjonen på Xiaomi SU7 Max. Dynamisk styring var
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsing
 
@@ -100,7 +96,6 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Du kan velge mellom flere interiørdesign.
@@ -129,7 +124,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/frontseats_1_st.jpg" title="Xiaomi SU7 Max" width="1760" height="1000"  >}}
 
-
 #### Seter på andre rad
 
 
@@ -151,7 +145,6 @@ Det er ett tilgjengelig klimasystem.
 
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
-
 ## Komfortfunksjoner
 
 Xiaomi SU7 Max inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
@@ -163,7 +156,6 @@ Xiaomi SU7 Max inkluderer flere funksjoner for å forbedre komfort og bekvemmeli
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brukergrensesnitt og kontroll
@@ -180,12 +172,14 @@ Et head-up display er standard-system som viser hastighet og annen viktig fører
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/screens_1_st.jpg" title="Xiaomi SU7 Max" width="2560" height="1440"  >}}
 
-
 ## Infotainment
+
+### header.soundsystem
 
 Én type lydsystem er tilgjengelig for Xiaomi SU7 Max. Med Xiaomi Soundsystem får du 25 høyttalere med en maksimal systemeffekt på  watt.
 
 Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
@@ -196,6 +190,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 ## Avanserte førerassistentsystemer
 
 Xiaomi SU7 Max har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -237,12 +232,12 @@ Opptil tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), en 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 493 liter. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 105 liter. Maksimumsvekten til bilen er 2655 kg, og med basisvekten på 2205 kg kan du maksimalt laste 450 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 28.12.2023, og leveringene startet i March 2024. Denne modellen er kun tilgjengelig i Kina.<div class="mt-3 mb-3">

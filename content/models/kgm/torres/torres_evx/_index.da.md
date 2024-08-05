@@ -26,7 +26,6 @@ Vi har opdelt vores KGM Torres EVX artikel i sektioner. Hvis du vil vente med at
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 KGM Torres EVX tilbyder beskedne præstationer med en maksimal effekt på 152,2 kW (207 hk) og et samlet drejningsmoment på 339 Nm. Den accelererer fra 0 til 100 km/t på 8,1 sekunder og har en topfart på 175 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 KGM Torres EVX har et forhjulstræksystem understøttet af en motor på forakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -65,7 +62,6 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 260mm, og de bagerste skiver er 260mm.
-
 
 ### Regenerativ bremsning
 
@@ -97,7 +93,6 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Der er én sædetype, du kan vælge i forskellige materialer.
@@ -120,7 +115,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Black [læderpolstring](../../../../technology/seats/materials/#leather)
-
 
 
 #### Sæde på anden række
@@ -154,7 +148,6 @@ KGM Torres EVX inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 KGM Torres EVX har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
@@ -170,14 +163,22 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/screens_1_st.jpg" title="KGM Torres EVX" width="3000" height="1960"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter KGM Torres EVX Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Én type lydsystem er tilgængelig for KGM Torres EVX. Med KGM får du seks højttalere med en maksimal systemeffekt på 100 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter KGM Torres EVX Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 4 USB-C-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
@@ -188,6 +189,7 @@ Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-
 ## Avancerede førerassistentsystemer
 
 KGM Torres EVX har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -222,12 +224,12 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 703 liter. Med bagsædet nede er det 1662 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Bilens maksimale vægt er 2410 kg (5313 lbs), og med basisvægten på 1915 kg (4222 lbs), kan du maksimalt laste 495 kg (1091 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 495kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 500 kg (3307/1102 lbs).
+
 ### Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 30.03.2023, og leveringerne startede i March 2024.<div class="mt-3 mb-3">

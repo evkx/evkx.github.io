@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The BMW i4 M50 packs an impressive punch with a maximum power of 400 kW (544 hp / 536 bhp) and a commanding total torque of 795 Nm (587 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.9 seconds, and it reaches a top speed of 225 km/h (140 mph), making it a standout in its class.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/charging_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 BMW i4 M50 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
-
 
 ### Suspension
 
@@ -73,7 +69,6 @@ Dynamic steering is a standard feature on the BMW i4 M50. Dynamic steering varie
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -106,9 +101,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -191,7 +184,6 @@ You can choose from 21 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/frontseats_1_st.jpg" title="BMW i4 M50" width="3000" height="2121"  >}}
 
-
 #### Second-row seat
 
 
@@ -209,7 +201,6 @@ Two climate system options are available:
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
-
 ## Comfort features
 
 The BMW i4 M50 includes several features to enhance comfort and convenience:
@@ -221,7 +212,6 @@ The BMW i4 M50 includes several features to enhance comfort and convenience:
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -239,9 +229,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/screens_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -256,12 +244,15 @@ Furthermore, the BMW i4 M50 supports Android Auto and Apple CarPlay. This functi
 You can choose between two sound systems on the BMW i4 M50. With the Hifi Sound system, you get ten speakers with a max system output of 200 watts. With the Harman Kardon Surround Sound system, you get 17 speakers with a max system output of 445 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the BMW i4 M50. The standard headlights use LED technology. Headlights based on LED Matrix with Laser technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The BMW i4 M50 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -295,7 +286,6 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

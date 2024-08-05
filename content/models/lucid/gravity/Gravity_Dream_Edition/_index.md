@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Lucid Gravity Dream Edition packs an impressive punch with a maximum power of 600 kW (816 hp / 805 bhp) and a commanding total torque of 1000 Nm (738 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.5 seconds, and it reaches a top speed of 250 km/h (155 mph), making it a standout in its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Lucid Gravity Dream Edition features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -71,7 +68,6 @@ Dynamic steering is a standard feature on the Lucid Gravity Dream Edition. Dynam
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 386mm, and the rear discs are 381mm.
-
 
 ### Regenerative braking
 
@@ -99,7 +95,6 @@ There is only one roof for this model. The windshield is panoramic going back ov
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -137,7 +132,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/frontseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
-
 #### Second-row seat
 
 
@@ -148,7 +142,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/secondrowseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
-
 
 #### Third-row seats
 
@@ -180,7 +173,6 @@ The Lucid Gravity Dream Edition includes several features to enhance comfort and
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 
@@ -195,9 +187,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/screens_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -208,6 +198,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Lucid Gravity Dream Edition. With the Surreal Sound Pro System, you get 22 speakers with a max system output of  watts.
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology.
@@ -218,6 +209,7 @@ The standard headlights use LED technology.
 ## Advanced driver assistance systems
 
 The Lucid Gravity Dream Edition has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -244,7 +236,6 @@ With the ADAS  level 2 system, you get the following driving automation features
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

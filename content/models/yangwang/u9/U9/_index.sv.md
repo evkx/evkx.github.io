@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av YangWang U9 i avsnitt. Om du vill vänta med
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 YangWang U9 levererar en häpnadsväckande maximal effekt på 960 KW (1305 hk) och ett massivt vridmoment på 1680 Nm. Denna kraftmaskin kan accelerera från 0 till 100 km/h på bara 2,36 sekunder, vilket visar på dess fantastiska acceleration. Dessutom uppnår den en topphastighet på 309 km/h, vilket gör den till ett verkligt ingenjörsmässigt och prestandamässigt underverk.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 YangWang U9 har ett fyrhjulsdriftsystem som stöds av fyra motorer. En för varje hjul. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -76,11 +73,9 @@ YangWang U9 låter användaren välja olika [drivemodes](../../../../technology/
 - Track: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
 - Drift: Dynamisk styrning, låg fjädring med dynamisk gas och fjädring.
 
-
 ### Bromsar
 
 Bromsar bak och fram är [keramiska skivor](../../../../technology/brakes/#ceramic-brakes). De främre skivorna är 390mm och de bakre skivorna är 390mm.
-
 
 ### Regenerativ bromsning
 
@@ -109,13 +104,10 @@ Det finns bara ett tak för denna modell.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
 
 
-
 ### Säten
-
 
 
 #### Framsäten
@@ -153,7 +145,6 @@ YangWang U9 inkluderar flera funktioner för att förbättra komfort och bekväm
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 YangWang U9 har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument). Dessutom finns det en [infotainmentskärm] (../../../../technology/userinterface/screens/#infotainmentskärm) i mittkonsolen och en [infotainmentskärm](../../../../technology/userinterface/screens/ #front-passager-screen) framför passagerarsätet.
@@ -170,13 +161,19 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/yangwang/u9/u9/screens_1_st.jpg" title="YangWang U9" width="1200" height="717"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder YangWang U9 Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 En typ av ljudsystem är tillgänglig för YangWang U9. Med Rimac Nevera Sound System får du åtta högtalare med en maximal systemeffekt på 1200 watt.
-
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder YangWang U9 Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 
 ## Ljus
 
@@ -188,6 +185,7 @@ Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-
 ## Avancerade förarassistanssystem
 
 YangWang U9 har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -208,12 +206,12 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastutrymmets kapacitet är 200 liter. Bilens maximala vikt är 2625 kg, och med basvikten på 2475 kg kan du lasta maximalt 150 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+
 ### Tillgänglighet och pris
 
 Denna modell hade världspremiär 01.04.2023 och leveranser förväntas starta om January 2025.<div class="mt-3 mb-3">

@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av HiPhi X 4 Seater i seksjoner. Hvis du vil vente 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 HiPhi X 4 Seater imponerer med en imponerende kraft på 433 kW (589 hk) og et betydelig dreiemoment på 820 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 3,9 sekunder og har en toppfart på 200 km/t, noe som gjør den til en markant modell i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/charging_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Denne modellen bruker [**GBT**](../../../../technology/charging/connectors/#gbt) for Kina og Europa, noe som betyr at du må bruke en CCS2>GBT-adapter i Europa. Se fullstendige spesifikasjoner for alle markeder.
@@ -56,11 +54,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 HiPhi X 4 Seater har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -73,7 +69,6 @@ Dynamisk styring er standard-funksjonen på HiPhi X 4 Seater. Dynamisk styring v
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsing
 
@@ -100,9 +95,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -127,7 +120,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 - Gray [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Seter på andre rad
@@ -166,7 +158,6 @@ HiPhi X 4 Seater inkluderer flere funksjoner for å forbedre komfort og bekvemme
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 HiPhi X 4 Seater har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet.
@@ -188,11 +179,16 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
-Du kan velge mellom to lydsystemer på HiPhi X 4 Seater. Med SONIC LINE SYSTEM får du ni høyttalere med en maksimal systemeffekt på 600 watt. Med SONIC PRO SYSTEM får du 17 høyttalere med en maksimal systemeffekt på 600 watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### header.soundsystem
+
+Du kan velge mellom to lydsystemer på HiPhi X 4 Seater. Med SONIC LINE SYSTEM får du ni høyttalere med en maksimal systemeffekt på 600 watt. Med SONIC PRO SYSTEM får du 17 høyttalere med en maksimal systemeffekt på 600 watt.
+
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 3 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
@@ -203,6 +199,7 @@ Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-te
 ## Avanserte førerassistentsystemer
 
 HiPhi X 4 Seater har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -234,7 +231,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

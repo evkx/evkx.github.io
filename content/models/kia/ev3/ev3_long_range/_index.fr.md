@@ -26,7 +26,6 @@ Nous avons séparé notre article Kia EV3 Long Range en sections. Si vous souhai
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 L'Kia EV3 Long Range offre des performances modestes avec une puissance maximale de 150 kW (204 ch) et un couple total de 283 Nm. Il accélère de 0 à 100 km/h en 7,5 secondes et atteint une vitesse maximale de 170 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -52,18 +51,15 @@ L'emplacement du port de charge est sur [avant](../../../../technology/charging/
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Kia EV3 Long Range dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant.
-
 
 ### Suspension
 
 La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cette suspension est de 160 mm.
 
 ### Freins
-
 
 
 
@@ -97,13 +93,11 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
 ### Sièges
-
 
 
 #### Sièges de première rangée
@@ -126,7 +120,6 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 - Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 - Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
-
 
 
 #### Siège de deuxième rangée
@@ -158,7 +151,6 @@ L'Kia EV3 Long Range comprend plusieurs fonctionnalités pour améliorer le conf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Kia EV3 Long Range possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -174,20 +166,30 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/kia/ev3/ev3_long_range/screens_1_st.jpg" title="Kia EV3 Long Range" width="2903" height="1633"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Kia EV3 Long Range prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Vous pouvez choisir entre deux systèmes audio sur le Kia EV3 Long Range. Avec le Standard, vous obtenez six haut-parleurs avec une puissance système maximale de  watts. Avec le Meridian Premium Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de  watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Kia EV3 Long Range prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Kia EV3 Long Range dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -218,7 +220,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

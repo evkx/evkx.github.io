@@ -26,7 +26,6 @@ Nous avons séparé notre article Nio ET5 en sections. Si vous souhaitez attendr
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Nio ET5 impressionne avec une puissance maximale de 480 kW (653 ch) et un couple total impressionnant de 850 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 3,9 secondes, et atteint une vitesse maximale de 200 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
@@ -34,6 +33,7 @@ La Nio ET5 impressionne avec une puissance maximale de 480 kW (653 ch) et un cou
 ## Batterie, autonomie et charge
 
 Nio ET5 propose deux options de batterie avec des spécifications différentes. Vous voyez ci-dessous comment cela affecte l'autonomie et la charge.
+
 ### 100kWh
 
 La batterie haute capacité a une capacité brute de 100 kWh et une capacité nette utilisable de 90 kWh, offrant une réserve de 10 kWh (10,0%) pour la protection de la batterie. Avec une tension nominale de 358 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
@@ -43,6 +43,7 @@ Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../..
 La vitesse de charge DC maximale est de 126kW. Une charge complète de 0 à 100 % prendrait 75 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 41 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 44 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 86kW. Chaque session de charge prendrait 27 minutes et 2 secondes.
 
 Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 23 kWh/100 km, le voyage prendrait environ 9 heures et 58 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 40%, avec un temps de recharge total de 98 minutes.
+
 ### 75kWh
 
 La batterie haute capacité a une capacité brute de 75 kWh et une capacité nette utilisable de 70,5 kWh, offrant une réserve de 4,5 kWh (6,0%) pour la protection de la batterie. Avec une tension nominale de 386 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
@@ -60,6 +61,7 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 ### Port de recharge
 
 L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+
 ### Échange de batterie
 
 Ce modèle prend en charge l'échange de batterie. L'échange de batterie signifie que vous pouvez vous rendre à une station d'échange de batterie unique et faire remplacer la batterie par une nouvelle batterie avec 90 % de SOC. L'échange de batterie prend 7 minutes.
@@ -67,14 +69,11 @@ Ce modèle prend en charge l'échange de batterie. L'échange de batterie signif
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Nio ET5 dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
 
-
 ### Suspension
-
 
 
 ### Pilotage
@@ -84,7 +83,6 @@ La direction dynamique est une fonctionnalité un standard sur le Nio ET5. La di
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
-
 
 ### Freinage régénératif
 
@@ -114,9 +112,7 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -147,7 +143,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 - Gray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 
-
 #### Siège de deuxième rangée
 
 
@@ -164,7 +159,6 @@ Un système climatique est disponible.
 
 - **Système de climatisation à 3 zones** : Prend en charge différentes températures dans trois zones pour le conducteur, le passager et la banquette arrière.
 
-
 ## Caractéristiques de confort
 
 L'Nio ET5 comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
@@ -176,7 +170,6 @@ L'Nio ET5 comprend plusieurs fonctionnalités pour améliorer le confort et la c
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interface utilisateur et contrôle
@@ -198,17 +191,24 @@ Ce modèle dispose d'un système de commande vocale en option. La commande vocal
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le Nio ET5. Avec le Premium sound system, vous obtenez 23 haut-parleurs avec une puissance système maximale de  watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Nio ET5 dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -246,7 +246,6 @@ Avec le système NIO Pilot Complete Pack  niveau 2, vous bénéficiez de fonctio
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

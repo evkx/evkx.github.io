@@ -26,7 +26,6 @@ Nous avons séparé notre article Ford Mustang Mach-E GT en sections. Si vous so
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Ford Mustang Mach-E GT offre des performances solides avec une puissance maximale de 358 kW (487 ch) et un couple total de 860 Nm. Elle peut accélérer de 0 à 100 km/h en 3,7 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -48,7 +47,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/charging_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 
-
 ### Port de recharge
 
 L'emplacement du port de charge est sur le [côté avant gauche](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite la recharge des bornes où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
@@ -56,11 +54,9 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Ford Mustang Mach-E GT dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
-
 
 ### Suspension
 
@@ -69,7 +65,6 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 457 mm et les disques arrière mesurent 432 mm.
-
 
 ### Freinage régénératif
 
@@ -97,9 +92,7 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -125,7 +118,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/frontseats_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -163,7 +155,6 @@ L'Ford Mustang Mach-E GT comprend plusieurs fonctionnalités pour améliorer le 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 
@@ -178,14 +169,22 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/screens_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Ford Mustang Mach-E GT prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Un type de système audio est disponible pour le Ford Mustang Mach-E GT. Avec le B&O Sound System, vous obtenez dix haut-parleurs avec une puissance système maximale de 560 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Ford Mustang Mach-E GT prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
+
 ## Lumières
 
 
@@ -196,6 +195,7 @@ Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 co
 ## Systèmes avancés d'aide à la conduite
 
 Le Ford Mustang Mach-E GT dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -229,7 +229,6 @@ Avec le système Ford BlueCruise  niveau 2, vous bénéficiez des fonctionnalit�
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

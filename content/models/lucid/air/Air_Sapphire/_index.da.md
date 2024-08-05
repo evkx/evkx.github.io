@@ -26,7 +26,6 @@ Vi har opdelt vores Lucid Air Sapphire artikel i sektioner. Hvis du vil vente me
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Lucid Air Sapphire leverer en imponerende maksimal effekt på 920 KW (1251 hk) og et massivt drejningsmoment på 1390 Nm. Denne kraftpakke kan accelerere fra 0 til 100 km/t på blot 1,95 sekunder, hvilket viser dens fantastiske acceleration. Derudover opnår den en topfart på 330 km/t, hvilket gør den til et sandt ingeniør- og præstationsmæssigt vidunder
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Lucid Air Sapphire har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en standard-funktion på Lucid Air Sapphire. Dynamisk styrin
 ### Bremser
 
 Bremserne bag og foran er [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De forreste skiver er 420mm, og de bagerste skiver er 390mm.
-
 
 ### Regenerativ bremsning
 
@@ -94,9 +90,7 @@ Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -125,7 +119,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/frontseats_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2001"  >}}
-
 
 #### Sæde på anden række
 
@@ -163,7 +156,6 @@ Lucid Air Sapphire inkluderer flere funktioner, der forbedrer komfort og bekvemm
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Oven på instrumentbrættet er en delt ramme med tre skærme, og i midterkonsollen er der en fjerde [infotainment-skærm](../../../../technology /brugergrænseflade/skærme/#infotainment-skærm).
@@ -181,14 +173,18 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/screens_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
 
 Én type lydsystem er tilgængelig for Lucid Air Sapphire. Med Surreal Sound Pro får du 21 højttalere med en maksimal systemeffekt på 800 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi.
@@ -199,6 +195,7 @@ Standardlygterne bruger LED-teknologi.
 ## Avancerede førerassistentsystemer
 
 Lucid Air Sapphire har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -225,7 +222,6 @@ Med ADAS  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

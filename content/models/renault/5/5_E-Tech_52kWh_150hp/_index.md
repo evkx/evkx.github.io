@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Renault 5 E-Tech 52kWh 150hp offers modest performance with a maximum power of 110 kW (150 hp / 148 bhp) and a total torque of 245 Nm (181 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.9 seconds and has a top speed of 150 km/h (93 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -48,7 +47,6 @@ The standard onboard charger supports up to 7.2 kW for Level 1 and Level 2 AC ch
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/charging_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1688"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Renault 5 E-Tech 52kWh 150hp has a front-wheel drive system supported by one motor on the front axle. The motor used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
-
 
 ### Suspension
 
@@ -73,7 +69,6 @@ Dynamic steering is an optional feature on the Renault 5 E-Tech 52kWh 150hp. Dyn
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -98,9 +93,7 @@ There is only one roof for this model. The standard is just a regular roof.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -123,7 +116,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/frontseats_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
-
 
 #### Second-row seat
 
@@ -156,7 +148,6 @@ The Renault 5 E-Tech 52kWh 150hp includes several features to enhance comfort an
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Renault 5 E-Tech 52kWh 150hp has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -173,7 +164,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -187,6 +177,7 @@ Furthermore, the Renault 5 E-Tech 52kWh 150hp supports Android Auto and Apple Ca
 You can choose between two sound systems on the Renault 5 E-Tech 52kWh 150hp. With the DAB Audiosystem, you get six speakers with a max system output of  watts. With the BOSE Premium Sound System, you get ten speakers with a max system output of  watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the Renault 5 E-Tech 52kWh 150hp. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
@@ -197,6 +188,7 @@ You can choose between two types of headlights for the Renault 5 E-Tech 52kWh 15
 ## Advanced driver assistance systems
 
 The Renault 5 E-Tech 52kWh 150hp has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -226,7 +218,6 @@ With the ProPILOT  level 2 system, you get the following driving automation feat
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

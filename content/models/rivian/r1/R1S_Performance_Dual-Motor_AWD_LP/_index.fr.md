@@ -26,7 +26,6 @@ Nous avons séparé notre article Rivian R1S Performance Dual-Motor AWD LP en se
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Rivian R1S Performance Dual-Motor AWD LP impressionne avec une puissance maximale de 489 kW (665 ch) et un couple total impressionnant de 1123 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 3,6 secondes, et atteint une vitesse maximale de 201 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
@@ -48,7 +47,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 11,5 kW pour la charge C
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/charging_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="2880" height="1920"  >}}
 
-
 ### Port de recharge
 
 L'emplacement du port de charge se trouve dans le [coin avant gauche](../../../../technology/charge/connectors/#front-corner). Cet emplacement facilite l'utilisation des bornes de recharge où il faut se garer avec l'avant vers l'intérieur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
@@ -56,11 +54,9 @@ L'emplacement du port de charge se trouve dans le [coin avant gauche](../../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Rivian R1S Performance Dual-Motor AWD LP dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
-
 
 ### Suspension
 
@@ -69,7 +65,6 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 343 mm et les disques arrière mesurent 328 mm.
-
 
 ### Freinage régénératif
 
@@ -97,9 +92,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -123,7 +116,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Green [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Blue [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Siège de deuxième rangée
@@ -165,7 +157,6 @@ L'Rivian R1S Performance Dual-Motor AWD LP comprend plusieurs fonctionnalités p
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Rivian R1S Performance Dual-Motor AWD LP possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
@@ -186,17 +177,24 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le Rivian R1S Performance Dual-Motor AWD LP. Avec le Rivian Elevation audio system, vous obtenez 22 haut-parleurs avec une puissance système maximale de 1100 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
 Le modèle dispose de 6 connexions USB-C en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Rivian R1S Performance Dual-Motor AWD LP dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -225,7 +223,6 @@ Avec le système Driver+  niveau 2, vous bénéficiez des fonctionnalités d'aut
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Mercedes-EQ EQB 300 4MATIC en secciones. Si des
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Mercedes-EQ EQB 300 4MATIC ofrece un rendimiento modesto con una potencia máxima de 168 kW (228 hp) y un par total de 390 Nm. Acelera de 0 a 100 km/h en 8 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -52,14 +51,11 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Mercedes-EQ EQB 300 4MATIC tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
 
-
 ### Suspensión
-
 
 
 ### Dirección
@@ -69,7 +65,6 @@ La dirección dinámica es una característica un estándar en el Mercedes-EQ EQ
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
-
 
 ### Frenado regenerativo
 
@@ -97,9 +92,7 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -146,7 +139,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_300_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" width="3000" height="1999"  >}}
 
-
 #### Asiento de segunda fila
 
 
@@ -170,7 +162,6 @@ Hay dos opciones de sistema de climatización disponibles:
 - **Sistema de climatización de 1 zonas:** Soporta el control de una zona compartida para todo el automóvil.
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 
-
 ## Características de confort
 
 El Mercedes-EQ EQB 300 4MATIC incluye varias características para mejorar la comodidad y conveniencia:
@@ -181,7 +172,6 @@ El Mercedes-EQ EQB 300 4MATIC incluye varias características para mejorar la co
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interfaz de usuario y control
@@ -206,17 +196,28 @@ Este modelo también tiene un sistema de control de gestos opcional que te permi
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Mercedes-EQ EQB 300 4MATIC es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre dos sistemas de sonido en el Mercedes-EQ EQB 300 4MATIC. Con el Standard, obtienes siete parlantes con una salida máxima del sistema de 100 vatios. Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Mercedes-EQ EQB 300 4MATIC es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 4 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Mercedes-EQ EQB 300 4MATIC tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -248,7 +249,6 @@ Con el sistema Driver Assistance Package  nivel 1, obtienes las siguientes funci
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

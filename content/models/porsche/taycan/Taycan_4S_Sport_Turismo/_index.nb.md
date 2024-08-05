@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Porsche Taycan 4S Sport Turismo i seksjoner. Hvi
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Med overboost når Porsche Taycan 4S Sport Turismo en maksimal effekt på 400 kW (544 hk / 536 bhp). Uten overboost leverer den solide 340 kW (462 hk). Maksimalt dreiemoment er på 695 Nm. Denne kraftpluggen kan akselerere fra 0 til 100 km/t på kun 3,7 sekunder og har en topphastighet på 250 km/t, som viser frem dens imponerende ytelse.
@@ -36,6 +35,7 @@ Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. M
 ## Batteri, rekkevidde og lading
 
 Porsche Taycan 4S Sport Turismo har to batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading.
+
 ### Performance Battery
 
 Høykapasitetsbatteriet har en brutto kapasitet på 89 kWh og en netto brukbar kapasitet på 83,6 kWh, som gir en buffer på 5,4 kWh (6,1%) for batteribeskyttelse. Ved å operere med en nominell spenning på 725 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
@@ -45,6 +45,7 @@ I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../
 Maksimal DC-ladehastighet er 270 kW. En full lading fra 0 - 100 % vil ta 50 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 3% til 65%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 165kW. Hver ladeøkt vil ta 19 minutter og 52 sekunder. Denne effektive ladekapasiteten gjør Porsche Taycan 4S Sport Turismo til et praktisk valg for langdistansereiser.
 
 I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 21 kWh/100 km, ville turen ta omtrent 9 timer og 7 minutter. Denne reisen ville kreve to ladestopp fra 4% til 55%, med en total ladetid på 47 minutter.
+
 ### Performance Battery Plus
 
 Høykapasitetsbatteriet har en brutto kapasitet på 105 kWh og en netto brukbar kapasitet på 97 kWh, som gir en buffer på 8 kWh (7,6%) for batteribeskyttelse. Ved å operere med en nominell spenning på 725 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
@@ -66,11 +67,9 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Porsche Taycan 4S Sport Turismo har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -85,7 +84,6 @@ Dynamisk styring er standard-funksjonen på Porsche Taycan 4S Sport Turismo. Dyn
 ### Bremser
 
 Du kan velge mellom forskjellige bremsesystemer. Opsjonsbremsene standard bruker vanlige [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 360mm, og de bakre skivene er 358mm. Opsjonsbremsene second bruker en [støpejernskive belagt med wolframkarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og produserer nesten ikke bremsestøv. De fremre skivene er 410mm, og de bakre skivene er 365mm.
-
 
 ### Regenerativ bremsing
 
@@ -118,9 +116,7 @@ Det er tre forskjellige takalternativer å velge mellom. Standarden er bare et v
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -170,7 +166,6 @@ Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
-
 #### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Porsche Taycan 4S Sport Turismo.
@@ -205,7 +200,6 @@ Porsche Taycan 4S Sport Turismo inkluderer flere funksjoner for å forbedre komf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Porsche Taycan 4S Sport Turismo har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , er det én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen og én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) nederst på midtkonsollen. For passasjeren er det en valgfri [infotainment-skjerm](../../../../technology/userinterface/screens/#front-passasjer-screen).
@@ -223,13 +217,19 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/screens_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1688"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Porsche Taycan 4S Sport Turismo Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan velge mellom tre lydsystemer på Porsche Taycan 4S Sport Turismo. Med Porsche Sound system får du ti høyttalere med en maksimal systemeffekt på 150 watt. Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1455 watt.
-
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Porsche Taycan 4S Sport Turismo Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 
 ## Lys
 
@@ -243,6 +243,7 @@ Du kan velge mellom to typer frontlykter for Porsche Taycan 4S Sport Turismo. St
 Porsche Taycan 4S Sport Turismo har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -281,12 +282,12 @@ Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 446 liter. Med baksetet nede er det 1212 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 84 liter. Maksimumsvekten til bilen er 2875 kg, og med basisvekten på 2170 kg kan du maksimalt laste 705 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 07.02.2024, og leveringene startet i June 2024.<div class="mt-3 mb-3">

@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The HiPhi Z 4 Seater packs an impressive punch with a maximum power of 494 kW (672 hp / 663 bhp) and a commanding total torque of 820 Nm (605 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.8 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/charging_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2032"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. This model uses [**GBT**](../../../../technology/charging/connectors/#gbt) for China and Europe, meaning you must use a CCS2>GBT adapter in Europe. See full specifications for all markets.
@@ -56,11 +54,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 HiPhi Z 4 Seater features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -74,9 +70,7 @@ Dynamic steering is a standard feature on the HiPhi Z 4 Seater. Dynamic steering
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
 
-
 ### Regenerative braking
-
 
 
 ## Exterior
@@ -100,9 +94,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -132,7 +124,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/frontseats_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2256"  >}}
-
 
 #### Second-row seat
 
@@ -173,7 +164,6 @@ The HiPhi Z 4 Seater includes several features to enhance comfort and convenienc
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The HiPhi Z 4 Seater has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
@@ -193,12 +183,12 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Sound system
 
 One type of sound system is available for the HiPhi Z 4 Seater. With the SONIC PRO SYSTEM, you get 23 speakers with a max system output of 600 watts.
 
 The model has 1 USB-C connections as standard. As an option, you can get additional 2 USB-C connections. The model has 1 USB-A connections as standard. As an option, you can get additional 2 USB-C connections.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
@@ -209,6 +199,7 @@ The standard headlights use LED technology. In addition, the standard taillights
 ## Advanced driver assistance systems
 
 The HiPhi Z 4 Seater has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -240,7 +231,6 @@ With the   level 2 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

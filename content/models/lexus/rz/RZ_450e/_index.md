@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Lexus RZ 450e delivers a solid performance with a maximum power of 230 kW (313 hp / 308 bhp) and a total torque of 435 Nm (321 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.3 seconds and reaches a top speed of 160 km/h (99 mph), making it competitive within its class.
@@ -48,7 +47,6 @@ The standard onboard charger supports up to 6.6 kW for Level 1 and Level 2 AC ch
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/charging_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,18 +54,15 @@ The location of the charge port is on the [left front side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Lexus RZ 450e features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
 The  suspension has a fixed height and damping. The ground clearance with this suspension is 177 mm.
 
 ### Brakes
-
 
 
 
@@ -99,13 +94,10 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 
-
 ### Seats
-
 
 
 #### First row seats
@@ -126,7 +118,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/frontseats_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
-
 
 #### Second-row seat
 
@@ -161,7 +152,6 @@ The Lexus RZ 450e includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 Two different screen setups are available on the Lexus RZ 450e.
@@ -188,9 +178,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/screens_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -205,6 +193,7 @@ Furthermore, the Lexus RZ 450e supports Android Auto and Apple CarPlay. This fun
 You can choose between two sound systems on the Lexus RZ 450e. With the Standard, you get 14 speakers with a max system output of  watts. With the Mark Levinson Premium Surround Sound, you get 14 speakers with a max system output of  watts.
 
 The model has 5 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the Lexus RZ 450e. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -215,6 +204,7 @@ You can choose between two types of headlights for the Lexus RZ 450e. The standa
 ## Advanced driver assistance systems
 
 The Lexus RZ 450e has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -238,7 +228,6 @@ With the standard system the model offers no driving automation.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

@@ -26,7 +26,6 @@ Nous avons séparé notre article BMW iX1 eDrive20 en sections. Si vous souhaite
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 L'BMW iX1 eDrive20 offre des performances modestes avec une puissance maximale de 150 kW (204 ch) et un couple total de 250 Nm. Il accélère de 0 à 100 km/h en 8,6 secondes et atteint une vitesse maximale de 170 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -52,11 +51,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 BMW iX1 eDrive20 dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -67,7 +64,6 @@ La suspension Adaptive M Suspension est dotée de ressorts en acier à hauteur f
 La direction dynamique est une fonctionnalité un standard sur le BMW iX1 eDrive20. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite.
 
 ### Freins
-
 
 
 
@@ -102,9 +98,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -144,7 +138,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
 
-
 #### Siège de deuxième rangée
 
 
@@ -176,7 +169,6 @@ L'BMW iX1 eDrive20 comprend plusieurs fonctionnalités pour améliorer le confor
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le BMW iX1 eDrive20 possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -192,14 +184,22 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/screens_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le BMW iX1 eDrive20 prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Vous pouvez choisir entre deux systèmes audio sur le BMW iX1 eDrive20. Avec le Harman Kardon Surround Sound system, vous obtenez 16 haut-parleurs avec une puissance système maximale de 464 watts. Avec le Harman Kardon Surround Sound system, vous obtenez 16 haut-parleurs avec une puissance système maximale de 464 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le BMW iX1 eDrive20 prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le BMW iX1 eDrive20. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
@@ -210,6 +210,7 @@ Vous pouvez choisir entre deux types de phares pour le BMW iX1 eDrive20. Les pha
 ## Systèmes avancés d'aide à la conduite
 
 Le BMW iX1 eDrive20 dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -239,7 +240,6 @@ Avec le système Driving Assistant Professional  niveau 2, vous bénéficiez des
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

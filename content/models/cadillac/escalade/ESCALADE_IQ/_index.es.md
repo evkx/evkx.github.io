@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Cadillac ESCALADE IQ en secciones. Si desea esp
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Cadillac ESCALADE IQ impresiona con una potencia máxima de 560 kW (761 hp) y un impresionante par total de 1064 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,7 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
@@ -52,18 +51,15 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Cadillac ESCALADE IQ tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza suspensión neumática y amortiguadores hidráulicos. La suspensión es totalmente adaptativa en el eje delantero y trasero, por lo que la altura y la amortiguación se pueden ajustar de forma manual y automática. La distancia mínima al suelo es 125 mm y la máxima es 200 mm. Además, la dirección en las ruedas traseras está disponible como característica un estándar. La dirección en las ruedas traseras reduce el radio de giro cuando se va lento.
 
 ### Frenos
-
 
 
 
@@ -92,9 +88,7 @@ Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -124,7 +118,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
-
 #### Asiento de segunda fila
 
 
@@ -139,7 +132,6 @@ Para la segunda fila, este modelo tiene [asientos ejecutivos] gemelos(../../../.
 
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2003"  >}}
-
 
 #### Asientos de tercera fila
 
@@ -171,7 +163,6 @@ El Cadillac ESCALADE IQ incluye varias características para mejorar la comodida
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 
@@ -187,20 +178,24 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/screens_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2250"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.soundsystem
 
 Puedes elegir entre dos sistemas de sonido en el Cadillac ESCALADE IQ. Con el AKG Studio audi System, obtienes 19 parlantes con una salida máxima del sistema de 1000 vatios. Con el AKG Studio Reference System, obtienes 40 parlantes con una salida máxima del sistema de 1000 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
-
 El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A de serie.
-## Luces
 
+## Luces
 
 ## Sistemas avanzados de asistencia al conductor
 
 El Cadillac ESCALADE IQ tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -227,7 +222,6 @@ Con el sistema Super Cruise  nivel 2, obtienes las siguientes funciones de autom
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

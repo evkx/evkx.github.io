@@ -26,7 +26,6 @@ Nous avons séparé notre article Smart #1 en sections. Si vous souhaitez attend
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Smart #1 offre des performances solides avec une puissance maximale de 315 kW (428 ch) et un couple total de 584 Nm. Elle peut accélérer de 0 à 100 km/h en 3,9 secondes et atteindre une vitesse maximale de 180 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -48,7 +47,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 22 kW pour la charge CA 
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/charging_1_st.jpg" title="Smart #1" width="2000" height="1500"  >}}
 
-
 ### Port de recharge
 
 L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
@@ -56,11 +54,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Smart #1 dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière.
-
 
 ### Suspension
 
@@ -69,7 +65,6 @@ La suspension avant est [MacPherson Strut](../../../../technology/suspension/#ma
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 350 mm et les disques arrière mesurent 333 mm.
-
 
 ### Freinage régénératif
 
@@ -96,9 +91,7 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -122,7 +115,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/frontseats_1_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -160,7 +152,6 @@ L'Smart #1 comprend plusieurs fonctionnalités pour améliorer le confort et la 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 
@@ -175,14 +166,18 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/screens_1_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
 
 Un type de système audio est disponible pour le Smart #1. Avec le Yamaha surround sound system, vous obtenez 13 haut-parleurs avec une puissance système maximale de 1040 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
 Le modèle dispose de 4 connexions USB-C en standard.
+
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le Smart #1. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
@@ -195,6 +190,7 @@ Vous pouvez choisir entre deux types de phares pour le Smart #1. Les phares stan
 Le Smart #1 dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -225,7 +221,6 @@ Avec le système Pilot Assist  niveau 2, vous bénéficiez des fonctionnalités 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

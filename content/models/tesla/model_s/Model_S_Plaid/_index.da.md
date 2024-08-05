@@ -26,7 +26,6 @@ Vi har opdelt vores Tesla Model S Plaid artikel i sektioner. Hvis du vil vente m
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Tesla Model S Plaid leverer en imponerende maksimal effekt på 760 KW (1033 hk) og et massivt drejningsmoment på 1420 Nm. Denne kraftpakke kan accelerere fra 0 til 100 km/t på blot 2,1 sekunder, hvilket viser dens fantastiske acceleration. Derudover opnår den en topfart på 322 km/t, hvilket gør den til et sandt ingeniør- og præstationsmæssigt vidunder
@@ -52,11 +51,9 @@ Placeringen af ladeporten er i [venstre bageste hjørne](../../../../technology/
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Tesla Model S Plaid har et firehjulstræksystem understøttet af tre motorer. En på foraksel og to på bagaksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en standard-funktion på Tesla Model S Plaid. Dynamisk styri
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 355mm, og de bagerste skiver er 355mm.
-
 
 ### Regenerativ bremsning
 
@@ -101,9 +97,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -124,7 +118,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
-
 
 
 #### Sæde på anden række
@@ -162,7 +155,6 @@ Tesla Model S Plaid inkluderer flere funktioner, der forbedrer komfort og bekvem
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Tesla Model S Plaid har to skærme med information til føreren og passagererne og en tredje skærm bagpå til multimedier.
@@ -178,20 +170,24 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/screens_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2000"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for Tesla Model S Plaid. Med Tesla Premium Sound får du 22 højttalere med en maksimal systemeffekt på 560 watt.
-
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 
 ## Lys
 
 Standardlygterne bruger LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 Tesla Model S Plaid har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -233,7 +229,6 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere køreauto
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

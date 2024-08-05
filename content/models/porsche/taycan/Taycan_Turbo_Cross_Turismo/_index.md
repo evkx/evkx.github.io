@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 
@@ -54,11 +53,9 @@ The charge port is conveniently located on the [right front side](../../../../te
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Porsche Taycan Turbo Cross Turismo features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -75,7 +72,6 @@ Dynamic steering is a standard feature on the Porsche Taycan Turbo Cross Turismo
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 410mm, and the rear discs are 365mm.
-
 
 ### Regenerative braking
 
@@ -117,9 +113,7 @@ There are three different roof options to select from. The standard is just a re
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -173,7 +167,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1688"  >}}
 
-
 #### Second-row seats
 
 You can choose two seat types for the second row in the Porsche Taycan Turbo Cross Turismo.
@@ -212,7 +205,6 @@ The Porsche Taycan Turbo Cross Turismo includes several features to enhance comf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Porsche Taycan Turbo Cross Turismo has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console and one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the bottom of center console. For the passenger, there is an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen).
@@ -230,9 +222,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1688"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -246,7 +236,6 @@ Furthermore, the Porsche Taycan Turbo Cross Turismo supports Android Auto and Ap
 
 You can choose between three sound systems on the Porsche Taycan Turbo Cross Turismo. With the Porsche Sound system, you get ten speakers with a max system output of 150 watts. With the  BOSE® Surround Sound System, you get 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 speakers with a max system output of 1455 watts.
 
-
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -259,6 +248,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 The Porsche Taycan Turbo Cross Turismo has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -297,12 +287,12 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 405 liters. With the rear seat down, it is 1171 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2880 kg (6349 lbs), and with the base weight of 2245 kg (4949 lbs), you can max load 635 kg (1400 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
 ### Availability & Pricing
 
 This model had a world premiere on 07.02.2024, and deliveries started in June 2024.<div class="mt-3 mb-3">

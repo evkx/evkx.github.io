@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Volkswagen ID.4 Pro i seksjoner. Hvis du vil ven
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Volkswagen ID.4 Pro leverer solid ytelse med en maksimal effekt på 210 kW (286 hk) og et totalt dreiemoment på 545 Nm. Den kan akselerere fra 0 til 100 km/t på 6,7 sekunder og når en topphastighet på 160 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Volkswagen ID.4 Pro har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
-
 
 ### Hjuloppheng
 
@@ -71,7 +68,6 @@ Dynamisk styring er tilvalg-funksjonen på Volkswagen ID.4 Pro. Dynamisk styring
 ### Bremser
 
 Volkswagen ID.4 Pro bruker [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremsekraft og varmespredning, mens [trommelbremser](../../../../technology/brakes/#trommelbremser) brukes bak for kostnadseffektivitet og holdbarhet. Trommelbremser gir tilstrekkelig ytelse for bakhjulene, krever mindre vedlikehold og integreres sømløst med kjøretøyets regenererende bremsesystem. Denne kombinasjonen sikrer optimal bremseytelse og kostnadseffektivitet, i tråd med EV-ens overordnede effektivitetsmål. De fremre skivene er 358mm.
-
 
 ### Regenerativ bremsing
 
@@ -102,9 +98,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -141,7 +135,6 @@ Følgende funksjoner er tilgjengelige på **ergoActive Top-Sport** setet.
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
-
 #### Seter på andre rad
 
 
@@ -173,7 +166,6 @@ Volkswagen ID.4 Pro inkluderer flere funksjoner for å forbedre komfort og bekve
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 To forskjellige skjermoppsett er tilgjengelige på Volkswagen ID.4 Pro.
@@ -200,22 +192,32 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/screens_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2206"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Volkswagen ID.4 Pro Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan velge mellom to lydsystemer på Volkswagen ID.4 Pro. Med Sound system får du seks høyttalere med en maksimal systemeffekt på 140 watt. Med Volkswagen Soundsystem får du seks høyttalere med en maksimal systemeffekt på 450 watt.
 
-I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Volkswagen ID.4 Pro Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 4 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Volkswagen ID.4 Pro. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
+
 ## Avanserte førerassistentsystemer
 
 Volkswagen ID.4 Pro har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -250,7 +252,6 @@ Med Assistantpackage plus  nivå 2-systemet får du flere kjøreautomatiseringsf
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

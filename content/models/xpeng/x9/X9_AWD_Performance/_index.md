@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The XPENG X9 AWD Performance delivers a solid performance with a maximum power of 370 kW (503 hp / 496 bhp) and a total torque of 640 Nm (472 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 XPENG X9 AWD Performance features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -66,9 +63,7 @@ The suspension is fully adaptive on the front and rear axle, so height and dampi
 
 
 
-
 ### Regenerative braking
-
 
 
 ## Exterior
@@ -88,9 +83,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -122,7 +115,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/frontseats_1_st.png" title="XPENG X9 AWD Performance" width="3000" height="1514"  >}}
 
-
 #### Second-row seat
 
 
@@ -137,7 +129,6 @@ For the second row, this model has two captain chairs. In addition, the followin
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/secondrowseats_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1687"  >}}
 
-
 #### Third-row seats
 
 
@@ -151,7 +142,6 @@ There is only one type of steering wheel available. The  steering wheel is heate
 There is one climate system available.
 
 
-
 ## Comfort features
 
 The XPENG X9 AWD Performance includes several features to enhance comfort and convenience:
@@ -159,7 +149,6 @@ The XPENG X9 AWD Performance includes several features to enhance comfort and co
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -177,21 +166,20 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/screens_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1586"  >}}
 
-
 ## Infotainment
-
 
 ### Sound system
 
 One type of sound system is available for the XPENG X9 AWD Performance. With the , you get NULL speakers with a max system output of  watts.
 
-
 ## Lights
 
 The standard headlights use LED technology.
+
 ## Advanced driver assistance systems
 
 The XPENG X9 AWD Performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -227,7 +215,6 @@ With the XPILOT  level 2 system, you get the following driving automation featur
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

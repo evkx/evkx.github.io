@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Volvo EX40 Twin Motor en secciones. Si desea es
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Volvo EX40 Twin Motor ofrece un rendimiento sólido con una potencia máxima de 300 kW (408 hp) y un par total de 670 Nm. Puede acelerar de 0 a 100 km/h en 4,8 segundos y alcanza una velocidad máxima de 180 km/h, lo que lo hace competitivo en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Volvo EX40 Twin Motor tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
-
 
 ### Suspensión
 
@@ -65,7 +62,6 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
-
 
 ### Frenado regenerativo
 
@@ -93,9 +89,7 @@ Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -118,7 +112,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_twin_motor/frontseats_1_st.jpg" title="Volvo EX40 Twin Motor" width="1920" height="1080"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -151,7 +144,6 @@ El Volvo EX40 Twin Motor incluye varias características para mejorar la comodid
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Volvo EX40 Twin Motor tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
@@ -167,12 +159,14 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_twin_motor/screens_1_st.jpg" title="Volvo EX40 Twin Motor" width="3000" height="2249"  >}}
 
-
 ## Infoentretenimiento
+
+### header.soundsystem
 
 Puedes elegir entre dos sistemas de sonido en el Volvo EX40 Twin Motor. Con el High Performance, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios. Con el Harman Kardon Premium Sound, obtienes 13 parlantes con una salida máxima del sistema de 600 vatios.
 
 El modelo tiene 1 conexiones USB-C de serie.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Volvo EX40 Twin Motor. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
@@ -185,6 +179,7 @@ Puedes elegir entre dos tipos de faros para el Volvo EX40 Twin Motor. Los faros 
 El Volvo EX40 Twin Motor tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -209,7 +204,6 @@ Con el sistema Pilot Assist  nivel 2, obtienes las siguientes funciones de autom
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

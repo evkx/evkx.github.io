@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Hyundai Kona Standard Range en secciones. Si de
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Hyundai Kona Standard Range ofrece un rendimiento modesto con una potencia máxima de 160 kW (218 hp) y un par total de 255 Nm. Acelera de 0 a 100 km/h en 7,3 segundos y tiene una velocidad máxima 185 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -48,7 +47,6 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/charging_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2054"  >}}
 
-
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [frente](../../../../technology/charging/connectors/#front). Esta ubicación lo hace estaciones de carga fáciles de usar donde es necesario estacionar con la parte delantera hacia adentro. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
@@ -56,18 +54,15 @@ La ubicación del puerto de carga está en el [frente](../../../../technology/ch
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Hyundai Kona Standard Range tiene un sistema de tracción delantera sostenido por un motor en el eje delantero.
-
 
 ### Suspensión
 
 La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 178 mm.
 
 ### Frenos
-
 
 
 
@@ -99,13 +94,11 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
-
 
 
 #### Asientos de primera fila
@@ -128,7 +121,6 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 - Green [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Asiento de segunda fila
@@ -166,7 +158,6 @@ El Hyundai Kona Standard Range incluye varias características para mejorar la c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Hyundai Kona Standard Range tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -182,14 +173,22 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/screens_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="1687"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Hyundai Kona Standard Range es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
 
 Un tipo de sistema de sonido está disponible para el Hyundai Kona Standard Range. Con el Bose Premium Sound System, obtienes siete parlantes con una salida máxima del sistema de  vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Hyundai Kona Standard Range es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
@@ -200,6 +199,7 @@ Los faros estándar utilizan tecnología LED. Además, las luces traseras están
 ## Sistemas avanzados de asistencia al conductor
 
 El Hyundai Kona Standard Range tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -234,7 +234,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

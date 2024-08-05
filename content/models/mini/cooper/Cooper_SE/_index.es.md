@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Mini Cooper SE en secciones. Si desea esperar p
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Mini Cooper SE ofrece un rendimiento modesto con una potencia máxima de 160 kW (218 hp) y un par total de 330 Nm. Acelera de 0 a 100 km/h en 6,7 segundos y tiene una velocidad máxima 170 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -50,11 +49,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Mini Cooper SE tiene un sistema de tracción delantera sostenido por un motor en el eje delantero.
-
 
 ### Suspensión
 
@@ -64,9 +61,7 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 
 
 
-
 ### Frenado regenerativo
-
 
 
 ## Exterior
@@ -94,9 +89,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -121,7 +114,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/frontseats_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
-
 #### Asiento de segunda fila
 
 
@@ -141,7 +133,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 
-
 ## Características de confort
 
 El Mini Cooper SE incluye varias características para mejorar la comodidad y conveniencia:
@@ -152,7 +143,6 @@ El Mini Cooper SE incluye varias características para mejorar la comodidad y co
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interfaz de usuario y control
@@ -167,11 +157,11 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/screens_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
-
 ## Infoentretenimiento
 
-Un tipo de sistema de sonido está disponible para el Mini Cooper SE. Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+### header.soundsystem
 
+Un tipo de sistema de sonido está disponible para el Mini Cooper SE. Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
 
 ## Luces
 
@@ -183,6 +173,7 @@ Los faros estándar utilizan tecnología LED. Además, las luces traseras están
 ## Sistemas avanzados de asistencia al conductor
 
 El Mini Cooper SE tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -200,12 +191,12 @@ Con el sistema estándar, el modelo no ofrece automatización de conducción.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 200 litros. Con el asiento trasero abatido, es de 800 litros.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+
 ### Disponibilidad y precios
 
 <div class="mt-3 mb-3">

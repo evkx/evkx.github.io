@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Zeekr X Long Range RWD en secciones. Si desea e
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Zeekr X Long Range RWD ofrece un rendimiento modesto con una potencia máxima de 200 kW (272 hp) y un par total de 343 Nm. Acelera de 0 a 100 km/h en 5,6 segundos y tiene una velocidad máxima 180 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Zeekr X Long Range RWD tiene un sistema de tracción trasera sostenido por un motor en el eje trasero.
-
 
 ### Suspensión
 
@@ -65,7 +62,6 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 350 mm y los discos traseros de 333 mm.
-
 
 ### Frenado regenerativo
 
@@ -90,9 +86,7 @@ Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -116,7 +110,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/frontseats_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="2000"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -154,7 +147,6 @@ El Zeekr X Long Range RWD incluye varias características para mejorar la comodi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 
@@ -169,14 +161,18 @@ Un head-up display es un sistema un estándar que presenta la velocidad y otra i
 
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/screens_1_st.jpg" title="Zeekr X Long Range RWD" width="2280" height="1282"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.soundsystem
 
 Un tipo de sistema de sonido está disponible para el Zeekr X Long Range RWD. Con el Yamaha surround sound system, obtienes 13 parlantes con una salida máxima del sistema de 1040 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
-
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Zeekr X Long Range RWD. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
@@ -189,6 +185,7 @@ Puedes elegir entre dos tipos de faros para el Zeekr X Long Range RWD. Los faros
 El Zeekr X Long Range RWD tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -219,7 +216,6 @@ Con el sistema Pilot Assist  nivel 2, obtienes las siguientes funciones de autom
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

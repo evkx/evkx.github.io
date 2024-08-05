@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Volvo EX90 Twin Motor Performance en secciones.
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Volvo EX90 Twin Motor Performance ofrece un rendimiento sólido con una potencia máxima de 380 kW (517 hp) y un par total de 910 Nm. Puede acelerar de 0 a 100 km/h en 4,7 segundos y alcanza una velocidad máxima de 210 km/h, lo que lo hace competitivo en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Volvo EX90 Twin Motor Performance tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
-
 
 ### Suspensión
 
@@ -65,7 +62,6 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 400 mm y los discos traseros de 390 mm.
-
 
 ### Frenado regenerativo
 
@@ -93,7 +89,6 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -128,7 +123,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/frontseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
-
 #### Asiento de segunda fila
 
 
@@ -139,7 +133,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:6
 
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
-
 
 #### Asientos de tercera fila
 
@@ -171,7 +164,6 @@ El Volvo EX90 Twin Motor Performance incluye varias características para mejora
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Volvo EX90 Twin Motor Performance tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
@@ -187,12 +179,14 @@ Un head-up display es un sistema un estándar que presenta la velocidad y otra i
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/screens_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
-
 ## Infoentretenimiento
+
+### header.soundsystem
 
 Puedes elegir entre dos sistemas de sonido en el Volvo EX90 Twin Motor Performance. Con el High Performance, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios. Con el Bowers & Wilkins, obtienes 25 parlantes con una salida máxima del sistema de 1610 vatios.
 
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Volvo EX90 Twin Motor Performance. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
@@ -205,6 +199,7 @@ Puedes elegir entre dos tipos de faros para el Volvo EX90 Twin Motor Performance
 El Volvo EX90 Twin Motor Performance tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -229,7 +224,6 @@ Con el sistema Pilot Assist  nivel 2, obtienes las siguientes funciones de autom
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

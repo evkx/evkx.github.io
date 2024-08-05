@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Ford Mustang Mach-E Long Range RWD i seksjoner. 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Ford Mustang Mach-E Long Range RWD leverer solid ytelse med en maksimal effekt på 216 kW (294 hk) og et totalt dreiemoment på 430 Nm. Den kan akselerere fra 0 til 100 km/t på 7 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/charging_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1736"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
@@ -56,11 +54,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Ford Mustang Mach-E Long Range RWD har et bakhjulsdriftssystem støttet av en motor på bakakselen.
-
 
 ### Hjuloppheng
 
@@ -69,7 +65,6 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 457mm, og de bakre skivene er 432mm.
-
 
 ### Regenerativ bremsing
 
@@ -97,9 +92,7 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -125,7 +118,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1999"  >}}
-
 
 #### Seter på andre rad
 
@@ -163,7 +155,6 @@ Ford Mustang Mach-E Long Range RWD inkluderer flere funksjoner for å forbedre k
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 
@@ -178,14 +169,22 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/screens_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Ford Mustang Mach-E Long Range RWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Én type lydsystem er tilgjengelig for Ford Mustang Mach-E Long Range RWD. Med B&O Sound System får du ti høyttalere med en maksimal systemeffekt på 560 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Ford Mustang Mach-E Long Range RWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 
@@ -196,6 +195,7 @@ Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinge
 ## Avanserte førerassistentsystemer
 
 Ford Mustang Mach-E Long Range RWD har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -229,7 +229,6 @@ Med Ford BlueCruise  nivå 2-systemet får du følgende kjøreautomatiseringsfun
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

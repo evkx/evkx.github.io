@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Zeekr 001 FR i seksjoner. Hvis du vil vente med 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Zeekr 001 FR leverer en imponerende maksimal effekt på 930 KW (1264 hk) og et massivt dreiemoment på 1200 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 2,02 sekunder, noe som viser dens fantastiske akselerasjon. I tillegg oppnår den en topphastighet på 280 km/t, noe som gjør den til et virkelig underverk innen ingeniørkunst og ytelse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Zeekr 001 FR har et firehjulsdriftssystem som støttes av fire motorer. En for hvert hjul. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -65,7 +62,6 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 ### Bremser
 
 Bremsene bak og foran er [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De fremre skivene er 533mm, og de bakre skivene er 457mm.
-
 
 ### Regenerativ bremsing
 
@@ -90,7 +86,6 @@ Rutene fra B-stolpen og baksiden er tonet.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiør
@@ -125,7 +120,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/frontseats_1_st.jpg" title="Zeekr 001 FR" width="3000" height="2250"  >}}
 
-
 #### Seter på andre rad
 
 
@@ -159,7 +153,6 @@ Zeekr 001 FR inkluderer flere funksjoner for å forbedre komfort og bekvemmeligh
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Zeekr 001 FR har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
@@ -180,19 +173,30 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Zeekr 001 FR Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Én type lydsystem er tilgjengelig for Zeekr 001 FR. Med Yamaha Sound System får du 12 høyttalere med en maksimal systemeffekt på 300 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Zeekr 001 FR Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 Zeekr 001 FR har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -219,12 +223,12 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 539 liter. Med baksetet nede er det 1411 liter. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 32 liter. Maksimumsvekten til bilen er 3080 kg, og med basisvekten på 2350 kg kan du maksimalt laste 730 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.
+
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 30.10.2023, og leveringene startet i January 2024.<div class="mt-3 mb-3">

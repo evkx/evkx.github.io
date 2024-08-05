@@ -32,7 +32,6 @@ This model has been replaced by [Audi Q4 45 e-tron](/models/audi/q4_e-tron/q4_45
 
 </div>
 
-
 ## Performance
 
 The Audi Q4 40 e-tron offers modest performance with a maximum power of 160 kW (218 hp / 215 bhp) and a total torque of 310 Nm (229 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.5 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -62,11 +61,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Audi Q4 40 e-tron has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -81,7 +78,6 @@ Dynamic steering is an optional feature on the Audi Q4 40 e-tron. Dynamic steeri
 ### Brakes
 
 The Audi Q4 40 e-tron uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 358mm.
-
 
 ### Regenerative braking
 
@@ -122,9 +118,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -160,7 +154,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_40_e-tron/frontseats_1_st.jpg" title="Audi Q4 40 e-tron" width="3000" height="1998"  >}}
-
 
 #### Second-row seats
 
@@ -201,7 +194,6 @@ The Audi Q4 40 e-tron includes several features to enhance comfort and convenien
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Audi Q4 40 e-tron has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -217,9 +209,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_40_e-tron/screens_1_st.jpg" title="Audi Q4 40 e-tron" width="3000" height="1686"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -234,6 +224,7 @@ Furthermore, the Audi Q4 40 e-tron supports Android Auto and Apple CarPlay. This
 You can choose between two sound systems on the Audi Q4 40 e-tron. With the Audi Sound system, you get eight speakers with a max system output of 180 watts. With the Sonos Sound System, you get ten speakers with a max system output of 580 watts.
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+
 ## Lights
 
 You can choose between two types of headlights for the Audi Q4 40 e-tron. The standard headlights use LED technology. Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection. In addition, you can choose between two types of taillights. The standard taillight uses LED technology and offers two distinctive lights, including one reversing light. The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights.
@@ -246,6 +237,7 @@ You can choose between two types of headlights for the Audi Q4 40 e-tron. The st
 The Audi Q4 40 e-tron has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -283,7 +275,6 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

@@ -32,7 +32,6 @@ Denne modellen er erstattet av [Porsche Taycan Turbo S](/models/porsche/taycan/t
 
 </div>
 
-
 ## Ytelse
 
 Med overboost når Porsche Taycan Turbo S (GEN1) en maksimal effekt på 560 kW (761 hk / 751 bhp). Uten overboost leverer den solide 460 kW (625 hk). Maksimalt dreiemoment er på 850 Nm. Denne kraftpluggen kan akselerere fra 0 til 100 km/t på kun 2,8 sekunder og har en topphastighet på 260 km/t, som viser frem dens imponerende ytelse.
@@ -54,7 +53,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/charging_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2242"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du parkerer siden inn i laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. En andre port er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne ekstra porten gir deg flere parkeringsmuligheter for AC-lading. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**J1772**](../../../../technology/charging/connectors/#j1772) for Nord-Amerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullstendige spesifikasjoner for alle markeder.
@@ -62,11 +60,9 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Porsche Taycan Turbo S (GEN1) har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -81,7 +77,6 @@ Dynamisk styring er standard-funksjonen på Porsche Taycan Turbo S (GEN1). Dynam
 ### Bremser
 
 Bremsene bak og foran er [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De fremre skivene er 420mm, og de bakre skivene er 410mm.
-
 
 ### Regenerativ bremsing
 
@@ -114,9 +109,7 @@ Det er tre forskjellige takalternativer å velge mellom. Standarden er bare et v
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -159,7 +152,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/frontseats_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2250"  >}}
 
-
 #### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Porsche Taycan Turbo S (GEN1).
@@ -194,7 +186,6 @@ Porsche Taycan Turbo S (GEN1) inkluderer flere funksjoner for å forbedre komfor
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Porsche Taycan Turbo S (GEN1) har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , er det én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen og én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) nederst på midtkonsollen. For passasjeren er det en valgfri [infotainment-skjerm](../../../../technology/userinterface/screens/#front-passasjer-screen).
@@ -212,13 +203,19 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/screens_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2250"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Porsche Taycan Turbo S (GEN1) Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan velge mellom tre lydsystemer på Porsche Taycan Turbo S (GEN1). Med Porsche Sound system får du ti høyttalere med en maksimal systemeffekt på 150 watt. Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1455 watt.
-
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Porsche Taycan Turbo S (GEN1) Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 
 ## Lys
 
@@ -232,6 +229,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 Porsche Taycan Turbo S (GEN1) har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -270,12 +268,12 @@ Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 366 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2880 kg, og med basisvekten på 2230 kg kan du maksimalt laste 650 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+
 ### Tilgjengelighet & pris
 
 <div class="mt-3 mb-3">

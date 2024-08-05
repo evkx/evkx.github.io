@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Mercedes-EQ EQS 450+ SUV en secciones. Si desea
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Mercedes-EQ EQS 450+ SUV ofrece un rendimiento sólido con una potencia máxima de 265 kW (360 hp) y un par total de 568 Nm. Puede acelerar de 0 a 100 km/h en 6,7 segundos y alcanza una velocidad máxima de 210 km/h, lo que lo hace competitivo en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Mercedes-EQ EQS 450+ SUV tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -69,7 +66,6 @@ La dirección dinámica es una característica un estándar en el Mercedes-EQ EQ
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 415 mm y los discos traseros de 378 mm.
-
 
 ### Frenado regenerativo
 
@@ -101,9 +97,7 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -149,7 +143,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="1687"  >}}
 
-
 #### Asiento de segunda fila
 
 
@@ -161,7 +154,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="2250"  >}}
-
 
 #### Asientos de tercera fila
 
@@ -182,7 +174,6 @@ Hay dos opciones de sistema de climatización disponibles:
 - **Sistema de climatización de 2 zonas:** Soporta diferentes temperaturas para el conductor y el pasajero.
 - **Sistema de climatización de 4 zonas:** Soporta diferentes temperaturas para el conductor, el pasajero y dos pasajeros separados en el asiento trasero.
 
-
 ## Características de confort
 
 El Mercedes-EQ EQS 450+ SUV incluye varias características para mejorar la comodidad y conveniencia:
@@ -194,7 +185,6 @@ El Mercedes-EQ EQS 450+ SUV incluye varias características para mejorar la como
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interfaz de usuario y control
@@ -230,17 +220,28 @@ Este modelo también tiene un sistema de control de gestos opcional que te permi
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Mercedes-EQ EQS 450+ SUV es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre dos sistemas de sonido en el Mercedes-EQ EQS 450+ SUV. Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios. Con el Burmester Surround Soundsystem, obtienes 13 parlantes con una salida máxima del sistema de 590 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Mercedes-EQ EQS 450+ SUV es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 4 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Mercedes-EQ EQS 450+ SUV tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -279,7 +280,6 @@ Con el sistema DRIVE PILOT  nivel 3, obtienes funciones de automatización de co
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Tesla Cybertruck AWD i seksjoner. Hvis du vil ve
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Tesla Cybertruck AWD imponerer med en imponerende kraft på 448 kW (609 hk) og et betydelig dreiemoment på 671 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,1 sekunder og har en toppfart på 180 km/t, noe som gjør den til en markant modell i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/charging_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/charging/connectors/#rear-corner). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**NACS**](../../../../technology/charging/connectors/#nacs) for Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se fullstendige spesifikasjoner for alle markeder.
@@ -64,11 +62,9 @@ Denne modellen støtter V2L (Vehicle 2 Load) som betyr at du drive elektriske ap
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Tesla Cybertruck AWD har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
-
 
 ### Hjuloppheng
 
@@ -87,11 +83,9 @@ Tesla Cybertruck AWD lar brukeren velge forskjellige [kjøremoduser](../../../..
 - Custom: Egendefinert styring, fjæring og gassrespons.
 - Off-Road: Balansert styring, maks fjæringshøyde med balansert gass og demping.
 
-
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 355mm, og de bakre skivene er 355mm.
-
 
 ### Regenerativ bremsing
 
@@ -120,9 +114,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -147,7 +139,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/frontseats_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
-
 
 #### Seter på andre rad
 
@@ -182,7 +173,6 @@ Tesla Cybertruck AWD inkluderer flere funksjoner for å forbedre komfort og bekv
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Tesla Cybertruck AWD har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment.
@@ -197,14 +187,18 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/screens_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 
-
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Tesla Cybertruck AWD. Med Tesla Premium Sound får du 17 høyttalere med en maksimal systemeffekt på 560 watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### header.soundsystem
+
+Én type lydsystem er tilgjengelig for Tesla Cybertruck AWD. Med Tesla Premium Sound får du 17 høyttalere med en maksimal systemeffekt på 560 watt.
+
 Modellen har 3 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
@@ -215,6 +209,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 ## Avanserte førerassistentsystemer
 
 Tesla Cybertruck AWD har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -256,7 +251,6 @@ Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatis
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Cadillac LYRIQ AWD en secciones. Si desea esper
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Cadillac LYRIQ AWD ofrece un rendimiento sólido con una potencia máxima de 373 kW (507 hp) y un par total de 610 Nm. Puede acelerar de 0 a 100 km/h en 4,6 segundos y alcanza una velocidad máxima de 210 km/h, lo que lo hace competitivo en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Cadillac LYRIQ AWD tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -65,7 +62,6 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 321 mm y los discos traseros de 345 mm.
-
 
 ### Frenado regenerativo
 
@@ -91,13 +87,10 @@ Hay dos opciones de techo diferentes para elegir El techo estándar tiene un gra
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 
-
 ### Asientos
-
 
 
 #### Asientos de primera fila
@@ -121,7 +114,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/frontseats_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2700"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -157,7 +149,6 @@ El Cadillac LYRIQ AWD incluye varias características para mejorar la comodidad 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Cadillac LYRIQ AWD tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil.
@@ -177,11 +168,20 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Cadillac LYRIQ AWD es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el Cadillac LYRIQ AWD. Con el Lyric sound system, obtienes siete parlantes con una salida máxima del sistema de  vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Cadillac LYRIQ AWD es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 5 conexiones USB-C de serie.
+
 ## Luces
 
 
@@ -192,6 +192,7 @@ El modelo tiene 5 conexiones USB-C de serie.
 ## Sistemas avanzados de asistencia al conductor
 
 El Cadillac LYRIQ AWD tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -216,7 +217,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

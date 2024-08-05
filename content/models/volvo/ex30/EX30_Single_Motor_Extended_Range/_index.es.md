@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Volvo EX30 Single Motor Extended Range en secci
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Volvo EX30 Single Motor Extended Range ofrece un rendimiento modesto con una potencia máxima de 200 kW (272 hp) y un par total de 343 Nm. Acelera de 0 a 100 km/h en 5,3 segundos y tiene una velocidad máxima 180 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Volvo EX30 Single Motor Extended Range tiene un sistema de tracción trasera sostenido por un motor en el eje trasero.
-
 
 ### Suspensión
 
@@ -65,7 +62,6 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 350 mm y los discos traseros de 333 mm.
-
 
 ### Frenado regenerativo
 
@@ -93,7 +89,6 @@ Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
@@ -117,7 +112,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapicería de lana](../../../../technology/seats/materials/#wool)
 - Brown [tapicería de lana/piel sintética](../../../../technology/asientos/materiales/#lana)
 - Blue [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
-
 
 
 #### Asiento de segunda fila
@@ -156,7 +150,6 @@ El Volvo EX30 Single Motor Extended Range incluye varias características para m
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Volvo EX30 Single Motor Extended Range tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil.
@@ -171,14 +164,18 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/screens_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2776"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.soundsystem
 
 Puedes elegir entre dos sistemas de sonido en el Volvo EX30 Single Motor Extended Range. Con el High Performance, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios. Con el Harman Kardon Premium Sound, obtienes 13 parlantes con una salida máxima del sistema de 1040 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
-
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Volvo EX30 Single Motor Extended Range. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
@@ -191,6 +188,7 @@ Puedes elegir entre dos tipos de faros para el Volvo EX30 Single Motor Extended 
 El Volvo EX30 Single Motor Extended Range tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -221,7 +219,6 @@ Con el sistema Pilot Assist  nivel 2, obtienes las siguientes funciones de autom
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

@@ -26,7 +26,6 @@ Nous avons séparé notre article Zeekr 001 FR en sections. Si vous souhaitez at
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Zeekr 001 FR délivre une puissance maximale impressionnante de 930 kW (1264 ch) et un couple massif de 1200 Nm. Ce bolide peut passer de 0 à 100 km/h en seulement 2,02 secondes, démontrant ainsi son accélération étonnante. De plus, il atteint une vitesse maximale de 280 km/h, faisant de lui un véritable chef-d'œuvre d'ingénierie et de performance.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Zeekr 001 FR dispose d'un système de transmission intégrale pris en charge par quatre moteurs. Un pour chaque roue. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 ### Freins
 
 Les freins arrière et avant sont des [disques en céramique](../../../../technology/brakes/#ceramic-brakes). Les disques avant mesurent 533 mm et les disques arrière mesurent 457 mm.
-
 
 ### Freinage régénératif
 
@@ -90,7 +86,6 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Intérieur
@@ -125,7 +120,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/frontseats_1_st.jpg" title="Zeekr 001 FR" width="3000" height="2250"  >}}
 
-
 #### Siège de deuxième rangée
 
 
@@ -159,7 +153,6 @@ L'Zeekr 001 FR comprend plusieurs fonctionnalités pour améliorer le confort et
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Zeekr 001 FR possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
@@ -180,19 +173,30 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Zeekr 001 FR prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le Zeekr 001 FR. Avec le Yamaha Sound System, vous obtenez 12 haut-parleurs avec une puissance système maximale de 300 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Zeekr 001 FR prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+
 ## Lumières
 
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Zeekr 001 FR dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -219,12 +223,12 @@ Avec le système Pilot Assist  niveau 2, vous bénéficiez des fonctionnalités 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement dans le coffre est de 539 litres. Avec la banquette arrière rabattue, elle est de 1411 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 32 litres (1,1 CU FT). Le poids maximum de la voiture est de 3080 kg (6790 lbs), et avec le poids de base de 2350 kg (5181 lbs), vous pouvez charger au maximum 730 kg (1609 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2000, et sur une remorque non freinée, il est de 750 kg (4409/1653 lbs).
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 30.10.2023 et les livraisons ont commencé en January 2024.<div class="mt-3 mb-3">

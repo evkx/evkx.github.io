@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Volvo EC40 Single Motor i seksjoner. Hvis du vil
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Volvo EC40 Single Motor tilbyr beskjedne ytelser med en maksimal effekt på 175 kW (238 hk) og et totalt dreiemoment på 420 Nm. Den akselererer fra 0 til 100 km/t på 7,3 sekunder og har en toppfart på 180 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/charging_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
@@ -56,11 +54,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Volvo EC40 Single Motor har et bakhjulsdriftssystem støttet av en motor på bakakselen.
-
 
 ### Hjuloppheng
 
@@ -69,7 +65,6 @@ Volvo EC40 Single Motor har et bakhjulsdriftssystem støttet av en motor på bak
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsing
 
@@ -97,9 +92,7 @@ Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -122,7 +115,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/frontseats_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
-
 
 #### Seter på andre rad
 
@@ -159,7 +151,6 @@ Volvo EC40 Single Motor inkluderer flere funksjoner for å forbedre komfort og b
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Volvo EC40 Single Motor har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
@@ -175,12 +166,14 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/screens_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.soundsystem
 
 Du kan velge mellom to lydsystemer på Volvo EC40 Single Motor. Med High Performance får du åtte høyttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 600 watt.
 
 Modellen har 1 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Volvo EC40 Single Motor. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
@@ -193,6 +186,7 @@ Du kan velge mellom to typer frontlykter for Volvo EC40 Single Motor. Standardly
 Volvo EC40 Single Motor har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -217,7 +211,6 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

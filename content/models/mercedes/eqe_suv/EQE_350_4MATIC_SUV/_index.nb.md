@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Mercedes-EQ EQE 350 4MATIC SUV i seksjoner. Hvis
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Mercedes-EQ EQE 350 4MATIC SUV leverer solid ytelse med en maksimal effekt på 215 kW (292 hk) og et totalt dreiemoment på 765 Nm. Den kan akselerere fra 0 til 100 km/t på 6,6 sekunder og når en topphastighet på 210 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350_4matic_suv/charging_1_st.jpg" title="Mercedes-EQ EQE 350 4MATIC SUV" width="3000" height="2001"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
@@ -56,11 +54,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Mercedes-EQ EQE 350 4MATIC SUV har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -73,7 +69,6 @@ Dynamisk styring er standard-funksjonen på Mercedes-EQ EQE 350 4MATIC SUV. Dyna
 ### Bremser
 
 Du kan velge mellom forskjellige bremsesystemer. Opsjonsbremsene standard bruker vanlige [støpejernsskiver](../../../../technology/brakes/#disc-brakes). Bremsene for second-alternativet bruker [keramiske skiver](../../../../technology/brakes/#ceramic-brakes).
-
 
 ### Regenerativ bremsing
 
@@ -104,9 +99,7 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -152,7 +145,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350_4matic_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQE 350 4MATIC SUV" width="3000" height="2250"  >}}
 
-
 #### Seter på andre rad
 
 
@@ -185,7 +177,6 @@ Mercedes-EQ EQE 350 4MATIC SUV inkluderer flere funksjoner for å forbedre komfo
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brukergrensesnitt og kontroll
@@ -221,11 +212,20 @@ Denne modellen har også et valgfritt bevegelseskontrollsystem som lar deg kontr
 
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Mercedes-EQ EQE 350 4MATIC SUV Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan velge mellom to lydsystemer på Mercedes-EQ EQE 350 4MATIC SUV. Med Advanced Soundsystem får du ni høyttalere med en maksimal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 høyttalere med en maksimal systemeffekt på 590 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Mercedes-EQ EQE 350 4MATIC SUV Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 4 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Mercedes-EQ EQE 350 4MATIC SUV. Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
@@ -236,6 +236,7 @@ Du kan velge mellom to typer frontlykter for Mercedes-EQ EQE 350 4MATIC SUV. Sta
 ## Avanserte førerassistentsystemer
 
 Mercedes-EQ EQE 350 4MATIC SUV har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -270,7 +271,6 @@ Med Driver Assistance Package Plus  nivå 2-systemet får du flere kjøreautomat
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

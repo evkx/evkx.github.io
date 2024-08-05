@@ -26,7 +26,6 @@ Vi har opdelt vores Audi Q6L e-tron quattro artikel i sektioner. Hvis du vil ven
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Audi Q6L e-tron quattro leverer en solid præstation med en maksimal effekt på 345 kW (469 hk) og et totalt drejningsmoment på 650 Nm. Den kan accelerere fra 0 til 100 km/t på 5,9 sekunder og når en topfart på 210 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Audi Q6L e-tron quattro har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
-
 
 ### Hjulophæng
 
@@ -82,11 +79,9 @@ Audi Q6L e-tron quattro lader brugeren vælge forskellige [drive modes](../../..
 - Balanced: Balanceret styring, adaptiv affjedringshøjde med afbalanceret gasspjæld og adaptiv affjedringsdæmpning.
 - Custom: Brugerdefineret styring, affjedring og gasrespons.
 
-
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 375mm, og de bagerste skiver er 350mm.
-
 
 ### Regenerativ bremsning
 
@@ -123,9 +118,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -196,7 +189,6 @@ Audi Q6L e-tron quattro inkluderer flere funktioner, der forbedrer komfort og be
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Betjeningsgrænsefladen for denne elbilmodel inkluderer en intuitiv kombination af knapper, kontakter og skærme, som giver en problemfri og brugervenlig oplevelse.
@@ -215,11 +207,20 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Audi Q6L e-tron quattro Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan vælge mellem to lydsystemer på Audi Q6L e-tron quattro. Med Audi Sound System får du fem højttalere med en maksimal systemeffekt på 200 watt. Med Bang & Olufsen Sound System får du 20 højttalere med en maksimal systemeffekt på 830 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Audi Q6L e-tron quattro Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Audi Q6L e-tron quattro. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -232,6 +233,7 @@ Du kan vælge mellem to typer forlygter til Audi Q6L e-tron quattro. Standardlyg
 Audi Q6L e-tron quattro har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -276,12 +278,12 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 526 liter. Med bagsædet nede er det 1529 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 64 liter (2,3 CU FT). Bilens maksimale vægt er 2965 kg (6537 lbs), og med basisvægten på 2325 kg (5126 lbs), kan du maksimalt laste 640 kg (1411 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2400, og på ubremset er den 750 kg (5291/1653 lbs).
+
 ### Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 14.04.2024, og leveringer forventes at starte om January 2025.<div class="mt-3 mb-3">

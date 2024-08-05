@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Audi Q4 Sportback 45 e-tron quattro en seccione
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Audi Q4 Sportback 45 e-tron quattro ofrece un rendimiento sólido con una potencia máxima de 210 kW (286 hp) y un par total de 679 Nm. Puede acelerar de 0 a 100 km/h en 6,6 segundos y alcanza una velocidad máxima de 180 km/h, lo que lo hace competitivo en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Audi Q4 Sportback 45 e-tron quattro tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
-
 
 ### Suspensión
 
@@ -71,7 +68,6 @@ La dirección dinámica es una característica un opcional en el Audi Q4 Sportba
 ### Frenos
 
 El Audi Q4 Sportback 45 e-tron quattro utiliza [frenos de disco](../../../../technology/brakes/#disc-brakes) en la parte delantera para una potencia de frenado superior y disipación de calor, mientras que se emplean [frenos de tambor](../../../../technology/frenos/#frenos-de-tambor) en la parte trasera por su eficiencia en costos y durabilidad. Los frenos de tambor proporcionan un rendimiento adecuado para las ruedas traseras, requieren menos mantenimiento e integran perfectamente con el sistema de frenado regenerativo del vehículo. Esta combinación garantiza un rendimiento óptimo de frenado y rentabilidad, alineándose con los objetivos generales de eficiencia del EV. Los discos delanteros miden 358 mm.
-
 
 ### Frenado regenerativo
 
@@ -106,9 +102,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -144,7 +138,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro" width="3000" height="2001"  >}}
-
 
 #### Asientos de la segunda fila
 
@@ -185,7 +178,6 @@ El Audi Q4 Sportback 45 e-tron quattro incluye varias características para mejo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Audi Q4 Sportback 45 e-tron quattro tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
@@ -201,14 +193,22 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/screens_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro" width="3000" height="2001"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Audi Q4 Sportback 45 e-tron quattro es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
 
 Puedes elegir entre dos sistemas de sonido en el Audi Q4 Sportback 45 e-tron quattro. Con el Audi Sound system, obtienes ocho parlantes con una salida máxima del sistema de 180 vatios. Con el Sonos Sound System, obtienes diez parlantes con una salida máxima del sistema de 580 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Audi Q4 Sportback 45 e-tron quattro es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Audi Q4 Sportback 45 e-tron quattro. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente. Además, puedes elegir entre dos tipos de luces traseras.
@@ -221,6 +221,7 @@ Puedes elegir entre dos tipos de faros para el Audi Q4 Sportback 45 e-tron quatt
 El Audi Q4 Sportback 45 e-tron quattro tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -259,7 +260,6 @@ Con el sistema Assistantpackage Tour  nivel 2, obtienes funciones de automatizac
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Nio ET5 Touring en secciones. Si desea esperar 
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Nio ET5 Touring impresiona con una potencia máxima de 480 kW (653 hp) y un impresionante par total de 850 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 3,9 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
@@ -34,6 +33,7 @@ El Nio ET5 Touring impresiona con una potencia máxima de 480 kW (653 hp) y un i
 ## Batería, autonomía y carga
 
 Nio ET5 Touring tiene dos opciones de batería con diferentes especificaciones. A continuación verás cómo esto afecta el alcance y la carga.
+
 ### 100kWh
 
 La batería de alta capacidad tiene una capacidad bruta de 100 kWh y una capacidad neta utilizable de 90 kWh, proporcionando un buffer de 10 kWh (10,0%) para la protección de la batería. Con un voltaje nominal de 358 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
@@ -43,6 +43,7 @@ Según el estándar [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](
 La velocidad máxima de carga de CC es 180kW. Una carga completa del 0 al 100 % tardaría 75 minutos, mientras que un escenario más común del 10 al 80 % tardaría 41 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 1% al 44%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 86kW. Cada sesión de carga tardaría 27 minutos y 2 segundos.
 
 En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 23 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 58 minutos. Este viaje requeriría dos paradas de carga del 1% al 40%, con un tiempo total de carga de 98 minutos.
+
 ### 75kWh
 
 La batería de alta capacidad tiene una capacidad bruta de 75 kWh y una capacidad neta utilizable de 70,5 kWh, proporcionando un buffer de 4,5 kWh (6,0%) para la protección de la batería. Con un voltaje nominal de 386 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria.
@@ -60,6 +61,7 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
+
 ### Cambio de batería
 
 Este modelo admite el cambio de batería. El cambio de batería significa que puedes conducir hasta una estación de cambio de batería única y reemplazarla por una batería nueva con 90 % de SOC. El cambio de batería tarda 7 minutos.
@@ -67,14 +69,11 @@ Este modelo admite el cambio de batería. El cambio de batería significa que pu
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Nio ET5 Touring tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
 
-
 ### Suspensión
-
 
 
 ### Dirección
@@ -84,7 +83,6 @@ La dirección dinámica es una característica un estándar en el Nio ET5 Tourin
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
-
 
 ### Frenado regenerativo
 
@@ -116,9 +114,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -149,7 +145,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 
-
 #### Asiento de segunda fila
 
 
@@ -166,7 +161,6 @@ Hay un sistema climático disponible.
 
 - **Sistema de climatización de 3 zonas:** Soporta diferentes temperaturas en tres zonas para el conductor, el pasajero y el asiento trasero.
 
-
 ## Características de confort
 
 El Nio ET5 Touring incluye varias características para mejorar la comodidad y conveniencia:
@@ -178,7 +172,6 @@ El Nio ET5 Touring incluye varias características para mejorar la comodidad y c
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interfaz de usuario y control
@@ -196,17 +189,24 @@ Este modelo tiene un sistema de control de voz opcional. El control de voz te pe
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el Nio ET5 Touring. Con el Premium sound system, obtienes 23 parlantes con una salida máxima del sistema de  vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
-
 El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Nio ET5 Touring tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -244,7 +244,6 @@ Con el sistema NIO Pilot Complete Pack  nivel 2, obtienes funciones de automatiz
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

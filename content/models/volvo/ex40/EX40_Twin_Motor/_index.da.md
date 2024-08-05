@@ -26,7 +26,6 @@ Vi har opdelt vores Volvo EX40 Twin Motor artikel i sektioner. Hvis du vil vente
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Volvo EX40 Twin Motor leverer en solid præstation med en maksimal effekt på 300 kW (408 hk) og et totalt drejningsmoment på 670 Nm. Den kan accelerere fra 0 til 100 km/t på 4,8 sekunder og når en topfart på 180 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Volvo EX40 Twin Motor har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
-
 
 ### Hjulophæng
 
@@ -65,7 +62,6 @@ Volvo EX40 Twin Motor har et firehjulstræk, der understøttes af to motorer, en
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsning
 
@@ -93,9 +89,7 @@ Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du b
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -118,7 +112,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_twin_motor/frontseats_1_st.jpg" title="Volvo EX40 Twin Motor" width="1920" height="1080"  >}}
-
 
 #### Sæde på anden række
 
@@ -151,7 +144,6 @@ Volvo EX40 Twin Motor inkluderer flere funktioner, der forbedrer komfort og bekv
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Volvo EX40 Twin Motor har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
@@ -167,12 +159,14 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_twin_motor/screens_1_st.jpg" title="Volvo EX40 Twin Motor" width="3000" height="2249"  >}}
 
-
 ## Infotainment
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Volvo EX40 Twin Motor. Med High Performance får du otte højttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 højttalere med en maksimal systemeffekt på 600 watt.
 
 Modellen har 1 USB-C-forbindelser som standard.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Volvo EX40 Twin Motor. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
@@ -185,6 +179,7 @@ Du kan vælge mellem to typer forlygter til Volvo EX40 Twin Motor. Standardlygte
 Volvo EX40 Twin Motor har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -209,7 +204,6 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

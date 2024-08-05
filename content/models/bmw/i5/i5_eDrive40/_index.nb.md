@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av BMW i5 eDrive40 i seksjoner. Hvis du vil vente m
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 BMW i5 eDrive40 leverer solid ytelse med en maksimal effekt på 250 kW (340 hk) og et totalt dreiemoment på 430 Nm. Den kan akselerere fra 0 til 100 km/t på 6 sekunder og når en topphastighet på 193 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/charging_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="3000"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
@@ -56,11 +54,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 BMW i5 eDrive40 har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Wound-Rotor Synchronous Motor](../../../../technology/motors/wrsm/).
-
 
 ### Hjuloppheng
 
@@ -75,7 +71,6 @@ Du kan bestille BMW i5 eDrive40 med en alternativ Adaptives suspension professio
 Dynamisk styring er standard-funksjonen på BMW i5 eDrive40. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som tilvalg-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
 
 ### Bremser
-
 
 
 
@@ -110,9 +105,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -146,7 +139,6 @@ Følgende funksjoner er tilgjengelige på **Comfort seats** setet.
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/frontseats_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="2000"  >}}
-
 
 #### Seter på andre rad
 
@@ -185,7 +177,6 @@ BMW i5 eDrive40 inkluderer flere funksjoner for å forbedre komfort og bekvemmel
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 BMW i5 eDrive40 har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
@@ -201,14 +192,22 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40/screens_1_st.jpg" title="BMW i5 eDrive40" width="3000" height="1999"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter BMW i5 eDrive40 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan velge mellom tre lydsystemer på BMW i5 eDrive40. Med Hifi Sound system får du seks høyttalere med en maksimal systemeffekt på 100 watt. Med Harman Kardon Surround Sound system får du 12 høyttalere med en maksimal systemeffekt på 205 watt. Med Bower & Wilkins Surround System får du 18 høyttalere med en maksimal systemeffekt på 655 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter BMW i5 eDrive40 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 6 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for BMW i5 eDrive40. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
@@ -219,6 +218,7 @@ Du kan velge mellom to typer frontlykter for BMW i5 eDrive40. Standardlyktene br
 ## Avanserte førerassistentsystemer
 
 BMW i5 eDrive40 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -252,7 +252,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du flere kjøreautomat
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

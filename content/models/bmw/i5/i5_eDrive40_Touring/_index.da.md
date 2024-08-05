@@ -26,7 +26,6 @@ Vi har opdelt vores BMW i5 eDrive40 Touring artikel i sektioner. Hvis du vil ven
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 BMW i5 eDrive40 Touring leverer en solid præstation med en maksimal effekt på 250 kW (340 hk) og et totalt drejningsmoment på 430 Nm. Den kan accelerere fra 0 til 100 km/t på 6,1 sekunder og når en topfart på 193 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/charging_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="1686"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
@@ -56,11 +54,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 BMW i5 eDrive40 Touring har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
-
 
 ### Hjulophæng
 
@@ -75,7 +71,6 @@ Du kan bestille BMW i5 eDrive40 Touring med en alternativ Adaptives suspension p
 Dynamisk styring er en standard-funktion på BMW i5 eDrive40 Touring. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden. Derudover er baghjulsstyring tilgængelig som en valgfri-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
 
 ### Bremser
-
 
 
 
@@ -110,9 +105,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -146,7 +139,6 @@ Følgende funktioner er tilgængelige på **Comfort seats** sædet.
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/frontseats_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2249"  >}}
-
 
 #### Sæde på anden række
 
@@ -185,7 +177,6 @@ BMW i5 eDrive40 Touring inkluderer flere funktioner, der forbedrer komfort og be
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 BMW i5 eDrive40 Touring har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
@@ -201,14 +192,22 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/screens_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2249"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter BMW i5 eDrive40 Touring Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem tre lydsystemer på BMW i5 eDrive40 Touring. Med Hifi Sound system får du seks højttalere med en maksimal systemeffekt på 100 watt. Med Harman Kardon Surround Sound system får du 12 højttalere med en maksimal systemeffekt på 205 watt. Med Bower & Wilkins Surround System får du 18 højttalere med en maksimal systemeffekt på 655 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter BMW i5 eDrive40 Touring Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 6 USB-C-forbindelser som standard.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til BMW i5 eDrive40 Touring. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -219,6 +218,7 @@ Du kan vælge mellem to typer forlygter til BMW i5 eDrive40 Touring. Standardlyg
 ## Avancerede førerassistentsystemer
 
 BMW i5 eDrive40 Touring har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -252,7 +252,6 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

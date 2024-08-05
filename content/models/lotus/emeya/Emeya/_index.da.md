@@ -26,7 +26,6 @@ Vi har opdelt vores Lotus Emeya artikel i sektioner. Hvis du vil vente med at l�
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Lotus Emeya imponerer med en maksimal effekt på 450 kW (612 hk) og et imponerende samlet drejningsmoment på 710 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 4,2 sekunder og har en topfart på 250 km/h, hvilket gør den til en standout i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Lotus Emeya har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en standard-funktion på Lotus Emeya. Dynamisk styring varie
 ### Bremser
 
 Du kan vælge mellem forskellige bremsesystemer. Bremserne standard bruger en [støbejernsskive belagt med wolframcarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og producerer næsten ikke bremsestøv. De forreste skiver er 412mm, og de bagerste skiver er 397mm. Bremserne second bruger [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De forreste skiver er 412mm, og de bagerste skiver er 397mm.
-
 
 ### Regenerativ bremsning
 
@@ -99,7 +95,6 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiør
@@ -134,7 +129,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya/frontseats_1_st.jpg" title="Lotus Emeya" width="3000" height="1687"  >}}
-
 
 #### Sæder på anden række
 
@@ -175,7 +169,6 @@ Lotus Emeya inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 
@@ -195,17 +188,28 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Lotus Emeya Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan vælge mellem to lydsystemer på Lotus Emeya. Med KEF Premium Audio system får du 15 højttalere med en maksimal systemeffekt på 1380 watt. Med KEF Reference Audio system får du 23 højttalere med en maksimal systemeffekt på 2160 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Lotus Emeya Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 Lotus Emeya har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -244,12 +248,12 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 688 liter. Med bagsædet nede er det 1532 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 46 liter (1,6 CU FT). Bilens maksimale vægt er 3100 kg (6834 lbs), og med basisvægten på 2565 kg (5655 lbs), kan du maksimalt laste 535 kg (1179 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1225, og på ubremset er den 750 kg (2701/1653 lbs).
+
 ### Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 12.10.2023, og leveringer forventes at starte om March 2024.<div class="mt-3 mb-3">

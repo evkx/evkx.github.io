@@ -26,7 +26,6 @@ Nous avons séparé notre article Tesla Cybertruck Cyberbeast en sections. Si vo
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Tesla Cybertruck Cyberbeast délivre une puissance maximale impressionnante de 630 kW (857 ch) et un couple massif de 930 Nm. Ce bolide peut passer de 0 à 100 km/h en seulement 2,7 secondes, démontrant ainsi son accélération étonnante. De plus, il atteint une vitesse maximale de 209 km/h, faisant de lui un véritable chef-d'œuvre d'ingénierie et de performance.
@@ -48,7 +47,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/charging_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2250"  >}}
 
-
 ### Port de recharge
 
 L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../../../technology/charging/connectors/#rear-corner). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**NACS**](../../../../technology/charging/connectors/# nacs) pour l'Amérique du Nord et [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) pour l'Europe. Voir les spécifications complètes pour tous les marchés.
@@ -56,11 +54,9 @@ L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Tesla Cybertruck Cyberbeast dispose d'un système de transmission intégrale pris en charge par trois moteurs. Un sur l'essieu avant et deux sur l'essieu arrière. Les moteurs utilisés sont des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) au niveau de l'essieu avant et des [Moteurs à induction](../../../../technology/motors/asm/) sur l'essieu arrière.
-
 
 ### Suspension
 
@@ -73,7 +69,6 @@ La direction dynamique est une fonctionnalité un standard sur le Tesla Cybertru
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 355 mm et les disques arrière mesurent 355 mm.
-
 
 ### Freinage régénératif
 
@@ -102,9 +97,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -129,7 +122,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/frontseats_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -164,7 +156,6 @@ L'Tesla Cybertruck Cyberbeast comprend plusieurs fonctionnalités pour améliore
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Tesla Cybertruck Cyberbeast a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement.
@@ -179,13 +170,15 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/screens_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
 
-
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le Tesla Cybertruck Cyberbeast. Avec le Tesla Premium Sound, vous obtenez 17 haut-parleurs avec une puissance système maximale de 560 watts.
-
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
 
 ## Lumières
 
@@ -197,6 +190,7 @@ Les phares standard utilisent la technologie LED Matrix. LED Matrix est un syst�
 ## Systèmes avancés d'aide à la conduite
 
 Le Tesla Cybertruck Cyberbeast dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -238,7 +232,6 @@ Avec le système Full Self-Driving Capability  niveau 3, vous bénéficiez de fo
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

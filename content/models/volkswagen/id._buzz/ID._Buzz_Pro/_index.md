@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Volkswagen ID. Buzz Pro offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 310 Nm (229 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 10.2 seconds and has a top speed of 145 km/h (90 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/charging_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,14 +54,11 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Volkswagen ID. Buzz Pro has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Induction Motors](../../../../technology/motors/asm/).
 
-
 ### Suspension
-
 
 
 ### Steering
@@ -73,7 +68,6 @@ Dynamic steering is an optional feature on the Volkswagen ID. Buzz Pro. Dynamic 
 ### Brakes
 
 The Volkswagen ID. Buzz Pro uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 358mm.
-
 
 ### Regenerative braking
 
@@ -104,9 +98,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -153,7 +145,6 @@ You can choose from 5 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/frontseats_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
-
 #### Second-row seat
 
 
@@ -189,7 +180,6 @@ The Volkswagen ID. Buzz Pro includes several features to enhance comfort and con
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Volkswagen ID. Buzz Pro has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -205,9 +195,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/screens_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -222,14 +210,17 @@ Furthermore, the Volkswagen ID. Buzz Pro supports Android Auto and Apple CarPlay
 One type of sound system is available for the Volkswagen ID. Buzz Pro. With the Volkswagen Soundsystem, you get six speakers with a max system output of 450 watts.
 
 The model has 5 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the Volkswagen ID. Buzz Pro. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+
 ## Advanced driver assistance systems
 
 The Volkswagen ID. Buzz Pro has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -264,7 +255,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

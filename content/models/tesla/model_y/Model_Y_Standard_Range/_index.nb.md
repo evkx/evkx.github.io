@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Tesla Model Y Standard Range i seksjoner. Hvis d
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Tesla Model Y Standard Range leverer solid ytelse med en maksimal effekt på 255 kW (347 hk) og et totalt dreiemoment på 420 Nm. Den kan akselerere fra 0 til 100 km/t på 6,9 sekunder og når en topphastighet på 217 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -34,6 +33,7 @@ Tesla Model Y Standard Range leverer solid ytelse med en maksimal effekt på 255
 ## Batteri, rekkevidde og lading
 
 Tesla Model Y Standard Range har fire batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading.
+
 ### CATL LFP Europa/China market
 
 Høykapasitetsbatteriet har en brutto kapasitet på 60 kWh og en netto brukbar kapasitet på 55 kWh, som gir en buffer på 5 kWh (8,3%) for batteribeskyttelse. Med en nominell spenning på 340 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
@@ -43,6 +43,7 @@ I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Har
 Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 52 minutter, mens et mer vanlig scenario på 10-80 % vil ta 27 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 47%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 89kW. Hver ladeøkt vil ta 17 minutter og 30 sekunder.
 
 I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19,5 kWh/100 km, ville turen ta omtrent 9 timer og 55 minutter. Denne reisen ville kreve to ladestopp fra 0% til 51%, med en total ladetid på 95 minutter.
+
 ### BYD LFP Europa/China market
 
 Høykapasitetsbatteriet har en brutto kapasitet på 60 kWh og en netto brukbar kapasitet på 55 kWh, som gir en buffer på 5 kWh (8,3%) for batteribeskyttelse. Med en nominell spenning på 340 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Litium-ion-batteriet bruker [LFP-teknologi.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Dette har noen fordeler og ulemper fra de typiske NCA/NCM-batteriene.
@@ -52,6 +53,7 @@ I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Har
 Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 37 minutter, mens et mer vanlig scenario på 10-80 % vil ta 18 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 63%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 113kW. Hver ladeøkt vil ta 18 minutter og 28 sekunder.
 
 I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19,5 kWh/100 km, ville turen ta omtrent 9 timer og 35 minutter. Denne reisen ville kreve to ladestopp fra 0% til 64%, med en total ladetid på 75 minutter.
+
 ### NMC 4850 US Market
 
 Høykapasitetsbatteriet har en brutto kapasitet på 70 kWh og en netto brukbar kapasitet på 68,5 kWh, som gir en buffer på 1,5 kWh (2,1%) for batteribeskyttelse. Med en nominell spenning på 340 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
@@ -61,6 +63,7 @@ I henhold til [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Har
 Maksimal DC-ladehastighet er 250 kW. En full lading fra 0 - 100 % vil ta 84 minutter, mens et mer vanlig scenario på 10-80 % vil ta 41 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 36%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 82kW. Hver ladeøkt vil ta 18 minutter og 60 sekunder.
 
 I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 19,5 kWh/100 km, ville turen ta omtrent 9 timer og 52 minutter. Denne reisen ville kreve to ladestopp fra 0% til 37%, med en total ladetid på 93 minutter.
+
 ### NMC 21700 US Market Software locked
 
 Høykapasitetsbatteriet har en brutto kapasitet på 70 kWh og en netto brukbar kapasitet på 68,5 kWh, som gir en buffer på 1,5 kWh (2,1%) for batteribeskyttelse. Med en nominell spenning på 340 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
@@ -82,11 +85,9 @@ Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Tesla Model Y Standard Range har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -99,7 +100,6 @@ Dynamisk styring er standard-funksjonen på Tesla Model Y Standard Range. Dynami
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 355mm, og de bakre skivene er 355mm.
-
 
 ### Regenerativ bremsing
 
@@ -132,9 +132,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -159,7 +157,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/frontseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
-
 #### Seter på andre rad
 
 
@@ -169,7 +166,6 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/secondrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
-
 
 #### Seter på tredje rad
 
@@ -206,7 +202,6 @@ Tesla Model Y Standard Range inkluderer flere funksjoner for å forbedre komfort
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Tesla Model Y Standard Range har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment.
@@ -221,20 +216,26 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/screens_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="1800"  >}}
 
-
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Tesla Model Y Standard Range. Med Tesla Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 560 watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### header.soundsystem
+
+Én type lydsystem er tilgjengelig for Tesla Model Y Standard Range. Med Tesla Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 560 watt.
+
 Modellen har 4 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 Tesla Model Y Standard Range har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -282,12 +283,12 @@ Den bruker åtte kameraer til å registrere alt i kjøretøyets miljø.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 854 liter. Med baksetet nede er det 2158 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 117 liter. Maksimumsvekten til bilen er 2720 kg, og med basisvekten på 2135 kg kan du maksimalt laste 585 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 1600, og på ubremset er den 750 kg.
+
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 19.03.2019, og leveringene startet i March 2020.<div class="mt-3 mb-3">

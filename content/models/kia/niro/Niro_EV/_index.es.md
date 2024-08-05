@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Kia Niro EV en secciones. Si desea esperar para
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Kia Niro EV ofrece un rendimiento modesto con una potencia máxima de 150 kW (204 hp) y un par total de 255 Nm. Acelera de 0 a 100 km/h en 7,8 segundos y tiene una velocidad máxima 167 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -48,7 +47,6 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/charging_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
-
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [frente](../../../../technology/charging/connectors/#front). Esta ubicación lo hace estaciones de carga fáciles de usar donde es necesario estacionar con la parte delantera hacia adentro. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
@@ -56,18 +54,15 @@ La ubicación del puerto de carga está en el [frente](../../../../technology/ch
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Kia Niro EV tiene un sistema de tracción trasera sostenido por un motor en el eje trasero.
-
 
 ### Suspensión
 
 La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 160 mm.
 
 ### Frenos
-
 
 
 
@@ -101,13 +96,11 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 Hay un tipo de asiento que puedes seleccionar en diferentes materiales.
 
 ### Asientos
-
 
 
 #### Asientos de primera fila
@@ -130,7 +123,6 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 - Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
-
 
 
 #### Asiento de segunda fila
@@ -166,7 +158,6 @@ El Kia Niro EV incluye varias características para mejorar la comodidad y conve
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Kia Niro EV tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -182,20 +173,30 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/screens_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Kia Niro EV es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
 
 Puedes elegir entre dos sistemas de sonido en el Kia Niro EV. Con el Standard, obtienes seis parlantes con una salida máxima del sistema de  vatios. Con el Meridian Premium Sound System, obtienes 14 parlantes con una salida máxima del sistema de  vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Kia Niro EV es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 4 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Kia Niro EV tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -226,7 +227,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

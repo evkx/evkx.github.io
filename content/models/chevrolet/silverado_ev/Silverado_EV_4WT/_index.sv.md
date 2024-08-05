@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Chevrolet Silverado EV 4WT i avsnitt. Om du 
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Chevrolet Silverado EV 4WT levererar en solid prestanda med en maximal effekt på 380 kW (517 hk) och ett totalt vridmoment på 834 Nm. Den kan accelerera från 0 till 100 km/h på 4,5 sekunder och når en topphastighet på 170 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -48,7 +47,6 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/charging_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 
-
 ### Laddningsport
 
 Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
@@ -56,18 +54,15 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Chevrolet Silverado EV 4WT har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
 Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 227 mm.
 
 ### Bromsar
-
 
 
 
@@ -96,9 +91,7 @@ Det finns bara ett tak för denna modell.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -123,7 +116,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/frontseats_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2002"  >}}
-
 
 #### Säten på andra raden
 
@@ -162,7 +154,6 @@ Chevrolet Silverado EV 4WT inkluderar flera funktioner för att förbättra komf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Chevrolet Silverado EV 4WT har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
@@ -178,20 +169,28 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/screens_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Chevrolet Silverado EV 4WT Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 En typ av ljudsystem är tillgänglig för Chevrolet Silverado EV 4WT. Med Chevrolet Sound System får du sex högtalare med en maximal systemeffekt på 200 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Chevrolet Silverado EV 4WT Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 4 USB-C-anslutningar som standard.
-## Ljus
 
+## Ljus
 
 ## Avancerade förarassistanssystem
 
 Chevrolet Silverado EV 4WT har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -211,7 +210,6 @@ Med Super Cruise  nivå 1-systemet får du följande körautomationsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

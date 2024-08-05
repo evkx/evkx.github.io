@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Tesla Model 3 Long Range delivers a solid performance with a maximum power of 324 kW (441 hp / 435 bhp) and a total torque of 493 Nm (364 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.4 seconds and reaches a top speed of 201 km/h (125 mph), making it competitive within its class.
@@ -52,11 +51,9 @@ The charge port is conveniently located at the [left rear corner](../../../../te
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Tesla Model 3 Long Range features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is a standard feature on the Tesla Model 3 Long Range. Dynamic 
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 355mm.
-
 
 ### Regenerative braking
 
@@ -101,7 +97,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 The interior of the Tesla Model 3 Long Range is minimalistic, featuring high-quality materials in several areas in place of hard plastic. Additionally, it includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality. You can choose between several interior designs.
@@ -131,7 +126,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/frontseats_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
-
 
 #### Second-row seat
 
@@ -165,7 +159,6 @@ The Tesla Model 3 Long Range includes several features to enhance comfort and co
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Tesla Model 3 Long Range has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
@@ -185,7 +178,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -195,6 +187,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Tesla Model 3 Long Range. With the Tesla Premium Sound, you get 17 speakers with a max system output of 560 watts.
 
 The model has 3 USB-C connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology.
@@ -205,6 +198,7 @@ The standard headlights use LED technology.
 ## Advanced driver assistance systems
 
 The Tesla Model 3 Long Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -252,12 +246,12 @@ It uses seven [cameras](../../../../technology/sensorsandcameras/cameras/) to re
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 594 liters. With the rear seat down, it is 1234 liters. On the roof, you can load up to 70 kg (154.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 88 liters (3.1 CU FT). The maxium weight of the car is 2232 kg (4921 lbs), and with the base weight of 1844 kg (4065 lbs), you can max load 388 kg (855 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
+
 ### Availability & Pricing
 
 This model had a world premiere on 01.10.2023, and deliveries started in December 2023.<div class="mt-3 mb-3">

@@ -26,7 +26,6 @@ Nous avons séparé notre article Mercedes-EQ EQA 250 en sections. Si vous souha
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 L'Mercedes-EQ EQA 250 offre des performances modestes avec une puissance maximale de 168 kW (228 ch) et un couple total de 390 Nm. Il accélère de 0 à 100 km/h en 7,7 secondes et atteint une vitesse maximale de 160 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -52,14 +51,11 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Mercedes-EQ EQA 250 dispose d'un système de traction avant pris en charge par un moteur sur l'essieu avant. Le moteur utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
 
-
 ### Suspension
-
 
 
 ### Pilotage
@@ -69,7 +65,6 @@ La direction dynamique est une fonctionnalité un standard sur le Mercedes-EQ EQ
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
-
 
 ### Freinage régénératif
 
@@ -97,9 +92,7 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -146,7 +139,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250/frontseats_1_st.jpg" title="Mercedes-EQ EQA 250" width="3000" height="2000"  >}}
 
-
 #### Siège de deuxième rangée
 
 
@@ -164,7 +156,6 @@ Deux options de système de climatisation sont disponibles :
 - **Système de climatisation à 1 zones** : Prend en charge que le contrôle d'une zone partagée pour l'ensemble de la voiture.
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 
-
 ## Caractéristiques de confort
 
 L'Mercedes-EQ EQA 250 comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
@@ -175,7 +166,6 @@ L'Mercedes-EQ EQA 250 comprend plusieurs fonctionnalités pour améliorer le con
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interface utilisateur et contrôle
@@ -200,17 +190,28 @@ Ce modèle dispose également d'un système de contrôle gestuel en option qui v
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Mercedes-EQ EQA 250 prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Vous pouvez choisir entre deux systèmes audio sur le Mercedes-EQ EQA 250. Avec le Standard, vous obtenez sept haut-parleurs avec une puissance système maximale de 100 watts. Avec le Advanced Soundsystem, vous obtenez neuf haut-parleurs avec une puissance système maximale de 225 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Mercedes-EQ EQA 250 prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 4 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Mercedes-EQ EQA 250 dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -244,12 +245,12 @@ Avec le système Driver Assistance Package  niveau 1, vous bénéficiez des fonc
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement dans le coffre est de 340 litres. Avec la banquette arrière rabattue, elle est de 1320 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2535 kg (5589 lbs), et avec le poids de base de 2030 kg (4475 lbs), vous pouvez charger au maximum 505 kg (1113 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1800, et sur une remorque non freinée, il est de 750 kg (3968/1653 lbs).
+
 ### Disponibilité et prix
 
 <div class="mt-3 mb-3">

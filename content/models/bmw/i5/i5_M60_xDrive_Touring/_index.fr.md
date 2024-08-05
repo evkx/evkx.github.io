@@ -26,7 +26,6 @@ Nous avons séparé notre article BMW i5 M60 xDrive Touring en sections. Si vous
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La BMW i5 M60 xDrive Touring impressionne avec une puissance maximale de 442 kW (601 ch) et un couple total impressionnant de 795 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 3,8 secondes, et atteint une vitesse maximale de 230 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
@@ -48,7 +47,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/charging_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="1686"  >}}
 
-
 ### Port de recharge
 
 L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
@@ -56,11 +54,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 BMW i5 M60 xDrive Touring dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à rotor bobiné](../../../../technology/motors/wrsm/).
-
 
 ### Suspension
 
@@ -71,7 +67,6 @@ La suspension  est dotée d'un amortissement adaptatif sur les essieux avant et 
 La direction dynamique est une fonctionnalité un standard sur le BMW i5 M60 xDrive Touring. La direction dynamique fait varier le rapport de direction en fonction de la vitesse de conduite. De plus, la direction des roues arrière est disponible en tant que fonctionnalité un facultatif. La direction des roues arrière réduit le rayon de braquage lorsque vous roulez lentement.
 
 ### Freins
-
 
 
 
@@ -106,9 +101,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -142,7 +135,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Comfort seats**.
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/frontseats_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -181,7 +173,6 @@ L'BMW i5 M60 xDrive Touring comprend plusieurs fonctionnalités pour améliorer 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le BMW i5 M60 xDrive Touring possède deux écrans sur un cadre partagé monté avec des supports sur le tableau de bord. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments), et sur la partie droite , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -204,11 +195,20 @@ Un système de contrôle gestuel qui vous permet de contrôler des fonctionnalit
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le BMW i5 M60 xDrive Touring prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Vous pouvez choisir entre trois systèmes audio sur le BMW i5 M60 xDrive Touring. Avec le Hifi Sound system, vous obtenez six haut-parleurs avec une puissance système maximale de 100 watts. Avec le Harman Kardon Surround Sound system, vous obtenez 12 haut-parleurs avec une puissance système maximale de 205 watts. Avec le Bower & Wilkins Surround System, vous obtenez 18 haut-parleurs avec une puissance système maximale de 655 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le BMW i5 M60 xDrive Touring prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 6 connexions USB-C en standard.
+
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le BMW i5 M60 xDrive Touring. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
@@ -219,6 +219,7 @@ Vous pouvez choisir entre deux types de phares pour le BMW i5 M60 xDrive Touring
 ## Systèmes avancés d'aide à la conduite
 
 Le BMW i5 M60 xDrive Touring dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -252,7 +253,6 @@ Avec le système Driving Assistant Professional  niveau 2, vous bénéficiez de 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

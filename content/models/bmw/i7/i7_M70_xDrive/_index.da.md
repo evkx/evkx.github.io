@@ -26,7 +26,6 @@ Vi har opdelt vores BMW i7 M70 xDrive artikel i sektioner. Hvis du vil vente med
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 BMW i7 M70 xDrive imponerer med en maksimal effekt på 485 kW (659 hk) og et imponerende samlet drejningsmoment på 1015 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3,7 sekunder og har en topfart på 250 km/h, hvilket gør den til en standout i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 BMW i7 M70 xDrive har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
-
 
 ### Hjulophæng
 
@@ -67,7 +64,6 @@ Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan
 Dynamisk styring er en standard-funktion på BMW i7 M70 xDrive. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden. Derudover er baghjulsstyring tilgængelig som en standard-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
 
 ### Bremser
-
 
 
 
@@ -100,9 +96,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -130,7 +124,6 @@ Du kan vælge mellem 7 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/frontseats_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2001"  >}}
 
-
 #### Sæder på anden række
 
 Du kan vælge to sædetyper til anden række i BMW i7 M70 xDrive.
@@ -157,7 +150,6 @@ To klimaanlægsmuligheder er tilgængelige:
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
 
-
 ## Komfortfunktioner
 
 BMW i7 M70 xDrive inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
@@ -169,7 +161,6 @@ BMW i7 M70 xDrive inkluderer flere funktioner, der forbedrer komfort og bekvemme
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brugergrænseflade og kontrol
@@ -187,14 +178,22 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/screens_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1991"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter BMW i7 M70 xDrive Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på BMW i7 M70 xDrive. Med Harman Kardon Surround Sound system får du 18 højttalere med en maksimal systemeffekt på 655 watt. Med Bowers & Wilkins Diamond surround sound system får du 30 højttalere med en maksimal systemeffekt på 1615 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter BMW i7 M70 xDrive Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 6 USB-C-forbindelser som standard.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til BMW i7 M70 xDrive. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix med laserteknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukkes individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -205,6 +204,7 @@ Du kan vælge mellem to typer forlygter til BMW i7 M70 xDrive. Standardlygterne 
 ## Avancerede førerassistentsystemer
 
 BMW i7 M70 xDrive har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -238,7 +238,6 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Nissan Ariya 87kWh e-4ORCE i seksjoner. Hvis du 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Nissan Ariya 87kWh e-4ORCE leverer solid ytelse med en maksimal effekt på 225 kW (306 hk) og et totalt dreiemoment på 600 Nm. Den kan akselerere fra 0 til 100 km/t på 5,7 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Nissan Ariya 87kWh e-4ORCE har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
-
 
 ### Hjuloppheng
 
@@ -69,7 +66,6 @@ Dynamisk styring er tilvalg-funksjonen på Nissan Ariya 87kWh e-4ORCE. Dynamisk 
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsing
 
@@ -99,7 +95,6 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Det er én setetype du kan velge i forskjellige materialer.
@@ -126,7 +121,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 - Black [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 - Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
-
 
 
 #### Seter på andre rad
@@ -161,7 +155,6 @@ Nissan Ariya 87kWh e-4ORCE inkluderer flere funksjoner for å forbedre komfort o
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Nissan Ariya 87kWh e-4ORCE har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
@@ -182,17 +175,26 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Nissan Ariya 87kWh e-4ORCE Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan velge mellom to lydsystemer på Nissan Ariya 87kWh e-4ORCE. Med DAB Audiosystem får du seks høyttalere med en maksimal systemeffekt på  watt. Med BOSE Premium Sound System får du ti høyttalere med en maksimal systemeffekt på  watt.
-
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Nissan Ariya 87kWh e-4ORCE Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Nissan Ariya 87kWh e-4ORCE. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
+
 ## Avanserte førerassistentsystemer
 
 Nissan Ariya 87kWh e-4ORCE har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -222,7 +224,6 @@ Med ProPILOT  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

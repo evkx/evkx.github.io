@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The BYD Atto 3 offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 310 Nm (229 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.3 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -52,11 +51,9 @@ The charge port is conveniently located on the [right front side](../../../../te
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 BYD Atto 3 has a front-wheel drive system supported by one motor on the front axle. The motor used are [Induction Motors](../../../../technology/motors/asm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is a standard feature on the BYD Atto 3. Dynamic steering varie
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -98,9 +94,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -129,7 +123,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/frontseats_1_st.jpg" title="BYD Atto 3" width="1600" height="1203"  >}}
-
 
 #### Second-row seat
 
@@ -166,7 +159,6 @@ The BYD Atto 3 includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 Two different screen setups are available on the BYD Atto 3.
@@ -193,9 +185,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/screens_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -206,6 +196,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the BYD Atto 3. With the Dirac, you get eight speakers with a max system output of  watts.
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
@@ -216,6 +207,7 @@ The standard headlights use LED technology. In addition, the standard taillights
 ## Advanced driver assistance systems
 
 The BYD Atto 3 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -247,7 +239,6 @@ With the   level 1 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

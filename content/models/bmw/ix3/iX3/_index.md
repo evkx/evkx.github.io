@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The BMW iX3 delivers a solid performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 400 Nm (295 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.8 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/charging_1_st.jpg" title="BMW iX3" width="3000" height="2070"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 BMW iX3 features an all-wheel drive system powered by two motors, one on each axle. The motor used are [Induction Motors](../../../../technology/motors/asm/).
-
 
 ### Suspension
 
@@ -71,7 +67,6 @@ The Standard suspension has steel springs with a fixed height, but you can adjus
 Dynamic steering is a standard feature on the BMW iX3. Dynamic steering varies the steering ratio as a function of driving speed.
 
 ### Brakes
-
 
 
 
@@ -105,9 +100,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -129,7 +122,6 @@ The following functionalities are available on the **Sport** seat.
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 3 different materials/colors for this seat type.
-
 
 
 #### Second-row seat
@@ -168,7 +160,6 @@ The BMW iX3 includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 
@@ -183,9 +174,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/screens_1_st.jpg" title="BMW iX3" width="3000" height="2250"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -200,12 +189,15 @@ Furthermore, the BMW iX3 supports Android Auto and Apple CarPlay. This functiona
 One type of sound system is available for the BMW iX3. With the Harman Kardon Surround Sound system, you get 16 speakers with a max system output of 464 watts.
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the BMW iX3. The standard headlights use LED technology. Headlights based on LED Matrix with Laser technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The BMW iX3 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -235,7 +227,6 @@ With the Driving Assistant Professional  level 2 system, you get the following d
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

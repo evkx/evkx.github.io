@@ -26,7 +26,6 @@ Vi har opdelt vores Ford Mustang Mach-E Standard Range AWD artikel i sektioner. 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Ford Mustang Mach-E Standard Range AWD leverer en solid præstation med en maksimal effekt på 258 kW (351 hk) og et totalt drejningsmoment på 580 Nm. Den kan accelerere fra 0 til 100 km/t på 5,8 sekunder og når en topfart på 180 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/charging_1_st.jpg" title="Ford Mustang Mach-E Standard Range AWD" width="3000" height="1736"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne placering gør det nemt at lade stationer, hvor du parkerer siden ind i ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
@@ -56,11 +54,9 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Ford Mustang Mach-E Standard Range AWD har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
-
 
 ### Hjulophæng
 
@@ -69,7 +65,6 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 457mm, og de bagerste skiver er 432mm.
-
 
 ### Regenerativ bremsning
 
@@ -97,9 +92,7 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -125,7 +118,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Standard Range AWD" width="3000" height="1999"  >}}
-
 
 #### Sæde på anden række
 
@@ -163,7 +155,6 @@ Ford Mustang Mach-E Standard Range AWD inkluderer flere funktioner, der forbedre
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 
@@ -178,14 +169,22 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/screens_1_st.jpg" title="Ford Mustang Mach-E Standard Range AWD" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Ford Mustang Mach-E Standard Range AWD Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Én type lydsystem er tilgængelig for Ford Mustang Mach-E Standard Range AWD. Med B&O Sound System får du ti højttalere med en maksimal systemeffekt på 560 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Ford Mustang Mach-E Standard Range AWD Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelser som standard.
+
 ## Lys
 
 
@@ -196,6 +195,7 @@ Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelse
 ## Avancerede førerassistentsystemer
 
 Ford Mustang Mach-E Standard Range AWD har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -229,7 +229,6 @@ Med Ford BlueCruise  niveau 2-systemet får du følgende køreautomatiseringsfun
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Polestar 2 Long Range Dual Motor Performance en
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Polestar 2 Long Range Dual Motor Performance ofrece un rendimiento sólido con una potencia máxima de 350 kW (476 hp) y un par total de 740 Nm. Puede acelerar de 0 a 100 km/h en 4,2 segundos y alcanza una velocidad máxima de 205 km/h, lo que lo hace competitivo en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Polestar 2 Long Range Dual Motor Performance tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
-
 
 ### Suspensión
 
@@ -65,7 +62,6 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
-
 
 ### Frenado regenerativo
 
@@ -93,7 +89,6 @@ Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -125,7 +120,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/frontseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="1687"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -162,7 +156,6 @@ El Polestar 2 Long Range Dual Motor Performance incluye varias características 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Polestar 2 Long Range Dual Motor Performance tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
@@ -178,12 +171,14 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/screens_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="2250"  >}}
 
-
 ## Infoentretenimiento
+
+### header.soundsystem
 
 Puedes elegir entre dos sistemas de sonido en el Polestar 2 Long Range Dual Motor Performance. Con el High Performance, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios. Con el Harman Kardon Premium Sound, obtienes 13 parlantes con una salida máxima del sistema de 600 vatios.
 
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Polestar 2 Long Range Dual Motor Performance. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
@@ -196,6 +191,7 @@ Puedes elegir entre dos tipos de faros para el Polestar 2 Long Range Dual Motor 
 El Polestar 2 Long Range Dual Motor Performance tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -220,7 +216,6 @@ Con el sistema Pilot Assist  nivel 2, obtienes las siguientes funciones de autom
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

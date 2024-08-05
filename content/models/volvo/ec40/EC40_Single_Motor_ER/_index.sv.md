@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Volvo EC40 Single Motor ER i avsnitt. Om du 
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Volvo EC40 Single Motor ER erbjuder blygsamma prestanda med en maximal effekt på 185 kW (252 hk) och ett totalt vridmoment på 420 Nm. Den accelererar från 0 till 100 km/h på 7,3 sekunder och har en topphastighet på 160 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
@@ -48,7 +47,6 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/charging_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
 
-
 ### Laddningsport
 
 Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
@@ -56,11 +54,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Volvo EC40 Single Motor ER har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
-
 
 ### Hjulupphängning
 
@@ -69,7 +65,6 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bromsning
 
@@ -97,9 +92,7 @@ Det finns två olika takalternativ att välja mellan. Som tillval kan du bestäl
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -122,7 +115,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/frontseats_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
-
 
 #### Säten på andra raden
 
@@ -159,7 +151,6 @@ Volvo EC40 Single Motor ER inkluderar flera funktioner för att förbättra komf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Volvo EC40 Single Motor ER har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
@@ -175,12 +166,14 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/screens_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.soundsystem
 
 Du kan välja mellan två ljudsystem på Volvo EC40 Single Motor ER. Med High Performance får du åtta högtalare med en maximal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 högtalare med en maximal systemeffekt på 600 watt.
 
 Modellen har 1 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Volvo EC40 Single Motor ER. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
@@ -193,6 +186,7 @@ Du kan välja mellan två typer av strålkastare för Volvo EC40 Single Motor ER
 Volvo EC40 Single Motor ER har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -217,7 +211,6 @@ Med Pilot Assist  nivå 2-systemet får du följande körautomatiseringsfunktion
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

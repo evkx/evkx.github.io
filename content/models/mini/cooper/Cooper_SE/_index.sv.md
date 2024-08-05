@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Mini Cooper SE i avsnitt. Om du vill vänta 
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Mini Cooper SE erbjuder blygsamma prestanda med en maximal effekt på 160 kW (218 hk) och ett totalt vridmoment på 330 Nm. Den accelererar från 0 till 100 km/h på 6,7 sekunder och har en topphastighet på 170 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
@@ -50,11 +49,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Mini Cooper SE har ett framhjulsdriftssystem som stöds av en motor på framaxeln.
-
 
 ### Hjulupphängning
 
@@ -64,9 +61,7 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 
 
-
 ### Regenerativ bromsning
-
 
 
 ## Exteriör
@@ -94,9 +89,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -121,7 +114,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/frontseats_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
-
 #### Säten på andra raden
 
 
@@ -141,7 +133,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 
-
 ## Komfortfunktioner
 
 Mini Cooper SE inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -152,7 +143,6 @@ Mini Cooper SE inkluderar flera funktioner för att förbättra komfort och bekv
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Användargränssnitt och kontroll
@@ -167,11 +157,11 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/screens_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
-
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för Mini Cooper SE. Med  får du NULL högtalare med en maximal systemeffekt på  watt.
+### header.soundsystem
 
+En typ av ljudsystem är tillgänglig för Mini Cooper SE. Med  får du NULL högtalare med en maximal systemeffekt på  watt.
 
 ## Ljus
 
@@ -183,6 +173,7 @@ Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-
 ## Avancerade förarassistanssystem
 
 Mini Cooper SE har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -200,12 +191,12 @@ Med standardsystemet erbjuder modellen ingen körautomatisering.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastkapaciteten i bagageutrymmet är 200 liter. Med baksätet nedfällt är det 800 liter.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+
 ### Tillgänglighet och pris
 
 <div class="mt-3 mb-3">

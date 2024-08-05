@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Tesla Model 3 i seksjoner. Hvis du vil vente med
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Tesla Model 3 tilbyr beskjedne ytelser med en maksimal effekt på 208 kW (283 hk) og et totalt dreiemoment på 420 Nm. Den akselererer fra 0 til 100 km/t på 6,1 sekunder og har en toppfart på 225 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Tesla Model 3 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
-
 
 ### Hjuloppheng
 
@@ -69,7 +66,6 @@ Dynamisk styring er standard-funksjonen på Tesla Model 3. Dynamisk styring vari
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 355mm, og de bakre skivene er 355mm.
-
 
 ### Regenerativ bremsing
 
@@ -101,7 +97,6 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Interiøret i Tesla Model 3 er minimalistisk, med materialer av høy kvalitet på flere områder i stedet for hard plast. I tillegg inkluderer det en tradisjonell midtkonsoll som skiller føreren og passasjeren, og gir praktisk oppbevaring og funksjonalitet. Du kan velge mellom flere interiørdesign.
@@ -131,7 +126,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/frontseats_1_st.jpeg" title="Tesla Model 3" width="1920" height="1080"  >}}
-
 
 #### Seter på andre rad
 
@@ -165,7 +159,6 @@ Tesla Model 3 inkluderer flere funksjoner for å forbedre komfort og bekvemmelig
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Tesla Model 3 har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment.
@@ -180,14 +173,18 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/screens_1_st.jpeg" title="Tesla Model 3" width="1920" height="1080"  >}}
 
-
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Tesla Model 3. Med Tesla Imersive Sound får du ni høyttalere med en maksimal systemeffekt på 560 watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### header.soundsystem
+
+Én type lydsystem er tilgjengelig for Tesla Model 3. Med Tesla Imersive Sound får du ni høyttalere med en maksimal systemeffekt på 560 watt.
+
 Modellen har 3 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi.
@@ -198,6 +195,7 @@ Standardlyktene bruker LED-teknologi.
 ## Avanserte førerassistentsystemer
 
 Tesla Model 3 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -245,12 +243,12 @@ Den bruker syv kameraer til å registrere alt i kjøretøyets miljø.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 593 liter. Med baksetet nede er det 1234 liter. På taket kan du laste opptil 70 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 88 liter. Maksimumsvekten til bilen er 2149 kg, og med basisvekten på 1760 kg kan du maksimalt laste 389 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750 kg.
+
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 01.10.2023, og leveringene startet i December 2023.<div class="mt-3 mb-3">

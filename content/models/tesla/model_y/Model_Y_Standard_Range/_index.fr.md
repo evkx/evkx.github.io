@@ -26,7 +26,6 @@ Nous avons séparé notre article Tesla Model Y Standard Range en sections. Si v
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Tesla Model Y Standard Range offre des performances solides avec une puissance maximale de 255 kW (347 ch) et un couple total de 420 Nm. Elle peut accélérer de 0 à 100 km/h en 6,9 secondes et atteindre une vitesse maximale de 217 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -34,6 +33,7 @@ La Tesla Model Y Standard Range offre des performances solides avec une puissanc
 ## Batterie, autonomie et charge
 
 Tesla Model Y Standard Range propose quatre options de batterie avec des spécifications différentes. Vous voyez ci-dessous comment cela affecte l'autonomie et la charge.
+
 ### CATL LFP Europa/China market
 
 La batterie haute capacité a une capacité brute de 60 kWh et une capacité nette utilisable de 55 kWh, offrant une réserve de 5 kWh (8,3%) pour la protection de la batterie. Avec une tension nominale de 340 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
@@ -43,6 +43,7 @@ Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Ha
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 52 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 27 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 47 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 89kW. Chaque session de charge prendrait 17 minutes et 30 secondes.
 
 Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 19,5 kWh/100 km, le voyage prendrait environ 9 heures et 55 minutes. Ce trajet nécessiterait deux arrêts de recharge de 0% à 51%, avec un temps de recharge total de 95 minutes.
+
 ### BYD LFP Europa/China market
 
 La batterie haute capacité a une capacité brute de 60 kWh et une capacité nette utilisable de 55 kWh, offrant une réserve de 5 kWh (8,3%) pour la protection de la batterie. Avec une tension nominale de 340 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. La batterie Lithium-Ion utilise la [technologie LFP.](../../../../technology/battery/cellchemistry/#lithium-iron-phosphate-battery-lfp) Cela présente certains avantages et inconvénients par rapport aux batteries NCA/NCM typiques.
@@ -52,6 +53,7 @@ Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Ha
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 37 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 18 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 63 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 113kW. Chaque session de charge prendrait 18 minutes et 28 secondes.
 
 Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 19,5 kWh/100 km, le voyage prendrait environ 9 heures et 35 minutes. Ce trajet nécessiterait deux arrêts de recharge de 0% à 64%, avec un temps de recharge total de 75 minutes.
+
 ### NMC 4850 US Market
 
 La batterie haute capacité a une capacité brute de 70 kWh et une capacité nette utilisable de 68,5 kWh, offrant une réserve de 1,5 kWh (2,1%) pour la protection de la batterie. Avec une tension nominale de 340 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
@@ -61,6 +63,7 @@ Selon la norme [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Ha
 La vitesse de charge DC maximale est de 250kW. Une charge complète de 0 à 100 % prendrait 84 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 41 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 0 % et 36 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 82kW. Chaque session de charge prendrait 18 minutes et 60 secondes.
 
 Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 19,5 kWh/100 km, le voyage prendrait environ 9 heures et 52 minutes. Ce trajet nécessiterait deux arrêts de recharge de 0% à 37%, avec un temps de recharge total de 93 minutes.
+
 ### NMC 21700 US Market Software locked
 
 La batterie haute capacité a une capacité brute de 70 kWh et une capacité nette utilisable de 68,5 kWh, offrant une réserve de 1,5 kWh (2,1%) pour la protection de la batterie. Avec une tension nominale de 340 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie. Cette batterie au lithium-ion utilise la technologie [NMC (Nickel Manganèse Cobalt).](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxydes-nmc)
@@ -82,11 +85,9 @@ L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Tesla Model Y Standard Range dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -99,7 +100,6 @@ La direction dynamique est une fonctionnalité un standard sur le Tesla Model Y 
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 355 mm et les disques arrière mesurent 355 mm.
-
 
 ### Freinage régénératif
 
@@ -132,9 +132,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -159,7 +157,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/frontseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
-
 #### Siège de deuxième rangée
 
 
@@ -169,7 +166,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/secondrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
-
 
 #### Sièges de troisième rangée
 
@@ -206,7 +202,6 @@ L'Tesla Model Y Standard Range comprend plusieurs fonctionnalités pour amélior
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Tesla Model Y Standard Range a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement.
@@ -221,20 +216,26 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/screens_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="1800"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
 
 Un type de système audio est disponible pour le Tesla Model Y Standard Range. Avec le Tesla Premium Sound, vous obtenez 13 haut-parleurs avec une puissance système maximale de 560 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
 Le modèle dispose de 4 connexions USB-C en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Tesla Model Y Standard Range dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -282,12 +283,12 @@ Il utilise huit [cameras](../../../../technology/sensorsandcameras/cameras/) pou
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement dans le coffre est de 854 litres. Avec la banquette arrière rabattue, elle est de 2158 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 117 litres (4,1 CU FT). Le poids maximum de la voiture est de 2720 kg (5997 lbs), et avec le poids de base de 2135 kg (4707 lbs), vous pouvez charger au maximum 585 kg (1290 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Une barre d'attelage est un équipement standard sur ce modèle. Le poids total maximum sur une remorque freinée est de 1600, et sur une remorque non freinée, il est de 750 kg (3527/1653 lbs).
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 19.03.2019 et les livraisons ont commencé en March 2020.<div class="mt-3 mb-3">

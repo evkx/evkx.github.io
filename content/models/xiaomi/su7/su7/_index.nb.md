@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Xiaomi SU7 i seksjoner. Hvis du vil vente med å
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Xiaomi SU7 leverer solid ytelse med en maksimal effekt på 220 kW (299 hk) og et totalt dreiemoment på 400 Nm. Den kan akselerere fra 0 til 100 km/t på 5,28 sekunder og når en topphastighet på 210 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Xiaomi SU7 har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -69,7 +66,6 @@ Dynamisk styring er standard-funksjonen på Xiaomi SU7. Dynamisk styring variere
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsing
 
@@ -100,7 +96,6 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Du kan velge mellom flere interiørdesign.
@@ -129,7 +124,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/frontseats_1_st.jpg" title="Xiaomi SU7" width="1760" height="1000"  >}}
 
-
 #### Seter på andre rad
 
 
@@ -151,7 +145,6 @@ Det er ett tilgjengelig klimasystem.
 
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
-
 ## Komfortfunksjoner
 
 Xiaomi SU7 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
@@ -162,7 +155,6 @@ Xiaomi SU7 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brukergrensesnitt og kontroll
@@ -179,12 +171,14 @@ Et head-up display er standard-system som viser hastighet og annen viktig fører
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/screens_1_st.jpg" title="Xiaomi SU7" width="2560" height="1440"  >}}
 
-
 ## Infotainment
+
+### header.soundsystem
 
 Du kan velge mellom to lydsystemer på Xiaomi SU7. Med Xiaomi Soundsystem får du ti høyttalere med en maksimal systemeffekt på  watt. Med Xiaomi Soundsystem får du 25 høyttalere med en maksimal systemeffekt på  watt.
 
 Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
@@ -195,6 +189,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 ## Avanserte førerassistentsystemer
 
 Xiaomi SU7 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -236,12 +231,12 @@ Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), ått
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 517 liter. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 105 liter. Maksimumsvekten til bilen er 2430 kg, og med basisvekten på 1980 kg kan du maksimalt laste 450 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 28.12.2023, og leveringene startet i March 2024. Denne modellen er kun tilgjengelig i Kina.<div class="mt-3 mb-3">

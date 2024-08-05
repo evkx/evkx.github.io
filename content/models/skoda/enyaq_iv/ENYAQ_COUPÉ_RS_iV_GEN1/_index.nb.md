@@ -32,7 +32,6 @@ Denne modellen er erstattet av [SKODA ENYAQ COUPÉ RS iV](/models/skoda/enyaq_iv
 
 </div>
 
-
 ## Ytelse
 
 Med overboost når SKODA ENYAQ COUPÉ RS iV (GEN1) en maksimal effekt på 220 kW (299 hk). Uten overboost leverer den 195 kW (265 hk). Maksimalt dreiemoment er 460 Nm. Den kan akselerere fra 0 til 100 km/t på 6,5 sekunder og når en topphastighet på 180 km/t, noe som viser dens solide ytelse.
@@ -54,7 +53,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/charging_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV (GEN1)" width="3000" height="2001"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
@@ -62,11 +60,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 SKODA ENYAQ COUPÉ RS iV (GEN1) har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
-
 
 ### Hjuloppheng
 
@@ -79,7 +75,6 @@ Dynamisk styring er standard-funksjonen på SKODA ENYAQ COUPÉ RS iV (GEN1). Dyn
 ### Bremser
 
 SKODA ENYAQ COUPÉ RS iV (GEN1) bruker [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremsekraft og varmespredning, mens [trommelbremser](../../../../technology/brakes/#trommelbremser) brukes bak for kostnadseffektivitet og holdbarhet. Trommelbremser gir tilstrekkelig ytelse for bakhjulene, krever mindre vedlikehold og integreres sømløst med kjøretøyets regenererende bremsesystem. Denne kombinasjonen sikrer optimal bremseytelse og kostnadseffektivitet, i tråd med EV-ens overordnede effektivitetsmål. De fremre skivene er 358mm.
-
 
 ### Regenerativ bremsing
 
@@ -109,9 +104,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -137,7 +130,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/frontseats_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV (GEN1)" width="3000" height="2001"  >}}
-
 
 #### Seter på andre rad
 
@@ -173,7 +165,6 @@ SKODA ENYAQ COUPÉ RS iV (GEN1) inkluderer flere funksjoner for å forbedre komf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 SKODA ENYAQ COUPÉ RS iV (GEN1) har to skjermer med informasjon for sjåføren og passasjerene. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments) montert på rattstammen , og på toppen av dashbordet er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
@@ -189,22 +180,32 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv_gen1/screens_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV (GEN1)" width="3000" height="1999"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter SKODA ENYAQ COUPÉ RS iV (GEN1) Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Én type lydsystem er tilgjengelig for SKODA ENYAQ COUPÉ RS iV (GEN1). Med Canton Soundsystem får du ti høyttalere med en maksimal systemeffekt på 550 watt.
 
-I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter SKODA ENYAQ COUPÉ RS iV (GEN1) Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 4 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
+
 ## Avanserte førerassistentsystemer
 
 SKODA ENYAQ COUPÉ RS iV (GEN1) har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -236,7 +237,6 @@ Med MAX  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

@@ -26,7 +26,6 @@ Nous avons séparé notre article Tesla Model 3 en sections. Si vous souhaitez a
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 L'Tesla Model 3 offre des performances modestes avec une puissance maximale de 208 kW (283 ch) et un couple total de 420 Nm. Il accélère de 0 à 100 km/h en 6,1 secondes et atteint une vitesse maximale de 225 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -52,11 +51,9 @@ L'emplacement du port de charge se trouve dans le [coin arrière gauche](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Tesla Model 3 dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ La direction dynamique est une fonctionnalité un standard sur le Tesla Model 3.
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 355 mm et les disques arrière mesurent 355 mm.
-
 
 ### Freinage régénératif
 
@@ -101,7 +97,6 @@ Les vitres du montant B et de l'arrière sont teintées.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 L'intérieur du Tesla Model 3 est minimaliste, avec des matériaux de haute qualité dans plusieurs zones au lieu de plastique dur. De plus, il comprend une console centrale traditionnelle qui sépare le conducteur et le passager, offrant un rangement et une fonctionnalité pratiques. Vous pouvez choisir entre plusieurs aménagements intérieurs.
@@ -131,7 +126,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/frontseats_1_st.jpeg" title="Tesla Model 3" width="1920" height="1080"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -165,7 +159,6 @@ L'Tesla Model 3 comprend plusieurs fonctionnalités pour améliorer le confort e
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Tesla Model 3 a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement.
@@ -180,14 +173,18 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/screens_1_st.jpeg" title="Tesla Model 3" width="1920" height="1080"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
 
 Un type de système audio est disponible pour le Tesla Model 3. Avec le Tesla Imersive Sound, vous obtenez neuf haut-parleurs avec une puissance système maximale de 560 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
 Le modèle dispose de 3 connexions USB-C en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED.
@@ -198,6 +195,7 @@ Les phares standards utilisent la technologie LED.
 ## Systèmes avancés d'aide à la conduite
 
 Le Tesla Model 3 dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -245,12 +243,12 @@ Il utilise sept [cameras](../../../../technology/sensorsandcameras/cameras/) pou
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement dans le coffre est de 593 litres. Avec la banquette arrière rabattue, elle est de 1234 litres. Sur le toit, vous pouvez charger jusqu'à 70 kg (154,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 88 litres (3,1 CU FT). Le poids maximum de la voiture est de 2149 kg (4738 lbs), et avec le poids de base de 1760 kg (3880 lbs), vous pouvez charger au maximum 389 kg (858 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Une barre d'attelage est un équipement standard sur ce modèle. Le poids total maximum sur une remorque freinée est de 1000, et sur une remorque non freinée, il est de 750 kg (2205/1653 lbs).
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 01.10.2023 et les livraisons ont commencé en December 2023.<div class="mt-3 mb-3">

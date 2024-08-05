@@ -26,7 +26,6 @@ Vi har opdelt vores Volkswagen ID.3 Pro artikel i sektioner. Hvis du vil vente m
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Volkswagen ID.3 Pro tilbyder beskedne præstationer med en maksimal effekt på 150 kW (204 hk) og et samlet drejningsmoment på 310 Nm. Den accelererer fra 0 til 100 km/t på 7,3 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Volkswagen ID.3 Pro har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [induktionsmotorer](../../../../technology/motors/asm/).
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en valgfri-funktion på Volkswagen ID.3 Pro. Dynamisk styrin
 ### Bremser
 
 Volkswagen ID.3 Pro bruger [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremseevne og varmeafledning, mens [tromlebremser](../../../../technology/brakes/#tromle-brakes) anvendes bagtil for omkostningseffektivitet og holdbarhed. Tromlebremser yder tilstrækkelig ydeevne for baghjulene, kræver mindre vedligeholdelse og integreres problemfrit med køretøjets regenererende bremsesystem. Denne kombination sikrer optimal bremseydelse og omkostningseffektivitet, i tråd med EV'ens overordnede effektivitetsmål. De forreste skiver er 358mm.
-
 
 ### Regenerativ bremsning
 
@@ -100,9 +96,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -125,7 +119,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/frontseats_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
-
 
 #### Sæde på anden række
 
@@ -162,7 +155,6 @@ Volkswagen ID.3 Pro inkluderer flere funktioner, der forbedrer komfort og bekvem
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 To forskellige skærmopsætninger er tilgængelige på Volkswagen ID.3 Pro.
@@ -189,14 +181,22 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/screens_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en valgfri navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Volkswagen ID.3 Pro Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Volkswagen ID.3 Pro. Med Sound system får du fem højttalere med en maksimal systemeffekt på 140 watt. Med Volkswagen Soundsystem får du syv højttalere med en maksimal systemeffekt på 450 watt.
 
-Derudover får du med valgfrit navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Volkswagen ID.3 Pro Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 4 USB-C-forbindelser som standard.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Volkswagen ID.3 Pro. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
@@ -209,6 +209,7 @@ Du kan vælge mellem to typer forlygter til Volkswagen ID.3 Pro. Standardlygtern
 Volkswagen ID.3 Pro har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -247,7 +248,6 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

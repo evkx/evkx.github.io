@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Genesis Electrified GV70 delivers a solid performance with a maximum power of 320 kW (435 hp / 429 bhp) and a total torque of 700 Nm (517 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.8 seconds and reaches a top speed of 235 km/h (146 mph), making it competitive within its class.
@@ -52,18 +51,15 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Genesis Electrified GV70 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
 The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers.
 
 ### Brakes
-
 
 
 
@@ -99,13 +95,11 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
 
 ### Seats
-
 
 
 #### First row seats
@@ -130,7 +124,6 @@ You can choose from 6 different materials/colors for this seat type.
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Green [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Black/White [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
-
 
 
 #### Second-row seat
@@ -162,7 +155,6 @@ The Genesis Electrified GV70 includes several features to enhance comfort and co
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 
@@ -178,9 +170,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/genesis/gv70/electrified_gv70/screens_1_st.jpg" title="Genesis Electrified GV70" width="3000" height="1535"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -195,12 +185,15 @@ Furthermore, the Genesis Electrified GV70 supports Android Auto and Apple CarPla
 One type of sound system is available for the Genesis Electrified GV70. With the Bose Premium Sound System, you get eight speakers with a max system output of  watts.
 
 The model has 4 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Genesis Electrified GV70 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -232,7 +225,6 @@ With the   level 2 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

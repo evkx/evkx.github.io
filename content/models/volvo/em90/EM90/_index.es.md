@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Volvo EM90 en secciones. Si desea esperar para 
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Volvo EM90 ofrece un rendimiento modesto con una potencia máxima de 200 kW (272 hp) y un par total de 686 Nm. Acelera de 0 a 100 km/h en 8,3 segundos y tiene una velocidad máxima 190 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Volvo EM90 tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -65,7 +62,6 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 533 mm y los discos traseros de 457 mm.
-
 
 ### Frenado regenerativo
 
@@ -93,7 +89,6 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -128,7 +123,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/frontseats_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
-
 #### Asiento de segunda fila
 
 
@@ -142,7 +136,6 @@ Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las s
 
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/secondrowseats_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
-
 
 #### Asientos de tercera fila
 
@@ -174,7 +167,6 @@ El Volvo EM90 incluye varias características para mejorar la comodidad y conven
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Volvo EM90 tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
@@ -195,11 +187,20 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Volvo EM90 es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el Volvo EM90. Con el Bowers & Wilkins Sound System, obtienes 21 parlantes con una salida máxima del sistema de 500 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Volvo EM90 es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
@@ -212,6 +213,7 @@ Los faros estándar utilizan tecnología LED. Además, las luces traseras están
 El Volvo EM90 tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -238,12 +240,12 @@ Con el sistema Pilot Assist  nivel 2, obtienes las siguientes funciones de autom
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 376 litros. Con el asiento de la tercera fila abatido, es de 2979 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 32 litros (1,1 CU FT). El peso máximo del automóvil es 3400 kg (7496 lbs), y con el peso base de 2763 kg (6091 lbs), puedes cargar como máximo 637 kg (1404 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 12.11.2023 y se espera que las entregas comiencen en March 2025. Este modelo sólo está disponible en China.<div class="mt-3 mb-3">

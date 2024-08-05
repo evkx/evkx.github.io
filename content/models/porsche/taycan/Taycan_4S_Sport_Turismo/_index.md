@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 With overboost, the Porsche Taycan 4S Sport Turismo reaches a maximum power of 400 kW (544 hp / 536 bhp). Without overboost, it provides a strong 340 kW (462 hp / 456 bhp). The maxium torque is at 695 Nm (513 lb-ft). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.7 seconds and reaches a top speed of 250 km/h (155 mph), showcasing its impressive performance.
@@ -36,6 +35,7 @@ With the optional Performance Battery Plus battery, you get other performance nu
 ## Battery, range, and charging
 
 Porsche Taycan 4S Sport Turismo has two battery options with different specifications. Below you see how this affects range and charging.
+
 ### Performance Battery
 
 The high-capacity battery has a gross capacity of 89 kWh and a net usable capacity of 83,6 kWh, providing an 5,4 kWh buffer (6.1%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
@@ -45,6 +45,7 @@ Under the [WLTP](../../../../guides/understandingrange/wltp/) (Worldwide Harmoni
 The vehicle supports fast DC charging with a maximum power of 270 kW. Charging from 0% to 100% takes approximately 50 minutes, while a more typical charging scenario from 10% to 80% takes 18 minutes with an average charging speed at 196 kW. Considering an additional 5 minutes for each charging stop due to driving interruptions, the optimal charging range is from 3% to 65%. This results in an effective charging speed, including time lost, of 165 kW, with each charging session taking about 19 minutes and 52 seconds.. This efficient charging capability makes the Porsche Taycan 4S Sport Turismo a convenient option for long-distance travel.
 
 In a theoretical 1000 km challenge, starting with a full battery and maintaining a constant speed of 120 km/h (75 mph) under ideal conditions with an assumed consumption rate of 21 kWh/100 km, the trip would take approximately 9 hours and 7 minutes. This journey would require three charging stops from 4% to 55%, with a total charging time of 47 minutes.
+
 ### Performance Battery Plus
 
 The high-capacity battery has a gross capacity of 105 kWh and a net usable capacity of 97 kWh, providing an 8 kWh buffer (7.6%) for battery protection. Operating at a nominal voltage of 725 volts, it qualifies as an 800-volt battery system. This high voltage is pivotal in enabling the system's charging capabilities. This Lithium-Ion battery utilizes [NMC (Nickel Manganese Cobalt) technology.](../../../../technology/battery/cellchemistry/#lithium-nickel-manganese-cobalt-oxides-nmc)
@@ -66,11 +67,9 @@ The charge port is conveniently located on the [right front side](../../../../te
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Porsche Taycan 4S Sport Turismo features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -85,7 +84,6 @@ Dynamic steering is a standard feature on the Porsche Taycan 4S Sport Turismo. D
 ### Brakes
 
 You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm.
-
 
 ### Regenerative braking
 
@@ -127,9 +125,7 @@ There are three different roof options to select from. The standard is just a re
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -179,7 +175,6 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 You can choose from 4 different materials/colors for this seat type.
 
 
-
 #### Second-row seats
 
 You can choose two seat types for the second row in the Porsche Taycan 4S Sport Turismo.
@@ -214,7 +209,6 @@ The Porsche Taycan 4S Sport Turismo includes several features to enhance comfort
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Porsche Taycan 4S Sport Turismo has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console and one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the bottom of center console. For the passenger, there is an optional [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen).
@@ -232,9 +226,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo/screens_1_st.jpg" title="Porsche Taycan 4S Sport Turismo" width="3000" height="1688"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -248,7 +240,6 @@ Furthermore, the Porsche Taycan 4S Sport Turismo supports Android Auto and Apple
 
 You can choose between three sound systems on the Porsche Taycan 4S Sport Turismo. With the Porsche Sound system, you get ten speakers with a max system output of 150 watts. With the  BOSE® Surround Sound System, you get 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 speakers with a max system output of 1455 watts.
 
-
 ## Lights
 
 You can choose between two types of headlights for the Porsche Taycan 4S Sport Turismo. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -261,6 +252,7 @@ You can choose between two types of headlights for the Porsche Taycan 4S Sport T
 The Porsche Taycan 4S Sport Turismo has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -299,12 +291,12 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 446 liters. With the rear seat down, it is 1212 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 84 liters (3.0 CU FT). The maxium weight of the car is 2875 kg (6338 lbs), and with the base weight of 2170 kg (4784 lbs), you can max load 705 kg (1554 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
 ### Availability & Pricing
 
 This model had a world premiere on 07.02.2024, and deliveries started in June 2024.<div class="mt-3 mb-3">

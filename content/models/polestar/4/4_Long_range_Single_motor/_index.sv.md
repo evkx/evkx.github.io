@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Polestar 4 Long range Single motor i avsnitt
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Polestar 4 Long range Single motor erbjuder blygsamma prestanda med en maximal effekt på 200 kW (272 hk) och ett totalt vridmoment på 343 Nm. Den accelererar från 0 till 100 km/h på 7,4 sekunder och har en topphastighet på 180 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Polestar 4 Long range Single motor har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
-
 
 ### Hjulupphängning
 
@@ -65,7 +62,6 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 400mm och de bakre skivorna är 390mm.
-
 
 ### Regenerativ bromsning
 
@@ -90,7 +86,6 @@ Det finns två olika takalternativ att välja mellan. Som ekstrautstyr kan du be
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiör
@@ -120,7 +115,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Gray [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Gray [läderklädsel](../../../../technology/seats/materials/#leather)
-
 
 
 #### Säten på andra raden
@@ -155,7 +149,6 @@ Polestar 4 Long range Single motor inkluderar flera funktioner för att förbät
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Polestar 4 Long range Single motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
@@ -170,9 +163,12 @@ En head-up display är ett standard-system som visar hastighet och annan viktig 
 
 ## Infotainment
 
+### header.soundsystem
+
 Du kan välja mellan två ljudsystem på Polestar 4 Long range Single motor. Med High Performance får du åtta högtalare med en maximal systemeffekt på 200 watt. Med Bowers & Wilkins får du 25 högtalare med en maximal systemeffekt på 1610 watt.
 
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Polestar 4 Long range Single motor. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
@@ -185,6 +181,7 @@ Du kan välja mellan två typer av strålkastare för Polestar 4 Long range Sing
 Polestar 4 Long range Single motor har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -209,7 +206,6 @@ Med Pilot Assist  nivå 2-systemet får du följande körautomatiseringsfunktion
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

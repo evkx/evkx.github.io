@@ -26,7 +26,6 @@ Hemos separado nuestro artículo XPENG G3i en secciones. Si desea esperar para l
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El XPENG G3i ofrece un rendimiento modesto con una potencia máxima de 145 kW (197 hp) y un par total de 300 Nm. Acelera de 0 a 100 km/h en 8,6 segundos y tiene una velocidad máxima 170 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -52,11 +51,9 @@ Los tipos de conectores varían entre los diferentes mercados. Este modelo utili
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 XPENG G3i tiene un sistema de tracción delantera sostenido por un motor en el eje delantero.
-
 
 ### Suspensión
 
@@ -66,9 +63,7 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 
 
 
-
 ### Frenado regenerativo
-
 
 
 ## Exterior
@@ -93,9 +88,7 @@ Sólo hay un techo para este modelo.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -114,7 +107,6 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-
 
 
 #### Asiento de segunda fila
@@ -145,7 +137,6 @@ El XPENG G3i incluye varias características para mejorar la comodidad y conveni
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El XPENG G3i tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
@@ -162,15 +153,20 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el XPENG G3i. Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
 
 El modelo tiene 4 conexiones USB-A de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El XPENG G3i tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -190,7 +186,6 @@ Con el sistema estándar, el modelo no ofrece automatización de conducción.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

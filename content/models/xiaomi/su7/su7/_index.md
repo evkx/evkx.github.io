@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Xiaomi SU7 delivers a solid performance with a maximum power of 220 kW (299 hp / 295 bhp) and a total torque of 400 Nm (295 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.28 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Xiaomi SU7 has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is a standard feature on the Xiaomi SU7. Dynamic steering varie
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -100,7 +96,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 You can choose between several interior designs.
@@ -129,7 +124,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/frontseats_1_st.jpg" title="Xiaomi SU7" width="1760" height="1000"  >}}
 
-
 #### Second-row seat
 
 
@@ -151,7 +145,6 @@ There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-
 ## Comfort features
 
 The Xiaomi SU7 includes several features to enhance comfort and convenience:
@@ -162,7 +155,6 @@ The Xiaomi SU7 includes several features to enhance comfort and convenience:
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -179,15 +171,14 @@ A head-up display is a standard system that projects speed and other important d
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/screens_1_st.jpg" title="Xiaomi SU7" width="2560" height="1440"  >}}
 
-
 ## Infotainment
-
 
 ### Sound system
 
 You can choose between two sound systems on the Xiaomi SU7. With the Xiaomi Soundsystem, you get ten speakers with a max system output of  watts. With the Xiaomi Soundsystem, you get 25 speakers with a max system output of  watts.
 
 The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -198,6 +189,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Advanced driver assistance systems
 
 The Xiaomi SU7 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -239,12 +231,12 @@ Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), eigh
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 517 liters. Under the hood, there is frunk with more storage room. This frunk is 105 liters (3.7 CU FT). The maxium weight of the car is 2430 kg (5357 lbs), and with the base weight of 1980 kg (4365 lbs), you can max load 450 kg (992 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
 ### Availability & Pricing
 
 This model had a world premiere on 28.12.2023, and deliveries started in March 2024. This model is only available in China.<div class="mt-3 mb-3">

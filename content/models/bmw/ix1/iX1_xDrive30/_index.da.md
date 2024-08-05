@@ -26,7 +26,6 @@ Vi har opdelt vores BMW iX1 xDrive30 artikel i sektioner. Hvis du vil vente med 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 BMW iX1 xDrive30 leverer en solid præstation med en maksimal effekt på 230 kW (313 hk) og et totalt drejningsmoment på 494 Nm. Den kan accelerere fra 0 til 100 km/t på 5,6 sekunder og når en topfart på 180 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 BMW iX1 xDrive30 har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Den anvendte motor er [induktionsmotorer](../../../../technology/motors/asm/).
-
 
 ### Hjulophæng
 
@@ -67,7 +64,6 @@ Adaptive M Suspension affjedringen har stålfjedre med en fast højde, men du ka
 Dynamisk styring er en standard-funktion på BMW iX1 xDrive30. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden.
 
 ### Bremser
-
 
 
 
@@ -102,9 +98,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -148,7 +142,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/frontseats_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -184,7 +177,6 @@ BMW iX1 xDrive30 inkluderer flere funktioner, der forbedrer komfort og bekvemmel
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 BMW iX1 xDrive30 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
@@ -200,14 +192,22 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/screens_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter BMW iX1 xDrive30 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på BMW iX1 xDrive30. Med Harman Kardon Surround Sound system får du 16 højttalere med en maksimal systemeffekt på 464 watt. Med Harman Kardon Surround Sound system får du 16 højttalere med en maksimal systemeffekt på 464 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter BMW iX1 xDrive30 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til BMW iX1 xDrive30. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -218,6 +218,7 @@ Du kan vælge mellem to typer forlygter til BMW iX1 xDrive30. Standardlygterne b
 ## Avancerede førerassistentsystemer
 
 BMW iX1 xDrive30 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -247,7 +248,6 @@ Med Driving Assistant Professional  niveau 2-systemet får du følgende køreaut
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

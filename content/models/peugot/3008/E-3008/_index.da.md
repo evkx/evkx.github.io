@@ -26,7 +26,6 @@ Vi har opdelt vores Peugot E-3008 artikel i sektioner. Hvis du vil vente med at 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Peugot E-3008 tilbyder beskedne præstationer med en maksimal effekt på 157 kW (214 hk) og et samlet drejningsmoment på 345 Nm. Den accelererer fra 0 til 100 km/t på 8,8 sekunder og har en topfart på 170 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -52,18 +51,15 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Peugot E-3008 har et forhjulstræksystem understøttet af en motor på forakslen.
-
 
 ### Hjulophæng
 
 Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), og baghjulsophænget er [Torsion Beam](../../../../technology/suspension/#torsion-beam). Den bruger stålfjedre og hydrauliske dæmpere. -ophænget har en fast højde og dæmpning. Mindste frihøjde med denne affjedring er 198 mm.
 
 ### Bremser
-
 
 
 
@@ -95,7 +91,6 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiør
@@ -130,7 +125,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/frontseats_1_st.jpg" title="Peugot E-3008" width="3000" height="2250"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -163,7 +157,6 @@ Peugot E-3008 inkluderer flere funktioner, der forbedrer komfort og bekvemmeligh
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Peugot E-3008 har to skærme på en delt ramme monteret med beslag på instrumentbrættet. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på den højre del , der er en [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm).
@@ -179,14 +172,22 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/screens_1_st.jpg" title="Peugot E-3008" width="3000" height="2167"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Peugot E-3008 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Peugot E-3008. Med  får du seks højttalere med en maksimal systemeffekt på 100 watt. Med  får du ti højttalere med en maksimal systemeffekt på 690 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Peugot E-3008 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 4 USB-C-forbindelser som standard.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Peugot E-3008. Standardlygterne bruger LED-teknologi. Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -197,6 +198,7 @@ Du kan vælge mellem to typer forlygter til Peugot E-3008. Standardlygterne brug
 ## Avancerede førerassistentsystemer
 
 Peugot E-3008 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -230,12 +232,12 @@ Op til tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 520 liter. Med bagsædet nede er det 1480 liter. På taget kan du laste op til 80 kg (176,4 lbs). Bilens maksimale vægt er 2640 kg (5820 lbs), og med basisvægten på 2008 kg (4427 lbs), kan du maksimalt laste 632 kg (1393 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1250, og på ubremset er den 750 kg (2756/1653 lbs).
+
 ### Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 12.09.2023, og leveringerne startede i February 2024.<div class="mt-3 mb-3">

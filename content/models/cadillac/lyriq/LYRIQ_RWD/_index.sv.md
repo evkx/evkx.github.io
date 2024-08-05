@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Cadillac LYRIQ RWD i avsnitt. Om du vill vä
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Cadillac LYRIQ RWD levererar en solid prestanda med en maximal effekt på 255 kW (347 hk) och ett totalt vridmoment på 450 Nm. Den kan accelerera från 0 till 100 km/h på 5,7 sekunder och når en topphastighet på 190 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Cadillac LYRIQ RWD har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -65,7 +62,6 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 321mm och de bakre skivorna är 345mm.
-
 
 ### Regenerativ bromsning
 
@@ -91,9 +87,7 @@ Det finns två olika takalternativ att välja mellan. Standardtaket har ett stor
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -121,7 +115,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/frontseats_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2700"  >}}
-
 
 #### Säten på andra raden
 
@@ -157,7 +150,6 @@ Cadillac LYRIQ RWD inkluderar flera funktioner för att förbättra komfort och 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Cadillac LYRIQ RWD har en enda skärm. Dashboardcentret har en enda [infotainment-skärm](../../../../technology/userinterface/screens/#infotainment-screen) för bilinformation och infotainment.
@@ -177,11 +169,20 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Cadillac LYRIQ RWD Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 En typ av ljudsystem är tillgänglig för Cadillac LYRIQ RWD. Med Lyric sound system får du sju högtalare med en maximal systemeffekt på  watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Cadillac LYRIQ RWD Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 5 USB-C-anslutningar som standard.
+
 ## Ljus
 
 
@@ -192,6 +193,7 @@ Modellen har 5 USB-C-anslutningar som standard.
 ## Avancerade förarassistanssystem
 
 Cadillac LYRIQ RWD har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -216,7 +218,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

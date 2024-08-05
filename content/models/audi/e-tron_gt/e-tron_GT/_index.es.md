@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Audi e-tron GT en secciones. Si desea esperar p
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 Con overboost, el Audi e-tron GT alcanza una potencia máxima de 390 kW (530 hp). Sin overboost, entrega 350 kW (476 hp). El par máximo es de 640 Nm. Puede acelerar de 0 a 100 km/h en 4,1 segundos y alcanza una velocidad máxima de 245 km/h, demostrando su sólido rendimiento.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado frontal derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Audi e-tron GT tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -71,7 +68,6 @@ La dirección dinámica es una característica un estándar en el Audi e-tron GT
 ### Frenos
 
 Puedes elegir entre diferentes sistemas de frenos. Los frenos de opción standard utilizan [discos de hierro fundido] normales (../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 360 mm y los discos traseros de 358 mm. Los frenos de opción second utilizan un [disco de hierro fundido recubierto con carburo de tungsteno](../../../../technology/brakes/#carbid -frenos). No se oxida y apenas produce polvo de freno. Los discos delanteros son de 410 mm y los discos traseros de 365 mm. Los frenos de opción third utilizan [discos cerámicos](../../../../technology/brakes/#ceramic-brakes). Los discos delanteros son de 420 mm y los discos traseros de 410 mm.
-
 
 ### Frenado regenerativo
 
@@ -108,9 +104,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -189,7 +183,6 @@ El Audi e-tron GT incluye varias características para mejorar la comodidad y co
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Audi e-tron GT tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
@@ -205,13 +198,19 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/screens_1_st.jpg" title="Audi e-tron GT" width="3000" height="2002"  >}}
 
-
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Audi e-tron GT es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre dos sistemas de sonido en el Audi e-tron GT. Con el Audi Sound system, obtienes diez parlantes con una salida máxima del sistema de 180 vatios. Con el Bang & Olufsen Sound System, obtienes 16 parlantes con una salida máxima del sistema de 700 vatios.
-
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Audi e-tron GT es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 
 ## Luces
 
@@ -225,6 +224,7 @@ Puedes elegir entre tres tipos de faros para el Audi e-tron GT. Los faros están
 El Audi e-tron GT tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -261,7 +261,6 @@ Con el sistema Assistantpackage Tour  nivel 2, obtienes funciones de automatizac
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

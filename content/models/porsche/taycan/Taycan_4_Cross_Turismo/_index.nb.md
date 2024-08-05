@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Porsche Taycan 4 Cross Turismo i seksjoner. Hvis
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Med overboost når Porsche Taycan 4 Cross Turismo en maksimal effekt på 350 kW (476 hk). Uten overboost leverer den 280 kW (381 hk). Maksimalt dreiemoment er 500 Nm. Den kan akselerere fra 0 til 100 km/t på 5,1 sekunder og når en topphastighet på 220 km/t, noe som viser dens solide ytelse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Porsche Taycan 4 Cross Turismo har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -73,7 +70,6 @@ Dynamisk styring er standard-funksjonen på Porsche Taycan 4 Cross Turismo. Dyna
 ### Bremser
 
 Du kan velge mellom forskjellige bremsesystemer. Opsjonsbremsene standard bruker vanlige [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 360mm, og de bakre skivene er 358mm. Opsjonsbremsene second bruker en [støpejernskive belagt med wolframkarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og produserer nesten ikke bremsestøv. De fremre skivene er 410mm, og de bakre skivene er 365mm.
-
 
 ### Regenerativ bremsing
 
@@ -106,9 +102,7 @@ Det er tre forskjellige takalternativer å velge mellom. Standarden er bare et v
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -162,7 +156,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4_cross_turismo/frontseats_1_st.jpg" title="Porsche Taycan 4 Cross Turismo" width="3000" height="1687"  >}}
 
-
 #### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Porsche Taycan 4 Cross Turismo.
@@ -201,7 +194,6 @@ Porsche Taycan 4 Cross Turismo inkluderer flere funksjoner for å forbedre komfo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Porsche Taycan 4 Cross Turismo har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , er det én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen og én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) nederst på midtkonsollen. For passasjeren er det en valgfri [infotainment-skjerm](../../../../technology/userinterface/screens/#front-passasjer-screen).
@@ -219,13 +211,19 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4_cross_turismo/screens_1_st.jpg" title="Porsche Taycan 4 Cross Turismo" width="3000" height="1854"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Porsche Taycan 4 Cross Turismo Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan velge mellom tre lydsystemer på Porsche Taycan 4 Cross Turismo. Med Porsche Sound system får du ti høyttalere med en maksimal systemeffekt på 150 watt. Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1455 watt.
-
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Porsche Taycan 4 Cross Turismo Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 
 ## Lys
 
@@ -239,6 +237,7 @@ Du kan velge mellom to typer frontlykter for Porsche Taycan 4 Cross Turismo. Sta
 Porsche Taycan 4 Cross Turismo har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -275,7 +274,6 @@ Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

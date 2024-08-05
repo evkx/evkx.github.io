@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 With overboost, the Fisker Ocean Ultra reaches a maximum power of 400 kW (544 hp / 536 bhp). Without overboost, it provides a strong 344 kW (468 hp / 461 bhp). The maxium torque is at 737 Nm (544 lb-ft). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 4.2 seconds and reaches a top speed of 205 km/h (127 mph), showcasing its impressive performance.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Fisker Ocean Ultra features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -93,7 +89,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -124,7 +119,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/frontseats_2_st.jpg" title="Fisker Ocean Ultra" width="3000" height="1687"  >}}
-
 
 #### Second-row seat
 
@@ -157,7 +151,6 @@ The Fisker Ocean Ultra includes several features to enhance comfort and convenie
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Fisker Ocean Ultra has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -173,9 +166,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/screens_1_st.jpg" title="Fisker Ocean Ultra" width="1920" height="1080"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -186,14 +177,17 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Fisker Ocean Ultra. With the Fisker Hypersound 3D, you get 16 speakers with a max system output of 500 watts.
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Fisker Ocean Ultra has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -224,7 +218,6 @@ With the Fisker Intelligent Pilot  level 2 system, you get the following driving
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

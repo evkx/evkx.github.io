@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Lucid Air Sapphire en secciones. Si desea esper
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Lucid Air Sapphire entrega una impresionante potencia máxima de 920 kW (1251 hp) y un enorme torque de 1390 Nm. Este monstruo puede acelerar de 0 a 100 km/h en solo 1,95 segundos, demostrando su asombrosa aceleración. Además, alcanza una velocidad máxima de 330 km/h, lo que lo convierte en una verdadera maravilla de la ingeniería y el rendimiento.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Lucid Air Sapphire tiene un sistema de tracción total sostenido por tres motores. Uno en el eje delantero y dos en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -69,7 +66,6 @@ La dirección dinámica es una característica un estándar en el Lucid Air Sapp
 ### Frenos
 
 Los frenos traseros y delanteros son [discos cerámicos](../../../../technology/brakes/#ceramic-brakes). Los discos delanteros son de 420 mm y los discos traseros de 390 mm.
-
 
 ### Frenado regenerativo
 
@@ -94,9 +90,7 @@ Sólo hay un techo para este modelo. El estándar es simplemente un techo normal
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -125,7 +119,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/frontseats_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2001"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -163,7 +156,6 @@ El Lucid Air Sapphire incluye varias características para mejorar la comodidad 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 En la parte superior del tablero hay un marco compartido con tres pantallas, y en la consola central, hay una cuarta [pantalla de infoentretenimiento](../../../../technology /userinterface/screens/#infotainment-screen).
@@ -181,14 +173,18 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/screens_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2000"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.soundsystem
 
 Un tipo de sistema de sonido está disponible para el Lucid Air Sapphire. Con el Surreal Sound Pro, obtienes 21 parlantes con una salida máxima del sistema de 800 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
-
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED.
@@ -199,6 +195,7 @@ Los faros estándar utilizan tecnología LED.
 ## Sistemas avanzados de asistencia al conductor
 
 El Lucid Air Sapphire tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -225,7 +222,6 @@ Con el sistema ADAS  nivel 2, obtienes las siguientes funciones de automatizaci�
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

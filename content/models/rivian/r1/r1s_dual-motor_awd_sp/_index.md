@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Rivian R1S Dual-Motor AWD SP delivers a solid performance with a maximum power of 398 kW (541 hp / 534 bhp) and a total torque of 827 Nm (610 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and reaches a top speed of 201 km/h (125 mph), making it competitive within its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left front corner](../../../../techno
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Rivian R1S Dual-Motor AWD SP features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 343mm, and the rear discs are 328mm.
-
 
 ### Regenerative braking
 
@@ -93,9 +89,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -124,7 +118,6 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/frontseats_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
-
 
 #### Second-row seat
 
@@ -165,7 +158,6 @@ The Rivian R1S Dual-Motor AWD SP includes several features to enhance comfort an
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Rivian R1S Dual-Motor AWD SP has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -186,7 +178,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -196,6 +187,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Rivian R1S Dual-Motor AWD SP. With the Rivian Elevation audio system, you get 22 speakers with a max system output of 1100 watts.
 
 The model has 6 USB-C connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology.
@@ -206,6 +198,7 @@ The standard headlights use LED technology.
 ## Advanced driver assistance systems
 
 The Rivian R1S Dual-Motor AWD SP has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -234,7 +227,6 @@ With the Driver+  level 2 system, you get the following driving automation featu
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Hongqi E-HS9 Exclusive en secciones. Si desea e
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Hongqi E-HS9 Exclusive impresiona con una potencia máxima de 405 kW (551 hp) y un impresionante par total de 670 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,9 segundos y alcanza una velocidad máxima de 200 km/h, destacándose en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Hongqi E-HS9 Exclusive tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -69,7 +66,6 @@ La dirección dinámica es una característica un estándar en el Hongqi E-HS9 E
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
-
 
 ### Frenado regenerativo
 
@@ -97,9 +93,7 @@ Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -122,7 +116,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
-
 
 
 #### Asiento de segunda fila
@@ -149,7 +142,6 @@ Hay un sistema climático disponible.
 
 - **Sistema de climatización de 6 zonas:** Soporta diferentes temperaturas en seis zonas: la del conductor, la del pasajero y dos zonas, tanto en la 2. como en la 3. fila.
 
-
 ## Características de confort
 
 El Hongqi E-HS9 Exclusive incluye varias características para mejorar la comodidad y conveniencia:
@@ -161,7 +153,6 @@ El Hongqi E-HS9 Exclusive incluye varias características para mejorar la comodi
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interfaz de usuario y control
@@ -186,11 +177,16 @@ Este modelo tiene un sistema de control de voz opcional. El control de voz te pe
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el Hongqi E-HS9 Exclusive. Con el Hongqi sound system, obtienes 12 parlantes con una salida máxima del sistema de  vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
-
 El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 3 conexiones USB-A de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
@@ -201,6 +197,7 @@ Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema ad
 ## Sistemas avanzados de asistencia al conductor
 
 El Hongqi E-HS9 Exclusive tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -234,7 +231,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

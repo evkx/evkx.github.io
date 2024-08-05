@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The BMW i7 eDrive50 delivers a solid performance with a maximum power of 335 kW (456 hp / 449 bhp) and a total torque of 650 Nm (480 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.5 seconds and reaches a top speed of 205 km/h (127 mph), making it competitive within its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 BMW i7 eDrive50 has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
-
 
 ### Suspension
 
@@ -67,7 +64,6 @@ The suspension is fully adaptive on the front and rear axle, so height and dampi
 Dynamic steering is a standard feature on the BMW i7 eDrive50. Dynamic steering varies the steering ratio as a function of driving speed. In addition,  rear-wheel steering is available as a standard feature. Rear wheel steering reduces the turning circle when going slow.
 
 ### Brakes
-
 
 
 
@@ -98,7 +94,6 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -141,7 +136,6 @@ You can choose from 15 different materials/colors for this seat type.
 - Smoke [leather upholstering](../../../../technology/seats/materials/#leather)
 
 
-
 #### Second-row seats
 
 You can choose two seat types for the second row in the BMW i7 eDrive50.
@@ -172,7 +166,6 @@ Two climate system options are available:
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
-
 ## Comfort features
 
 The BMW i7 eDrive50 includes several features to enhance comfort and convenience:
@@ -184,7 +177,6 @@ The BMW i7 eDrive50 includes several features to enhance comfort and convenience
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -202,9 +194,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/screens_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -219,6 +209,7 @@ Furthermore, the BMW i7 eDrive50 supports Android Auto and Apple CarPlay. This f
 You can choose between two sound systems on the BMW i7 eDrive50. With the Harman Kardon Surround Sound system, you get 18 speakers with a max system output of 655 watts. With the Bowers & Wilkins Diamond surround sound system, you get 30 speakers with a max system output of 1615 watts.
 
 The model has 6 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the BMW i7 eDrive50. The standard headlights use LED technology. Headlights based on LED Matrix with Laser technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -229,6 +220,7 @@ You can choose between two types of headlights for the BMW i7 eDrive50. The stan
 ## Advanced driver assistance systems
 
 The BMW i7 eDrive50 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -262,7 +254,6 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

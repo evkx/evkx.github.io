@@ -26,7 +26,6 @@ Nous avons séparé notre article MG Cyberster AWD Long Range en sections. Si vo
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La MG Cyberster AWD Long Range impressionne avec une puissance maximale de 400 kW (544 ch) et un couple total impressionnant de 725 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 3,2 secondes, et atteint une vitesse maximale de 200 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 MG Cyberster AWD Long Range dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
-
 
 ### Freinage régénératif
 
@@ -90,13 +86,11 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est une capote souple
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 Il existe un type de siège que vous pouvez sélectionner dans différents matériaux.
 
 ### Sièges
-
 
 
 #### Sièges de première rangée
@@ -139,7 +133,6 @@ L'MG Cyberster AWD Long Range comprend plusieurs fonctionnalités pour améliore
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Au-dessus du tableau de bord se trouve un cadre partagé avec trois écrans, et dans la console centrale, il y a un quatrième [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -162,11 +155,20 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le MG Cyberster AWD Long Range prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le MG Cyberster AWD Long Range. Avec le Bose Sound System, vous obtenez six haut-parleurs avec une puissance système maximale de 300 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le MG Cyberster AWD Long Range prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+
 ## Lumières
 
 
@@ -177,6 +179,7 @@ Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 1 co
 ## Systèmes avancés d'aide à la conduite
 
 Le MG Cyberster AWD Long Range dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -195,12 +198,12 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement du coffre est de 240 litres. Le poids maximum de la voiture est de 2250 kg (4960 lbs), et avec le poids de base de 1985 kg (4376 lbs), vous pouvez charger au maximum 265 kg (584 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 13.07.2023 et les livraisons ont commencé en December 2023.<div class="mt-3 mb-3">

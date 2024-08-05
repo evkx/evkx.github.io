@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The YangWang U9 delivers a jaw-dropping maximum power of 960 KW (1305 hp/1287 bhp) and a massive total torque of 1680 Nm (1240 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.36 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 309 km/h (192 mph), making it a true marvel of engineering and performance.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 YangWang U9 has an all-wheel drive system supported by four motors. One for each wheel. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -76,11 +73,9 @@ The YangWang U9 lets the user select different [drive modes](../../../../technol
 - Track: Dynamic steering, low suspension with dynamic throttle and suspension.
 - Drift: Dynamic steering, low suspension with dynamic throttle and suspension.
 
-
 ### Brakes
 
 The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 390mm, and the rear discs are 390mm.
-
 
 ### Regenerative braking
 
@@ -109,13 +104,10 @@ There is only one roof for this model.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 
-
 ### Seats
-
 
 
 #### First row seats
@@ -153,7 +145,6 @@ The YangWang U9 includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The YangWang U9 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat.
@@ -170,9 +161,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/yangwang/u9/u9/screens_1_st.jpg" title="YangWang U9" width="1200" height="717"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -186,7 +175,6 @@ Furthermore, the YangWang U9 supports Android Auto and Apple CarPlay. This funct
 
 One type of sound system is available for the YangWang U9. With the Rimac Nevera Sound System, you get eight speakers with a max system output of 1200 watts.
 
-
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
@@ -197,6 +185,7 @@ The standard headlights use LED technology. In addition, the standard taillights
 ## Advanced driver assistance systems
 
 The YangWang U9 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -217,12 +206,12 @@ With the   level 2 system, you get the following driving automation features.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 200 liters. The maxium weight of the car is 2625 kg (5787 lbs), and with the base weight of 2475 kg (5456 lbs), you can max load 150 kg (331 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
 ### Availability & Pricing
 
 This model had a world premiere on 01.04.2023, and deliveries is expected to start in January 2025.<div class="mt-3 mb-3">

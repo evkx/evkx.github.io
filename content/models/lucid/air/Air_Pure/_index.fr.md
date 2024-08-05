@@ -26,7 +26,6 @@ Nous avons séparé notre article Lucid Air Pure en sections. Si vous souhaitez 
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Lucid Air Pure offre des performances solides avec une puissance maximale de 320,5 kW (436 ch) et un couple total de 400 Nm. Elle peut accélérer de 0 à 100 km/h en 4,5 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Lucid Air Pure dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Le moteur utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ La direction dynamique est une fonctionnalité un standard sur le Lucid Air Pure
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 380 mm et les disques arrière mesurent 375 mm.
-
 
 ### Freinage régénératif
 
@@ -98,9 +94,7 @@ Il n'y a qu'un seul toit pour ce modèle. Le standard est juste un toit ordinair
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -122,7 +116,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-
 
 
 #### Siège de deuxième rangée
@@ -161,7 +154,6 @@ L'Lucid Air Pure comprend plusieurs fonctionnalités pour améliorer le confort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Au-dessus du tableau de bord se trouve un cadre partagé avec trois écrans, et dans la console centrale, il y a un quatrième [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -179,14 +171,18 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/screens_1_st.jpg" title="Lucid Air Pure" width="3000" height="2001"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
 
 Vous pouvez choisir entre deux systèmes audio sur le Lucid Air Pure. Avec le Surreal Sound, vous obtenez neuf haut-parleurs avec une puissance système maximale de 300 watts. Avec le Surreal Sound Pro, vous obtenez 21 haut-parleurs avec une puissance système maximale de 800 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED.
@@ -197,6 +193,7 @@ Les phares standards utilisent la technologie LED.
 ## Systèmes avancés d'aide à la conduite
 
 Le Lucid Air Pure dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -223,7 +220,6 @@ Avec le système ADAS  niveau 2, vous bénéficiez des fonctionnalités d'automa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

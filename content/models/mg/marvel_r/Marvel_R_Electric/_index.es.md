@@ -26,7 +26,6 @@ Hemos separado nuestro artículo MG Marvel R Electric en secciones. Si desea esp
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El MG Marvel R Electric ofrece un rendimiento modesto con una potencia máxima de 132 kW (180 hp) y un par total de 410 Nm. Acelera de 0 a 100 km/h en 7,9 segundos y tiene una velocidad máxima 160 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 MG Marvel R Electric tiene un sistema de tracción trasera sostenido por un motor en el eje trasero.
-
 
 ### Suspensión
 
@@ -65,7 +62,6 @@ La suspensión delantera es [MacPherson Strut](../../../../technology/suspension
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes).
-
 
 ### Frenado regenerativo
 
@@ -91,13 +87,11 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 Puedes elegir entre diferentes tipos de materiales de asientos y estilo interior. Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
-
 
 
 #### Asientos de primera fila
@@ -117,7 +111,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/frontseats_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1999"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -152,7 +145,6 @@ El MG Marvel R Electric incluye varias características para mejorar la comodida
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 
@@ -172,11 +164,20 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el MG Marvel R Electric es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el MG Marvel R Electric. Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el MG Marvel R Electric es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 4 conexiones USB-A de serie.
+
 ## Luces
 
 
@@ -187,6 +188,7 @@ El modelo tiene 4 conexiones USB-A de serie.
 ## Sistemas avanzados de asistencia al conductor
 
 El MG Marvel R Electric tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -203,7 +205,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

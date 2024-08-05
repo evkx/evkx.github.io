@@ -26,7 +26,6 @@ Nous avons séparé notre article Audi Q6L e-tron quattro en sections. Si vous s
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Audi Q6L e-tron quattro offre des performances solides avec une puissance maximale de 345 kW (469 ch) et un couple total de 650 Nm. Elle peut accélérer de 0 à 100 km/h en 5,9 secondes et atteindre une vitesse maximale de 210 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Audi Q6L e-tron quattro dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
-
 
 ### Suspension
 
@@ -82,11 +79,9 @@ Le Audi Q6L e-tron quattro permet à l'utilisateur de sélectionner différents 
 - Balanced : direction équilibrée, hauteur de suspension adaptative avec accélérateur équilibré et amortissement de suspension adaptatif.
 - Custom : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
 
-
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 375 mm et les disques arrière mesurent 350 mm.
-
 
 ### Freinage régénératif
 
@@ -123,9 +118,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -196,7 +189,6 @@ L'Audi Q6L e-tron quattro comprend plusieurs fonctionnalités pour améliorer le
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 L'interface de contrôle de ce modèle de véhicule électrique comprend une combinaison intuitive de boutons, de leviers et d'écrans, offrant une expérience utilisateur fluide et conviviale.
@@ -215,11 +207,20 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Audi Q6L e-tron quattro prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Vous pouvez choisir entre deux systèmes audio sur le Audi Q6L e-tron quattro. Avec le Audi Sound System, vous obtenez cinq haut-parleurs avec une puissance système maximale de 200 watts. Avec le Bang & Olufsen Sound System, vous obtenez 20 haut-parleurs avec une puissance système maximale de 830 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Audi Q6L e-tron quattro prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
+
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le Audi Q6L e-tron quattro. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
@@ -232,6 +233,7 @@ Vous pouvez choisir entre deux types de phares pour le Audi Q6L e-tron quattro. 
 Le Audi Q6L e-tron quattro dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -276,12 +278,12 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement dans le coffre est de 526 litres. Avec la banquette arrière rabattue, elle est de 1529 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 64 litres (2,3 CU FT). Le poids maximum de la voiture est de 2965 kg (6537 lbs), et avec le poids de base de 2325 kg (5126 lbs), vous pouvez charger au maximum 640 kg (1411 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2400, et sur une remorque non freinée, il est de 750 kg (5291/1653 lbs).
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 14.04.2024 et les livraisons devraient commencer en January 2025.<div class="mt-3 mb-3">

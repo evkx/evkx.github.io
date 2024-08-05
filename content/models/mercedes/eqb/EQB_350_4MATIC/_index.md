@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Mercedes-EQ EQB 350 4MATIC delivers a solid performance with a maximum power of 215 kW (292 hp / 288 bhp) and a total torque of 520 Nm (384 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.2 seconds and reaches a top speed of 160 km/h (99 mph), making it competitive within its class.
@@ -52,14 +51,11 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Mercedes-EQ EQB 350 4MATIC features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
 
-
 ### Suspension
-
 
 
 ### Steering
@@ -69,7 +65,6 @@ Dynamic steering is a standard feature on the Mercedes-EQ EQB 350 4MATIC. Dynami
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -100,9 +95,7 @@ There are two different roof options to select from. The standard is just a regu
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -149,7 +142,6 @@ You can choose from 5 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_350_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQB 350 4MATIC" width="3000" height="1999"  >}}
 
-
 #### Second-row seat
 
 
@@ -173,7 +165,6 @@ Two climate system options are available:
 - **1-zone climate system:** Supports only controlling one shared zone for the whole car.
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-
 ## Comfort features
 
 The Mercedes-EQ EQB 350 4MATIC includes several features to enhance comfort and convenience:
@@ -184,7 +175,6 @@ The Mercedes-EQ EQB 350 4MATIC includes several features to enhance comfort and 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -209,7 +199,6 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -223,12 +212,15 @@ Furthermore, the Mercedes-EQ EQB 350 4MATIC supports Android Auto and Apple CarP
 You can choose between two sound systems on the Mercedes-EQ EQB 350 4MATIC. With the Standard, you get seven speakers with a max system output of 100 watts. With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts.
 
 The model has 4 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Mercedes-EQ EQB 350 4MATIC has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -260,7 +252,6 @@ With the Driver Assistance Package  level 1 system, you get the following drivin
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Peugot E-3008 en secciones. Si desea esperar pa
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Peugot E-3008 ofrece un rendimiento modesto con una potencia máxima de 157 kW (214 hp) y un par total de 345 Nm. Acelera de 0 a 100 km/h en 8,8 segundos y tiene una velocidad máxima 170 km/h, lo que lo alinea más con los vehículos de motor de combustión interna tradicionales.
@@ -52,18 +51,15 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Peugot E-3008 tiene un sistema de tracción delantera sostenido por un motor en el eje delantero.
-
 
 ### Suspensión
 
 La suspensión delantera es [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), y la suspensión trasera es [Torsion Beam](../../../../technology/suspension/#torsion-beam). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 198 mm.
 
 ### Frenos
-
 
 
 
@@ -95,7 +91,6 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -130,7 +125,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/frontseats_1_st.jpg" title="Peugot E-3008" width="3000" height="2250"  >}}
 
-
 #### Asiento de segunda fila
 
 
@@ -163,7 +157,6 @@ El Peugot E-3008 incluye varias características para mejorar la comodidad y con
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Peugot E-3008 tiene pantallas gemelas en un marco compartido montado con soportes en el tablero. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la parte derecha , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -179,14 +172,22 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/screens_1_st.jpg" title="Peugot E-3008" width="3000" height="2167"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Peugot E-3008 es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
 
 Puedes elegir entre dos sistemas de sonido en el Peugot E-3008. Con el , obtienes seis parlantes con una salida máxima del sistema de 100 vatios. Con el , obtienes diez parlantes con una salida máxima del sistema de 690 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Peugot E-3008 es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Peugot E-3008. Los faros estándar utilizan tecnología LED. Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
@@ -197,6 +198,7 @@ Puedes elegir entre dos tipos de faros para el Peugot E-3008. Los faros estánda
 ## Sistemas avanzados de asistencia al conductor
 
 El Peugot E-3008 tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -230,12 +232,12 @@ Hasta tres [sensores de radar](../../../../technology/sensorsandcameras/radar/),
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 520 litros. Con el asiento trasero abatido, es de 1480 litros. En el techo, puedes cargar hasta 80 kg (176,4 lbs). El peso máximo del automóvil es 2640 kg (5820 lbs), y con el peso base de 2008 kg (4427 lbs), puedes cargar como máximo 632 kg (1393 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1250, y sin freno, es de 750 kg (2756/1653 lbs).
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 12.09.2023 y las entregas comenzaron en February 2024.<div class="mt-3 mb-3">

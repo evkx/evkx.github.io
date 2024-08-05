@@ -26,7 +26,6 @@ Vi har opdelt vores Nio ET5 Touring artikel i sektioner. Hvis du vil vente med a
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Nio ET5 Touring imponerer med en maksimal effekt på 480 kW (653 hk) og et imponerende samlet drejningsmoment på 850 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3,9 sekunder og har en topfart på 200 km/h, hvilket gør den til en standout i sin klasse.
@@ -34,6 +33,7 @@ Nio ET5 Touring imponerer med en maksimal effekt på 480 kW (653 hk) og et impon
 ## Batteri, rækkevidde og opladning
 
 Nio ET5 Touring har to batterimuligheder med forskellige specifikationer. Nedenfor kan du se, hvordan dette påvirker rækkevidde og opladning.
+
 ### 100kWh
 
 Det højkapacitetsbatteri har en bruttokapacitet på 100 kWh og en nettoanvendelig kapacitet på 90 kWh, hvilket giver en buffer på 10 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 358 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
@@ -43,6 +43,7 @@ Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../
 Den maksimale DC-opladningshastighed er 180kW. En fuld opladning fra 0 - 100 % ville tage 75 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 41 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 1% til 44%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 86kW. Hver opladningssession ville tage 27 minutter og 2 sekunder.
 
 I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 23 kWh/100 km, ville turen tage cirka 9 timer og 58 minutter. Denne rejse ville kræve to opladningsstop fra 1% til 40%, med en samlet opladningstid på 98 minutter
+
 ### 75kWh
 
 Det højkapacitetsbatteri har en bruttokapacitet på 75 kWh og en nettoanvendelig kapacitet på 70,5 kWh, hvilket giver en buffer på 4,5 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 386 volt, klassificeres systemet som et 400-volt batterisystem, hvilket er i overensstemmelse med branchestandarder.
@@ -60,6 +61,7 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 ### Ladeport
 
 Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+
 ### Batteri swap
 
 Denne model understøtter batteriskift. Batteriskift betyder, at du kan køre til en unik batteribyttestation og få batteriet udskiftet med et nyt batteri med 90 % SOC. Batteriskiftet tager 7 minutter.
@@ -67,14 +69,11 @@ Denne model understøtter batteriskift. Batteriskift betyder, at du kan køre ti
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Nio ET5 Touring har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
 
-
 ### Hjulophæng
-
 
 
 ### Styring
@@ -84,7 +83,6 @@ Dynamisk styring er en standard-funktion på Nio ET5 Touring. Dynamisk styring v
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsning
 
@@ -116,9 +114,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -149,7 +145,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 - Gray [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 
-
 #### Sæde på anden række
 
 
@@ -166,7 +161,6 @@ Der er et tilgængeligt klimasystem.
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
 
-
 ## Komfortfunktioner
 
 Nio ET5 Touring inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
@@ -178,7 +172,6 @@ Nio ET5 Touring inkluderer flere funktioner, der forbedrer komfort og bekvemmeli
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brugergrænseflade og kontrol
@@ -196,17 +189,24 @@ Denne model har et valgfrit stemmestyringssystem. Stemmestyringen lader dig styr
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for Nio ET5 Touring. Med Premium sound system får du 23 højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 Modellen har 2 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 Nio ET5 Touring har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -244,7 +244,6 @@ Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere køreautomatis
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av MG Cyberster AWD Long Range i avsnitt. Om du
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 MG Cyberster AWD Long Range imponerar med en imponerande kraft på 400 kW (544 hk) och ett imponerande totalt vridmoment på 725 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 3,2 sekunder och når en topphastighet på 200 km/h, vilket gör den till en stjärna i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 MG Cyberster AWD Long Range har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel.
-
 
 ### Hjulupphängning
 
@@ -65,7 +62,6 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bromsning
 
@@ -90,13 +86,11 @@ Det finns bara ett tak för denna modell. Standardtaket är ett stofftak topp so
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
 
 Det finns en sätestyp du kan välja i olika material.
 
 ### Säten
-
 
 
 #### Framsäten
@@ -139,7 +133,6 @@ MG Cyberster AWD Long Range inkluderar flera funktioner för att förbättra kom
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Ovanpå instrumentbrädan finns en delad ram med tre skärmar och i mittkonsolen finns en fjärde [infotainmentskärm](../../../../technology /userinterface/ screens/ #infotainmentskärm)
@@ -162,11 +155,20 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder MG Cyberster AWD Long Range Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 En typ av ljudsystem är tillgänglig för MG Cyberster AWD Long Range. Med Bose Sound System får du sex högtalare med en maximal systemeffekt på 300 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder MG Cyberster AWD Long Range Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 1 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
+
 ## Ljus
 
 
@@ -177,6 +179,7 @@ Modellen har 1 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 ## Avancerade förarassistanssystem
 
 MG Cyberster AWD Long Range har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -195,12 +198,12 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastutrymmets kapacitet är 240 liter. Bilens maximala vikt är 2250 kg, och med basvikten på 1985 kg kan du lasta maximalt 265 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+
 ### Tillgänglighet och pris
 
 Denna modell hade världspremiär 13.07.2023 och leveranserna startade i December 2023.<div class="mt-3 mb-3">

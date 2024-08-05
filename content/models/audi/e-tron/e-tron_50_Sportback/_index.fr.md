@@ -32,7 +32,6 @@ Ce modèle a été remplacé par [Audi Q8 Sportback 50 e-tron](/models/audi/q8_e
 
 </div>
 
-
 ## Performances
 
 La Audi e-tron 50 Sportback offre des performances solides avec une puissance maximale de 230 kW (313 ch) et un couple total de 540 Nm. Elle peut accélérer de 0 à 100 km/h en 6,8 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -58,11 +57,9 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Audi e-tron 50 Sportback dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs à induction](../../../../technology/motors/asm/).
-
 
 ### Suspension
 
@@ -86,11 +83,9 @@ Le Audi e-tron 50 Sportback permet à l'utilisateur de sélectionner différents
 - Auto : direction équilibrée, hauteur de suspension adaptative avec accélérateur équilibré et amortissement de suspension adaptatif.
 - Custom : réponse personnalisée de la direction, de la suspension et de l'accélérateur.
 
-
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 375 mm et les disques arrière mesurent 350 mm.
-
 
 ### Freinage régénératif
 
@@ -125,9 +120,7 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -212,7 +205,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50_sportback/frontseats_1_st.jpg" title="Audi e-tron 50 Sportback" width="3000" height="2249"  >}}
 
-
 #### Siège de deuxième rangée
 
 
@@ -251,7 +243,6 @@ L'Audi e-tron 50 Sportback comprend plusieurs fonctionnalités pour améliorer l
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Audi e-tron 50 Sportback possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il existe deux [écrans d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -268,14 +259,22 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50_sportback/screens_1_st.jpg" title="Audi e-tron 50 Sportback" width="3000" height="2001"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Audi e-tron 50 Sportback prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Vous pouvez choisir entre deux systèmes audio sur le Audi e-tron 50 Sportback. Avec le Audi Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 180 watts. Avec le Bang & Olufsen Sound System, vous obtenez 16 haut-parleurs avec une puissance système maximale de 700 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Audi e-tron 50 Sportback prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
+
 ## Lumières
 
 Vous pouvez choisir entre trois types de phares pour le Audi e-tron 50 Sportback. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant. Des phares basés sur la technologie LED Digital Matrix sont disponibles en option. De plus, les feux arrière standard utilisent la technologie LED.
@@ -288,6 +287,7 @@ Vous pouvez choisir entre trois types de phares pour le Audi e-tron 50 Sportback
 Le Audi e-tron 50 Sportback dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -329,7 +329,6 @@ Ce modèle utilise des caméras, des radars et des capteurs à ultrasons pour le
 Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), cinq [caméras](../../../../technology/sensorsandcameras/cameras/), et 12 [capteurs à ultrasons](../../../../technology/sensorsandcameras/ultrasonic/) enregistrent tout ce qui se passe dans le l'environnement du véhicule.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

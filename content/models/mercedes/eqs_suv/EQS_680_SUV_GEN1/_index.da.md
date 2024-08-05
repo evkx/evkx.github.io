@@ -32,7 +32,6 @@ Denne model er blevet erstattet af [Mercedes EQS 680 SUV](/models/mercedes/eqs_s
 
 </div>
 
-
 ## Ydeevne
 
 Mercedes-Maybach EQS 680 SUV imponerer med en maksimal effekt på 484 kW (658 hk) og et imponerende samlet drejningsmoment på 950 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 4,4 sekunder og har en topfart på 210 km/h, hvilket gør den til en standout i sin klasse.
@@ -58,11 +57,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Mercedes-Maybach EQS 680 SUV har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -75,7 +72,6 @@ Dynamisk styring er en standard-funktion på Mercedes-Maybach EQS 680 SUV. Dynam
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 415mm, og de bagerste skiver er 378mm.
-
 
 ### Regenerativ bremsning
 
@@ -107,9 +103,7 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -140,7 +134,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2001"  >}}
-
 
 #### Sæde på anden række
 
@@ -187,7 +180,6 @@ Mercedes-Maybach EQS 680 SUV inkluderer flere funktioner, der forbedrer komfort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Mercedes-Maybach EQS 680 SUV har flere integrerede skærme. Bag rattet er der en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). Derudover er der en [infotainmentskærm](../../../../technology/userinterface/screens/#infotainment-skærm) i midterkonsollen og en [infotainmentskærm](../../../../technology/userinterface/screens/#front-passager-screen) foran passagersædet.
@@ -211,11 +203,20 @@ Denne model har også et valgfrit gestuskontrolsystem, der lader dig styre speci
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Mercedes-Maybach EQS 680 SUV Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan vælge mellem to lydsystemer på Mercedes-Maybach EQS 680 SUV. Med Advanced Soundsystem får du ni højttalere med en maksimal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 højttalere med en maksimal systemeffekt på 590 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Mercedes-Maybach EQS 680 SUV Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 4 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+
 ## Lys
 
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -226,6 +227,7 @@ Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, 
 ## Avancerede førerassistentsystemer
 
 Mercedes-Maybach EQS 680 SUV har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -266,12 +268,12 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere køreautomatiseringsfunkti
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 440 liter. På taget kan du laste op til 100 kg (220,5 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 3375 kg (7441 lbs), og med basisvægten på 2735 kg (6030 lbs), kan du maksimalt laste 640 kg (1411 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
+
 ### Tilgængelighed og priser
 
 <div class="mt-3 mb-3">

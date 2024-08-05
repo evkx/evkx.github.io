@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Xiaomi SU7 Max packs an impressive punch with a maximum power of 495 kW (673 hp / 664 bhp) and a commanding total torque of 838 Nm (618 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 2.78 seconds, and it reaches a top speed of 265 km/h (165 mph), making it a standout in its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Xiaomi SU7 Max features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is a standard feature on the Xiaomi SU7 Max. Dynamic steering v
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -100,7 +96,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 You can choose between several interior designs.
@@ -129,7 +124,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/frontseats_1_st.jpg" title="Xiaomi SU7 Max" width="1760" height="1000"  >}}
 
-
 #### Second-row seat
 
 
@@ -151,7 +145,6 @@ There is one climate system available.
 
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 
-
 ## Comfort features
 
 The Xiaomi SU7 Max includes several features to enhance comfort and convenience:
@@ -163,7 +156,6 @@ The Xiaomi SU7 Max includes several features to enhance comfort and convenience:
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -180,15 +172,14 @@ A head-up display is a standard system that projects speed and other important d
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/screens_1_st.jpg" title="Xiaomi SU7 Max" width="2560" height="1440"  >}}
 
-
 ## Infotainment
-
 
 ### Sound system
 
 One type of sound system is available for the Xiaomi SU7 Max. With the Xiaomi Soundsystem, you get 25 speakers with a max system output of  watts.
 
 The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -199,6 +190,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Advanced driver assistance systems
 
 The Xiaomi SU7 Max has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -240,12 +232,12 @@ Up to three [radar sensors](../../../../technology/sensorsandcameras/radar/), on
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 493 liters. Under the hood, there is frunk with more storage room. This frunk is 105 liters (3.7 CU FT). The maxium weight of the car is 2655 kg (5853 lbs), and with the base weight of 2205 kg (4861 lbs), you can max load 450 kg (992 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
 ### Availability & Pricing
 
 This model had a world premiere on 28.12.2023, and deliveries started in March 2024. This model is only available in China.<div class="mt-3 mb-3">

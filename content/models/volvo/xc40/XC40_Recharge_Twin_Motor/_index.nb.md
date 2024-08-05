@@ -32,7 +32,6 @@ Denne modellen er erstattet av [Volvo EX40 Twin Motor](/models/volvo/ex40/ex40_t
 
 </div>
 
-
 ## Ytelse
 
 Volvo XC40 Recharge Twin Motor leverer solid ytelse med en maksimal effekt på 300 kW (408 hk) og et totalt dreiemoment på 670 Nm. Den kan akselerere fra 0 til 100 km/t på 4,8 sekunder og når en topphastighet på 180 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -58,11 +57,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Volvo XC40 Recharge Twin Motor har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
-
 
 ### Hjuloppheng
 
@@ -71,7 +68,6 @@ Volvo XC40 Recharge Twin Motor har et firehjulsdriftssystem som støttes av to m
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsing
 
@@ -99,9 +95,7 @@ Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -124,7 +118,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_twin_motor/frontseats_1_st.jpg" title="Volvo XC40 Recharge Twin Motor" width="1920" height="1080"  >}}
-
 
 #### Seter på andre rad
 
@@ -157,7 +150,6 @@ Volvo XC40 Recharge Twin Motor inkluderer flere funksjoner for å forbedre komfo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Volvo XC40 Recharge Twin Motor har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
@@ -173,12 +165,14 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_twin_motor/screens_1_st.jpg" title="Volvo XC40 Recharge Twin Motor" width="3000" height="2249"  >}}
 
-
 ## Infotainment
+
+### header.soundsystem
 
 Du kan velge mellom to lydsystemer på Volvo XC40 Recharge Twin Motor. Med High Performance får du åtte høyttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 600 watt.
 
 Modellen har 1 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Volvo XC40 Recharge Twin Motor. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
@@ -191,6 +185,7 @@ Du kan velge mellom to typer frontlykter for Volvo XC40 Recharge Twin Motor. Sta
 Volvo XC40 Recharge Twin Motor har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -215,7 +210,6 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

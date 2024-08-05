@@ -26,7 +26,6 @@ Nous avons séparé notre article Rivian R1S Quad-Motor AWD MP en sections. Si v
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Rivian R1S Quad-Motor AWD MP délivre une puissance maximale impressionnante de 764 kW (1039 ch) et un couple massif de 1623 Nm. Ce bolide peut passer de 0 à 100 km/h en seulement 2,6 secondes, démontrant ainsi son accélération étonnante. De plus, il atteint une vitesse maximale de 201 km/h, faisant de lui un véritable chef-d'œuvre d'ingénierie et de performance.
@@ -53,11 +52,9 @@ L'emplacement du port de charge se trouve dans le [coin avant gauche](../../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Rivian R1S Quad-Motor AWD MP dispose d'un système de transmission intégrale pris en charge par quatre moteurs. Un pour chaque roue.
-
 
 ### Suspension
 
@@ -77,11 +74,9 @@ Le Rivian R1S Quad-Motor AWD MP permet à l'utilisateur de sélectionner différ
 - Soft sand: Direction équilibrée, hauteur maximale de suspension avec accélérateur équilibré et amortissement de suspension confortable.
 - All-Terrain : Direction équilibrée, hauteur de suspension élevée avec accélérateur et amortissement équilibrés.
 
-
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 343 mm et les disques arrière mesurent 328 mm.
-
 
 ### Freinage régénératif
 
@@ -113,9 +108,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -144,7 +137,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/frontseats_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -185,7 +177,6 @@ L'Rivian R1S Quad-Motor AWD MP comprend plusieurs fonctionnalités pour amélior
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Rivian R1S Quad-Motor AWD MP possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
@@ -206,11 +197,16 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le Rivian R1S Quad-Motor AWD MP. Avec le Rivian Premium Audio, vous obtenez 19 haut-parleurs avec une puissance système maximale de 960 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
 Le modèle dispose de 6 connexions USB-C en standard.
+
 ## Lumières
 
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
@@ -221,6 +217,7 @@ Les phares standard utilisent la technologie LED Matrix. LED Matrix est un syst�
 ## Systèmes avancés d'aide à la conduite
 
 Le Rivian R1S Quad-Motor AWD MP dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -253,7 +250,6 @@ Ce modèle utilise des caméras, des radars et des capteurs à ultrasons pour le
 Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/), 11 [caméras](../../../../technology/sensorsandcameras/cameras/), et 12 [capteurs à ultrasons](../../../../technology/sensorsandcameras/ultrasonic/) enregistrent tout ce qui se passe dans le l'environnement du véhicule.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

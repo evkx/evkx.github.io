@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Rolls-Royce Spectre i avsnitt. Om du vill v�
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Rolls-Royce Spectre imponerar med en imponerande kraft på 430 kW (585 hk) och ett imponerande totalt vridmoment på 900 Nm. Denna högpresterande maskin kan accelerera från 0 till 100 km/h på bara 4,5 sekunder och når en topphastighet på 250 km/h, vilket gör den till en stjärna i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Rolls-Royce Spectre har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
-
 
 ### Hjulupphängning
 
@@ -67,7 +64,6 @@ Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan
 Dynamisk styrning är standard-funktionen för Rolls-Royce Spectre. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten. Dessutom är bakhjulsstyrning tillgänglig som en standard-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
 
 ### Bromsar
-
 
 
 
@@ -96,9 +92,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -134,7 +128,6 @@ Du kan välja mellan 7 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1687"  >}}
 
-
 #### Säten på andra raden
 
 
@@ -158,7 +151,6 @@ Det finns ett tillgängligt klimatsystem.
 
 - **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
 
-
 ## Komfortfunktioner
 
 Rolls-Royce Spectre inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -170,7 +162,6 @@ Rolls-Royce Spectre inkluderar flera funktioner för att förbättra komfort och
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Användargränssnitt och kontroll
@@ -188,14 +179,22 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/screens_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1862"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Rolls-Royce Spectre Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan välja mellan två ljudsystem på Rolls-Royce Spectre. Med Harman Kardon Surround Sound system får du 18 högtalare med en maximal systemeffekt på 655 watt. Med Bowers & Wilkins Diamond surround sound system får du 30 högtalare med en maximal systemeffekt på 1615 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Rolls-Royce Spectre Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 6 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Rolls-Royce Spectre. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix med laserteknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkla ljusstrålen i dussintals mindre strålar som ljusregulatorn kan slå på och av individuellt för att avbryta små ytor framför. Dessutom använder standardbakljusen LED-teknik.
@@ -206,6 +205,7 @@ Du kan välja mellan två typer av strålkastare för Rolls-Royce Spectre. Stand
 ## Avancerade förarassistanssystem
 
 Rolls-Royce Spectre har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -237,12 +237,12 @@ Med Driving Assistant Professional  nivå 2-systemet får du följande körautom
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastutrymmets kapacitet är 500 liter. Bilens maximala vikt är 3400 kg, och med basvikten på 2890 kg kan du lasta maximalt 510 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+
 ### Tillgänglighet och pris
 
 Denna modell hade världspremiär 18.10.2022 och leveranserna startade i December 2023.<div class="mt-3 mb-3">

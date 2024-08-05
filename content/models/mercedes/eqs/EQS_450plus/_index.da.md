@@ -26,7 +26,6 @@ Vi har opdelt vores Mercedes-EQ EQS 450+ artikel i sektioner. Hvis du vil vente 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Mercedes-EQ EQS 450+ leverer en solid præstation med en maksimal effekt på 265 kW (360 hk) og et totalt drejningsmoment på 800 Nm. Den kan accelerere fra 0 til 100 km/t på 5,6 sekunder og når en topfart på 210 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Mercedes-EQ EQS 450+ har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en standard-funktion på Mercedes-EQ EQS 450+. Dynamisk styr
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 415mm, og de bagerste skiver er 378mm.
-
 
 ### Regenerativ bremsning
 
@@ -103,9 +99,7 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -151,7 +145,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="4085"  >}}
 
-
 #### Sæder på anden række
 
 Du kan vælge to sædetyper til anden række i Mercedes-EQ EQS 450+.
@@ -181,7 +174,6 @@ To klimaanlægsmuligheder er tilgængelige:
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
 
-
 ## Komfortfunktioner
 
 Mercedes-EQ EQS 450+ inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
@@ -193,7 +185,6 @@ Mercedes-EQ EQS 450+ inkluderer flere funktioner, der forbedrer komfort og bekve
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brugergrænseflade og kontrol
@@ -225,17 +216,28 @@ Denne model har også et valgfrit gestuskontrolsystem, der lader dig styre speci
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Mercedes-EQ EQS 450+ Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan vælge mellem to lydsystemer på Mercedes-EQ EQS 450+. Med Advanced Soundsystem får du ni højttalere med en maksimal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 højttalere med en maksimal systemeffekt på 590 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Mercedes-EQ EQS 450+ Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 4 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+
 ## Lys
 
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 Mercedes-EQ EQS 450+ har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -274,7 +276,6 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere køreautomatiseringsfunkti
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

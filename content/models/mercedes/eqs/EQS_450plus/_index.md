@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Mercedes-EQ EQS 450+ delivers a solid performance with a maximum power of 265 kW (360 hp / 355 bhp) and a total torque of 800 Nm (590 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.6 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Mercedes-EQ EQS 450+ has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is a standard feature on the Mercedes-EQ EQS 450+. Dynamic stee
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 415mm, and the rear discs are 378mm.
-
 
 ### Regenerative braking
 
@@ -106,9 +102,7 @@ There are two different roof options to select from. The standard is just a regu
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -154,7 +148,6 @@ You can choose from 5 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="4085"  >}}
 
-
 #### Second-row seats
 
 You can choose two seat types for the second row in the Mercedes-EQ EQS 450+.
@@ -184,7 +177,6 @@ Two climate system options are available:
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
-
 ## Comfort features
 
 The Mercedes-EQ EQS 450+ includes several features to enhance comfort and convenience:
@@ -196,7 +188,6 @@ The Mercedes-EQ EQS 450+ includes several features to enhance comfort and conven
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -228,7 +219,6 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -242,12 +232,15 @@ Furthermore, the Mercedes-EQ EQS 450+ supports Android Auto and Apple CarPlay. T
 You can choose between two sound systems on the Mercedes-EQ EQS 450+. With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get 13 speakers with a max system output of 590 watts.
 
 The model has 4 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Mercedes-EQ EQS 450+ has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -286,7 +279,6 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

@@ -32,7 +32,6 @@ This model has been replaced by [Audi SQ8 e-tron](/models/audi/q8_e-tron/sq8_e-t
 
 </div>
 
-
 ## Performance
 
 With overboost, the Audi e-tron S reaches a maximum power of 370 kW (503 hp / 496 bhp). Without overboost, it delivers 320 kW (435 hp / 429 bhp). The maximum torque is 973 Nm (718 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and reaches a top speed of 200 km/h (124 mph), demonstrating its solid performance.
@@ -58,11 +57,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Audi e-tron S has an all-wheel drive system supported by three motors. One on front axle, and two on rear axle. The motors used are [Induction Motors](../../../../technology/motors/asm/).
-
 
 ### Suspension
 
@@ -86,11 +83,9 @@ The Audi e-tron S lets the user select different [drive modes](../../../../techn
 - Auto: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
 - Custom: Custom-defined steering, suspension, and throttle response.
 
-
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 375mm, and the rear discs are 350mm.
-
 
 ### Regenerative braking
 
@@ -125,9 +120,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -186,7 +179,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/frontseats_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
-
 #### Second-row seat
 
 
@@ -225,7 +217,6 @@ The Audi e-tron S includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Audi e-tron S has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -241,7 +232,6 @@ A head-up display is an optional system that projects speed and other important 
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -255,6 +245,7 @@ Furthermore, the Audi e-tron S supports Android Auto and Apple CarPlay. This fun
 You can choose between two sound systems on the Audi e-tron S. With the Audi Sound system, you get ten speakers with a max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 speakers with a max system output of 700 watts.
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+
 ## Lights
 
 You can choose between three types of headlights for the Audi e-tron S. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane. In addition, the standard taillights use LED technology.
@@ -267,6 +258,7 @@ You can choose between three types of headlights for the Audi e-tron S. The stan
 The Audi e-tron S has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -308,7 +300,6 @@ This model uses cameras, radar, and ultrasonic sensors for the driver assist sys
 Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

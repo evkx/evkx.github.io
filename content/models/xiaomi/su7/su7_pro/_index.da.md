@@ -26,7 +26,6 @@ Vi har opdelt vores Xiaomi SU7 Pro artikel i sektioner. Hvis du vil vente med at
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Xiaomi SU7 Pro leverer en solid præstation med en maksimal effekt på 220 kW (299 hk) og et totalt drejningsmoment på 400 Nm. Den kan accelerere fra 0 til 100 km/t på 5,7 sekunder og når en topfart på 210 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Xiaomi SU7 Pro har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en standard-funktion på Xiaomi SU7 Pro. Dynamisk styring va
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsning
 
@@ -100,7 +96,6 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Du kan vælge mellem flere interiørdesigns.
@@ -129,7 +124,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/frontseats_1_st.jpg" title="Xiaomi SU7 Pro" width="1760" height="1000"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -151,7 +145,6 @@ Der er et tilgængeligt klimasystem.
 
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
-
 ## Komfortfunktioner
 
 Xiaomi SU7 Pro inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
@@ -162,7 +155,6 @@ Xiaomi SU7 Pro inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brugergrænseflade og kontrol
@@ -179,12 +171,14 @@ Et head-up display er en standard-system, der viser hastighed og andre vigtige f
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/screens_1_st.jpg" title="Xiaomi SU7 Pro" width="2560" height="1440"  >}}
 
-
 ## Infotainment
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Xiaomi SU7 Pro. Med Xiaomi Soundsystem får du ti højttalere med en maksimal systemeffekt på  watt. Med Xiaomi Soundsystem får du 25 højttalere med en maksimal systemeffekt på  watt.
 
 Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -195,6 +189,7 @@ Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, 
 ## Avancerede førerassistentsystemer
 
 Xiaomi SU7 Pro har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -236,12 +231,12 @@ Op til tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), én
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 517 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 105 liter (3,7 CU FT). Bilens maksimale vægt er 2750 kg (6063 lbs), og med basisvægten på 2205 kg (4861 lbs), kan du maksimalt laste 545 kg (1202 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+
 ### Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 28.12.2023, og leveringerne startede i March 2024. Denne model er kun tilgængelig i Kina.<div class="mt-3 mb-3">

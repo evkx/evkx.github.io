@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Tesla Model S Plaid en secciones. Si desea espe
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Tesla Model S Plaid entrega una impresionante potencia máxima de 760 kW (1033 hp) y un enorme torque de 1420 Nm. Este monstruo puede acelerar de 0 a 100 km/h en solo 2,1 segundos, demostrando su asombrosa aceleración. Además, alcanza una velocidad máxima de 322 km/h, lo que lo convierte en una verdadera maravilla de la ingeniería y el rendimiento.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en la [esquina trasera izquierda](../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Tesla Model S Plaid tiene un sistema de tracción total sostenido por tres motores. Uno en el eje delantero y dos en el eje trasero. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -69,7 +66,6 @@ La dirección dinámica es una característica un estándar en el Tesla Model S 
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 355 mm y los discos traseros de 355 mm.
-
 
 ### Frenado regenerativo
 
@@ -101,9 +97,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -124,7 +118,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
-
 
 
 #### Asiento de segunda fila
@@ -162,7 +155,6 @@ El Tesla Model S Plaid incluye varias características para mejorar la comodidad
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Tesla Model S Plaid tiene dos pantallas con información para el conductor y los pasajeros y una tercera pantalla en la parte trasera para multimedia.
@@ -178,20 +170,24 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/screens_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2000"  >}}
 
-
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el Tesla Model S Plaid. Con el Tesla Premium Sound, obtienes 22 parlantes con una salida máxima del sistema de 560 vatios.
-
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
-
 
 ## Luces
 
 Los faros estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Tesla Model S Plaid tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -233,7 +229,6 @@ Con el sistema Full Self-Driving Capability  nivel 3, obtienes funciones de auto
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

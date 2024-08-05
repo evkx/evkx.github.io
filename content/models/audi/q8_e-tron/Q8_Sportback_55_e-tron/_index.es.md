@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Audi Q8 Sportback 55 e-tron en secciones. Si de
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 Con overboost, el Audi Q8 Sportback 55 e-tron alcanza una potencia máxima de 300 kW (408 hp). Sin overboost, entrega 265 kW (360 hp). El par máximo es de 664 Nm. Puede acelerar de 0 a 100 km/h en 5,6 segundos y alcanza una velocidad máxima de 200 km/h, demostrando su sólido rendimiento.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Audi Q8 Sportback 55 e-tron tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/).
-
 
 ### Suspensión
 
@@ -80,11 +77,9 @@ El Audi Q8 Sportback 55 e-tron permite al usuario seleccionar diferentes [modos 
 - Auto: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa.
 - Custom: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
 
-
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 375 mm y los discos traseros de 350 mm.
-
 
 ### Frenado regenerativo
 
@@ -119,9 +114,7 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -202,7 +195,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 
-
 #### Asiento de segunda fila
 
 
@@ -237,7 +229,6 @@ El Audi Q8 Sportback 55 e-tron incluye varias características para mejorar la c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Audi Q8 Sportback 55 e-tron tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay dos [pantallas de infoentretenimiento] diferentes (../../../../technology/userinterface/screens/#infotainment-screen).
@@ -253,19 +244,30 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Audi Q8 Sportback 55 e-tron es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre dos sistemas de sonido en el Audi Q8 Sportback 55 e-tron. Con el Audi Sound system, obtienes diez parlantes con una salida máxima del sistema de 180 vatios. Con el Bang & Olufsen Sound System, obtienes 16 parlantes con una salida máxima del sistema de 700 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Audi Q8 Sportback 55 e-tron es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
+
 ## Luces
 
 Puedes elegir entre tres tipos de faros para el Audi Q8 Sportback 55 e-tron. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente. Los faros basados en tecnología LED Digital Matrix están disponibles como opción. Además, las luces traseras estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Audi Q8 Sportback 55 e-tron tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -309,12 +311,12 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 660 litros. Con el asiento trasero abatido, es de 1725 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 3170 kg (6989 lbs), y con el peso base de 2520 kg (5556 lbs), puedes cargar como máximo 650 kg (1433 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1800, y sin freno, es de 750 kg (3968/1653 lbs).
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 09.11.2022 y las entregas comenzaron en March 2023. Este modelo está disponible en Norteamérica, China, Europa y Medio Oriente.<div class="mt-3 mb-3">

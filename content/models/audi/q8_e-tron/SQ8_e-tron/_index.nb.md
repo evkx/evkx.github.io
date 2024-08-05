@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Audi SQ8 e-tron i seksjoner. Hvis du vil vente m
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Med overboost når Audi SQ8 e-tron en maksimal effekt på 370 kW (503 hk). Uten overboost leverer den 320 kW (435 hk). Maksimalt dreiemoment er 973 Nm. Den kan akselerere fra 0 til 100 km/t på 4,5 sekunder og når en topphastighet på 200 km/t, noe som viser dens solide ytelse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Audi SQ8 e-tron har et firehjulsdriftssystem støttet av tre motorer. En på forakselen og to på bakakselen. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/).
-
 
 ### Hjuloppheng
 
@@ -80,11 +77,9 @@ Audi SQ8 e-tron lar brukeren velge forskjellige [kjøremoduser](../../../../tech
 - Auto: Balansert styring, adaptiv fjæringshøyde med balansert gass og adaptiv fjæringsdemping.
 - Custom: Egendefinert styring, fjæring og gassrespons.
 
-
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 375mm, og de bakre skivene er 350mm.
-
 
 ### Regenerativ bremsing
 
@@ -114,9 +109,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -171,7 +164,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
-
 #### Seter på andre rad
 
 
@@ -206,7 +198,6 @@ Audi SQ8 e-tron inkluderer flere funksjoner for å forbedre komfort og bekvemmel
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Audi SQ8 e-tron har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er to forskjellige [infotainment-skjermer](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -222,11 +213,20 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Audi SQ8 e-tron Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan velge mellom to lydsystemer på Audi SQ8 e-tron. Med Audi Sound system får du ti høyttalere med en maksimal systemeffekt på 180 watt. Med Bang & Olufsen Sound System får du 16 høyttalere med en maksimal systemeffekt på 700 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Audi SQ8 e-tron Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
+
 ## Lys
 
 Du kan velge mellom tre typer frontlykter for Audi SQ8 e-tron. Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. Hovedlys basert på LED Digital Matrix-teknologi er tilgjengelig som ekstrautstyr. I tillegg bruker standard baklykter LED-teknologi.
@@ -239,6 +239,7 @@ Du kan velge mellom tre typer frontlykter for Audi SQ8 e-tron. Standardlyktene b
 Audi SQ8 e-tron har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -282,12 +283,12 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/) , fe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 555 liter. Med baksetet nede er det 1594 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 3280 kg, og med basisvekten på 2655 kg kan du maksimalt laste 625 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1800, og på ubremset er den 750 kg.
+
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 09.11.2022, og leveringene startet i March 2023. Denne modellen er tilgjengelig i Nord-Amerika, Kina, Europa og Midtøsten.<div class="mt-3 mb-3">

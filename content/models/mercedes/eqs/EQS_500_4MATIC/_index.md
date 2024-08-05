@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Mercedes-EQ EQS 500 4MATIC delivers a solid performance with a maximum power of 330 kW (449 hp / 443 bhp) and a total torque of 828 Nm (611 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.8 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/charging_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="1687"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Mercedes-EQ EQS 500 4MATIC features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -73,7 +69,6 @@ Dynamic steering is a standard feature on the Mercedes-EQ EQS 500 4MATIC. Dynami
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 415mm, and the rear discs are 378mm.
-
 
 ### Regenerative braking
 
@@ -106,9 +101,7 @@ There are two different roof options to select from. The standard is just a regu
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -154,7 +147,6 @@ You can choose from 5 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="4085"  >}}
 
-
 #### Second-row seats
 
 You can choose two seat types for the second row in the Mercedes-EQ EQS 500 4MATIC.
@@ -184,7 +176,6 @@ Two climate system options are available:
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
-
 ## Comfort features
 
 The Mercedes-EQ EQS 500 4MATIC includes several features to enhance comfort and convenience:
@@ -196,7 +187,6 @@ The Mercedes-EQ EQS 500 4MATIC includes several features to enhance comfort and 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -232,7 +222,6 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -246,12 +235,15 @@ Furthermore, the Mercedes-EQ EQS 500 4MATIC supports Android Auto and Apple CarP
 You can choose between two sound systems on the Mercedes-EQ EQS 500 4MATIC. With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get 13 speakers with a max system output of 590 watts.
 
 The model has 4 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Mercedes-EQ EQS 500 4MATIC has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -290,7 +282,6 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

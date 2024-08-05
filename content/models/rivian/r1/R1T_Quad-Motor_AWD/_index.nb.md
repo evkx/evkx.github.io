@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Rivian R1T Quad-Motor AWD i seksjoner. Hvis du v
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Rivian R1T Quad-Motor AWD leverer en imponerende maksimal effekt på 620 KW (843 hk) og et massivt dreiemoment på 1231 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 3,1 sekunder, noe som viser dens fantastiske akselerasjon. I tillegg oppnår den en topphastighet på 201 km/t, noe som gjør den til et virkelig underverk innen ingeniørkunst og ytelse.
@@ -49,7 +48,6 @@ Den standard ombordladeren støtter opptil 11,5 kW for Level 1 og Level 2 AC-lad
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/charging_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2048" height="1280"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er i [fremre venstre hjørne](../../../../technology/charging/connectors/#front-corner). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må parkere med fronten inn. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
@@ -57,11 +55,9 @@ Plasseringen av ladeporten er i [fremre venstre hjørne](../../../../technology/
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Rivian R1T Quad-Motor AWD har et firehjulsdriftssystem som støttes av fire motorer. En for hvert hjul.
-
 
 ### Hjuloppheng
 
@@ -70,7 +66,6 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 343mm, og de bakre skivene er 328mm.
-
 
 ### Regenerativ bremsing
 
@@ -98,9 +93,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -124,7 +117,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Green [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Blue [lærpolstring](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Seter på andre rad
@@ -160,7 +152,6 @@ Rivian R1T Quad-Motor AWD inkluderer flere funksjoner for å forbedre komfort og
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Rivian R1T Quad-Motor AWD har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
@@ -181,11 +172,16 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Rivian R1T Quad-Motor AWD. Med Rivian Elevation audio system får du 22 høyttalere med en maksimal systemeffekt på 1100 watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### header.soundsystem
+
+Én type lydsystem er tilgjengelig for Rivian R1T Quad-Motor AWD. Med Rivian Elevation audio system får du 22 høyttalere med en maksimal systemeffekt på 1100 watt.
+
 Modellen har 8 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi.
@@ -196,6 +192,7 @@ Standardlyktene bruker LED-teknologi.
 ## Avanserte førerassistentsystemer
 
 Rivian R1T Quad-Motor AWD har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -224,7 +221,6 @@ Med Driver+  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

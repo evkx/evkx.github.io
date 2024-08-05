@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Audi S6 Sportback e-tron en secciones. Si desea
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 Con overboost, el Audi S6 Sportback e-tron alcanza una potencia máxima de 405 kW (551 hp). Sin overboost, proporciona una sólida potencia de 370 kW (503 hp). El par máximo es de 855 Nm. Este motor de alta potencia puede acelerar de 0 a 100 km/h en solo 3,9 segundos y alcanza una velocidad máxima de 240 km/h, mostrando su impresionante rendimiento.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Audi S6 Sportback e-tron tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
-
 
 ### Suspensión
 
@@ -78,11 +75,9 @@ El Audi S6 Sportback e-tron permite al usuario seleccionar diferentes [modos de 
 - Balanced: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa.
 - Individual: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
 
-
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 400 mm y los discos traseros de 350 mm.
-
 
 ### Frenado regenerativo
 
@@ -118,7 +113,6 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 El Audi S6 Sportback e-tron cuenta con un interior centrado en el conductor que mejora la sensación de cabina, con materiales de primera calidad en todas las áreas importantes. Además, incluye una consola central tradicional que separa al conductor del pasajero, proporcionando almacenamiento y funcionalidad convenientes.
@@ -151,7 +145,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/frontseats_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -187,7 +180,6 @@ El Audi S6 Sportback e-tron incluye varias características para mejorar la como
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 La interfaz de control de este modelo de vehículo eléctrico incluye una combinación intuitiva de botones, palancas y pantallas, proporcionando una experiencia de uso fluida y amigable.
@@ -206,11 +198,20 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Audi S6 Sportback e-tron es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre dos sistemas de sonido en el Audi S6 Sportback e-tron. Con el Audi Sound System, obtienes cinco parlantes con una salida máxima del sistema de 200 vatios. Con el Bang & Olufsen Sound System, obtienes 20 parlantes con una salida máxima del sistema de 830 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Audi S6 Sportback e-tron es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Audi S6 Sportback e-tron. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente. Además, las luces traseras estándar utilizan tecnología LED.
@@ -223,6 +224,7 @@ Puedes elegir entre dos tipos de faros para el Audi S6 Sportback e-tron. Los far
 El Audi S6 Sportback e-tron tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -265,7 +267,6 @@ Este modelo utiliza cámaras, radar y sensores ultrasónicos para los sistemas d
 Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/), y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) registran todo lo que sucede en el entorno del vehículo.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Neta GT 580 AWD i avsnitt. Om du vill vänta
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Neta GT 580 AWD levererar en solid prestanda med en maximal effekt på 340 kW (462 hk) och ett totalt vridmoment på 620 Nm. Den kan accelerera från 0 till 100 km/h på 3,7 sekunder och når en topphastighet på 190 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -52,18 +51,15 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Neta GT 580 AWD har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
 Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder stålfjädrar och hydrauliska dämpare. Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring är 150 mm.
 
 ### Bromsar
-
 
 
 
@@ -90,9 +86,7 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -117,7 +111,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/frontseats_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="1081"  >}}
 
-
 #### Säten på andra raden
 
 
@@ -136,7 +129,6 @@ Det finns bara en typ av ratt tillgänglig.
 Det finns ett tillgängligt klimatsystem.
 
 
-
 ## Komfortfunktioner
 
 Neta GT 580 AWD inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -147,7 +139,6 @@ Neta GT 580 AWD inkluderar flera funktioner för att förbättra komfort och bek
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Användargränssnitt och kontroll
@@ -170,15 +161,20 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
+### header.soundsystem
+
 En typ av ljudsystem är tillgänglig för Neta GT 580 AWD. Med Neta Sky sound får du 12 högtalare med en maximal systemeffekt på  watt.
 
 Modellen har 1 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 Neta GT 580 AWD har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -213,12 +209,12 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastutrymmets kapacitet är 297 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 50 liter.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+
 ### Tillgänglighet och pris
 
 Denna modell hade världspremiär 13.07.2023 och leveranserna startade i December 2023. Denna modell är endast tillgänglig i Kina.<div class="mt-3 mb-3">

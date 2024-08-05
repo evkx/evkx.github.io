@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Rimac Nevera i seksjoner. Hvis du vil vente med 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Rimac Nevera leverer en imponerende maksimal effekt på 1400 KW (1904 hk) og et massivt dreiemoment på 2340 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 1,81 sekunder, noe som viser dens fantastiske akselerasjon. I tillegg oppnår den en topphastighet på 412 km/t, noe som gjør den til et virkelig underverk innen ingeniørkunst og ytelse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Rimac Nevera har et firehjulsdriftssystem som støttes av fire motorer. En for hvert hjul. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -76,11 +73,9 @@ Rimac Nevera lar brukeren velge forskjellige [kjøremoduser](../../../../technol
 - Track: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
 - Drift: Dynamisk styring, lav fjæring med dynamisk gass og fjæring.
 
-
 ### Bremser
 
 Bremsene bak og foran er [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De fremre skivene er 390mm, og de bakre skivene er 390mm.
-
 
 ### Regenerativ bremsing
 
@@ -109,13 +104,10 @@ Det er bare ett tak for denne modellen.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 
-
 ### Seter
-
 
 
 #### Forseter
@@ -157,7 +149,6 @@ Rimac Nevera inkluderer flere funksjoner for å forbedre komfort og bekvemmeligh
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Rimac Nevera har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments). I tillegg er det en [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) i midtkonsollen og en [infotainmentskjerm](../../../../technology/userinterface/screens/#front-passasjer-screen) foran passasjersetet.
@@ -174,13 +165,19 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/screens_1_st.jpg" title="Rimac Nevera" width="3000" height="2000"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Rimac Nevera Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Én type lydsystem er tilgjengelig for Rimac Nevera. Med Rimac Nevera Sound System får du åtte høyttalere med en maksimal systemeffekt på 1200 watt.
-
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Rimac Nevera Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 
 ## Lys
 
@@ -192,6 +189,7 @@ Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-te
 ## Avanserte førerassistentsystemer
 
 Rimac Nevera har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -212,12 +210,12 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 100 liter. Maksimumsvekten til bilen er 2550 kg, og med basisvekten på 2300 kg kan du maksimalt laste 250 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 01.06.2021, og leveringene startet i January 2023.<div class="mt-3 mb-3">

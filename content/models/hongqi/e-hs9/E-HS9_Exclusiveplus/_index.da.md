@@ -26,7 +26,6 @@ Vi har opdelt vores Hongqi E-HS9 Exclusive+ artikel i sektioner. Hvis du vil ven
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Hongqi E-HS9 Exclusive+ imponerer med en maksimal effekt på 405 kW (551 hk) og et imponerende samlet drejningsmoment på 670 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 4,9 sekunder og har en topfart på 200 km/h, hvilket gør den til en standout i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Hongqi E-HS9 Exclusive+ har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en standard-funktion på Hongqi E-HS9 Exclusive+. Dynamisk s
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsning
 
@@ -97,9 +93,7 @@ Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset stræ
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -122,7 +116,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
-
 
 
 #### Sæde på anden række
@@ -149,7 +142,6 @@ Der er et tilgængeligt klimasystem.
 
 - **6-zone klimaanlæg:** Understøtter forskellige temperaturer i seks zoner: føreren, passageren og to zoner, både i 2. og 3. række.
 
-
 ## Komfortfunktioner
 
 Hongqi E-HS9 Exclusive+ inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
@@ -161,7 +153,6 @@ Hongqi E-HS9 Exclusive+ inkluderer flere funktioner, der forbedrer komfort og be
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brugergrænseflade og kontrol
@@ -186,11 +177,16 @@ Denne model har et valgfrit stemmestyringssystem. Stemmestyringen lader dig styr
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for Hongqi E-HS9 Exclusive+. Med Hongqi sound system får du 16 højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 Modellen har 1 USB-C-forbindelser som standard. Modellen har 3 USB-A-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -201,6 +197,7 @@ Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, 
 ## Avancerede førerassistentsystemer
 
 Hongqi E-HS9 Exclusive+ har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -234,7 +231,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

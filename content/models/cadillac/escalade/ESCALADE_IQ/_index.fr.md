@@ -26,7 +26,6 @@ Nous avons séparé notre article Cadillac ESCALADE IQ en sections. Si vous souh
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Cadillac ESCALADE IQ impressionne avec une puissance maximale de 560 kW (761 ch) et un couple total impressionnant de 1064 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,7 secondes, et atteint une vitesse maximale de 200 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
@@ -52,18 +51,15 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Cadillac ESCALADE IQ dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
 La suspension avant est [double triangulation](../../../../technology/suspension/#double-wishbone), et la suspension arrière est [Multilink](../../../../technology/suspension/#multilink). Il utilise une suspension pneumatique et des amortisseurs hydrauliques. La suspension est entièrement adaptative sur les essieux avant et arrière, de sorte que la hauteur et l'amortissement peuvent être réglés manuellement et automatiquement. La garde au sol minimale est de 125 mm et la garde au sol maximale est de 200 mm. De plus, la direction des roues arrière est disponible en tant que fonctionnalité un standard. La direction des roues arrière réduit le rayon de braquage lorsque vous roulez lentement.
 
 ### Freins
-
 
 
 
@@ -92,9 +88,7 @@ Il n'y a qu'un seul toit pour ce modèle. En option, vous pouvez commander ce mo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -124,7 +118,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
-
 #### Siège de deuxième rangée
 
 
@@ -139,7 +132,6 @@ Pour la deuxième rangée, ce modèle est doté de deux [sièges exécutifs](../
 
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2003"  >}}
-
 
 #### Sièges de troisième rangée
 
@@ -171,7 +163,6 @@ L'Cadillac ESCALADE IQ comprend plusieurs fonctionnalités pour améliorer le co
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 
@@ -187,20 +178,24 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/screens_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2250"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
 
 Vous pouvez choisir entre deux systèmes audio sur le Cadillac ESCALADE IQ. Avec le AKG Studio audi System, vous obtenez 19 haut-parleurs avec une puissance système maximale de 1000 watts. Avec le AKG Studio Reference System, vous obtenez 40 haut-parleurs avec une puissance système maximale de 1000 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
-## Lumières
 
+## Lumières
 
 ## Systèmes avancés d'aide à la conduite
 
 Le Cadillac ESCALADE IQ dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -227,7 +222,6 @@ Avec le système Super Cruise  niveau 2, vous bénéficiez des fonctionnalités 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

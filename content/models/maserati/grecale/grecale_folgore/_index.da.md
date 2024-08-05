@@ -26,7 +26,6 @@ Vi har opdelt vores Maserati Grecale Folgore artikel i sektioner. Hvis du vil ve
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Maserati Grecale Folgore imponerer med en maksimal effekt på 410 kW (557 hk) og et imponerende samlet drejningsmoment på 820 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 4,1 sekunder og har en topfart på 220 km/h, hvilket gør den til en standout i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordlader understøtter op til 22 kW til Level 1 og Level 2 AC-op
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/charging_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
@@ -56,11 +54,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Maserati Grecale Folgore har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
-
 
 ### Hjulophæng
 
@@ -75,11 +71,9 @@ Maserati Grecale Folgore lader brugeren vælge forskellige [drive modes](../../.
 - GT: Balanceret styring, normal affjedringshøjde med effektiv gasspjæld og komfortaffjedring.
 - Off Road: Balanceret styring, maksimal affjedringshøjde med afbalanceret gas og dæmpning.
 
-
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 350mm, og de bagerste skiver er 350mm.
-
 
 ### Regenerativ bremsning
 
@@ -112,13 +106,10 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 
-
 ### Sæder
-
 
 
 #### Første række sæder
@@ -135,7 +126,6 @@ Følgende funktioner er tilgængelige på **Sport** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valgfrit)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-
 
 
 #### Sæde på anden række
@@ -175,7 +165,6 @@ Maserati Grecale Folgore inkluderer flere funktioner, der forbedrer komfort og b
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Maserati Grecale Folgore har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er to forskellige [infotainment-skærme](../../../../technology/userinterface/screens/#infotainment-skærm).
@@ -192,14 +181,22 @@ Et head-up display er en standard-system, der viser hastighed og andre vigtige f
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/screens_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Maserati Grecale Folgore Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Maserati Grecale Folgore. Med Sonus Faber Premium Sound System får du 14 højttalere med en maksimal systemeffekt på 860 watt. Med Sonus Faber High Premium Sound System får du 21 højttalere med en maksimal systemeffekt på 1285 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Maserati Grecale Folgore Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+
 ## Lys
 
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -210,6 +207,7 @@ Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, 
 ## Avancerede førerassistentsystemer
 
 Maserati Grecale Folgore har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -249,12 +247,12 @@ Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 535 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 3110 kg (6856 lbs), og med basisvægten på 2480 kg (5467 lbs), kan du maksimalt laste 630 kg (1389 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
+
 ### Tilgængelighed og priser
 
 <div class="mt-3 mb-3">

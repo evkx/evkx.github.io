@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The MG MG4 Electric Extended Range offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 250 Nm (184 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 7.9 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/charging_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2249"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 MG MG4 Electric Extended Range has a rear-wheel drive system supported by one motor on the rear axle.
-
 
 ### Suspension
 
@@ -69,7 +65,6 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -93,13 +88,11 @@ There is only one roof for this model. As an option, you can order this model wi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
 
 ### Seats
-
 
 
 #### First row seats
@@ -118,7 +111,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/frontseats_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2000"  >}}
-
 
 #### Second-row seat
 
@@ -153,7 +145,6 @@ The MG MG4 Electric Extended Range includes several features to enhance comfort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 
@@ -173,7 +164,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -187,6 +177,7 @@ Furthermore, the MG MG4 Electric Extended Range supports Android Auto and Apple 
 One type of sound system is available for the MG MG4 Electric Extended Range. With the , you get NULL speakers with a max system output of  watts.
 
 The model has 1 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 
@@ -197,6 +188,7 @@ The model has 1 USB-C connections as standard. The model has 1 USB-A connections
 ## Advanced driver assistance systems
 
 The MG MG4 Electric Extended Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -213,7 +205,6 @@ With the   level 2 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

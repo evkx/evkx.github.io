@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Fisker Ocean Ultra i seksjoner. Hvis du vil vent
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Med overboost når Fisker Ocean Ultra en maksimal effekt på 400 kW (544 hk / 536 bhp). Uten overboost leverer den solide 344 kW (468 hk). Maksimalt dreiemoment er på 737 Nm. Denne kraftpluggen kan akselerere fra 0 til 100 km/t på kun 4,2 sekunder og har en topphastighet på 205 km/t, som viser frem dens imponerende ytelse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Fisker Ocean Ultra har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel.
-
 
 ### Hjuloppheng
 
@@ -65,7 +62,6 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsing
 
@@ -93,7 +89,6 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiør
@@ -124,7 +119,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/frontseats_2_st.jpg" title="Fisker Ocean Ultra" width="3000" height="1687"  >}}
-
 
 #### Seter på andre rad
 
@@ -157,7 +151,6 @@ Fisker Ocean Ultra inkluderer flere funksjoner for å forbedre komfort og bekvem
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Fisker Ocean Ultra har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
@@ -173,22 +166,28 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/screens_1_st.jpg" title="Fisker Ocean Ultra" width="1920" height="1080"  >}}
 
-
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Fisker Ocean Ultra. Med Fisker Hypersound 3D får du 16 høyttalere med en maksimal systemeffekt på 500 watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### header.soundsystem
+
+Én type lydsystem er tilgjengelig for Fisker Ocean Ultra. Med Fisker Hypersound 3D får du 16 høyttalere med en maksimal systemeffekt på 500 watt.
+
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 Fisker Ocean Ultra har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -219,7 +218,6 @@ Med Fisker Intelligent Pilot  nivå 2-systemet får du følgende kjøreautomatis
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

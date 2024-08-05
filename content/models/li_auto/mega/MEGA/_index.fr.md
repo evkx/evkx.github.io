@@ -26,7 +26,6 @@ Nous avons séparé notre article Li Auto MEGA en sections. Si vous souhaitez at
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Li Auto MEGA offre des performances solides avec une puissance maximale de 400 kW (544 ch) et un couple total de 542 Nm. Elle peut accélérer de 0 à 100 km/h en 5,5 secondes et atteindre une vitesse maximale de 190 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -48,7 +47,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/charging_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
-
 ### Port de recharge
 
 L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
@@ -60,11 +58,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Li Auto MEGA dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -73,7 +69,6 @@ La suspension avant est [double triangulation](../../../../technology/suspension
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 533 mm et les disques arrière mesurent 457 mm.
-
 
 ### Freinage régénératif
 
@@ -98,7 +93,6 @@ Les vitres du montant B et de l'arrière sont teintées.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Intérieur
@@ -137,7 +131,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/frontseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
-
 #### Siège de deuxième rangée
 
 
@@ -151,7 +144,6 @@ Pour la deuxième rangée, ce modèle dispose de deux sièges capitaine. De plus
 
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/secondrowseats_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
-
 
 #### Sièges de troisième rangée
 
@@ -187,7 +179,6 @@ L'Li Auto MEGA comprend plusieurs fonctionnalités pour améliorer le confort et
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Li Auto MEGA a un seul écran pour le pilote. Le centre du tableau de bord comporte un seul [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) pour les informations sur la voiture et l'infodivertissement. Pour le passager, il y a un écran d'infodivertissement.
@@ -208,11 +199,20 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Li Auto MEGA prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le Li Auto MEGA. Avec le Platinum audio system, vous obtenez 21 haut-parleurs avec une puissance système maximale de 2160 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Li Auto MEGA prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
@@ -225,6 +225,7 @@ Les phares standards utilisent la technologie LED. De plus, les feux arrière st
 Le Li Auto MEGA dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -259,7 +260,6 @@ Ce modèle utilise des caméras, des radars, des LiDAR et des capteurs à ultras
 Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), un [capteurs LiDAR](../../../../technology/sensorsandcameras/lidar/), neuf [caméras](../../../../technology/sensorsandcameras/cameras/) et 12 [ultrasons capteurs](../../../../technology/sensorsandcameras/ultrasonic/) enregistrent tout ce qui se passe dans l'environnement du véhicule.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

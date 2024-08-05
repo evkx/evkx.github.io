@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Aion Hyper GT 710 Supercharged i avsnitt. Om
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Aion Hyper GT 710 Supercharged levererar en solid prestanda med en maximal effekt på 250 kW (340 hk) och ett totalt vridmoment på 430 Nm. Den kan accelerera från 0 till 100 km/h på 4,9 sekunder och når en topphastighet på 257 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -44,7 +43,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 ### Ombordladdare
 
 
-
 ### Laddningsport
 
 Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
@@ -52,11 +50,9 @@ Anslutningstyper varierar mellan olika marknader. Den här modellen använder [*
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Aion Hyper GT 710 Supercharged har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
-
 
 ### Hjulupphängning
 
@@ -66,9 +62,7 @@ Främre fjädring är [MacPherson](../../../../technology/suspension/#macpherson
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
 
-
 ### Regenerativ bromsning
-
 
 
 ## Exteriör
@@ -94,9 +88,7 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -122,7 +114,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/frontseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1875" height="1250"  >}}
-
 
 #### Säten på andra raden
 
@@ -163,7 +154,6 @@ Aion Hyper GT 710 Supercharged inkluderar flera funktioner för att förbättra 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 
@@ -178,12 +168,14 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/screens_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="2500" height="1250"  >}}
 
-
 ## Infotainment
+
+### header.soundsystem
 
 En typ av ljudsystem är tillgänglig för Aion Hyper GT 710 Supercharged. Med  får du 23 högtalare med en maximal systemeffekt på  watt.
 
 Modellen har 1 USB-C-anslutningar som standard.
+
 ## Ljus
 
 
@@ -194,6 +186,7 @@ Modellen har 1 USB-C-anslutningar som standard.
 ## Avancerade förarassistanssystem
 
 Aion Hyper GT 710 Supercharged har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -218,12 +211,12 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastkapaciteten i bagageutrymmet är 500 liter. Med baksätet nedfällt är det 1100 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 60 liter.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
+
 ### Tillgänglighet och pris
 
 Denna modell hade världspremiär 31.12.2022 och leveranserna startade i October 2023.<div class="mt-3 mb-3">

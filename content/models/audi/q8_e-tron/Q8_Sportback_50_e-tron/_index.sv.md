@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Audi Q8 Sportback 50 e-tron i avsnitt. Om du
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Audi Q8 Sportback 50 e-tron levererar en solid prestanda med en maximal effekt på 230 kW (313 hk) och ett totalt vridmoment på 540 Nm. Den kan accelerera från 0 till 100 km/h på 6,8 sekunder och når en topphastighet på 200 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Audi Q8 Sportback 50 e-tron har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/).
-
 
 ### Hjulupphängning
 
@@ -80,11 +77,9 @@ Audi Q8 Sportback 50 e-tron låter användaren välja olika [drivemodes](../../.
 - Auto: Balanserad styrning, adaptiv fjädringshöjd med balanserat gas och adaptiv fjädringsdämpning.
 - Custom: Anpassad styrning, fjädring och gasrespons.
 
-
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 375mm och de bakre skivorna är 350mm.
-
 
 ### Regenerativ bromsning
 
@@ -119,9 +114,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -202,7 +195,6 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 
-
 #### Säten på andra raden
 
 
@@ -237,7 +229,6 @@ Audi Q8 Sportback 50 e-tron inkluderar flera funktioner för att förbättra kom
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Audi Q8 Sportback 50 e-tron har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns två olika [infotainmentskärmar](../../../../technology/userinterface/screens/#infotainment-skärm).
@@ -253,19 +244,30 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Audi Q8 Sportback 50 e-tron Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan välja mellan två ljudsystem på Audi Q8 Sportback 50 e-tron. Med Audi Sound system får du tio högtalare med en maximal systemeffekt på 180 watt. Med Bang & Olufsen Sound System får du 16 högtalare med en maximal systemeffekt på 700 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Audi Q8 Sportback 50 e-tron Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
+
 ## Ljus
 
 Du kan välja mellan tre typer av strålkastare för Audi Q8 Sportback 50 e-tron. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför. Strålkastare baserade på LED Digital Matrix-teknik finns som tillval. Dessutom använder standardbakljusen LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 Audi Q8 Sportback 50 e-tron har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -309,12 +311,12 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastkapaciteten i bagageutrymmet är 660 liter. Med baksätet nedfällt är det 1725 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 3040 kg, och med basvikten på 2370 kg kan du lasta maximalt 670 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1800, och på en obromsad är den 750 kg.
+
 ### Tillgänglighet och pris
 
 Denna modell hade världspremiär 09.11.2022 och leveranserna startade i March 2023. Denna modell är endast tillgänglig i Europa.<div class="mt-3 mb-3">

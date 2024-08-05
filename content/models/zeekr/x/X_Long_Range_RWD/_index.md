@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Zeekr X Long Range RWD offers modest performance with a maximum power of 200 kW (272 hp / 268 bhp) and a total torque of 343 Nm (253 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 5.6 seconds and has a top speed of 180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Zeekr X Long Range RWD has a rear-wheel drive system supported by one motor on the rear axle.
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350mm, and the rear discs are 333mm.
-
 
 ### Regenerative braking
 
@@ -90,9 +86,7 @@ There are two different roof options to select from. As an option, you can order
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -116,7 +110,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/frontseats_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="2000"  >}}
-
 
 #### Second-row seat
 
@@ -154,7 +147,6 @@ The Zeekr X Long Range RWD includes several features to enhance comfort and conv
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 
@@ -169,9 +161,7 @@ A head-up display is a standard system that projects speed and other important d
 
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/screens_1_st.jpg" title="Zeekr X Long Range RWD" width="2280" height="1282"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -182,6 +172,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Zeekr X Long Range RWD. With the Yamaha surround sound system, you get 13 speakers with a max system output of 1040 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the Zeekr X Long Range RWD. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
@@ -194,6 +185,7 @@ You can choose between two types of headlights for the Zeekr X Long Range RWD. T
 The Zeekr X Long Range RWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -224,7 +216,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

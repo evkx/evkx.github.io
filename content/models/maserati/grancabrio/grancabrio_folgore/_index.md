@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Maserati GranCabrio Folgore packs an impressive punch with a maximum power of 410 kW (557 hp / 550 bhp) and a commanding total torque of 820 Nm (605 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.1 seconds, and it reaches a top speed of 220 km/h (137 mph), making it a standout in its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Maserati GranCabrio Folgore features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
@@ -71,11 +68,9 @@ The Maserati GranCabrio Folgore lets the user select different [drive modes](../
 - GT: Balanced steering, normal suspension height with efficient throttle, and comfort suspension damping.
 - Off Road: Balanced steering, max suspension height with balanced throttle and damping.
 
-
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350mm, and the rear discs are 350mm.
-
 
 ### Regenerative braking
 
@@ -108,9 +103,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -136,7 +129,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/frontseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2000"  >}}
-
 
 #### Second-row seat
 
@@ -175,7 +167,6 @@ The Maserati GranCabrio Folgore includes several features to enhance comfort and
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Maserati GranCabrio Folgore has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there are two different [infotainment screens](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -192,9 +183,7 @@ A head-up display is a standard system that projects speed and other important d
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/screens_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1845"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -209,6 +198,7 @@ Furthermore, the Maserati GranCabrio Folgore supports Android Auto and Apple Car
 You can choose between two sound systems on the Maserati GranCabrio Folgore. With the Sonus Faber Premium Sound System, you get 14 speakers with a max system output of 860 watts. With the Sonus Faber High Premium Sound System, you get 21 speakers with a max system output of 1285 watts.
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -219,6 +209,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Advanced driver assistance systems
 
 The Maserati GranCabrio Folgore has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -258,12 +249,12 @@ Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), five
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 151 liters. The maxium weight of the car is 2750 kg (6063 lbs), and with the base weight of 2340 kg (5159 lbs), you can max load 410 kg (904 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
 ### Availability & Pricing
 
 <div class="mt-3 mb-3">

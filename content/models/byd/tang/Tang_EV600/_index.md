@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The BYD Tang EV600 delivers a solid performance with a maximum power of 380 kW (517 hp / 510 bhp) and a total torque of 680 Nm (502 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.6 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 BYD Tang EV600 features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is a standard feature on the BYD Tang EV600. Dynamic steering v
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -98,9 +94,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -126,7 +120,6 @@ The following functionalities are available on the **standard** seat.
 You can choose from 3 different materials/colors for this seat type.
 
 
-
 #### Second-row seat
 
 
@@ -137,7 +130,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="1921" height="1080"  >}}
-
 
 #### Third-row seats
 
@@ -169,7 +161,6 @@ The BYD Tang EV600 includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The BYD Tang EV600 has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -185,9 +176,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/screens_1_st.jpg" title="BYD Tang EV600" width="1920" height="1079"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -198,12 +187,15 @@ With the a standard in-car navigation system, you have all the assistance you ne
 You can choose between two sound systems on the BYD Tang EV600. With the Surroundsystem, you get seven speakers with a max system output of  watts. With the Premium sound system, you get 12 speakers with a max system output of  watts.
 
 The model has 4 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The BYD Tang EV600 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -240,7 +232,6 @@ With the Smart Pilot  level 2 system, you get additional driving automation feat
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

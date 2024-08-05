@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Peugot E-208 offers modest performance with a maximum power of 115 kW (156 hp / 154 bhp) and a total torque of 260 Nm (192 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.1 seconds and has a top speed of 150 km/h (93 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -52,18 +51,15 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Peugot E-208 features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Torsion Beam](../../../../technology/suspension/#torsion-beam). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 170 mm.
 
 ### Brakes
-
 
 
 
@@ -95,7 +91,6 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
@@ -125,7 +120,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/peugot/208/e-208/frontseats_1_st.jpg" title="Peugot E-208" width="3000" height="2250"  >}}
 
-
 #### Second-row seat
 
 
@@ -154,7 +148,6 @@ The Peugot E-208 includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 
@@ -169,9 +162,7 @@ A head-up display is a standard system that projects speed and other important d
 
 {{< sitefiguresized thumb="models/peugot/208/e-208/screens_1_st.jpg" title="Peugot E-208" width="3000" height="2001"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -185,7 +176,6 @@ Furthermore, the Peugot E-208 supports Android Auto and Apple CarPlay. This func
 
 One type of sound system is available for the Peugot E-208. With the , you get NULL speakers with a max system output of  watts.
 
-
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -196,6 +186,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Advanced driver assistance systems
 
 The Peugot E-208 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -217,12 +208,12 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 265 liters. With the rear seat down, it is 1106 liters. The maxium weight of the car is 2025 kg (4464 lbs), and with the base weight of 1520 kg (3351 lbs), you can max load 505 kg (1113 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
 ### Availability & Pricing
 
 This model had a world premiere on 06.07.2023, and deliveries is expected to start in November 2023.<div class="mt-3 mb-3">

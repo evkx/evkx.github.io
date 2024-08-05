@@ -26,7 +26,6 @@ Nous avons séparé notre article Subaru Solterra AWD en sections. Si vous souha
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 L'Subaru Solterra AWD offre des performances modestes avec une puissance maximale de 160 kW (218 ch) et un couple total de 337 Nm. Il accélère de 0 à 100 km/h en 6,9 secondes et atteint une vitesse maximale de 160 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Subaru Solterra AWD dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu.
-
 
 ### Suspension
 
@@ -66,9 +63,7 @@ La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cet
 
 
 
-
 ### Freinage régénératif
-
 
 
 ## Extérieur
@@ -91,13 +86,10 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 
-
 ### Sièges
-
 
 
 #### Sièges de première rangée
@@ -118,7 +110,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/frontseats_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -153,7 +144,6 @@ L'Subaru Solterra AWD comprend plusieurs fonctionnalités pour améliorer le con
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Deux configurations d'écran différentes sont disponibles sur le Subaru Solterra AWD.
@@ -180,14 +170,22 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/screens_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="1687"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Subaru Solterra AWD prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
 
 Vous pouvez choisir entre deux systèmes audio sur le Subaru Solterra AWD. Avec le Toyota, vous obtenez six haut-parleurs avec une puissance système maximale de  watts. Avec le JBL Premium Sound, vous obtenez neuf haut-parleurs avec une puissance système maximale de  watts.
 
-De plus, avec le système de navigation embarqué facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Subaru Solterra AWD prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 4 connexions USB-C en standard.
+
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le Subaru Solterra AWD. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
@@ -198,6 +196,7 @@ Vous pouvez choisir entre deux types de phares pour le Subaru Solterra AWD. Les 
 ## Systèmes avancés d'aide à la conduite
 
 Le Subaru Solterra AWD dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -221,7 +220,6 @@ Avec le système standard, le modèle n'offre aucune automatisation de conduite.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

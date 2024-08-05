@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The SKODA ENYAQ 85x delivers a solid performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 679 Nm (501 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.6 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 SKODA ENYAQ 85x features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is a standard feature on the SKODA ENYAQ 85x. Dynamic steering 
 ### Brakes
 
 The SKODA ENYAQ 85x uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 358mm.
-
 
 ### Regenerative braking
 
@@ -99,9 +95,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -127,7 +121,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85x/frontseats_1_st.jpg" title="SKODA ENYAQ 85x" width="3000" height="2107"  >}}
-
 
 #### Second-row seat
 
@@ -163,7 +156,6 @@ The SKODA ENYAQ 85x includes several features to enhance comfort and convenience
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The SKODA ENYAQ 85x has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -179,9 +171,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85x/screens_1_st.jpg" title="SKODA ENYAQ 85x" width="3000" height="1999"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -196,6 +186,7 @@ Furthermore, the SKODA ENYAQ 85x supports Android Auto and Apple CarPlay. This f
 One type of sound system is available for the SKODA ENYAQ 85x. With the Canton Soundsystem, you get ten speakers with a max system output of 550 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
@@ -208,6 +199,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 The SKODA ENYAQ 85x has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -239,7 +231,6 @@ With the MAX  level 2 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

@@ -26,7 +26,6 @@ Vi har opdelt vores Rivian R1S Dual-Motor AWD SP artikel i sektioner. Hvis du vi
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Rivian R1S Dual-Motor AWD SP leverer en solid præstation med en maksimal effekt på 398 kW (541 hk) og et totalt drejningsmoment på 827 Nm. Den kan accelerere fra 0 til 100 km/t på 4,5 sekunder og når en topfart på 201 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er i [forreste venstre hjørne](../../../../technology
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Rivian R1S Dual-Motor AWD SP har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
-
 
 ### Hjulophæng
 
@@ -65,7 +62,6 @@ Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 343mm, og de bagerste skiver er 328mm.
-
 
 ### Regenerativ bremsning
 
@@ -93,9 +89,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -124,7 +118,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/frontseats_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
-
 
 #### Sæde på anden række
 
@@ -165,7 +158,6 @@ Rivian R1S Dual-Motor AWD SP inkluderer flere funktioner, der forbedrer komfort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Rivian R1S Dual-Motor AWD SP har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
@@ -186,11 +178,16 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for Rivian R1S Dual-Motor AWD SP. Med Rivian Elevation audio system får du 22 højttalere med en maksimal systemeffekt på 1100 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 Modellen har 6 USB-C-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi.
@@ -201,6 +198,7 @@ Standardlygterne bruger LED-teknologi.
 ## Avancerede førerassistentsystemer
 
 Rivian R1S Dual-Motor AWD SP har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -229,7 +227,6 @@ Med Driver+  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

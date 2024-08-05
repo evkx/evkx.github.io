@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Seres 5 4WD Premium packs an impressive punch with a maximum power of 430 kW (585 hp / 577 bhp) and a commanding total torque of 940 Nm (694 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Seres 5 4WD Premium features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -97,13 +93,11 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 You can choose between several interior designs.
 
 ### Seats
-
 
 
 #### First row seats
@@ -126,7 +120,6 @@ You can choose from 5 different materials/colors for this seat type.
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
 
-
 #### Second-row seat
 
 
@@ -143,7 +136,6 @@ There is one climate system available.
 
 - **3-zone climate system:** Supports different temperatures in three zones for the driver, passenger and backseat.
 
-
 ## Comfort features
 
 The Seres 5 4WD Premium includes several features to enhance comfort and convenience:
@@ -154,7 +146,6 @@ The Seres 5 4WD Premium includes several features to enhance comfort and conveni
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -171,9 +162,7 @@ A head-up display is a standard system that projects speed and other important d
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/screens_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -184,12 +173,15 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Seres 5 4WD Premium. With the , you get 11 speakers with a max system output of  watts.
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Seres 5 4WD Premium has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -217,7 +209,6 @@ With the   level 2 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

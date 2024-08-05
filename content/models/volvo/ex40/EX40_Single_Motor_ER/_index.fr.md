@@ -26,7 +26,6 @@ Nous avons séparé notre article Volvo EX40 Single Motor ER en sections. Si vou
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 L'Volvo EX40 Single Motor ER offre des performances modestes avec une puissance maximale de 185 kW (252 ch) et un couple total de 420 Nm. Il accélère de 0 à 100 km/h en 7,3 secondes et atteint une vitesse maximale de 160 km/h, ce qui le rapproche davantage des véhicules à moteur à combustion interne traditionnels.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Volvo EX40 Single Motor ER dispose d'un système de propulsion arrière pris en charge par un moteur sur l'essieu arrière.
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ La suspension  a une hauteur et un amortissement fixes. La garde au sol avec cet
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
-
 
 ### Freinage régénératif
 
@@ -93,9 +89,7 @@ Il existe deux options de toit différentes à choisir. En option, vous pouvez c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -118,7 +112,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/frontseats_1_st.jpg" title="Volvo EX40 Single Motor ER" width="1920" height="1080"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -151,7 +144,6 @@ L'Volvo EX40 Single Motor ER comprend plusieurs fonctionnalités pour améliorer
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le Volvo EX40 Single Motor ER possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments) et dans la console centrale , il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) en haut de la console centrale.
@@ -167,12 +159,14 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/screens_1_st.jpg" title="Volvo EX40 Single Motor ER" width="3000" height="2249"  >}}
 
-
 ## Infodivertissement
+
+### header.soundsystem
 
 Vous pouvez choisir entre deux systèmes audio sur le Volvo EX40 Single Motor ER. Avec le High Performance, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts. Avec le Harman Kardon Premium Sound, vous obtenez 13 haut-parleurs avec une puissance système maximale de 600 watts.
 
 Le modèle dispose de 1 connexions USB-C en standard.
+
 ## Lumières
 
 Vous pouvez choisir entre deux types de phares pour le Volvo EX40 Single Motor ER. Les phares standards utilisent la technologie LED. Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
@@ -185,6 +179,7 @@ Vous pouvez choisir entre deux types de phares pour le Volvo EX40 Single Motor E
 Le Volvo EX40 Single Motor ER dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/effiencyassist/) est un système un standard qui aide les conducteurs à conduire de manière préventive et à économiser de l'énergie.
+
 ### Systèmes de sécurité
 
 
@@ -209,7 +204,6 @@ Avec le système Pilot Assist  niveau 2, vous bénéficiez des fonctionnalités 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

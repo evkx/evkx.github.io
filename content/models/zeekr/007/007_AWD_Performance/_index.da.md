@@ -26,7 +26,6 @@ Vi har opdelt vores Zeekr 007 AWD Performance artikel i sektioner. Hvis du vil v
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Zeekr 007 AWD Performance imponerer med en maksimal effekt på 475 kW (646 hk) og et imponerende samlet drejningsmoment på 710 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 2,84 sekunder og har en topfart på 200 km/h, hvilket gør den til en standout i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Zeekr 007 AWD Performance har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -65,7 +62,6 @@ Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 533mm, og de bagerste skiver er 457mm.
-
 
 ### Regenerativ bremsning
 
@@ -90,7 +86,6 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiør
@@ -124,7 +119,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/frontseats_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
-
 
 #### Sæde på anden række
 
@@ -163,7 +157,6 @@ Zeekr 007 AWD Performance inkluderer flere funktioner, der forbedrer komfort og 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Zeekr 007 AWD Performance har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
@@ -184,19 +177,30 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Zeekr 007 AWD Performance Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for Zeekr 007 AWD Performance. Med Yamaha Sound System får du 21 højttalere med en maksimal systemeffekt på 300 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Zeekr 007 AWD Performance Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 Zeekr 007 AWD Performance har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -223,12 +227,12 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 462 liter. Med bagsædet nede er det 1300 liter. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 32 liter (1,1 CU FT). Bilens maksimale vægt er 2800 kg (6173 lbs), og med basisvægten på 2200 kg (4850 lbs), kan du maksimalt laste 600 kg (1323 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+
 ### Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 27.12.2023, og leveringerne startede i January 2024.<div class="mt-3 mb-3">

@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Polestar 3 Long Range Single Motor en secciones
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Polestar 3 Long Range Single Motor ofrece un rendimiento sólido con una potencia máxima de 220 kW (299 hp) y un par total de 490 Nm. Puede acelerar de 0 a 100 km/h en 7,8 segundos y alcanza una velocidad máxima de 180 km/h, lo que lo hace competitivo en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Polestar 3 Long Range Single Motor tiene un sistema de tracción total sostenido por dos motores, uno en cada eje.
-
 
 ### Suspensión
 
@@ -65,7 +62,6 @@ La suspensión delantera es [doble horquilla](../../../../technology/suspension/
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 400 mm y los discos traseros de 390 mm.
-
 
 ### Frenado regenerativo
 
@@ -90,7 +86,6 @@ Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -124,7 +119,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_single_motor/frontseats_1_st.jpg" title="Polestar 3 Long Range Single Motor" width="3000" height="2249"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -162,7 +156,6 @@ El Polestar 3 Long Range Single Motor incluye varias características para mejor
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Polestar 3 Long Range Single Motor tiene múltiples pantallas integradas. Detrás del volante hay un [grupo de instrumentos digitales](../../../../technology/userinterface/screens/#digital-instruments), y en la consola central , hay una [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) en la parte superior de la consola central.
@@ -178,12 +171,14 @@ Un head-up display es un sistema un estándar que presenta la velocidad y otra i
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_single_motor/screens_1_st.jpg" title="Polestar 3 Long Range Single Motor" width="3000" height="2251"  >}}
 
-
 ## Infoentretenimiento
+
+### header.soundsystem
 
 Puedes elegir entre dos sistemas de sonido en el Polestar 3 Long Range Single Motor. Con el High Performance, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios. Con el Bowers & Wilkins, obtienes 25 parlantes con una salida máxima del sistema de 1610 vatios.
 
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Polestar 3 Long Range Single Motor. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
@@ -196,6 +191,7 @@ Puedes elegir entre dos tipos de faros para el Polestar 3 Long Range Single Moto
 El Polestar 3 Long Range Single Motor tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -220,7 +216,6 @@ Con el sistema Pilot Assist  nivel 2, obtienes las siguientes funciones de autom
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

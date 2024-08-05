@@ -26,7 +26,6 @@ Nous avons séparé notre article HiPhi Y Performance en sections. Si vous souha
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La HiPhi Y Performance offre des performances solides avec une puissance maximale de 371 kW (504 ch) et un couple total de 620 Nm. Elle peut accélérer de 0 à 100 km/h en 4,7 secondes et atteindre une vitesse maximale de 200 km/h, ce qui la rend compétitive dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 HiPhi Y Performance dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -70,9 +67,7 @@ La direction dynamique est une fonctionnalité un standard sur le HiPhi Y Perfor
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
 
-
 ### Freinage régénératif
-
 
 
 ## Extérieur
@@ -96,9 +91,7 @@ Les vitres du montant B et de l'arrière sont teintées.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -125,7 +118,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 - Gray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Siège de deuxième rangée
@@ -162,7 +154,6 @@ L'HiPhi Y Performance comprend plusieurs fonctionnalités pour améliorer le con
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le HiPhi Y Performance possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager.
@@ -184,11 +175,16 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
+
 Vous pouvez choisir entre deux systèmes audio sur le HiPhi Y Performance. Avec le SONIC LINE SYSTEM, vous obtenez 14 haut-parleurs avec une puissance système maximale de 600 watts. Avec le SONIC PRO SYSTEM, vous obtenez 25 haut-parleurs avec une puissance système maximale de 2820 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
 Le modèle dispose de 4 connexions USB-C en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED. De plus, les feux arrière standard utilisent la technologie LED.
@@ -199,6 +195,7 @@ Les phares standards utilisent la technologie LED. De plus, les feux arrière st
 ## Systèmes avancés d'aide à la conduite
 
 Le HiPhi Y Performance dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -232,12 +229,12 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement dans le coffre est de 692 litres. Avec la banquette arrière rabattue, elle est de 1848 litres. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 85 litres (3,0 CU FT).
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 18.04.2023 et les livraisons devraient commencer en March 2024.<div class="mt-3 mb-3">

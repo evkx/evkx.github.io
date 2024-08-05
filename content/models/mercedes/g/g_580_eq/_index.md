@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Mercedes-EQ G 580 EQ packs an impressive punch with a maximum power of 432 kW (587 hp / 579 bhp) and a commanding total torque of 1164 Nm (859 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.7 seconds, and it reaches a top speed of 180 km/h (112 mph), making it a standout in its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Mercedes-EQ G 580 EQ has an all-wheel drive system supported by four motors. One for each wheel. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is a standard feature on the Mercedes-EQ G 580 EQ. Dynamic stee
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 415mm, and the rear discs are 378mm.
-
 
 ### Regenerative braking
 
@@ -104,9 +100,7 @@ There are two different roof options to select from. The standard is just a regu
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -152,7 +146,6 @@ You can choose from 5 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/frontseats_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 
-
 #### Second-row seat
 
 
@@ -175,7 +168,6 @@ Two climate system options are available:
 - **2-zone climate system:** Supports different temperatures for the driver and passenger.
 - **4-zone climate system:** Supports different temperatures for the driver, passenger, and two separate passengers in the back seat
 
-
 ## Comfort features
 
 The Mercedes-EQ G 580 EQ includes several features to enhance comfort and convenience:
@@ -187,7 +179,6 @@ The Mercedes-EQ G 580 EQ includes several features to enhance comfort and conven
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -223,7 +214,6 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -237,6 +227,7 @@ Furthermore, the Mercedes-EQ G 580 EQ supports Android Auto and Apple CarPlay. T
 You can choose between two sound systems on the Mercedes-EQ G 580 EQ. With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get 13 speakers with a max system output of 590 watts.
 
 The model has 4 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -247,6 +238,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Advanced driver assistance systems
 
 The Mercedes-EQ G 580 EQ has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -287,12 +279,12 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 555 liters. With the rear seat down, it is 1990 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 3500 kg (7716 lbs), and with the base weight of 3010 kg (6636 lbs), you can max load 490 kg (1080 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 490kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
 ### Availability & Pricing
 
 <div class="mt-3 mb-3">

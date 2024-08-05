@@ -26,7 +26,6 @@ Vi har opdelt vores Lucid Air Pure artikel i sektioner. Hvis du vil vente med at
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Lucid Air Pure leverer en solid præstation med en maksimal effekt på 320,5 kW (436 hk) og et totalt drejningsmoment på 400 Nm. Den kan accelerere fra 0 til 100 km/t på 4,5 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Lucid Air Pure har et baghjulstræksystem, der understøttes af en motor på bagakslen. Den anvendte motor er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en standard-funktion på Lucid Air Pure. Dynamisk styring va
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 380mm, og de bagerste skiver er 375mm.
-
 
 ### Regenerativ bremsning
 
@@ -98,9 +94,7 @@ Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -122,7 +116,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-
 
 
 #### Sæde på anden række
@@ -161,7 +154,6 @@ Lucid Air Pure inkluderer flere funktioner, der forbedrer komfort og bekvemmelig
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Oven på instrumentbrættet er en delt ramme med tre skærme, og i midterkonsollen er der en fjerde [infotainment-skærm](../../../../technology /brugergrænseflade/skærme/#infotainment-skærm).
@@ -179,14 +171,18 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/screens_1_st.jpg" title="Lucid Air Pure" width="3000" height="2001"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Lucid Air Pure. Med Surreal Sound får du ni højttalere med en maksimal systemeffekt på 300 watt. Med Surreal Sound Pro får du 21 højttalere med en maksimal systemeffekt på 800 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi.
@@ -197,6 +193,7 @@ Standardlygterne bruger LED-teknologi.
 ## Avancerede førerassistentsystemer
 
 Lucid Air Pure har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -223,7 +220,6 @@ Med ADAS  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

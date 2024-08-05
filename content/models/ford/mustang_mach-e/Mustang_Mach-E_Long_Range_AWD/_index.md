@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Ford Mustang Mach-E Long Range AWD delivers a solid performance with a maximum power of 258 kW (351 hp / 346 bhp) and a total torque of 580 Nm (428 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.8 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/charging_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="1736"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left front side](../../../../technology/charging/connectors/#front-side). This location makes it easy to charge stations where you park side into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Ford Mustang Mach-E Long Range AWD features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
@@ -69,7 +65,6 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 457mm, and the rear discs are 432mm.
-
 
 ### Regenerative braking
 
@@ -97,9 +92,7 @@ There are two different roof options to select from. The standard is just a regu
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -125,7 +118,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="1999"  >}}
-
 
 #### Second-row seat
 
@@ -163,7 +155,6 @@ The Ford Mustang Mach-E Long Range AWD includes several features to enhance comf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 
@@ -178,9 +169,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/screens_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="2000"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -195,6 +184,7 @@ Furthermore, the Ford Mustang Mach-E Long Range AWD supports Android Auto and Ap
 One type of sound system is available for the Ford Mustang Mach-E Long Range AWD. With the B&O Sound System, you get ten speakers with a max system output of 560 watts.
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
+
 ## Lights
 
 
@@ -205,6 +195,7 @@ The model has 2 USB-C connections as standard. The model has 2 USB-A connections
 ## Advanced driver assistance systems
 
 The Ford Mustang Mach-E Long Range AWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -238,7 +229,6 @@ With the Ford BlueCruise  level 2 system, you get the following driving automati
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

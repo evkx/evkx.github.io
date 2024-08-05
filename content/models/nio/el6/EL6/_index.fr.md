@@ -26,7 +26,6 @@ Nous avons séparé notre article Nio EL6 en sections. Si vous souhaitez attendr
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Nio EL6 impressionne avec une puissance maximale de 480 kW (653 ch) et un couple total impressionnant de 850 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,5 secondes, et atteint une vitesse maximale de 200 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
@@ -34,6 +33,7 @@ La Nio EL6 impressionne avec une puissance maximale de 480 kW (653 ch) et un cou
 ## Batterie, autonomie et charge
 
 Nio EL6 propose deux options de batterie avec des spécifications différentes. Vous voyez ci-dessous comment cela affecte l'autonomie et la charge.
+
 ### 100kWh
 
 La batterie haute capacité a une capacité brute de 100 kWh et une capacité nette utilisable de 90 kWh, offrant une réserve de 10 kWh (10,0%) pour la protection de la batterie. Avec une tension nominale de 358 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
@@ -43,6 +43,7 @@ Selon la norme [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../..
 La vitesse de charge DC maximale est de 126kW. Une charge complète de 0 à 100 % prendrait 75 minutes, tandis qu'un scénario plus courant de 10 à 80 % prendrait 41 minutes. Si vous supposez que vous perdez 5 minutes de conduite par arrêt de charge en plus du temps de charge, la zone de charge optimale est comprise entre 1 % et 44 %, ce qui correspond à une vitesse de charge réelle, y compris la perte de temps, de 86kW. Chaque session de charge prendrait 27 minutes et 2 secondes.
 
 Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et en maintenant une vitesse constante de 120 km/h dans des conditions idéales avec une consommation supposée de 28 kWh/100 km, le voyage prendrait environ 10 heures et 34 minutes. Ce trajet nécessiterait deux arrêts de recharge de 1% à 54%, avec un temps de recharge total de 134 minutes.
+
 ### 75kWh
 
 La batterie haute capacité a une capacité brute de 75 kWh et une capacité nette utilisable de 70,5 kWh, offrant une réserve de 4,5 kWh (6,0%) pour la protection de la batterie. Avec une tension nominale de 386 volts, le système est classé comme un système de batterie de 400 volts, conforme aux normes de l'industrie.
@@ -60,6 +61,7 @@ Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA 
 ### Port de recharge
 
 L'emplacement du port de charge est sur le [côté avant droit](../../../../technology/charging/connectors/#front-side). Cet emplacement facilite l'utilisation des bornes de recharge où vous vous garez côté chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
+
 ### Échange de batterie
 
 Ce modèle prend en charge l'échange de batterie. L'échange de batterie signifie que vous pouvez vous rendre à une station d'échange de batterie unique et faire remplacer la batterie par une nouvelle batterie avec 90 % de SOC. L'échange de batterie prend 7 minutes.
@@ -67,11 +69,9 @@ Ce modèle prend en charge l'échange de batterie. L'échange de batterie signif
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Nio EL6 dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisés sont des [Moteurs à induction](../../../../technology/motors/asm/) au niveau de l'essieu avant et des [Moteurs synchrones à aimant permanent](../../../../technology/motors/pmsm/) sur l'essieu arrière.
-
 
 ### Suspension
 
@@ -84,7 +84,6 @@ La direction dynamique est une fonctionnalité un standard sur le Nio EL6. La di
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes).
-
 
 ### Freinage régénératif
 
@@ -114,9 +113,7 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit p
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -147,7 +144,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/nio/el6/el6/frontseats_1_st.jpg" title="Nio EL6" width="2880" height="2316"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -182,7 +178,6 @@ L'Nio EL6 comprend plusieurs fonctionnalités pour améliorer le confort et la c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 
@@ -202,17 +197,24 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le Nio EL6. Avec le Premium sound system, vous obtenez 23 haut-parleurs avec une puissance système maximale de  watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+
 ## Lumières
 
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Nio EL6 dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -250,7 +252,6 @@ Avec le système NIO Pilot Complete Pack  niveau 2, vous bénéficiez de fonctio
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

@@ -26,7 +26,6 @@ Vi har opdelt vores Zeekr X Privilege AWD artikel i sektioner. Hvis du vil vente
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Zeekr X Privilege AWD leverer en solid præstation med en maksimal effekt på 315 kW (428 hk) og et totalt drejningsmoment på 543 Nm. Den kan accelerere fra 0 til 100 km/t på 3,8 sekunder og når en topfart på 180 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre bagside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Zeekr X Privilege AWD har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
-
 
 ### Hjulophæng
 
@@ -65,7 +62,6 @@ Forhjulsophænget er [MacPherson Strut](../../../../technology/suspension/#macph
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 350mm, og de bagerste skiver er 333mm.
-
 
 ### Regenerativ bremsning
 
@@ -90,9 +86,7 @@ Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du b
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -116,7 +110,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/frontseats_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
-
 
 #### Sæde på anden række
 
@@ -154,7 +147,6 @@ Zeekr X Privilege AWD inkluderer flere funktioner, der forbedrer komfort og bekv
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 
@@ -169,14 +161,18 @@ Et head-up display er en standard-system, der viser hastighed og andre vigtige f
 
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/screens_1_st.jpg" title="Zeekr X Privilege AWD" width="2280" height="1282"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
 
 Én type lydsystem er tilgængelig for Zeekr X Privilege AWD. Med Yamaha surround sound system får du 13 højttalere med en maksimal systemeffekt på 1040 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 Modellen har 4 USB-C-forbindelser som standard.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Zeekr X Privilege AWD. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
@@ -189,6 +185,7 @@ Du kan vælge mellem to typer forlygter til Zeekr X Privilege AWD. Standardlygte
 Zeekr X Privilege AWD har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -219,7 +216,6 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

@@ -32,7 +32,6 @@ Denne modellen er erstattet av [Porsche Taycan](/models/porsche/taycan/taycan/).
 
 </div>
 
-
 ## Ytelse
 
 Med overboost når Porsche Taycan (GEN1) en maksimal effekt på 300 kW (408 hk). Uten overboost leverer den 240 kW (326 hk). Maksimalt dreiemoment er 345 Nm. Den kan akselerere fra 0 til 100 km/t på 5,4 sekunder og når en topphastighet på 230 km/t, noe som viser dens solide ytelse.
@@ -42,6 +41,7 @@ Med det valgfrie Performance Battery Plus-batteriet får du andre ytelsestall. M
 ## Batteri, rekkevidde og lading
 
 Porsche Taycan (GEN1) har to batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading.
+
 ### Performance Battery
 
 Høykapasitetsbatteriet har en brutto kapasitet på 79,2 kWh og en netto brukbar kapasitet på 71 kWh, som gir en buffer på 8,2 kWh (10,4%) for batteribeskyttelse. Ved å operere med en nominell spenning på 615 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
@@ -51,6 +51,7 @@ I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../
 Maksimal DC-ladehastighet er 225 kW. En full lading fra 0 - 100 % vil ta 45 minutter, mens et mer vanlig scenario på 10-80 % vil ta 19 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 0% til 67%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 136kW. Hver ladeøkt vil ta 21 minutter og 2 sekunder. Denne effektive ladekapasiteten gjør Porsche Taycan (GEN1) til et praktisk valg for langdistansereiser.
 
 I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 22 kWh/100 km, ville turen ta omtrent 9 timer og 26 minutter. Denne reisen ville kreve to ladestopp fra 0% til 70%, med en total ladetid på 66 minutter.
+
 ### Performance Battery Plus
 
 Høykapasitetsbatteriet har en brutto kapasitet på 93,4 kWh og en netto brukbar kapasitet på 83,7 kWh, som gir en buffer på 9,7 kWh (10,4%) for batteribeskyttelse. Ved å operere med en nominell spenning på 725 volt, kvalifiserer det som et 800-volt batterisystem. Denne høye spenningen er avgjørende for å muliggjøre systemets ladekapasiteter. Dette litium-ion-batteriet bruker [NMC (Nikkel Mangan Kobolt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-manganese-cobalt-oksider-nmc)
@@ -72,11 +73,9 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Porsche Taycan (GEN1) har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren som brukes er [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -91,7 +90,6 @@ Dynamisk styring er standard-funksjonen på Porsche Taycan (GEN1). Dynamisk styr
 ### Bremser
 
 Du kan velge mellom forskjellige bremsesystemer. Opsjonsbremsene standard bruker vanlige [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 360mm, og de bakre skivene er 358mm. Opsjonsbremsene second bruker en [støpejernskive belagt med wolframkarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og produserer nesten ikke bremsestøv. De fremre skivene er 410mm, og de bakre skivene er 365mm.
-
 
 ### Regenerativ bremsing
 
@@ -124,9 +122,7 @@ Det er tre forskjellige takalternativer å velge mellom. Standarden er bare et v
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -180,7 +176,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gen1/frontseats_1_st.jpg" title="Porsche Taycan (GEN1)" width="2048" height="1536"  >}}
 
-
 #### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Porsche Taycan (GEN1).
@@ -215,7 +210,6 @@ Porsche Taycan (GEN1) inkluderer flere funksjoner for å forbedre komfort og bek
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Porsche Taycan (GEN1) har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , er det én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen og én [infotainmentskjerm](../../../../technology/userinterface/screens/#infotainment-screen) nederst på midtkonsollen. For passasjeren er det en valgfri [infotainment-skjerm](../../../../technology/userinterface/screens/#front-passasjer-screen).
@@ -233,22 +227,30 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gen1/screens_1_st.jpg" title="Porsche Taycan (GEN1)" width="3000" height="1870"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Porsche Taycan (GEN1) Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan velge mellom tre lydsystemer på Porsche Taycan (GEN1). Med Porsche Sound system får du ti høyttalere med en maksimal systemeffekt på 150 watt. Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1455 watt.
-
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Porsche Taycan (GEN1) Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 
 ## Lys
 
 Du kan velge mellom to typer frontlykter for Porsche Taycan (GEN1). Standardlyktene bruker LED-teknologi. Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 Porsche Taycan (GEN1) har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -285,7 +287,6 @@ Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

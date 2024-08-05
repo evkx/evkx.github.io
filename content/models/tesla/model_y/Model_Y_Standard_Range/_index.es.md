@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Tesla Model Y Standard Range en secciones. Si d
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Tesla Model Y Standard Range ofrece un rendimiento sólido con una potencia máxima de 255 kW (347 hp) y un par total de 420 Nm. Puede acelerar de 0 a 100 km/h en 6,9 segundos y alcanza una velocidad máxima de 217 km/h, lo que lo hace competitivo en su clase.
@@ -34,6 +33,7 @@ El Tesla Model Y Standard Range ofrece un rendimiento sólido con una potencia m
 ## Batería, autonomía y carga
 
 Tesla Model Y Standard Range tiene cuatro opciones de batería con diferentes especificaciones. A continuación verás cómo esto afecta el alcance y la carga.
+
 ### CATL LFP Europa/China market
 
 La batería de alta capacidad tiene una capacidad bruta de 60 kWh y una capacidad neta utilizable de 55 kWh, proporcionando un buffer de 5 kWh (8,3%) para la protección de la batería. Con un voltaje nominal de 340 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
@@ -43,6 +43,7 @@ Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwi
 La velocidad máxima de carga de CC es 250kW. Una carga completa del 0 al 100 % tardaría 52 minutos, mientras que un escenario más común del 10 al 80 % tardaría 27 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 47%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 89kW. Cada sesión de carga tardaría 17 minutos y 30 segundos.
 
 En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 19,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 55 minutos. Este viaje requeriría dos paradas de carga del 0% al 51%, con un tiempo total de carga de 95 minutos.
+
 ### BYD LFP Europa/China market
 
 La batería de alta capacidad tiene una capacidad bruta de 60 kWh y una capacidad neta utilizable de 55 kWh, proporcionando un buffer de 5 kWh (8,3%) para la protección de la batería. Con un voltaje nominal de 340 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. La batería de iones de litio utiliza [tecnología LFP.](../../../../technology/battery/cellchemistry/#batería-de-fosfato-de-hierro-y-litio-lfp) Esto tiene algunos beneficios y desventajas de las baterías NCA/NCM típicas.
@@ -52,6 +53,7 @@ Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwi
 La velocidad máxima de carga de CC es 250kW. Una carga completa del 0 al 100 % tardaría 37 minutos, mientras que un escenario más común del 10 al 80 % tardaría 18 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 63%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 113kW. Cada sesión de carga tardaría 18 minutos y 28 segundos.
 
 En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 19,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 35 minutos. Este viaje requeriría dos paradas de carga del 0% al 64%, con un tiempo total de carga de 75 minutos.
+
 ### NMC 4850 US Market
 
 La batería de alta capacidad tiene una capacidad bruta de 70 kWh y una capacidad neta utilizable de 68,5 kWh, proporcionando un buffer de 1,5 kWh (2,1%) para la protección de la batería. Con un voltaje nominal de 340 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
@@ -61,6 +63,7 @@ Según el estándar [WLTP](../../../../guides/understandingrange/wltp/) (Worldwi
 La velocidad máxima de carga de CC es 250kW. Una carga completa del 0 al 100 % tardaría 84 minutos, mientras que un escenario más común del 10 al 80 % tardaría 41 minutos. Si supone que pierde 5 minutos conduciendo por cada parada de carga, además del tiempo de carga, el área de carga óptima es del 0% al 36%, lo que da como resultado una velocidad de carga real, incluida la pérdida de tiempo, de 82kW. Cada sesión de carga tardaría 18 minutos y 60 segundos.
 
 En un desafío teórico de 1000 km, comenzando con una batería completa y manteniendo una velocidad constante de 120 km/h en condiciones ideales con un consumo asumido de 19,5 kWh/100 km, el viaje tomaría aproximadamente 9 horas y 52 minutos. Este viaje requeriría dos paradas de carga del 0% al 37%, con un tiempo total de carga de 93 minutos.
+
 ### NMC 21700 US Market Software locked
 
 La batería de alta capacidad tiene una capacidad bruta de 70 kWh y una capacidad neta utilizable de 68,5 kWh, proporcionando un buffer de 1,5 kWh (2,1%) para la protección de la batería. Con un voltaje nominal de 340 voltios, el sistema se clasifica como un sistema de batería de 400 voltios, alineándose con los estándares de la industria. Esta batería de iones de litio utiliza tecnología [NMC (Níquel Manganeso Cobalto).](../../../../technology/battery/cellchemistry/#óxidos-de-litio-níquel-manganeso-y-cobalto-nmc)
@@ -82,11 +85,9 @@ La ubicación del puerto de carga está en la [esquina trasera izquierda](../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Tesla Model Y Standard Range tiene un sistema de tracción trasera sostenido por un motor en el eje trasero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -99,7 +100,6 @@ La dirección dinámica es una característica un estándar en el Tesla Model Y 
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 355 mm y los discos traseros de 355 mm.
-
 
 ### Frenado regenerativo
 
@@ -132,9 +132,7 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -159,7 +157,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/frontseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
-
 #### Asiento de segunda fila
 
 
@@ -169,7 +166,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 60:4
 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/secondrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
-
 
 #### Asientos de tercera fila
 
@@ -206,7 +202,6 @@ El Tesla Model Y Standard Range incluye varias características para mejorar la 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Tesla Model Y Standard Range tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil.
@@ -221,20 +216,26 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/screens_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="1800"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.soundsystem
 
 Un tipo de sistema de sonido está disponible para el Tesla Model Y Standard Range. Con el Tesla Premium Sound, obtienes 13 parlantes con una salida máxima del sistema de 560 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
-
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Tesla Model Y Standard Range tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -282,12 +283,12 @@ Utiliza ocho [cámaras](../../../../technology/sensorsandcameras/cameras/) para 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 854 litros. Con el asiento trasero abatido, es de 2158 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 117 litros (4,1 CU FT). El peso máximo del automóvil es 2720 kg (5997 lbs), y con el peso base de 2135 kg (4707 lbs), puedes cargar como máximo 585 kg (1290 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Una barra de remolque es equipo estándar en este modelo. El peso total máximo en un remolque con freno es 1600, y sin freno, es 750 kg (3527/1653 lbs).
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 19.03.2019 y las entregas comenzaron en March 2020.<div class="mt-3 mb-3">

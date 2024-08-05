@@ -26,7 +26,6 @@ Vi har opdelt vores Rivian R1S Performance Dual-Motor AWD LP artikel i sektioner
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Rivian R1S Performance Dual-Motor AWD LP imponerer med en maksimal effekt på 489 kW (665 hk) og et imponerende samlet drejningsmoment på 1123 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3,6 sekunder og har en topfart på 201 km/h, hvilket gør den til en standout i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordlader understøtter op til 11,5 kW til Level 1 og Level 2 AC-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/charging_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="2880" height="1920"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er i [forreste venstre hjørne](../../../../technology/charging/connectors/#front-corner). Denne placering gør det nemt at bruge ladestationer, hvor du skal parkere med fronten ind. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
@@ -56,11 +54,9 @@ Placeringen af ladeporten er i [forreste venstre hjørne](../../../../technology
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Rivian R1S Performance Dual-Motor AWD LP har et firehjulstræk, der understøttes af to motorer, en på hver aksel.
-
 
 ### Hjulophæng
 
@@ -69,7 +65,6 @@ Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 343mm, og de bagerste skiver er 328mm.
-
 
 ### Regenerativ bremsning
 
@@ -97,9 +92,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -123,7 +116,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Green [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Blue [læderbetræk](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Sæde på anden række
@@ -165,7 +157,6 @@ Rivian R1S Performance Dual-Motor AWD LP inkluderer flere funktioner, der forbed
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Rivian R1S Performance Dual-Motor AWD LP har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
@@ -186,17 +177,24 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for Rivian R1S Performance Dual-Motor AWD LP. Med Rivian Elevation audio system får du 22 højttalere med en maksimal systemeffekt på 1100 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 Modellen har 6 USB-C-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 Rivian R1S Performance Dual-Motor AWD LP har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -225,7 +223,6 @@ Med Driver+  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

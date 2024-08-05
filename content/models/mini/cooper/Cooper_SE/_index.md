@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Mini Cooper SE offers modest performance with a maximum power of 160 kW (218 hp / 215 bhp) and a total torque of 330 Nm (244 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.7 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -50,11 +49,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Mini Cooper SE has a front-wheel drive system supported by one motor on the front axle.
-
 
 ### Suspension
 
@@ -64,9 +61,7 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 
 
 
-
 ### Regenerative braking
-
 
 
 ## Exterior
@@ -94,9 +89,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -121,7 +114,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/frontseats_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
-
 #### Second-row seat
 
 
@@ -141,7 +133,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 
-
 ## Comfort features
 
 The Mini Cooper SE includes several features to enhance comfort and convenience:
@@ -152,7 +143,6 @@ The Mini Cooper SE includes several features to enhance comfort and convenience:
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -167,14 +157,11 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/screens_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
-
 ## Infotainment
-
 
 ### Sound system
 
 One type of sound system is available for the Mini Cooper SE. With the , you get NULL speakers with a max system output of  watts.
-
 
 ## Lights
 
@@ -186,6 +173,7 @@ The standard headlights use LED technology. In addition, the standard taillights
 ## Advanced driver assistance systems
 
 The Mini Cooper SE has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -203,12 +191,12 @@ With the standard system the model offers no driving automation.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 200 liters. With the rear seat down, it is 800 liters.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
 ### Availability & Pricing
 
 <div class="mt-3 mb-3">

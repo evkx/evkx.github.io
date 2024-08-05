@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Lotus Emeya S en secciones. Si desea esperar pa
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Lotus Emeya S impresiona con una potencia máxima de 450 kW (612 hp) y un impresionante par total de 710 Nm. Esta máquina de alto rendimiento puede acelerar de 0 a 100 km/h en solo 4,2 segundos y alcanza una velocidad máxima de 250 km/h, destacándose en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado frontal izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Lotus Emeya S tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -69,7 +66,6 @@ La dirección dinámica es una característica un estándar en el Lotus Emeya S.
 ### Frenos
 
 Puedes elegir entre diferentes sistemas de frenos. Los frenos de opción standard utilizan un [disco de hierro fundido recubierto con carburo de tungsteno](../../../../technology/brakes/#carbid -frenos). No se oxida y apenas produce polvo de freno. Los discos delanteros son de 412 mm y los discos traseros de 397 mm. Los frenos de opción second utilizan [discos cerámicos](../../../../technology/brakes/#ceramic-brakes). Los discos delanteros son de 412 mm y los discos traseros de 397 mm.
-
 
 ### Frenado regenerativo
 
@@ -100,7 +96,6 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -135,7 +130,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/frontseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
-
 
 #### Asientos de la segunda fila
 
@@ -176,7 +170,6 @@ El Lotus Emeya S incluye varias características para mejorar la comodidad y con
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 
@@ -196,17 +189,28 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Lotus Emeya S es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre dos sistemas de sonido en el Lotus Emeya S. Con el KEF Premium Audio system, obtienes 15 parlantes con una salida máxima del sistema de 1380 vatios. Con el KEF Reference Audio system, obtienes 23 parlantes con una salida máxima del sistema de 2160 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Lotus Emeya S es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Además, las luces traseras estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Lotus Emeya S tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -245,12 +249,12 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 509 litros. Con el asiento trasero abatido, es de 1532 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 46 litros (1,6 CU FT). El peso máximo del automóvil es 3100 kg (6834 lbs), y con el peso base de 2475 kg (5456 lbs), puedes cargar como máximo 625 kg (1378 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1225, y sin freno, es de 750 kg (2701/1653 lbs).
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 12.10.2023 y se espera que las entregas comiencen en March 2024.<div class="mt-3 mb-3">

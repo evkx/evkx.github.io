@@ -26,7 +26,6 @@ Nous avons séparé notre article YangWang U9 en sections. Si vous souhaitez att
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La YangWang U9 délivre une puissance maximale impressionnante de 960 kW (1305 ch) et un couple massif de 1680 Nm. Ce bolide peut passer de 0 à 100 km/h en seulement 2,36 secondes, démontrant ainsi son accélération étonnante. De plus, il atteint une vitesse maximale de 309 km/h, faisant de lui un véritable chef-d'œuvre d'ingénierie et de performance.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté arrière gauche](../../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 YangWang U9 dispose d'un système de transmission intégrale pris en charge par quatre moteurs. Un pour chaque roue. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -76,11 +73,9 @@ Le YangWang U9 permet à l'utilisateur de sélectionner différents [modes de co
 - Track : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
 - Drift : direction dynamique, suspension basse avec accélérateur et suspension dynamiques.
 
-
 ### Freins
 
 Les freins arrière et avant sont des [disques en céramique](../../../../technology/brakes/#ceramic-brakes). Les disques avant mesurent 390 mm et les disques arrière mesurent 390 mm.
-
 
 ### Freinage régénératif
 
@@ -109,13 +104,10 @@ Il n'y a qu'un seul toit pour ce modèle.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
 
 
-
 ### Sièges
-
 
 
 #### Sièges de première rangée
@@ -153,7 +145,6 @@ L'YangWang U9 comprend plusieurs fonctionnalités pour améliorer le confort et 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Le YangWang U9 possède plusieurs écrans intégrés. Derrière le volant se trouve un [groupe d'instruments numériques](../../../../technology/userinterface/screens/#digital-instruments). De plus, il y a un [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen) dans la console centrale et un [écran d'infodivertissement](../../../../technology/userinterface/screens/#front-passenger-screen) devant le siège passager.
@@ -170,13 +161,19 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/yangwang/u9/u9/screens_1_st.jpg" title="YangWang U9" width="1200" height="717"  >}}
 
-
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le YangWang U9 prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Un type de système audio est disponible pour le YangWang U9. Avec le Rimac Nevera Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de 1200 watts.
-
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le YangWang U9 prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 
 ## Lumières
 
@@ -188,6 +185,7 @@ Les phares standards utilisent la technologie LED. De plus, les feux arrière st
 ## Systèmes avancés d'aide à la conduite
 
 Le YangWang U9 dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -208,12 +206,12 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement du coffre est de 200 litres. Le poids maximum de la voiture est de 2625 kg (5787 lbs), et avec le poids de base de 2475 kg (5456 lbs), vous pouvez charger au maximum 150 kg (331 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 01.04.2023 et les livraisons devraient commencer en January 2025.<div class="mt-3 mb-3">

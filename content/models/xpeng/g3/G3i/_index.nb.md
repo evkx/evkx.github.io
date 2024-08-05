@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av XPENG G3i i seksjoner. Hvis du vil vente med å 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 XPENG G3i tilbyr beskjedne ytelser med en maksimal effekt på 145 kW (197 hk) og et totalt dreiemoment på 300 Nm. Den akselererer fra 0 til 100 km/t på 8,6 sekunder og har en toppfart på 170 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
@@ -52,11 +51,9 @@ Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 XPENG G3i har et forhjulsdriftssystem støttet av én motor på forakselen.
-
 
 ### Hjuloppheng
 
@@ -66,9 +63,7 @@ XPENG G3i har et forhjulsdriftssystem støttet av én motor på forakselen.
 
 
 
-
 ### Regenerativ bremsing
-
 
 
 ## Eksteriør
@@ -93,9 +88,7 @@ Det er bare ett tak for denne modellen.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -114,7 +107,6 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-
 
 
 #### Seter på andre rad
@@ -145,7 +137,6 @@ XPENG G3i inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 XPENG G3i har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
@@ -162,15 +153,20 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
+### header.soundsystem
+
 Én type lydsystem er tilgjengelig for XPENG G3i. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
 
 Modellen har 4 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 XPENG G3i har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -190,7 +186,6 @@ Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

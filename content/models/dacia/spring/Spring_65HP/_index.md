@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Dacia Spring 65HP kWh provides basic performance with a maximum power of 48 kW (65 hp / 64 bhp) and a total torque of 113 Nm (83 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 13.7 seconds and reaches a top speed of 125 km/h (78 mph), which is more comparable to entry-level traditional internal combustion engine vehicles.
@@ -46,7 +45,6 @@ The  onboard charger supports up to 7 kW for Level 1 and Level 2 AC charging. Th
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/charging_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1702"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [front](../../../../technology/charging/connectors/#front). This location makes it easy to use charge stations where you need to park with the front in. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -54,18 +52,15 @@ The location of the charge port is on the [front](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Dacia Spring 65HP has a front-wheel drive system supported by one motor on the front axle.
-
 
 ### Suspension
 
 The front suspension is [MacPherson Strut](../../../../technology/suspension/#macpherson-strut), and the rear suspension is [Multilink](../../../../technology/suspension/#multilink). The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 150 mm.
 
 ### Brakes
-
 
 
 
@@ -95,9 +90,7 @@ There is only one roof for this model.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -118,7 +111,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/frontseats_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
-
 
 #### Second-row seat
 
@@ -153,7 +145,6 @@ The Dacia Spring 65HP includes several features to enhance comfort and convenien
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 
@@ -168,9 +159,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/screens_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -185,6 +174,7 @@ Furthermore, the Dacia Spring 65HP supports Android Auto and Apple CarPlay. This
 One type of sound system is available for the Dacia Spring 65HP. With the , you get NULL speakers with a max system output of  watts.
 
 The model has 2 USB-C connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
@@ -195,6 +185,7 @@ The standard headlights use LED technology. In addition, the standard taillights
 ## Advanced driver assistance systems
 
 The Dacia Spring 65HP has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -213,7 +204,6 @@ With the standard system the model offers no driving automation.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

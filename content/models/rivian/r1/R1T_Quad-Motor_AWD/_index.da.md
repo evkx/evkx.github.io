@@ -26,7 +26,6 @@ Vi har opdelt vores Rivian R1T Quad-Motor AWD artikel i sektioner. Hvis du vil v
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Rivian R1T Quad-Motor AWD leverer en imponerende maksimal effekt på 620 KW (843 hk) og et massivt drejningsmoment på 1231 Nm. Denne kraftpakke kan accelerere fra 0 til 100 km/t på blot 3,1 sekunder, hvilket viser dens fantastiske acceleration. Derudover opnår den en topfart på 201 km/t, hvilket gør den til et sandt ingeniør- og præstationsmæssigt vidunder
@@ -49,7 +48,6 @@ Den standard ombordlader understøtter op til 11,5 kW til Level 1 og Level 2 AC-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/charging_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2048" height="1280"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er i [forreste venstre hjørne](../../../../technology/charging/connectors/#front-corner). Denne placering gør det nemt at bruge ladestationer, hvor du skal parkere med fronten ind. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
@@ -57,11 +55,9 @@ Placeringen af ladeporten er i [forreste venstre hjørne](../../../../technology
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Rivian R1T Quad-Motor AWD har et firehjulstræksystem understøttet af fire motorer. En til hvert hjul.
-
 
 ### Hjulophæng
 
@@ -70,7 +66,6 @@ Forhjulsophænget er [double wishbone](../../../../technology/suspension/#double
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 343mm, og de bagerste skiver er 328mm.
-
 
 ### Regenerativ bremsning
 
@@ -98,9 +93,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -124,7 +117,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Green [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Blue [læderbetræk](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Sæde på anden række
@@ -160,7 +152,6 @@ Rivian R1T Quad-Motor AWD inkluderer flere funktioner, der forbedrer komfort og 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Rivian R1T Quad-Motor AWD har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , der er én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen.
@@ -181,11 +172,16 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for Rivian R1T Quad-Motor AWD. Med Rivian Elevation audio system får du 22 højttalere med en maksimal systemeffekt på 1100 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 Modellen har 8 USB-C-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi.
@@ -196,6 +192,7 @@ Standardlygterne bruger LED-teknologi.
 ## Avancerede førerassistentsystemer
 
 Rivian R1T Quad-Motor AWD har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -224,7 +221,6 @@ Med Driver+  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

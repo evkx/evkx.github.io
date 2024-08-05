@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av BMW iX xDrive50 i avsnitt. Om du vill vänta
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 BMW iX xDrive50 levererar en solid prestanda med en maximal effekt på 385 kW (524 hk) och ett totalt vridmoment på 765 Nm. Den kan accelerera från 0 till 100 km/h på 4,6 sekunder och når en topphastighet på 200 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 BMW iX xDrive50 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorn/motorerna som används är [Synkronmotorer med lindad rotor](../../../../technology/motors/wrsm/).
-
 
 ### Hjulupphängning
 
@@ -67,7 +64,6 @@ Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double
 Dynamisk styrning är standard-funktionen för BMW iX xDrive50. Dynamisk styrning varierar styrförhållandet som en funktion av körhastigheten. Dessutom är bakhjulsstyrning tillgänglig som en standard-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
 
 ### Bromsar
-
 
 
 
@@ -96,9 +92,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -126,7 +120,6 @@ Du kan välja mellan 7 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/frontseat_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1999"  >}}
 
-
 #### Säten på andra raden
 
 
@@ -148,7 +141,6 @@ Två klimatsystemalternativ är tillgängliga:
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 - **4-zons klimatsystem:** Stöder olika temperaturer för föraren, passageraren och två separata passagerare i baksätet.
 
-
 ## Komfortfunktioner
 
 BMW iX xDrive50 inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -160,7 +152,6 @@ BMW iX xDrive50 inkluderar flera funktioner för att förbättra komfort och bek
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Användargränssnitt och kontroll
@@ -178,20 +169,30 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/screens_1_st.jpg" title="BMW iX xDrive50" width="3000" height="2250"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder BMW iX xDrive50 Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan välja mellan två ljudsystem på BMW iX xDrive50. Med Harman Kardon Surround Sound system får du 18 högtalare med en maximal systemeffekt på 655 watt. Med Bowers & Wilkins Diamond surround sound system får du 30 högtalare med en maximal systemeffekt på 1615 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder BMW iX xDrive50 Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 6 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för BMW iX xDrive50. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix med laserteknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkla ljusstrålen i dussintals mindre strålar som ljusregulatorn kan slå på och av individuellt för att avbryta små ytor framför. Dessutom använder standardbakljusen LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 BMW iX xDrive50 har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -225,7 +226,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du fler körautomatise
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

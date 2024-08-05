@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Tesla Model Y Performance delivers a solid performance with a maximum power of 393 kW (534 hp / 527 bhp) and a total torque of 660 Nm (487 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 3.7 seconds and reaches a top speed of 250 km/h (155 mph), making it competitive within its class.
@@ -52,11 +51,9 @@ The charge port is conveniently located at the [left rear corner](../../../../te
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Tesla Model Y Performance features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is a standard feature on the Tesla Model Y Performance. Dynamic
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 355mm, and the rear discs are 355mm.
-
 
 ### Regenerative braking
 
@@ -102,9 +98,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -129,7 +123,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/frontseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
 
-
 #### Second-row seat
 
 
@@ -139,7 +132,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/secondrowseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
-
 
 #### Third-row seats
 
@@ -176,7 +168,6 @@ The Tesla Model Y Performance includes several features to enhance comfort and c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Tesla Model Y Performance has a single screen for the driver. The dashboard’s center has a single [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) for car information and infotainment.
@@ -191,9 +182,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/screens_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="1800"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -204,12 +193,15 @@ With the a standard in-car navigation system, you have all the assistance you ne
 One type of sound system is available for the Tesla Model Y Performance. With the Tesla Premium Sound, you get 13 speakers with a max system output of 560 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Tesla Model Y Performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -257,12 +249,12 @@ It uses eight [cameras](../../../../technology/sensorsandcameras/cameras/) to re
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 854 liters. With the rear seat down, it is 2158 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 117 liters (4.1 CU FT). The maxium weight of the car is 2720 kg (5997 lbs), and with the base weight of 2135 kg (4707 lbs), you can max load 585 kg (1290 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
+
 ### Availability & Pricing
 
 This model had a world premiere on 19.03.2019, and deliveries started in March 2020.<div class="mt-3 mb-3">

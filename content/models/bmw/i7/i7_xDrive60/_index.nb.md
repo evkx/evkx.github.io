@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av BMW i7 xDrive60 i seksjoner. Hvis du vil vente m
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 BMW i7 xDrive60 imponerer med en imponerende kraft på 400 kW (544 hk) og et betydelig dreiemoment på 745 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,7 sekunder og har en toppfart på 240 km/t, noe som gjør den til en markant modell i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 BMW i7 xDrive60 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Wound-Rotor Synchronous Motors](../../../../technology/motors/wrsm/).
-
 
 ### Hjuloppheng
 
@@ -67,7 +64,6 @@ Hjulopphenget er fullt adaptiv på for- og bakakselen, slik at høyde og demping
 Dynamisk styring er standard-funksjonen på BMW i7 xDrive60. Dynamisk styring varierer styreforholdet som en funksjon av kjørehastigheten. I tillegg er bakhjulsstyring tilgjengelig som standard-funksjon. Bakhjulsstyring reduserer snusirkelen når du kjører sakte.
 
 ### Bremser
-
 
 
 
@@ -98,7 +94,6 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiør
@@ -141,7 +136,6 @@ Du kan velge mellom 15 forskjellige materialer/farger for denne setetypen.
 - Smoke [skinntrekk](../../../../technology/seats/materials/#leather)
 
 
-
 #### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i BMW i7 xDrive60.
@@ -172,7 +166,6 @@ To klimasystemalternativer er tilgjengelige:
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 - **4-soners klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
 
-
 ## Komfortfunksjoner
 
 BMW i7 xDrive60 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
@@ -184,7 +177,6 @@ BMW i7 xDrive60 inkluderer flere funksjoner for å forbedre komfort og bekvemmel
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brukergrensesnitt og kontroll
@@ -202,14 +194,22 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/screens_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter BMW i7 xDrive60 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan velge mellom to lydsystemer på BMW i7 xDrive60. Med Harman Kardon Surround Sound system får du 18 høyttalere med en maksimal systemeffekt på 655 watt. Med Bowers & Wilkins Diamond surround sound system får du 30 høyttalere med en maksimal systemeffekt på 1615 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter BMW i7 xDrive60 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 6 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Du kan velge mellom to typer frontlykter for BMW i7 xDrive60. Standardlyktene bruker LED-teknologi. Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
@@ -220,6 +220,7 @@ Du kan velge mellom to typer frontlykter for BMW i7 xDrive60. Standardlyktene br
 ## Avanserte førerassistentsystemer
 
 BMW i7 xDrive60 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -253,7 +254,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du flere kjøreautomat
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

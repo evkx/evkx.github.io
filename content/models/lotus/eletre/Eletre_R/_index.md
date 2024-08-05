@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Lotus Eletre R delivers a jaw-dropping maximum power of 675 KW (918 hp/905 bhp) and a massive total torque of 985 Nm (727 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.9 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 265 km/h (165 mph), making it a true marvel of engineering and performance.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Lotus Eletre R features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is a standard feature on the Lotus Eletre R. Dynamic steering v
 ### Brakes
 
 You can choose between different brake systems. The standard option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 412mm, and the rear discs are 397mm. The second option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 412mm, and the rear discs are 397mm.
-
 
 ### Regenerative braking
 
@@ -99,7 +95,6 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -134,7 +129,6 @@ You can choose from 5 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/frontseats_1_st.jpg" title="Lotus Eletre R" width="3000" height="1783"  >}}
-
 
 #### Second-row seat
 
@@ -172,7 +166,6 @@ The Lotus Eletre R includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 
@@ -192,7 +185,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -206,6 +198,7 @@ Furthermore, the Lotus Eletre R supports Android Auto and Apple CarPlay. This fu
 You can choose between two sound systems on the Lotus Eletre R. With the KEF Premium Audio system, you get 15 speakers with a max system output of 1380 watts. With the KEF Reference Audio system, you get 23 speakers with a max system output of 2160 watts.
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -216,6 +209,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 ## Advanced driver assistance systems
 
 The Lotus Eletre R has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -256,7 +250,6 @@ This model uses cameras, LiDAR, and ultrasonic sensors for the driver assist sys
 Up to four [LiDAR sensors](../../../../technology/sensorsandcameras/lidar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

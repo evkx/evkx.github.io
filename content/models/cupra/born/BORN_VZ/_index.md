@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The CUPRA BORN VZ delivers a solid performance with a maximum power of 240 kW (326 hp / 322 bhp) and a total torque of 545 Nm (402 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and reaches a top speed of 200 km/h (124 mph), making it competitive within its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 CUPRA BORN VZ has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Induction Motors](../../../../technology/motors/asm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is an optional feature on the CUPRA BORN VZ. Dynamic steering v
 ### Brakes
 
 The CUPRA BORN VZ uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 330mm.
-
 
 ### Regenerative braking
 
@@ -100,9 +96,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -128,7 +122,6 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/cupra/born/born_vz/frontseats_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="2191"  >}}
-
 
 #### Second-row seat
 
@@ -160,7 +153,6 @@ The CUPRA BORN VZ includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The CUPRA BORN VZ has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -176,9 +168,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/cupra/born/born_vz/screens_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="1717"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -193,14 +183,17 @@ Furthermore, the CUPRA BORN VZ supports Android Auto and Apple CarPlay. This fun
 You can choose between two sound systems on the CUPRA BORN VZ. With the Sound system, you get five speakers with a max system output of 140 watts. With the Beats Audio, you get nine speakers with a max system output of 395 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology.
+
 ## Advanced driver assistance systems
 
 The CUPRA BORN VZ has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -241,12 +234,12 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 385 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0.0 lbs). The maxium weight of the car is 2300 kg (5071 lbs), and with the base weight of 1895 kg (4178 lbs), you can max load 405 kg (893 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
 ### Availability & Pricing
 
 This model had a world premiere on 20.02.2024, and deliveries started in August 2024.<div class="mt-3 mb-3">

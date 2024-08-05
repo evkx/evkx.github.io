@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Mercedes-EQ EQA 350 4MATIC i seksjoner. Hvis du 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Mercedes-EQ EQA 350 4MATIC leverer solid ytelse med en maksimal effekt på 215 kW (292 hk) og et totalt dreiemoment på 520 Nm. Den kan akselerere fra 0 til 100 km/t på 6 sekunder og når en topphastighet på 160 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/charging_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2000"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
@@ -56,14 +54,11 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Mercedes-EQ EQA 350 4MATIC har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
 
-
 ### Hjuloppheng
-
 
 
 ### Styring
@@ -73,7 +68,6 @@ Dynamisk styring er standard-funksjonen på Mercedes-EQ EQA 350 4MATIC. Dynamisk
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsing
 
@@ -101,9 +95,7 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -150,7 +142,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2000"  >}}
 
-
 #### Seter på andre rad
 
 
@@ -168,7 +159,6 @@ To klimasystemalternativer er tilgjengelige:
 - **1-soners klimasystem:** Støtter kun kontroll av én delt sone for hele bilen.
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 
-
 ## Komfortfunksjoner
 
 Mercedes-EQ EQA 350 4MATIC inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
@@ -179,7 +169,6 @@ Mercedes-EQ EQA 350 4MATIC inkluderer flere funksjoner for å forbedre komfort o
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brukergrensesnitt og kontroll
@@ -204,17 +193,28 @@ Denne modellen har også et valgfritt bevegelseskontrollsystem som lar deg kontr
 
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Mercedes-EQ EQA 350 4MATIC Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan velge mellom to lydsystemer på Mercedes-EQ EQA 350 4MATIC. Med Standard får du syv høyttalere med en maksimal systemeffekt på 100 watt. Med Advanced Soundsystem får du ni høyttalere med en maksimal systemeffekt på 225 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Mercedes-EQ EQA 350 4MATIC Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 4 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 Mercedes-EQ EQA 350 4MATIC har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -246,7 +246,6 @@ Med Driver Assistance Package  nivå 1-systemet får du følgende kjøreautomati
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

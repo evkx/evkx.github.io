@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 With overboost, the Audi S6 Avant e-tron reaches a maximum power of 405 kW (551 hp / 543 bhp). Without overboost, it provides a strong 370 kW (503 hp / 496 bhp). The maxium torque is at 855 Nm (631 lb-ft). This powerhouse can accelerate from 0 to 100 km/h (0 to 62 mph) in just 3.9 seconds and reaches a top speed of 240 km/h (149 mph), showcasing its impressive performance.
@@ -48,7 +47,6 @@ The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC cha
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/charging_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2250"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. Additionally, a second port on the [right rear side](../../../../technology/charging/connectors/#front-side) offers greater flexibility for AC charging. The connector types vary between the different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Audi S6 Avant e-tron features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
-
 
 ### Suspension
 
@@ -82,11 +78,9 @@ The Audi S6 Avant e-tron lets the user select different [drive modes](../../../.
 - Balanced: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
 - Individual: Custom-defined steering, suspension, and throttle response.
 
-
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 400mm, and the rear discs are 350mm.
-
 
 ### Regenerative braking
 
@@ -122,7 +116,6 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 The Audi S6 Avant e-tron features a driver-focused interior that enhances the cockpit feel, surrounded by premium materials used in all key areas. It also includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality.
@@ -155,7 +148,6 @@ The following functionalities are available on the **Sport Plus** seat.
 
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/frontseats_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249"  >}}
-
 
 #### Second-row seat
 
@@ -191,7 +183,6 @@ The Audi S6 Avant e-tron includes several features to enhance comfort and conven
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The control interface for this EV model includes an intuitive combination of buttons, stalks, and screens, providing a seamless and user-friendly interaction experience.
@@ -214,7 +205,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -228,6 +218,7 @@ Furthermore, the Audi S6 Avant e-tron supports Android Auto and Apple CarPlay. T
 You can choose between two sound systems on the Audi S6 Avant e-tron. With the Audi Sound System, you get five speakers with a max system output of 200 watts. With the Bang & Olufsen Sound System, you get 20 speakers with a max system output of 830 watts.
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+
 ## Lights
 
 You can choose between two types of headlights for the Audi S6 Avant e-tron. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -240,6 +231,7 @@ You can choose between two types of headlights for the Audi S6 Avant e-tron. The
 The Audi S6 Avant e-tron has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -282,7 +274,6 @@ This model uses cameras, radar, and ultrasonic sensors for the driver assist sys
 Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

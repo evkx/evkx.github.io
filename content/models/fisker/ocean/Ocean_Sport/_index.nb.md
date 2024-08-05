@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Fisker Ocean Sport i seksjoner. Hvis du vil vent
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Med overboost oppnår Fisker Ocean Sport en maksimal effekt på 209 kW (284 hk). Uten overboost leverer den 180 kW (245 hk). Maksimalt dreiemoment er 386 Nm. Den akselererer fra 0 til 100 km/t på 7,9 sekunder og når en toppfart på 188 km/t, og tilbyr ytelse som ligner mer på tradisjonelle forbrenningsmotorbiler.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Fisker Ocean Sport har et forhjulsdriftssystem støttet av én motor på forakselen.
-
 
 ### Hjuloppheng
 
@@ -65,7 +62,6 @@ Hjulopphenget foran er [MacPherson](../../../../technology/suspension/#macpherso
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsing
 
@@ -93,7 +89,6 @@ Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panora
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiør
@@ -126,7 +121,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/frontseats_2_st.jpg" title="Fisker Ocean Sport" width="3000" height="1687"  >}}
 
-
 #### Seter på andre rad
 
 
@@ -158,7 +152,6 @@ Fisker Ocean Sport inkluderer flere funksjoner for å forbedre komfort og bekvem
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Fisker Ocean Sport har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
@@ -174,22 +167,28 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/screens_1_st.jpg" title="Fisker Ocean Sport" width="1920" height="1080"  >}}
 
-
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Fisker Ocean Sport. Med Fisker Hypersound 3D får du 16 høyttalere med en maksimal systemeffekt på 500 watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### header.soundsystem
+
+Én type lydsystem er tilgjengelig for Fisker Ocean Sport. Med Fisker Hypersound 3D får du 16 høyttalere med en maksimal systemeffekt på 500 watt.
+
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 Fisker Ocean Sport har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -220,7 +219,6 @@ Med Fisker Intelligent Pilot  nivå 2-systemet får du følgende kjøreautomatis
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

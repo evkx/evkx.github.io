@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Volvo EM90 offers modest performance with a maximum power of 200 kW (272 hp / 268 bhp) and a total torque of 686 Nm (506 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.3 seconds and has a top speed of 190 km/h (118 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Volvo EM90 has a rear-wheel drive system supported by one motor on the rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 533mm, and the rear discs are 457mm.
-
 
 ### Regenerative braking
 
@@ -93,7 +89,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -128,7 +123,6 @@ You can choose from 5 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/frontseats_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
-
 #### Second-row seat
 
 
@@ -142,7 +136,6 @@ For the second row, this model has two captain chairs. In addition, the followin
 
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/secondrowseats_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
-
 
 #### Third-row seats
 
@@ -174,7 +167,6 @@ The Volvo EM90 includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Volvo EM90 has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -195,7 +187,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -209,6 +200,7 @@ Furthermore, the Volvo EM90 supports Android Auto and Apple CarPlay. This functi
 One type of sound system is available for the Volvo EM90. With the Bowers & Wilkins Sound System, you get 21 speakers with a max system output of 500 watts.
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
@@ -221,6 +213,7 @@ The standard headlights use LED technology. In addition, the standard taillights
 The Volvo EM90 has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -247,12 +240,12 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 376 liters. With the third-row seat down, it is 2979 liters. On the roof, you can load up to 100 kg (220.5 lbs). Under the hood, there is frunk with more storage room. This frunk is 32 liters (1.1 CU FT). The maxium weight of the car is 3400 kg (7496 lbs), and with the base weight of 2763 kg (6091 lbs), you can max load 637 kg (1404 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
 ### Availability & Pricing
 
 This model had a world premiere on 12.11.2023, and deliveries is expected to start in March 2025. This model is only available in China.<div class="mt-3 mb-3">

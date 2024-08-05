@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 With overboost, the Audi RS e-tron GT performance delivers an astonishing maximum power of 680 kW (925 hp / 912 bhp). Even without overboost, it boasts a formidable 610 kW (829 hp / 818 bhp). The maximum torque reaches an incredible 1027 Nm (758 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in a mere 2.5 seconds and achieves a top speed of 250 km/h (155 mph), underscoring its breathtaking performance.
@@ -48,7 +47,6 @@ The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC cha
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/charging_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
-
 ### Charge port
 
 The charge port is conveniently located on the [right front side](../../../../technology/charging/connectors/#front-side), facilitating easy access at charging stations where you park parallel to the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. Additionally, a second port on the [left front side](../../../../technology/charging/connectors/#front-side) offers greater flexibility for AC charging. The connector types vary between the different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The charge port is conveniently located on the [right front side](../../../../te
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Audi RS e-tron GT performance features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -81,7 +77,6 @@ Dynamic steering is a standard feature on the Audi RS e-tron GT performance. Dyn
 ### Brakes
 
 You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 420mm, and the rear discs are 410mm.
-
 
 ### Regenerative braking
 
@@ -119,9 +114,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -200,7 +193,6 @@ The Audi RS e-tron GT performance includes several features to enhance comfort a
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Audi RS e-tron GT performance has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -216,9 +208,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/screens_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -232,7 +222,6 @@ Furthermore, the Audi RS e-tron GT performance supports Android Auto and Apple C
 
 You can choose between two sound systems on the Audi RS e-tron GT performance. With the Audi Sound system, you get ten speakers with a max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 speakers with a max system output of 700 watts.
 
-
 ## Lights
 
 You can choose between three types of headlights for the Audi RS e-tron GT performance. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. Headlights based on LED Matrix with Laser technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -245,6 +234,7 @@ You can choose between three types of headlights for the Audi RS e-tron GT perfo
 The Audi RS e-tron GT performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -283,12 +273,12 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 405 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 85 liters (3.0 CU FT). The maxium weight of the car is 2860 kg (6305 lbs), and with the base weight of 2340 kg (5159 lbs), you can max load 520 kg (1146 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
 ### Availability & Pricing
 
 This model had a world premiere on 18.06.2024, and deliveries started in September 2024.<div class="mt-3 mb-3">

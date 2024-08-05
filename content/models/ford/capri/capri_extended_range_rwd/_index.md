@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Ford Capri Extended Range RWD delivers a solid performance with a maximum power of 210 kW (286 hp / 282 bhp) and a total torque of 545 Nm (402 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 6.4 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/charging_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Ford Capri Extended Range RWD has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -73,7 +69,6 @@ Dynamic steering is an optional feature on the Ford Capri Extended Range RWD. Dy
 ### Brakes
 
 The Ford Capri Extended Range RWD uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 358mm.
-
 
 ### Regenerative braking
 
@@ -104,9 +99,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -135,7 +128,6 @@ The following functionalities are available on the **Ergo** seat.
 
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/frontseats_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
-
 
 #### Second-row seat
 
@@ -168,7 +160,6 @@ The Ford Capri Extended Range RWD includes several features to enhance comfort a
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Ford Capri Extended Range RWD has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -184,9 +175,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/screens_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -201,14 +190,17 @@ Furthermore, the Ford Capri Extended Range RWD supports Android Auto and Apple C
 You can choose between two sound systems on the Ford Capri Extended Range RWD. With the Sound system, you get six speakers with a max system output of 140 watts. With the B&O Soundsystem, you get ten speakers with a max system output of 480 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the Ford Capri Extended Range RWD. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+
 ## Advanced driver assistance systems
 
 The Ford Capri Extended Range RWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -243,7 +235,6 @@ With the Assistantpackage  level 2 system, you get additional driving automation
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

@@ -26,7 +26,6 @@ Nous avons séparé notre article Lotus Emeya S en sections. Si vous souhaitez a
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Lotus Emeya S impressionne avec une puissance maximale de 450 kW (612 ch) et un couple total impressionnant de 710 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 4,2 secondes, et atteint une vitesse maximale de 250 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Lotus Emeya S dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ La direction dynamique est une fonctionnalité un standard sur le Lotus Emeya S.
 ### Freins
 
 Vous pouvez choisir entre différents systèmes de freinage. Les freins de l'option standard utilisent un [disque en fonte recouvert de carbure de tungstène](../../../../technology/brakes/#carbid-freins). Il ne rouille pas et ne produit pratiquement pas de poussière de frein. Les disques avant mesurent 412 mm et les disques arrière mesurent 397 mm. Les freins de l'option second utilisent des [disques en céramique](../../../../technology/brakes/#ceramic-brakes). Les disques avant mesurent 412 mm et les disques arrière mesurent 397 mm.
-
 
 ### Freinage régénératif
 
@@ -100,7 +96,6 @@ De plus, vous pouvez commander la voiture avec des vitres teintées à partir du
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Intérieur
@@ -135,7 +130,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/frontseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
-
 
 #### Sièges de deuxième rangée
 
@@ -176,7 +170,6 @@ L'Lotus Emeya S comprend plusieurs fonctionnalités pour améliorer le confort e
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 
@@ -196,17 +189,28 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Lotus Emeya S prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Vous pouvez choisir entre deux systèmes audio sur le Lotus Emeya S. Avec le KEF Premium Audio system, vous obtenez 15 haut-parleurs avec une puissance système maximale de 1380 watts. Avec le KEF Reference Audio system, vous obtenez 23 haut-parleurs avec une puissance système maximale de 2160 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Lotus Emeya S prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+
 ## Lumières
 
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Lotus Emeya S dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -245,12 +249,12 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement dans le coffre est de 509 litres. Avec la banquette arrière rabattue, elle est de 1532 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 46 litres (1,6 CU FT). Le poids maximum de la voiture est de 3100 kg (6834 lbs), et avec le poids de base de 2475 kg (5456 lbs), vous pouvez charger au maximum 625 kg (1378 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1225, et sur une remorque non freinée, il est de 750 kg (2701/1653 lbs).
+
 ### Disponibilité et prix
 
 Ce modèle a été présenté en première mondiale le 12.10.2023 et les livraisons devraient commencer en March 2024.<div class="mt-3 mb-3">

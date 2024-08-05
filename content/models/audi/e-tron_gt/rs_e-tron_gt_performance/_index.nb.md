@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Audi RS e-tron GT performance i seksjoner. Hvis 
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Med overboost leverer Audi RS e-tron GT performance en forbløffende maksimal effekt på 680 kW (925 hk). Selv uten overboost har den en formidabel effekt på 610 kW (829 hk). Maksimalt dreiemoment når utrolige 1027 Nm. Denne kraftpakken kan akselerere fra 0 til 100 km/t på bare 2,5 sekunder og oppnår en toppfart på 250 km/t, noe som understreker dens imponerende ytelse.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/charging_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du parkerer siden inn i laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder. En andre port er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne ekstra porten gir deg flere parkeringsmuligheter for AC-lading. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**J1772**](../../../../technology/charging/connectors/#j1772) for Nord-Amerika og for Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Se fullstendige spesifikasjoner for alle markeder.
@@ -56,11 +54,9 @@ Plasseringen av ladeporten er på [høyre frontside](../../../../technology/char
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Audi RS e-tron GT performance har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -81,7 +77,6 @@ Dynamisk styring er standard-funksjonen på Audi RS e-tron GT performance. Dynam
 ### Bremser
 
 Du kan velge mellom forskjellige bremsesystemer. Opsjonsbremsene standard bruker vanlige [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 360mm, og de bakre skivene er 358mm. Opsjonsbremsene second bruker en [støpejernskive belagt med wolframkarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og produserer nesten ikke bremsestøv. De fremre skivene er 410mm, og de bakre skivene er 365mm. Bremsene for third-alternativet bruker [keramiske skiver](../../../../technology/brakes/#ceramic-brakes). De fremre skivene er 420mm, og de bakre skivene er 410mm.
-
 
 ### Regenerativ bremsing
 
@@ -116,9 +111,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -197,7 +190,6 @@ Audi RS e-tron GT performance inkluderer flere funksjoner for å forbedre komfor
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Audi RS e-tron GT performance har flere integrerte skjermer. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midtkonsollen , det er én [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm) øverst på midtkonsollen.
@@ -213,13 +205,19 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/screens_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Audi RS e-tron GT performance Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan velge mellom to lydsystemer på Audi RS e-tron GT performance. Med Audi Sound system får du ti høyttalere med en maksimal systemeffekt på 180 watt. Med Bang & Olufsen Sound System får du 16 høyttalere med en maksimal systemeffekt på 700 watt.
-
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Audi RS e-tron GT performance Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 
 ## Lys
 
@@ -233,6 +231,7 @@ Du kan velge mellom tre typer frontlykter for Audi RS e-tron GT performance. Sta
 Audi RS e-tron GT performance har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er standard-system som hjelper sjåfører med å kjøre forebyggende og spare energi.
+
 ### Sikkerhetssystemer
 
 
@@ -271,12 +270,12 @@ Med Assistantpackage Tour  nivå 2-systemet får du flere kjøreautomatiseringsf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 405 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 85 liter. Maksimumsvekten til bilen er 2860 kg, og med basisvekten på 2340 kg kan du maksimalt laste 520 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 18.06.2024, og leveringene startet i September 2024.<div class="mt-3 mb-3">

@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Toyota bZ4X AWD offers modest performance with a maximum power of 160 kW (218 hp / 215 bhp) and a total torque of 337 Nm (249 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.9 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Toyota bZ4X AWD features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
@@ -66,9 +63,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 
 
-
 ### Regenerative braking
-
 
 
 ## Exterior
@@ -91,13 +86,10 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 
-
 ### Seats
-
 
 
 #### First row seats
@@ -113,7 +105,6 @@ The following functionalities are available on the **standard** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 1 different materials/colors for this seat type.
-
 
 
 #### Second-row seat
@@ -149,7 +140,6 @@ The Toyota bZ4X AWD includes several features to enhance comfort and convenience
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 Two different screen setups are available on the Toyota bZ4X AWD.
@@ -176,9 +166,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/screens_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -193,12 +181,15 @@ Furthermore, the Toyota bZ4X AWD supports Android Auto and Apple CarPlay. This f
 You can choose between two sound systems on the Toyota bZ4X AWD. With the Toyota, you get six speakers with a max system output of  watts. With the JBL Premium Sound, you get nine speakers with a max system output of  watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the Toyota bZ4X AWD. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Toyota bZ4X AWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -222,7 +213,6 @@ With the standard system the model offers no driving automation.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

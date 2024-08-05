@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av GMC Hummer EV Edition 1 Pickup i avsnitt. Om
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 GMC Hummer EV Edition 1 Pickup levererar en häpnadsväckande maximal effekt på 746 KW (1014 hk) och ett massivt vridmoment på 1150 Nm. Denna kraftmaskin kan accelerera från 0 till 100 km/h på bara 3,5 sekunder, vilket visar på dess fantastiska acceleration. Dessutom uppnår den en topphastighet på 170 km/h, vilket gör den till ett verkligt ingenjörsmässigt och prestandamässigt underverk.
@@ -52,18 +51,15 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 GMC Hummer EV Edition 1 Pickup har ett fyrhjulsdriftssystem som stöds av tre motorer. En på framaxeln och två på bakaxeln. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
 Främre fjädring är [dubbelt armben](../../../../technology/suspension/#double-wishbone) och den bakre fjädringen är [Multilink](../../../../technology/suspension/#multilink). Den använder luftfjädring och hydrauliska dämpare. Fjädringen är helt adaptiv på fram- och bakaxeln, så höjd och dämpning kan justeras manuellt och automatiskt. Minsta markfrigång är 257 mm, och maximal är 406 mm. Dessutom är bakhjulsstyrning tillgänglig som en standard-funktion. Bakhjulsstyrning minskar svängcirkeln vid långsam körning.
 
 ### Bromsar
-
 
 
 
@@ -91,9 +87,7 @@ Det finns bara ett tak för denna modell. Standardtaket har 4 separata avtagbara
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -115,7 +109,6 @@ Följande funktioner är tillgängliga på **** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Säten på andra raden
@@ -151,7 +144,6 @@ GMC Hummer EV Edition 1 Pickup inkluderar flera funktioner för att förbättra 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 GMC Hummer EV Edition 1 Pickup har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
@@ -167,20 +159,28 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2001"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder GMC Hummer EV Edition 1 Pickup Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 En typ av ljudsystem är tillgänglig för GMC Hummer EV Edition 1 Pickup. Med Bose Premium Sound System får du 14 högtalare med en maximal systemeffekt på 625 watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder GMC Hummer EV Edition 1 Pickup Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
-## Ljus
 
+## Ljus
 
 ## Avancerade förarassistanssystem
 
 GMC Hummer EV Edition 1 Pickup har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -204,12 +204,12 @@ Med Super Cruise  nivå 2-systemet får du följande körautomatiseringsfunktion
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet och dragkapacitet
 
 Lastkapaciteten för lastbilen är 1039 liter. Bredden på lastflaket är 1272 mm och längden är 1524 mm. Den maximala lastvikten i lastflaket är 614 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 320 liter. Bilens maximala vikt är 4717 kg, och med basvikten på 4103 kg kan du lasta maximalt 614 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 3402, och på en obromsad är den 750 kg.
+
 ### Tillgänglighet och pris
 
 Denna modell hade världspremiär 20.10.2020 och leveranserna startade i December 2021. Denna modell är endast tillgänglig i Nordamerika.<div class="mt-3 mb-3">

@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Hyundai INSTER Long Range en secciones. Si dese
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Hyundai INSTER Long Range kWh ofrece un rendimiento básico con una potencia máxima de 84,5 kW (115 hp) y un par total de 147 Nm. Acelera de 0 a 100 km/h en 10,6 segundos y alcanza una velocidad máxima de 150 km/h, lo que es más comparable a los modelos de entrada de vehículos tradicionales de motor de combustión interna.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [frente](../../../../technology/ch
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Hyundai INSTER Long Range tiene un sistema de tracción delantera sostenido por un motor en el eje delantero. Los motor utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -65,7 +62,6 @@ La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo c
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 254 mm y los discos traseros de 240 mm.
-
 
 ### Frenado regenerativo
 
@@ -95,13 +91,11 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 Puedes elegir entre varios diseños de interiores.
 
 ### Asientos
-
 
 
 #### Asientos de primera fila
@@ -126,7 +120,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/frontseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -170,7 +163,6 @@ El Hyundai INSTER Long Range incluye varias características para mejorar la com
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 
@@ -185,14 +177,22 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/screens_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Hyundai INSTER Long Range es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
 
 Un tipo de sistema de sonido está disponible para el Hyundai INSTER Long Range. Con el Bose Premium Sound System, obtienes siete parlantes con una salida máxima del sistema de  vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Hyundai INSTER Long Range es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
@@ -203,6 +203,7 @@ Los faros estándar utilizan tecnología LED. Además, las luces traseras están
 ## Sistemas avanzados de asistencia al conductor
 
 El Hyundai INSTER Long Range tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -239,7 +240,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

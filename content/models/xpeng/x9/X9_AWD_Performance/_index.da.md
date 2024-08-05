@@ -26,7 +26,6 @@ Vi har opdelt vores XPENG X9 AWD Performance artikel i sektioner. Hvis du vil ve
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 XPENG X9 AWD Performance leverer en solid præstation med en maksimal effekt på 370 kW (503 hk) og et totalt drejningsmoment på 640 Nm. Den kan accelerere fra 0 til 100 km/t på 5,7 sekunder og når en topfart på 200 km/t, hvilket gør den konkurrencedygtig i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 XPENG X9 AWD Performance har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -66,9 +63,7 @@ Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan
 
 
 
-
 ### Regenerativ bremsning
-
 
 
 ## Udvendig
@@ -88,9 +83,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -122,7 +115,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/frontseats_1_st.png" title="XPENG X9 AWD Performance" width="3000" height="1514"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -137,7 +129,6 @@ For anden række har denne model to kaptajnstole. Derudover er følgende funktio
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/secondrowseats_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1687"  >}}
 
-
 #### Sæder på tredje række
 
 
@@ -151,7 +142,6 @@ Der er kun én type rat tilgængelig. -rattet er opvarmet, og du kan styre lydsy
 Der er et tilgængeligt klimasystem.
 
 
-
 ## Komfortfunktioner
 
 XPENG X9 AWD Performance inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
@@ -159,7 +149,6 @@ XPENG X9 AWD Performance inkluderer flere funktioner, der forbedrer komfort og b
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brugergrænseflade og kontrol
@@ -177,18 +166,20 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/screens_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1586"  >}}
 
-
 ## Infotainment
 
-Én type lydsystem er tilgængelig for XPENG X9 AWD Performance. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+### header.soundsystem
 
+Én type lydsystem er tilgængelig for XPENG X9 AWD Performance. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
 
 ## Lys
 
 Standardlygterne bruger LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 XPENG X9 AWD Performance har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -224,7 +215,6 @@ Med XPILOT  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

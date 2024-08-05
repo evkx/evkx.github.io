@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Rimac Nevera delivers a jaw-dropping maximum power of 1400 KW (1904 hp/1877 bhp) and a massive total torque of 2340 Nm (1727 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 1.81 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 412 km/h (256 mph), making it a true marvel of engineering and performance.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Rimac Nevera has an all-wheel drive system supported by four motors. One for each wheel. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -76,11 +73,9 @@ The Rimac Nevera lets the user select different [drive modes](../../../../techno
 - Track: Dynamic steering, low suspension with dynamic throttle and suspension.
 - Drift: Dynamic steering, low suspension with dynamic throttle and suspension.
 
-
 ### Brakes
 
 The rear and front brakes are [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 390mm, and the rear discs are 390mm.
-
 
 ### Regenerative braking
 
@@ -109,13 +104,10 @@ There is only one roof for this model.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 
-
 ### Seats
-
 
 
 #### First row seats
@@ -157,7 +149,6 @@ The Rimac Nevera includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Rimac Nevera has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat.
@@ -174,9 +165,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/screens_1_st.jpg" title="Rimac Nevera" width="3000" height="2000"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -190,7 +179,6 @@ Furthermore, the Rimac Nevera supports Android Auto and Apple CarPlay. This func
 
 One type of sound system is available for the Rimac Nevera. With the Rimac Nevera Sound System, you get eight speakers with a max system output of 1200 watts.
 
-
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
@@ -201,6 +189,7 @@ The standard headlights use LED technology. In addition, the standard taillights
 ## Advanced driver assistance systems
 
 The Rimac Nevera has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -221,12 +210,12 @@ With the   level 2 system, you get the following driving automation features.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 100 liters. The maxium weight of the car is 2550 kg (5622 lbs), and with the base weight of 2300 kg (5071 lbs), you can max load 250 kg (551 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
+
 ### Availability & Pricing
 
 This model had a world premiere on 01.06.2021, and deliveries started in January 2023.<div class="mt-3 mb-3">

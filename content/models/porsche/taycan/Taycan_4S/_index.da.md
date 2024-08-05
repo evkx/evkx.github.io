@@ -26,7 +26,6 @@ Vi har opdelt vores Porsche Taycan 4S artikel i sektioner. Hvis du vil vente med
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Med overboost når Porsche Taycan 4S en maksimal effekt på 390 kW (530 hk). Uden overboost leverer den 320 kW (435 hk). Det maksimale drejningsmoment er 640 Nm. Den kan accelerere fra 0 til 100 km/t på 4 sekunder og når en topfart på 230 km/t, hvilket demonstrerer dens solide præstation.
@@ -36,6 +35,7 @@ Med det valgfrie Performance Battery Plus-batteri får du andre ydeevnenumre. Me
 ## Batteri, rækkevidde og opladning
 
 Porsche Taycan 4S har to batterimuligheder med forskellige specifikationer. Nedenfor kan du se, hvordan dette påvirker rækkevidde og opladning.
+
 ### Performance Battery
 
 Det højkapacitetsbatteri har en bruttokapacitet på 79,2 kWh og en nettoanvendelig kapacitet på 71 kWh, hvilket giver en buffer på 8,2 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 615 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
@@ -45,6 +45,7 @@ Ifølge [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../
 Den maksimale DC-opladningshastighed er 225kW. En fuld opladning fra 0 - 100 % ville tage 45 minutter, mens et mere almindeligt scenarie på 10-80 % ville tage 19 minutter. Hvis du antager, at du mister 5 minutters kørsel pr. ladestop ud over opladningstiden, er det optimale opladningsområde fra 0% til 67%, hvilket resulterer i en faktisk opladningshastighed, inklusive tidstab på 136kW. Hver opladningssession ville tage 21 minutter og 2 sekunder. Denne effektive opladningskapacitet gør Porsche Taycan 4S til et praktisk valg til langdistancerejser.
 
 I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og opretholder en konstant hastighed på 120 km/t under ideelle forhold med et antaget forbrug på 22 kWh/100 km, ville turen tage cirka 9 timer og 26 minutter. Denne rejse ville kræve to opladningsstop fra 0% til 70%, med en samlet opladningstid på 66 minutter
+
 ### Performance Battery Plus
 
 Det højkapacitetsbatteri har en bruttokapacitet på 93,4 kWh og en nettoanvendelig kapacitet på 83,7 kWh, hvilket giver en buffer på 9,7 kWh (3%) til batteribeskyttelse. Med en nominel spænding på 725 volt, kvalificerer det sig som et 800-volt batterisystem. Denne høje spænding er afgørende for at muliggøre systemets opladningsegenskaber. Dette litium-ion-batteri bruger [NMC (Nikkel Mangan Kobalt) teknologi.](../../../../technology/battery/cellchemistry/#lithium-nikkel-mangan-cobalt-oxider-nmc)
@@ -66,11 +67,9 @@ Placeringen af ladeporten er på [højre forside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Porsche Taycan 4S har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -85,7 +84,6 @@ Dynamisk styring er en standard-funktion på Porsche Taycan 4S. Dynamisk styring
 ### Bremser
 
 Du kan vælge mellem forskellige bremsesystemer. Bremserne standard bruger almindelige [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 360mm, og de bagerste skiver er 358mm. Bremserne second bruger en [støbejernsskive belagt med wolframcarbid](../../../../technology/brakes/#carbid-bremser). Den ruster ikke og producerer næsten ikke bremsestøv. De forreste skiver er 410mm, og de bagerste skiver er 365mm.
-
 
 ### Regenerativ bremsning
 
@@ -118,9 +116,7 @@ Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et al
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -174,7 +170,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/frontseats_1_st.jpg" title="Porsche Taycan 4S" width="2048" height="1536"  >}}
 
-
 #### Sæder på anden række
 
 Du kan vælge to sædetyper til anden række i Porsche Taycan 4S.
@@ -209,7 +204,6 @@ Porsche Taycan 4S inkluderer flere funktioner, der forbedrer komfort og bekvemme
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Porsche Taycan 4S har flere integrerede skærme. Bag rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og i midterkonsollen , er der én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-skærm) øverst på midterkonsollen og én [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) i bunden af midterkonsollen. Til passageren er der en valgfri [infotainment-skærm](../../../../technology/userinterface/screens/#front-passager-screen).
@@ -227,22 +221,30 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/screens_1_st.jpg" title="Porsche Taycan 4S" width="3000" height="1870"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Porsche Taycan 4S Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan vælge mellem tre lydsystemer på Porsche Taycan 4S. Med Porsche Sound system får du ti højttalere med en maksimal systemeffekt på 150 watt. Med  BOSE® Surround Sound System får du 14 højttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 højttalere med en maksimal systemeffekt på 1455 watt.
-
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Porsche Taycan 4S Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Porsche Taycan 4S. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 Porsche Taycan 4S har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -279,7 +281,6 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

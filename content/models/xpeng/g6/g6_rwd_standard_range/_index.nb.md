@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av XPENG G6 RWD Standard Range i seksjoner. Hvis du
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 XPENG G6 RWD Standard Range leverer solid ytelse med en maksimal effekt på 218 kW (296 hk) og et totalt dreiemoment på 440 Nm. Den kan akselerere fra 0 til 100 km/t på 5,9 sekunder og når en topphastighet på 202 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 XPENG G6 RWD Standard Range har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -65,7 +62,6 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsing
 
@@ -92,9 +88,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -123,7 +117,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/frontseats_1_st.jpg" title="XPENG G6 RWD Standard Range" width="1920" height="1080"  >}}
-
 
 #### Seter på andre rad
 
@@ -157,7 +150,6 @@ XPENG G6 RWD Standard Range inkluderer flere funksjoner for å forbedre komfort 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 XPENG G6 RWD Standard Range har doble skjermer på en delt ramme montert med braketter på dashbordet. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digital-instruments), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-skjerm).
@@ -178,17 +170,22 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for XPENG G6 RWD Standard Range. Med  får du 18 høyttalere med en maksimal systemeffekt på 1200 watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-Modellen har 4 USB-C-tilkoblinger som standard.
-## Lys
+### header.soundsystem
 
+Én type lydsystem er tilgjengelig for XPENG G6 RWD Standard Range. Med  får du 18 høyttalere med en maksimal systemeffekt på 1200 watt.
+
+Modellen har 4 USB-C-tilkoblinger som standard.
+
+## Lys
 
 ## Avanserte førerassistentsystemer
 
 XPENG G6 RWD Standard Range har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -220,7 +217,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

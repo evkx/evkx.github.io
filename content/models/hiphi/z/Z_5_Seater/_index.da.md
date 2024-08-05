@@ -26,7 +26,6 @@ Vi har opdelt vores HiPhi Z 5 Seater artikel i sektioner. Hvis du vil vente med 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 HiPhi Z 5 Seater imponerer med en maksimal effekt på 494 kW (672 hk) og et imponerende samlet drejningsmoment på 820 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3,8 sekunder og har en topfart på 200 km/h, hvilket gør den til en standout i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/charging_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2032"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Denne model bruger [**GBT**](../../../../technology/charging/connectors/#gbt) til Kina og Europa, hvilket betyder, at du skal bruge en CCS2>GBT-adapter i Europa. Se de fulde specifikationer for alle markeder.
@@ -56,11 +54,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 HiPhi Z 5 Seater har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -74,9 +70,7 @@ Dynamisk styring er en standard-funktion på HiPhi Z 5 Seater. Dynamisk styring 
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
 
-
 ### Regenerativ bremsning
-
 
 
 ## Udvendig
@@ -100,9 +94,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -132,7 +124,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/frontseats_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2256"  >}}
-
 
 #### Sæde på anden række
 
@@ -167,7 +158,6 @@ HiPhi Z 5 Seater inkluderer flere funktioner, der forbedrer komfort og bekvemmel
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 HiPhi Z 5 Seater har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment.
@@ -187,9 +177,12 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for HiPhi Z 5 Seater. Med SONIC PRO SYSTEM får du 23 højttalere med en maksimal systemeffekt på 600 watt.
 
 Modellen har 1 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser. Modellen har 1 USB-A-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
@@ -200,6 +193,7 @@ Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-
 ## Avancerede førerassistentsystemer
 
 HiPhi Z 5 Seater har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -231,7 +225,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

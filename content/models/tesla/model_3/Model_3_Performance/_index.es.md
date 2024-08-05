@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Tesla Model 3 Performance en secciones. Si dese
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Tesla Model 3 Performance ofrece un rendimiento sólido con una potencia máxima de 393 kW (534 hp) y un par total de 660 Nm. Puede acelerar de 0 a 100 km/h en 3,3 segundos y alcanza una velocidad máxima de 261 km/h, lo que lo hace competitivo en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en la [esquina trasera izquierda](../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Tesla Model 3 Performance tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
-
 
 ### Suspensión
 
@@ -69,7 +66,6 @@ La dirección dinámica es una característica un estándar en el Tesla Model 3 
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 355 mm y los discos traseros de 355 mm.
-
 
 ### Frenado regenerativo
 
@@ -101,7 +97,6 @@ Las ventanas del pilar B y la parte trasera están tintadas.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 El interior del Tesla Model 3 Performance es minimalista y cuenta con materiales de alta calidad en varias áreas en lugar de plástico duro. Además, incluye una consola central tradicional que separa al conductor y al pasajero, proporcionando almacenamiento y funcionalidad convenientes. Puedes elegir entre varios diseños de interiores.
@@ -131,7 +126,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/frontseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2250"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -165,7 +159,6 @@ El Tesla Model 3 Performance incluye varias características para mejorar la com
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 El Tesla Model 3 Performance tiene una sola pantalla. El centro del tablero tiene una única [pantalla de infoentretenimiento](../../../../technology/userinterface/screens/#infotainment-screen) para información e infoentretenimiento del automóvil.
@@ -180,14 +173,18 @@ El modelo no tiene head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/screens_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 
-
 ## Infoentretenimiento
+
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.soundsystem
 
 Un tipo de sistema de sonido está disponible para el Tesla Model 3 Performance. Con el Tesla Premium Sound, obtienes 13 parlantes con una salida máxima del sistema de 560 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino.
-
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED.
@@ -198,6 +195,7 @@ Los faros estándar utilizan tecnología LED.
 ## Sistemas avanzados de asistencia al conductor
 
 El Tesla Model 3 Performance tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -245,12 +243,12 @@ Utiliza ocho [cámaras](../../../../technology/sensorsandcameras/cameras/) para 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 561 litros. Con el asiento trasero abatido, es de 1234 litros. En el techo, puedes cargar hasta 70 kg (154,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 88 litros (3,1 CU FT). El peso máximo del automóvil es 2232 kg (4921 lbs), y con el peso base de 1844 kg (4065 lbs), puedes cargar como máximo 388 kg (855 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Una barra de remolque es equipo estándar en este modelo. El peso total máximo en un remolque con freno es 1000, y sin freno, es 750 kg (2205/1653 lbs).
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 23.04.2024 y las entregas comenzaron en May 2024.<div class="mt-3 mb-3">

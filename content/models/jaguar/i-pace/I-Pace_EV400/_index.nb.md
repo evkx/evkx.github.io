@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Jaguar I-Pace EV400 i seksjoner. Hvis du vil ven
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Jaguar I-Pace EV400 leverer solid ytelse med en maksimal effekt på 294 kW (400 hk) og et totalt dreiemoment på 696 Nm. Den kan akselerere fra 0 til 100 km/t på 4,8 sekunder og når en topphastighet på 200 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/charging_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er på [venstre forside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å lade stasjoner der du parkerer siden inn i laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
@@ -56,11 +54,9 @@ Plasseringen av ladeporten er på [venstre forside](../../../../technology/charg
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Jaguar I-Pace EV400 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -70,9 +66,7 @@ Hjulopphenget foran er [dobbel wishbone](../../../../technology/suspension/#doub
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 350mm, og de bakre skivene er 325mm.
 
-
 ### Regenerativ bremsing
-
 
 
 ## Eksteriør
@@ -101,9 +95,7 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -157,7 +149,6 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/frontseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1946"  >}}
 
-
 #### Seter på andre rad
 
 Du kan velge to setetyper for den andre raden i Jaguar I-Pace EV400.
@@ -182,7 +173,6 @@ To klimasystemalternativer er tilgjengelige:
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 - **4-soners klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
 
-
 ## Komfortfunksjoner
 
 Jaguar I-Pace EV400 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
@@ -191,7 +181,6 @@ Jaguar I-Pace EV400 inkluderer flere funksjoner for å forbedre komfort og bekve
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brukergrensesnitt og kontroll
@@ -210,13 +199,19 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/screens_1_st.jpg" title="Jaguar I-Pace EV400" width="2560" height="1632"  >}}
 
-
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Jaguar I-Pace EV400 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan velge mellom to lydsystemer på Jaguar I-Pace EV400. Med Meridian Sound System får du 11 høyttalere med en maksimal systemeffekt på 400 watt. Med Meridian 3D Surround får du 16 høyttalere med en maksimal systemeffekt på 750 watt.
-
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Jaguar I-Pace EV400 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 
 ## Lys
 
@@ -228,6 +223,7 @@ Du kan velge mellom to typer frontlykter for Jaguar I-Pace EV400. Standardlykten
 ## Avanserte førerassistentsystemer
 
 Jaguar I-Pace EV400 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -246,7 +242,6 @@ Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

@@ -32,7 +32,6 @@ Denne model er blevet erstattet af [Volkswagen ID.5 GTX 4MOTION](/models/volkswa
 
 </div>
 
-
 ## Ydeevne
 
 Med overboost når Volkswagen ID.5 GTX 4MOTION (GEN1) en maksimal effekt på 220 kW (299 hk). Uden overboost leverer den 195 kW (265 hk). Det maksimale drejningsmoment er 460 Nm. Den kan accelerere fra 0 til 100 km/t på 6,3 sekunder og når en topfart på 180 km/t, hvilket demonstrerer dens solide præstation.
@@ -58,11 +57,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Volkswagen ID.5 GTX 4MOTION (GEN1) har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/).
-
 
 ### Hjulophæng
 
@@ -77,7 +74,6 @@ Dynamisk styring er en valgfri-funktion på Volkswagen ID.5 GTX 4MOTION (GEN1). 
 ### Bremser
 
 Volkswagen ID.5 GTX 4MOTION (GEN1) bruger [skivebremser](../../../../technology/brakes/#disc-brakes) foran for overlegen bremseevne og varmeafledning, mens [tromlebremser](../../../../technology/brakes/#tromle-brakes) anvendes bagtil for omkostningseffektivitet og holdbarhed. Tromlebremser yder tilstrækkelig ydeevne for baghjulene, kræver mindre vedligeholdelse og integreres problemfrit med køretøjets regenererende bremsesystem. Denne kombination sikrer optimal bremseydelse og omkostningseffektivitet, i tråd med EV'ens overordnede effektivitetsmål. De forreste skiver er 358mm.
-
 
 ### Regenerativ bremsning
 
@@ -107,9 +103,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -147,7 +141,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion_gen1/frontseats_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -183,7 +176,6 @@ Volkswagen ID.5 GTX 4MOTION (GEN1) inkluderer flere funktioner, der forbedrer ko
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 To forskellige skærmopsætninger er tilgængelige på Volkswagen ID.5 GTX 4MOTION (GEN1).
@@ -210,14 +202,22 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion_gen1/screens_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en valgfri navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Volkswagen ID.5 GTX 4MOTION (GEN1) Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Volkswagen ID.5 GTX 4MOTION (GEN1). Med Sound system får du seks højttalere med en maksimal systemeffekt på 140 watt. Med Volkswagen Soundsystem får du seks højttalere med en maksimal systemeffekt på 450 watt.
 
-Derudover får du med valgfrit navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Volkswagen ID.5 GTX 4MOTION (GEN1) Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 4 USB-C-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
@@ -230,6 +230,7 @@ Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, 
 Volkswagen ID.5 GTX 4MOTION (GEN1) har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) er en standard-system, der hjælper chauffører med at køre forebyggende og spare energi.
+
 ### Sikkerhedssystemer
 
 
@@ -264,7 +265,6 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

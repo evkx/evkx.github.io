@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Audi SQ6 e-tron en secciones. Si desea esperar 
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 Con overboost, el Audi SQ6 e-tron alcanza una potencia máxima de 385 kW (524 hp). Sin overboost, entrega 360 kW (490 hp). El par máximo es de 855 Nm. Puede acelerar de 0 a 100 km/h en 4,4 segundos y alcanza una velocidad máxima de 230 km/h, demostrando su sólido rendimiento.
@@ -48,7 +47,6 @@ El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Niv
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/charging_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
-
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados. Hay un segundo puerto en el [lado trasero derecho](../../../../technology/charging/connectors/#lado-delantero). Este puerto adicional te ofrece más opciones de estacionamiento para la carga de CA. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**J1772**](../../../../technology/charging/connectors/#j1772) para Norteamérica y Europa, [**TYPE2**](../../../../technology/charging/connectors/#type-2). Consulte las especificaciones completas para todos los mercados.
@@ -56,11 +54,9 @@ La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Audi SQ6 e-tron tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores de inducción](../../../../technology/motors/asm/) en el eje delantero y [Motores síncronos de imanes permanentes] (../../../../technology/motors/pmsm/) en el eje trasero.
-
 
 ### Suspensión
 
@@ -86,11 +82,9 @@ El Audi SQ6 e-tron permite al usuario seleccionar diferentes [modos de conducci�
 - Balanced: dirección equilibrada, altura de suspensión adaptable con acelerador equilibrado y amortiguación de suspensión adaptativa.
 - Custom: Dirección, suspensión y respuesta del acelerador definidas de forma personalizada.
 
-
 ### Frenos
 
 Los frenos traseros y delanteros son [discos de hierro fundido](../../../../technology/brakes/#disc-brakes). Los discos delanteros son de 375 mm y los discos traseros de 350 mm.
-
 
 ### Frenado regenerativo
 
@@ -127,7 +121,6 @@ Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atr�
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 El Audi SQ6 e-tron cuenta con un interior centrado en el conductor que mejora la sensación de cabina, con materiales de primera calidad en todas las áreas importantes. Además, incluye una consola central tradicional que separa al conductor del pasajero, proporcionando almacenamiento y funcionalidad convenientes.
@@ -160,7 +153,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/frontseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
-
 
 #### Asiento de segunda fila
 
@@ -199,7 +191,6 @@ El Audi SQ6 e-tron incluye varias características para mejorar la comodidad y c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 La interfaz de control de este modelo de vehículo eléctrico incluye una combinación intuitiva de botones, palancas y pantallas, proporcionando una experiencia de uso fluida y amigable.
@@ -222,11 +213,20 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Audi SQ6 e-tron es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre dos sistemas de sonido en el Audi SQ6 e-tron. Con el Audi Sound System, obtienes cinco parlantes con una salida máxima del sistema de 200 vatios. Con el Bang & Olufsen Sound System, obtienes 20 parlantes con una salida máxima del sistema de 830 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Audi SQ6 e-tron es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Audi SQ6 e-tron. Los faros estándar utilizan tecnología LED. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente. Además, las luces traseras estándar utilizan tecnología LED.
@@ -239,6 +239,7 @@ Puedes elegir entre dos tipos de faros para el Audi SQ6 e-tron. Los faros están
 El Audi SQ6 e-tron tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) es un sistema un estándar que ayuda a los conductores a conducir de forma preventiva y ahorrar energía.
+
 ### Sistemas de seguridad
 
 
@@ -281,7 +282,6 @@ Este modelo utiliza cámaras, radar y sensores ultrasónicos para los sistemas d
 Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/), cinco [cámaras](../../../../technology/sensorsandcameras/cameras/), y 12 [sensores ultrasónicos](../../../../technology/sensorsandcameras/ultrasonic/) registran todo lo que sucede en el entorno del vehículo.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

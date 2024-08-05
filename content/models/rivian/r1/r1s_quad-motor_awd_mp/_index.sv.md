@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Rivian R1S Quad-Motor AWD MP i avsnitt. Om d
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Rivian R1S Quad-Motor AWD MP levererar en häpnadsväckande maximal effekt på 764 KW (1039 hk) och ett massivt vridmoment på 1623 Nm. Denna kraftmaskin kan accelerera från 0 till 100 km/h på bara 2,6 sekunder, vilket visar på dess fantastiska acceleration. Dessutom uppnår den en topphastighet på 201 km/h, vilket gör den till ett verkligt ingenjörsmässigt och prestandamässigt underverk.
@@ -53,11 +52,9 @@ Platsen för laddningsporten är i [främre vänstra hörnet](../../../../techno
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Rivian R1S Quad-Motor AWD MP har ett fyrhjulsdriftsystem som stöds av fyra motorer. En för varje hjul.
-
 
 ### Hjulupphängning
 
@@ -77,11 +74,9 @@ Rivian R1S Quad-Motor AWD MP låter användaren välja olika [drivemodes](../../
 - Soft sand: Balanserad styrning, maximal fjädringshöjd med balanserad gaspådrag och bekväm fjädringsdämpning
 - All-Terrain: Balanserad styrning, hög fjädringshöjd med balanserad gas och dämpning.
 
-
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 343mm och de bakre skivorna är 328mm.
-
 
 ### Regenerativ bromsning
 
@@ -113,9 +108,7 @@ B-stolpen och vyerna bak är tonade.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -144,7 +137,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/frontseats_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
-
 
 #### Säten på andra raden
 
@@ -185,7 +177,6 @@ Rivian R1S Quad-Motor AWD MP inkluderar flera funktioner för att förbättra ko
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Rivian R1S Quad-Motor AWD MP har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
@@ -206,11 +197,16 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för Rivian R1S Quad-Motor AWD MP. Med Rivian Premium Audio får du 19 högtalare med en maximal systemeffekt på 960 watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### header.soundsystem
+
+En typ av ljudsystem är tillgänglig för Rivian R1S Quad-Motor AWD MP. Med Rivian Premium Audio får du 19 högtalare med en maximal systemeffekt på 960 watt.
+
 Modellen har 6 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
@@ -221,6 +217,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 ## Avancerade förarassistanssystem
 
 Rivian R1S Quad-Motor AWD MP har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -253,7 +250,6 @@ Denna modell använder kameror, radar och ultraljudssensorer för förarassistan
 Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), 11 [kameror](../../../../technology/sensorsandcameras/cameras/) och 12 [ultraljudssensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerar allt som händer i fordonets miljö.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

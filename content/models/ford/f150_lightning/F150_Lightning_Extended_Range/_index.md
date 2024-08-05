@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Ford F150 Lightning Extended Range packs an impressive punch with a maximum power of 433 kW (589 hp / 581 bhp) and a commanding total torque of 1050 Nm (775 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 4.2 seconds, and it reaches a top speed of 180 km/h (112 mph), making it a standout in its class.
@@ -49,7 +48,6 @@ The  onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/charging_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1506"  >}}
 
-
 ### Charge port
 
 The charge port is conveniently located on the [right front side](../../../../technology/charging/connectors/#front-side), facilitating easy access at charging stations where you park parallel to the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -57,18 +55,15 @@ The charge port is conveniently located on the [right front side](../../../../te
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Ford F150 Lightning Extended Range features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
 The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 226 mm.
 
 ### Brakes
-
 
 
 
@@ -97,7 +92,6 @@ There is only one roof for this model. As an option, you can order this model wi
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -130,7 +124,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}
 
-
 #### Second-row seat
 
 
@@ -145,7 +138,6 @@ There is only one type of steering wheel available.
 There is one climate system available.
 
 
-
 ## Comfort features
 
 The Ford F150 Lightning Extended Range includes several features to enhance comfort and convenience:
@@ -153,7 +145,6 @@ The Ford F150 Lightning Extended Range includes several features to enhance comf
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## User interface and control
@@ -180,9 +171,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/screens_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -196,7 +185,6 @@ Furthermore, the Ford F150 Lightning Extended Range supports Android Auto and Ap
 
 You can choose between three sound systems on the Ford F150 Lightning Extended Range. With the Ford, you get four speakers with a max system output of 80 watts. With the B&O Sound System, you get eight speakers with a max system output of 640 watts. With the B&O Unleashed Sound System, you get 18 speakers with a max system output of 1080 watts.
 
-
 ## Lights
 
 
@@ -207,6 +195,7 @@ You can choose between three sound systems on the Ford F150 Lightning Extended R
 ## Advanced driver assistance systems
 
 The Ford F150 Lightning Extended Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -242,7 +231,6 @@ With the Ford Co-Pilot360™ Active 2.0  level 2 system, you get additional driv
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

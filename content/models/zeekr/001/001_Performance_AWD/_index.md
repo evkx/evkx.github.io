@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Zeekr 001 Performance AWD packs an impressive punch with a maximum power of 400 kW (544 hp / 536 bhp) and a commanding total torque of 686 Nm (506 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.8 seconds, and it reaches a top speed of 200 km/h (124 mph), making it a standout in its class.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/charging_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2250"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Zeekr 001 Performance AWD features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
@@ -69,7 +65,6 @@ The front suspension employs a [double wishbone](../../../../technology/suspensi
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 482mm, and the rear discs are 457mm.
-
 
 ### Regenerative braking
 
@@ -96,7 +91,6 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 There is one seat type you can select in different materials.
@@ -121,7 +115,6 @@ You can choose from 5 different materials/colors for this seat type.
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [leather upholstering](../../../../technology/seats/materials/#leather)
-
 
 
 #### Second-row seat
@@ -157,7 +150,6 @@ The Zeekr 001 Performance AWD includes several features to enhance comfort and c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Zeekr 001 Performance AWD has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -178,7 +170,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -192,6 +183,7 @@ Furthermore, the Zeekr 001 Performance AWD supports Android Auto and Apple CarPl
 One type of sound system is available for the Zeekr 001 Performance AWD. With the Yamaha Sound System, you get eight speakers with a max system output of 200 watts.
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -204,6 +196,7 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 The Zeekr 001 Performance AWD has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -228,7 +221,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

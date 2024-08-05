@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Tesla Model 3 Performance (GEN1) i seksjoner. Hv
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Tesla Model 3 Performance (GEN1) leverer solid ytelse med en maksimal effekt på 377 kW (513 hk) og et totalt dreiemoment på 660 Nm. Den kan akselerere fra 0 til 100 km/t på 3,4 sekunder og når en topphastighet på 261 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -48,7 +47,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/charging_1_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="2000"  >}}
 
-
 ### Ladeport
 
 Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/charging/connectors/#rear-corner). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**NACS**](../../../../technology/charging/connectors/#nacs) for Nord-Amerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se fullstendige spesifikasjoner for alle markeder.
@@ -56,11 +54,9 @@ Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Tesla Model 3 Performance (GEN1) har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
-
 
 ### Hjuloppheng
 
@@ -73,7 +69,6 @@ Dynamisk styring er standard-funksjonen på Tesla Model 3 Performance (GEN1). Dy
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 355mm, og de bakre skivene er 355mm.
-
 
 ### Regenerativ bremsing
 
@@ -105,9 +100,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -132,7 +125,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/frontseats_1_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="2000"  >}}
-
 
 #### Seter på andre rad
 
@@ -169,7 +161,6 @@ Tesla Model 3 Performance (GEN1) inkluderer flere funksjoner for å forbedre kom
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Tesla Model 3 Performance (GEN1) har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment.
@@ -184,20 +175,26 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/screens_2_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="2000"  >}}
 
-
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Tesla Model 3 Performance (GEN1). Med Tesla Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 560 watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### header.soundsystem
+
+Én type lydsystem er tilgjengelig for Tesla Model 3 Performance (GEN1). Med Tesla Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 560 watt.
+
 Modellen har 4 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 Tesla Model 3 Performance (GEN1) har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -245,12 +242,12 @@ Den bruker åtte kameraer til å registrere alt i kjøretøyets miljø.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 561 liter. Med baksetet nede er det 1234 liter. På taket kan du laste opptil 70 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 88 liter. Maksimumsvekten til bilen er 2232 kg, og med basisvekten på 1844 kg kan du maksimalt laste 388 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750 kg.
+
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 01.04.2016, og leveringene startet i July 2017. Denne modellen har nå blitt avviklet.<div class="mt-3 mb-3">

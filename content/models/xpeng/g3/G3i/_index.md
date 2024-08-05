@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The XPENG G3i offers modest performance with a maximum power of 145 kW (197 hp / 194 bhp) and a total torque of 300 Nm (221 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.6 seconds and has a top speed of 170 km/h (106 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -52,11 +51,9 @@ Connector types vary by market: this model uses [**CCS Combo 1**](../../../../te
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 XPENG G3i has a front-wheel drive system supported by one motor on the front axle.
-
 
 ### Suspension
 
@@ -66,9 +63,7 @@ The  suspension has a fixed height and damping. The ground clearance with this s
 
 
 
-
 ### Regenerative braking
-
 
 
 ## Exterior
@@ -93,9 +88,7 @@ There is only one roof for this model.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -114,7 +107,6 @@ The following functionalities are available on the **** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 You can choose from 1 different materials/colors for this seat type.
-
 
 
 #### Second-row seat
@@ -145,7 +137,6 @@ The XPENG G3i includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The XPENG G3i has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -162,18 +153,20 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Sound system
 
 One type of sound system is available for the XPENG G3i. With the , you get NULL speakers with a max system output of  watts.
 
 The model has 4 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The XPENG G3i has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -193,7 +186,6 @@ With the standard system the model offers no driving automation.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

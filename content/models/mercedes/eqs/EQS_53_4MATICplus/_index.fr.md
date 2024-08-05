@@ -26,7 +26,6 @@ Nous avons séparé notre article Mercedes-AMG EQS 53 4MATIC+ en sections. Si vo
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Mercedes-AMG EQS 53 4MATIC+ impressionne avec une puissance maximale de 484 kW (658 ch) et un couple total impressionnant de 858 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 3,8 secondes, et atteint une vitesse maximale de 220 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
@@ -50,7 +49,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 22 kW pour la charge CA 
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/charging_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="2000"  >}}
 
-
 ### Port de recharge
 
 L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
@@ -58,11 +56,9 @@ L'emplacement du port de charge se trouve sur le [côté arrière droit](../../.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Mercedes-AMG EQS 53 4MATIC+ dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -75,7 +71,6 @@ La direction dynamique est une fonctionnalité un standard sur le Mercedes-AMG E
 ### Freins
 
 Vous pouvez choisir entre différents systèmes de freinage. Les freins de l'option standard utilisent des [disques en fonte] standards (../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 415 mm et les disques arrière mesurent 378 mm. Les freins de l'option second utilisent des [disques en céramique](../../../../technology/brakes/#ceramic-brakes). Les disques avant mesurent 440 mm et les disques arrière mesurent 378 mm.
-
 
 ### Freinage régénératif
 
@@ -105,9 +100,7 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -153,7 +146,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/frontseats_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="2000"  >}}
 
-
 #### Sièges de deuxième rangée
 
 Vous pouvez choisir deux types de sièges pour la deuxième rangée dans le Mercedes-AMG EQS 53 4MATIC+.
@@ -179,7 +171,6 @@ Deux options de système de climatisation sont disponibles :
 - **Système de climatisation à 2 zones** : Prend en charge différentes températures pour le conducteur et le passager.
 - **Système de climatisation à 4 zones** : Prend en charge différentes températures dans quatre zones pour le conducteur, le passager et deux passagers séparés sur la banquette arrière.
 
-
 ## Caractéristiques de confort
 
 L'Mercedes-AMG EQS 53 4MATIC+ comprend plusieurs fonctionnalités pour améliorer le confort et la commodité :
@@ -191,7 +182,6 @@ L'Mercedes-AMG EQS 53 4MATIC+ comprend plusieurs fonctionnalités pour améliore
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interface utilisateur et contrôle
@@ -217,17 +207,28 @@ Ce modèle dispose également d'un système de contrôle gestuel en option qui v
 
 ## Infodivertissement
 
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.phonemirroring
+
+De plus, le Mercedes-AMG EQS 53 4MATIC+ prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
+
+### header.soundsystem
+
 Vous pouvez choisir entre deux systèmes audio sur le Mercedes-AMG EQS 53 4MATIC+. Avec le Advanced Soundsystem, vous obtenez neuf haut-parleurs avec une puissance système maximale de 225 watts. Avec le Burmester Surround Soundsystem, vous obtenez 13 haut-parleurs avec une puissance système maximale de 590 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination. De plus, le Mercedes-AMG EQS 53 4MATIC+ prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
-
 Le modèle dispose de 4 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
+
 ## Lumières
 
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant. De plus, les feux arrière standard utilisent la technologie LED.
+
 ## Systèmes avancés d'aide à la conduite
 
 Le Mercedes-AMG EQS 53 4MATIC+ dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -266,7 +267,6 @@ Avec le système DRIVE PILOT  niveau 3, vous bénéficiez de fonctionnalités d'
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

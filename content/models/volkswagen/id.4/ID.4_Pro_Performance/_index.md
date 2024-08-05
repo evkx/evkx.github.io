@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Volkswagen ID.4 Pro Performance offers modest performance with a maximum power of 150 kW (204 hp / 201 bhp) and a total torque of 310 Nm (229 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 8.5 seconds and has a top speed of 160 km/h (99 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_performance/charging_1_st.jpg" title="Volkswagen ID.4 Pro Performance" width="3000" height="1765"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Volkswagen ID.4 Pro Performance has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Induction Motors](../../../../technology/motors/asm/).
-
 
 ### Suspension
 
@@ -75,7 +71,6 @@ Dynamic steering is an optional feature on the Volkswagen ID.4 Pro Performance. 
 ### Brakes
 
 The Volkswagen ID.4 Pro Performance uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 358mm.
-
 
 ### Regenerative braking
 
@@ -106,9 +101,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -149,7 +142,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_performance/frontseats_1_st.jpg" title="Volkswagen ID.4 Pro Performance" width="3000" height="2000"  >}}
 
-
 #### Second-row seat
 
 
@@ -185,7 +177,6 @@ The Volkswagen ID.4 Pro Performance includes several features to enhance comfort
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 Two different screen setups are available on the Volkswagen ID.4 Pro Performance.
@@ -212,9 +203,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_performance/screens_1_st.jpg" title="Volkswagen ID.4 Pro Performance" width="3000" height="2000"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -229,6 +218,7 @@ Furthermore, the Volkswagen ID.4 Pro Performance supports Android Auto and Apple
 You can choose between two sound systems on the Volkswagen ID.4 Pro Performance. With the Sound system, you get six speakers with a max system output of 140 watts. With the Volkswagen Soundsystem, you get six speakers with a max system output of 450 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the Volkswagen ID.4 Pro Performance. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
@@ -241,6 +231,7 @@ You can choose between two types of headlights for the Volkswagen ID.4 Pro Perfo
 The Volkswagen ID.4 Pro Performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -275,7 +266,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

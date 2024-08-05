@@ -26,7 +26,6 @@ Vi har opdelt vores Mercedes-EQ EQB 250 artikel i sektioner. Hvis du vil vente m
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Mercedes-EQ EQB 250 tilbyder beskedne præstationer med en maksimal effekt på 140 kW (190 hk) og et samlet drejningsmoment på 385 Nm. Den accelererer fra 0 til 100 km/t på 8,9 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -52,14 +51,11 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Mercedes-EQ EQB 250 har et forhjulstræksystem understøttet af en motor på forakslen. Den anvendte motor er [induktionsmotorer](../../../../technology/motors/asm/).
 
-
 ### Hjulophæng
-
 
 
 ### Styring
@@ -69,7 +65,6 @@ Dynamisk styring er en standard-funktion på Mercedes-EQ EQB 250. Dynamisk styri
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsning
 
@@ -97,9 +92,7 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -146,7 +139,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/frontseats_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1999"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -170,7 +162,6 @@ To klimaanlægsmuligheder er tilgængelige:
 - **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
-
 ## Komfortfunktioner
 
 Mercedes-EQ EQB 250 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
@@ -181,7 +172,6 @@ Mercedes-EQ EQB 250 inkluderer flere funktioner, der forbedrer komfort og bekvem
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brugergrænseflade og kontrol
@@ -206,17 +196,28 @@ Denne model har også et valgfrit gestuskontrolsystem, der lader dig styre speci
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Mercedes-EQ EQB 250 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan vælge mellem to lydsystemer på Mercedes-EQ EQB 250. Med Standard får du syv højttalere med en maksimal systemeffekt på 100 watt. Med Advanced Soundsystem får du ni højttalere med en maksimal systemeffekt på 225 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Mercedes-EQ EQB 250 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 4 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 Mercedes-EQ EQB 250 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -248,7 +249,6 @@ Med Driver Assistance Package  niveau 1-systemet får du følgende køreautomati
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

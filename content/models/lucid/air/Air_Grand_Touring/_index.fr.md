@@ -26,7 +26,6 @@ Nous avons séparé notre article Lucid Air Grand Touring en sections. Si vous s
 - [Systèmes avancés d'aide à la conduite](#advanced-driver-assistance-systems)
 - [Capacité de chargement et capacité de remorquage](#cargo-capacity-and-towing-ability)
 
-
 ## Performances
 
 La Lucid Air Grand Touring impressionne avec une puissance maximale de 597 kW (812 ch) et un couple total impressionnant de 1200 Nm. Cette machine haute performance peut sprinter de 0 à 100 km/h en seulement 3 secondes, et atteint une vitesse maximale de 270 km/h, ce qui en fait un modèle remarquable dans sa catégorie.
@@ -52,11 +51,9 @@ L'emplacement du port de charge est sur le [côté avant gauche](../../../../tec
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Transmission
 
 Lucid Air Grand Touring dispose d'un système de transmission intégrale pris en charge par deux moteurs, un sur chaque essieu. Les moteurs utilisé(s) sont des [Moteurs synchrones à aimants permanents](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ La direction dynamique est une fonctionnalité un standard sur le Lucid Air Gran
 ### Freins
 
 Les freins arrière et avant sont des [disques en fonte](../../../../technology/brakes/#disc-brakes). Les disques avant mesurent 380 mm et les disques arrière mesurent 375 mm.
-
 
 ### Freinage régénératif
 
@@ -98,9 +94,7 @@ Il n'y a qu'un seul toit pour ce modèle. Le pare-brise est panoramique en remon
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Intérieur
-
 
 
 ### Sièges
@@ -129,7 +123,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/frontseats_1_st.jpg" title="Lucid Air Grand Touring" width="3000" height="2248"  >}}
-
 
 #### Siège de deuxième rangée
 
@@ -167,7 +160,6 @@ L'Lucid Air Grand Touring comprend plusieurs fonctionnalités pour améliorer le
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interface utilisateur et contrôle
 
 Au-dessus du tableau de bord se trouve un cadre partagé avec trois écrans, et dans la console centrale, il y a un quatrième [écran d'infodivertissement](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -185,14 +177,18 @@ Le modèle n'a pas d'affichage tête haute.
 
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/screens_1_st.jpg" title="Lucid Air Grand Touring" width="3000" height="1999"  >}}
 
-
 ## Infodivertissement
+
+### header.navigation
+
+De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+
+### header.soundsystem
 
 Vous pouvez choisir entre deux systèmes audio sur le Lucid Air Grand Touring. Avec le Surreal Sound, vous obtenez neuf haut-parleurs avec une puissance système maximale de 300 watts. Avec le Surreal Sound Pro, vous obtenez 21 haut-parleurs avec une puissance système maximale de 800 watts.
 
-De plus, avec le système de navigation embarqué standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
-
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
+
 ## Lumières
 
 Les phares standards utilisent la technologie LED.
@@ -203,6 +199,7 @@ Les phares standards utilisent la technologie LED.
 ## Systèmes avancés d'aide à la conduite
 
 Le Lucid Air Grand Touring dispose de plusieurs [systèmes avancés d'aide à la conduite](../../../../technology/driverassistance/) (ADAS) standard et en option pour une sécurité et un confort améliorés.
+
 ### Systèmes de sécurité
 
 
@@ -229,7 +226,6 @@ Avec le système ADAS  niveau 2, vous bénéficiez des fonctionnalités d'automa
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacité de chargement et capacité de remorquage

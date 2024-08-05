@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Audi Q4 55 e-tron quattro delivers a solid performance with a maximum power of 250 kW (340 hp / 335 bhp) and a total torque of 679 Nm (501 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.4 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
@@ -56,11 +55,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Audi Q4 55 e-tron quattro features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/) at the front axle and [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) at the rear axle.
-
 
 ### Suspension
 
@@ -75,7 +72,6 @@ Dynamic steering is an optional feature on the Audi Q4 55 e-tron quattro. Dynami
 ### Brakes
 
 The Audi Q4 55 e-tron quattro uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 358mm.
-
 
 ### Regenerative braking
 
@@ -116,9 +112,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -154,7 +148,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="1998"  >}}
-
 
 #### Second-row seats
 
@@ -195,7 +188,6 @@ The Audi Q4 55 e-tron quattro includes several features to enhance comfort and c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Audi Q4 55 e-tron quattro has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -211,9 +203,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/screens_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="1686"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -228,6 +218,7 @@ Furthermore, the Audi Q4 55 e-tron quattro supports Android Auto and Apple CarPl
 You can choose between two sound systems on the Audi Q4 55 e-tron quattro. With the Audi Sound system, you get eight speakers with a max system output of 180 watts. With the Sonos Sound System, you get ten speakers with a max system output of 580 watts.
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+
 ## Lights
 
 You can choose between two types of headlights for the Audi Q4 55 e-tron quattro. The standard headlights use LED technology. Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection. In addition, you can choose between two types of taillights. The standard taillight uses LED technology and offers two distinctive lights, including one reversing light. The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights.
@@ -240,6 +231,7 @@ You can choose between two types of headlights for the Audi Q4 55 e-tron quattro
 The Audi Q4 55 e-tron quattro has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -277,7 +269,6 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

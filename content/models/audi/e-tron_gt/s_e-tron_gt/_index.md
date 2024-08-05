@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Audi S e-tron GT packs an impressive punch with a maximum power of 500 kW (680 hp / 671 bhp) and a commanding total torque of 740 Nm (546 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.4 seconds, and it reaches a top speed of 245 km/h (152 mph), making it a standout in its class.
@@ -48,7 +47,6 @@ The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC cha
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/charging_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
-
 ### Charge port
 
 The charge port is conveniently located on the [right front side](../../../../technology/charging/connectors/#front-side), facilitating easy access at charging stations where you park parallel to the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. Additionally, a second port on the [left front side](../../../../technology/charging/connectors/#front-side) offers greater flexibility for AC charging. The connector types vary between the different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The charge port is conveniently located on the [right front side](../../../../te
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Audi S e-tron GT features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -81,7 +77,6 @@ Dynamic steering is a standard feature on the Audi S e-tron GT. Dynamic steering
 ### Brakes
 
 You can choose between different brake systems. The standard option brakes use regular [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 360mm, and the rear discs are 358mm. The second option brakes use a [cast-iron disc coated with tungsten carbide](../../../../technology/brakes/#carbid-brakes). It doesn't rust and produces hardly any brake dust. The front discs are 410mm, and the rear discs are 365mm. The third option brakes uses [ceramic discs](../../../../technology/brakes/#ceramic-brakes). The front discs are 420mm, and the rear discs are 410mm.
-
 
 ### Regenerative braking
 
@@ -124,9 +119,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -205,7 +198,6 @@ The Audi S e-tron GT includes several features to enhance comfort and convenienc
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Audi S e-tron GT has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -220,7 +212,6 @@ A head-up display is an optional system that projects speed and other important 
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -232,7 +223,6 @@ Furthermore, the Audi S e-tron GT supports Android Auto and Apple CarPlay. This 
 ### Sound system
 
 You can choose between two sound systems on the Audi S e-tron GT. With the Audi Sound system, you get ten speakers with a max system output of 180 watts. With the Bang & Olufsen Sound System, you get 16 speakers with a max system output of 700 watts.
-
 
 ## Lights
 
@@ -246,6 +236,7 @@ You can choose between three types of headlights for the Audi S e-tron GT. The s
 The Audi S e-tron GT has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -282,7 +273,6 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

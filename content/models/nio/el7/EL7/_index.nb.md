@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Nio EL7 i seksjoner. Hvis du vil vente med å le
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Nio EL7 imponerer med en imponerende kraft på 480 kW (653 hk) og et betydelig dreiemoment på 850 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 3,9 sekunder og har en toppfart på 200 km/t, noe som gjør den til en markant modell i sin klasse.
@@ -34,6 +33,7 @@ Nio EL7 imponerer med en imponerende kraft på 480 kW (653 hk) og et betydelig d
 ## Batteri, rekkevidde og lading
 
 Nio EL7 har to batterialternativer med forskjellige spesifikasjoner. Nedenfor ser du hvordan dette påvirker rekkevidde og lading.
+
 ### 100kWh
 
 Høykapasitetsbatteriet har en brutto kapasitet på 100 kWh og en netto brukbar kapasitet på 90 kWh, som gir en buffer på 10 kWh (10,0%) for batteribeskyttelse. Med en nominell spenning på 358 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
@@ -43,6 +43,7 @@ I henhold til [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../
 Maksimal DC-ladehastighet er 126 kW. En full lading fra 0 - 100 % vil ta 75 minutter, mens et mer vanlig scenario på 10-80 % vil ta 41 minutter. Hvis du antar at du mister 5 minutters kjøring per ladestopp i tillegg til ladetiden, er det optimale ladeområdet fra 1% til 44%, noe som resulterer i en faktisk ladehastighet, inkludert tidstap, på 86kW. Hver ladeøkt vil ta 27 minutter og 2 sekunder.
 
 I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet på 120 km/t under ideelle forhold med et antatt forbruk på 25,5 kWh/100 km, ville turen ta omtrent 10 timer og 15 minutter. Denne reisen ville kreve to ladestopp fra 1% til 47%, med en total ladetid på 116 minutter.
+
 ### 75kWh
 
 Høykapasitetsbatteriet har en brutto kapasitet på 75 kWh og en netto brukbar kapasitet på 70,5 kWh, som gir en buffer på 4,5 kWh (6,0%) for batteribeskyttelse. Med en nominell spenning på 386 volt, klassifiseres systemet som et 400-volt batterisystem, i tråd med industristandarder.
@@ -60,6 +61,7 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 ### Ladeport
 
 Plasseringen av ladeporten er på [høyre frontside](../../../../technology/charging/connectors/#front-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du parkerer siden inn i laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
+
 ### Batteribytte
 
 Denne modellen støtter batteribytte. Batteribytte betyr at du kan kjøre til en unik batteribyttestasjon og få batteriet erstattet med et nytt batteri med 90 % SOC. Batteribyttet tar 7 minutter.
@@ -67,11 +69,9 @@ Denne modellen støtter batteribytte. Batteribytte betyr at du kan kjøre til en
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Nio EL7 har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
-
 
 ### Hjuloppheng
 
@@ -84,7 +84,6 @@ Dynamisk styring er standard-funksjonen på Nio EL7. Dynamisk styring varierer s
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsing
 
@@ -114,9 +113,7 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -146,7 +143,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
 {{< sitefiguresized thumb="models/nio/el7/el7/frontseats_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
-
 
 #### Seter på andre rad
 
@@ -182,7 +178,6 @@ Nio EL7 inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 
@@ -202,11 +197,16 @@ Denne modellen har et valgfritt stemmestyringssystem. Stemmekontrollen lar deg k
 
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Nio EL7. Med Premium sound system får du 23 høyttalere med en maksimal systemeffekt på  watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### header.soundsystem
+
+Én type lydsystem er tilgjengelig for Nio EL7. Med Premium sound system får du 23 høyttalere med en maksimal systemeffekt på  watt.
+
 Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
@@ -217,6 +217,7 @@ Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-te
 ## Avanserte førerassistentsystemer
 
 Nio EL7 har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -254,7 +255,6 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du flere kjøreautomatisering
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

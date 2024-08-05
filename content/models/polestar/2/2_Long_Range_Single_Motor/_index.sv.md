@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Polestar 2 Long Range Single Motor i avsnitt
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Polestar 2 Long Range Single Motor levererar en solid prestanda med en maximal effekt på 220 kW (299 hk) och ett totalt vridmoment på 490 Nm. Den kan accelerera från 0 till 100 km/h på 6,2 sekunder och når en topphastighet på 205 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster baksida](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Polestar 2 Long Range Single Motor har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln.
-
 
 ### Hjulupphängning
 
@@ -65,7 +62,6 @@ Fjädringen  har en fast höjd och dämpning. Markfrigången med denna fjädring
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bromsning
 
@@ -93,7 +89,6 @@ Det finns två olika takalternativ att välja mellan. Som ekstrautstyr kan du be
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interiör
@@ -125,7 +120,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/frontseats_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="1687"  >}}
-
 
 #### Säten på andra raden
 
@@ -162,7 +156,6 @@ Polestar 2 Long Range Single Motor inkluderar flera funktioner för att förbät
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Polestar 2 Long Range Single Motor har flera integrerade skärmar. Bakom ratten finns ett [digitalt instrumentkluster](../../../../technology/userinterface/screens/#digitala-instrument), och i mittkonsolen , det finns en [ infotainmentskärm](../../../../technology/userinterface/screens/#infotainmentskärm) överst på mittkonsolen.
@@ -178,12 +171,14 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_single_motor/screens_1_st.jpg" title="Polestar 2 Long Range Single Motor" width="3000" height="2250"  >}}
 
-
 ## Infotainment
+
+### header.soundsystem
 
 Du kan välja mellan två ljudsystem på Polestar 2 Long Range Single Motor. Med High Performance får du åtta högtalare med en maximal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 högtalare med en maximal systemeffekt på 600 watt.
 
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Polestar 2 Long Range Single Motor. Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
@@ -196,6 +191,7 @@ Du kan välja mellan två typer av strålkastare för Polestar 2 Long Range Sing
 Polestar 2 Long Range Single Motor har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -220,7 +216,6 @@ Med Pilot Assist  nivå 2-systemet får du följande körautomatiseringsfunktion
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

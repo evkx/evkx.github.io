@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Tesla Model Y Performance i seksjoner. Hvis du v
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Tesla Model Y Performance leverer solid ytelse med en maksimal effekt på 393 kW (534 hk) og et totalt dreiemoment på 660 Nm. Den kan akselerere fra 0 til 100 km/t på 3,7 sekunder og når en topphastighet på 250 km/t, noe som gjør den konkurransedyktig i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er i [venstre bakre hjørne](../../../../technology/c
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Tesla Model Y Performance har et firehjulsdriftssystem som støttes av to motorer, en på hver aksel. Motorene som brukes er [induksjonsmotorer](../../../../technology/motors/asm/) på forakselen og [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakakselen.
-
 
 ### Hjuloppheng
 
@@ -69,7 +66,6 @@ Dynamisk styring er standard-funksjonen på Tesla Model Y Performance. Dynamisk 
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 355mm, og de bakre skivene er 355mm.
-
 
 ### Regenerativ bremsing
 
@@ -102,9 +98,7 @@ Rutene fra B-stolpen og baksiden er tonet.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -129,7 +123,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/frontseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
 
-
 #### Seter på andre rad
 
 
@@ -139,7 +132,6 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/secondrowseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
-
 
 #### Seter på tredje rad
 
@@ -176,7 +168,6 @@ Tesla Model Y Performance inkluderer flere funksjoner for å forbedre komfort og
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Tesla Model Y Performance har en enkelt skjerm. Dashboardsenteret har en enkelt [infotainment-skjerm](../../../../technology/userinterface/screens/#infotainment-screen) for bilinformasjon og infotainment.
@@ -191,20 +182,26 @@ Modellen er ikke tilgjengelig med head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/screens_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="1800"  >}}
 
-
 ## Infotainment
 
-Én type lydsystem er tilgjengelig for Tesla Model Y Performance. Med Tesla Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 560 watt.
+### header.navigation
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
+### header.soundsystem
+
+Én type lydsystem er tilgjengelig for Tesla Model Y Performance. Med Tesla Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 560 watt.
+
 Modellen har 4 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED-teknologi. I tillegg bruker standard baklykter LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 Tesla Model Y Performance har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -252,12 +249,12 @@ Den bruker åtte kameraer til å registrere alt i kjøretøyets miljø.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 854 liter. Med baksetet nede er det 2158 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 117 liter. Maksimumsvekten til bilen er 2720 kg, og med basisvekten på 2135 kg kan du maksimalt laste 585 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 1600, og på ubremset er den 750 kg.
+
 ### Tilgjengelighet & pris
 
 Denne modellen hadde verdenspremiere 19.03.2019, og leveringene startet i March 2020.<div class="mt-3 mb-3">

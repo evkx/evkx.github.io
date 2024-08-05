@@ -32,7 +32,6 @@ Denne model er blevet erstattet af [Tesla Model 3 Long Range](/models/tesla/mode
 
 </div>
 
-
 ## Ydeevne
 
 Tesla Model 3 (GEN1) tilbyder beskedne præstationer med en maksimal effekt på 208 kW (283 hk) og et samlet drejningsmoment på 420 Nm. Den accelererer fra 0 til 100 km/t på 6,1 sekunder og har en topfart på 225 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -54,7 +53,6 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_gen1/charging_1_st.jpg" title="Tesla Model 3 (GEN1)" width="3000" height="2000"  >}}
 
-
 ### Ladeport
 
 Placeringen af ladeporten er i [venstre bageste hjørne](../../../../technology/charging/connectors/#rear-corner). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**NACS**](../../../../technology/charging/connectors/# nacs) for Nordamerika og [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) for Europa. Se de fulde specifikationer for alle markeder.
@@ -62,11 +60,9 @@ Placeringen af ladeporten er i [venstre bageste hjørne](../../../../technology/
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Tesla Model 3 (GEN1) har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
-
 
 ### Hjulophæng
 
@@ -79,7 +75,6 @@ Dynamisk styring er en standard-funktion på Tesla Model 3 (GEN1). Dynamisk styr
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 355mm, og de bagerste skiver er 355mm.
-
 
 ### Regenerativ bremsning
 
@@ -111,9 +106,7 @@ Ruderne fra B-stolpen og bagsiden er tonede.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -138,7 +131,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_gen1/frontseats_1_st.jpg" title="Tesla Model 3 (GEN1)" width="3000" height="2000"  >}}
-
 
 #### Sæde på anden række
 
@@ -175,7 +167,6 @@ Tesla Model 3 (GEN1) inkluderer flere funktioner, der forbedrer komfort og bekve
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Tesla Model 3 (GEN1) har en enkelt skærm til driveren. Dashboardets center har en enkelt [infotainment-skærm](../../../../technology/userinterface/screens/#infotainment-screen) til bilinformation og infotainment.
@@ -190,20 +181,26 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_gen1/screens_2_st.jpg" title="Tesla Model 3 (GEN1)" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
 
 Én type lydsystem er tilgængelig for Tesla Model 3 (GEN1). Med Tesla Immersive Sound får du syv højttalere med en maksimal systemeffekt på 560 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 Modellen har 4 USB-C-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 Tesla Model 3 (GEN1) har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -251,12 +248,12 @@ Den bruger otte [kameraer](../../../../technology/sensorsandcameras/cameras/) ti
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 561 liter. Med bagsædet nede er det 1234 liter. På taget kan du laste op til 70 kg (154,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 88 liter (3,1 CU FT). Bilens maksimale vægt er 2149 kg (4738 lbs), og med basisvægten på 1760 kg (3880 lbs), kan du maksimalt laste 389 kg (858 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
+
 ### Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 01.04.2016, og leveringerne startede i July 2017. Denne model er nu udgået. Denne model er blevet erstattet af [Tesla Model 3 Long Range](/models/tesla/model_3/model_3_long_range).<div class="mt-3 mb-3">

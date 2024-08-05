@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Mercedes-AMG EQE 43 4MATIC SUV en secciones. Si
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Mercedes-AMG EQE 43 4MATIC SUV ofrece un rendimiento sólido con una potencia máxima de 350 kW (476 hp) y un par total de 858 Nm. Puede acelerar de 0 a 100 km/h en 4,3 segundos y alcanza una velocidad máxima de 210 km/h, lo que lo hace competitivo en su clase.
@@ -52,11 +51,9 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Mercedes-AMG EQE 43 4MATIC SUV tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
@@ -69,7 +66,6 @@ La dirección dinámica es una característica un estándar en el Mercedes-AMG E
 ### Frenos
 
 Puedes elegir entre diferentes sistemas de frenos. Los frenos de opción standard utilizan [discos de hierro fundido] normales (../../../../technology/brakes/#disc-brakes). Los frenos de opción second utilizan [discos cerámicos](../../../../technology/brakes/#ceramic-brakes).
-
 
 ### Frenado regenerativo
 
@@ -102,9 +98,7 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -146,7 +140,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 
-
 #### Asiento de segunda fila
 
 
@@ -186,7 +179,6 @@ El Mercedes-AMG EQE 43 4MATIC SUV incluye varias características para mejorar l
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interfaz de usuario y control
 
 Hay dos configuraciones de pantalla diferentes disponibles en Mercedes-AMG EQE 43 4MATIC SUV.
@@ -220,11 +212,20 @@ Este modelo también tiene un sistema de control de gestos opcional que te permi
 
 ## Infoentretenimiento
 
+### header.navigation
+
+Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+
+### header.phonemirroring
+
+Además, el Mercedes-AMG EQE 43 4MATIC SUV es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
+
+### header.soundsystem
+
 Puedes elegir entre dos sistemas de sonido en el Mercedes-AMG EQE 43 4MATIC SUV. Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios. Con el Burmester Surround Soundsystem, obtienes 13 parlantes con una salida máxima del sistema de 590 vatios.
 
-Además, con el sistema de navegación para automóvil estándar, obtienes la ayuda que necesitas para encontrar tu destino. Además, el Mercedes-AMG EQE 43 4MATIC SUV es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
-
 El modelo tiene 4 conexiones USB-C de serie.
+
 ## Luces
 
 Puedes elegir entre dos tipos de faros para el Mercedes-AMG EQE 43 4MATIC SUV. Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente. Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente. Además, las luces traseras estándar utilizan tecnología LED.
@@ -235,6 +236,7 @@ Puedes elegir entre dos tipos de faros para el Mercedes-AMG EQE 43 4MATIC SUV. L
 ## Sistemas avanzados de asistencia al conductor
 
 El Mercedes-AMG EQE 43 4MATIC SUV tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -269,7 +271,6 @@ Con el sistema Driver Assistance Package Plus  nivel 2, obtienes funciones de au
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Capacidad de carga y capacidad de remolque

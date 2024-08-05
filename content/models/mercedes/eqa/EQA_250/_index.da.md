@@ -26,7 +26,6 @@ Vi har opdelt vores Mercedes-EQ EQA 250 artikel i sektioner. Hvis du vil vente m
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Mercedes-EQ EQA 250 tilbyder beskedne præstationer med en maksimal effekt på 168 kW (228 hk) og et samlet drejningsmoment på 390 Nm. Den accelererer fra 0 til 100 km/t på 7,7 sekunder og har en topfart på 160 km/t, hvilket ligger tættere på traditionelle forbrændingsmotorbiler.
@@ -52,14 +51,11 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Mercedes-EQ EQA 250 har et forhjulstræksystem understøttet af en motor på forakslen. Den anvendte motor er [induktionsmotorer](../../../../technology/motors/asm/).
 
-
 ### Hjulophæng
-
 
 
 ### Styring
@@ -69,7 +65,6 @@ Dynamisk styring er en standard-funktion på Mercedes-EQ EQA 250. Dynamisk styri
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsning
 
@@ -97,9 +92,7 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -146,7 +139,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250/frontseats_1_st.jpg" title="Mercedes-EQ EQA 250" width="3000" height="2000"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -164,7 +156,6 @@ To klimaanlægsmuligheder er tilgængelige:
 - **1-zone klimaanlæg:** Understøtter kun kontrol af én delt zone for hele bilen.
 - **2-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren og passageren.
 
-
 ## Komfortfunktioner
 
 Mercedes-EQ EQA 250 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
@@ -175,7 +166,6 @@ Mercedes-EQ EQA 250 inkluderer flere funktioner, der forbedrer komfort og bekvem
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brugergrænseflade og kontrol
@@ -200,17 +190,28 @@ Denne model har også et valgfrit gestuskontrolsystem, der lader dig styre speci
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Mercedes-EQ EQA 250 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan vælge mellem to lydsystemer på Mercedes-EQ EQA 250. Med Standard får du syv højttalere med en maksimal systemeffekt på 100 watt. Med Advanced Soundsystem får du ni højttalere med en maksimal systemeffekt på 225 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Mercedes-EQ EQA 250 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 4 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi. Derudover bruger standardbaglygterne LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 Mercedes-EQ EQA 250 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -244,12 +245,12 @@ Med Driver Assistance Package  niveau 1-systemet får du følgende køreautomati
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 340 liter. Med bagsædet nede er det 1320 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2535 kg (5589 lbs), og med basisvægten på 2030 kg (4475 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
+
 ### Tilgængelighed og priser
 
 <div class="mt-3 mb-3">

@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Mercedes-EQ G 580 EQ i seksjoner. Hvis du vil ve
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Mercedes-EQ G 580 EQ imponerer med en imponerende kraft på 432 kW (587 hk) og et betydelig dreiemoment på 1164 Nm. Denne høytytende maskinen kan sprinte fra 0 til 100 km/t på bare 4,7 sekunder og har en toppfart på 180 km/t, noe som gjør den til en markant modell i sin klasse.
@@ -52,11 +51,9 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Mercedes-EQ G 580 EQ har et firehjulsdriftssystem som støttes av fire motorer. En for hvert hjul. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjuloppheng
 
@@ -69,7 +66,6 @@ Dynamisk styring er standard-funksjonen på Mercedes-EQ G 580 EQ. Dynamisk styri
 ### Bremser
 
 Bremsene bak og foran er [støpejernsskiver](../../../../technology/brakes/#disc-brakes). De fremre skivene er 415mm, og de bakre skivene er 378mm.
-
 
 ### Regenerativ bremsing
 
@@ -101,9 +97,7 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Seter
@@ -149,7 +143,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/frontseats_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 
-
 #### Seter på andre rad
 
 
@@ -172,7 +165,6 @@ To klimasystemalternativer er tilgjengelige:
 - **2-soners klimasystem:** Støtter forskjellige temperaturer for fører og passasjer.
 - **4-soners klimasystem:** Støtter forskjellige temperaturer for fører, passasjer og to separate passasjerer i baksetet.
 
-
 ## Komfortfunksjoner
 
 Mercedes-EQ G 580 EQ inkluderer flere funksjoner for å forbedre komfort og bekvemmelighet:
@@ -184,7 +176,6 @@ Mercedes-EQ G 580 EQ inkluderer flere funksjoner for å forbedre komfort og bekv
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brukergrensesnitt og kontroll
@@ -220,11 +211,20 @@ Denne modellen har også et valgfritt bevegelseskontrollsystem som lar deg kontr
 
 ## Infotainment
 
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Mercedes-EQ G 580 EQ Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
+
 Du kan velge mellom to lydsystemer på Mercedes-EQ G 580 EQ. Med Advanced Soundsystem får du ni høyttalere med en maksimal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 høyttalere med en maksimal systemeffekt på 590 watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Mercedes-EQ G 580 EQ Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 4 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
+
 ## Lys
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
@@ -235,6 +235,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 ## Avanserte førerassistentsystemer
 
 Mercedes-EQ G 580 EQ har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -275,12 +276,12 @@ Med DRIVE PILOT  nivå 3-systemet får du flere kjøreautomatiseringsfunksjoner 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 555 liter. Med baksetet nede er det 1990 liter. På taket kan du laste opptil 100 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 3500 kg, og med basisvekten på 3010 kg kan du maksimalt laste 490 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt. 490 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
+
 ### Tilgjengelighet & pris
 
 <div class="mt-3 mb-3">

@@ -26,7 +26,6 @@ Hemos separado nuestro artículo Neta GT 580 AWD en secciones. Si desea esperar 
 - [Sistemas avanzados de asistencia al conductor](#sistemas-avanzados-de-asistencia-al-conductor)
 - [Capacidad de carga y capacidad de remolque](#capacidad-de-carga-y-capacidad-de-remolque)
 
-
 ## Rendimiento
 
 El Neta GT 580 AWD ofrece un rendimiento sólido con una potencia máxima de 340 kW (462 hp) y un par total de 620 Nm. Puede acelerar de 0 a 100 km/h en 3,7 segundos y alcanza una velocidad máxima de 190 km/h, lo que lo hace competitivo en su clase.
@@ -52,18 +51,15 @@ La ubicación del puerto de carga está en el [lado trasero derecho](../../../..
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Tren de transmisión
 
 Neta GT 580 AWD tiene un sistema de tracción total sostenido por dos motores, uno en cada eje. Los motores utilizados son [Motores síncronos de imanes permanentes](../../../../technology/motors/pmsm/).
-
 
 ### Suspensión
 
 La suspensión delantera es [doble horquilla](../../../../technology/suspension/#doble-horquilla), y la suspensión trasera es [Multilink](../../../../technology/suspension/#enlace-múltiple). Utiliza resortes de acero y amortiguadores hidráulicos. La suspensión  tiene una altura y amortiguación fijas. La distancia al suelo con esta suspensión es 150 mm.
 
 ### Frenos
-
 
 
 
@@ -90,9 +86,7 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Asientos
@@ -117,7 +111,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/frontseats_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="1081"  >}}
 
-
 #### Asiento de segunda fila
 
 
@@ -136,7 +129,6 @@ Sólo hay un tipo de volante disponible.
 Hay un sistema climático disponible.
 
 
-
 ## Características de confort
 
 El Neta GT 580 AWD incluye varias características para mejorar la comodidad y conveniencia:
@@ -147,7 +139,6 @@ El Neta GT 580 AWD incluye varias características para mejorar la comodidad y c
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interfaz de usuario y control
@@ -170,15 +161,20 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+### header.soundsystem
+
 Un tipo de sistema de sonido está disponible para el Neta GT 580 AWD. Con el Neta Sky sound, obtienes 12 parlantes con una salida máxima del sistema de  vatios.
 
 El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
+
 ## Luces
 
 Los faros estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El Neta GT 580 AWD tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.
+
 ### Sistemas de seguridad
 
 
@@ -213,12 +209,12 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 297 litros. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 50 litros (1,8 CU FT).
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
+
 ### Disponibilidad y precios
 
 Este modelo tuvo un estreno mundial el 13.07.2023 y las entregas comenzaron en December 2023. Este modelo sólo está disponible en China.<div class="mt-3 mb-3">

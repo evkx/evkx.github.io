@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The XPENG P7 AWD Performance packs an impressive punch with a maximum power of 405 kW (551 hp / 543 bhp) and a commanding total torque of 717 Nm (529 lb-ft). This high-performance machine can sprint from 0 to 100 km/h (0 to 62 mph) in just 3.9 seconds, and it reaches a top speed of 205 km/h (127 mph), making it a standout in its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 XPENG P7 AWD Performance features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ The front suspension is [MacPherson Strut](../../../../technology/suspension/#ma
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerative braking
 
@@ -92,9 +88,7 @@ The windows from B-pillar and back are tinted, which enhances privacy and reduce
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -120,7 +114,6 @@ The following functionalities are available on the **** seat.
 You can choose from 2 different materials/colors for this seat type.
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Beige [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
-
 
 
 #### Second-row seat
@@ -155,7 +148,6 @@ The XPENG P7 AWD Performance includes several features to enhance comfort and co
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The XPENG P7 AWD Performance has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -176,7 +168,6 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-
 ### Navigation system
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
@@ -185,13 +176,12 @@ With the a standard in-car navigation system, you have all the assistance you ne
 
 One type of sound system is available for the XPENG P7 AWD Performance. With the , you get eight speakers with a max system output of 500 watts.
 
-
 ## Lights
-
 
 ## Advanced driver assistance systems
 
 The XPENG P7 AWD Performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -223,7 +213,6 @@ With the   level 2 system, you get the following driving automation features.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

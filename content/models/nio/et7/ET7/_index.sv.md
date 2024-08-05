@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Nio ET7 i avsnitt. Om du vill vänta med att
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Nio ET7 levererar en solid prestanda med en maximal effekt på 360 kW (490 hk) och ett totalt vridmoment på 700 Nm. Den kan accelerera från 0 till 100 km/h på 3,8 sekunder och når en topphastighet på 200 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -34,6 +33,7 @@ Nio ET7 levererar en solid prestanda med en maximal effekt på 360 kW (490 hk) o
 ## Batteri, räckvidd och laddning
 
 Nio ET7 har två batterialternativ med olika specifikationer. Nedan kan du se hur detta påverkar räckvidd och laddning.
+
 ### 100kWh
 
 Högkapacitetsbatteriet har en bruttokapacitet på 100 kWh och en nettoanvändbar kapacitet på 90 kWh, vilket ger en buffert på 10 kWh (10,0%) för batteriskydd. Med en nominell spänning på 358 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
@@ -43,6 +43,7 @@ Enligt [WLTP (Worldwide Harmonized Light Vehicles Test Procedure)](../../../../g
 Maximal DC-laddningshastighet är 126 kW. En full laddning från 0 - 100 % tar 75 minuter, medan ett vanligare scenario på 10-80 % tar 41 minuter. Om du antar att du förlorar 5 minuters körning per laddningsstopp utöver laddningstiden, är den optimala laddningsytan från 1% till 44%, vilket resulterar i en faktisk laddning hastighet inklusive tidsförlust , på 86kW. Varje laddningssession tar 27 minuter och 2 sekunder.
 
 I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastighet på 120 km/h (75 mph) under ideala förhållanden med en antagen förbrukning på 22 kWh/100 km, skulle resan ta ungefär 9 timmar och 52 minuter. Denna resa skulle kräva två laddningsstopp från 9% till 50%, med en total laddningstid på 93 minuter.
+
 ### 75kWh
 
 Högkapacitetsbatteriet har en bruttokapacitet på 75 kWh och en nettoanvändbar kapacitet på 70,5 kWh, vilket ger en buffert på 4,5 kWh (6,0%) för batteriskydd. Med en nominell spänning på 386 volt, klassificeras systemet som ett 400-volts batterisystem, i linje med industristandarder.
@@ -60,6 +61,7 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 ### Laddningsport
 
 Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
+
 ### Batteribyte
 
 Denna modell stöder batteribyte. Batteribyte innebär att du kan köra till en unik batteribytesstation och få batteriet utbytt mot ett nytt batteri med 90 % SOC. Batteribytet tar 7 minuter.
@@ -67,11 +69,9 @@ Denna modell stöder batteribyte. Batteribyte innebär att du kan köra till en 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Nio ET7 har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/) på framaxeln och [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/) på bakaxeln.
-
 
 ### Hjulupphängning
 
@@ -84,7 +84,6 @@ Dynamisk styrning är standard-funktionen för Nio ET7. Dynamisk styrning varier
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bromsning
 
@@ -114,9 +113,7 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -142,7 +139,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
-
 #### Säten på andra raden
 
 
@@ -161,7 +157,6 @@ Det finns ett tillgängligt klimatsystem.
 
 - **3-zons klimatsystem:** Stöder olika temperaturer i tre zoner för förare, passagerare och baksäte.
 
-
 ## Komfortfunktioner
 
 Nio ET7 inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -173,7 +168,6 @@ Nio ET7 inkluderar flera funktioner för att förbättra komfort och bekvämligh
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Användargränssnitt och kontroll
@@ -195,11 +189,16 @@ Denna modell har ett valfritt röststyrningssystem. Röstkontrollen låter dig s
 
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för Nio ET7. Med Premium sound system får du 23 högtalare med en maximal systemeffekt på  watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### header.soundsystem
+
+En typ av ljudsystem är tillgänglig för Nio ET7. Med Premium sound system får du 23 högtalare med en maximal systemeffekt på  watt.
+
 Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
@@ -210,6 +209,7 @@ Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-
 ## Avancerade förarassistanssystem
 
 Nio ET7 har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -247,7 +247,6 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du fler körautomatiseringsfu
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

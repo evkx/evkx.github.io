@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Lucid Air Dream Edition Range delivers a jaw-dropping maximum power of 696 KW (946 hp/933 bhp) and a massive total torque of 1390 Nm (1026 lb-ft). This powerhouse can rocket from 0 to 100 km/h (0 to 62 mph) in just 2.9 seconds, showcasing its astonishing acceleration. Additionally, it achieves a top speed of 270 km/h (168 mph), making it a true marvel of engineering and performance.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left front side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Lucid Air Dream Edition Range features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is a standard feature on the Lucid Air Dream Edition Range. Dyn
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 380mm, and the rear discs are 375mm.
-
 
 ### Regenerative braking
 
@@ -98,9 +94,7 @@ There is only one roof for this model. The windshield is panoramic going back ov
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -129,7 +123,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/frontseats_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="2248"  >}}
-
 
 #### Second-row seat
 
@@ -167,7 +160,6 @@ The Lucid Air Dream Edition Range includes several features to enhance comfort a
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 On top of the dashboard is a shared frame with three screens, and in the center console, there is a fourth [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -185,9 +177,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/screens_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="1999"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -198,6 +188,7 @@ With the a standard in-car navigation system, you have all the assistance you ne
 You can choose between two sound systems on the Lucid Air Dream Edition Range. With the Surreal Sound, you get nine speakers with a max system output of 300 watts. With the Surreal Sound Pro, you get 21 speakers with a max system output of 800 watts.
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology.
@@ -208,6 +199,7 @@ The standard headlights use LED technology.
 ## Advanced driver assistance systems
 
 The Lucid Air Dream Edition Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -234,7 +226,6 @@ With the ADAS  level 2 system, you get the following driving automation features
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

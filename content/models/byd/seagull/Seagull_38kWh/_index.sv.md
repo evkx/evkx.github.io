@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av BYD Seagull 38kWh i avsnitt. Om du vill vän
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 BYD Seagull 38kWh erbjuder grundläggande prestanda med en maximal effekt på 55 kW (75 hk) och ett totalt vridmoment på 135 Nm. Den accelererar från 0 till 100 km/h på 13 sekunder och når en topphastighet på 130 km/h, vilket är mer jämförbart med instegsmodeller av traditionella förbränningsmotorfordon.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [höger framsida](../../../../technology/ch
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 BYD Seagull 38kWh har ett framhjulsdriftssystem som stöds av en motor på framaxeln. Motorn som används är [induktionsmotor](../../../../technology/motors/asm/).
-
 
 ### Hjulupphängning
 
@@ -69,7 +66,6 @@ Dynamisk styrning är standard-funktionen för BYD Seagull 38kWh. Dynamisk styrn
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bromsning
 
@@ -98,9 +94,7 @@ B-stolpen och vyerna bak är tonade.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -115,7 +109,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
-
 
 
 #### Säten på andra raden
@@ -157,7 +150,6 @@ BYD Seagull 38kWh inkluderar flera funktioner för att förbättra komfort och b
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 BYD Seagull 38kWh har dubbla skärmar på en delad ram monterad med fästen på instrumentbrädan. Bak rattet er en [digital instrumentklynge](../../../../technology/userinterface/screens/#digitala-instrument), og på høyre del , det er en [infotainment-skjerm](../../../../technology/userinterface/screens/#digitala-instrument).
@@ -173,20 +165,26 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/screens_1_st.jpg" title="BYD Seagull 38kWh" width="2400" height="1600"  >}}
 
-
 ## Infotainment
 
-En typ av ljudsystem är tillgänglig för BYD Seagull 38kWh. Med Dirac får du åtta högtalare med en maximal systemeffekt på  watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### header.soundsystem
+
+En typ av ljudsystem är tillgänglig för BYD Seagull 38kWh. Med Dirac får du åtta högtalare med en maximal systemeffekt på  watt.
+
 Modellen har 1 USB-A-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 BYD Seagull 38kWh har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -210,7 +208,6 @@ Med   nivå 1-systemet får du följande körautomationsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

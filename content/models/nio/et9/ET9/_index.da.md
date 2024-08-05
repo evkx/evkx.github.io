@@ -26,7 +26,6 @@ Vi har opdelt vores Nio ET9 artikel i sektioner. Hvis du vil vente med at læse 
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Nio ET9 imponerer med en maksimal effekt på 520 kW (707 hk) og et imponerende samlet drejningsmoment på 900 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3,8 sekunder og har en topfart på 200 km/h, hvilket gør den til en standout i sin klasse.
@@ -48,6 +47,7 @@ Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-op
 ### Ladeport
 
 Placeringen af ladeporten er på [venstre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
+
 ### Batteri swap
 
 Denne model understøtter batteriskift. Batteriskift betyder, at du kan køre til en unik batteribyttestation og få batteriet udskiftet med et nyt batteri med 90 % SOC. Batteriskiftet tager 7 minutter.
@@ -55,11 +55,9 @@ Denne model understøtter batteriskift. Batteriskift betyder, at du kan køre ti
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Nio ET9 har et firehjulstræk, der understøttes af to motorer, en på hver aksel. De anvendte motorer er [induktionsmotorer](../../../../technology/motors/asm/) på forakslen og [Permanent Magnet Synchronous Motors] (../../../../technology/motors/pmsm/) på bagakslen.
-
 
 ### Hjulophæng
 
@@ -72,7 +70,6 @@ Dynamisk styring er en standard-funktion på Nio ET9. Dynamisk styring varierer 
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes).
-
 
 ### Regenerativ bremsning
 
@@ -99,9 +96,7 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -131,7 +126,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/nio/et9/et9/frontseats_1_st.jpg" title="Nio ET9" width="1170" height="759"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -157,7 +151,6 @@ Der er et tilgængeligt klimasystem.
 
 - **3-zone klimaanlæg:** Understøtter forskellige temperaturer i tre zoner for føreren, passageren og bagsædet.
 
-
 ## Komfortfunktioner
 
 Nio ET9 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
@@ -169,7 +162,6 @@ Nio ET9 inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brugergrænseflade og kontrol
@@ -187,11 +179,16 @@ Denne model har et valgfrit stemmestyringssystem. Stemmestyringen lader dig styr
 
 ## Infotainment
 
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
+
 Én type lydsystem er tilgængelig for Nio ET9. Med Premium sound system får du 23 højttalere med en maksimal systemeffekt på  watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -202,6 +199,7 @@ Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, 
 ## Avancerede førerassistentsystemer
 
 Nio ET9 har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -241,12 +239,12 @@ Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere køreautomatis
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 363 liter. På taget kan du laste op til 100 kg (220,5 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2900 kg (6393 lbs), og med basisvægten på 2379 kg (5245 lbs), kan du maksimalt laste 521 kg (1149 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+
 ### Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 23.12.2023, og leveringer forventes at starte om February 2025.<div class="mt-3 mb-3">

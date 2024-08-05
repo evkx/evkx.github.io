@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av Lucid Air Pure i avsnitt. Om du vill vänta 
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 Lucid Air Pure levererar en solid prestanda med en maximal effekt på 320,5 kW (436 hk) och ett totalt vridmoment på 400 Nm. Den kan accelerera från 0 till 100 km/h på 4,5 sekunder och når en topphastighet på 200 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -52,11 +51,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Lucid Air Pure har ett bakhjulsdriftssystem som stöds av en motor på bakaxeln. Motorn som används är [Permanent Magnet Synchronous Motor](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -69,7 +66,6 @@ Dynamisk styrning är standard-funktionen för Lucid Air Pure. Dynamisk styrning
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 380mm och de bakre skivorna är 375mm.
-
 
 ### Regenerativ bromsning
 
@@ -98,9 +94,7 @@ Det finns bara ett tak för denna modell. Standardinställningen är bara ett va
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -122,7 +116,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
-
 
 
 #### Säten på andra raden
@@ -161,7 +154,6 @@ Lucid Air Pure inkluderar flera funktioner för att förbättra komfort och bekv
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Ovanpå instrumentbrädan finns en delad ram med tre skärmar och i mittkonsolen finns en fjärde [infotainmentskärm](../../../../technology /userinterface/ screens/ #infotainmentskärm)
@@ -179,14 +171,18 @@ Modellen är inte tillgänglig med head-up display.
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/screens_1_st.jpg" title="Lucid Air Pure" width="3000" height="2001"  >}}
 
-
 ## Infotainment
 
-Du kan välja mellan två ljudsystem på Lucid Air Pure. Med Surreal Sound får du nio högtalare med en maximal systemeffekt på 300 watt. Med Surreal Sound Pro får du 21 högtalare med en maximal systemeffekt på 800 watt.
+### header.navigation
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
+### header.soundsystem
+
+Du kan välja mellan två ljudsystem på Lucid Air Pure. Med Surreal Sound får du nio högtalare med en maximal systemeffekt på 300 watt. Med Surreal Sound Pro får du 21 högtalare med en maximal systemeffekt på 800 watt.
+
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik.
@@ -197,6 +193,7 @@ Standardlamporna använder LED-teknik.
 ## Avancerade förarassistanssystem
 
 Lucid Air Pure har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -223,7 +220,6 @@ Med ADAS  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

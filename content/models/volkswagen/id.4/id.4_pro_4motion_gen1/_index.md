@@ -32,7 +32,6 @@ This model has been replaced by [Volkswagen ID.4 Pro 4MOTION](/models/volkswagen
 
 </div>
 
-
 ## Performance
 
 The Volkswagen ID.4 Pro 4MOTION (GEN1) offers modest performance with a maximum power of 195 kW (265 hp / 262 bhp) and a total torque of 425 Nm (314 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.9 seconds and has a top speed of 180 km/h (112 mph), aligning more closely with traditional internal combustion engine vehicles.
@@ -58,11 +57,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Volkswagen ID.4 Pro 4MOTION (GEN1) features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Induction Motors](../../../../technology/motors/asm/).
-
 
 ### Suspension
 
@@ -77,7 +74,6 @@ Dynamic steering is an optional feature on the Volkswagen ID.4 Pro 4MOTION (GEN1
 ### Brakes
 
 The Volkswagen ID.4 Pro 4MOTION (GEN1) uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 358mm.
-
 
 ### Regenerative braking
 
@@ -108,9 +104,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -151,7 +145,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/frontseats_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
-
 #### Second-row seat
 
 
@@ -187,7 +180,6 @@ The Volkswagen ID.4 Pro 4MOTION (GEN1) includes several features to enhance comf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 Two different screen setups are available on the Volkswagen ID.4 Pro 4MOTION (GEN1).
@@ -214,9 +206,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/screens_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -231,6 +221,7 @@ Furthermore, the Volkswagen ID.4 Pro 4MOTION (GEN1) supports Android Auto and Ap
 You can choose between two sound systems on the Volkswagen ID.4 Pro 4MOTION (GEN1). With the Sound system, you get six speakers with a max system output of 140 watts. With the Volkswagen Soundsystem, you get six speakers with a max system output of 450 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the Volkswagen ID.4 Pro 4MOTION (GEN1). The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
@@ -243,6 +234,7 @@ You can choose between two types of headlights for the Volkswagen ID.4 Pro 4MOTI
 The Volkswagen ID.4 Pro 4MOTION (GEN1) has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -277,7 +269,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

@@ -26,7 +26,6 @@ Vi har opdelt vores Rolls-Royce Spectre artikel i sektioner. Hvis du vil vente m
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Rolls-Royce Spectre imponerer med en maksimal effekt på 430 kW (585 hk) og et imponerende samlet drejningsmoment på 900 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 4,5 sekunder og har en topfart på 250 km/h, hvilket gør den til en standout i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [højre bagside](../../../../technology/chargin
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Rolls-Royce Spectre har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Synkronmotorer med viklet rotor](../../../../technology/motors/wrsm/).
-
 
 ### Hjulophæng
 
@@ -67,7 +64,6 @@ Affjedringen er fuldt adaptiv på for- og bagakslen, så højde og dæmpning kan
 Dynamisk styring er en standard-funktion på Rolls-Royce Spectre. Dynamisk styring varierer styreforholdet som en funktion af kørehastigheden. Derudover er baghjulsstyring tilgængelig som en standard-funktion. Baghjulsstyring reducerer drejecirklen, når du kører langsomt.
 
 ### Bremser
-
 
 
 
@@ -96,9 +92,7 @@ Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -134,7 +128,6 @@ Du kan vælge mellem 7 forskellige materialer/farver til denne sædetype.
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1687"  >}}
 
-
 #### Sæde på anden række
 
 
@@ -158,7 +151,6 @@ Der er et tilgængeligt klimasystem.
 
 - **4-zone klimaanlæg:** Understøtter forskellige temperaturer for føreren, passageren og to separate passagerer på bagsædet.
 
-
 ## Komfortfunktioner
 
 Rolls-Royce Spectre inkluderer flere funktioner, der forbedrer komfort og bekvemmelighed:
@@ -170,7 +162,6 @@ Rolls-Royce Spectre inkluderer flere funktioner, der forbedrer komfort og bekvem
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Brugergrænseflade og kontrol
@@ -188,14 +179,22 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/screens_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1862"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.phonemirroring
+
+Yderligere understøtter Rolls-Royce Spectre Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Rolls-Royce Spectre. Med Harman Kardon Surround Sound system får du 18 højttalere med en maksimal systemeffekt på 655 watt. Med Bowers & Wilkins Diamond surround sound system får du 30 højttalere med en maksimal systemeffekt på 1615 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination. Yderligere understøtter Rolls-Royce Spectre Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
-
 Modellen har 6 USB-C-forbindelser som standard.
+
 ## Lys
 
 Du kan vælge mellem to typer forlygter til Rolls-Royce Spectre. Standardlygterne bruger LED-teknologi. Forlygter baseret på LED Matrix med laserteknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukkes individuelt for at aflyse små områder foran. Derudover bruger standardbaglygterne LED-teknologi.
@@ -206,6 +205,7 @@ Du kan vælge mellem to typer forlygter til Rolls-Royce Spectre. Standardlygtern
 ## Avancerede førerassistentsystemer
 
 Rolls-Royce Spectre har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -237,12 +237,12 @@ Med Driving Assistant Professional  niveau 2-systemet får du følgende køreaut
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 500 liter. Bilens maksimale vægt er 3400 kg (7496 lbs), og med basisvægten på 2890 kg (6371 lbs), kan du maksimalt laste 510 kg (1124 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
+
 ### Tilgængelighed og priser
 
 Denne model havde verdenspremiere den 18.10.2022, og leveringerne startede i December 2023.<div class="mt-3 mb-3">

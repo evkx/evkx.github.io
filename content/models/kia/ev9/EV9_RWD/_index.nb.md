@@ -26,7 +26,6 @@ Vi har delt vår beskrivelse av Kia EV9 RWD i seksjoner. Hvis du vil vente med �
 - [Avanserte førerassistentsystemer](#avanserte-førerassistentsystemer)
 - [Lastekapasitet og slepeevne](#lastekapasitet-og-slepeevne)
 
-
 ## Ytelse
 
 Kia EV9 RWD tilbyr beskjedne ytelser med en maksimal effekt på 160 kW (218 hk) og et totalt dreiemoment på 350 Nm. Den akselererer fra 0 til 100 km/t på 9,4 sekunder og har en toppfart på 185 km/t, noe som ligger nærmere tradisjonelle bensin- og dieselbiler.
@@ -52,18 +51,14 @@ Plasseringen av ladeporten er på [høyre bakside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivverk
 
 Kia EV9 RWD har et bakhjulsdriftssystem støttet av en motor på bakakselen. Motoren(e) som brukes er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
 
-
 ### Hjuloppheng
 
 
-
 ### Bremser
-
 
 
 
@@ -98,13 +93,11 @@ I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
 
 Det er én setetype du kan velge i forskjellige materialer.
 
 ### Seter
-
 
 
 #### Forseter
@@ -133,7 +126,6 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/frontseats_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
-
 #### Seter på andre rad
 
 Du kan velge tre setetyper for den andre raden i Kia EV9 RWD.
@@ -156,7 +148,6 @@ Alternativet third er to kapteinstoler. I tillegg er følgende funksjoner tilgje
 
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/secondrowseats_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
-
 
 #### Seter på tredje rad
 
@@ -192,7 +183,6 @@ Kia EV9 RWD inkluderer flere funksjoner for å forbedre komfort og bekvemmelighe
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brukergrensesnitt og kontroll
 
 Kia EV9 RWD har tre skjermer på en delt ramme montert med braketter på dashbordet.
@@ -208,14 +198,22 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/screens_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+
+### header.phonemirroring
+
+I tillegg støtter Kia EV9 RWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan velge mellom to lydsystemer på Kia EV9 RWD. Med Standard får du seks høyttalere med en maksimal systemeffekt på  watt. Med Meridian Premium Sound System får du 14 høyttalere med en maksimal systemeffekt på  watt.
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din. I tillegg støtter Kia EV9 RWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
-
 Modellen har 6 USB-C-tilkoblinger som standard.
+
 ## Lys
 
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran. I tillegg bruker standard baklykter LED-teknologi.
@@ -226,6 +224,7 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 ## Avanserte førerassistentsystemer
 
 Kia EV9 RWD har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.
+
 ### Sikkerhetssystemer
 
 
@@ -256,7 +255,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastekapasitet og slepeevne

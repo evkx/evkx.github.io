@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 With overboost, the CUPRA BORN 58 e-BOOST achieves a maximum power of 170 kW (231 hp / 228 bhp). Without overboost, it delivers 150 kW (204 hp / 201 bhp). The maximum torque is 310 Nm (229 lb-ft). It accelerates from 0 to 100 km/h (0 to 62 mph) in 6.6 seconds and reaches a top speed of 160 km/h (99 mph), offering performance more akin to traditional internal combustion engine vehicles.
@@ -52,11 +51,9 @@ The location of the charge port is on the [right rear side](../../../../technolo
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 CUPRA BORN 58 e-BOOST has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Induction Motors](../../../../technology/motors/asm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is an optional feature on the CUPRA BORN 58 e-BOOST. Dynamic st
 ### Brakes
 
 The CUPRA BORN 58 e-BOOST uses [disc brakes](../../../../technology/brakes/#disc-brakes) in the front for superior stopping power and heat dissipation, while [drum brakes](../../../../technology/brakes/#drum-brakes) are employed in the rear for cost efficiency and durability. Drum brakes provide adequate performance for the rear wheels, require less maintenance, and integrate seamlessly with the vehicle's regenerative braking system. This combination ensures optimal braking performance and cost-effectiveness, aligning with the overall efficiency goals of the EV. The front discs are 330mm.
-
 
 ### Regenerative braking
 
@@ -100,9 +96,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -128,7 +122,6 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/frontseats_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="2110"  >}}
-
 
 #### Second-row seat
 
@@ -160,7 +153,6 @@ The CUPRA BORN 58 e-BOOST includes several features to enhance comfort and conve
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The CUPRA BORN 58 e-BOOST has twin screens with information for the driver and passengers. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments) mounted on the steering wheel column, and on top of the dashboard is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -176,9 +168,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/screens_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="1714"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -193,6 +183,7 @@ Furthermore, the CUPRA BORN 58 e-BOOST supports Android Auto and Apple CarPlay. 
 You can choose between two sound systems on the CUPRA BORN 58 e-BOOST. With the Sound system, you get five speakers with a max system output of 140 watts. With the Beats Audio, you get nine speakers with a max system output of 395 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 The standard headlights use LED technology.
@@ -205,6 +196,7 @@ The standard headlights use LED technology.
 The CUPRA BORN 58 e-BOOST has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -243,7 +235,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

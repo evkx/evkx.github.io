@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 With overboost, the Porsche Macan reaches a maximum power of 265 kW (360 hp / 355 bhp). Without overboost, it delivers 250 kW (340 hp / 335 bhp). The maximum torque is 563 Nm (415 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.7 seconds and reaches a top speed of 220 km/h (137 mph), demonstrating its solid performance.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Porsche Macan has a rear-wheel drive system supported by one motor on the rear axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -69,7 +66,6 @@ Dynamic steering is a standard feature on the Porsche Macan. Dynamic steering va
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 410mm, and the rear discs are 365mm.
-
 
 ### Regenerative braking
 
@@ -113,9 +109,7 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -163,7 +157,6 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 You can choose from 4 different materials/colors for this seat type.
 
 
-
 #### Second-row seat
 
 
@@ -195,7 +188,6 @@ The Porsche Macan includes several features to enhance comfort and convenience:
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Porsche Macan has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments). In addition, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) in the center console  and one [infotainment screen](../../../../technology/userinterface/screens/#front-passenger-screen) in front of the passenger seat.
@@ -212,9 +204,7 @@ A head-up display is an optional system that projects speed and other important 
 
 {{< sitefiguresized thumb="models/porsche/macan/macan/screens_1_st.jpeg" title="Porsche Macan" width="3000" height="1687"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -229,14 +219,17 @@ Furthermore, the Porsche Macan supports Android Auto and Apple CarPlay. This fun
 You can choose between two sound systems on the Porsche Macan. With the  BOSE® Surround Sound System, you get 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 speakers with a max system output of 1470 watts.
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+
 ## Lights
 
 You can choose between two types of headlights for the Porsche Macan. The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The Porsche Macan has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -273,7 +266,6 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

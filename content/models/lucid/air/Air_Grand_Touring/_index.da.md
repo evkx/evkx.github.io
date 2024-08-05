@@ -26,7 +26,6 @@ Vi har opdelt vores Lucid Air Grand Touring artikel i sektioner. Hvis du vil ven
 - [Avancerede driver-assistance-systemer](#køreautomatisering)
 - [Lastkapacitet og bugseringsevne](#lastkapacitet-og-træk-kapacitet)
 
-
 ## Ydeevne
 
 Lucid Air Grand Touring imponerer med en maksimal effekt på 597 kW (812 hk) og et imponerende samlet drejningsmoment på 1200 Nm. Denne højtydende maskine kan accelerere fra 0 til 100 km/h på kun 3 sekunder og har en topfart på 270 km/h, hvilket gør den til en standout i sin klasse.
@@ -52,11 +51,9 @@ Placeringen af ladeporten er på [venstre forside](../../../../technology/chargi
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Lucid Air Grand Touring har et firehjulstræk, der understøttes af to motorer, en på hver aksel. Dene anvendte motorer er [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulophæng
 
@@ -69,7 +66,6 @@ Dynamisk styring er en standard-funktion på Lucid Air Grand Touring. Dynamisk s
 ### Bremser
 
 Bremserne bag og foran er [støbejernsskiver](../../../../technology/brakes/#disc-brakes). De forreste skiver er 380mm, og de bagerste skiver er 375mm.
-
 
 ### Regenerativ bremsning
 
@@ -98,9 +94,7 @@ Der er kun ét tag til denne model. Forruden er panoramisk tilbage over første 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiør
-
 
 
 ### Sæder
@@ -129,7 +123,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/frontseats_1_st.jpg" title="Lucid Air Grand Touring" width="3000" height="2248"  >}}
-
 
 #### Sæde på anden række
 
@@ -167,7 +160,6 @@ Lucid Air Grand Touring inkluderer flere funktioner, der forbedrer komfort og be
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Brugergrænseflade og kontrol
 
 Oven på instrumentbrættet er en delt ramme med tre skærme, og i midterkonsollen er der en fjerde [infotainment-skærm](../../../../technology /brugergrænseflade/skærme/#infotainment-skærm).
@@ -185,14 +177,18 @@ Modellen har ikke et head-up display.
 
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/screens_1_st.jpg" title="Lucid Air Grand Touring" width="3000" height="1999"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
+
+### header.soundsystem
 
 Du kan vælge mellem to lydsystemer på Lucid Air Grand Touring. Med Surreal Sound får du ni højttalere med en maksimal systemeffekt på 300 watt. Med Surreal Sound Pro får du 21 højttalere med en maksimal systemeffekt på 800 watt.
 
-Derudover får du med standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
-
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
+
 ## Lys
 
 Standardlygterne bruger LED-teknologi.
@@ -203,6 +199,7 @@ Standardlygterne bruger LED-teknologi.
 ## Avancerede førerassistentsystemer
 
 Lucid Air Grand Touring har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.
+
 ### Sikkerhedssystemer
 
 
@@ -229,7 +226,6 @@ Med ADAS  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet og træk-kapacitet

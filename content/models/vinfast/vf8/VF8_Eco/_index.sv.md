@@ -26,7 +26,6 @@ Vi har delat in vår beskrivning av VinFast VF8 Eco i avsnitt. Om du vill vänta
 - [Avancerade förarassistanssystem](#avancerade-förarassistanssystem)
 - [Lastkapacitet och bogserkapacitet](#lastkapacitet-och-dragkapacitet)
 
-
 ## Prestanda
 
 VinFast VF8 Eco levererar en solid prestanda med en maximal effekt på 260 kW (354 hk) och ett totalt vridmoment på 500 Nm. Den kan accelerera från 0 till 100 km/h på 5,9 sekunder och når en topphastighet på 200 km/h, vilket gör den konkurrenskraftig i sin klass.
@@ -50,11 +49,9 @@ Platsen för laddningsporten är på [vänster front](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 VinFast VF8 Eco har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Hjulupphängning
 
@@ -68,11 +65,9 @@ VinFast VF8 Eco låter användaren välja olika [drivemodes](../../../../technol
 - Normal Mode: Balansert gass.
 - Sport Mode: Dynamisk gass.
 
-
 ### Bromsar
 
 Bromsar bak och fram är [gjutjärnsskivor](../../../../technology/brakes/#disc-brakes). De främre skivorna är 375mm och de bakre skivorna är 341mm.
-
 
 ### Regenerativ bromsning
 
@@ -101,13 +96,10 @@ B-stolpen och vyerna bak är tonade.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
 
 
-
 ### Säten
-
 
 
 #### Framsäten
@@ -124,7 +116,6 @@ Följande funktioner är tillgängliga på **** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
-
 
 
 #### Säten på andra raden
@@ -149,7 +140,6 @@ Det finns ett tillgängligt klimatsystem.
 
 - **2-zons klimatsystem:** Stöder olika temperaturer för föraren och passageraren.
 
-
 ## Komfortfunktioner
 
 VinFast VF8 Eco inkluderar flera funktioner för att förbättra komfort och bekvämlighet:
@@ -160,7 +150,6 @@ VinFast VF8 Eco inkluderar flera funktioner för att förbättra komfort och bek
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Användargränssnitt och kontroll
@@ -182,17 +171,28 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
+### header.navigation
+
+Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder VinFast VF8 Eco Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
+
 En typ av ljudsystem är tillgänglig för VinFast VF8 Eco. Med  får du 11 högtalare med en maximal systemeffekt på  watt.
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder VinFast VF8 Eco Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 1 USB-C-anslutningar som standard. Modellen har 4 USB-A-anslutningar som standard.
+
 ## Ljus
 
 Standardlamporna använder LED-teknik. Dessutom använder standardbakljusen LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 VinFast VF8 Eco har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
+
 ### Säkerhetssystem
 
 
@@ -227,7 +227,6 @@ Denna modell använder kameror, radar och ultraljudssensorer för förarassistan
 Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), common.number.zero [LiDARsensorer](../../../../technology/sensorsandcameras/lidar/), fem [kameraer](../../../../technology/sensorsandcameras/cameras/), og 12 [ultrasoniske sensorer](../../../../technology/sensorsandcameras/ultrasonic/) registrerer alt som skjer i kjøretøyets miljø.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

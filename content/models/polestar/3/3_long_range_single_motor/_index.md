@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Polestar 3 Long Range Single Motor delivers a solid performance with a maximum power of 220 kW (299 hp / 295 bhp) and a total torque of 490 Nm (362 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 7.8 seconds and reaches a top speed of 180 km/h (112 mph), making it competitive within its class.
@@ -52,11 +51,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Polestar 3 Long Range Single Motor features an all-wheel drive system powered by two motors, one on each axle.
-
 
 ### Suspension
 
@@ -65,7 +62,6 @@ The front suspension is [double wishbone](../../../../technology/suspension/#dou
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 400mm, and the rear discs are 390mm.
-
 
 ### Regenerative braking
 
@@ -90,7 +86,6 @@ There are two different roof options to select from. As an option, you can order
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Interior
@@ -124,7 +119,6 @@ You can choose from 5 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_single_motor/frontseats_1_st.jpg" title="Polestar 3 Long Range Single Motor" width="3000" height="2249"  >}}
-
 
 #### Second-row seat
 
@@ -162,7 +156,6 @@ The Polestar 3 Long Range Single Motor includes several features to enhance comf
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Polestar 3 Long Range Single Motor has multiple integrated screens. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and in the center console, there is one [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen) at the top of the center console.
@@ -178,15 +171,14 @@ A head-up display is a standard system that projects speed and other important d
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_single_motor/screens_1_st.jpg" title="Polestar 3 Long Range Single Motor" width="3000" height="2251"  >}}
 
-
 ## Infotainment
-
 
 ### Sound system
 
 You can choose between two sound systems on the Polestar 3 Long Range Single Motor. With the High Performance, you get eight speakers with a max system output of 200 watts. With the Bowers & Wilkins, you get 25 speakers with a max system output of 1610 watts.
 
 The model has 4 USB-C connections as standard.
+
 ## Lights
 
 You can choose between two types of headlights for the Polestar 3 Long Range Single Motor. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
@@ -199,6 +191,7 @@ You can choose between two types of headlights for the Polestar 3 Long Range Sin
 The Polestar 3 Long Range Single Motor has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -223,7 +216,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

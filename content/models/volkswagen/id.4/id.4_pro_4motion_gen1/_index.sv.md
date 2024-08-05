@@ -32,7 +32,6 @@ Denna modell har ersatts av [Volkswagen ID.4 Pro 4MOTION](/models/volkswagen/id.
 
 </div>
 
-
 ## Prestanda
 
 Volkswagen ID.4 Pro 4MOTION (GEN1) erbjuder blygsamma prestanda med en maximal effekt på 195 kW (265 hk) och ett totalt vridmoment på 425 Nm. Den accelererar från 0 till 100 km/h på 6,9 sekunder och har en topphastighet på 180 km/h, vilket är mer i linje med traditionella förbränningsmotorfordon.
@@ -58,11 +57,9 @@ Platsen för laddningsporten är på [höger baksida](../../../../technology/cha
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivlina
 
 Volkswagen ID.4 Pro 4MOTION (GEN1) har ett fyrhjulsdriftsystem som stöds av två motorer, en på varje axel. Motorerna som används är [induktionsmotorer](../../../../technology/motors/asm/).
-
 
 ### Hjulupphängning
 
@@ -77,7 +74,6 @@ Dynamisk styrning är valfritt-funktionen för Volkswagen ID.4 Pro 4MOTION (GEN1
 ### Bromsar
 
 SKODA Elroq 85x använder [skivbromsar](../../../../technology/brakes/#disc-brakes) fram för överlägsen bromskraft och värmeavledning, medan [trumbromsar](../../../../technology/brakes/#trumbromsar) används bak för kostnadseffektivitet och hållbarhet. Trumbromsar ger tillräcklig prestanda för bakhjulen, kräver mindre underhåll och integreras sömlöst med fordonets regenerativa bromssystem. Denna kombination säkerställer optimal bromsprestanda och kostnadseffektivitet, i linje med elbilens övergripande effektivitetsmål. De främre skivorna är 358mm.
-
 
 ### Regenerativ bromsning
 
@@ -108,9 +104,7 @@ Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vil
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interiör
-
 
 
 ### Säten
@@ -151,7 +145,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/frontseats_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
-
 #### Säten på andra raden
 
 
@@ -187,7 +180,6 @@ Volkswagen ID.4 Pro 4MOTION (GEN1) inkluderar flera funktioner för att förbät
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Användargränssnitt och kontroll
 
 Två olika skärmlayouter är tillgängliga på Volkswagen ID.4 Pro 4MOTION (GEN1).
@@ -214,14 +206,22 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/screens_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
-
 ## Infotainment
+
+### header.navigation
+
+Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+
+### header.phonemirroring
+
+Dessutom stöder Volkswagen ID.4 Pro 4MOTION (GEN1) Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
+
+### header.soundsystem
 
 Du kan välja mellan två ljudsystem på Volkswagen ID.4 Pro 4MOTION (GEN1). Med Sound system får du sex högtalare med en maximal systemeffekt på 140 watt. Med Volkswagen Soundsystem får du sex högtalare med en maximal systemeffekt på 450 watt.
 
-Dessutom, med valfritt navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination. Dessutom stöder Volkswagen ID.4 Pro 4MOTION (GEN1) Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
-
 Modellen har 4 USB-C-anslutningar som standard.
+
 ## Ljus
 
 Du kan välja mellan två typer av strålkastare för Volkswagen ID.4 Pro 4MOTION (GEN1). Standardlamporna använder LED-teknik. Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
@@ -234,6 +234,7 @@ Du kan välja mellan två typer av strålkastare för Volkswagen ID.4 Pro 4MOTIO
 Volkswagen ID.4 Pro 4MOTION (GEN1) har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficiencyassist/) är standard-system som hjälper förare att köra förebyggande och spara energi.
+
 ### Säkerhetssystem
 
 
@@ -268,7 +269,6 @@ Med Assistantpackage plus  nivå 2-systemet får du fler körautomatiseringsfunk
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Lastkapacitet och dragkapacitet

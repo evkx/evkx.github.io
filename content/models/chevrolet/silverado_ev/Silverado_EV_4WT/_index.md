@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Chevrolet Silverado EV 4WT delivers a solid performance with a maximum power of 380 kW (517 hp / 510 bhp) and a total torque of 834 Nm (615 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 4.5 seconds and reaches a top speed of 170 km/h (106 mph), making it competitive within its class.
@@ -48,7 +47,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/charging_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
@@ -56,18 +54,15 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Chevrolet Silverado EV 4WT features an all-wheel drive system powered by two motors, one on each axle. The motors used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
 The front suspension employs a [double wishbone](../../../../technology/suspension/#double-wishbone) design, while the rear uses a [Multilink](../../../../technology/suspension/#multilink) setup. The standard suspension includes steel springs and hydraulic dampers. The  suspension has a fixed height and damping. The ground clearance with this suspension is 227 mm.
 
 ### Brakes
-
 
 
 
@@ -96,9 +91,7 @@ There is only one roof for this model.
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
-
 
 
 ### Seats
@@ -123,7 +116,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/frontseats_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2002"  >}}
-
 
 #### Second-row seat
 
@@ -162,7 +154,6 @@ The Chevrolet Silverado EV 4WT includes several features to enhance comfort and 
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The Chevrolet Silverado EV 4WT has twin screens on a shared frame mounted with brackets on the dashboard. Behind the steering wheel is a [digital instrument cluster](../../../../technology/userinterface/screens/#digital-instruments), and on the right part, there is an [infotainment screen](../../../../technology/userinterface/screens/#infotainment-screen).
@@ -178,9 +169,7 @@ The model does not have a head-up display.
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/screens_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 
-
 ## Infotainment
-
 
 ### Navigation system
 
@@ -195,12 +184,13 @@ Furthermore, the Chevrolet Silverado EV 4WT supports Android Auto and Apple CarP
 One type of sound system is available for the Chevrolet Silverado EV 4WT. With the Chevrolet Sound System, you get six speakers with a max system output of 200 watts.
 
 The model has 4 USB-C connections as standard.
-## Lights
 
+## Lights
 
 ## Advanced driver assistance systems
 
 The Chevrolet Silverado EV 4WT has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
+
 ### Safety systems
 
 
@@ -220,7 +210,6 @@ With the Super Cruise  level 1 system, you get the following driving automation 
 
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability
