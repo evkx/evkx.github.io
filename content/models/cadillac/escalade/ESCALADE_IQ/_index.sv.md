@@ -180,11 +180,11 @@ Modellen är inte tillgänglig med head-up display.
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-### header.soundsystem
+### Ljudsystem
 
 Du kan välja mellan två ljudsystem på Cadillac ESCALADE IQ. Med AKG Studio audi System får du 19 högtalare med en maximal systemeffekt på 1000 watt. Med AKG Studio Reference System får du 40 högtalare med en maximal systemeffekt på 1000 watt.
 

@@ -183,7 +183,7 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgjengelig for HiPhi Z 4 Seater. Med SONIC PRO SYSTEM får du 23 høyttalere med en maksimal systemeffekt på 600 watt.
 

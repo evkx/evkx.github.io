@@ -201,15 +201,15 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 ## Infodivertissement
 
-### header.navigation
+### Système de navigation
 
 De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
-### header.phonemirroring
+### Réplication du téléphone
 
 De plus, le Jaguar I-Pace EV400 prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
 
-### header.soundsystem
+### Système audio
 
 Vous pouvez choisir entre deux systèmes audio sur le Jaguar I-Pace EV400. Avec le Meridian Sound System, vous obtenez 11 haut-parleurs avec une puissance système maximale de 400 watts. Avec le Meridian 3D Surround, vous obtenez 16 haut-parleurs avec une puissance système maximale de 750 watts.
 

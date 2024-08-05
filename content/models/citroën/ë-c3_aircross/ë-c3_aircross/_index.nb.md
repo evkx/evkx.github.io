@@ -194,15 +194,15 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
-### header.navigation
+### Navigasjonssystem
 
 I tillegg får du med tilvalg navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-### header.phonemirroring
+### Telefonspeiling
 
 I tillegg støtter Citroën ë-C3 Aircross Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan velge mellom to lydsystemer på Citroën ë-C3 Aircross. Med  får du to høyttalere med en maksimal systemeffekt på  watt. Med Max Sound system får du to høyttalere med en maksimal systemeffekt på  watt.
 

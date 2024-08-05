@@ -179,11 +179,11 @@ El modelo no tiene head-up display.
 
 ## Infoentretenimiento
 
-### header.navigation
+### Sistema de navegación
 
 Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
 
-### header.soundsystem
+### Sistema de sonido
 
 Puedes elegir entre dos sistemas de sonido en el Lucid Air Dream Edition Range. Con el Surreal Sound, obtienes nueve parlantes con una salida máxima del sistema de 300 vatios. Con el Surreal Sound Pro, obtienes 21 parlantes con una salida máxima del sistema de 800 vatios.
 

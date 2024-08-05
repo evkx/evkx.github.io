@@ -167,15 +167,15 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 
-### header.navigation
+### Navigasjonssystem
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-### header.phonemirroring
+### Telefonspeiling
 
 I tillegg støtter Chevrolet Silverado EV SRT Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgjengelig for Chevrolet Silverado EV SRT. Med Chevrolet Sound System får du seks høyttalere med en maksimal systemeffekt på 200 watt.
 

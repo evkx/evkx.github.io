@@ -164,11 +164,11 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 ## Infodivertissement
 
-### header.navigation
+### Système de navigation
 
 De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
-### header.soundsystem
+### Système audio
 
 Un type de système audio est disponible pour le Seres 5 4WD Premium. Avec le , vous obtenez 11 haut-parleurs avec une puissance système maximale de  watts.
 

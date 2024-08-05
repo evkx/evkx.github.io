@@ -170,7 +170,7 @@ Modellen har ikke et head-up display.
 
 ## Infotainment
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgængelig for Aion Hyper GT 710 Supercharged. Med  får du 23 højttalere med en maksimal systemeffekt på  watt.
 

@@ -147,15 +147,15 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-### header.navigation
+### Navigasjonssystem
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-### header.phonemirroring
+### Telefonspeiling
 
 I tillegg støtter Mercedes-EQ EQC 400 4MATIC Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan velge mellom tre lydsystemer på Mercedes-EQ EQC 400 4MATIC. Med Standard får du syv høyttalere med en maksimal systemeffekt på 100 watt. Med Advanced Soundsystem får du ni høyttalere med en maksimal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 høyttalere med en maksimal systemeffekt på 590 watt.
 

@@ -198,15 +198,15 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-### header.phonemirroring
+### Telefon spegling
 
 Dessutom stöder Audi S6 Sportback e-tron Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
 
-### header.soundsystem
+### Ljudsystem
 
 Du kan välja mellan två ljudsystem på Audi S6 Sportback e-tron. Med Audi Sound System får du fem högtalare med en maximal systemeffekt på 200 watt. Med Bang & Olufsen Sound System får du 20 högtalare med en maximal systemeffekt på 830 watt.
 

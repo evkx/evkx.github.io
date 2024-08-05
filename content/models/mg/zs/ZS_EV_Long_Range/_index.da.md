@@ -170,15 +170,15 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-### header.phonemirroring
+### Telefon spejling
 
 Yderligere understøtter MG ZS EV Long Range Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan vælge mellem to lydsystemer på MG ZS EV Long Range. Med MG standard system får du fire højttalere med en maksimal systemeffekt på  watt. Med MG luxury sound system får du seks højttalere med en maksimal systemeffekt på  watt.
 

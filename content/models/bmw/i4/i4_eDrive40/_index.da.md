@@ -228,15 +228,15 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-### header.phonemirroring
+### Telefon spejling
 
 Yderligere understøtter BMW i4 eDrive40 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan vælge mellem to lydsystemer på BMW i4 eDrive40. Med Hifi Sound system får du ti højttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Surround Sound system får du 17 højttalere med en maksimal systemeffekt på 445 watt.
 

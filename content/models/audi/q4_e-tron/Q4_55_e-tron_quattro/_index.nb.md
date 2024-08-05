@@ -199,15 +199,15 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-### header.navigation
+### Navigasjonssystem
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-### header.phonemirroring
+### Telefonspeiling
 
 I tillegg støtter Audi Q4 55 e-tron quattro Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan velge mellom to lydsystemer på Audi Q4 55 e-tron quattro. Med Audi Sound system får du åtte høyttalere med en maksimal systemeffekt på 180 watt. Med Sonos Sound System får du ti høyttalere med en maksimal systemeffekt på 580 watt.
 

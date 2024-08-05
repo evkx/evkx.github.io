@@ -170,15 +170,15 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
-### header.navigation
+### Système de navigation
 
 De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
-### header.phonemirroring
+### Réplication du téléphone
 
 De plus, le MG ZS EV Standard Range prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
 
-### header.soundsystem
+### Système audio
 
 Vous pouvez choisir entre deux systèmes audio sur le MG ZS EV Standard Range. Avec le MG standard system, vous obtenez quatre haut-parleurs avec une puissance système maximale de  watts. Avec le MG luxury sound system, vous obtenez six haut-parleurs avec une puissance système maximale de  watts.
 

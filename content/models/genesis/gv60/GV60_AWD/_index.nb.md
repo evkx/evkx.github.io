@@ -173,15 +173,15 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-### header.navigation
+### Navigasjonssystem
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-### header.phonemirroring
+### Telefonspeiling
 
 I tillegg støtter Genesis GV60 AWD Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgjengelig for Genesis GV60 AWD. Med Bose Premium Sound System får du åtte høyttalere med en maksimal systemeffekt på  watt.
 

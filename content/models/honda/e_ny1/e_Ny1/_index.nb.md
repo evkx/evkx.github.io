@@ -139,7 +139,7 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgjengelig for Honda e:Ny1. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
 

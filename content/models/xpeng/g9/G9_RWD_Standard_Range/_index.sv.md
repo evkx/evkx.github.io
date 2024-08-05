@@ -181,11 +181,11 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-### header.soundsystem
+### Ljudsystem
 
 En typ av ljudsystem är tillgänglig för XPENG G9 RWD Standard Range. Med  får du åtta högtalare med en maximal systemeffekt på 500 watt.
 

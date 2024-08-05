@@ -163,7 +163,7 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 ## Infodivertissement
 
-### header.soundsystem
+### Système audio
 
 Vous pouvez choisir entre deux systèmes audio sur le Polestar 4 Long range Dual motor. Avec le High Performance, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts. Avec le Bowers & Wilkins, vous obtenez 25 haut-parleurs avec une puissance système maximale de 1610 watts.
 

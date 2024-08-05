@@ -173,7 +173,7 @@ Et head-up display er en standard-system, der viser hastighed og andre vigtige f
 
 ## Infotainment
 
-### header.soundsystem
+### Lydsystem
 
 Du kan vælge mellem to lydsystemer på Xiaomi SU7 Pro. Med Xiaomi Soundsystem får du ti højttalere med en maksimal systemeffekt på  watt. Med Xiaomi Soundsystem får du 25 højttalere med en maksimal systemeffekt på  watt.
 

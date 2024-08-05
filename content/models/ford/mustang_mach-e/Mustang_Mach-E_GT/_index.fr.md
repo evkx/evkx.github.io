@@ -171,15 +171,15 @@ Le modèle n'a pas d'affichage tête haute.
 
 ## Infodivertissement
 
-### header.navigation
+### Système de navigation
 
 De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
-### header.phonemirroring
+### Réplication du téléphone
 
 De plus, le Ford Mustang Mach-E GT prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
 
-### header.soundsystem
+### Système audio
 
 Un type de système audio est disponible pour le Ford Mustang Mach-E GT. Avec le B&O Sound System, vous obtenez dix haut-parleurs avec une puissance système maximale de 560 watts.
 

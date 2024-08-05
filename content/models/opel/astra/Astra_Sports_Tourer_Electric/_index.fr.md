@@ -161,15 +161,15 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 ## Infodivertissement
 
-### header.navigation
+### Système de navigation
 
 De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
-### header.phonemirroring
+### Réplication du téléphone
 
 De plus, le Opel Astra Sports Tourer Electric prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
 
-### header.soundsystem
+### Système audio
 
 Un type de système audio est disponible pour le Opel Astra Sports Tourer Electric. Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
 

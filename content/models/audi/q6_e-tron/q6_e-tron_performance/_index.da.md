@@ -221,15 +221,15 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-### header.phonemirroring
+### Telefon spejling
 
 Yderligere understøtter Audi Q6 e-tron performance Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan vælge mellem to lydsystemer på Audi Q6 e-tron performance. Med Audi Sound System får du fem højttalere med en maksimal systemeffekt på 200 watt. Med Bang & Olufsen Sound System får du 20 højttalere med en maksimal systemeffekt på 830 watt.
 

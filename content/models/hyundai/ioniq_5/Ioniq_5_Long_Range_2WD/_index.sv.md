@@ -179,15 +179,15 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-### header.phonemirroring
+### Telefon spegling
 
 Dessutom stöder Hyundai Ioniq 5 Long Range 2WD Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
 
-### header.soundsystem
+### Ljudsystem
 
 En typ av ljudsystem är tillgänglig för Hyundai Ioniq 5 Long Range 2WD. Med Bose Premium Sound System får du åtta högtalare med en maximal systemeffekt på  watt.
 

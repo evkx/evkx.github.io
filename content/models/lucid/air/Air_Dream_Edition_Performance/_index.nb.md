@@ -179,11 +179,11 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 
-### header.navigation
+### Navigasjonssystem
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan velge mellom to lydsystemer på Lucid Air Dream Edition Performance. Med Surreal Sound får du ni høyttalere med en maksimal systemeffekt på 300 watt. Med Surreal Sound Pro får du 21 høyttalere med en maksimal systemeffekt på 800 watt.
 

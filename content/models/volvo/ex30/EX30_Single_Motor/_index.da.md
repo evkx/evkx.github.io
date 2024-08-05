@@ -166,11 +166,11 @@ Modellen har ikke et head-up display.
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan vælge mellem to lydsystemer på Volvo EX30 Single Motor. Med High Performance får du otte højttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 højttalere med en maksimal systemeffekt på 1040 watt.
 

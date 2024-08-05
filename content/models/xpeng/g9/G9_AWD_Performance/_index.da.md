@@ -181,11 +181,11 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgængelig for XPENG G9 AWD Performance. Med  får du 24 højttalere med en maksimal systemeffekt på 1940 watt.
 

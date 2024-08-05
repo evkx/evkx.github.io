@@ -189,11 +189,11 @@ El modelo no tiene head-up display.
 
 ## Infoentretenimiento
 
-### header.navigation
+### Sistema de navegación
 
 Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
 
-### header.soundsystem
+### Sistema de sonido
 
 Un tipo de sistema de sonido está disponible para el Tesla Cybertruck AWD. Con el Tesla Premium Sound, obtienes 17 parlantes con una salida máxima del sistema de 560 vatios.
 

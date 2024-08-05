@@ -164,11 +164,11 @@ Un head-up display es un sistema un estándar que presenta la velocidad y otra i
 
 ## Infoentretenimiento
 
-### header.navigation
+### Sistema de navegación
 
 Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
 
-### header.soundsystem
+### Sistema de sonido
 
 Un tipo de sistema de sonido está disponible para el Seres 5 4WD Premium. Con el , obtienes 11 parlantes con una salida máxima del sistema de  vatios.
 

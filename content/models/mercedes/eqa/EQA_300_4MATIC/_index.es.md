@@ -190,15 +190,15 @@ Este modelo también tiene un sistema de control de gestos opcional que te permi
 
 ## Infoentretenimiento
 
-### header.navigation
+### Sistema de navegación
 
 Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
 
-### header.phonemirroring
+### Espejo del teléfono
 
 Además, el Mercedes-EQ EQA 300 4MATIC es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
 
-### header.soundsystem
+### Sistema de sonido
 
 Puedes elegir entre dos sistemas de sonido en el Mercedes-EQ EQA 300 4MATIC. Con el Standard, obtienes siete parlantes con una salida máxima del sistema de 100 vatios. Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios.
 

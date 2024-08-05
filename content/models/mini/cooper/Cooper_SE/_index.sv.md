@@ -159,7 +159,7 @@ En head-up display är ett valfritt-system som visar hastighet och annan viktig 
 
 ## Infotainment
 
-### header.soundsystem
+### Ljudsystem
 
 En typ av ljudsystem är tillgänglig för Mini Cooper SE. Med  får du NULL högtalare med en maximal systemeffekt på  watt.
 

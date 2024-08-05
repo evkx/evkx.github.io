@@ -189,15 +189,15 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
-### header.navigation
+### Navigasjonssystem
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-### header.phonemirroring
+### Telefonspeiling
 
 I tillegg støtter Lotus Emeya S Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan velge mellom to lydsystemer på Lotus Emeya S. Med KEF Premium Audio system får du 15 høyttalere med en maksimal systemeffekt på 1380 watt. Med KEF Reference Audio system får du 23 høyttalere med en maksimal systemeffekt på 2160 watt.
 

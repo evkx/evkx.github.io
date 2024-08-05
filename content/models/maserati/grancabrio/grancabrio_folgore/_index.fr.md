@@ -185,15 +185,15 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 ## Infodivertissement
 
-### header.navigation
+### Système de navigation
 
 De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
-### header.phonemirroring
+### Réplication du téléphone
 
 De plus, le Maserati GranCabrio Folgore prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
 
-### header.soundsystem
+### Système audio
 
 Vous pouvez choisir entre deux systèmes audio sur le Maserati GranCabrio Folgore. Avec le Sonus Faber Premium Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de 860 watts. Avec le Sonus Faber High Premium Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 1285 watts.
 

@@ -164,15 +164,15 @@ Et head-up display er standard-system som viser hastighet og annen viktig fører
 
 ## Infotainment
 
-### header.navigation
+### Navigasjonssystem
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-### header.phonemirroring
+### Telefonspeiling
 
 I tillegg støtter Peugot E-208 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgjengelig for Peugot E-208. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
 

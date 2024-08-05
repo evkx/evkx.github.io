@@ -175,11 +175,11 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-### header.soundsystem
+### Ljudsystem
 
 Du kan välja mellan två ljudsystem på HiPhi Y Performance. Med SONIC LINE SYSTEM får du 14 högtalare med en maximal systemeffekt på 600 watt. Med SONIC PRO SYSTEM får du 25 högtalare med en maximal systemeffekt på 2820 watt.
 

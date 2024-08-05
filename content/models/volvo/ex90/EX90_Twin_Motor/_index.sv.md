@@ -181,7 +181,7 @@ En head-up display är ett standard-system som visar hastighet och annan viktig 
 
 ## Infotainment
 
-### header.soundsystem
+### Ljudsystem
 
 Du kan välja mellan två ljudsystem på Volvo EX90 Twin Motor. Med High Performance får du åtta högtalare med en maximal systemeffekt på 200 watt. Med Bowers & Wilkins får du 25 högtalare med en maximal systemeffekt på 1610 watt.
 

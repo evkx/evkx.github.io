@@ -177,11 +177,11 @@ Denne model har et valgfrit stemmestyringssystem. Stemmestyringen lader dig styr
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgængelig for Hongqi E-HS9 Exclusive. Med Hongqi sound system får du 12 højttalere med en maksimal systemeffekt på  watt.
 

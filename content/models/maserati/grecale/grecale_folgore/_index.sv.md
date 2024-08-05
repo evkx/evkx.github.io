@@ -183,15 +183,15 @@ En head-up display är ett standard-system som visar hastighet och annan viktig 
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-### header.phonemirroring
+### Telefon spegling
 
 Dessutom stöder Maserati Grecale Folgore Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
 
-### header.soundsystem
+### Ljudsystem
 
 Du kan välja mellan två ljudsystem på Maserati Grecale Folgore. Med Sonus Faber Premium Sound System får du 14 högtalare med en maximal systemeffekt på 860 watt. Med Sonus Faber High Premium Sound System får du 21 högtalare med en maximal systemeffekt på 1285 watt.
 

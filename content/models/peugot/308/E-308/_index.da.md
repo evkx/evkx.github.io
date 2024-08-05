@@ -171,15 +171,15 @@ Et head-up display er en standard-system, der viser hastighed og andre vigtige f
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-### header.phonemirroring
+### Telefon spejling
 
 Yderligere understøtter Peugot E-308 Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgængelig for Peugot E-308. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
 

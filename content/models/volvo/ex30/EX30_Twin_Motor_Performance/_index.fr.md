@@ -166,11 +166,11 @@ Le modèle n'a pas d'affichage tête haute.
 
 ## Infodivertissement
 
-### header.navigation
+### Système de navigation
 
 De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
-### header.soundsystem
+### Système audio
 
 Vous pouvez choisir entre deux systèmes audio sur le Volvo EX30 Twin Motor Performance. Avec le High Performance, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts. Avec le Harman Kardon Premium Sound, vous obtenez 13 haut-parleurs avec une puissance système maximale de 1040 watts.
 

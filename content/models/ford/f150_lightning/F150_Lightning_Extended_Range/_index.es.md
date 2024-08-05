@@ -173,15 +173,15 @@ El modelo no tiene head-up display.
 
 ## Infoentretenimiento
 
-### header.navigation
+### Sistema de navegación
 
 Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
 
-### header.phonemirroring
+### Espejo del teléfono
 
 Además, el Ford F150 Lightning Extended Range es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
 
-### header.soundsystem
+### Sistema de sonido
 
 Puedes elegir entre tres sistemas de sonido en el Ford F150 Lightning Extended Range. Con el Ford, obtienes cuatro parlantes con una salida máxima del sistema de 80 vatios. Con el B&O Sound System, obtienes ocho parlantes con una salida máxima del sistema de 640 vatios. Con el B&O Unleashed Sound System, obtienes 18 parlantes con una salida máxima del sistema de 1080 vatios.
 

@@ -194,15 +194,15 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-### header.navigation
+### Navigasjonssystem
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-### header.phonemirroring
+### Telefonspeiling
 
 I tillegg støtter BMW i5 eDrive40 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan velge mellom tre lydsystemer på BMW i5 eDrive40. Med Hifi Sound system får du seks høyttalere med en maksimal systemeffekt på 100 watt. Med Harman Kardon Surround Sound system får du 12 høyttalere med en maksimal systemeffekt på 205 watt. Med Bower & Wilkins Surround System får du 18 høyttalere med en maksimal systemeffekt på 655 watt.
 

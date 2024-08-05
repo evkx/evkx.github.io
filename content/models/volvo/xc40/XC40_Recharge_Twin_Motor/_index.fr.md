@@ -167,7 +167,7 @@ Le modèle n'a pas d'affichage tête haute.
 
 ## Infodivertissement
 
-### header.soundsystem
+### Système audio
 
 Vous pouvez choisir entre deux systèmes audio sur le Volvo XC40 Recharge Twin Motor. Avec le High Performance, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts. Avec le Harman Kardon Premium Sound, vous obtenez 13 haut-parleurs avec une puissance système maximale de 600 watts.
 

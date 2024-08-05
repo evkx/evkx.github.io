@@ -174,7 +174,7 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 ## Infodivertissement
 
-### header.soundsystem
+### Système audio
 
 Un type de système audio est disponible pour le Xiaomi SU7 Max. Avec le Xiaomi Soundsystem, vous obtenez 25 haut-parleurs avec une puissance système maximale de  watts.
 

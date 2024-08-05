@@ -183,15 +183,15 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
-### header.navigation
+### Sistema de navegación
 
 Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
 
-### header.phonemirroring
+### Espejo del teléfono
 
 Además, el Lotus Eletre es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
 
-### header.soundsystem
+### Sistema de sonido
 
 Puedes elegir entre dos sistemas de sonido en el Lotus Eletre. Con el KEF Premium Audio system, obtienes 15 parlantes con una salida máxima del sistema de 1380 vatios. Con el KEF Reference Audio system, obtienes 23 parlantes con una salida máxima del sistema de 2160 vatios.
 

@@ -197,11 +197,11 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-### header.soundsystem
+### Ljudsystem
 
 En typ av ljudsystem är tillgänglig för Nio EL6. Med Premium sound system får du 23 högtalare med en maximal systemeffekt på  watt.
 

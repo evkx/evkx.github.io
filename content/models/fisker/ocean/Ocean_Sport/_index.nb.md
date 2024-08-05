@@ -169,11 +169,11 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 
-### header.navigation
+### Navigasjonssystem
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgjengelig for Fisker Ocean Sport. Med Fisker Hypersound 3D får du 16 høyttalere med en maksimal systemeffekt på 500 watt.
 

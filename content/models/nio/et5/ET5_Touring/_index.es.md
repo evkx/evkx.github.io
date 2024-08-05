@@ -189,11 +189,11 @@ Este modelo tiene un sistema de control de voz opcional. El control de voz te pe
 
 ## Infoentretenimiento
 
-### header.navigation
+### Sistema de navegación
 
 Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
 
-### header.soundsystem
+### Sistema de sonido
 
 Un tipo de sistema de sonido está disponible para el Nio ET5 Touring. Con el Premium sound system, obtienes 23 parlantes con una salida máxima del sistema de  vatios.
 

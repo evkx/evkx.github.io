@@ -161,15 +161,15 @@ Modellen har ikke et head-up display.
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-### header.phonemirroring
+### Telefon spejling
 
 Yderligere understøtter GMC Hummer EV Edition 1 Pickup Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgængelig for GMC Hummer EV Edition 1 Pickup. Med Bose Premium Sound System får du 14 højttalere med en maksimal systemeffekt på 625 watt.
 

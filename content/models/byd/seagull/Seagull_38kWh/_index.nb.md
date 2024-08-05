@@ -167,11 +167,11 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 
-### header.navigation
+### Navigasjonssystem
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgjengelig for BYD Seagull 38kWh. Med Dirac får du åtte høyttalere med en maksimal systemeffekt på  watt.
 

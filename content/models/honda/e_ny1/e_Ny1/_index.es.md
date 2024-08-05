@@ -139,7 +139,7 @@ El modelo no tiene head-up display.
 
 ## Infoentretenimiento
 
-### header.soundsystem
+### Sistema de sonido
 
 Un tipo de sistema de sonido está disponible para el Honda e:Ny1. Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
 

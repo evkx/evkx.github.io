@@ -184,15 +184,15 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 ## Infodivertissement
 
-### header.navigation
+### Système de navigation
 
 De plus, avec le système de navigation embarqué un facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
-### header.phonemirroring
+### Réplication du téléphone
 
 De plus, le Lexus UX 300e prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
 
-### header.soundsystem
+### Système audio
 
 Vous pouvez choisir entre deux systèmes audio sur le Lexus UX 300e. Avec le Standard, vous obtenez 14 haut-parleurs avec une puissance système maximale de  watts. Avec le Mark Levinson Premium Surround Sound, vous obtenez 14 haut-parleurs avec une puissance système maximale de  watts.
 

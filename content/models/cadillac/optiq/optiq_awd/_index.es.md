@@ -168,15 +168,15 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
-### header.navigation
+### Sistema de navegación
 
 Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
 
-### header.phonemirroring
+### Espejo del teléfono
 
 Además, el Cadillac OPTIQ AWD es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
 
-### header.soundsystem
+### Sistema de sonido
 
 Un tipo de sistema de sonido está disponible para el Cadillac OPTIQ AWD. Con el AKG sound system, obtienes 19 parlantes con una salida máxima del sistema de  vatios.
 

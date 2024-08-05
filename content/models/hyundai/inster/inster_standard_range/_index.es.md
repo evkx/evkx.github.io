@@ -180,15 +180,15 @@ El modelo no tiene head-up display.
 
 ## Infoentretenimiento
 
-### header.navigation
+### Sistema de navegación
 
 Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
 
-### header.phonemirroring
+### Espejo del teléfono
 
 Además, el Hyundai INSTER Standard Range es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
 
-### header.soundsystem
+### Sistema de sonido
 
 Un tipo de sistema de sonido está disponible para el Hyundai INSTER Standard Range. Con el Bose Premium Sound System, obtienes siete parlantes con una salida máxima del sistema de  vatios.
 

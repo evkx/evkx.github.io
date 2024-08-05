@@ -201,15 +201,15 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-### header.navigation
+### Navigasjonssystem
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-### header.phonemirroring
+### Telefonspeiling
 
 I tillegg støtter Jaguar I-Pace EV400 Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan velge mellom to lydsystemer på Jaguar I-Pace EV400. Med Meridian Sound System får du 11 høyttalere med en maksimal systemeffekt på 400 watt. Med Meridian 3D Surround får du 16 høyttalere med en maksimal systemeffekt på 750 watt.
 

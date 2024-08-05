@@ -195,15 +195,15 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 ## Infoentretenimiento
 
-### header.navigation
+### Sistema de navegación
 
 Además, con el sistema de navegación para automóvil un opcional, obtienes la ayuda que necesitas para encontrar tu destino.
 
-### header.phonemirroring
+### Espejo del teléfono
 
 Además, el Audi Q4 Sportback 35 e-tron es compatible con Android Auto y Apple CarPlay. Esta funcionalidad te permite presentar la pantalla de tu teléfono en la pantalla del auto para que puedas ejecutar aplicaciones como Google Maps o Waze.
 
-### header.soundsystem
+### Sistema de sonido
 
 Puedes elegir entre dos sistemas de sonido en el Audi Q4 Sportback 35 e-tron. Con el Audi Sound system, obtienes ocho parlantes con una salida máxima del sistema de 180 vatios. Con el Sonos Sound System, obtienes diez parlantes con una salida máxima del sistema de 580 vatios.
 

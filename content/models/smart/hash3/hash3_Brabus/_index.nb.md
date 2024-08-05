@@ -162,11 +162,11 @@ Et head-up display er standard-system som viser hastighet og annen viktig fører
 
 ## Infotainment
 
-### header.navigation
+### Navigasjonssystem
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgjengelig for Smart #3 Brabus. Med Yamaha surround sound system får du 13 høyttalere med en maksimal systemeffekt på 1040 watt.
 

@@ -170,11 +170,11 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-### header.soundsystem
+### Ljudsystem
 
 En typ av ljudsystem är tillgänglig för XPENG G6 AWD Performance. Med  får du 18 högtalare med en maximal systemeffekt på 1200 watt.
 

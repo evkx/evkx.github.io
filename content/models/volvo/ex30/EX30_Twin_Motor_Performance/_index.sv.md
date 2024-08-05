@@ -166,11 +166,11 @@ Modellen är inte tillgänglig med head-up display.
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-### header.soundsystem
+### Ljudsystem
 
 Du kan välja mellan två ljudsystem på Volvo EX30 Twin Motor Performance. Med High Performance får du åtta högtalare med en maximal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 högtalare med en maximal systemeffekt på 1040 watt.
 

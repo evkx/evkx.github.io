@@ -183,7 +183,7 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
-### header.soundsystem
+### Sistema de sonido
 
 Un tipo de sistema de sonido está disponible para el HiPhi Z 4 Seater. Con el SONIC PRO SYSTEM, obtienes 23 parlantes con una salida máxima del sistema de 600 vatios.
 

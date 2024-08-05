@@ -159,7 +159,7 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 
 ## Infotainment
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgjengelig for Mini Cooper SE. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
 

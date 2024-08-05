@@ -182,11 +182,11 @@ Modellen har ikke et head-up display.
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgængelig for Fisker Ocean Extreme. Med Fisker Hypersound 3D får du 16 højttalere med en maksimal systemeffekt på 500 watt.
 

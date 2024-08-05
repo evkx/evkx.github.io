@@ -177,11 +177,11 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
-### header.navigation
+### Système de navigation
 
 De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
-### header.soundsystem
+### Système audio
 
 Un type de système audio est disponible pour le Rivian R1S Performance Dual-Motor AWD LP. Avec le Rivian Elevation audio system, vous obtenez 22 haut-parleurs avec une puissance système maximale de 1100 watts.
 

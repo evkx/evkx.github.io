@@ -164,11 +164,11 @@ En head-up display är ett standard-system som visar hastighet och annan viktig 
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-### header.soundsystem
+### Ljudsystem
 
 En typ av ljudsystem är tillgänglig för Seres 5 4WD Premium. Med  får du 11 högtalare med en maximal systemeffekt på  watt.
 

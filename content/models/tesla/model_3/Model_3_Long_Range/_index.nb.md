@@ -178,11 +178,11 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
-### header.navigation
+### Navigasjonssystem
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgjengelig for Tesla Model 3 Long Range. Med Tesla Premium Sound får du 17 høyttalere med en maksimal systemeffekt på 560 watt.
 

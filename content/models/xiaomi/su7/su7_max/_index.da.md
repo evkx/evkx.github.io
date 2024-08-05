@@ -174,7 +174,7 @@ Et head-up display er en standard-system, der viser hastighed og andre vigtige f
 
 ## Infotainment
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgængelig for Xiaomi SU7 Max. Med Xiaomi Soundsystem får du 25 højttalere med en maksimal systemeffekt på  watt.
 

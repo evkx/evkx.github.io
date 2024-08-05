@@ -188,15 +188,15 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-### header.phonemirroring
+### Telefon spegling
 
 Dessutom stöder Lotus Eletre S Android Auto och Apple CarPlay. Denna funktion gör att du kan visa telefonens skärm på bilens skärm så att du kan köra appar som Google Maps eller Waze.
 
-### header.soundsystem
+### Ljudsystem
 
 Du kan välja mellan två ljudsystem på Lotus Eletre S. Med KEF Premium Audio system får du 15 högtalare med en maximal systemeffekt på 1380 watt. Med KEF Reference Audio system får du 23 högtalare med en maximal systemeffekt på 2160 watt.
 

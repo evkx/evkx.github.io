@@ -161,7 +161,7 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
-### header.soundsystem
+### Sistema de sonido
 
 Un tipo de sistema de sonido está disponible para el Neta GT 580 AWD. Con el Neta Sky sound, obtienes 12 parlantes con una salida máxima del sistema de  vatios.
 

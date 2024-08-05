@@ -185,11 +185,11 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan vælge mellem to lydsystemer på HiPhi X 6 Seater. Med SONIC LINE SYSTEM får du ni højttalere med en maksimal systemeffekt på 600 watt. Med SONIC PRO SYSTEM får du 17 højttalere med en maksimal systemeffekt på 600 watt.
 

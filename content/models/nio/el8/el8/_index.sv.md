@@ -211,11 +211,11 @@ Denna modell har ett valfritt röststyrningssystem. Röstkontrollen låter dig s
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-### header.soundsystem
+### Ljudsystem
 
 Du kan välja mellan två ljudsystem på Nio EL8. Med Surroundsystem får du sju högtalare med en maximal systemeffekt på  watt. Med Premium sound system får du 12 högtalare med en maximal systemeffekt på  watt.
 

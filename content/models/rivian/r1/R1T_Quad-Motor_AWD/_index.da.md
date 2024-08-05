@@ -172,11 +172,11 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgængelig for Rivian R1T Quad-Motor AWD. Med Rivian Elevation audio system får du 22 højttalere med en maksimal systemeffekt på 1100 watt.
 

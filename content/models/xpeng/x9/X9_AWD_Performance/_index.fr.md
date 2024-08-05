@@ -168,7 +168,7 @@ Le modèle n'a pas d'affichage tête haute.
 
 ## Infodivertissement
 
-### header.soundsystem
+### Système audio
 
 Un type de système audio est disponible pour le XPENG X9 AWD Performance. Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
 

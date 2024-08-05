@@ -170,7 +170,7 @@ Le modèle n'a pas d'affichage tête haute.
 
 ## Infodivertissement
 
-### header.soundsystem
+### Système audio
 
 Un type de système audio est disponible pour le Aion Hyper GT 710 Supercharged. Avec le , vous obtenez 23 haut-parleurs avec une puissance système maximale de  watts.
 

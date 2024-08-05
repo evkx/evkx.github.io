@@ -175,11 +175,11 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 
-### header.navigation
+### Navigasjonssystem
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgjengelig for Tesla Model 3. Med Tesla Imersive Sound får du ni høyttalere med en maksimal systemeffekt på 560 watt.
 

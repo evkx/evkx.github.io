@@ -184,15 +184,15 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Derudover får du med en valgfri navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-### header.phonemirroring
+### Telefon spejling
 
 Yderligere understøtter Lexus UX 300e Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan vælge mellem to lydsystemer på Lexus UX 300e. Med Standard får du 14 højttalere med en maksimal systemeffekt på  watt. Med Mark Levinson Premium Surround Sound får du 14 højttalere med en maksimal systemeffekt på  watt.
 

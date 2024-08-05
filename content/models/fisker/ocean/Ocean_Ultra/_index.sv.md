@@ -168,11 +168,11 @@ Modellen är inte tillgänglig med head-up display.
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-### header.soundsystem
+### Ljudsystem
 
 En typ av ljudsystem är tillgänglig för Fisker Ocean Ultra. Med Fisker Hypersound 3D får du 16 högtalare med en maximal systemeffekt på 500 watt.
 

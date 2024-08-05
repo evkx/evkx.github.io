@@ -178,11 +178,11 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
-### header.navigation
+### Sistema de navegación
 
 Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
 
-### header.soundsystem
+### Sistema de sonido
 
 Un tipo de sistema de sonido está disponible para el Rivian R1S Quad-Motor AWD. Con el Rivian Elevation audio system, obtienes 22 parlantes con una salida máxima del sistema de 1100 vatios.
 

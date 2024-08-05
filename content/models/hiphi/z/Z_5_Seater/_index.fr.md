@@ -177,7 +177,7 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
-### header.soundsystem
+### Système audio
 
 Un type de système audio est disponible pour le HiPhi Z 5 Seater. Avec le SONIC PRO SYSTEM, vous obtenez 23 haut-parleurs avec une puissance système maximale de 600 watts.
 

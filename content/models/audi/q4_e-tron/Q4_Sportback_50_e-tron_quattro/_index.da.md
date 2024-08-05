@@ -195,15 +195,15 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Derudover får du med en valgfri navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-### header.phonemirroring
+### Telefon spejling
 
 Yderligere understøtter Audi Q4 Sportback 50 e-tron quattro Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan vælge mellem to lydsystemer på Audi Q4 Sportback 50 e-tron quattro. Med Audi Sound system får du otte højttalere med en maksimal systemeffekt på 180 watt. Med Sonos Sound System får du ti højttalere med en maksimal systemeffekt på 580 watt.
 

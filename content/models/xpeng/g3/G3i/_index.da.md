@@ -153,7 +153,7 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ## Infotainment
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgængelig for XPENG G3i. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
 

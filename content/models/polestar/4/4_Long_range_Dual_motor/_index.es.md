@@ -163,7 +163,7 @@ Un head-up display es un sistema un estándar que presenta la velocidad y otra i
 
 ## Infoentretenimiento
 
-### header.soundsystem
+### Sistema de sonido
 
 Puedes elegir entre dos sistemas de sonido en el Polestar 4 Long range Dual motor. Con el High Performance, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios. Con el Bowers & Wilkins, obtienes 25 parlantes con una salida máxima del sistema de 1610 vatios.
 

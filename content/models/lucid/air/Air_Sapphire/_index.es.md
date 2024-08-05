@@ -175,11 +175,11 @@ El modelo no tiene head-up display.
 
 ## Infoentretenimiento
 
-### header.navigation
+### Sistema de navegación
 
 Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
 
-### header.soundsystem
+### Sistema de sonido
 
 Un tipo de sistema de sonido está disponible para el Lucid Air Sapphire. Con el Surreal Sound Pro, obtienes 21 parlantes con una salida máxima del sistema de 800 vatios.
 

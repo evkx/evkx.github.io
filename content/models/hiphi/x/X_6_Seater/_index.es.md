@@ -185,11 +185,11 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
-### header.navigation
+### Sistema de navegación
 
 Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
 
-### header.soundsystem
+### Sistema de sonido
 
 Puedes elegir entre dos sistemas de sonido en el HiPhi X 6 Seater. Con el SONIC LINE SYSTEM, obtienes nueve parlantes con una salida máxima del sistema de 600 vatios. Con el SONIC PRO SYSTEM, obtienes 17 parlantes con una salida máxima del sistema de 600 vatios.
 

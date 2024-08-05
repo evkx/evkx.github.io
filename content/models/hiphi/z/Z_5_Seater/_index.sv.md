@@ -177,7 +177,7 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
-### header.soundsystem
+### Ljudsystem
 
 En typ av ljudsystem är tillgänglig för HiPhi Z 5 Seater. Med SONIC PRO SYSTEM får du 23 högtalare med en maximal systemeffekt på 600 watt.
 

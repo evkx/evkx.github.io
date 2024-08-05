@@ -168,7 +168,7 @@ Modellen är inte tillgänglig med head-up display.
 
 ## Infotainment
 
-### header.soundsystem
+### Ljudsystem
 
 Du kan välja mellan två ljudsystem på Volvo EC40 Single Motor. Med High Performance får du åtta högtalare med en maximal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 högtalare med en maximal systemeffekt på 600 watt.
 

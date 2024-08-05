@@ -174,7 +174,7 @@ El modelo no tiene head-up display.
 
 ## Infoentretenimiento
 
-### header.soundsystem
+### Sistema de sonido
 
 Puedes elegir entre dos sistemas de sonido en el Volvo C40 Recharge Single Motor. Con el High Performance, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios. Con el Harman Kardon Premium Sound, obtienes 13 parlantes con una salida máxima del sistema de 600 vatios.
 

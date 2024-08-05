@@ -208,25 +208,25 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
-infotainment.os.AAOS
+Audi A6 Sportback e-tron performance har et avansert infotainmentsystem bygget på Android Automotive OS, en plattform fra Google spesielt designet for bilens dashbord. For å forbedre dette robuste systemet har Audi integrert sin egen suite av applikasjoner, som gir sømløs navigasjon, omfattende bilinnstillinger og mye mer.
 
-### header.navigation
+### Navigasjonssystem
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-### header.appstore
+### App store
 
-infotainment.appstore
+Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsapper for å kjøre direkte på bilens skjerm uten behov for en tilkoblet telefon. Tilgjengelige apper varierer avhengig av markedet, men inkluderer populære alternativer som:
 
-- Spotify
-- TIDAL
-- YouTube
+- **Spotify**
+- **TIDAL**
+- **YouTube**
 
-### header.phonemirroring
+### Telefonspeiling
 
 I tillegg støtter Audi A6 Sportback e-tron performance Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan velge mellom to lydsystemer på Audi A6 Sportback e-tron performance. Med Audi Sound System får du fem høyttalere med en maksimal systemeffekt på 200 watt. Med Bang & Olufsen Sound System får du 20 høyttalere med en maksimal systemeffekt på 830 watt.
 

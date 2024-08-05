@@ -189,11 +189,11 @@ Modellen har ikke et head-up display.
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgængelig for Lucid Gravity Dream Edition. Med Surreal Sound Pro System får du 22 højttalere med en maksimal systemeffekt på  watt.
 

@@ -202,11 +202,11 @@ Este modelo tiene un sistema de control de voz opcional. El control de voz te pe
 
 ## Infoentretenimiento
 
-### header.navigation
+### Sistema de navegación
 
 Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
 
-### header.soundsystem
+### Sistema de sonido
 
 Puedes elegir entre dos sistemas de sonido en el Nio ES8. Con el Surroundsystem, obtienes siete parlantes con una salida máxima del sistema de  vatios. Con el Premium sound system, obtienes 12 parlantes con una salida máxima del sistema de  vatios.
 

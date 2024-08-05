@@ -174,7 +174,7 @@ Un head-up display es un sistema un estándar que presenta la velocidad y otra i
 
 ## Infoentretenimiento
 
-### header.soundsystem
+### Sistema de sonido
 
 Un tipo de sistema de sonido está disponible para el Xiaomi SU7 Max. Con el Xiaomi Soundsystem, obtienes 25 parlantes con una salida máxima del sistema de  vatios.
 

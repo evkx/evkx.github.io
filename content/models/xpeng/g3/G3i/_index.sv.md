@@ -153,7 +153,7 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
-### header.soundsystem
+### Ljudsystem
 
 En typ av ljudsystem är tillgänglig för XPENG G3i. Med  får du NULL högtalare med en maximal systemeffekt på  watt.
 

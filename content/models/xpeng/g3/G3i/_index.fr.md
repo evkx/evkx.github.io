@@ -153,7 +153,7 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
-### header.soundsystem
+### Système audio
 
 Un type de système audio est disponible pour le XPENG G3i. Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
 

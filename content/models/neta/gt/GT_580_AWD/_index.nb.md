@@ -161,7 +161,7 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgjengelig for Neta GT 580 AWD. Med Neta Sky sound får du 12 høyttalere med en maksimal systemeffekt på  watt.
 

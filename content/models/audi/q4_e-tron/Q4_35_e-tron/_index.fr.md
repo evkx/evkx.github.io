@@ -199,15 +199,15 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 ## Infodivertissement
 
-### header.navigation
+### Système de navigation
 
 De plus, avec le système de navigation embarqué un facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
-### header.phonemirroring
+### Réplication du téléphone
 
 De plus, le Audi Q4 35 e-tron prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
 
-### header.soundsystem
+### Système audio
 
 Vous pouvez choisir entre deux systèmes audio sur le Audi Q4 35 e-tron. Avec le Audi Sound system, vous obtenez huit haut-parleurs avec une puissance système maximale de 180 watts. Avec le Sonos Sound System, vous obtenez dix haut-parleurs avec une puissance système maximale de 580 watts.
 

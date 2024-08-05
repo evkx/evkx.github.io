@@ -173,15 +173,15 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 
-### header.navigation
+### Navigasjonssystem
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-### header.phonemirroring
+### Telefonspeiling
 
 I tillegg støtter Ford F150 Lightning Extended Range Android Auto og Apple CarPlay. Denne funksjonaliteten lar deg presentere telefonens skjerm på bilens skjerm slik at du kan kjøre apper som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan velge mellom tre lydsystemer på Ford F150 Lightning Extended Range. Med Ford får du fire høyttalere med en maksimal systemeffekt på 80 watt. Med B&O Sound System får du åtte høyttalere med en maksimal systemeffekt på 640 watt. Med B&O Unleashed Sound System får du 18 høyttalere med en maksimal systemeffekt på 1080 watt.
 

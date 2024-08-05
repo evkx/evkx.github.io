@@ -195,15 +195,15 @@ Et gestuskontrolsystem, der lader dig styre specifikke funktioner ved hjælp af 
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-### header.phonemirroring
+### Telefon spejling
 
 Yderligere understøtter BMW i5 M60 xDrive Touring Android Auto og Apple CarPlay. Denne funktionalitet giver dig mulighed for at præsentere din telefons skærm på bilens skærm, så du kan køre apps som Google Maps eller Waze.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan vælge mellem tre lydsystemer på BMW i5 M60 xDrive Touring. Med Hifi Sound system får du seks højttalere med en maksimal systemeffekt på 100 watt. Med Harman Kardon Surround Sound system får du 12 højttalere med en maksimal systemeffekt på 205 watt. Med Bower & Wilkins Surround System får du 18 højttalere med en maksimal systemeffekt på 655 watt.
 

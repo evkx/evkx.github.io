@@ -179,11 +179,11 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
-### header.navigation
+### Navigasjonssystem
 
 I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan velge mellom to lydsystemer på HiPhi X 4 Seater. Med SONIC LINE SYSTEM får du ni høyttalere med en maksimal systemeffekt på 600 watt. Med SONIC PRO SYSTEM får du 17 høyttalere med en maksimal systemeffekt på 600 watt.
 

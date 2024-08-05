@@ -160,11 +160,11 @@ Modellen har ikke et head-up display.
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgængelig for VOYAH FREE. Med DYNAUDIO HIFI Sound system får du NULL højttalere med en maksimal systemeffekt på  watt.
 

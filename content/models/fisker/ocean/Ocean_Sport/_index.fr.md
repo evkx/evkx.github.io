@@ -169,11 +169,11 @@ Le modèle n'a pas d'affichage tête haute.
 
 ## Infodivertissement
 
-### header.navigation
+### Système de navigation
 
 De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
-### header.soundsystem
+### Système audio
 
 Un type de système audio est disponible pour le Fisker Ocean Sport. Avec le Fisker Hypersound 3D, vous obtenez 16 haut-parleurs avec une puissance système maximale de 500 watts.
 

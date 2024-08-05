@@ -179,11 +179,11 @@ Modellen har ikke et head-up display.
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-### header.soundsystem
+### Lydsystem
 
 Du kan vælge mellem to lydsystemer på Lucid Air Grand Touring. Med Surreal Sound får du ni højttalere med en maksimal systemeffekt på 300 watt. Med Surreal Sound Pro får du 21 højttalere med en maksimal systemeffekt på 800 watt.
 

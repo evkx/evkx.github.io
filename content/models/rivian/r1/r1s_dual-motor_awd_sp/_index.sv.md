@@ -178,11 +178,11 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-### header.soundsystem
+### Ljudsystem
 
 En typ av ljudsystem är tillgänglig för Rivian R1S Dual-Motor AWD SP. Med Rivian Elevation audio system får du 22 högtalare med en maximal systemeffekt på 1100 watt.
 

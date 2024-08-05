@@ -187,11 +187,11 @@ Modellen har ikke et head-up display.
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Derudover får du med en standard navigationssystemet i bilen den hjælp, du har brug for til at finde din destination.
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgængelig for BYD Dolphin 60.4kWh. Med Dirac får du otte højttalere med en maksimal systemeffekt på  watt.
 

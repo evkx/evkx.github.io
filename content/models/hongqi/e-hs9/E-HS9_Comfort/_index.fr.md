@@ -175,11 +175,11 @@ Ce modèle dispose d'un système de commande vocale en option. La commande vocal
 
 ## Infodivertissement
 
-### header.navigation
+### Système de navigation
 
 De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
-### header.soundsystem
+### Système audio
 
 Un type de système audio est disponible pour le Hongqi E-HS9 Comfort. Avec le Hongqi sound system, vous obtenez huit haut-parleurs avec une puissance système maximale de  watts.
 

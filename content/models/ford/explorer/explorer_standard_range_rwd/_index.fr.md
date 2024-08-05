@@ -175,15 +175,15 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 ## Infodivertissement
 
-### header.navigation
+### Système de navigation
 
 De plus, avec le système de navigation embarqué un facultatif, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
-### header.phonemirroring
+### Réplication du téléphone
 
 De plus, le Ford Explorer Standard Range RWD prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
 
-### header.soundsystem
+### Système audio
 
 Vous pouvez choisir entre deux systèmes audio sur le Ford Explorer Standard Range RWD. Avec le Sound system, vous obtenez six haut-parleurs avec une puissance système maximale de 140 watts. Avec le B&O Soundsystem, vous obtenez dix haut-parleurs avec une puissance système maximale de 480 watts.
 

@@ -175,11 +175,11 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
-### header.navigation
+### Système de navigation
 
 De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
-### header.soundsystem
+### Système audio
 
 Vous pouvez choisir entre deux systèmes audio sur le HiPhi Y Performance. Avec le SONIC LINE SYSTEM, vous obtenez 14 haut-parleurs avec une puissance système maximale de 600 watts. Avec le SONIC PRO SYSTEM, vous obtenez 25 haut-parleurs avec une puissance système maximale de 2820 watts.
 

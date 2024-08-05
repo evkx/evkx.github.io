@@ -173,7 +173,7 @@ Et head-up display er standard-system som viser hastighet og annen viktig fører
 
 ## Infotainment
 
-### header.soundsystem
+### Lydsystem
 
 Du kan velge mellom to lydsystemer på Polestar 3 Long Range Dual Motor. Med High Performance får du åtte høyttalere med en maksimal systemeffekt på 200 watt. Med Bowers & Wilkins får du 25 høyttalere med en maksimal systemeffekt på 1610 watt.
 

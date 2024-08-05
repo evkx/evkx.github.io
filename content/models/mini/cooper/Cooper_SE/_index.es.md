@@ -159,7 +159,7 @@ Un head-up display es un sistema un opcional que presenta la velocidad y otra in
 
 ## Infoentretenimiento
 
-### header.soundsystem
+### Sistema de sonido
 
 Un tipo de sistema de sonido está disponible para el Mini Cooper SE. Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
 

@@ -168,7 +168,7 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ## Infotainment
 
-### header.soundsystem
+### Lydsystem
 
 Én type lydsystem er tilgjengelig for XPENG X9 AWD Performance. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
 

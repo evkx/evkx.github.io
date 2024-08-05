@@ -172,11 +172,11 @@ Modellen är inte tillgänglig med head-up display.
 
 ## Infotainment
 
-### header.navigation
+### Navigationssystem
 
 Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
 
-### header.soundsystem
+### Ljudsystem
 
 En typ av ljudsystem är tillgänglig för Tesla Model S Standard Range. Med Tesla Premium Sound får du 22 högtalare med en maximal systemeffekt på 560 watt.
 

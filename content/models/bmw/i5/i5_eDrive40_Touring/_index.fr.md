@@ -194,15 +194,15 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 ## Infodivertissement
 
-### header.navigation
+### Système de navigation
 
 De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
 
-### header.phonemirroring
+### Réplication du téléphone
 
 De plus, le BMW i5 eDrive40 Touring prend en charge Android Auto et Apple CarPlay. Cette fonctionnalité vous permet d'afficher l'écran de votre téléphone sur l'écran de la voiture afin que vous puissiez exécuter des applications comme Google Maps ou Waze.
 
-### header.soundsystem
+### Système audio
 
 Vous pouvez choisir entre trois systèmes audio sur le BMW i5 eDrive40 Touring. Avec le Hifi Sound system, vous obtenez six haut-parleurs avec une puissance système maximale de 100 watts. Avec le Harman Kardon Surround Sound system, vous obtenez 12 haut-parleurs avec une puissance système maximale de 205 watts. Avec le Bower & Wilkins Surround System, vous obtenez 18 haut-parleurs avec une puissance système maximale de 655 watts.
 
