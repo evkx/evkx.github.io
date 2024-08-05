@@ -173,7 +173,7 @@ Key screen details:
 - The  screen behind the steering wheel on the left of the frame is 12.3 inches large
 - The touch screen at the right part of the shared frame is 12.3 inches large
 
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/screens_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}

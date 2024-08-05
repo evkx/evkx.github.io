@@ -266,7 +266,7 @@ Key screen details:
 - The touch screen at the top of the center console is 10.1 inches large
 - The touch screen at the bottom of the center console is 8.6 inches large
 
-A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/screens_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}

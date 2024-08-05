@@ -177,7 +177,7 @@ Key screen details:
 - The touch screen on the dashboard's center is 14.9 inches large
 - The touch screen at the bottom of the center console is 7.6 inches large
 
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/screens_1_st.jpg" title="Genesis GV60 2WD" width="3000" height="1796"  >}}

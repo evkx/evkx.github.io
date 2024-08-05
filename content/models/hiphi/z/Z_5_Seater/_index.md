@@ -177,13 +177,13 @@ Key screen details:
 
 - The touch screen on the dashboard's center is 15.0 inches large
 
-A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/screens_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2052"  >}}
 
 
-This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 ## Infotainment
 

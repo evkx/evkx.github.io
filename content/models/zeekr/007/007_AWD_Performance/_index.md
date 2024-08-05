@@ -174,13 +174,13 @@ Key screen details:
 - The  screen behind the steering wheel integrated into the dashboard is 13.0 inches large
 - The touch screen at the top of the center console is 15.0 inches large
 
-A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/screens_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
 
-This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 ## Infotainment
 

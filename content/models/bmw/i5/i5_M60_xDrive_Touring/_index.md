@@ -192,13 +192,13 @@ Key screen details:
 - The  screen behind the steering wheel on the left of the frame is 12.3 inches large
 - The touch screen at the right part of the shared frame is 14.9 inches large
 
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive_touring/screens_1_st.jpg" title="BMW i5 M60 xDrive Touring" width="3000" height="2249"  >}}
 
 
-This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 A gesture control system that lets you control specific features using your hands.
 

@@ -198,13 +198,13 @@ Key screen details:
 - The touch screen on the dashboard's center is 15.7 inches large
 - The touch screen in front of the passenger on the dashboard is 15.7 inches large
 For the rear seat passengers, there is an infotainment screen in the roof behind the first row seats.
-A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/screens_1_st.jpg" title="Li Auto MEGA" width="1920" height="1080"  >}}
 
 
-This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 ## Infotainment
 

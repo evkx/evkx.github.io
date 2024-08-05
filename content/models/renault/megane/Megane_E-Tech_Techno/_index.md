@@ -182,13 +182,13 @@ Key screen details:
 - The  screen behind the steering wheel mounted into the dashboard is 12.3 inches large
 - The touch screen on the dashboard's center is 12.0 inches large
 
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/screens_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001"  >}}
 
 
-This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 ## Infotainment
 

@@ -181,7 +181,7 @@ Key screen details:
 - The  screen behind the steering wheel mounted into the dashboard is 10.2 inches large
 - The touch screen in the middle of the center console is 15.6 inches large
 For the rear seat passengers there are infotainment screens in the back of the first row seats
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 

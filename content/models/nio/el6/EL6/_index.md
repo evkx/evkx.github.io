@@ -192,13 +192,13 @@ Key screen details:
 - The  screen behind the steering wheel mounted into the dashboard is 10.2 inches large
 - The touch screen in the middle of the center console is 12.8 inches large
 
-A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/nio/el6/el6/screens_1_st.jpg" title="Nio EL6" width="2560" height="1280"  >}}
 
 
-This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 ## Infotainment
 

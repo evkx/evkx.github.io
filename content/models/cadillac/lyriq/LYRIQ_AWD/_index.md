@@ -173,7 +173,7 @@ The model does not have a head-up display.
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/screens_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2000"  >}}
 
 
-This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 ## Infotainment
 

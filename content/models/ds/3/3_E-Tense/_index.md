@@ -163,7 +163,7 @@ Key screen details:
 - The  screen behind the steering wheel integrated into the dashboard is 7.0 inches large
 - The touch screen on the dashboard's center is 10.3 inches large
 
-A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/screens_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}

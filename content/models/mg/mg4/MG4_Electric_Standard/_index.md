@@ -169,7 +169,7 @@ The model does not have a head-up display.
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/screens_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2001"  >}}
 
 
-This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 ## Infotainment
 

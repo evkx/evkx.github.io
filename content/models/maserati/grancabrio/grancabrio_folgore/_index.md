@@ -187,7 +187,7 @@ Key screen details:
 - The touch screen at the top of the center console is 12.3 inches large
 - The touch screen at the bottom of the center console is 8.8 inches large
 
-A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/screens_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1845"  >}}

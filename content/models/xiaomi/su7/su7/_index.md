@@ -174,7 +174,7 @@ Key screen details:
 - The  screen behind the steering wheel integrated into the dashboard is 7.1 inches large
 - The touch screen on the dashboard's center is 16.1 inches large
 
-A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/screens_1_st.jpg" title="Xiaomi SU7" width="2560" height="1440"  >}}

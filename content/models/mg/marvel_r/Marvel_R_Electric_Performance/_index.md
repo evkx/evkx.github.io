@@ -168,7 +168,7 @@ The model does not have a head-up display.
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/screens_1_st.jpg" title="MG Marvel R Electric Performance" width="2560" height="1707"  >}}
 
 
-This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 ## Infotainment
 

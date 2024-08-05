@@ -220,7 +220,7 @@ Key screen details:
 - The touch screen at the top of the center console is 17.7 inches large
 - The  screen in front of the passenger in the dashboard is 12.3 inches large
 
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 This model has an optional voice control system. The voice control lets you control some functionality through voice commands.
 

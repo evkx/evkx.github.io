@@ -203,7 +203,7 @@ Key screen details:
 - The touch screen at the center part of the shared frame is 5.3 inches large
 - The touch screen at the right part of the shared frame is 12.3 inches large
 
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_gt-line_awd/screens_1_st.jpg" title="Kia EV9 GT-Line AWD" width="3000" height="2000"  >}}

@@ -174,7 +174,7 @@ The model does not have a head-up display.
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/screens_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1015"  >}}
 
 
-This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 ## Infotainment
 

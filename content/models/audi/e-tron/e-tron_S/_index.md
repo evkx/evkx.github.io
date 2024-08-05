@@ -237,7 +237,7 @@ Key screen details:
 - The touch screen at the top of the center console is 10.1 inches large
 - The touch screen at the bottom of the center console is 8.6 inches large
 
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 ## Infotainment
 

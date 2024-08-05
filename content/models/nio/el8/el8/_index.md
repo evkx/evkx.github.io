@@ -208,7 +208,7 @@ Key screen details:
 - The  screen behind the steering wheel mounted into the dashboard is 9.8 inches large
 - The touch screen in the middle of the center console is 11.3 inches large
 
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/nio/el8/el8/screens_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}

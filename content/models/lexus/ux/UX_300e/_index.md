@@ -187,7 +187,7 @@ Key screen details:
 - The touch screen behind the steering wheel integrated into the dashboard is 8.0 inches large
 - The touch screen at the top of the center console is 12.3 inches large
 
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/screens_1_st.jpg" title="Lexus UX 300e" width="2451" height="1510"  >}}

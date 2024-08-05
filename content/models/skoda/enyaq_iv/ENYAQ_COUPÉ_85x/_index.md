@@ -178,7 +178,7 @@ Key screen details:
 - The  screen on the steering column is 5.3 inches large
 - The touch screen on the dashboard's center is 13.0 inches large
 
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85x/screens_1_st.jpg" title="SKODA ENYAQ COUPÉ 85x" width="3000" height="1999"  >}}

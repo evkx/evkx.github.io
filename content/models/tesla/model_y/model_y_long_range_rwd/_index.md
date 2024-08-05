@@ -192,7 +192,7 @@ The model does not have a head-up display.
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/screens_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="1800"  >}}
 
 
-This model is equipped with voice control as standard. The voice control lets you control some functionality through voice commands.
+This model comes equipped with voice control as standard, allowing you to manage various functions through voice commands.
 
 ## Infotainment
 

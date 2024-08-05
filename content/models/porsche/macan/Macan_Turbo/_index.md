@@ -207,7 +207,7 @@ Key screen details:
 - The touch screen at the top of the center console is 10.9 inches large
 - The touch screen in front of the passenger in the dashboard is 10.9 inches large
 
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/screens_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="1687"  >}}

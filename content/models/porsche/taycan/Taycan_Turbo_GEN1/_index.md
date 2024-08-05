@@ -215,7 +215,7 @@ Key screen details:
 - The touch screen at the bottom of the center console is 8.4 inches large
 - The touch screen in front of the passenger in the dashboard is 10.9 inches large
 
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gen1/screens_1_st.jpg" title="Porsche Taycan Turbo (GEN1)" width="3000" height="2000"  >}}

@@ -173,7 +173,7 @@ Key screen details:
 - The  screen behind the steering wheel integrated into the dashboard is 9.0 inches large
 - The touch screen at the top of the center console is 14.5 inches large
 
-A head-up display is a standard system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor/screens_1_st.jpg" title="Polestar 3 Long Range Dual Motor" width="3000" height="2251"  >}}

@@ -171,7 +171,7 @@ Key screen details:
 - The  screen on the steering column is 5.3 inches large
 - The touch screen on the dashboard's center is 15.0 inches large
 
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_vz/screens_1_st.jpg" title="CUPRA Tavascan VZ" width="3000" height="1714"  >}}

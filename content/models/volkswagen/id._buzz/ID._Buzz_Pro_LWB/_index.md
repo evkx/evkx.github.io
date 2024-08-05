@@ -214,7 +214,7 @@ Key screen details:
 - The  screen on the steering column is 5.3 inches large
 - The touch screen on the dashboard's center is 12.9 inches large
 
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/screens_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="1999"  >}}

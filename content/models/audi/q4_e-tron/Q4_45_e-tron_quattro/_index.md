@@ -206,7 +206,7 @@ Key screen details:
 - The  screen behind the steering wheel integrated into the dashboard is 10.2 inches large
 - The touch screen at the top of the center console is 11.6 inches large
 
-A head-up display is an optional system that presents speed and other important driver information in front of the driver on the windshield.
+A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/screens_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="1686"  >}}
