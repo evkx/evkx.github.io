@@ -193,7 +193,10 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Tesla Model Y Long Range. Med Tesla Premium Sound får du 13 högtalare med en maximal systemeffekt på 560 watt.
+En typ av ljudsystem är tillgänglig för Tesla Model Y Long Range.
+
+- Med Tesla Premium Sound får du 13 högtalare med en maximal systemeffekt på 560 watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard.
 

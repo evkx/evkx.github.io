@@ -187,7 +187,10 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för XPENG G9 AWD Performance. Med  får du 24 högtalare med en maximal systemeffekt på 1940 watt.
+En typ av ljudsystem är tillgänglig för XPENG G9 AWD Performance.
+
+- Med  får du 24 högtalare med en maximal systemeffekt på 1940 watt.
+
 
 ## Ljus
 

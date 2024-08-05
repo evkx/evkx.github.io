@@ -170,7 +170,10 @@ El modelo no tiene head-up display.
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el XPENG X9 AWD Performance. Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+Un tipo de sistema de sonido está disponible para el XPENG X9 AWD Performance.
+
+- Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+
 
 ## Luces
 

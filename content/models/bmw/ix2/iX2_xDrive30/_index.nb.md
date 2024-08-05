@@ -204,7 +204,11 @@ I tillegg støtter BMW iX2 xDrive30 Android Auto og Apple CarPlay. Denne funksjo
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på BMW iX2 xDrive30. Med Harman Kardon Surround Sound system får du 16 høyttalere med en maksimal systemeffekt på 464 watt. Med Harman Kardon Surround Sound system får du 16 høyttalere med en maksimal systemeffekt på 464 watt.
+Du kan velge mellom to lydsystemer på BMW iX2 xDrive30.
+
+- Med Harman Kardon Surround Sound system får du 16 høyttalere med en maksimal systemeffekt på 464 watt.
+- Med Harman Kardon Surround Sound system får du 16 høyttalere med en maksimal systemeffekt på 464 watt.
+
 
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 

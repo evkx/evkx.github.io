@@ -182,7 +182,12 @@ Además, el Ford F150 Lightning Standard Range es compatible con Android Auto y 
 
 ### Sistema de sonido
 
-Puedes elegir entre tres sistemas de sonido en el Ford F150 Lightning Standard Range. Con el Ford, obtienes cuatro parlantes con una salida máxima del sistema de 80 vatios. Con el B&O Sound System, obtienes ocho parlantes con una salida máxima del sistema de 640 vatios. Con el B&O Unleashed Sound System, obtienes 18 parlantes con una salida máxima del sistema de 1080 vatios.
+Puedes elegir entre tres sistemas de sonido en el Ford F150 Lightning Standard Range.
+
+- Con el Ford, obtienes cuatro parlantes con una salida máxima del sistema de 80 vatios.
+- Con el B&O Sound System, obtienes ocho parlantes con una salida máxima del sistema de 640 vatios.
+- Con el B&O Unleashed Sound System, obtienes 18 parlantes con una salida máxima del sistema de 1080 vatios.
+
 
 ## Luces
 

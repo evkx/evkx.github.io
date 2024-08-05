@@ -181,7 +181,10 @@ Dessutom stöder Ford Mustang Mach-E Standard Range AWD Android Auto och Apple C
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Ford Mustang Mach-E Standard Range AWD. Med B&O Sound System får du tio högtalare med en maximal systemeffekt på 560 watt.
+En typ av ljudsystem är tillgänglig för Ford Mustang Mach-E Standard Range AWD.
+
+- Med B&O Sound System får du tio högtalare med en maximal systemeffekt på 560 watt.
+
 
 Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutningar som standard.
 

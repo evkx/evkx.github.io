@@ -191,7 +191,11 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på HiPhi X 6 Seater. Med SONIC LINE SYSTEM får du ni høyttalere med en maksimal systemeffekt på 600 watt. Med SONIC PRO SYSTEM får du 17 høyttalere med en maksimal systemeffekt på 600 watt.
+Du kan velge mellom to lydsystemer på HiPhi X 6 Seater.
+
+- Med SONIC LINE SYSTEM får du ni høyttalere med en maksimal systemeffekt på 600 watt.
+- Med SONIC PRO SYSTEM får du 17 høyttalere med en maksimal systemeffekt på 600 watt.
+
 
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 3 USB-A-tilkoblinger som standard.
 

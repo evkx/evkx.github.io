@@ -174,7 +174,10 @@ De plus, le MG Marvel R Electric Performance prend en charge Android Auto et App
 
 ### Système audio
 
-Un type de système audio est disponible pour le MG Marvel R Electric Performance. Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+Un type de système audio est disponible pour le MG Marvel R Electric Performance.
+
+- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 4 connexions USB-A en standard.
 

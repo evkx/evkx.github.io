@@ -209,7 +209,10 @@ Yderligere understøtter Li Auto MEGA Android Auto og Apple CarPlay. Denne funkt
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Li Auto MEGA. Med Platinum audio system får du 21 højttalere med en maksimal systemeffekt på 2160 watt.
+Én type lydsystem er tilgængelig for Li Auto MEGA.
+
+- Med Platinum audio system får du 21 højttalere med en maksimal systemeffekt på 2160 watt.
+
 
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 

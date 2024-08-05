@@ -205,7 +205,11 @@ Dessutom stöder Audi Q4 Sportback 50 e-tron quattro Android Auto och Apple CarP
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Audi Q4 Sportback 50 e-tron quattro. Med Audi Sound system får du åtta högtalare med en maximal systemeffekt på 180 watt. Med Sonos Sound System får du tio högtalare med en maximal systemeffekt på 580 watt.
+Du kan välja mellan två ljudsystem på Audi Q4 Sportback 50 e-tron quattro.
+
+- Med Audi Sound system får du åtta högtalare med en maximal systemeffekt på 180 watt.
+- Med Sonos Sound System får du tio högtalare med en maximal systemeffekt på 580 watt.
+
 
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 

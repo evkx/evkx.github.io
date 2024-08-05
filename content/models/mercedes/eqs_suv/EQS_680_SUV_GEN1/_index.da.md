@@ -213,7 +213,11 @@ Yderligere understøtter Mercedes-Maybach EQS 680 SUV Android Auto og Apple CarP
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Mercedes-Maybach EQS 680 SUV. Med Advanced Soundsystem får du ni højttalere med en maksimal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 højttalere med en maksimal systemeffekt på 590 watt.
+Du kan vælge mellem to lydsystemer på Mercedes-Maybach EQS 680 SUV.
+
+- Med Advanced Soundsystem får du ni højttalere med en maksimal systemeffekt på 225 watt.
+- Med Burmester Surround Soundsystem får du 13 højttalere med en maksimal systemeffekt på 590 watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 

@@ -187,7 +187,10 @@ De plus, le BYD Seal U Design prend en charge Android Auto et Apple CarPlay. Cet
 
 ### Système audio
 
-Un type de système audio est disponible pour le BYD Seal U Design. Avec le Dynaudio Performance Audio System, vous obtenez 12 haut-parleurs avec une puissance système maximale de  watts.
+Un type de système audio est disponible pour le BYD Seal U Design.
+
+- Avec le Dynaudio Performance Audio System, vous obtenez 12 haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

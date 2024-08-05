@@ -211,7 +211,11 @@ Yderligere understøtter Jaguar I-Pace EV400 Android Auto og Apple CarPlay. Denn
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Jaguar I-Pace EV400. Med Meridian Sound System får du 11 højttalere med en maksimal systemeffekt på 400 watt. Med Meridian 3D Surround får du 16 højttalere med en maksimal systemeffekt på 750 watt.
+Du kan vælge mellem to lydsystemer på Jaguar I-Pace EV400.
+
+- Med Meridian Sound System får du 11 højttalere med en maksimal systemeffekt på 400 watt.
+- Med Meridian 3D Surround får du 16 højttalere med en maksimal systemeffekt på 750 watt.
+
 
 ## Lys
 

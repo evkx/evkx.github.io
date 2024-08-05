@@ -155,7 +155,10 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for XPENG G3i. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgjengelig for XPENG G3i.
+
+- Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 4 USB-A-tilkoblinger som standard.
 

@@ -190,7 +190,10 @@ Además, el Zeekr 009 ME Edition es compatible con Android Auto y Apple CarPlay.
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el Zeekr 009 ME Edition. Con el Yamaha Sound System, obtienes 20 parlantes con una salida máxima del sistema de 300 vatios.
+Un tipo de sistema de sonido está disponible para el Zeekr 009 ME Edition.
+
+- Con el Yamaha Sound System, obtienes 20 parlantes con una salida máxima del sistema de 300 vatios.
+
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

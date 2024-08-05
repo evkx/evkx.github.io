@@ -204,7 +204,11 @@ Yderligere understøtter Citroën ë-C3 Aircross Android Auto og Apple CarPlay. 
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Citroën ë-C3 Aircross. Med  får du to højttalere med en maksimal systemeffekt på  watt. Med Max Sound system får du to højttalere med en maksimal systemeffekt på  watt.
+Du kan vælge mellem to lydsystemer på Citroën ë-C3 Aircross.
+
+- Med  får du to højttalere med en maksimal systemeffekt på  watt.
+- Med Max Sound system får du to højttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 

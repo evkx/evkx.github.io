@@ -132,10 +132,10 @@ The table below shows some estimated real-world examples in perfect condition an
 				90kmh/56mph perfect condition
 			</td>
 			<td>
-				531km / 330 mi
+				570km / 354 mi
 			</td>
 			<td>
-				14,5 kWh/100km / 4,3 mi/kWh
+				13,5 kWh/100km / 4,6 mi/kWh
 			</td>
 		</tr>
 		<tr>
@@ -143,10 +143,10 @@ The table below shows some estimated real-world examples in perfect condition an
 				90kmh/56mph with 2KW heating
 			</td>
 			<td>
-				476km /286mi
+				507km /304mi
 			</td>
 			<td>
-				16,7 kWh/100km /3,7 mi/kWh 
+				15,7 kWh/100km /4,0 mi/kWh 
 			</td>
 		</tr>
 		<tr>

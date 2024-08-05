@@ -241,7 +241,11 @@ De plus, le BMW i4 M50 prend en charge Android Auto et Apple CarPlay. Cette fonc
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le BMW i4 M50. Avec le Hifi Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 200 watts. Avec le Harman Kardon Surround Sound system, vous obtenez 17 haut-parleurs avec une puissance système maximale de 445 watts.
+Vous pouvez choisir entre deux systèmes audio sur le BMW i4 M50.
+
+- Avec le Hifi Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 200 watts.
+- Avec le Harman Kardon Surround Sound system, vous obtenez 17 haut-parleurs avec une puissance système maximale de 445 watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

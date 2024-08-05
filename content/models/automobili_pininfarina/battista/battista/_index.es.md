@@ -173,7 +173,10 @@ Además, el Automobili Pininfarina Battista es compatible con Android Auto y App
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el Automobili Pininfarina Battista. Con el Rimac Nevera Sound System, obtienes ocho parlantes con una salida máxima del sistema de 1200 vatios.
+Un tipo de sistema de sonido está disponible para el Automobili Pininfarina Battista.
+
+- Con el Rimac Nevera Sound System, obtienes ocho parlantes con una salida máxima del sistema de 1200 vatios.
+
 
 ## Luces
 

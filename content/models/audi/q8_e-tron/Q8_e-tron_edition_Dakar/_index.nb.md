@@ -267,7 +267,11 @@ I tillegg støtter Audi Q8 e-tron edition Dakar Android Auto og Apple CarPlay. D
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Audi Q8 e-tron edition Dakar. Med Audi Sound system får du ti høyttalere med en maksimal systemeffekt på 180 watt. Med Bang & Olufsen Sound System får du 16 høyttalere med en maksimal systemeffekt på 700 watt.
+Du kan velge mellom to lydsystemer på Audi Q8 e-tron edition Dakar.
+
+- Med Audi Sound system får du ti høyttalere med en maksimal systemeffekt på 180 watt.
+- Med Bang & Olufsen Sound System får du 16 høyttalere med en maksimal systemeffekt på 700 watt.
+
 
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
 

@@ -185,7 +185,11 @@ I tillegg støtter Ford Explorer Extended Range AWD Android Auto og Apple CarPla
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Ford Explorer Extended Range AWD. Med Sound system får du seks høyttalere med en maksimal systemeffekt på 140 watt. Med B&O Soundsystem får du ti høyttalere med en maksimal systemeffekt på 480 watt.
+Du kan velge mellom to lydsystemer på Ford Explorer Extended Range AWD.
+
+- Med Sound system får du seks høyttalere med en maksimal systemeffekt på 140 watt.
+- Med B&O Soundsystem får du ti høyttalere med en maksimal systemeffekt på 480 watt.
+
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 

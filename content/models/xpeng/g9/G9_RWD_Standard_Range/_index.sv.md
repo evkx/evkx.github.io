@@ -187,7 +187,10 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för XPENG G9 RWD Standard Range. Med  får du åtta högtalare med en maximal systemeffekt på 500 watt.
+En typ av ljudsystem är tillgänglig för XPENG G9 RWD Standard Range.
+
+- Med  får du åtta högtalare med en maximal systemeffekt på 500 watt.
+
 
 ## Ljus
 

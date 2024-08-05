@@ -212,7 +212,10 @@ Además, el Volkswagen ID. Buzz GTX LWB es compatible con Android Auto y Apple C
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el Volkswagen ID. Buzz GTX LWB. Con el Volkswagen Soundsystem, obtienes seis parlantes con una salida máxima del sistema de 450 vatios.
+Un tipo de sistema de sonido está disponible para el Volkswagen ID. Buzz GTX LWB.
+
+- Con el Volkswagen Soundsystem, obtienes seis parlantes con una salida máxima del sistema de 450 vatios.
+
 
 El modelo tiene 5 conexiones USB-C de serie.
 

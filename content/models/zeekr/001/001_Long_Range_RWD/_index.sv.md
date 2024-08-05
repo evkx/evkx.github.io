@@ -180,7 +180,10 @@ Dessutom stöder Zeekr 001 Long Range RWD Android Auto och Apple CarPlay. Denna 
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Zeekr 001 Long Range RWD. Med Yamaha Sound System får du åtta högtalare med en maximal systemeffekt på 200 watt.
+En typ av ljudsystem är tillgänglig för Zeekr 001 Long Range RWD.
+
+- Med Yamaha Sound System får du åtta högtalare med en maximal systemeffekt på 200 watt.
+
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

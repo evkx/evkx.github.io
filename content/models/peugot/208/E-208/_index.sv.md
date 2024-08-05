@@ -174,7 +174,10 @@ Dessutom stöder Peugot E-208 Android Auto och Apple CarPlay. Denna funktion gö
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Peugot E-208. Med  får du NULL högtalare med en maximal systemeffekt på  watt.
+En typ av ljudsystem är tillgänglig för Peugot E-208.
+
+- Med  får du NULL högtalare med en maximal systemeffekt på  watt.
+
 
 ## Ljus
 

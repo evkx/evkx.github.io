@@ -215,7 +215,11 @@ De plus, le Audi Q4 40 e-tron prend en charge Android Auto et Apple CarPlay. Cet
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Audi Q4 40 e-tron. Avec le Audi Sound system, vous obtenez huit haut-parleurs avec une puissance système maximale de 180 watts. Avec le Sonos Sound System, vous obtenez dix haut-parleurs avec une puissance système maximale de 580 watts.
+Vous pouvez choisir entre deux systèmes audio sur le Audi Q4 40 e-tron.
+
+- Avec le Audi Sound system, vous obtenez huit haut-parleurs avec une puissance système maximale de 180 watts.
+- Avec le Sonos Sound System, vous obtenez dix haut-parleurs avec une puissance système maximale de 580 watts.
+
 
 Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
 

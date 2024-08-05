@@ -211,7 +211,11 @@ Dessutom stöder Audi Q4 Sportback 45 e-tron quattro (GEN1) Android Auto och App
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Audi Q4 Sportback 45 e-tron quattro (GEN1). Med Audi Sound system får du åtta högtalare med en maximal systemeffekt på 180 watt. Med Sonos Sound System får du tio högtalare med en maximal systemeffekt på 580 watt.
+Du kan välja mellan två ljudsystem på Audi Q4 Sportback 45 e-tron quattro (GEN1).
+
+- Med Audi Sound system får du åtta högtalare med en maximal systemeffekt på 180 watt.
+- Med Sonos Sound System får du tio högtalare med en maximal systemeffekt på 580 watt.
+
 
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 

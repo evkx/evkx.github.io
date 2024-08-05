@@ -180,7 +180,11 @@ Dessutom stöder CUPRA BORN VZ Android Auto och Apple CarPlay. Denna funktion g�
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på CUPRA BORN VZ. Med Sound system får du fem högtalare med en maximal systemeffekt på 140 watt. Med Beats Audio får du nio högtalare med en maximal systemeffekt på 395 watt.
+Du kan välja mellan två ljudsystem på CUPRA BORN VZ.
+
+- Med Sound system får du fem högtalare med en maximal systemeffekt på 140 watt.
+- Med Beats Audio får du nio högtalare med en maximal systemeffekt på 395 watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard.
 

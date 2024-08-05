@@ -176,7 +176,10 @@ Et head-up display er standard-system som viser hastighet og annen viktig fører
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for Xiaomi SU7 Max. Med Xiaomi Soundsystem får du 25 høyttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgjengelig for Xiaomi SU7 Max.
+
+- Med Xiaomi Soundsystem får du 25 høyttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 

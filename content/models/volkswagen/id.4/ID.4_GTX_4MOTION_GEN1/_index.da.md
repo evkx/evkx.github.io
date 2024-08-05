@@ -214,7 +214,11 @@ Yderligere understøtter Volkswagen ID.4 GTX 4MOTION (GEN1) Android Auto og Appl
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Volkswagen ID.4 GTX 4MOTION (GEN1). Med Sound system får du seks højttalere med en maksimal systemeffekt på 140 watt. Med Volkswagen Soundsystem får du seks højttalere med en maksimal systemeffekt på 450 watt.
+Du kan vælge mellem to lydsystemer på Volkswagen ID.4 GTX 4MOTION (GEN1).
+
+- Med Sound system får du seks højttalere med en maksimal systemeffekt på 140 watt.
+- Med Volkswagen Soundsystem får du seks højttalere med en maksimal systemeffekt på 450 watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard.
 

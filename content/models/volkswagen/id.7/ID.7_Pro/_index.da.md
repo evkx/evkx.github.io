@@ -202,7 +202,11 @@ Yderligere understøtter Volkswagen ID.7 Pro Android Auto og Apple CarPlay. Denn
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Volkswagen ID.7 Pro. Med Sound system får du seks højttalere med en maksimal systemeffekt på 140 watt. Med Volkswagen Soundsystem får du seks højttalere med en maksimal systemeffekt på 450 watt.
+Du kan vælge mellem to lydsystemer på Volkswagen ID.7 Pro.
+
+- Med Sound system får du seks højttalere med en maksimal systemeffekt på 140 watt.
+- Med Volkswagen Soundsystem får du seks højttalere med en maksimal systemeffekt på 450 watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard.
 

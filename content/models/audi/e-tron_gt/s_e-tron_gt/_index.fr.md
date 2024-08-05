@@ -216,7 +216,11 @@ De plus, le Audi S e-tron GT prend en charge Android Auto et Apple CarPlay. Cett
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Audi S e-tron GT. Avec le Audi Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 180 watts. Avec le Bang & Olufsen Sound System, vous obtenez 16 haut-parleurs avec une puissance système maximale de 700 watts.
+Vous pouvez choisir entre deux systèmes audio sur le Audi S e-tron GT.
+
+- Avec le Audi Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 180 watts.
+- Avec le Bang & Olufsen Sound System, vous obtenez 16 haut-parleurs avec une puissance système maximale de 700 watts.
+
 
 ## Lumières
 

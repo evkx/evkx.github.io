@@ -193,7 +193,11 @@ Además, el Renault Megane E-Tech Techno es compatible con Android Auto y Apple 
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Renault Megane E-Tech Techno. Con el DAB Audiosystem, obtienes seis parlantes con una salida máxima del sistema de  vatios. Con el BOSE Premium Sound System, obtienes diez parlantes con una salida máxima del sistema de  vatios.
+Puedes elegir entre dos sistemas de sonido en el Renault Megane E-Tech Techno.
+
+- Con el DAB Audiosystem, obtienes seis parlantes con una salida máxima del sistema de  vatios.
+- Con el BOSE Premium Sound System, obtienes diez parlantes con una salida máxima del sistema de  vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie.
 

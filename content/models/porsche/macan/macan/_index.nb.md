@@ -207,7 +207,11 @@ I tillegg støtter Porsche Macan Android Auto og Apple CarPlay. Denne funksjonal
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Porsche Macan. Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1470 watt.
+Du kan velge mellom to lydsystemer på Porsche Macan.
+
+- Med  BOSE® Surround Sound System får du 14 høyttalere med en maksimal systemeffekt på 710 watt.
+- Med  Burmester® 3D High-End Surround Sound System får du 21 høyttalere med en maksimal systemeffekt på 1470 watt.
+
 
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
 

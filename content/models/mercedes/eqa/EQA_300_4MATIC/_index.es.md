@@ -200,7 +200,11 @@ Además, el Mercedes-EQ EQA 300 4MATIC es compatible con Android Auto y Apple Ca
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Mercedes-EQ EQA 300 4MATIC. Con el Standard, obtienes siete parlantes con una salida máxima del sistema de 100 vatios. Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios.
+Puedes elegir entre dos sistemas de sonido en el Mercedes-EQ EQA 300 4MATIC.
+
+- Con el Standard, obtienes siete parlantes con una salida máxima del sistema de 100 vatios.
+- Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
 

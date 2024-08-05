@@ -181,7 +181,10 @@ Yderligere understøtter VinFast VF8 Eco Android Auto og Apple CarPlay. Denne fu
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for VinFast VF8 Eco. Med  får du 11 højttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgængelig for VinFast VF8 Eco.
+
+- Med  får du 11 højttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 1 USB-C-forbindelser som standard. Modellen har 4 USB-A-forbindelser som standard.
 

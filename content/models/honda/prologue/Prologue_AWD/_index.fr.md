@@ -181,7 +181,10 @@ De plus, le Honda Prologue AWD prend en charge Android Auto et Apple CarPlay. Ce
 
 ### Système audio
 
-Un type de système audio est disponible pour le Honda Prologue AWD. Avec le Bose premium audio system, vous obtenez 12 haut-parleurs avec une puissance système maximale de  watts.
+Un type de système audio est disponible pour le Honda Prologue AWD.
+
+- Avec le Bose premium audio system, vous obtenez 12 haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 5 connexions USB-C en standard.
 

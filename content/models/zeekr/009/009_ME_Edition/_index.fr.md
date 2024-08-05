@@ -190,7 +190,10 @@ De plus, le Zeekr 009 ME Edition prend en charge Android Auto et Apple CarPlay. 
 
 ### Système audio
 
-Un type de système audio est disponible pour le Zeekr 009 ME Edition. Avec le Yamaha Sound System, vous obtenez 20 haut-parleurs avec une puissance système maximale de 300 watts.
+Un type de système audio est disponible pour le Zeekr 009 ME Edition.
+
+- Avec le Yamaha Sound System, vous obtenez 20 haut-parleurs avec une puissance système maximale de 300 watts.
+
 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

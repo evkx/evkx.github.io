@@ -176,7 +176,11 @@ Modellen är inte tillgänglig med head-up display.
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Volvo C40 Recharge Twin Motor. Med High Performance får du åtta högtalare med en maximal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 högtalare med en maximal systemeffekt på 600 watt.
+Du kan välja mellan två ljudsystem på Volvo C40 Recharge Twin Motor.
+
+- Med High Performance får du åtta högtalare med en maximal systemeffekt på 200 watt.
+- Med Harman Kardon Premium Sound får du 13 högtalare med en maximal systemeffekt på 600 watt.
+
 
 Modellen har 1 USB-C-anslutningar som standard.
 

@@ -203,7 +203,11 @@ De plus, le SKODA Enyaq iV80x prend en charge Android Auto et Apple CarPlay. Cet
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le SKODA Enyaq iV80x. Avec le Sound system, vous obtenez huit haut-parleurs avec une puissance système maximale de 80 watts. Avec le Canton Soundsystem, vous obtenez dix haut-parleurs avec une puissance système maximale de 550 watts.
+Vous pouvez choisir entre deux systèmes audio sur le SKODA Enyaq iV80x.
+
+- Avec le Sound system, vous obtenez huit haut-parleurs avec une puissance système maximale de 80 watts.
+- Avec le Canton Soundsystem, vous obtenez dix haut-parleurs avec une puissance système maximale de 550 watts.
+
 
 Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
 

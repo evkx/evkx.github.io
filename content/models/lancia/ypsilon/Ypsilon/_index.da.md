@@ -182,7 +182,10 @@ Yderligere understøtter Lancia Ypsilon Android Auto og Apple CarPlay. Denne fun
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Lancia Ypsilon. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgængelig for Lancia Ypsilon.
+
+- Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 3 USB-C-forbindelser som standard.
 

@@ -211,7 +211,11 @@ Además, el Jaguar I-Pace EV400 es compatible con Android Auto y Apple CarPlay. 
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Jaguar I-Pace EV400. Con el Meridian Sound System, obtienes 11 parlantes con una salida máxima del sistema de 400 vatios. Con el Meridian 3D Surround, obtienes 16 parlantes con una salida máxima del sistema de 750 vatios.
+Puedes elegir entre dos sistemas de sonido en el Jaguar I-Pace EV400.
+
+- Con el Meridian Sound System, obtienes 11 parlantes con una salida máxima del sistema de 400 vatios.
+- Con el Meridian 3D Surround, obtienes 16 parlantes con una salida máxima del sistema de 750 vatios.
+
 
 ## Luces
 

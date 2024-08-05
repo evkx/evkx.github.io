@@ -190,7 +190,11 @@ Además, el BMW i7 M70 xDrive es compatible con Android Auto y Apple CarPlay. Es
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el BMW i7 M70 xDrive. Con el Harman Kardon Surround Sound system, obtienes 18 parlantes con una salida máxima del sistema de 655 vatios. Con el Bowers & Wilkins Diamond surround sound system, obtienes 30 parlantes con una salida máxima del sistema de 1615 vatios.
+Puedes elegir entre dos sistemas de sonido en el BMW i7 M70 xDrive.
+
+- Con el Harman Kardon Surround Sound system, obtienes 18 parlantes con una salida máxima del sistema de 655 vatios.
+- Con el Bowers & Wilkins Diamond surround sound system, obtienes 30 parlantes con una salida máxima del sistema de 1615 vatios.
+
 
 El modelo tiene 6 conexiones USB-C de serie.
 

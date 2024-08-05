@@ -215,7 +215,11 @@ De plus, le Volkswagen ID.4 Pro Performance prend en charge Android Auto et Appl
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Volkswagen ID.4 Pro Performance. Avec le Sound system, vous obtenez six haut-parleurs avec une puissance système maximale de 140 watts. Avec le Volkswagen Soundsystem, vous obtenez six haut-parleurs avec une puissance système maximale de 450 watts.
+Vous pouvez choisir entre deux systèmes audio sur le Volkswagen ID.4 Pro Performance.
+
+- Avec le Sound system, vous obtenez six haut-parleurs avec une puissance système maximale de 140 watts.
+- Avec le Volkswagen Soundsystem, vous obtenez six haut-parleurs avec une puissance système maximale de 450 watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

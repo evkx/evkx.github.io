@@ -213,9 +213,19 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ## Infodivertissement
 
+Le Audi SQ6 e-tron dispose d'un système d'infodivertissement avancé basé sur Android Automotive OS, une plateforme de Google spécialement conçue pour les tableaux de bord des véhicules. Pour améliorer ce système robuste, Audi a intégré sa propre suite d'applications, offrant une navigation fluide, des paramètres complets du véhicule et bien plus encore.
+
 ### Système de navigation
 
-De plus, avec le système de navigation embarqué un standard, vous obtenez l'aide dont vous avez besoin pour trouver votre destination.
+Le système de navigation intégré utilise des cartes détaillées et offre une planification avancée des itinéraires où vous pouvez définir le niveau de charge cible à votre destination ou lors des arrêts de charge. Le système fournit des informations sur le trafic en temps réel et des cartes satellites, garantissant un voyage efficace et sans stress.
+
+### App store
+
+Le système d'infodivertissement comprend un App Store où vous pouvez télécharger des applications tierces pour les exécuter nativement sur l'écran de la voiture sans avoir besoin d'un téléphone connecté. Les applications disponibles varient selon le marché, mais incluent des options populaires telles que :
+
+- **Spotify**
+- **TIDAL**
+- **YouTube**
 
 ### Réplication du téléphone
 
@@ -223,7 +233,11 @@ De plus, le Audi SQ6 e-tron prend en charge Android Auto et Apple CarPlay. Cette
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Audi SQ6 e-tron. Avec le Audi Sound System, vous obtenez cinq haut-parleurs avec une puissance système maximale de 200 watts. Avec le Bang & Olufsen Sound System, vous obtenez 20 haut-parleurs avec une puissance système maximale de 830 watts.
+Vous pouvez choisir entre deux systèmes audio sur le Audi SQ6 e-tron.
+
+- Avec le Audi Sound System, vous obtenez cinq haut-parleurs avec une puissance système maximale de 200 watts.
+- Avec le Bang & Olufsen Sound System, vous obtenez 20 haut-parleurs avec une puissance système maximale de 830 watts.
+
 
 Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
 

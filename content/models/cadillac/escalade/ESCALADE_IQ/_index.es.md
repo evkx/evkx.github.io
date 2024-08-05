@@ -186,7 +186,11 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Cadillac ESCALADE IQ. Con el AKG Studio audi System, obtienes 19 parlantes con una salida máxima del sistema de 1000 vatios. Con el AKG Studio Reference System, obtienes 40 parlantes con una salida máxima del sistema de 1000 vatios.
+Puedes elegir entre dos sistemas de sonido en el Cadillac ESCALADE IQ.
+
+- Con el AKG Studio audi System, obtienes 19 parlantes con una salida máxima del sistema de 1000 vatios.
+- Con el AKG Studio Reference System, obtienes 40 parlantes con una salida máxima del sistema de 1000 vatios.
+
 
 El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A de serie.
 

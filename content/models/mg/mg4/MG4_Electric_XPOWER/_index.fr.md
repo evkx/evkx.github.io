@@ -174,7 +174,10 @@ De plus, le MG MG4 Electric XPOWER prend en charge Android Auto et Apple CarPlay
 
 ### Système audio
 
-Un type de système audio est disponible pour le MG MG4 Electric XPOWER. Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+Un type de système audio est disponible pour le MG MG4 Electric XPOWER.
+
+- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

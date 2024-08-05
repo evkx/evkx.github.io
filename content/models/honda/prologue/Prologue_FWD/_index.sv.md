@@ -180,7 +180,10 @@ Dessutom stöder Honda Prologue FWD Android Auto och Apple CarPlay. Denna funkti
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Honda Prologue FWD. Med Bose premium audio system får du 12 högtalare med en maximal systemeffekt på  watt.
+En typ av ljudsystem är tillgänglig för Honda Prologue FWD.
+
+- Med Bose premium audio system får du 12 högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 5 USB-C-anslutningar som standard.
 

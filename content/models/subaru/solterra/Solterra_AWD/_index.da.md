@@ -182,7 +182,11 @@ Yderligere understøtter Subaru Solterra AWD Android Auto og Apple CarPlay. Denn
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Subaru Solterra AWD. Med Toyota får du seks højttalere med en maksimal systemeffekt på  watt. Med JBL Premium Sound får du ni højttalere med en maksimal systemeffekt på  watt.
+Du kan vælge mellem to lydsystemer på Subaru Solterra AWD.
+
+- Med Toyota får du seks højttalere med en maksimal systemeffekt på  watt.
+- Med JBL Premium Sound får du ni højttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard.
 

@@ -185,7 +185,11 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på HiPhi X 4 Seater. Med SONIC LINE SYSTEM får du ni højttalere med en maksimal systemeffekt på 600 watt. Med SONIC PRO SYSTEM får du 17 højttalere med en maksimal systemeffekt på 600 watt.
+Du kan vælge mellem to lydsystemer på HiPhi X 4 Seater.
+
+- Med SONIC LINE SYSTEM får du ni højttalere med en maksimal systemeffekt på 600 watt.
+- Med SONIC PRO SYSTEM får du 17 højttalere med en maksimal systemeffekt på 600 watt.
+
 
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 3 USB-A-forbindelser som standard.
 

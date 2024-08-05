@@ -185,7 +185,11 @@ I tillegg støtter Nissan Ariya 87kWh e-4ORCE Android Auto og Apple CarPlay. Den
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Nissan Ariya 87kWh e-4ORCE. Med DAB Audiosystem får du seks høyttalere med en maksimal systemeffekt på  watt. Med BOSE Premium Sound System får du ti høyttalere med en maksimal systemeffekt på  watt.
+Du kan velge mellom to lydsystemer på Nissan Ariya 87kWh e-4ORCE.
+
+- Med DAB Audiosystem får du seks høyttalere med en maksimal systemeffekt på  watt.
+- Med BOSE Premium Sound System får du ti høyttalere med en maksimal systemeffekt på  watt.
+
 
 ## Lys
 

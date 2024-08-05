@@ -221,7 +221,11 @@ Además, el Volkswagen ID.5 Pro Performance es compatible con Android Auto y App
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Volkswagen ID.5 Pro Performance. Con el Sound system, obtienes seis parlantes con una salida máxima del sistema de 140 vatios. Con el Volkswagen Soundsystem, obtienes seis parlantes con una salida máxima del sistema de 450 vatios.
+Puedes elegir entre dos sistemas de sonido en el Volkswagen ID.5 Pro Performance.
+
+- Con el Sound system, obtienes seis parlantes con una salida máxima del sistema de 140 vatios.
+- Con el Volkswagen Soundsystem, obtienes seis parlantes con una salida máxima del sistema de 450 vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie.
 

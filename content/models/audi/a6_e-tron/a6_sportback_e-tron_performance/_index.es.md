@@ -212,7 +212,7 @@ El Audi A6 Sportback e-tron performance cuenta con un sistema de infoentretenimi
 
 ### Sistema de navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+El sistema de navegación integrado utiliza mapas detallados y ofrece una planificación avanzada de rutas donde puedes definir el nivel de carga objetivo en tu destino o durante las paradas de carga. El sistema proporciona información de tráfico en tiempo real y mapas satelitales, asegurando un viaje eficiente y sin estrés.
 
 ### App Store
 
@@ -228,7 +228,11 @@ Además, el Audi A6 Sportback e-tron performance es compatible con Android Auto 
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Audi A6 Sportback e-tron performance. Con el Audi Sound System, obtienes cinco parlantes con una salida máxima del sistema de 200 vatios. Con el Bang & Olufsen Sound System, obtienes 20 parlantes con una salida máxima del sistema de 830 vatios.
+Puedes elegir entre dos sistemas de sonido en el Audi A6 Sportback e-tron performance.
+
+- Con el Audi Sound System, obtienes cinco parlantes con una salida máxima del sistema de 200 vatios.
+- Con el Bang & Olufsen Sound System, obtienes 20 parlantes con una salida máxima del sistema de 830 vatios.
+
 
 El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
 

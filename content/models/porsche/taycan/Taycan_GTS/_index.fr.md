@@ -219,7 +219,12 @@ De plus, le Porsche Taycan GTS prend en charge Android Auto et Apple CarPlay. Ce
 
 ### Système audio
 
-Vous pouvez choisir entre trois systèmes audio sur le Porsche Taycan GTS. Avec le Porsche Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 150 watts. Avec le  BOSE® Surround Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de 710 watts. Avec le  Burmester® 3D High-End Surround Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 1455 watts.
+Vous pouvez choisir entre trois systèmes audio sur le Porsche Taycan GTS.
+
+- Avec le Porsche Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 150 watts.
+- Avec le  BOSE® Surround Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de 710 watts.
+- Avec le  Burmester® 3D High-End Surround Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 1455 watts.
+
 
 ## Lumières
 

@@ -191,7 +191,11 @@ Dessutom stöder Rolls-Royce Spectre Android Auto och Apple CarPlay. Denna funkt
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Rolls-Royce Spectre. Med Harman Kardon Surround Sound system får du 18 högtalare med en maximal systemeffekt på 655 watt. Med Bowers & Wilkins Diamond surround sound system får du 30 högtalare med en maximal systemeffekt på 1615 watt.
+Du kan välja mellan två ljudsystem på Rolls-Royce Spectre.
+
+- Med Harman Kardon Surround Sound system får du 18 högtalare med en maximal systemeffekt på 655 watt.
+- Med Bowers & Wilkins Diamond surround sound system får du 30 högtalare med en maximal systemeffekt på 1615 watt.
+
 
 Modellen har 6 USB-C-anslutningar som standard.
 

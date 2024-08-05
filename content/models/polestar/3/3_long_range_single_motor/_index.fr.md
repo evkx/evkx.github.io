@@ -175,7 +175,11 @@ Un affichage tête haute est un système un standard qui présente la vitesse et
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Polestar 3 Long Range Single Motor. Avec le High Performance, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts. Avec le Bowers & Wilkins, vous obtenez 25 haut-parleurs avec une puissance système maximale de 1610 watts.
+Vous pouvez choisir entre deux systèmes audio sur le Polestar 3 Long Range Single Motor.
+
+- Avec le High Performance, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts.
+- Avec le Bowers & Wilkins, vous obtenez 25 haut-parleurs avec une puissance système maximale de 1610 watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

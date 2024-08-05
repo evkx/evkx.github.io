@@ -238,7 +238,11 @@ Además, el BMW i4 eDrive35 es compatible con Android Auto y Apple CarPlay. Esta
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el BMW i4 eDrive35. Con el Hifi Sound system, obtienes diez parlantes con una salida máxima del sistema de 200 vatios. Con el Harman Kardon Surround Sound system, obtienes 17 parlantes con una salida máxima del sistema de 445 vatios.
+Puedes elegir entre dos sistemas de sonido en el BMW i4 eDrive35.
+
+- Con el Hifi Sound system, obtienes diez parlantes con una salida máxima del sistema de 200 vatios.
+- Con el Harman Kardon Surround Sound system, obtienes 17 parlantes con una salida máxima del sistema de 445 vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie.
 

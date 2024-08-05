@@ -187,7 +187,10 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el XPENG G9 AWD Performance. Con el , obtienes 24 parlantes con una salida máxima del sistema de 1940 vatios.
+Un tipo de sistema de sonido está disponible para el XPENG G9 AWD Performance.
+
+- Con el , obtienes 24 parlantes con una salida máxima del sistema de 1940 vatios.
+
 
 ## Luces
 

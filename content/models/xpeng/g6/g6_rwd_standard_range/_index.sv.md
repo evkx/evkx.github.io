@@ -176,7 +176,10 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för XPENG G6 RWD Standard Range. Med  får du 18 högtalare med en maximal systemeffekt på 1200 watt.
+En typ av ljudsystem är tillgänglig för XPENG G6 RWD Standard Range.
+
+- Med  får du 18 högtalare med en maximal systemeffekt på 1200 watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard.
 

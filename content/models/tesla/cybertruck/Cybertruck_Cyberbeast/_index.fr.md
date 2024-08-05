@@ -178,7 +178,10 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 ### Système audio
 
-Un type de système audio est disponible pour le Tesla Cybertruck Cyberbeast. Avec le Tesla Premium Sound, vous obtenez 17 haut-parleurs avec une puissance système maximale de 560 watts.
+Un type de système audio est disponible pour le Tesla Cybertruck Cyberbeast.
+
+- Avec le Tesla Premium Sound, vous obtenez 17 haut-parleurs avec une puissance système maximale de 560 watts.
+
 
 ## Lumières
 

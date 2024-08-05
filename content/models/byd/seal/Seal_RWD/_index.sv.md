@@ -183,7 +183,10 @@ Dessutom stöder BYD Seal RWD Android Auto och Apple CarPlay. Denna funktion gö
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för BYD Seal RWD. Med Dynaudio Performance Audio System får du 12 högtalare med en maximal systemeffekt på  watt.
+En typ av ljudsystem är tillgänglig för BYD Seal RWD.
+
+- Med Dynaudio Performance Audio System får du 12 högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

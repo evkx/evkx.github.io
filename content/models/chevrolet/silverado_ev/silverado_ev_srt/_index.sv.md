@@ -177,7 +177,10 @@ Dessutom stöder Chevrolet Silverado EV SRT Android Auto och Apple CarPlay. Denn
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Chevrolet Silverado EV SRT. Med Chevrolet Sound System får du sex högtalare med en maximal systemeffekt på 200 watt.
+En typ av ljudsystem är tillgänglig för Chevrolet Silverado EV SRT.
+
+- Med Chevrolet Sound System får du sex högtalare med en maximal systemeffekt på 200 watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard.
 

@@ -171,17 +171,20 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
-### Phone mirroring
+### Phone Mirroring
 
 Furthermore, the VinFast VF8 Eco supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 ### Sound system
 
-One type of sound system is available for the VinFast VF8 Eco. With the , you get 11 speakers with a max system output of  watts.
+One type of sound system is available for the VinFast VF8 Eco.
+
+- With the , you get 11 speakers with a max system output of  watts.
+
 
 The model has 1 USB-C connections as standard. The model has 4 USB-A connections as standard.
 

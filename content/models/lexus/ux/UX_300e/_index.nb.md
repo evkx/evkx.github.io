@@ -194,7 +194,11 @@ I tillegg støtter Lexus UX 300e Android Auto og Apple CarPlay. Denne funksjonal
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Lexus UX 300e. Med Standard får du 14 høyttalere med en maksimal systemeffekt på  watt. Med Mark Levinson Premium Surround Sound får du 14 høyttalere med en maksimal systemeffekt på  watt.
+Du kan velge mellom to lydsystemer på Lexus UX 300e.
+
+- Med Standard får du 14 høyttalere med en maksimal systemeffekt på  watt.
+- Med Mark Levinson Premium Surround Sound får du 14 høyttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 

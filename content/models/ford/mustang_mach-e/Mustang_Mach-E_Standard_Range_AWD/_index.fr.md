@@ -181,7 +181,10 @@ De plus, le Ford Mustang Mach-E Standard Range AWD prend en charge Android Auto 
 
 ### Système audio
 
-Un type de système audio est disponible pour le Ford Mustang Mach-E Standard Range AWD. Avec le B&O Sound System, vous obtenez dix haut-parleurs avec une puissance système maximale de 560 watts.
+Un type de système audio est disponible pour le Ford Mustang Mach-E Standard Range AWD.
+
+- Avec le B&O Sound System, vous obtenez dix haut-parleurs avec une puissance système maximale de 560 watts.
+
 
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
 

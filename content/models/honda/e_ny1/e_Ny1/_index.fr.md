@@ -141,7 +141,10 @@ Le modèle n'a pas d'affichage tête haute.
 
 ### Système audio
 
-Un type de système audio est disponible pour le Honda e:Ny1. Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+Un type de système audio est disponible pour le Honda e:Ny1.
+
+- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+
 
 ## Lumières
 

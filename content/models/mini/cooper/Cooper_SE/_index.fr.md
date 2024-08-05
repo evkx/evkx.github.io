@@ -161,7 +161,10 @@ Un affichage tête haute est un système un facultatif qui présente la vitesse 
 
 ### Système audio
 
-Un type de système audio est disponible pour le Mini Cooper SE. Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+Un type de système audio est disponible pour le Mini Cooper SE.
+
+- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+
 
 ## Lumières
 

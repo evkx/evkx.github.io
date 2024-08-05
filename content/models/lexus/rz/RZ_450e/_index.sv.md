@@ -190,7 +190,11 @@ Dessutom stöder Lexus RZ 450e Android Auto och Apple CarPlay. Denna funktion g�
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Lexus RZ 450e. Med Standard får du 14 högtalare med en maximal systemeffekt på  watt. Med Mark Levinson Premium Surround Sound får du 14 högtalare med en maximal systemeffekt på  watt.
+Du kan välja mellan två ljudsystem på Lexus RZ 450e.
+
+- Med Standard får du 14 högtalare med en maximal systemeffekt på  watt.
+- Med Mark Levinson Premium Surround Sound får du 14 högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 5 USB-C-anslutningar som standard.
 

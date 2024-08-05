@@ -178,7 +178,11 @@ Yderligere understøtter Toyota bZ4X FWD Android Auto og Apple CarPlay. Denne fu
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Toyota bZ4X FWD. Med Toyota får du seks højttalere med en maksimal systemeffekt på  watt. Med JBL Premium Sound får du ni højttalere med en maksimal systemeffekt på  watt.
+Du kan vælge mellem to lydsystemer på Toyota bZ4X FWD.
+
+- Med Toyota får du seks højttalere med en maksimal systemeffekt på  watt.
+- Med JBL Premium Sound får du ni højttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard.
 

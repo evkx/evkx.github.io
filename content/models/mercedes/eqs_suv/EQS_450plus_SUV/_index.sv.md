@@ -230,7 +230,11 @@ Dessutom stöder Mercedes-EQ EQS 450+ SUV Android Auto och Apple CarPlay. Denna 
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Mercedes-EQ EQS 450+ SUV. Med Advanced Soundsystem får du nio högtalare med en maximal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 högtalare med en maximal systemeffekt på 590 watt.
+Du kan välja mellan två ljudsystem på Mercedes-EQ EQS 450+ SUV.
+
+- Med Advanced Soundsystem får du nio högtalare med en maximal systemeffekt på 225 watt.
+- Med Burmester Surround Soundsystem får du 13 högtalare med en maximal systemeffekt på 590 watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 

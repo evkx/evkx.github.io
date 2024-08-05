@@ -209,7 +209,11 @@ I tillegg støtter Audi Q4 35 e-tron (GEN1) Android Auto og Apple CarPlay. Denne
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Audi Q4 35 e-tron (GEN1). Med Audi Sound system får du åtte høyttalere med en maksimal systemeffekt på 180 watt. Med Sonos Sound System får du ti høyttalere med en maksimal systemeffekt på 580 watt.
+Du kan velge mellom to lydsystemer på Audi Q4 35 e-tron (GEN1).
+
+- Med Audi Sound system får du åtte høyttalere med en maksimal systemeffekt på 180 watt.
+- Med Sonos Sound System får du ti høyttalere med en maksimal systemeffekt på 580 watt.
+
 
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
 

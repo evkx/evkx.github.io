@@ -184,7 +184,11 @@ Además, el Peugot E-3008 Long Range es compatible con Android Auto y Apple CarP
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Peugot E-3008 Long Range. Con el , obtienes seis parlantes con una salida máxima del sistema de 100 vatios. Con el , obtienes diez parlantes con una salida máxima del sistema de 690 vatios.
+Puedes elegir entre dos sistemas de sonido en el Peugot E-3008 Long Range.
+
+- Con el , obtienes seis parlantes con una salida máxima del sistema de 100 vatios.
+- Con el , obtienes diez parlantes con una salida máxima del sistema de 690 vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie.
 

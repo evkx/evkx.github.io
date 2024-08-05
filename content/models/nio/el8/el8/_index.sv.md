@@ -217,7 +217,11 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Nio EL8. Med Surroundsystem får du sju högtalare med en maximal systemeffekt på  watt. Med Premium sound system får du 12 högtalare med en maximal systemeffekt på  watt.
+Du kan välja mellan två ljudsystem på Nio EL8.
+
+- Med Surroundsystem får du sju högtalare med en maximal systemeffekt på  watt.
+- Med Premium sound system får du 12 högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 3 USB-A-anslutningar som standard.
 

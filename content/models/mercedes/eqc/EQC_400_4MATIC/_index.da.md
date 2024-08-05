@@ -157,7 +157,12 @@ Yderligere understøtter Mercedes-EQ EQC 400 4MATIC Android Auto og Apple CarPla
 
 ### Lydsystem
 
-Du kan vælge mellem tre lydsystemer på Mercedes-EQ EQC 400 4MATIC. Med Standard får du syv højttalere med en maksimal systemeffekt på 100 watt. Med Advanced Soundsystem får du ni højttalere med en maksimal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 højttalere med en maksimal systemeffekt på 590 watt.
+Du kan vælge mellem tre lydsystemer på Mercedes-EQ EQC 400 4MATIC.
+
+- Med Standard får du syv højttalere med en maksimal systemeffekt på 100 watt.
+- Med Advanced Soundsystem får du ni højttalere med en maksimal systemeffekt på 225 watt.
+- Med Burmester Surround Soundsystem får du 13 højttalere med en maksimal systemeffekt på 590 watt.
+
 
 ## Lys
 

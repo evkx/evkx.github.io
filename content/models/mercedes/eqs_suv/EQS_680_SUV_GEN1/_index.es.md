@@ -213,7 +213,11 @@ Además, el Mercedes-Maybach EQS 680 SUV es compatible con Android Auto y Apple 
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Mercedes-Maybach EQS 680 SUV. Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios. Con el Burmester Surround Soundsystem, obtienes 13 parlantes con una salida máxima del sistema de 590 vatios.
+Puedes elegir entre dos sistemas de sonido en el Mercedes-Maybach EQS 680 SUV.
+
+- Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios.
+- Con el Burmester Surround Soundsystem, obtienes 13 parlantes con una salida máxima del sistema de 590 vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
 

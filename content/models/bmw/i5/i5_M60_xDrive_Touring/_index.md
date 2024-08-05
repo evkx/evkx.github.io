@@ -195,17 +195,22 @@ A gesture control system that lets you control specific features using your hand
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
-### Phone mirroring
+### Phone Mirroring
 
 Furthermore, the BMW i5 M60 xDrive Touring supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 ### Sound system
 
-You can choose between three sound systems on the BMW i5 M60 xDrive Touring. With the Hifi Sound system, you get six speakers with a max system output of 100 watts. With the Harman Kardon Surround Sound system, you get 12 speakers with a max system output of 205 watts. With the Bower & Wilkins Surround System, you get 18 speakers with a max system output of 655 watts.
+You can choose between three sound systems on the BMW i5 M60 xDrive Touring.
+
+- With the Hifi Sound system, you get six speakers with a max system output of 100 watts.
+- With the Harman Kardon Surround Sound system, you get 12 speakers with a max system output of 205 watts.
+- With the Bower & Wilkins Surround System, you get 18 speakers with a max system output of 655 watts.
+
 
 The model has 6 USB-C connections as standard.
 

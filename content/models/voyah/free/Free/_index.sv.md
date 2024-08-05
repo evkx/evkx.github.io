@@ -166,7 +166,10 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för VOYAH FREE. Med DYNAUDIO HIFI Sound system får du NULL högtalare med en maximal systemeffekt på  watt.
+En typ av ljudsystem är tillgänglig för VOYAH FREE.
+
+- Med DYNAUDIO HIFI Sound system får du NULL högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 1 USB-C-anslutningar som standard. Modellen har 3 USB-A-anslutningar som standard.
 

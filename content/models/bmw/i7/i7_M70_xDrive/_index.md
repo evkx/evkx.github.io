@@ -180,17 +180,21 @@ A head-up display is an optional system that projects speed and other important 
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
-### Phone mirroring
+### Phone Mirroring
 
 Furthermore, the BMW i7 M70 xDrive supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 ### Sound system
 
-You can choose between two sound systems on the BMW i7 M70 xDrive. With the Harman Kardon Surround Sound system, you get 18 speakers with a max system output of 655 watts. With the Bowers & Wilkins Diamond surround sound system, you get 30 speakers with a max system output of 1615 watts.
+You can choose between two sound systems on the BMW i7 M70 xDrive.
+
+- With the Harman Kardon Surround Sound system, you get 18 speakers with a max system output of 655 watts.
+- With the Bowers & Wilkins Diamond surround sound system, you get 30 speakers with a max system output of 1615 watts.
+
 
 The model has 6 USB-C connections as standard.
 

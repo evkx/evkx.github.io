@@ -271,7 +271,11 @@ Dessutom stöder Audi e-tron 55 Sportback Android Auto och Apple CarPlay. Denna 
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Audi e-tron 55 Sportback. Med Audi Sound system får du tio högtalare med en maximal systemeffekt på 180 watt. Med Bang & Olufsen Sound System får du 16 högtalare med en maximal systemeffekt på 700 watt.
+Du kan välja mellan två ljudsystem på Audi e-tron 55 Sportback.
+
+- Med Audi Sound system får du tio högtalare med en maximal systemeffekt på 180 watt.
+- Med Bang & Olufsen Sound System får du 16 högtalare med en maximal systemeffekt på 700 watt.
+
 
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 

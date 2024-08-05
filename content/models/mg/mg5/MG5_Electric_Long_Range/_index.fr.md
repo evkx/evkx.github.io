@@ -176,7 +176,10 @@ De plus, le MG MG5 Electric Long Range prend en charge Android Auto et Apple Car
 
 ### Système audio
 
-Un type de système audio est disponible pour le MG MG5 Electric Long Range. Avec le , vous obtenez six haut-parleurs avec une puissance système maximale de  watts.
+Un type de système audio est disponible pour le MG MG5 Electric Long Range.
+
+- Avec le , vous obtenez six haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
 

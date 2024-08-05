@@ -175,7 +175,10 @@ I tillegg støtter KGM Torres EVX Android Auto og Apple CarPlay. Denne funksjona
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for KGM Torres EVX. Med KGM får du seks høyttalere med en maksimal systemeffekt på 100 watt.
+Én type lydsystem er tilgjengelig for KGM Torres EVX.
+
+- Med KGM får du seks høyttalere med en maksimal systemeffekt på 100 watt.
+
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 

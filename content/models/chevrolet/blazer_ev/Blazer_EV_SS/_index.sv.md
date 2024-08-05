@@ -174,7 +174,10 @@ Dessutom stöder Chevrolet Blazer EV SS Android Auto och Apple CarPlay. Denna fu
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Chevrolet Blazer EV SS. Med Lyric sound system får du sju högtalare med en maximal systemeffekt på  watt.
+En typ av ljudsystem är tillgänglig för Chevrolet Blazer EV SS.
+
+- Med Lyric sound system får du sju högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 5 USB-C-anslutningar som standard.
 

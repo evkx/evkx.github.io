@@ -169,7 +169,10 @@ Yderligere understøtter Hyundai Ioniq 5 N Android Auto og Apple CarPlay. Denne 
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Hyundai Ioniq 5 N. Med Bose Premium Sound System får du otte højttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgængelig for Hyundai Ioniq 5 N.
+
+- Med Bose Premium Sound System får du otte højttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 

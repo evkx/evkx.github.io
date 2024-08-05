@@ -183,7 +183,11 @@ Dessutom stöder Chevrolet Equinox EV FWD Android Auto och Apple CarPlay. Denna 
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Chevrolet Equinox EV FWD. Med Lyric sound system får du sju högtalare med en maximal systemeffekt på  watt. Med Lyric sound system får du sju högtalare med en maximal systemeffekt på  watt.
+Du kan välja mellan två ljudsystem på Chevrolet Equinox EV FWD.
+
+- Med Lyric sound system får du sju högtalare med en maximal systemeffekt på  watt.
+- Med Lyric sound system får du sju högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 5 USB-C-anslutningar som standard.
 

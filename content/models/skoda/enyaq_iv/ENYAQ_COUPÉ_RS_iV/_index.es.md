@@ -186,7 +186,10 @@ Además, el SKODA ENYAQ COUPÉ RS iV es compatible con Android Auto y Apple CarP
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el SKODA ENYAQ COUPÉ RS iV. Con el Canton Soundsystem, obtienes diez parlantes con una salida máxima del sistema de 550 vatios.
+Un tipo de sistema de sonido está disponible para el SKODA ENYAQ COUPÉ RS iV.
+
+- Con el Canton Soundsystem, obtienes diez parlantes con una salida máxima del sistema de 550 vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie.
 

@@ -171,7 +171,10 @@ Además, el GMC Hummer EV Edition 1 Pickup es compatible con Android Auto y Appl
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el GMC Hummer EV Edition 1 Pickup. Con el Bose Premium Sound System, obtienes 14 parlantes con una salida máxima del sistema de 625 vatios.
+Un tipo de sistema de sonido está disponible para el GMC Hummer EV Edition 1 Pickup.
+
+- Con el Bose Premium Sound System, obtienes 14 parlantes con una salida máxima del sistema de 625 vatios.
+
 
 El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A de serie.
 

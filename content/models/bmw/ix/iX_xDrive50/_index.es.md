@@ -181,7 +181,11 @@ Además, el BMW iX xDrive50 es compatible con Android Auto y Apple CarPlay. Esta
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el BMW iX xDrive50. Con el Harman Kardon Surround Sound system, obtienes 18 parlantes con una salida máxima del sistema de 655 vatios. Con el Bowers & Wilkins Diamond surround sound system, obtienes 30 parlantes con una salida máxima del sistema de 1615 vatios.
+Puedes elegir entre dos sistemas de sonido en el BMW iX xDrive50.
+
+- Con el Harman Kardon Surround Sound system, obtienes 18 parlantes con una salida máxima del sistema de 655 vatios.
+- Con el Bowers & Wilkins Diamond surround sound system, obtienes 30 parlantes con una salida máxima del sistema de 1615 vatios.
+
 
 El modelo tiene 6 conexiones USB-C de serie.
 

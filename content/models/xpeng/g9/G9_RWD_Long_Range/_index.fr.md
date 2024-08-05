@@ -187,7 +187,10 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 ### Système audio
 
-Un type de système audio est disponible pour le XPENG G9 RWD Long Range. Avec le , vous obtenez 24 haut-parleurs avec une puissance système maximale de 1940 watts.
+Un type de système audio est disponible pour le XPENG G9 RWD Long Range.
+
+- Avec le , vous obtenez 24 haut-parleurs avec une puissance système maximale de 1940 watts.
+
 
 ## Lumières
 

@@ -186,7 +186,11 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Cadillac ESCALADE IQ. Med AKG Studio audi System får du 19 høyttalere med en maksimal systemeffekt på 1000 watt. Med AKG Studio Reference System får du 40 høyttalere med en maksimal systemeffekt på 1000 watt.
+Du kan velge mellom to lydsystemer på Cadillac ESCALADE IQ.
+
+- Med AKG Studio audi System får du 19 høyttalere med en maksimal systemeffekt på 1000 watt.
+- Med AKG Studio Reference System får du 40 høyttalere med en maksimal systemeffekt på 1000 watt.
+
 
 Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
 

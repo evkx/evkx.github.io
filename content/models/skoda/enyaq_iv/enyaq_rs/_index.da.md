@@ -179,7 +179,10 @@ Yderligere understøtter SKODA ENYAQ RS Android Auto og Apple CarPlay. Denne fun
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for SKODA ENYAQ RS. Med Canton Soundsystem får du ti højttalere med en maksimal systemeffekt på 550 watt.
+Én type lydsystem er tilgængelig for SKODA ENYAQ RS.
+
+- Med Canton Soundsystem får du ti højttalere med en maksimal systemeffekt på 550 watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard.
 

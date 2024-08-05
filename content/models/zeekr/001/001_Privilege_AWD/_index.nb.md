@@ -182,7 +182,10 @@ I tillegg støtter Zeekr 001 Privilege AWD Android Auto og Apple CarPlay. Denne 
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for Zeekr 001 Privilege AWD. Med Yamaha Sound System får du 12 høyttalere med en maksimal systemeffekt på 300 watt.
+Én type lydsystem er tilgjengelig for Zeekr 001 Privilege AWD.
+
+- Med Yamaha Sound System får du 12 høyttalere med en maksimal systemeffekt på 300 watt.
+
 
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 

@@ -172,7 +172,11 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Volvo EX30 Single Motor. Con el High Performance, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios. Con el Harman Kardon Premium Sound, obtienes 13 parlantes con una salida máxima del sistema de 1040 vatios.
+Puedes elegir entre dos sistemas de sonido en el Volvo EX30 Single Motor.
+
+- Con el High Performance, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios.
+- Con el Harman Kardon Premium Sound, obtienes 13 parlantes con una salida máxima del sistema de 1040 vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie.
 

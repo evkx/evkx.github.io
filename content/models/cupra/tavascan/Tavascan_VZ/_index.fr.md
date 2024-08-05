@@ -180,7 +180,11 @@ De plus, le CUPRA Tavascan VZ prend en charge Android Auto et Apple CarPlay. Cet
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le CUPRA Tavascan VZ. Avec le Sound system, vous obtenez cinq haut-parleurs avec une puissance système maximale de 140 watts. Avec le Sennheiser Soundsystem, vous obtenez 12 haut-parleurs avec une puissance système maximale de 395 watts.
+Vous pouvez choisir entre deux systèmes audio sur le CUPRA Tavascan VZ.
+
+- Avec le Sound system, vous obtenez cinq haut-parleurs avec une puissance système maximale de 140 watts.
+- Avec le Sennheiser Soundsystem, vous obtenez 12 haut-parleurs avec une puissance système maximale de 395 watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

@@ -199,17 +199,21 @@ This model also has an optional gesture control system that lets you control spe
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
-### Phone mirroring
+### Phone Mirroring
 
 Furthermore, the Mercedes-EQ EQB 300 4MATIC supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 ### Sound system
 
-You can choose between two sound systems on the Mercedes-EQ EQB 300 4MATIC. With the Standard, you get seven speakers with a max system output of 100 watts. With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts.
+You can choose between two sound systems on the Mercedes-EQ EQB 300 4MATIC.
+
+- With the Standard, you get seven speakers with a max system output of 100 watts.
+- With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts.
+
 
 The model has 4 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 

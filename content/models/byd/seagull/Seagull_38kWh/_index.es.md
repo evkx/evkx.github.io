@@ -173,7 +173,10 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el BYD Seagull 38kWh. Con el Dirac, obtienes ocho parlantes con una salida máxima del sistema de  vatios.
+Un tipo de sistema de sonido está disponible para el BYD Seagull 38kWh.
+
+- Con el Dirac, obtienes ocho parlantes con una salida máxima del sistema de  vatios.
+
 
 El modelo tiene 1 conexiones USB-A de serie.
 

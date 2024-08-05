@@ -165,7 +165,11 @@ Et head-up display er en standard-system, der viser hastighed og andre vigtige f
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Polestar 4 Long range Single motor. Med High Performance får du otte højttalere med en maksimal systemeffekt på 200 watt. Med Bowers & Wilkins får du 25 højttalere med en maksimal systemeffekt på 1610 watt.
+Du kan vælge mellem to lydsystemer på Polestar 4 Long range Single motor.
+
+- Med High Performance får du otte højttalere med en maksimal systemeffekt på 200 watt.
+- Med Bowers & Wilkins får du 25 højttalere med en maksimal systemeffekt på 1610 watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard.
 

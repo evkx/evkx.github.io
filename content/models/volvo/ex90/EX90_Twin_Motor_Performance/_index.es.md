@@ -183,7 +183,11 @@ Un head-up display es un sistema un estándar que presenta la velocidad y otra i
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Volvo EX90 Twin Motor Performance. Con el High Performance, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios. Con el Bowers & Wilkins, obtienes 25 parlantes con una salida máxima del sistema de 1610 vatios.
+Puedes elegir entre dos sistemas de sonido en el Volvo EX90 Twin Motor Performance.
+
+- Con el High Performance, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios.
+- Con el Bowers & Wilkins, obtienes 25 parlantes con una salida máxima del sistema de 1610 vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie.
 

@@ -180,7 +180,10 @@ Además, el Zeekr 001 Performance AWD es compatible con Android Auto y Apple Car
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el Zeekr 001 Performance AWD. Con el Yamaha Sound System, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios.
+Un tipo de sistema de sonido está disponible para el Zeekr 001 Performance AWD.
+
+- Con el Yamaha Sound System, obtienes ocho parlantes con una salida máxima del sistema de 200 vatios.
+
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

@@ -209,7 +209,10 @@ Además, el Li Auto MEGA es compatible con Android Auto y Apple CarPlay. Esta fu
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el Li Auto MEGA. Con el Platinum audio system, obtienes 21 parlantes con una salida máxima del sistema de 2160 vatios.
+Un tipo de sistema de sonido está disponible para el Li Auto MEGA.
+
+- Con el Platinum audio system, obtienes 21 parlantes con una salida máxima del sistema de 2160 vatios.
+
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

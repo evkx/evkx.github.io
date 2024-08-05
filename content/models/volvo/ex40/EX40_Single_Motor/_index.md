@@ -163,7 +163,11 @@ The model does not have a head-up display.
 
 ### Sound system
 
-You can choose between two sound systems on the Volvo EX40 Single Motor. With the High Performance, you get eight speakers with a max system output of 200 watts. With the Harman Kardon Premium Sound, you get 13 speakers with a max system output of 600 watts.
+You can choose between two sound systems on the Volvo EX40 Single Motor.
+
+- With the High Performance, you get eight speakers with a max system output of 200 watts.
+- With the Harman Kardon Premium Sound, you get 13 speakers with a max system output of 600 watts.
+
 
 The model has 1 USB-C connections as standard.
 

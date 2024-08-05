@@ -169,7 +169,10 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Zeekr X Long Range RWD. Med Yamaha surround sound system får du 13 högtalare med en maximal systemeffekt på 1040 watt.
+En typ av ljudsystem är tillgänglig för Zeekr X Long Range RWD.
+
+- Med Yamaha surround sound system får du 13 högtalare med en maximal systemeffekt på 1040 watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard.
 

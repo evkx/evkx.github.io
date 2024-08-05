@@ -189,7 +189,11 @@ Yderligere understøtter Kia EV6 Long Range 2WD Android Auto og Apple CarPlay. D
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Kia EV6 Long Range 2WD. Med Standard får du seks højttalere med en maksimal systemeffekt på  watt. Med Meridian Premium Sound System får du 14 højttalere med en maksimal systemeffekt på  watt.
+Du kan vælge mellem to lydsystemer på Kia EV6 Long Range 2WD.
+
+- Med Standard får du seks højttalere med en maksimal systemeffekt på  watt.
+- Med Meridian Premium Sound System får du 14 højttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 

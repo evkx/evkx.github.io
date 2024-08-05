@@ -181,7 +181,11 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le HiPhi Y Performance. Avec le SONIC LINE SYSTEM, vous obtenez 14 haut-parleurs avec une puissance système maximale de 600 watts. Avec le SONIC PRO SYSTEM, vous obtenez 25 haut-parleurs avec une puissance système maximale de 2820 watts.
+Vous pouvez choisir entre deux systèmes audio sur le HiPhi Y Performance.
+
+- Avec le SONIC LINE SYSTEM, vous obtenez 14 haut-parleurs avec une puissance système maximale de 600 watts.
+- Avec le SONIC PRO SYSTEM, vous obtenez 25 haut-parleurs avec une puissance système maximale de 2820 watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

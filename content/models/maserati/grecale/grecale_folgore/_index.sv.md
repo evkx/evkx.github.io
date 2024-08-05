@@ -193,7 +193,11 @@ Dessutom stöder Maserati Grecale Folgore Android Auto och Apple CarPlay. Denna 
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Maserati Grecale Folgore. Med Sonus Faber Premium Sound System får du 14 högtalare med en maximal systemeffekt på 860 watt. Med Sonus Faber High Premium Sound System får du 21 högtalare med en maximal systemeffekt på 1285 watt.
+Du kan välja mellan två ljudsystem på Maserati Grecale Folgore.
+
+- Med Sonus Faber Premium Sound System får du 14 högtalare med en maximal systemeffekt på 860 watt.
+- Med Sonus Faber High Premium Sound System får du 21 högtalare med en maximal systemeffekt på 1285 watt.
+
 
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 

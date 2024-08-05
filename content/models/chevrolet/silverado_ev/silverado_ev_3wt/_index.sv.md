@@ -181,7 +181,10 @@ Dessutom stöder Chevrolet Silverado EV 3WT Android Auto och Apple CarPlay. Denn
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Chevrolet Silverado EV 3WT. Med Chevrolet Sound System får du sex högtalare med en maximal systemeffekt på 200 watt.
+En typ av ljudsystem är tillgänglig för Chevrolet Silverado EV 3WT.
+
+- Med Chevrolet Sound System får du sex högtalare med en maximal systemeffekt på 200 watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard.
 

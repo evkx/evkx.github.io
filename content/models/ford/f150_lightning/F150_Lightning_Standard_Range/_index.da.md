@@ -182,7 +182,12 @@ Yderligere understøtter Ford F150 Lightning Standard Range Android Auto og Appl
 
 ### Lydsystem
 
-Du kan vælge mellem tre lydsystemer på Ford F150 Lightning Standard Range. Med Ford får du fire højttalere med en maksimal systemeffekt på 80 watt. Med B&O Sound System får du otte højttalere med en maksimal systemeffekt på 640 watt. Med B&O Unleashed Sound System får du 18 højttalere med en maksimal systemeffekt på 1080 watt.
+Du kan vælge mellem tre lydsystemer på Ford F150 Lightning Standard Range.
+
+- Med Ford får du fire højttalere med en maksimal systemeffekt på 80 watt.
+- Med B&O Sound System får du otte højttalere med en maksimal systemeffekt på 640 watt.
+- Med B&O Unleashed Sound System får du 18 højttalere med en maksimal systemeffekt på 1080 watt.
+
 
 ## Lys
 

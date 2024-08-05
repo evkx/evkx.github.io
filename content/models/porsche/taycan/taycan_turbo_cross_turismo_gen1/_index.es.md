@@ -231,7 +231,12 @@ Además, el Porsche Taycan Turbo Cross Turismo (GEN1) es compatible con Android 
 
 ### Sistema de sonido
 
-Puedes elegir entre tres sistemas de sonido en el Porsche Taycan Turbo Cross Turismo (GEN1). Con el Porsche Sound system, obtienes diez parlantes con una salida máxima del sistema de 150 vatios. Con el  BOSE® Surround Sound System, obtienes 14 parlantes con una salida máxima del sistema de 710 vatios. Con el  Burmester® 3D High-End Surround Sound System, obtienes 21 parlantes con una salida máxima del sistema de 1455 vatios.
+Puedes elegir entre tres sistemas de sonido en el Porsche Taycan Turbo Cross Turismo (GEN1).
+
+- Con el Porsche Sound system, obtienes diez parlantes con una salida máxima del sistema de 150 vatios.
+- Con el  BOSE® Surround Sound System, obtienes 14 parlantes con una salida máxima del sistema de 710 vatios.
+- Con el  Burmester® 3D High-End Surround Sound System, obtienes 21 parlantes con una salida máxima del sistema de 1455 vatios.
+
 
 ## Luces
 

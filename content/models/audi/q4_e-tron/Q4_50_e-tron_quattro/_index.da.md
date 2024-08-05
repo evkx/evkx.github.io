@@ -209,7 +209,11 @@ Yderligere understøtter Audi Q4 50 e-tron quattro Android Auto og Apple CarPlay
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Audi Q4 50 e-tron quattro. Med Audi Sound system får du otte højttalere med en maksimal systemeffekt på 180 watt. Med Sonos Sound System får du ti højttalere med en maksimal systemeffekt på 580 watt.
+Du kan vælge mellem to lydsystemer på Audi Q4 50 e-tron quattro.
+
+- Med Audi Sound system får du otte højttalere med en maksimal systemeffekt på 180 watt.
+- Med Sonos Sound System får du ti højttalere med en maksimal systemeffekt på 580 watt.
+
 
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 

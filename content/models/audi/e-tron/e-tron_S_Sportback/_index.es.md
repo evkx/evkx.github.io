@@ -238,7 +238,11 @@ Además, el Audi e-tron S Sportback es compatible con Android Auto y Apple CarPl
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Audi e-tron S Sportback. Con el Audi Sound system, obtienes diez parlantes con una salida máxima del sistema de 180 vatios. Con el Bang & Olufsen Sound System, obtienes 16 parlantes con una salida máxima del sistema de 700 vatios.
+Puedes elegir entre dos sistemas de sonido en el Audi e-tron S Sportback.
+
+- Con el Audi Sound system, obtienes diez parlantes con una salida máxima del sistema de 180 vatios.
+- Con el Bang & Olufsen Sound System, obtienes 16 parlantes con una salida máxima del sistema de 700 vatios.
+
 
 El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
 

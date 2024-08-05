@@ -203,7 +203,11 @@ De plus, le Citroën ë-C3 prend en charge Android Auto et Apple CarPlay. Cette 
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Citroën ë-C3. Avec le , vous obtenez deux haut-parleurs avec une puissance système maximale de  watts. Avec le Max Sound system, vous obtenez deux haut-parleurs avec une puissance système maximale de  watts.
+Vous pouvez choisir entre deux systèmes audio sur le Citroën ë-C3.
+
+- Avec le , vous obtenez deux haut-parleurs avec une puissance système maximale de  watts.
+- Avec le Max Sound system, vous obtenez deux haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
 

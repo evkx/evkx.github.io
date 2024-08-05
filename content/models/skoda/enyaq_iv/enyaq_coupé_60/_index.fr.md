@@ -186,7 +186,10 @@ De plus, le SKODA ENYAQ COUPÉ 60 prend en charge Android Auto et Apple CarPlay.
 
 ### Système audio
 
-Un type de système audio est disponible pour le SKODA ENYAQ COUPÉ 60. Avec le Canton Soundsystem, vous obtenez dix haut-parleurs avec une puissance système maximale de 550 watts.
+Un type de système audio est disponible pour le SKODA ENYAQ COUPÉ 60.
+
+- Avec le Canton Soundsystem, vous obtenez dix haut-parleurs avec une puissance système maximale de 550 watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

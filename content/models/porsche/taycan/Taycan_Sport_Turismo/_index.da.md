@@ -237,7 +237,12 @@ Yderligere understøtter Porsche Taycan Sport Turismo Android Auto og Apple CarP
 
 ### Lydsystem
 
-Du kan vælge mellem tre lydsystemer på Porsche Taycan Sport Turismo. Med Porsche Sound system får du ti højttalere med en maksimal systemeffekt på 150 watt. Med  BOSE® Surround Sound System får du 14 højttalere med en maksimal systemeffekt på 710 watt. Med  Burmester® 3D High-End Surround Sound System får du 21 højttalere med en maksimal systemeffekt på 1455 watt.
+Du kan vælge mellem tre lydsystemer på Porsche Taycan Sport Turismo.
+
+- Med Porsche Sound system får du ti højttalere med en maksimal systemeffekt på 150 watt.
+- Med  BOSE® Surround Sound System får du 14 højttalere med en maksimal systemeffekt på 710 watt.
+- Med  Burmester® 3D High-End Surround Sound System får du 21 højttalere med en maksimal systemeffekt på 1455 watt.
+
 
 ## Lys
 

@@ -189,7 +189,11 @@ Dessutom stöder Kia EV6 Standard Range AWD Android Auto och Apple CarPlay. Denn
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Kia EV6 Standard Range AWD. Med Standard får du sex högtalare med en maximal systemeffekt på  watt. Med Meridian Premium Sound System får du 14 högtalare med en maximal systemeffekt på  watt.
+Du kan välja mellan två ljudsystem på Kia EV6 Standard Range AWD.
+
+- Med Standard får du sex högtalare med en maximal systemeffekt på  watt.
+- Med Meridian Premium Sound System får du 14 högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

@@ -179,7 +179,11 @@ Yderligere understøtter Kia EV6 GT Android Auto og Apple CarPlay. Denne funktio
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Kia EV6 GT. Med Standard får du seks højttalere med en maksimal systemeffekt på  watt. Med Meridian Premium Sound System får du 14 højttalere med en maksimal systemeffekt på  watt.
+Du kan vælge mellem to lydsystemer på Kia EV6 GT.
+
+- Med Standard får du seks højttalere med en maksimal systemeffekt på  watt.
+- Med Meridian Premium Sound System får du 14 højttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 

@@ -178,7 +178,11 @@ Además, el Toyota bZ4X FWD es compatible con Android Auto y Apple CarPlay. Esta
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Toyota bZ4X FWD. Con el Toyota, obtienes seis parlantes con una salida máxima del sistema de  vatios. Con el JBL Premium Sound, obtienes nueve parlantes con una salida máxima del sistema de  vatios.
+Puedes elegir entre dos sistemas de sonido en el Toyota bZ4X FWD.
+
+- Con el Toyota, obtienes seis parlantes con una salida máxima del sistema de  vatios.
+- Con el JBL Premium Sound, obtienes nueve parlantes con una salida máxima del sistema de  vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie.
 

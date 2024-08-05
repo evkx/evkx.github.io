@@ -175,7 +175,10 @@ De plus, le KGM Torres EVX prend en charge Android Auto et Apple CarPlay. Cette 
 
 ### Système audio
 
-Un type de système audio est disponible pour le KGM Torres EVX. Avec le KGM, vous obtenez six haut-parleurs avec une puissance système maximale de 100 watts.
+Un type de système audio est disponible pour le KGM Torres EVX.
+
+- Avec le KGM, vous obtenez six haut-parleurs avec une puissance système maximale de 100 watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

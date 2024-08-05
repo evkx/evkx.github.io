@@ -222,7 +222,11 @@ Yderligere understøtter Mercedes-AMG EQE 43 4MATIC SUV Android Auto og Apple Ca
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Mercedes-AMG EQE 43 4MATIC SUV. Med Advanced Soundsystem får du ni højttalere med en maksimal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 højttalere med en maksimal systemeffekt på 590 watt.
+Du kan vælge mellem to lydsystemer på Mercedes-AMG EQE 43 4MATIC SUV.
+
+- Med Advanced Soundsystem får du ni højttalere med en maksimal systemeffekt på 225 watt.
+- Med Burmester Surround Soundsystem får du 13 højttalere med en maksimal systemeffekt på 590 watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard.
 

@@ -166,7 +166,10 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 ### Système audio
 
-Un type de système audio est disponible pour le Smart #1 Pulse. Avec le Yamaha surround sound system, vous obtenez 13 haut-parleurs avec une puissance système maximale de 1040 watts.
+Un type de système audio est disponible pour le Smart #1 Pulse.
+
+- Avec le Yamaha surround sound system, vous obtenez 13 haut-parleurs avec une puissance système maximale de 1040 watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

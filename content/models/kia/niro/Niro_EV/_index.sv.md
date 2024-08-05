@@ -185,7 +185,11 @@ Dessutom stöder Kia Niro EV Android Auto och Apple CarPlay. Denna funktion gör
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Kia Niro EV. Med Standard får du sex högtalare med en maximal systemeffekt på  watt. Med Meridian Premium Sound System får du 14 högtalare med en maximal systemeffekt på  watt.
+Du kan välja mellan två ljudsystem på Kia Niro EV.
+
+- Med Standard får du sex högtalare med en maximal systemeffekt på  watt.
+- Med Meridian Premium Sound System får du 14 högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

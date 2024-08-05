@@ -176,7 +176,10 @@ Además, el MG MG5 Electric Standard Range es compatible con Android Auto y Appl
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el MG MG5 Electric Standard Range. Con el , obtienes seis parlantes con una salida máxima del sistema de  vatios.
+Un tipo de sistema de sonido está disponible para el MG MG5 Electric Standard Range.
+
+- Con el , obtienes seis parlantes con una salida máxima del sistema de  vatios.
+
 
 El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A de serie.
 

@@ -174,7 +174,10 @@ Dessutom stöder MG Marvel R Electric Android Auto och Apple CarPlay. Denna funk
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för MG Marvel R Electric. Med  får du NULL högtalare med en maximal systemeffekt på  watt.
+En typ av ljudsystem är tillgänglig för MG Marvel R Electric.
+
+- Med  får du NULL högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 4 USB-A-anslutningar som standard.
 

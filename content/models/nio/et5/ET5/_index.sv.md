@@ -197,7 +197,10 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Nio ET5. Med Premium sound system får du 23 högtalare med en maximal systemeffekt på  watt.
+En typ av ljudsystem är tillgänglig för Nio ET5.
+
+- Med Premium sound system får du 23 högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 2 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

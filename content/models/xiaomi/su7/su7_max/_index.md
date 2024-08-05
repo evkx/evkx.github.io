@@ -176,7 +176,10 @@ A head-up display is a standard system that projects speed and other important d
 
 ### Sound system
 
-One type of sound system is available for the Xiaomi SU7 Max. With the Xiaomi Soundsystem, you get 25 speakers with a max system output of  watts.
+One type of sound system is available for the Xiaomi SU7 Max.
+
+- With the Xiaomi Soundsystem, you get 25 speakers with a max system output of  watts.
+
 
 The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

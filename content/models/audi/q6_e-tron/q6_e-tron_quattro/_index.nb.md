@@ -221,9 +221,19 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ## Infotainment
 
+Audi Q6 e-tron quattro har et avansert infotainmentsystem bygget på Android Automotive OS, en plattform fra Google spesielt designet for bilens dashbord. For å forbedre dette robuste systemet har Audi integrert sin egen suite av applikasjoner, som gir sømløs navigasjon, omfattende bilinnstillinger og mye mer.
+
 ### Navigasjonssystem
 
-I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenger for å finne destinasjonen din.
+Det innebygde navigasjonssystemet bruker detaljerte kart og tilbyr avansert ruteplanlegging hvor du kan definere ønsket ladingsnivå ved din destinasjon eller under ladestopp. Systemet gir sanntids trafikkinformasjon og satellittkart, noe som sikrer en effektiv og stressfri reise.
+
+### App store
+
+Infotainmentsystemet inkluderer en App Store hvor du kan laste ned tredjepartsapper for å kjøre direkte på bilens skjerm uten behov for en tilkoblet telefon. Tilgjengelige apper varierer avhengig av markedet, men inkluderer populære alternativer som:
+
+- **Spotify**
+- **TIDAL**
+- **YouTube**
 
 ### Telefonspeiling
 
@@ -231,7 +241,11 @@ I tillegg støtter Audi Q6 e-tron quattro Android Auto og Apple CarPlay. Denne f
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Audi Q6 e-tron quattro. Med Audi Sound System får du fem høyttalere med en maksimal systemeffekt på 200 watt. Med Bang & Olufsen Sound System får du 20 høyttalere med en maksimal systemeffekt på 830 watt.
+Du kan velge mellom to lydsystemer på Audi Q6 e-tron quattro.
+
+- Med Audi Sound System får du fem høyttalere med en maksimal systemeffekt på 200 watt.
+- Med Bang & Olufsen Sound System får du 20 høyttalere med en maksimal systemeffekt på 830 watt.
+
 
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
 

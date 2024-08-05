@@ -185,7 +185,11 @@ Yderligere understøtter Nissan Ariya 63kWh Android Auto og Apple CarPlay. Denne
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Nissan Ariya 63kWh. Med DAB Audiosystem får du seks højttalere med en maksimal systemeffekt på  watt. Med BOSE Premium Sound System får du ti højttalere med en maksimal systemeffekt på  watt.
+Du kan vælge mellem to lydsystemer på Nissan Ariya 63kWh.
+
+- Med DAB Audiosystem får du seks højttalere med en maksimal systemeffekt på  watt.
+- Med BOSE Premium Sound System får du ti højttalere med en maksimal systemeffekt på  watt.
+
 
 ## Lys
 

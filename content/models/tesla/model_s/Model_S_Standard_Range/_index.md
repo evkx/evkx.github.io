@@ -172,13 +172,16 @@ The model does not have a head-up display.
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
 ### Sound system
 
-One type of sound system is available for the Tesla Model S Standard Range. With the Tesla Premium Sound, you get 22 speakers with a max system output of 560 watts.
+One type of sound system is available for the Tesla Model S Standard Range.
+
+- With the Tesla Premium Sound, you get 22 speakers with a max system output of 560 watts.
+
 
 ## Lights
 

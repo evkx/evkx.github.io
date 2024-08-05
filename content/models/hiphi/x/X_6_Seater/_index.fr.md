@@ -191,7 +191,11 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le HiPhi X 6 Seater. Avec le SONIC LINE SYSTEM, vous obtenez neuf haut-parleurs avec une puissance système maximale de 600 watts. Avec le SONIC PRO SYSTEM, vous obtenez 17 haut-parleurs avec une puissance système maximale de 600 watts.
+Vous pouvez choisir entre deux systèmes audio sur le HiPhi X 6 Seater.
+
+- Avec le SONIC LINE SYSTEM, vous obtenez neuf haut-parleurs avec une puissance système maximale de 600 watts.
+- Avec le SONIC PRO SYSTEM, vous obtenez 17 haut-parleurs avec une puissance système maximale de 600 watts.
+
 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 3 connexions USB-A en standard.
 

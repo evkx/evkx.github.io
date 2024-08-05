@@ -181,7 +181,10 @@ Además, el Chevrolet Silverado EV 4WT es compatible con Android Auto y Apple Ca
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el Chevrolet Silverado EV 4WT. Con el Chevrolet Sound System, obtienes seis parlantes con una salida máxima del sistema de 200 vatios.
+Un tipo de sistema de sonido está disponible para el Chevrolet Silverado EV 4WT.
+
+- Con el Chevrolet Sound System, obtienes seis parlantes con una salida máxima del sistema de 200 vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie.
 

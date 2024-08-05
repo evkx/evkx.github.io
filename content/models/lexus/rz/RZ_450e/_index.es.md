@@ -190,7 +190,11 @@ Además, el Lexus RZ 450e es compatible con Android Auto y Apple CarPlay. Esta f
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Lexus RZ 450e. Con el Standard, obtienes 14 parlantes con una salida máxima del sistema de  vatios. Con el Mark Levinson Premium Surround Sound, obtienes 14 parlantes con una salida máxima del sistema de  vatios.
+Puedes elegir entre dos sistemas de sonido en el Lexus RZ 450e.
+
+- Con el Standard, obtienes 14 parlantes con una salida máxima del sistema de  vatios.
+- Con el Mark Levinson Premium Surround Sound, obtienes 14 parlantes con una salida máxima del sistema de  vatios.
+
 
 El modelo tiene 5 conexiones USB-C de serie.
 

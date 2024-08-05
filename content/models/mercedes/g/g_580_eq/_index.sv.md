@@ -221,7 +221,11 @@ Dessutom stöder Mercedes-EQ G 580 EQ Android Auto och Apple CarPlay. Denna funk
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Mercedes-EQ G 580 EQ. Med Advanced Soundsystem får du nio högtalare med en maximal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 högtalare med en maximal systemeffekt på 590 watt.
+Du kan välja mellan två ljudsystem på Mercedes-EQ G 580 EQ.
+
+- Med Advanced Soundsystem får du nio högtalare med en maximal systemeffekt på 225 watt.
+- Med Burmester Surround Soundsystem får du 13 högtalare med en maximal systemeffekt på 590 watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 

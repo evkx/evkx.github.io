@@ -197,7 +197,10 @@ De plus, le Volvo EM90 prend en charge Android Auto et Apple CarPlay. Cette fonc
 
 ### Système audio
 
-Un type de système audio est disponible pour le Volvo EM90. Avec le Bowers & Wilkins Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 500 watts.
+Un type de système audio est disponible pour le Volvo EM90.
+
+- Avec le Bowers & Wilkins Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 500 watts.
+
 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

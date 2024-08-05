@@ -190,7 +190,11 @@ De plus, le BYD Han prend en charge Android Auto et Apple CarPlay. Cette fonctio
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le BYD Han. Avec le Surroundsystem, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts. Avec le Premium sound system, vous obtenez 12 haut-parleurs avec une puissance système maximale de  watts.
+Vous pouvez choisir entre deux systèmes audio sur le BYD Han.
+
+- Avec le Surroundsystem, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
+- Avec le Premium sound system, vous obtenez 12 haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 5 connexions USB-A en standard.
 

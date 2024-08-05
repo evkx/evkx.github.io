@@ -184,7 +184,11 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på BYD Tang EV600. Med Surroundsystem får du syv høyttalere med en maksimal systemeffekt på  watt. Med Premium sound system får du 12 høyttalere med en maksimal systemeffekt på  watt.
+Du kan velge mellom to lydsystemer på BYD Tang EV600.
+
+- Med Surroundsystem får du syv høyttalere med en maksimal systemeffekt på  watt.
+- Med Premium sound system får du 12 høyttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 4 USB-A-tilkoblinger som standard.
 

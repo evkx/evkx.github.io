@@ -185,7 +185,11 @@ Además, el Ford Explorer Extended Range RWD es compatible con Android Auto y Ap
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Ford Explorer Extended Range RWD. Con el Sound system, obtienes seis parlantes con una salida máxima del sistema de 140 vatios. Con el B&O Soundsystem, obtienes diez parlantes con una salida máxima del sistema de 480 vatios.
+Puedes elegir entre dos sistemas de sonido en el Ford Explorer Extended Range RWD.
+
+- Con el Sound system, obtienes seis parlantes con una salida máxima del sistema de 140 vatios.
+- Con el B&O Soundsystem, obtienes diez parlantes con una salida máxima del sistema de 480 vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie.
 

@@ -185,7 +185,10 @@ Ce modèle est équipé en standard d'une commande vocale. La commande vocale vo
 
 ### Système audio
 
-Un type de système audio est disponible pour le HiPhi Z 4 Seater. Avec le SONIC PRO SYSTEM, vous obtenez 23 haut-parleurs avec une puissance système maximale de 600 watts.
+Un type de système audio est disponible pour le HiPhi Z 4 Seater.
+
+- Avec le SONIC PRO SYSTEM, vous obtenez 23 haut-parleurs avec une puissance système maximale de 600 watts.
+
 
 Le modèle dispose de 1 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires. Le modèle dispose de 1 connexions USB-A en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
 

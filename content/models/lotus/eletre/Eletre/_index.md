@@ -183,17 +183,21 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
-### Phone mirroring
+### Phone Mirroring
 
 Furthermore, the Lotus Eletre supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 ### Sound system
 
-You can choose between two sound systems on the Lotus Eletre. With the KEF Premium Audio system, you get 15 speakers with a max system output of 1380 watts. With the KEF Reference Audio system, you get 23 speakers with a max system output of 2160 watts.
+You can choose between two sound systems on the Lotus Eletre.
+
+- With the KEF Premium Audio system, you get 15 speakers with a max system output of 1380 watts.
+- With the KEF Reference Audio system, you get 23 speakers with a max system output of 2160 watts.
+
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

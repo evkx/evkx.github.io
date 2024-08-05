@@ -190,7 +190,10 @@ I tillegg støtter Hyundai INSTER Standard Range Android Auto og Apple CarPlay. 
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for Hyundai INSTER Standard Range. Med Bose Premium Sound System får du syv høyttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgjengelig for Hyundai INSTER Standard Range.
+
+- Med Bose Premium Sound System får du syv høyttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 

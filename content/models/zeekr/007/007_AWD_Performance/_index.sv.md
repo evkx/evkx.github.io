@@ -187,7 +187,10 @@ Dessutom stöder Zeekr 007 AWD Performance Android Auto och Apple CarPlay. Denna
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Zeekr 007 AWD Performance. Med Yamaha Sound System får du 21 högtalare med en maximal systemeffekt på 300 watt.
+En typ av ljudsystem är tillgänglig för Zeekr 007 AWD Performance.
+
+- Med Yamaha Sound System får du 21 högtalare med en maximal systemeffekt på 300 watt.
+
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

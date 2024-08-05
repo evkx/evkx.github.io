@@ -172,7 +172,11 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Volvo EX30 Single Motor Extended Range. Avec le High Performance, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts. Avec le Harman Kardon Premium Sound, vous obtenez 13 haut-parleurs avec une puissance système maximale de 1040 watts.
+Vous pouvez choisir entre deux systèmes audio sur le Volvo EX30 Single Motor Extended Range.
+
+- Avec le High Performance, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts.
+- Avec le Harman Kardon Premium Sound, vous obtenez 13 haut-parleurs avec une puissance système maximale de 1040 watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

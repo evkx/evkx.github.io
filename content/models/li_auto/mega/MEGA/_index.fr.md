@@ -209,7 +209,10 @@ De plus, le Li Auto MEGA prend en charge Android Auto et Apple CarPlay. Cette fo
 
 ### Système audio
 
-Un type de système audio est disponible pour le Li Auto MEGA. Avec le Platinum audio system, vous obtenez 21 haut-parleurs avec une puissance système maximale de 2160 watts.
+Un type de système audio est disponible pour le Li Auto MEGA.
+
+- Avec le Platinum audio system, vous obtenez 21 haut-parleurs avec une puissance système maximale de 2160 watts.
+
 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

@@ -175,17 +175,21 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
-### Phone mirroring
+### Phone Mirroring
 
 Furthermore, the Nissan Ariya 87kWh e-4ORCE supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 ### Sound system
 
-You can choose between two sound systems on the Nissan Ariya 87kWh e-4ORCE. With the DAB Audiosystem, you get six speakers with a max system output of  watts. With the BOSE Premium Sound System, you get ten speakers with a max system output of  watts.
+You can choose between two sound systems on the Nissan Ariya 87kWh e-4ORCE.
+
+- With the DAB Audiosystem, you get six speakers with a max system output of  watts.
+- With the BOSE Premium Sound System, you get ten speakers with a max system output of  watts.
+
 
 ## Lights
 

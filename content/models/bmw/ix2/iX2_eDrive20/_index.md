@@ -194,17 +194,21 @@ A head-up display is an optional system that projects speed and other important 
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
-### Phone mirroring
+### Phone Mirroring
 
 Furthermore, the BMW iX2 eDrive20 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 ### Sound system
 
-You can choose between two sound systems on the BMW iX2 eDrive20. With the Harman Kardon Surround Sound system, you get 16 speakers with a max system output of 464 watts. With the Harman Kardon Surround Sound system, you get 16 speakers with a max system output of 464 watts.
+You can choose between two sound systems on the BMW iX2 eDrive20.
+
+- With the Harman Kardon Surround Sound system, you get 16 speakers with a max system output of 464 watts.
+- With the Harman Kardon Surround Sound system, you get 16 speakers with a max system output of 464 watts.
+
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

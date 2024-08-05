@@ -179,13 +179,17 @@ The model does not have a head-up display.
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
 ### Sound system
 
-You can choose between two sound systems on the Lucid Air Grand Touring. With the Surreal Sound, you get nine speakers with a max system output of 300 watts. With the Surreal Sound Pro, you get 21 speakers with a max system output of 800 watts.
+You can choose between two sound systems on the Lucid Air Grand Touring.
+
+- With the Surreal Sound, you get nine speakers with a max system output of 300 watts.
+- With the Surreal Sound Pro, you get 21 speakers with a max system output of 800 watts.
+
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

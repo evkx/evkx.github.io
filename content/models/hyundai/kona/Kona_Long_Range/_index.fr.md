@@ -185,7 +185,10 @@ De plus, le Hyundai Kona Long Range prend en charge Android Auto et Apple CarPla
 
 ### Système audio
 
-Un type de système audio est disponible pour le Hyundai Kona Long Range. Avec le Bose Premium Sound System, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
+Un type de système audio est disponible pour le Hyundai Kona Long Range.
+
+- Avec le Bose Premium Sound System, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

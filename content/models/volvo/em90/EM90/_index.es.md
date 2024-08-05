@@ -197,7 +197,10 @@ Además, el Volvo EM90 es compatible con Android Auto y Apple CarPlay. Esta func
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el Volvo EM90. Con el Bowers & Wilkins Sound System, obtienes 21 parlantes con una salida máxima del sistema de 500 vatios.
+Un tipo de sistema de sonido está disponible para el Volvo EM90.
+
+- Con el Bowers & Wilkins Sound System, obtienes 21 parlantes con una salida máxima del sistema de 500 vatios.
+
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

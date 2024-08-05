@@ -187,7 +187,10 @@ De plus, le Zeekr 007 AWD Performance prend en charge Android Auto et Apple CarP
 
 ### Système audio
 
-Un type de système audio est disponible pour le Zeekr 007 AWD Performance. Avec le Yamaha Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 300 watts.
+Un type de système audio est disponible pour le Zeekr 007 AWD Performance.
+
+- Avec le Yamaha Sound System, vous obtenez 21 haut-parleurs avec une puissance système maximale de 300 watts.
+
 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

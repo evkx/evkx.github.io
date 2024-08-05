@@ -171,7 +171,10 @@ Además, el Opel Astra Sports Tourer Electric es compatible con Android Auto y A
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el Opel Astra Sports Tourer Electric. Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+Un tipo de sistema de sonido está disponible para el Opel Astra Sports Tourer Electric.
+
+- Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+
 
 El modelo tiene 3 conexiones USB-C de serie.
 

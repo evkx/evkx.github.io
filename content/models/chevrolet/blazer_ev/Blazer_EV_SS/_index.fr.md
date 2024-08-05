@@ -174,7 +174,10 @@ De plus, le Chevrolet Blazer EV SS prend en charge Android Auto et Apple CarPlay
 
 ### Système audio
 
-Un type de système audio est disponible pour le Chevrolet Blazer EV SS. Avec le Lyric sound system, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
+Un type de système audio est disponible pour le Chevrolet Blazer EV SS.
+
+- Avec le Lyric sound system, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 5 connexions USB-C en standard.
 

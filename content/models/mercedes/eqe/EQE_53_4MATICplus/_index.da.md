@@ -223,7 +223,11 @@ Yderligere understøtter Mercedes-AMG EQE 53 4MATIC+ Android Auto og Apple CarPl
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Mercedes-AMG EQE 53 4MATIC+. Med Advanced Soundsystem får du ni højttalere med en maksimal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 højttalere med en maksimal systemeffekt på 590 watt.
+Du kan vælge mellem to lydsystemer på Mercedes-AMG EQE 53 4MATIC+.
+
+- Med Advanced Soundsystem får du ni højttalere med en maksimal systemeffekt på 225 watt.
+- Med Burmester Surround Soundsystem får du 13 højttalere med en maksimal systemeffekt på 590 watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 

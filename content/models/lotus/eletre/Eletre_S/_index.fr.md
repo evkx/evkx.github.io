@@ -198,7 +198,11 @@ De plus, le Lotus Eletre S prend en charge Android Auto et Apple CarPlay. Cette 
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Lotus Eletre S. Avec le KEF Premium Audio system, vous obtenez 15 haut-parleurs avec une puissance système maximale de 1380 watts. Avec le KEF Reference Audio system, vous obtenez 23 haut-parleurs avec une puissance système maximale de 2160 watts.
+Vous pouvez choisir entre deux systèmes audio sur le Lotus Eletre S.
+
+- Avec le KEF Premium Audio system, vous obtenez 15 haut-parleurs avec une puissance système maximale de 1380 watts.
+- Avec le KEF Reference Audio system, vous obtenez 23 haut-parleurs avec une puissance système maximale de 2160 watts.
+
 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

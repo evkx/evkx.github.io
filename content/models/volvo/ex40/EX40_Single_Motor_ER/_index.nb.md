@@ -163,7 +163,11 @@ Modellen er ikke tilgjengelig med head-up display.
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Volvo EX40 Single Motor ER. Med High Performance får du åtte høyttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 600 watt.
+Du kan velge mellom to lydsystemer på Volvo EX40 Single Motor ER.
+
+- Med High Performance får du åtte høyttalere med en maksimal systemeffekt på 200 watt.
+- Med Harman Kardon Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 600 watt.
+
 
 Modellen har 1 USB-C-tilkoblinger som standard.
 

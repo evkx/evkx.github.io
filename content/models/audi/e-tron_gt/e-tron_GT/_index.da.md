@@ -210,7 +210,11 @@ Yderligere understøtter Audi e-tron GT Android Auto og Apple CarPlay. Denne fun
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Audi e-tron GT. Med Audi Sound system får du ti højttalere med en maksimal systemeffekt på 180 watt. Med Bang & Olufsen Sound System får du 16 højttalere med en maksimal systemeffekt på 700 watt.
+Du kan vælge mellem to lydsystemer på Audi e-tron GT.
+
+- Med Audi Sound system får du ti højttalere med en maksimal systemeffekt på 180 watt.
+- Med Bang & Olufsen Sound System får du 16 højttalere med en maksimal systemeffekt på 700 watt.
+
 
 ## Lys
 

@@ -220,7 +220,11 @@ Dessutom stöder Mercedes-EQ EQE 300 Android Auto och Apple CarPlay. Denna funkt
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Mercedes-EQ EQE 300. Med Advanced Soundsystem får du nio högtalare med en maximal systemeffekt på 225 watt. Med Burmester Surround Soundsystem får du 13 högtalare med en maximal systemeffekt på 590 watt.
+Du kan välja mellan två ljudsystem på Mercedes-EQ EQE 300.
+
+- Med Advanced Soundsystem får du nio högtalare med en maximal systemeffekt på 225 watt.
+- Med Burmester Surround Soundsystem får du 13 högtalare med en maximal systemeffekt på 590 watt.
+
 
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 4 USB-C-anslutningar.
 

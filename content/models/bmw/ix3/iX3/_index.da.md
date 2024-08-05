@@ -186,7 +186,10 @@ Yderligere understøtter BMW iX3 Android Auto og Apple CarPlay. Denne funktional
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for BMW iX3. Med Harman Kardon Surround Sound system får du 16 højttalere med en maksimal systemeffekt på 464 watt.
+Én type lydsystem er tilgængelig for BMW iX3.
+
+- Med Harman Kardon Surround Sound system får du 16 højttalere med en maksimal systemeffekt på 464 watt.
+
 
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 

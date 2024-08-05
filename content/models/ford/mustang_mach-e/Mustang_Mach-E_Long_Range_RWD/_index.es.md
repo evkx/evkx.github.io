@@ -181,7 +181,10 @@ Además, el Ford Mustang Mach-E Long Range RWD es compatible con Android Auto y 
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el Ford Mustang Mach-E Long Range RWD. Con el B&O Sound System, obtienes diez parlantes con una salida máxima del sistema de 560 vatios.
+Un tipo de sistema de sonido está disponible para el Ford Mustang Mach-E Long Range RWD.
+
+- Con el B&O Sound System, obtienes diez parlantes con una salida máxima del sistema de 560 vatios.
+
 
 El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A de serie.
 

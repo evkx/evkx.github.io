@@ -178,7 +178,10 @@ Además, el Cadillac LYRIQ AWD es compatible con Android Auto y Apple CarPlay. E
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el Cadillac LYRIQ AWD. Con el Lyric sound system, obtienes siete parlantes con una salida máxima del sistema de  vatios.
+Un tipo de sistema de sonido está disponible para el Cadillac LYRIQ AWD.
+
+- Con el Lyric sound system, obtienes siete parlantes con una salida máxima del sistema de  vatios.
+
 
 El modelo tiene 5 conexiones USB-C de serie.
 

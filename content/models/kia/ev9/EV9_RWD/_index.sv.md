@@ -210,7 +210,11 @@ Dessutom stöder Kia EV9 RWD Android Auto och Apple CarPlay. Denna funktion gör
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Kia EV9 RWD. Med Standard får du sex högtalare med en maximal systemeffekt på  watt. Med Meridian Premium Sound System får du 14 högtalare med en maximal systemeffekt på  watt.
+Du kan välja mellan två ljudsystem på Kia EV9 RWD.
+
+- Med Standard får du sex högtalare med en maximal systemeffekt på  watt.
+- Med Meridian Premium Sound System får du 14 högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 6 USB-C-anslutningar som standard.
 

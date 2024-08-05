@@ -157,7 +157,12 @@ Además, el Mercedes-EQ EQC 400 4MATIC es compatible con Android Auto y Apple Ca
 
 ### Sistema de sonido
 
-Puedes elegir entre tres sistemas de sonido en el Mercedes-EQ EQC 400 4MATIC. Con el Standard, obtienes siete parlantes con una salida máxima del sistema de 100 vatios. Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios. Con el Burmester Surround Soundsystem, obtienes 13 parlantes con una salida máxima del sistema de 590 vatios.
+Puedes elegir entre tres sistemas de sonido en el Mercedes-EQ EQC 400 4MATIC.
+
+- Con el Standard, obtienes siete parlantes con una salida máxima del sistema de 100 vatios.
+- Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios.
+- Con el Burmester Surround Soundsystem, obtienes 13 parlantes con una salida máxima del sistema de 590 vatios.
+
 
 ## Luces
 

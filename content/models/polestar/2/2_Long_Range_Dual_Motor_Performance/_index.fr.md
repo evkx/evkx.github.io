@@ -175,7 +175,11 @@ Le modèle n'a pas d'affichage tête haute.
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Polestar 2 Long Range Dual Motor Performance. Avec le High Performance, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts. Avec le Harman Kardon Premium Sound, vous obtenez 13 haut-parleurs avec une puissance système maximale de 600 watts.
+Vous pouvez choisir entre deux systèmes audio sur le Polestar 2 Long Range Dual Motor Performance.
+
+- Avec le High Performance, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts.
+- Avec le Harman Kardon Premium Sound, vous obtenez 13 haut-parleurs avec une puissance système maximale de 600 watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

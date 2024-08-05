@@ -200,7 +200,11 @@ I tillegg støtter Mercedes-EQ EQA 250 Android Auto og Apple CarPlay. Denne funk
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Mercedes-EQ EQA 250. Med Standard får du syv høyttalere med en maksimal systemeffekt på 100 watt. Med Advanced Soundsystem får du ni høyttalere med en maksimal systemeffekt på 225 watt.
+Du kan velge mellom to lydsystemer på Mercedes-EQ EQA 250.
+
+- Med Standard får du syv høyttalere med en maksimal systemeffekt på 100 watt.
+- Med Advanced Soundsystem får du ni høyttalere med en maksimal systemeffekt på 225 watt.
+
 
 Modellen har 4 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
 

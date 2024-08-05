@@ -203,7 +203,11 @@ Dessutom stöder SKODA Enyaq iV80 Android Auto och Apple CarPlay. Denna funktion
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på SKODA Enyaq iV80. Med Sound system får du åtta högtalare med en maximal systemeffekt på 80 watt. Med Canton Soundsystem får du tio högtalare med en maximal systemeffekt på 550 watt.
+Du kan välja mellan två ljudsystem på SKODA Enyaq iV80.
+
+- Med Sound system får du åtta högtalare med en maximal systemeffekt på 80 watt.
+- Med Canton Soundsystem får du tio högtalare med en maximal systemeffekt på 550 watt.
+
 
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 

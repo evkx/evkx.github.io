@@ -193,7 +193,11 @@ Dessutom stöder Lotus Eletre Android Auto och Apple CarPlay. Denna funktion gö
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Lotus Eletre. Med KEF Premium Audio system får du 15 högtalare med en maximal systemeffekt på 1380 watt. Med KEF Reference Audio system får du 23 högtalare med en maximal systemeffekt på 2160 watt.
+Du kan välja mellan två ljudsystem på Lotus Eletre.
+
+- Med KEF Premium Audio system får du 15 högtalare med en maximal systemeffekt på 1380 watt.
+- Med KEF Reference Audio system får du 23 högtalare med en maximal systemeffekt på 2160 watt.
+
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

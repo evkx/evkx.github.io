@@ -174,7 +174,10 @@ I tillegg støtter MG MG4 Electric XPOWER Android Auto og Apple CarPlay. Denne f
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for MG MG4 Electric XPOWER. Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgjengelig for MG MG4 Electric XPOWER.
+
+- Med  får du NULL høyttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 

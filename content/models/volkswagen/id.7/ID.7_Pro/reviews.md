@@ -9,6 +9,13 @@ navicon: bi-person-video2
 We collect reviews from our [favorite online reviewers](../../../../../guides/evreviewers/)
 
 <div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
+<h3>VW ID7 Pro summer range test</h3>
+<p>Bjørn Nyland: 05.08.2024</p>
+
+{{< youtube JyZ-8yM4swc >}}
+
+</div>
+<div class="container text-center shadow p-2 pe-4 mb-5 bg-body-tertiary rounded border">
 <h3>VW ID7 Pro driving impressions and summary</h3>
 <p>Bjørn Nyland: 03.03.2024</p>
 

@@ -175,7 +175,10 @@ De plus, le Alfa Romeo Junior Veloce prend en charge Android Auto et Apple CarPl
 
 ### Système audio
 
-Un type de système audio est disponible pour le Alfa Romeo Junior Veloce. Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+Un type de système audio est disponible pour le Alfa Romeo Junior Veloce.
+
+- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+
 
 ## Lumières
 

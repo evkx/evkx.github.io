@@ -179,7 +179,11 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Lucid Air Pure. Med Surreal Sound får du nio högtalare med en maximal systemeffekt på 300 watt. Med Surreal Sound Pro får du 21 högtalare med en maximal systemeffekt på 800 watt.
+Du kan välja mellan två ljudsystem på Lucid Air Pure.
+
+- Med Surreal Sound får du nio högtalare med en maximal systemeffekt på 300 watt.
+- Med Surreal Sound Pro får du 21 högtalare med en maximal systemeffekt på 800 watt.
+
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

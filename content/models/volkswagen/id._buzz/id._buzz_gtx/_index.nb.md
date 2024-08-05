@@ -204,7 +204,10 @@ I tillegg støtter Volkswagen ID. Buzz GTX Android Auto og Apple CarPlay. Denne 
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for Volkswagen ID. Buzz GTX. Med Volkswagen Soundsystem får du seks høyttalere med en maksimal systemeffekt på 450 watt.
+Én type lydsystem er tilgjengelig for Volkswagen ID. Buzz GTX.
+
+- Med Volkswagen Soundsystem får du seks høyttalere med en maksimal systemeffekt på 450 watt.
+
 
 Modellen har 5 USB-C-tilkoblinger som standard.
 

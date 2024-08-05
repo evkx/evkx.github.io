@@ -178,7 +178,10 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el Tesla Model S. Con el Tesla Premium Sound, obtienes 22 parlantes con una salida máxima del sistema de 560 vatios.
+Un tipo de sistema de sonido está disponible para el Tesla Model S.
+
+- Con el Tesla Premium Sound, obtienes 22 parlantes con una salida máxima del sistema de 560 vatios.
+
 
 ## Luces
 

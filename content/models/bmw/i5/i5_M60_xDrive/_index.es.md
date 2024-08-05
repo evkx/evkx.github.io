@@ -205,7 +205,12 @@ Además, el BMW i5 M60 xDrive es compatible con Android Auto y Apple CarPlay. Es
 
 ### Sistema de sonido
 
-Puedes elegir entre tres sistemas de sonido en el BMW i5 M60 xDrive. Con el Hifi Sound system, obtienes seis parlantes con una salida máxima del sistema de 100 vatios. Con el Harman Kardon Surround Sound system, obtienes 12 parlantes con una salida máxima del sistema de 205 vatios. Con el Bower & Wilkins Surround System, obtienes 18 parlantes con una salida máxima del sistema de 655 vatios.
+Puedes elegir entre tres sistemas de sonido en el BMW i5 M60 xDrive.
+
+- Con el Hifi Sound system, obtienes seis parlantes con una salida máxima del sistema de 100 vatios.
+- Con el Harman Kardon Surround Sound system, obtienes 12 parlantes con una salida máxima del sistema de 205 vatios.
+- Con el Bower & Wilkins Surround System, obtienes 18 parlantes con una salida máxima del sistema de 655 vatios.
+
 
 El modelo tiene 6 conexiones USB-C de serie.
 

@@ -189,7 +189,11 @@ De plus, le Kia EV6 Long Range AWD prend en charge Android Auto et Apple CarPlay
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Kia EV6 Long Range AWD. Avec le Standard, vous obtenez six haut-parleurs avec une puissance système maximale de  watts. Avec le Meridian Premium Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de  watts.
+Vous pouvez choisir entre deux systèmes audio sur le Kia EV6 Long Range AWD.
+
+- Avec le Standard, vous obtenez six haut-parleurs avec une puissance système maximale de  watts.
+- Avec le Meridian Premium Sound System, vous obtenez 14 haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

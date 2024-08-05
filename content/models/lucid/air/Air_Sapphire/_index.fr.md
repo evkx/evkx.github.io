@@ -181,7 +181,10 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 ### Système audio
 
-Un type de système audio est disponible pour le Lucid Air Sapphire. Avec le Surreal Sound Pro, vous obtenez 21 haut-parleurs avec une puissance système maximale de 800 watts.
+Un type de système audio est disponible pour le Lucid Air Sapphire.
+
+- Avec le Surreal Sound Pro, vous obtenez 21 haut-parleurs avec une puissance système maximale de 800 watts.
+
 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

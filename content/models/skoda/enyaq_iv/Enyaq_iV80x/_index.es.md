@@ -203,7 +203,11 @@ Además, el SKODA Enyaq iV80x es compatible con Android Auto y Apple CarPlay. Es
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el SKODA Enyaq iV80x. Con el Sound system, obtienes ocho parlantes con una salida máxima del sistema de 80 vatios. Con el Canton Soundsystem, obtienes diez parlantes con una salida máxima del sistema de 550 vatios.
+Puedes elegir entre dos sistemas de sonido en el SKODA Enyaq iV80x.
+
+- Con el Sound system, obtienes ocho parlantes con una salida máxima del sistema de 80 vatios.
+- Con el Canton Soundsystem, obtienes diez parlantes con una salida máxima del sistema de 550 vatios.
+
 
 El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
 

@@ -187,7 +187,10 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 ### Système audio
 
-Un type de système audio est disponible pour le XPENG G9 RWD Standard Range. Avec le , vous obtenez huit haut-parleurs avec une puissance système maximale de 500 watts.
+Un type de système audio est disponible pour le XPENG G9 RWD Standard Range.
+
+- Avec le , vous obtenez huit haut-parleurs avec une puissance système maximale de 500 watts.
+
 
 ## Lumières
 

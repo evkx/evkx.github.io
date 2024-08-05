@@ -190,7 +190,11 @@ Dessutom stöder BYD Han Android Auto och Apple CarPlay. Denna funktion gör att
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på BYD Han. Med Surroundsystem får du sju högtalare med en maximal systemeffekt på  watt. Med Premium sound system får du 12 högtalare med en maximal systemeffekt på  watt.
+Du kan välja mellan två ljudsystem på BYD Han.
+
+- Med Surroundsystem får du sju högtalare med en maximal systemeffekt på  watt.
+- Med Premium sound system får du 12 högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 1 USB-C-anslutningar som standard. Modellen har 5 USB-A-anslutningar som standard.
 

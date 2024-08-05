@@ -168,7 +168,10 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Smart #3 Brabus. Med Yamaha surround sound system får du 13 højttalere med en maksimal systemeffekt på 1040 watt.
+Én type lydsystem er tilgængelig for Smart #3 Brabus.
+
+- Med Yamaha surround sound system får du 13 højttalere med en maksimal systemeffekt på 1040 watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard.
 

@@ -184,7 +184,11 @@ De plus, le Peugot E-3008 Long Range prend en charge Android Auto et Apple CarPl
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Peugot E-3008 Long Range. Avec le , vous obtenez six haut-parleurs avec une puissance système maximale de 100 watts. Avec le , vous obtenez dix haut-parleurs avec une puissance système maximale de 690 watts.
+Vous pouvez choisir entre deux systèmes audio sur le Peugot E-3008 Long Range.
+
+- Avec le , vous obtenez six haut-parleurs avec une puissance système maximale de 100 watts.
+- Avec le , vous obtenez dix haut-parleurs avec une puissance système maximale de 690 watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

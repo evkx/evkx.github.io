@@ -174,7 +174,11 @@ Además, el Renault 5 E-Tech 52kWh 150hp es compatible con Android Auto y Apple 
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Renault 5 E-Tech 52kWh 150hp. Con el DAB Audiosystem, obtienes seis parlantes con una salida máxima del sistema de  vatios. Con el BOSE Premium Sound System, obtienes diez parlantes con una salida máxima del sistema de  vatios.
+Puedes elegir entre dos sistemas de sonido en el Renault 5 E-Tech 52kWh 150hp.
+
+- Con el DAB Audiosystem, obtienes seis parlantes con una salida máxima del sistema de  vatios.
+- Con el BOSE Premium Sound System, obtienes diez parlantes con una salida máxima del sistema de  vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie.
 

@@ -182,7 +182,10 @@ Además, el Genesis Electrified GV70 es compatible con Android Auto y Apple CarP
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el Genesis Electrified GV70. Con el Bose Premium Sound System, obtienes ocho parlantes con una salida máxima del sistema de  vatios.
+Un tipo de sistema de sonido está disponible para el Genesis Electrified GV70.
+
+- Con el Bose Premium Sound System, obtienes ocho parlantes con una salida máxima del sistema de  vatios.
+
 
 El modelo tiene 4 conexiones USB-A de serie.
 

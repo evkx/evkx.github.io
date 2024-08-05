@@ -193,7 +193,11 @@ Yderligere understøtter Volkswagen ID.3 Pro S (GEN1) Android Auto og Apple CarP
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Volkswagen ID.3 Pro S (GEN1). Med Sound system får du fem højttalere med en maksimal systemeffekt på 140 watt. Med Volkswagen Soundsystem får du syv højttalere med en maksimal systemeffekt på 450 watt.
+Du kan vælge mellem to lydsystemer på Volkswagen ID.3 Pro S (GEN1).
+
+- Med Sound system får du fem højttalere med en maksimal systemeffekt på 140 watt.
+- Med Volkswagen Soundsystem får du syv højttalere med en maksimal systemeffekt på 450 watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard.
 

@@ -155,7 +155,10 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ### Sound system
 
-One type of sound system is available for the XPENG G3i. With the , you get NULL speakers with a max system output of  watts.
+One type of sound system is available for the XPENG G3i.
+
+- With the , you get NULL speakers with a max system output of  watts.
+
 
 The model has 4 USB-A connections as standard.
 

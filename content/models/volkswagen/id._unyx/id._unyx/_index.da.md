@@ -180,7 +180,11 @@ Yderligere understøtter Volkswagen Id. UNYX Android Auto og Apple CarPlay. Denn
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Volkswagen Id. UNYX. Med Sound system får du fem højttalere med en maksimal systemeffekt på 140 watt. Med Sennheiser Soundsystem får du 12 højttalere med en maksimal systemeffekt på 395 watt.
+Du kan vælge mellem to lydsystemer på Volkswagen Id. UNYX.
+
+- Med Sound system får du fem højttalere med en maksimal systemeffekt på 140 watt.
+- Med Sennheiser Soundsystem får du 12 højttalere med en maksimal systemeffekt på 395 watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard.
 

@@ -173,7 +173,10 @@ De plus, le YangWang U9 prend en charge Android Auto et Apple CarPlay. Cette fon
 
 ### Système audio
 
-Un type de système audio est disponible pour le YangWang U9. Avec le Rimac Nevera Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de 1200 watts.
+Un type de système audio est disponible pour le YangWang U9.
+
+- Avec le Rimac Nevera Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de 1200 watts.
+
 
 ## Lumières
 

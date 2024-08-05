@@ -175,7 +175,10 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for Fisker Ocean Sport. Med Fisker Hypersound 3D får du 16 høyttalere med en maksimal systemeffekt på 500 watt.
+Én type lydsystem er tilgjengelig for Fisker Ocean Sport.
+
+- Med Fisker Hypersound 3D får du 16 høyttalere med en maksimal systemeffekt på 500 watt.
+
 
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 

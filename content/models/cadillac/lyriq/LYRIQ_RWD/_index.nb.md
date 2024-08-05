@@ -179,7 +179,10 @@ I tillegg støtter Cadillac LYRIQ RWD Android Auto og Apple CarPlay. Denne funks
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for Cadillac LYRIQ RWD. Med Lyric sound system får du syv høyttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgjengelig for Cadillac LYRIQ RWD.
+
+- Med Lyric sound system får du syv høyttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 5 USB-C-tilkoblinger som standard.
 

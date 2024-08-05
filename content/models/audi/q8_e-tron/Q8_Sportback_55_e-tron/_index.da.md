@@ -254,7 +254,11 @@ Yderligere understøtter Audi Q8 Sportback 55 e-tron Android Auto og Apple CarPl
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Audi Q8 Sportback 55 e-tron. Med Audi Sound system får du ti højttalere med en maksimal systemeffekt på 180 watt. Med Bang & Olufsen Sound System får du 16 højttalere med en maksimal systemeffekt på 700 watt.
+Du kan vælge mellem to lydsystemer på Audi Q8 Sportback 55 e-tron.
+
+- Med Audi Sound system får du ti højttalere med en maksimal systemeffekt på 180 watt.
+- Med Bang & Olufsen Sound System får du 16 højttalere med en maksimal systemeffekt på 700 watt.
+
 
 Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 

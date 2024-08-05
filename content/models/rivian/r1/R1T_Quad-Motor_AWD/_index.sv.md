@@ -178,7 +178,10 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Rivian R1T Quad-Motor AWD. Med Rivian Elevation audio system får du 22 högtalare med en maximal systemeffekt på 1100 watt.
+En typ av ljudsystem är tillgänglig för Rivian R1T Quad-Motor AWD.
+
+- Med Rivian Elevation audio system får du 22 högtalare med en maximal systemeffekt på 1100 watt.
+
 
 Modellen har 8 USB-C-anslutningar som standard.
 

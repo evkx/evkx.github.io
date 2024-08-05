@@ -141,7 +141,10 @@ Modellen har ikke et head-up display.
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Honda e:Ny1. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgængelig for Honda e:Ny1.
+
+- Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+
 
 ## Lys
 

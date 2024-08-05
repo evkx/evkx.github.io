@@ -183,7 +183,10 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for Tesla Model X Standard Range. Med Tesla Premium Sound får du 22 høyttalere med en maksimal systemeffekt på 560 watt.
+Én type lydsystem er tilgjengelig for Tesla Model X Standard Range.
+
+- Med Tesla Premium Sound får du 22 høyttalere med en maksimal systemeffekt på 560 watt.
+
 
 ## Lys
 

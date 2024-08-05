@@ -186,7 +186,10 @@ Yderligere understøtter Genesis GV60 2WD Android Auto og Apple CarPlay. Denne f
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Genesis GV60 2WD. Med Bose Premium Sound System får du otte højttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgængelig for Genesis GV60 2WD.
+
+- Med Bose Premium Sound System får du otte højttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 

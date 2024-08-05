@@ -200,7 +200,11 @@ De plus, le Mercedes-EQ EQA 250 prend en charge Android Auto et Apple CarPlay. C
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Mercedes-EQ EQA 250. Avec le Standard, vous obtenez sept haut-parleurs avec une puissance système maximale de 100 watts. Avec le Advanced Soundsystem, vous obtenez neuf haut-parleurs avec une puissance système maximale de 225 watts.
+Vous pouvez choisir entre deux systèmes audio sur le Mercedes-EQ EQA 250.
+
+- Avec le Standard, vous obtenez sept haut-parleurs avec une puissance système maximale de 100 watts.
+- Avec le Advanced Soundsystem, vous obtenez neuf haut-parleurs avec une puissance système maximale de 225 watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
 

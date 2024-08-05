@@ -216,7 +216,11 @@ I tillegg støtter Audi S e-tron GT Android Auto og Apple CarPlay. Denne funksjo
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Audi S e-tron GT. Med Audi Sound system får du ti høyttalere med en maksimal systemeffekt på 180 watt. Med Bang & Olufsen Sound System får du 16 høyttalere med en maksimal systemeffekt på 700 watt.
+Du kan velge mellom to lydsystemer på Audi S e-tron GT.
+
+- Med Audi Sound system får du ti høyttalere med en maksimal systemeffekt på 180 watt.
+- Med Bang & Olufsen Sound System får du 16 høyttalere med en maksimal systemeffekt på 700 watt.
+
 
 ## Lys
 

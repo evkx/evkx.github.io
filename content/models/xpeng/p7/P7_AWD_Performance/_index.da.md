@@ -174,7 +174,10 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for XPENG P7 AWD Performance. Med  får du otte højttalere med en maksimal systemeffekt på 500 watt.
+Én type lydsystem er tilgængelig for XPENG P7 AWD Performance.
+
+- Med  får du otte højttalere med en maksimal systemeffekt på 500 watt.
+
 
 ## Lys
 

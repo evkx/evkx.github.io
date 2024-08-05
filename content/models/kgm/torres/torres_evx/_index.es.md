@@ -175,7 +175,10 @@ Además, el KGM Torres EVX es compatible con Android Auto y Apple CarPlay. Esta 
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el KGM Torres EVX. Con el KGM, obtienes seis parlantes con una salida máxima del sistema de 100 vatios.
+Un tipo de sistema de sonido está disponible para el KGM Torres EVX.
+
+- Con el KGM, obtienes seis parlantes con una salida máxima del sistema de 100 vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie.
 

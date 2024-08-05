@@ -172,7 +172,11 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Volvo EX30 Single Motor. Med High Performance får du otte højttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Premium Sound får du 13 højttalere med en maksimal systemeffekt på 1040 watt.
+Du kan vælge mellem to lydsystemer på Volvo EX30 Single Motor.
+
+- Med High Performance får du otte højttalere med en maksimal systemeffekt på 200 watt.
+- Med Harman Kardon Premium Sound får du 13 højttalere med en maksimal systemeffekt på 1040 watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard.
 

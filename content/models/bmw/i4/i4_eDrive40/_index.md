@@ -228,17 +228,21 @@ A head-up display is an optional system that projects speed and other important 
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
-### Phone mirroring
+### Phone Mirroring
 
 Furthermore, the BMW i4 eDrive40 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 ### Sound system
 
-You can choose between two sound systems on the BMW i4 eDrive40. With the Hifi Sound system, you get ten speakers with a max system output of 200 watts. With the Harman Kardon Surround Sound system, you get 17 speakers with a max system output of 445 watts.
+You can choose between two sound systems on the BMW i4 eDrive40.
+
+- With the Hifi Sound system, you get ten speakers with a max system output of 200 watts.
+- With the Harman Kardon Surround Sound system, you get 17 speakers with a max system output of 445 watts.
+
 
 The model has 4 USB-C connections as standard.
 

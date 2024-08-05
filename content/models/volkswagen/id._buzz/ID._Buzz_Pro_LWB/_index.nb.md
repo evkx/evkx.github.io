@@ -219,7 +219,10 @@ I tillegg støtter Volkswagen ID. Buzz Pro LWB Android Auto og Apple CarPlay. De
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for Volkswagen ID. Buzz Pro LWB. Med Volkswagen Soundsystem får du seks høyttalere med en maksimal systemeffekt på 450 watt.
+Én type lydsystem er tilgjengelig for Volkswagen ID. Buzz Pro LWB.
+
+- Med Volkswagen Soundsystem får du seks høyttalere med en maksimal systemeffekt på 450 watt.
+
 
 Modellen har 5 USB-C-tilkoblinger som standard.
 

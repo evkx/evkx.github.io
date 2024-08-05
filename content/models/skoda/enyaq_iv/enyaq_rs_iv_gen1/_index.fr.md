@@ -172,7 +172,10 @@ De plus, le SKODA ENYAQ RS iV (GEN1) prend en charge Android Auto et Apple CarPl
 
 ### Système audio
 
-Un type de système audio est disponible pour le SKODA ENYAQ RS iV (GEN1). Avec le Canton Soundsystem, vous obtenez dix haut-parleurs avec une puissance système maximale de 550 watts.
+Un type de système audio est disponible pour le SKODA ENYAQ RS iV (GEN1).
+
+- Avec le Canton Soundsystem, vous obtenez dix haut-parleurs avec une puissance système maximale de 550 watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

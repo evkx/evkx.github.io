@@ -179,7 +179,10 @@ Denne modellen er utstyrt med stemmestyring som standard. Stemmekontrollen lar d
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for HiPhi Z 5 Seater. Med SONIC PRO SYSTEM får du 23 høyttalere med en maksimal systemeffekt på 600 watt.
+Én type lydsystem er tilgjengelig for HiPhi Z 5 Seater.
+
+- Med SONIC PRO SYSTEM får du 23 høyttalere med en maksimal systemeffekt på 600 watt.
+
 
 Modellen har 1 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger. Modellen har 1 USB-A-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
 

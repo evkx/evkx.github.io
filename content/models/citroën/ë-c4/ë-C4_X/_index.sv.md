@@ -166,7 +166,10 @@ Dessutom stöder Citroën ë-C4 X Android Auto och Apple CarPlay. Denna funktion
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Citroën ë-C4 X. Med  får du NULL högtalare med en maximal systemeffekt på  watt.
+En typ av ljudsystem är tillgänglig för Citroën ë-C4 X.
+
+- Med  får du NULL högtalare med en maximal systemeffekt på  watt.
+
 
 ## Ljus
 

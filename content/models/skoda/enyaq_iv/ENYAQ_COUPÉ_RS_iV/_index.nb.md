@@ -186,7 +186,10 @@ I tillegg støtter SKODA ENYAQ COUPÉ RS iV Android Auto og Apple CarPlay. Denne
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for SKODA ENYAQ COUPÉ RS iV. Med Canton Soundsystem får du ti høyttalere med en maksimal systemeffekt på 550 watt.
+Én type lydsystem er tilgjengelig for SKODA ENYAQ COUPÉ RS iV.
+
+- Med Canton Soundsystem får du ti høyttalere med en maksimal systemeffekt på 550 watt.
+
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 

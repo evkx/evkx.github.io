@@ -205,9 +205,19 @@ Denna modell är utrustad med röststyrning som standard. Röstkontrollen låter
 
 ## Infotainment
 
+Audi S6 Avant e-tron har ett avancerat infotainmentsystem baserat på Android Automotive OS, en plattform från Google specifikt designad för bilens instrumentbräda. För att förbättra detta robusta system har Audi integrerat sin egen svit av applikationer, vilket ger sömlös navigation, omfattande bilinställningar och mycket mer.
+
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering där du kan definiera den önskade laddningsnivån vid din destination eller under laddningsstopp. Systemet ger realtids trafikinformation och satellitkartor, vilket säkerställer en effektiv och stressfri resa.
+
+### App store
+
+Infotainmentsystemet inkluderar en App Store där du kan ladda ner tredjepartsappar för att köra dem direkt på bilens skärm utan att behöva en ansluten telefon. Tillgängliga appar varierar beroende på marknad men inkluderar populära alternativ som:
+
+- **Spotify**
+- **TIDAL**
+- **YouTube**
 
 ### Telefon spegling
 
@@ -215,7 +225,11 @@ Dessutom stöder Audi S6 Avant e-tron Android Auto och Apple CarPlay. Denna funk
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Audi S6 Avant e-tron. Med Audi Sound System får du fem högtalare med en maximal systemeffekt på 200 watt. Med Bang & Olufsen Sound System får du 20 högtalare med en maximal systemeffekt på 830 watt.
+Du kan välja mellan två ljudsystem på Audi S6 Avant e-tron.
+
+- Med Audi Sound System får du fem högtalare med en maximal systemeffekt på 200 watt.
+- Med Bang & Olufsen Sound System får du 20 högtalare med en maximal systemeffekt på 830 watt.
+
 
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 

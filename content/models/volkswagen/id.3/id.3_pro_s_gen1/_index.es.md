@@ -193,7 +193,11 @@ Además, el Volkswagen ID.3 Pro S (GEN1) es compatible con Android Auto y Apple 
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Volkswagen ID.3 Pro S (GEN1). Con el Sound system, obtienes cinco parlantes con una salida máxima del sistema de 140 vatios. Con el Volkswagen Soundsystem, obtienes siete parlantes con una salida máxima del sistema de 450 vatios.
+Puedes elegir entre dos sistemas de sonido en el Volkswagen ID.3 Pro S (GEN1).
+
+- Con el Sound system, obtienes cinco parlantes con una salida máxima del sistema de 140 vatios.
+- Con el Volkswagen Soundsystem, obtienes siete parlantes con una salida máxima del sistema de 450 vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie.
 

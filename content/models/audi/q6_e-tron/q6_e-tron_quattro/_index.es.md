@@ -221,9 +221,19 @@ Este modelo está equipado con control por voz de serie. El control por voz le p
 
 ## Infoentretenimiento
 
+El Audi Q6 e-tron quattro cuenta con un sistema de infoentretenimiento avanzado basado en Android Automotive OS, una plataforma de Google diseñada específicamente para tableros de vehículos. Para mejorar este robusto sistema, Audi ha integrado su propia suite de aplicaciones, proporcionando navegación sin problemas, configuraciones completas del coche y mucho más.
+
 ### Sistema de navegación
 
-Además, con el sistema de navegación para automóvil un estándar, obtienes la ayuda que necesitas para encontrar tu destino.
+El sistema de navegación integrado utiliza mapas detallados y ofrece una planificación avanzada de rutas donde puedes definir el nivel de carga objetivo en tu destino o durante las paradas de carga. El sistema proporciona información de tráfico en tiempo real y mapas satelitales, asegurando un viaje eficiente y sin estrés.
+
+### App Store
+
+El sistema de infoentretenimiento incluye una App Store donde puedes descargar aplicaciones de terceros para ejecutarlas directamente en la pantalla del coche sin necesidad de un teléfono conectado. Las aplicaciones disponibles varían según el mercado, pero incluyen opciones populares como:
+
+- **Spotify**
+- **TIDAL**
+- **YouTube**
 
 ### Espejo del teléfono
 
@@ -231,7 +241,11 @@ Además, el Audi Q6 e-tron quattro es compatible con Android Auto y Apple CarPla
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Audi Q6 e-tron quattro. Con el Audi Sound System, obtienes cinco parlantes con una salida máxima del sistema de 200 vatios. Con el Bang & Olufsen Sound System, obtienes 20 parlantes con una salida máxima del sistema de 830 vatios.
+Puedes elegir entre dos sistemas de sonido en el Audi Q6 e-tron quattro.
+
+- Con el Audi Sound System, obtienes cinco parlantes con una salida máxima del sistema de 200 vatios.
+- Con el Bang & Olufsen Sound System, obtienes 20 parlantes con una salida máxima del sistema de 830 vatios.
+
 
 El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
 

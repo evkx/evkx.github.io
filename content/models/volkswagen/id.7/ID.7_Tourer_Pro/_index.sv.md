@@ -199,7 +199,11 @@ Dessutom stöder Volkswagen ID.7 Tourer Pro Android Auto och Apple CarPlay. Denn
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Volkswagen ID.7 Tourer Pro. Med Sound system får du sex högtalare med en maximal systemeffekt på 140 watt. Med Volkswagen Soundsystem får du sex högtalare med en maximal systemeffekt på 450 watt.
+Du kan välja mellan två ljudsystem på Volkswagen ID.7 Tourer Pro.
+
+- Med Sound system får du sex högtalare med en maximal systemeffekt på 140 watt.
+- Med Volkswagen Soundsystem får du sex högtalare med en maximal systemeffekt på 450 watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard.
 

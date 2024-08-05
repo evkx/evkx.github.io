@@ -179,13 +179,17 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
 ### Sound system
 
-You can choose between two sound systems on the HiPhi X 4 Seater. With the SONIC LINE SYSTEM, you get nine speakers with a max system output of 600 watts. With the SONIC PRO SYSTEM, you get 17 speakers with a max system output of 600 watts.
+You can choose between two sound systems on the HiPhi X 4 Seater.
+
+- With the SONIC LINE SYSTEM, you get nine speakers with a max system output of 600 watts.
+- With the SONIC PRO SYSTEM, you get 17 speakers with a max system output of 600 watts.
+
 
 The model has 3 USB-C connections as standard. The model has 3 USB-A connections as standard.
 

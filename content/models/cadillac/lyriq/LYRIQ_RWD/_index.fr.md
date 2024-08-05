@@ -179,7 +179,10 @@ De plus, le Cadillac LYRIQ RWD prend en charge Android Auto et Apple CarPlay. Ce
 
 ### Système audio
 
-Un type de système audio est disponible pour le Cadillac LYRIQ RWD. Avec le Lyric sound system, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
+Un type de système audio est disponible pour le Cadillac LYRIQ RWD.
+
+- Avec le Lyric sound system, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 5 connexions USB-C en standard.
 

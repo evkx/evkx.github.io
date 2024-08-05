@@ -184,7 +184,10 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Rivian R1S Dual-Motor AWD SP. Med Rivian Elevation audio system får du 22 højttalere med en maksimal systemeffekt på 1100 watt.
+Én type lydsystem er tilgængelig for Rivian R1S Dual-Motor AWD SP.
+
+- Med Rivian Elevation audio system får du 22 højttalere med en maksimal systemeffekt på 1100 watt.
+
 
 Modellen har 6 USB-C-forbindelser som standard.
 

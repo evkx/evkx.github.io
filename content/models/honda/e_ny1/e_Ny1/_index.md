@@ -141,7 +141,10 @@ The model does not have a head-up display.
 
 ### Sound system
 
-One type of sound system is available for the Honda e:Ny1. With the , you get NULL speakers with a max system output of  watts.
+One type of sound system is available for the Honda e:Ny1.
+
+- With the , you get NULL speakers with a max system output of  watts.
+
 
 ## Lights
 

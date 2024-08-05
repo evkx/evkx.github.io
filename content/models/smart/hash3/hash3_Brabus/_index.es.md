@@ -168,7 +168,10 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el Smart #3 Brabus. Con el Yamaha surround sound system, obtienes 13 parlantes con una salida máxima del sistema de 1040 vatios.
+Un tipo de sistema de sonido está disponible para el Smart #3 Brabus.
+
+- Con el Yamaha surround sound system, obtienes 13 parlantes con una salida máxima del sistema de 1040 vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie.
 

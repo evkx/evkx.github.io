@@ -177,7 +177,10 @@ Yderligere understøtter Rimac Nevera Android Auto og Apple CarPlay. Denne funkt
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Rimac Nevera. Med Rimac Nevera Sound System får du otte højttalere med en maksimal systemeffekt på 1200 watt.
+Én type lydsystem er tilgængelig for Rimac Nevera.
+
+- Med Rimac Nevera Sound System får du otte højttalere med en maksimal systemeffekt på 1200 watt.
+
 
 ## Lys
 

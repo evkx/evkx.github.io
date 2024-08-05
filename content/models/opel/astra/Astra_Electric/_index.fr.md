@@ -178,7 +178,10 @@ De plus, le Opel Astra Electric prend en charge Android Auto et Apple CarPlay. C
 
 ### Système audio
 
-Un type de système audio est disponible pour le Opel Astra Electric. Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+Un type de système audio est disponible pour le Opel Astra Electric.
+
+- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 3 connexions USB-C en standard.
 

@@ -187,7 +187,11 @@ Yderligere understøtter Ford Capri Extended Range RWD Android Auto og Apple Car
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Ford Capri Extended Range RWD. Med Sound system får du seks højttalere med en maksimal systemeffekt på 140 watt. Med B&O Soundsystem får du ti højttalere med en maksimal systemeffekt på 480 watt.
+Du kan vælge mellem to lydsystemer på Ford Capri Extended Range RWD.
+
+- Med Sound system får du seks højttalere med en maksimal systemeffekt på 140 watt.
+- Med B&O Soundsystem får du ti højttalere med en maksimal systemeffekt på 480 watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard.
 

@@ -195,7 +195,11 @@ Yderligere understøtter Volkswagen ID.7 GTX Tourer Android Auto og Apple CarPla
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Volkswagen ID.7 GTX Tourer. Med Sound system får du seks højttalere med en maksimal systemeffekt på 140 watt. Med Volkswagen Soundsystem får du seks højttalere med en maksimal systemeffekt på 450 watt.
+Du kan vælge mellem to lydsystemer på Volkswagen ID.7 GTX Tourer.
+
+- Med Sound system får du seks højttalere med en maksimal systemeffekt på 140 watt.
+- Med Volkswagen Soundsystem får du seks højttalere med en maksimal systemeffekt på 450 watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard.
 

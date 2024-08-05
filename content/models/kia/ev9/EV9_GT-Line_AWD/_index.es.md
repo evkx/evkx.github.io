@@ -210,7 +210,11 @@ Además, el Kia EV9 GT-Line AWD es compatible con Android Auto y Apple CarPlay. 
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Kia EV9 GT-Line AWD. Con el Standard, obtienes seis parlantes con una salida máxima del sistema de  vatios. Con el Meridian Premium Sound System, obtienes 14 parlantes con una salida máxima del sistema de  vatios.
+Puedes elegir entre dos sistemas de sonido en el Kia EV9 GT-Line AWD.
+
+- Con el Standard, obtienes seis parlantes con una salida máxima del sistema de  vatios.
+- Con el Meridian Premium Sound System, obtienes 14 parlantes con una salida máxima del sistema de  vatios.
+
 
 El modelo tiene 6 conexiones USB-C de serie.
 

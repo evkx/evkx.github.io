@@ -191,7 +191,11 @@ Además, el Opel Frontera es compatible con Android Auto y Apple CarPlay. Esta f
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Opel Frontera. Con el , obtienes dos parlantes con una salida máxima del sistema de  vatios. Con el Max Sound system, obtienes dos parlantes con una salida máxima del sistema de  vatios.
+Puedes elegir entre dos sistemas de sonido en el Opel Frontera.
+
+- Con el , obtienes dos parlantes con una salida máxima del sistema de  vatios.
+- Con el Max Sound system, obtienes dos parlantes con una salida máxima del sistema de  vatios.
+
 
 El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
 

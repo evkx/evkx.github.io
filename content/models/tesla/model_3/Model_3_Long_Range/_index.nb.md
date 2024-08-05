@@ -184,7 +184,10 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for Tesla Model 3 Long Range. Med Tesla Premium Sound får du 17 høyttalere med en maksimal systemeffekt på 560 watt.
+Én type lydsystem er tilgjengelig for Tesla Model 3 Long Range.
+
+- Med Tesla Premium Sound får du 17 høyttalere med en maksimal systemeffekt på 560 watt.
+
 
 Modellen har 3 USB-C-tilkoblinger som standard.
 

@@ -189,7 +189,10 @@ Dessutom stöder Hyundai INSTER Long Range Android Auto och Apple CarPlay. Denna
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Hyundai INSTER Long Range. Med Bose Premium Sound System får du sju högtalare med en maximal systemeffekt på  watt.
+En typ av ljudsystem är tillgänglig för Hyundai INSTER Long Range.
+
+- Med Bose Premium Sound System får du sju högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard.
 

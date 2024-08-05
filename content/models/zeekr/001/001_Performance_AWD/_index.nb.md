@@ -180,7 +180,10 @@ I tillegg støtter Zeekr 001 Performance AWD Android Auto og Apple CarPlay. Denn
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for Zeekr 001 Performance AWD. Med Yamaha Sound System får du åtte høyttalere med en maksimal systemeffekt på 200 watt.
+Én type lydsystem er tilgjengelig for Zeekr 001 Performance AWD.
+
+- Med Yamaha Sound System får du åtte høyttalere med en maksimal systemeffekt på 200 watt.
+
 
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 

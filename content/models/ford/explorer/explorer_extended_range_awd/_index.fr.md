@@ -185,7 +185,11 @@ De plus, le Ford Explorer Extended Range AWD prend en charge Android Auto et App
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Ford Explorer Extended Range AWD. Avec le Sound system, vous obtenez six haut-parleurs avec une puissance système maximale de 140 watts. Avec le B&O Soundsystem, vous obtenez dix haut-parleurs avec une puissance système maximale de 480 watts.
+Vous pouvez choisir entre deux systèmes audio sur le Ford Explorer Extended Range AWD.
+
+- Avec le Sound system, vous obtenez six haut-parleurs avec une puissance système maximale de 140 watts.
+- Avec le B&O Soundsystem, vous obtenez dix haut-parleurs avec une puissance système maximale de 480 watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

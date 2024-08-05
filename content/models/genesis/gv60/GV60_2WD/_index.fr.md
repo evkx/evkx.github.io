@@ -186,7 +186,10 @@ De plus, le Genesis GV60 2WD prend en charge Android Auto et Apple CarPlay. Cett
 
 ### Système audio
 
-Un type de système audio est disponible pour le Genesis GV60 2WD. Avec le Bose Premium Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de  watts.
+Un type de système audio est disponible pour le Genesis GV60 2WD.
+
+- Avec le Bose Premium Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

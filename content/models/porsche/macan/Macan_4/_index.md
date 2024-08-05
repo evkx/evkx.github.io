@@ -210,17 +210,21 @@ A head-up display is an optional system that projects speed and other important 
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
-### Phone mirroring
+### Phone Mirroring
 
 Furthermore, the Porsche Macan 4 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 ### Sound system
 
-You can choose between two sound systems on the Porsche Macan 4. With the  BOSE® Surround Sound System, you get 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 speakers with a max system output of 1470 watts.
+You can choose between two sound systems on the Porsche Macan 4.
+
+- With the  BOSE® Surround Sound System, you get 14 speakers with a max system output of 710 watts.
+- With the  Burmester® 3D High-End Surround Sound System, you get 21 speakers with a max system output of 1470 watts.
+
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 

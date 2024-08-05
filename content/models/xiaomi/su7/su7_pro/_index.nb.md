@@ -175,7 +175,11 @@ Et head-up display er standard-system som viser hastighet og annen viktig fører
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Xiaomi SU7 Pro. Med Xiaomi Soundsystem får du ti høyttalere med en maksimal systemeffekt på  watt. Med Xiaomi Soundsystem får du 25 høyttalere med en maksimal systemeffekt på  watt.
+Du kan velge mellom to lydsystemer på Xiaomi SU7 Pro.
+
+- Med Xiaomi Soundsystem får du ti høyttalere med en maksimal systemeffekt på  watt.
+- Med Xiaomi Soundsystem får du 25 høyttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 

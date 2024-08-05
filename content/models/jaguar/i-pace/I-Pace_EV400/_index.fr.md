@@ -211,7 +211,11 @@ De plus, le Jaguar I-Pace EV400 prend en charge Android Auto et Apple CarPlay. C
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Jaguar I-Pace EV400. Avec le Meridian Sound System, vous obtenez 11 haut-parleurs avec une puissance système maximale de 400 watts. Avec le Meridian 3D Surround, vous obtenez 16 haut-parleurs avec une puissance système maximale de 750 watts.
+Vous pouvez choisir entre deux systèmes audio sur le Jaguar I-Pace EV400.
+
+- Avec le Meridian Sound System, vous obtenez 11 haut-parleurs avec une puissance système maximale de 400 watts.
+- Avec le Meridian 3D Surround, vous obtenez 16 haut-parleurs avec une puissance système maximale de 750 watts.
+
 
 ## Lumières
 

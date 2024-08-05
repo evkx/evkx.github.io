@@ -175,7 +175,10 @@ I tillegg støtter SKODA Elroq 85x Android Auto og Apple CarPlay. Denne funksjon
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for SKODA Elroq 85x. Med Canton Soundsystem får du ti høyttalere med en maksimal systemeffekt på 550 watt.
+Én type lydsystem er tilgjengelig for SKODA Elroq 85x.
+
+- Med Canton Soundsystem får du ti høyttalere med en maksimal systemeffekt på 550 watt.
+
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 

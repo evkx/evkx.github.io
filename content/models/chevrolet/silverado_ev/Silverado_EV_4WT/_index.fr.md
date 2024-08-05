@@ -181,7 +181,10 @@ De plus, le Chevrolet Silverado EV 4WT prend en charge Android Auto et Apple Car
 
 ### Système audio
 
-Un type de système audio est disponible pour le Chevrolet Silverado EV 4WT. Avec le Chevrolet Sound System, vous obtenez six haut-parleurs avec une puissance système maximale de 200 watts.
+Un type de système audio est disponible pour le Chevrolet Silverado EV 4WT.
+
+- Avec le Chevrolet Sound System, vous obtenez six haut-parleurs avec une puissance système maximale de 200 watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

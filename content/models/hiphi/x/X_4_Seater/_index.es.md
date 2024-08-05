@@ -185,7 +185,11 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el HiPhi X 4 Seater. Con el SONIC LINE SYSTEM, obtienes nueve parlantes con una salida máxima del sistema de 600 vatios. Con el SONIC PRO SYSTEM, obtienes 17 parlantes con una salida máxima del sistema de 600 vatios.
+Puedes elegir entre dos sistemas de sonido en el HiPhi X 4 Seater.
+
+- Con el SONIC LINE SYSTEM, obtienes nueve parlantes con una salida máxima del sistema de 600 vatios.
+- Con el SONIC PRO SYSTEM, obtienes 17 parlantes con una salida máxima del sistema de 600 vatios.
+
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 3 conexiones USB-A de serie.
 

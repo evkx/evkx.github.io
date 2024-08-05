@@ -203,7 +203,10 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 ### Système audio
 
-Un type de système audio est disponible pour le Rivian R1S Quad-Motor AWD MP. Avec le Rivian Premium Audio, vous obtenez 19 haut-parleurs avec une puissance système maximale de 960 watts.
+Un type de système audio est disponible pour le Rivian R1S Quad-Motor AWD MP.
+
+- Avec le Rivian Premium Audio, vous obtenez 19 haut-parleurs avec une puissance système maximale de 960 watts.
+
 
 Le modèle dispose de 6 connexions USB-C en standard.
 

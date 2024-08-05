@@ -167,13 +167,16 @@ The model does not have a head-up display.
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
 ### Sound system
 
-One type of sound system is available for the BYD Seagull 38kWh. With the Dirac, you get eight speakers with a max system output of  watts.
+One type of sound system is available for the BYD Seagull 38kWh.
+
+- With the Dirac, you get eight speakers with a max system output of  watts.
+
 
 The model has 1 USB-A connections as standard.
 

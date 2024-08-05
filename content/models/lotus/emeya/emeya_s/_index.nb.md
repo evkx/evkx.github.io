@@ -199,7 +199,11 @@ I tillegg støtter Lotus Emeya S Android Auto og Apple CarPlay. Denne funksjonal
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Lotus Emeya S. Med KEF Premium Audio system får du 15 høyttalere med en maksimal systemeffekt på 1380 watt. Med KEF Reference Audio system får du 23 høyttalere med en maksimal systemeffekt på 2160 watt.
+Du kan velge mellom to lydsystemer på Lotus Emeya S.
+
+- Med KEF Premium Audio system får du 15 høyttalere med en maksimal systemeffekt på 1380 watt.
+- Med KEF Reference Audio system får du 23 høyttalere med en maksimal systemeffekt på 2160 watt.
+
 
 Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinger som standard.
 

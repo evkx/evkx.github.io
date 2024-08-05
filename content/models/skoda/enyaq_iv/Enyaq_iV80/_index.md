@@ -193,17 +193,21 @@ A head-up display is an optional system that projects speed and other important 
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the an optional in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
-### Phone mirroring
+### Phone Mirroring
 
 Furthermore, the SKODA Enyaq iV80 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 ### Sound system
 
-You can choose between two sound systems on the SKODA Enyaq iV80. With the Sound system, you get eight speakers with a max system output of 80 watts. With the Canton Soundsystem, you get ten speakers with a max system output of 550 watts.
+You can choose between two sound systems on the SKODA Enyaq iV80.
+
+- With the Sound system, you get eight speakers with a max system output of 80 watts.
+- With the Canton Soundsystem, you get ten speakers with a max system output of 550 watts.
+
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 

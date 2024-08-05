@@ -185,7 +185,11 @@ Además, el Kia Niro EV es compatible con Android Auto y Apple CarPlay. Esta fun
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Kia Niro EV. Con el Standard, obtienes seis parlantes con una salida máxima del sistema de  vatios. Con el Meridian Premium Sound System, obtienes 14 parlantes con una salida máxima del sistema de  vatios.
+Puedes elegir entre dos sistemas de sonido en el Kia Niro EV.
+
+- Con el Standard, obtienes seis parlantes con una salida máxima del sistema de  vatios.
+- Con el Meridian Premium Sound System, obtienes 14 parlantes con una salida máxima del sistema de  vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

@@ -172,7 +172,10 @@ De plus, le DS 3 E-Tense prend en charge Android Auto et Apple CarPlay. Cette fo
 
 ### Système audio
 
-Un type de système audio est disponible pour le DS 3 E-Tense. Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+Un type de système audio est disponible pour le DS 3 E-Tense.
+
+- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+
 
 ## Lumières
 

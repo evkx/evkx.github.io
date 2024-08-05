@@ -178,7 +178,11 @@ Dessutom stöder Toyota bZ4X AWD Android Auto och Apple CarPlay. Denna funktion 
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Toyota bZ4X AWD. Med Toyota får du sex högtalare med en maximal systemeffekt på  watt. Med JBL Premium Sound får du nio högtalare med en maximal systemeffekt på  watt.
+Du kan välja mellan två ljudsystem på Toyota bZ4X AWD.
+
+- Med Toyota får du sex högtalare med en maximal systemeffekt på  watt.
+- Med JBL Premium Sound får du nio högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard.
 

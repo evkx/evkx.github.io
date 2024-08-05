@@ -176,7 +176,10 @@ I tillegg støtter MG MG5 Electric Long Range Android Auto og Apple CarPlay. Den
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for MG MG5 Electric Long Range. Med  får du seks høyttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgjengelig for MG MG5 Electric Long Range.
+
+- Med  får du seks høyttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
 

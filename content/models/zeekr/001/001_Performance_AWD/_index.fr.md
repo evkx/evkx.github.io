@@ -180,7 +180,10 @@ De plus, le Zeekr 001 Performance AWD prend en charge Android Auto et Apple CarP
 
 ### Système audio
 
-Un type de système audio est disponible pour le Zeekr 001 Performance AWD. Avec le Yamaha Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts.
+Un type de système audio est disponible pour le Zeekr 001 Performance AWD.
+
+- Avec le Yamaha Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts.
+
 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

@@ -157,7 +157,12 @@ De plus, le Mercedes-EQ EQC 400 4MATIC prend en charge Android Auto et Apple Car
 
 ### Système audio
 
-Vous pouvez choisir entre trois systèmes audio sur le Mercedes-EQ EQC 400 4MATIC. Avec le Standard, vous obtenez sept haut-parleurs avec une puissance système maximale de 100 watts. Avec le Advanced Soundsystem, vous obtenez neuf haut-parleurs avec une puissance système maximale de 225 watts. Avec le Burmester Surround Soundsystem, vous obtenez 13 haut-parleurs avec une puissance système maximale de 590 watts.
+Vous pouvez choisir entre trois systèmes audio sur le Mercedes-EQ EQC 400 4MATIC.
+
+- Avec le Standard, vous obtenez sept haut-parleurs avec une puissance système maximale de 100 watts.
+- Avec le Advanced Soundsystem, vous obtenez neuf haut-parleurs avec une puissance système maximale de 225 watts.
+- Avec le Burmester Surround Soundsystem, vous obtenez 13 haut-parleurs avec une puissance système maximale de 590 watts.
+
 
 ## Lumières
 

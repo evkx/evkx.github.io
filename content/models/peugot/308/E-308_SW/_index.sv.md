@@ -175,7 +175,10 @@ Dessutom stöder Peugot E-308 SW Android Auto och Apple CarPlay. Denna funktion 
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Peugot E-308 SW. Med  får du NULL högtalare med en maximal systemeffekt på  watt.
+En typ av ljudsystem är tillgänglig för Peugot E-308 SW.
+
+- Med  får du NULL högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 3 USB-C-anslutningar som standard.
 

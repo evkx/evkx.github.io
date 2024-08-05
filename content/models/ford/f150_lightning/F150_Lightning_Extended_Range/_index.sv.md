@@ -183,7 +183,12 @@ Dessutom stöder Ford F150 Lightning Extended Range Android Auto och Apple CarPl
 
 ### Ljudsystem
 
-Du kan välja mellan tre ljudsystem på Ford F150 Lightning Extended Range. Med Ford får du fyra högtalare med en maximal systemeffekt på 80 watt. Med B&O Sound System får du åtta högtalare med en maximal systemeffekt på 640 watt. Med B&O Unleashed Sound System får du 18 högtalare med en maximal systemeffekt på 1080 watt.
+Du kan välja mellan tre ljudsystem på Ford F150 Lightning Extended Range.
+
+- Med Ford får du fyra högtalare med en maximal systemeffekt på 80 watt.
+- Med B&O Sound System får du åtta högtalare med en maximal systemeffekt på 640 watt.
+- Med B&O Unleashed Sound System får du 18 högtalare med en maximal systemeffekt på 1080 watt.
+
 
 ## Ljus
 

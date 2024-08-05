@@ -174,7 +174,10 @@ Además, el MG MG4 Electric Extended Range es compatible con Android Auto y Appl
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el MG MG4 Electric Extended Range. Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+Un tipo de sistema de sonido está disponible para el MG MG4 Electric Extended Range.
+
+- Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+
 
 El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

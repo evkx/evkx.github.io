@@ -175,13 +175,16 @@ The model does not have a head-up display.
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
 ### Sound system
 
-One type of sound system is available for the Tesla Model 3. With the Tesla Imersive Sound, you get nine speakers with a max system output of 560 watts.
+One type of sound system is available for the Tesla Model 3.
+
+- With the Tesla Imersive Sound, you get nine speakers with a max system output of 560 watts.
+
 
 The model has 3 USB-C connections as standard.
 

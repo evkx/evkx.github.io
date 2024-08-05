@@ -182,7 +182,11 @@ De plus, le Subaru Solterra AWD prend en charge Android Auto et Apple CarPlay. C
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Subaru Solterra AWD. Avec le Toyota, vous obtenez six haut-parleurs avec une puissance système maximale de  watts. Avec le JBL Premium Sound, vous obtenez neuf haut-parleurs avec une puissance système maximale de  watts.
+Vous pouvez choisir entre deux systèmes audio sur le Subaru Solterra AWD.
+
+- Avec le Toyota, vous obtenez six haut-parleurs avec une puissance système maximale de  watts.
+- Avec le JBL Premium Sound, vous obtenez neuf haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

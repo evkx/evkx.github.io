@@ -188,7 +188,10 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Fisker Ocean Extreme. Med Fisker Hypersound 3D får du 16 högtalare med en maximal systemeffekt på 500 watt.
+En typ av ljudsystem är tillgänglig för Fisker Ocean Extreme.
+
+- Med Fisker Hypersound 3D får du 16 högtalare med en maximal systemeffekt på 500 watt.
+
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

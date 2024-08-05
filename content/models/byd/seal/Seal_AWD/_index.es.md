@@ -183,7 +183,10 @@ Además, el BYD Seal AWD es compatible con Android Auto y Apple CarPlay. Esta fu
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el BYD Seal AWD. Con el Dynaudio Performance Audio System, obtienes 12 parlantes con una salida máxima del sistema de  vatios.
+Un tipo de sistema de sonido está disponible para el BYD Seal AWD.
+
+- Con el Dynaudio Performance Audio System, obtienes 12 parlantes con una salida máxima del sistema de  vatios.
+
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

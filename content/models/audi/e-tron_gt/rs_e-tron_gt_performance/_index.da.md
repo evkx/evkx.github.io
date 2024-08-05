@@ -217,7 +217,11 @@ Yderligere understøtter Audi RS e-tron GT performance Android Auto og Apple Car
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Audi RS e-tron GT performance. Med Audi Sound system får du ti højttalere med en maksimal systemeffekt på 180 watt. Med Bang & Olufsen Sound System får du 16 højttalere med en maksimal systemeffekt på 700 watt.
+Du kan vælge mellem to lydsystemer på Audi RS e-tron GT performance.
+
+- Med Audi Sound system får du ti højttalere med en maksimal systemeffekt på 180 watt.
+- Med Bang & Olufsen Sound System får du 16 højttalere med en maksimal systemeffekt på 700 watt.
+
 
 ## Lys
 

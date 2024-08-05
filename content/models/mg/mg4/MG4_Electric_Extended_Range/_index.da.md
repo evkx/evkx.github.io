@@ -174,7 +174,10 @@ Yderligere understøtter MG MG4 Electric Extended Range Android Auto og Apple Ca
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for MG MG4 Electric Extended Range. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgængelig for MG MG4 Electric Extended Range.
+
+- Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 1 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 

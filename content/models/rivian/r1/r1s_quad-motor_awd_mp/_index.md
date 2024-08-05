@@ -197,13 +197,16 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
 ### Sound system
 
-One type of sound system is available for the Rivian R1S Quad-Motor AWD MP. With the Rivian Premium Audio, you get 19 speakers with a max system output of 960 watts.
+One type of sound system is available for the Rivian R1S Quad-Motor AWD MP.
+
+- With the Rivian Premium Audio, you get 19 speakers with a max system output of 960 watts.
+
 
 The model has 6 USB-C connections as standard.
 

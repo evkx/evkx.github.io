@@ -181,7 +181,10 @@ De plus, le Peugot E-308 prend en charge Android Auto et Apple CarPlay. Cette fo
 
 ### Système audio
 
-Un type de système audio est disponible pour le Peugot E-308. Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+Un type de système audio est disponible pour le Peugot E-308.
+
+- Avec le , vous obtenez NULL haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 3 connexions USB-C en standard.
 

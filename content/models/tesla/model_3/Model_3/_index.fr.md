@@ -181,7 +181,10 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 ### Système audio
 
-Un type de système audio est disponible pour le Tesla Model 3. Avec le Tesla Imersive Sound, vous obtenez neuf haut-parleurs avec une puissance système maximale de 560 watts.
+Un type de système audio est disponible pour le Tesla Model 3.
+
+- Avec le Tesla Imersive Sound, vous obtenez neuf haut-parleurs avec une puissance système maximale de 560 watts.
+
 
 Le modèle dispose de 3 connexions USB-C en standard.
 

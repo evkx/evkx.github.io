@@ -178,7 +178,10 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Tesla Cybertruck Cyberbeast. Med Tesla Premium Sound får du 17 högtalare med en maximal systemeffekt på 560 watt.
+En typ av ljudsystem är tillgänglig för Tesla Cybertruck Cyberbeast.
+
+- Med Tesla Premium Sound får du 17 högtalare med en maximal systemeffekt på 560 watt.
+
 
 ## Ljus
 

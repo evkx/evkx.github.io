@@ -185,7 +185,11 @@ Además, el Nissan Ariya 87kWh es compatible con Android Auto y Apple CarPlay. E
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Nissan Ariya 87kWh. Con el DAB Audiosystem, obtienes seis parlantes con una salida máxima del sistema de  vatios. Con el BOSE Premium Sound System, obtienes diez parlantes con una salida máxima del sistema de  vatios.
+Puedes elegir entre dos sistemas de sonido en el Nissan Ariya 87kWh.
+
+- Con el DAB Audiosystem, obtienes seis parlantes con una salida máxima del sistema de  vatios.
+- Con el BOSE Premium Sound System, obtienes diez parlantes con una salida máxima del sistema de  vatios.
+
 
 ## Luces
 

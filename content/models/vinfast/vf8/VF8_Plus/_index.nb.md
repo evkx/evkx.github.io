@@ -186,7 +186,10 @@ I tillegg støtter VinFast VF8 Plus Android Auto og Apple CarPlay. Denne funksjo
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for VinFast VF8 Plus. Med  får du 11 høyttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgjengelig for VinFast VF8 Plus.
+
+- Med  får du 11 høyttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 4 USB-A-tilkoblinger som standard.
 

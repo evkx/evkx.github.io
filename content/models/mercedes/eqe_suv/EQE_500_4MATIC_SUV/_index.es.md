@@ -222,7 +222,11 @@ Además, el Mercedes-EQ EQE 500 4MATIC SUV es compatible con Android Auto y Appl
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Mercedes-EQ EQE 500 4MATIC SUV. Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios. Con el Burmester Surround Soundsystem, obtienes 13 parlantes con una salida máxima del sistema de 590 vatios.
+Puedes elegir entre dos sistemas de sonido en el Mercedes-EQ EQE 500 4MATIC SUV.
+
+- Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios.
+- Con el Burmester Surround Soundsystem, obtienes 13 parlantes con una salida máxima del sistema de 590 vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie.
 

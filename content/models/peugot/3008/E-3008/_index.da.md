@@ -184,7 +184,11 @@ Yderligere understøtter Peugot E-3008 Android Auto og Apple CarPlay. Denne funk
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Peugot E-3008. Med  får du seks højttalere med en maksimal systemeffekt på 100 watt. Med  får du ti højttalere med en maksimal systemeffekt på 690 watt.
+Du kan vælge mellem to lydsystemer på Peugot E-3008.
+
+- Med  får du seks højttalere med en maksimal systemeffekt på 100 watt.
+- Med  får du ti højttalere med en maksimal systemeffekt på 690 watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard.
 

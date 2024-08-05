@@ -180,7 +180,11 @@ Además, el CUPRA BORN 58 es compatible con Android Auto y Apple CarPlay. Esta f
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el CUPRA BORN 58. Con el Sound system, obtienes cinco parlantes con una salida máxima del sistema de 140 vatios. Con el Beats Audio, obtienes nueve parlantes con una salida máxima del sistema de 395 vatios.
+Puedes elegir entre dos sistemas de sonido en el CUPRA BORN 58.
+
+- Con el Sound system, obtienes cinco parlantes con una salida máxima del sistema de 140 vatios.
+- Con el Beats Audio, obtienes nueve parlantes con una salida máxima del sistema de 395 vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie.
 

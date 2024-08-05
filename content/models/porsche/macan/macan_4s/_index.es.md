@@ -214,7 +214,11 @@ Además, el Porsche Macan 4S es compatible con Android Auto y Apple CarPlay. Est
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Porsche Macan 4S. Con el  BOSE® Surround Sound System, obtienes 14 parlantes con una salida máxima del sistema de 710 vatios. Con el  Burmester® 3D High-End Surround Sound System, obtienes 21 parlantes con una salida máxima del sistema de 1470 vatios.
+Puedes elegir entre dos sistemas de sonido en el Porsche Macan 4S.
+
+- Con el  BOSE® Surround Sound System, obtienes 14 parlantes con una salida máxima del sistema de 710 vatios.
+- Con el  Burmester® 3D High-End Surround Sound System, obtienes 21 parlantes con una salida máxima del sistema de 1470 vatios.
+
 
 El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
 

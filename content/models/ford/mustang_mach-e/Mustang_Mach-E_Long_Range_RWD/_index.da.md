@@ -181,7 +181,10 @@ Yderligere understøtter Ford Mustang Mach-E Long Range RWD Android Auto og Appl
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Ford Mustang Mach-E Long Range RWD. Med B&O Sound System får du ti højttalere med en maksimal systemeffekt på 560 watt.
+Én type lydsystem er tilgængelig for Ford Mustang Mach-E Long Range RWD.
+
+- Med B&O Sound System får du ti højttalere med en maksimal systemeffekt på 560 watt.
+
 
 Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelser som standard.
 

@@ -173,7 +173,10 @@ Yderligere understøtter YangWang U9 Android Auto og Apple CarPlay. Denne funkti
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for YangWang U9. Med Rimac Nevera Sound System får du otte højttalere med en maksimal systemeffekt på 1200 watt.
+Én type lydsystem er tilgængelig for YangWang U9.
+
+- Med Rimac Nevera Sound System får du otte højttalere med en maksimal systemeffekt på 1200 watt.
+
 
 ## Lys
 

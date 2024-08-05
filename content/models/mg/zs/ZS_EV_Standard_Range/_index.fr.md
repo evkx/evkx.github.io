@@ -180,7 +180,11 @@ De plus, le MG ZS EV Standard Range prend en charge Android Auto et Apple CarPla
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le MG ZS EV Standard Range. Avec le MG standard system, vous obtenez quatre haut-parleurs avec une puissance système maximale de  watts. Avec le MG luxury sound system, vous obtenez six haut-parleurs avec une puissance système maximale de  watts.
+Vous pouvez choisir entre deux systèmes audio sur le MG ZS EV Standard Range.
+
+- Avec le MG standard system, vous obtenez quatre haut-parleurs avec une puissance système maximale de  watts.
+- Avec le MG luxury sound system, vous obtenez six haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
 

@@ -185,7 +185,10 @@ Denne model er udstyret med stemmestyring som standard. Stemmestyringen lader di
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for HiPhi Z 4 Seater. Med SONIC PRO SYSTEM får du 23 højttalere med en maksimal systemeffekt på 600 watt.
+Én type lydsystem er tilgængelig for HiPhi Z 4 Seater.
+
+- Med SONIC PRO SYSTEM får du 23 højttalere med en maksimal systemeffekt på 600 watt.
+
 
 Modellen har 1 USB-C-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser. Modellen har 1 USB-A-forbindelser som standard. Som en mulighed kan du få yderligere 2 USB-C-forbindelser.
 

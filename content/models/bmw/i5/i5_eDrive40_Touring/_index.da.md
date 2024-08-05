@@ -204,7 +204,12 @@ Yderligere understøtter BMW i5 eDrive40 Touring Android Auto og Apple CarPlay. 
 
 ### Lydsystem
 
-Du kan vælge mellem tre lydsystemer på BMW i5 eDrive40 Touring. Med Hifi Sound system får du seks højttalere med en maksimal systemeffekt på 100 watt. Med Harman Kardon Surround Sound system får du 12 højttalere med en maksimal systemeffekt på 205 watt. Med Bower & Wilkins Surround System får du 18 højttalere med en maksimal systemeffekt på 655 watt.
+Du kan vælge mellem tre lydsystemer på BMW i5 eDrive40 Touring.
+
+- Med Hifi Sound system får du seks højttalere med en maksimal systemeffekt på 100 watt.
+- Med Harman Kardon Surround Sound system får du 12 højttalere med en maksimal systemeffekt på 205 watt.
+- Med Bower & Wilkins Surround System får du 18 højttalere med en maksimal systemeffekt på 655 watt.
+
 
 Modellen har 6 USB-C-forbindelser som standard.
 

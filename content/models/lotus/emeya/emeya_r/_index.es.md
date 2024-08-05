@@ -198,7 +198,11 @@ Además, el Lotus Emeya R es compatible con Android Auto y Apple CarPlay. Esta f
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Lotus Emeya R. Con el KEF Premium Audio system, obtienes 15 parlantes con una salida máxima del sistema de 1380 vatios. Con el KEF Reference Audio system, obtienes 23 parlantes con una salida máxima del sistema de 2160 vatios.
+Puedes elegir entre dos sistemas de sonido en el Lotus Emeya R.
+
+- Con el KEF Premium Audio system, obtienes 15 parlantes con una salida máxima del sistema de 1380 vatios.
+- Con el KEF Reference Audio system, obtienes 23 parlantes con una salida máxima del sistema de 2160 vatios.
+
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

@@ -172,7 +172,10 @@ Dessutom stöder SKODA ENYAQ RS iV (GEN1) Android Auto och Apple CarPlay. Denna 
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för SKODA ENYAQ RS iV (GEN1). Med Canton Soundsystem får du tio högtalare med en maximal systemeffekt på 550 watt.
+En typ av ljudsystem är tillgänglig för SKODA ENYAQ RS iV (GEN1).
+
+- Med Canton Soundsystem får du tio högtalare med en maximal systemeffekt på 550 watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard.
 

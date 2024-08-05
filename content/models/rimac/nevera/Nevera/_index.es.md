@@ -177,7 +177,10 @@ Además, el Rimac Nevera es compatible con Android Auto y Apple CarPlay. Esta fu
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el Rimac Nevera. Con el Rimac Nevera Sound System, obtienes ocho parlantes con una salida máxima del sistema de 1200 vatios.
+Un tipo de sistema de sonido está disponible para el Rimac Nevera.
+
+- Con el Rimac Nevera Sound System, obtienes ocho parlantes con una salida máxima del sistema de 1200 vatios.
+
 
 ## Luces
 

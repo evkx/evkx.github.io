@@ -187,7 +187,10 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for XPENG G9 RWD Long Range. Med  får du 24 højttalere med en maksimal systemeffekt på 1940 watt.
+Én type lydsystem er tilgængelig for XPENG G9 RWD Long Range.
+
+- Med  får du 24 højttalere med en maksimal systemeffekt på 1940 watt.
+
 
 ## Lys
 

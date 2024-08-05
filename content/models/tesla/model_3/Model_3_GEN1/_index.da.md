@@ -189,7 +189,10 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Tesla Model 3 (GEN1). Med Tesla Immersive Sound får du syv højttalere med en maksimal systemeffekt på 560 watt.
+Én type lydsystem er tilgængelig for Tesla Model 3 (GEN1).
+
+- Med Tesla Immersive Sound får du syv højttalere med en maksimal systemeffekt på 560 watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard.
 

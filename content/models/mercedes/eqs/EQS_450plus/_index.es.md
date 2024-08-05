@@ -226,7 +226,11 @@ Además, el Mercedes-EQ EQS 450+ es compatible con Android Auto y Apple CarPlay.
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Mercedes-EQ EQS 450+. Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios. Con el Burmester Surround Soundsystem, obtienes 13 parlantes con una salida máxima del sistema de 590 vatios.
+Puedes elegir entre dos sistemas de sonido en el Mercedes-EQ EQS 450+.
+
+- Con el Advanced Soundsystem, obtienes nueve parlantes con una salida máxima del sistema de 225 vatios.
+- Con el Burmester Surround Soundsystem, obtienes 13 parlantes con una salida máxima del sistema de 590 vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
 

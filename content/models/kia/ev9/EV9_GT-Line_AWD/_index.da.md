@@ -210,7 +210,11 @@ Yderligere understøtter Kia EV9 GT-Line AWD Android Auto og Apple CarPlay. Denn
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Kia EV9 GT-Line AWD. Med Standard får du seks højttalere med en maksimal systemeffekt på  watt. Med Meridian Premium Sound System får du 14 højttalere med en maksimal systemeffekt på  watt.
+Du kan vælge mellem to lydsystemer på Kia EV9 GT-Line AWD.
+
+- Med Standard får du seks højttalere med en maksimal systemeffekt på  watt.
+- Med Meridian Premium Sound System får du 14 højttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 6 USB-C-forbindelser som standard.
 

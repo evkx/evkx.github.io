@@ -204,7 +204,11 @@ Además, el BMW iX2 xDrive30 es compatible con Android Auto y Apple CarPlay. Est
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el BMW iX2 xDrive30. Con el Harman Kardon Surround Sound system, obtienes 16 parlantes con una salida máxima del sistema de 464 vatios. Con el Harman Kardon Surround Sound system, obtienes 16 parlantes con una salida máxima del sistema de 464 vatios.
+Puedes elegir entre dos sistemas de sonido en el BMW iX2 xDrive30.
+
+- Con el Harman Kardon Surround Sound system, obtienes 16 parlantes con una salida máxima del sistema de 464 vatios.
+- Con el Harman Kardon Surround Sound system, obtienes 16 parlantes con una salida máxima del sistema de 464 vatios.
+
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

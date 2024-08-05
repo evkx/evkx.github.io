@@ -241,7 +241,11 @@ Yderligere understøtter BMW i4 M50 Android Auto og Apple CarPlay. Denne funktio
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på BMW i4 M50. Med Hifi Sound system får du ti højttalere med en maksimal systemeffekt på 200 watt. Med Harman Kardon Surround Sound system får du 17 højttalere med en maksimal systemeffekt på 445 watt.
+Du kan vælge mellem to lydsystemer på BMW i4 M50.
+
+- Med Hifi Sound system får du ti højttalere med en maksimal systemeffekt på 200 watt.
+- Med Harman Kardon Surround Sound system får du 17 højttalere med en maksimal systemeffekt på 445 watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard.
 

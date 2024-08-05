@@ -168,13 +168,16 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
 ### Sound system
 
-One type of sound system is available for the XPENG P7 AWD Performance. With the , you get eight speakers with a max system output of 500 watts.
+One type of sound system is available for the XPENG P7 AWD Performance.
+
+- With the , you get eight speakers with a max system output of 500 watts.
+
 
 ## Lights
 

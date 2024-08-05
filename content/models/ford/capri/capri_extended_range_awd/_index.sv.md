@@ -187,7 +187,11 @@ Dessutom stöder Ford Capri Extended Range AWD Android Auto och Apple CarPlay. D
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Ford Capri Extended Range AWD. Med Sound system får du sex högtalare med en maximal systemeffekt på 140 watt. Med B&O Soundsystem får du tio högtalare med en maximal systemeffekt på 480 watt.
+Du kan välja mellan två ljudsystem på Ford Capri Extended Range AWD.
+
+- Med Sound system får du sex högtalare med en maximal systemeffekt på 140 watt.
+- Med B&O Soundsystem får du tio högtalare med en maximal systemeffekt på 480 watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard.
 

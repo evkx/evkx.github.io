@@ -185,7 +185,10 @@ De plus, le Hyundai Kona Standard Range prend en charge Android Auto et Apple Ca
 
 ### Système audio
 
-Un type de système audio est disponible pour le Hyundai Kona Standard Range. Avec le Bose Premium Sound System, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
+Un type de système audio est disponible pour le Hyundai Kona Standard Range.
+
+- Avec le Bose Premium Sound System, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

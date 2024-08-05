@@ -190,7 +190,10 @@ Dessutom stöder Zeekr 009 ME Edition Android Auto och Apple CarPlay. Denna funk
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Zeekr 009 ME Edition. Med Yamaha Sound System får du 20 högtalare med en maximal systemeffekt på 300 watt.
+En typ av ljudsystem är tillgänglig för Zeekr 009 ME Edition.
+
+- Med Yamaha Sound System får du 20 högtalare med en maximal systemeffekt på 300 watt.
+
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

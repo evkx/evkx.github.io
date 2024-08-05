@@ -183,7 +183,10 @@ Yderligere understøtter Zeekr 001 FR Android Auto og Apple CarPlay. Denne funkt
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Zeekr 001 FR. Med Yamaha Sound System får du 12 højttalere med en maksimal systemeffekt på 300 watt.
+Én type lydsystem er tilgængelig for Zeekr 001 FR.
+
+- Med Yamaha Sound System får du 12 højttalere med en maksimal systemeffekt på 300 watt.
+
 
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 

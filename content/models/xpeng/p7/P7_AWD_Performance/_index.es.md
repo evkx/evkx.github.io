@@ -174,7 +174,10 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el XPENG P7 AWD Performance. Con el , obtienes ocho parlantes con una salida máxima del sistema de 500 vatios.
+Un tipo de sistema de sonido está disponible para el XPENG P7 AWD Performance.
+
+- Con el , obtienes ocho parlantes con una salida máxima del sistema de 500 vatios.
+
 
 ## Luces
 

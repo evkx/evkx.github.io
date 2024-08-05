@@ -221,17 +221,31 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-### Navigation system
+The Audi Q6 e-tron performance features an advanced infotainment system built on Android Automotive OS, a platform by Google specifically designed for vehicle dashboards. Enhancing this robust system, Audi has integrated their own suite of applications, providing seamless navigation, comprehensive car settings, and much more.
 
-With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+### Navigation System
 
-### Phone mirroring
+The built-in navigation system uses detailed maps and offers advanced route planning where you can define the target charge level at your destination or during charging stops. The system provides real-time traffic information and satellite maps, ensuring an efficient and stress-free journey.
+
+### App Store
+
+The infotainment system includes an App Store where you can download third-party apps to run natively on the car's screen without needing a connected phone. Available apps vary by market but include popular options such as:
+
+- **Spotify:** Stream millions of songs, playlists, and podcasts directly from your car's infotainment system, providing endless entertainment options for your drive.
+- **TIDAL** Enjoy high-fidelity music streaming and exclusive content from your favorite artists, delivering a premium audio experience right to your vehicle.
+- **YouTube** Watch your favorite videos, channels, and playlists on your car's infotainment screen, making it easy to stay entertained while parked.
+
+### Phone Mirroring
 
 Furthermore, the Audi Q6 e-tron performance supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 ### Sound system
 
-You can choose between two sound systems on the Audi Q6 e-tron performance. With the Audi Sound System, you get five speakers with a max system output of 200 watts. With the Bang & Olufsen Sound System, you get 20 speakers with a max system output of 830 watts.
+You can choose between two sound systems on the Audi Q6 e-tron performance.
+
+- With the Audi Sound System, you get five speakers with a max system output of 200 watts.
+- With the Bang & Olufsen Sound System, you get 20 speakers with a max system output of 830 watts.
+
 
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
 

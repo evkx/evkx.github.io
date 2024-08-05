@@ -170,7 +170,10 @@ Yderligere understøtter Peugot E-2008 Android Auto og Apple CarPlay. Denne funk
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Peugot E-2008. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgængelig for Peugot E-2008.
+
+- Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+
 
 ## Lys
 

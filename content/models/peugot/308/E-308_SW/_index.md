@@ -165,17 +165,20 @@ A head-up display is a standard system that projects speed and other important d
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
-### Phone mirroring
+### Phone Mirroring
 
 Furthermore, the Peugot E-308 SW supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
 
 ### Sound system
 
-One type of sound system is available for the Peugot E-308 SW. With the , you get NULL speakers with a max system output of  watts.
+One type of sound system is available for the Peugot E-308 SW.
+
+- With the , you get NULL speakers with a max system output of  watts.
+
 
 The model has 3 USB-C connections as standard.
 

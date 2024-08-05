@@ -180,7 +180,11 @@ Yderligere understøtter CUPRA BORN 58 Android Auto og Apple CarPlay. Denne funk
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på CUPRA BORN 58. Med Sound system får du fem højttalere med en maksimal systemeffekt på 140 watt. Med Beats Audio får du ni højttalere med en maksimal systemeffekt på 395 watt.
+Du kan vælge mellem to lydsystemer på CUPRA BORN 58.
+
+- Med Sound system får du fem højttalere med en maksimal systemeffekt på 140 watt.
+- Med Beats Audio får du ni højttalere med en maksimal systemeffekt på 395 watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard.
 

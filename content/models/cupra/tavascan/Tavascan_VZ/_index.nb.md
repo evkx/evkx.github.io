@@ -180,7 +180,11 @@ I tillegg støtter CUPRA Tavascan VZ Android Auto og Apple CarPlay. Denne funksj
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på CUPRA Tavascan VZ. Med Sound system får du fem høyttalere med en maksimal systemeffekt på 140 watt. Med Sennheiser Soundsystem får du 12 høyttalere med en maksimal systemeffekt på 395 watt.
+Du kan velge mellom to lydsystemer på CUPRA Tavascan VZ.
+
+- Med Sound system får du fem høyttalere med en maksimal systemeffekt på 140 watt.
+- Med Sennheiser Soundsystem får du 12 høyttalere med en maksimal systemeffekt på 395 watt.
+
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 

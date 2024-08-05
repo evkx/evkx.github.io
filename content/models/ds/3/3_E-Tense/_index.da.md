@@ -172,7 +172,10 @@ Yderligere understøtter DS 3 E-Tense Android Auto og Apple CarPlay. Denne funkt
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for DS 3 E-Tense. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgængelig for DS 3 E-Tense.
+
+- Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+
 
 ## Lys
 

@@ -184,7 +184,11 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le BYD Tang EV600. Avec le Surroundsystem, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts. Avec le Premium sound system, vous obtenez 12 haut-parleurs avec une puissance système maximale de  watts.
+Vous pouvez choisir entre deux systèmes audio sur le BYD Tang EV600.
+
+- Avec le Surroundsystem, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
+- Avec le Premium sound system, vous obtenez 12 haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 4 connexions USB-A en standard.
 

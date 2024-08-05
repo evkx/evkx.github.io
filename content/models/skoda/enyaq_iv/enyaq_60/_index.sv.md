@@ -183,7 +183,10 @@ Dessutom stöder SKODA ENYAQ 60 Android Auto och Apple CarPlay. Denna funktion g
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för SKODA ENYAQ 60. Med Canton Soundsystem får du tio högtalare med en maximal systemeffekt på 550 watt.
+En typ av ljudsystem är tillgänglig för SKODA ENYAQ 60.
+
+- Med Canton Soundsystem får du tio högtalare med en maximal systemeffekt på 550 watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard.
 

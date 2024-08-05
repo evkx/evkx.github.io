@@ -204,7 +204,11 @@ Dessutom stöder Volkswagen ID.4 Pure Android Auto och Apple CarPlay. Denna funk
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Volkswagen ID.4 Pure. Med Sound system får du sex högtalare med en maximal systemeffekt på 140 watt. Med Volkswagen Soundsystem får du sex högtalare med en maximal systemeffekt på 450 watt.
+Du kan välja mellan två ljudsystem på Volkswagen ID.4 Pure.
+
+- Med Sound system får du sex högtalare med en maximal systemeffekt på 140 watt.
+- Med Volkswagen Soundsystem får du sex högtalare med en maximal systemeffekt på 450 watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard.
 

@@ -189,7 +189,10 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el Tesla Model 3 Long Range (GEN1). Con el Tesla Premium Sound, obtienes 13 parlantes con una salida máxima del sistema de 560 vatios.
+Un tipo de sistema de sonido está disponible para el Tesla Model 3 Long Range (GEN1).
+
+- Con el Tesla Premium Sound, obtienes 13 parlantes con una salida máxima del sistema de 560 vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie.
 

@@ -212,7 +212,7 @@ Audi A6 Sportback e-tron performance har ett avancerat infotainmentsystem basera
 
 ### Navigationssystem
 
-Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöver för att hitta din destination.
+Det inbyggda navigationssystemet använder detaljerade kartor och erbjuder avancerad ruttplanering där du kan definiera den önskade laddningsnivån vid din destination eller under laddningsstopp. Systemet ger realtids trafikinformation och satellitkartor, vilket säkerställer en effektiv och stressfri resa.
 
 ### App store
 
@@ -228,7 +228,11 @@ Dessutom stöder Audi A6 Sportback e-tron performance Android Auto och Apple Car
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Audi A6 Sportback e-tron performance. Med Audi Sound System får du fem högtalare med en maximal systemeffekt på 200 watt. Med Bang & Olufsen Sound System får du 20 högtalare med en maximal systemeffekt på 830 watt.
+Du kan välja mellan två ljudsystem på Audi A6 Sportback e-tron performance.
+
+- Med Audi Sound System får du fem högtalare med en maximal systemeffekt på 200 watt.
+- Med Bang & Olufsen Sound System får du 20 högtalare med en maximal systemeffekt på 830 watt.
+
 
 Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få ytterligare 2 USB-C-anslutningar.
 

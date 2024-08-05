@@ -203,7 +203,10 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Rivian R1S Quad-Motor AWD MP. Med Rivian Premium Audio får du 19 högtalare med en maximal systemeffekt på 960 watt.
+En typ av ljudsystem är tillgänglig för Rivian R1S Quad-Motor AWD MP.
+
+- Med Rivian Premium Audio får du 19 högtalare med en maximal systemeffekt på 960 watt.
+
 
 Modellen har 6 USB-C-anslutningar som standard.
 

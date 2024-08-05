@@ -195,7 +195,11 @@ I tillegg støtter Maserati GranCabrio Folgore Android Auto og Apple CarPlay. De
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på Maserati GranCabrio Folgore. Med Sonus Faber Premium Sound System får du 14 høyttalere med en maksimal systemeffekt på 860 watt. Med Sonus Faber High Premium Sound System får du 21 høyttalere med en maksimal systemeffekt på 1285 watt.
+Du kan velge mellom to lydsystemer på Maserati GranCabrio Folgore.
+
+- Med Sonus Faber Premium Sound System får du 14 høyttalere med en maksimal systemeffekt på 860 watt.
+- Med Sonus Faber High Premium Sound System får du 21 høyttalere med en maksimal systemeffekt på 1285 watt.
+
 
 Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytterligere 2 USB-C-tilkoblinger.
 

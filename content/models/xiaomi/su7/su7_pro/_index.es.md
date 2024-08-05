@@ -175,7 +175,11 @@ Un head-up display es un sistema un estándar que presenta la velocidad y otra i
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Xiaomi SU7 Pro. Con el Xiaomi Soundsystem, obtienes diez parlantes con una salida máxima del sistema de  vatios. Con el Xiaomi Soundsystem, obtienes 25 parlantes con una salida máxima del sistema de  vatios.
+Puedes elegir entre dos sistemas de sonido en el Xiaomi SU7 Pro.
+
+- Con el Xiaomi Soundsystem, obtienes diez parlantes con una salida máxima del sistema de  vatios.
+- Con el Xiaomi Soundsystem, obtienes 25 parlantes con una salida máxima del sistema de  vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

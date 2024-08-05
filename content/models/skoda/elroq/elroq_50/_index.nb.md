@@ -175,7 +175,10 @@ I tillegg støtter SKODA Elroq 50 Android Auto og Apple CarPlay. Denne funksjona
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for SKODA Elroq 50. Med Canton Soundsystem får du ti høyttalere med en maksimal systemeffekt på 550 watt.
+Én type lydsystem er tilgjengelig for SKODA Elroq 50.
+
+- Med Canton Soundsystem får du ti høyttalere med en maksimal systemeffekt på 550 watt.
+
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 

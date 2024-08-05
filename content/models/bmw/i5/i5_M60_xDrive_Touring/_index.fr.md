@@ -205,7 +205,12 @@ De plus, le BMW i5 M60 xDrive Touring prend en charge Android Auto et Apple CarP
 
 ### Système audio
 
-Vous pouvez choisir entre trois systèmes audio sur le BMW i5 M60 xDrive Touring. Avec le Hifi Sound system, vous obtenez six haut-parleurs avec une puissance système maximale de 100 watts. Avec le Harman Kardon Surround Sound system, vous obtenez 12 haut-parleurs avec une puissance système maximale de 205 watts. Avec le Bower & Wilkins Surround System, vous obtenez 18 haut-parleurs avec une puissance système maximale de 655 watts.
+Vous pouvez choisir entre trois systèmes audio sur le BMW i5 M60 xDrive Touring.
+
+- Avec le Hifi Sound system, vous obtenez six haut-parleurs avec une puissance système maximale de 100 watts.
+- Avec le Harman Kardon Surround Sound system, vous obtenez 12 haut-parleurs avec une puissance système maximale de 205 watts.
+- Avec le Bower & Wilkins Surround System, vous obtenez 18 haut-parleurs avec une puissance système maximale de 655 watts.
+
 
 Le modèle dispose de 6 connexions USB-C en standard.
 

@@ -185,7 +185,10 @@ Dessutom stöder Hyundai Kona Standard Range Android Auto och Apple CarPlay. Den
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Hyundai Kona Standard Range. Med Bose Premium Sound System får du sju högtalare med en maximal systemeffekt på  watt.
+En typ av ljudsystem är tillgänglig för Hyundai Kona Standard Range.
+
+- Med Bose Premium Sound System får du sju högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard.
 

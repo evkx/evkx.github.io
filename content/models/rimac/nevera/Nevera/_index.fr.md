@@ -177,7 +177,10 @@ De plus, le Rimac Nevera prend en charge Android Auto et Apple CarPlay. Cette fo
 
 ### Système audio
 
-Un type de système audio est disponible pour le Rimac Nevera. Avec le Rimac Nevera Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de 1200 watts.
+Un type de système audio est disponible pour le Rimac Nevera.
+
+- Avec le Rimac Nevera Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de 1200 watts.
+
 
 ## Lumières
 

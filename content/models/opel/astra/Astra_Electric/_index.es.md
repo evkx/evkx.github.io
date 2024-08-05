@@ -178,7 +178,10 @@ Además, el Opel Astra Electric es compatible con Android Auto y Apple CarPlay. 
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el Opel Astra Electric. Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+Un tipo de sistema de sonido está disponible para el Opel Astra Electric.
+
+- Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+
 
 El modelo tiene 3 conexiones USB-C de serie.
 

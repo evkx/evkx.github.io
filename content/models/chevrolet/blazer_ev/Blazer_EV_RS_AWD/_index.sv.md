@@ -174,7 +174,10 @@ Dessutom stöder Chevrolet Blazer EV RS AWD Android Auto och Apple CarPlay. Denn
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Chevrolet Blazer EV RS AWD. Med Lyric sound system får du sju högtalare med en maximal systemeffekt på  watt.
+En typ av ljudsystem är tillgänglig för Chevrolet Blazer EV RS AWD.
+
+- Med Lyric sound system får du sju högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 5 USB-C-anslutningar som standard.
 

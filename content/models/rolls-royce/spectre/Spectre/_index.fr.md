@@ -191,7 +191,11 @@ De plus, le Rolls-Royce Spectre prend en charge Android Auto et Apple CarPlay. C
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Rolls-Royce Spectre. Avec le Harman Kardon Surround Sound system, vous obtenez 18 haut-parleurs avec une puissance système maximale de 655 watts. Avec le Bowers & Wilkins Diamond surround sound system, vous obtenez 30 haut-parleurs avec une puissance système maximale de 1615 watts.
+Vous pouvez choisir entre deux systèmes audio sur le Rolls-Royce Spectre.
+
+- Avec le Harman Kardon Surround Sound system, vous obtenez 18 haut-parleurs avec une puissance système maximale de 655 watts.
+- Avec le Bowers & Wilkins Diamond surround sound system, vous obtenez 30 haut-parleurs avec une puissance système maximale de 1615 watts.
+
 
 Le modèle dispose de 6 connexions USB-C en standard.
 

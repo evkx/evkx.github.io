@@ -189,7 +189,11 @@ Dessutom stöder Renault Scenic E-Tech electric Android Auto och Apple CarPlay. 
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Renault Scenic E-Tech electric. Med DAB Audiosystem får du sex högtalare med en maximal systemeffekt på  watt. Med BOSE Premium Sound System får du tio högtalare med en maximal systemeffekt på  watt.
+Du kan välja mellan två ljudsystem på Renault Scenic E-Tech electric.
+
+- Med DAB Audiosystem får du sex högtalare med en maximal systemeffekt på  watt.
+- Med BOSE Premium Sound System får du tio högtalare med en maximal systemeffekt på  watt.
+
 
 Modellen har 6 USB-C-anslutningar som standard.
 

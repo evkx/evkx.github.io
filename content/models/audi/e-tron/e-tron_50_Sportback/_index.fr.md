@@ -271,7 +271,11 @@ De plus, le Audi e-tron 50 Sportback prend en charge Android Auto et Apple CarPl
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Audi e-tron 50 Sportback. Avec le Audi Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 180 watts. Avec le Bang & Olufsen Sound System, vous obtenez 16 haut-parleurs avec une puissance système maximale de 700 watts.
+Vous pouvez choisir entre deux systèmes audio sur le Audi e-tron 50 Sportback.
+
+- Avec le Audi Sound system, vous obtenez dix haut-parleurs avec une puissance système maximale de 180 watts.
+- Avec le Bang & Olufsen Sound System, vous obtenez 16 haut-parleurs avec une puissance système maximale de 700 watts.
+
 
 Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obtenir des 2 connexions USB-C supplémentaires.
 

@@ -185,7 +185,11 @@ Dessutom stöder Ford Explorer Standard Range RWD Android Auto och Apple CarPlay
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på Ford Explorer Standard Range RWD. Med Sound system får du sex högtalare med en maximal systemeffekt på 140 watt. Med B&O Soundsystem får du tio högtalare med en maximal systemeffekt på 480 watt.
+Du kan välja mellan två ljudsystem på Ford Explorer Standard Range RWD.
+
+- Med Sound system får du sex högtalare med en maximal systemeffekt på 140 watt.
+- Med B&O Soundsystem får du tio högtalare med en maximal systemeffekt på 480 watt.
+
 
 Modellen har 4 USB-C-anslutningar som standard.
 

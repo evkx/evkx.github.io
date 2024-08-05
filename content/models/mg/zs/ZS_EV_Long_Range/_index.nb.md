@@ -180,7 +180,11 @@ I tillegg støtter MG ZS EV Long Range Android Auto og Apple CarPlay. Denne funk
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på MG ZS EV Long Range. Med MG standard system får du fire høyttalere med en maksimal systemeffekt på  watt. Med MG luxury sound system får du seks høyttalere med en maksimal systemeffekt på  watt.
+Du kan velge mellom to lydsystemer på MG ZS EV Long Range.
+
+- Med MG standard system får du fire høyttalere med en maksimal systemeffekt på  watt.
+- Med MG luxury sound system får du seks høyttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
 

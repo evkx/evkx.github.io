@@ -175,7 +175,10 @@ Yderligere understøtter Alfa Romeo Junior Android Auto og Apple CarPlay. Denne 
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Alfa Romeo Junior. Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgængelig for Alfa Romeo Junior.
+
+- Med  får du NULL højttalere med en maksimal systemeffekt på  watt.
+
 
 ## Lys
 

@@ -204,7 +204,12 @@ I tillegg støtter BMW i5 xDrive40 Android Auto og Apple CarPlay. Denne funksjon
 
 ### Lydsystem
 
-Du kan velge mellom tre lydsystemer på BMW i5 xDrive40. Med Hifi Sound system får du seks høyttalere med en maksimal systemeffekt på 100 watt. Med Harman Kardon Surround Sound system får du 12 høyttalere med en maksimal systemeffekt på 205 watt. Med Bower & Wilkins Surround System får du 18 høyttalere med en maksimal systemeffekt på 655 watt.
+Du kan velge mellom tre lydsystemer på BMW i5 xDrive40.
+
+- Med Hifi Sound system får du seks høyttalere med en maksimal systemeffekt på 100 watt.
+- Med Harman Kardon Surround Sound system får du 12 høyttalere med en maksimal systemeffekt på 205 watt.
+- Med Bower & Wilkins Surround System får du 18 høyttalere med en maksimal systemeffekt på 655 watt.
+
 
 Modellen har 6 USB-C-tilkoblinger som standard.
 

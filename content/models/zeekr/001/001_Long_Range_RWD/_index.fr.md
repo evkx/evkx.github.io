@@ -180,7 +180,10 @@ De plus, le Zeekr 001 Long Range RWD prend en charge Android Auto et Apple CarPl
 
 ### Système audio
 
-Un type de système audio est disponible pour le Zeekr 001 Long Range RWD. Avec le Yamaha Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts.
+Un type de système audio est disponible pour le Zeekr 001 Long Range RWD.
+
+- Avec le Yamaha Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de 200 watts.
+
 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

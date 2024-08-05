@@ -181,7 +181,10 @@ Dessutom, med standard navigationssystemet i bilen får du den hjälp du behöve
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Lucid Air Sapphire. Med Surreal Sound Pro får du 21 högtalare med en maximal systemeffekt på 800 watt.
+En typ av ljudsystem är tillgänglig för Lucid Air Sapphire.
+
+- Med Surreal Sound Pro får du 21 högtalare med en maximal systemeffekt på 800 watt.
+
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

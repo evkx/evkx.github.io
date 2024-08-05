@@ -185,7 +185,10 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Nio ET9. Med Premium sound system får du 23 højttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgængelig for Nio ET9.
+
+- Med Premium sound system får du 23 højttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelser som standard.
 

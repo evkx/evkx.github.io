@@ -176,7 +176,10 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for XPENG G6 RWD Long Range. Med  får du 18 høyttalere med en maksimal systemeffekt på 1200 watt.
+Én type lydsystem er tilgjengelig for XPENG G6 RWD Long Range.
+
+- Med  får du 18 høyttalere med en maksimal systemeffekt på 1200 watt.
+
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 

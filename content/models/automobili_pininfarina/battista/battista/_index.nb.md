@@ -173,7 +173,10 @@ I tillegg støtter Automobili Pininfarina Battista Android Auto og Apple CarPlay
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for Automobili Pininfarina Battista. Med Rimac Nevera Sound System får du åtte høyttalere med en maksimal systemeffekt på 1200 watt.
+Én type lydsystem er tilgjengelig for Automobili Pininfarina Battista.
+
+- Med Rimac Nevera Sound System får du åtte høyttalere med en maksimal systemeffekt på 1200 watt.
+
 
 ## Lys
 

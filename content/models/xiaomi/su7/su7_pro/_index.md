@@ -175,7 +175,11 @@ A head-up display is a standard system that projects speed and other important d
 
 ### Sound system
 
-You can choose between two sound systems on the Xiaomi SU7 Pro. With the Xiaomi Soundsystem, you get ten speakers with a max system output of  watts. With the Xiaomi Soundsystem, you get 25 speakers with a max system output of  watts.
+You can choose between two sound systems on the Xiaomi SU7 Pro.
+
+- With the Xiaomi Soundsystem, you get ten speakers with a max system output of  watts.
+- With the Xiaomi Soundsystem, you get 25 speakers with a max system output of  watts.
+
 
 The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 

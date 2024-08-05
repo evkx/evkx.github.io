@@ -177,13 +177,16 @@ The model does not have a head-up display.
 
 ## Infotainment
 
-### Navigation system
+### Navigation System
 
 With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
 
 ### Sound system
 
-One type of sound system is available for the Tesla Model 3 Performance (GEN1). With the Tesla Premium Sound, you get 13 speakers with a max system output of 560 watts.
+One type of sound system is available for the Tesla Model 3 Performance (GEN1).
+
+- With the Tesla Premium Sound, you get 13 speakers with a max system output of 560 watts.
+
 
 The model has 4 USB-C connections as standard.
 

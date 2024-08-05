@@ -176,7 +176,10 @@ I tillegg støtter MG MG5 Electric Standard Range Android Auto og Apple CarPlay.
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for MG MG5 Electric Standard Range. Med  får du seks høyttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgjengelig for MG MG5 Electric Standard Range.
+
+- Med  får du seks høyttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
 

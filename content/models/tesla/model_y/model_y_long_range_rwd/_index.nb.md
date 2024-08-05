@@ -193,7 +193,10 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for Tesla Model Y Long Range RWD. Med Tesla Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 560 watt.
+Én type lydsystem er tilgjengelig for Tesla Model Y Long Range RWD.
+
+- Med Tesla Premium Sound får du 13 høyttalere med en maksimal systemeffekt på 560 watt.
+
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 

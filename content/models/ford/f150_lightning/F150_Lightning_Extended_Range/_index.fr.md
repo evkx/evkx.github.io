@@ -183,7 +183,12 @@ De plus, le Ford F150 Lightning Extended Range prend en charge Android Auto et A
 
 ### Système audio
 
-Vous pouvez choisir entre trois systèmes audio sur le Ford F150 Lightning Extended Range. Avec le Ford, vous obtenez quatre haut-parleurs avec une puissance système maximale de 80 watts. Avec le B&O Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de 640 watts. Avec le B&O Unleashed Sound System, vous obtenez 18 haut-parleurs avec une puissance système maximale de 1080 watts.
+Vous pouvez choisir entre trois systèmes audio sur le Ford F150 Lightning Extended Range.
+
+- Avec le Ford, vous obtenez quatre haut-parleurs avec une puissance système maximale de 80 watts.
+- Avec le B&O Sound System, vous obtenez huit haut-parleurs avec une puissance système maximale de 640 watts.
+- Avec le B&O Unleashed Sound System, vous obtenez 18 haut-parleurs avec une puissance système maximale de 1080 watts.
+
 
 ## Lumières
 

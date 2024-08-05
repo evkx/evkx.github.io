@@ -184,7 +184,11 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el BYD Tang EV600. Con el Surroundsystem, obtienes siete parlantes con una salida máxima del sistema de  vatios. Con el Premium sound system, obtienes 12 parlantes con una salida máxima del sistema de  vatios.
+Puedes elegir entre dos sistemas de sonido en el BYD Tang EV600.
+
+- Con el Surroundsystem, obtienes siete parlantes con una salida máxima del sistema de  vatios.
+- Con el Premium sound system, obtienes 12 parlantes con una salida máxima del sistema de  vatios.
+
 
 El modelo tiene 4 conexiones USB-A de serie.
 

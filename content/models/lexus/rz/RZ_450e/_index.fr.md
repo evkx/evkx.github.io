@@ -190,7 +190,11 @@ De plus, le Lexus RZ 450e prend en charge Android Auto et Apple CarPlay. Cette f
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Lexus RZ 450e. Avec le Standard, vous obtenez 14 haut-parleurs avec une puissance système maximale de  watts. Avec le Mark Levinson Premium Surround Sound, vous obtenez 14 haut-parleurs avec une puissance système maximale de  watts.
+Vous pouvez choisir entre deux systèmes audio sur le Lexus RZ 450e.
+
+- Avec le Standard, vous obtenez 14 haut-parleurs avec une puissance système maximale de  watts.
+- Avec le Mark Levinson Premium Surround Sound, vous obtenez 14 haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 5 connexions USB-C en standard.
 

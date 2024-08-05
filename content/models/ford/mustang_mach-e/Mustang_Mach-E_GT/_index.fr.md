@@ -181,7 +181,10 @@ De plus, le Ford Mustang Mach-E GT prend en charge Android Auto et Apple CarPlay
 
 ### Système audio
 
-Un type de système audio est disponible pour le Ford Mustang Mach-E GT. Avec le B&O Sound System, vous obtenez dix haut-parleurs avec une puissance système maximale de 560 watts.
+Un type de système audio est disponible pour le Ford Mustang Mach-E GT.
+
+- Avec le B&O Sound System, vous obtenez dix haut-parleurs avec une puissance système maximale de 560 watts.
+
 
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
 

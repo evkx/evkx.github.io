@@ -181,7 +181,11 @@ De plus, le BMW iX xDrive50 prend en charge Android Auto et Apple CarPlay. Cette
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le BMW iX xDrive50. Avec le Harman Kardon Surround Sound system, vous obtenez 18 haut-parleurs avec une puissance système maximale de 655 watts. Avec le Bowers & Wilkins Diamond surround sound system, vous obtenez 30 haut-parleurs avec une puissance système maximale de 1615 watts.
+Vous pouvez choisir entre deux systèmes audio sur le BMW iX xDrive50.
+
+- Avec le Harman Kardon Surround Sound system, vous obtenez 18 haut-parleurs avec une puissance système maximale de 655 watts.
+- Avec le Bowers & Wilkins Diamond surround sound system, vous obtenez 30 haut-parleurs avec une puissance système maximale de 1615 watts.
+
 
 Le modèle dispose de 6 connexions USB-C en standard.
 

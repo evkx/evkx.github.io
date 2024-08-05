@@ -185,7 +185,11 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Lucid Air Dream Edition Performance. Med Surreal Sound får du ni højttalere med en maksimal systemeffekt på 300 watt. Med Surreal Sound Pro får du 21 højttalere med en maksimal systemeffekt på 800 watt.
+Du kan vælge mellem to lydsystemer på Lucid Air Dream Edition Performance.
+
+- Med Surreal Sound får du ni højttalere med en maksimal systemeffekt på 300 watt.
+- Med Surreal Sound Pro får du 21 højttalere med en maksimal systemeffekt på 800 watt.
+
 
 Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelser som standard.
 

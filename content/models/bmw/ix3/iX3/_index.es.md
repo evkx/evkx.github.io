@@ -186,7 +186,10 @@ Además, el BMW iX3 es compatible con Android Auto y Apple CarPlay. Esta funcion
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el BMW iX3. Con el Harman Kardon Surround Sound system, obtienes 16 parlantes con una salida máxima del sistema de 464 vatios.
+Un tipo de sistema de sonido está disponible para el BMW iX3.
+
+- Con el Harman Kardon Surround Sound system, obtienes 16 parlantes con una salida máxima del sistema de 464 vatios.
+
 
 El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

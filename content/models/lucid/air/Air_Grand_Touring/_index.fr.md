@@ -185,7 +185,11 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Lucid Air Grand Touring. Avec le Surreal Sound, vous obtenez neuf haut-parleurs avec une puissance système maximale de 300 watts. Avec le Surreal Sound Pro, vous obtenez 21 haut-parleurs avec une puissance système maximale de 800 watts.
+Vous pouvez choisir entre deux systèmes audio sur le Lucid Air Grand Touring.
+
+- Avec le Surreal Sound, vous obtenez neuf haut-parleurs avec une puissance système maximale de 300 watts.
+- Avec le Surreal Sound Pro, vous obtenez 21 haut-parleurs avec une puissance système maximale de 800 watts.
+
 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

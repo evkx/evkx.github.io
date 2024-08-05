@@ -180,7 +180,11 @@ Yderligere understøtter CUPRA BORN 77 e-BOOST Android Auto og Apple CarPlay. De
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på CUPRA BORN 77 e-BOOST. Med Sound system får du fem højttalere med en maksimal systemeffekt på 140 watt. Med Beats Audio får du ni højttalere med en maksimal systemeffekt på 395 watt.
+Du kan vælge mellem to lydsystemer på CUPRA BORN 77 e-BOOST.
+
+- Med Sound system får du fem højttalere med en maksimal systemeffekt på 140 watt.
+- Med Beats Audio får du ni højttalere med en maksimal systemeffekt på 395 watt.
+
 
 Modellen har 4 USB-C-forbindelser som standard.
 

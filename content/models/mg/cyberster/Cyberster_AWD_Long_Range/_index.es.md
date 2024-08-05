@@ -165,7 +165,10 @@ Además, el MG Cyberster AWD Long Range es compatible con Android Auto y Apple C
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el MG Cyberster AWD Long Range. Con el Bose Sound System, obtienes seis parlantes con una salida máxima del sistema de 300 vatios.
+Un tipo de sistema de sonido está disponible para el MG Cyberster AWD Long Range.
+
+- Con el Bose Sound System, obtienes seis parlantes con una salida máxima del sistema de 300 vatios.
+
 
 El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A de serie.
 

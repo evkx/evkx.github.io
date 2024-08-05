@@ -185,7 +185,10 @@ I tillegg støtter Hyundai Kona Long Range Android Auto og Apple CarPlay. Denne 
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for Hyundai Kona Long Range. Med Bose Premium Sound System får du syv høyttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgjengelig for Hyundai Kona Long Range.
+
+- Med Bose Premium Sound System får du syv høyttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 

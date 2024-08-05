@@ -181,7 +181,11 @@ Además, con el sistema de navegación para automóvil un estándar, obtienes la
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el HiPhi Y Performance. Con el SONIC LINE SYSTEM, obtienes 14 parlantes con una salida máxima del sistema de 600 vatios. Con el SONIC PRO SYSTEM, obtienes 25 parlantes con una salida máxima del sistema de 2820 vatios.
+Puedes elegir entre dos sistemas de sonido en el HiPhi Y Performance.
+
+- Con el SONIC LINE SYSTEM, obtienes 14 parlantes con una salida máxima del sistema de 600 vatios.
+- Con el SONIC PRO SYSTEM, obtienes 25 parlantes con una salida máxima del sistema de 2820 vatios.
+
 
 El modelo tiene 4 conexiones USB-C de serie.
 

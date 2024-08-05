@@ -177,7 +177,10 @@ Además, el Opel Mokka Electric es compatible con Android Auto y Apple CarPlay. 
 
 ### Sistema de sonido
 
-Un tipo de sistema de sonido está disponible para el Opel Mokka Electric. Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+Un tipo de sistema de sonido está disponible para el Opel Mokka Electric.
+
+- Con el , obtienes NULL parlantes con una salida máxima del sistema de  vatios.
+
 
 ## Luces
 

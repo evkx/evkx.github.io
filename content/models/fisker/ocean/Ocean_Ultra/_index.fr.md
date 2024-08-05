@@ -174,7 +174,10 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 ### Système audio
 
-Un type de système audio est disponible pour le Fisker Ocean Ultra. Avec le Fisker Hypersound 3D, vous obtenez 16 haut-parleurs avec une puissance système maximale de 500 watts.
+Un type de système audio est disponible pour le Fisker Ocean Ultra.
+
+- Avec le Fisker Hypersound 3D, vous obtenez 16 haut-parleurs avec une puissance système maximale de 500 watts.
+
 
 Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 connexions USB-A en standard.
 

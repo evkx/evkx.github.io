@@ -210,7 +210,11 @@ Además, el Audi e-tron GT es compatible con Android Auto y Apple CarPlay. Esta 
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Audi e-tron GT. Con el Audi Sound system, obtienes diez parlantes con una salida máxima del sistema de 180 vatios. Con el Bang & Olufsen Sound System, obtienes 16 parlantes con una salida máxima del sistema de 700 vatios.
+Puedes elegir entre dos sistemas de sonido en el Audi e-tron GT.
+
+- Con el Audi Sound system, obtienes diez parlantes con una salida máxima del sistema de 180 vatios.
+- Con el Bang & Olufsen Sound System, obtienes 16 parlantes con una salida máxima del sistema de 700 vatios.
+
 
 ## Luces
 

@@ -190,7 +190,11 @@ I tillegg støtter BMW i7 M70 xDrive Android Auto og Apple CarPlay. Denne funksj
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på BMW i7 M70 xDrive. Med Harman Kardon Surround Sound system får du 18 høyttalere med en maksimal systemeffekt på 655 watt. Med Bowers & Wilkins Diamond surround sound system får du 30 høyttalere med en maksimal systemeffekt på 1615 watt.
+Du kan velge mellom to lydsystemer på BMW i7 M70 xDrive.
+
+- Med Harman Kardon Surround Sound system får du 18 høyttalere med en maksimal systemeffekt på 655 watt.
+- Med Bowers & Wilkins Diamond surround sound system får du 30 høyttalere med en maksimal systemeffekt på 1615 watt.
+
 
 Modellen har 6 USB-C-tilkoblinger som standard.
 

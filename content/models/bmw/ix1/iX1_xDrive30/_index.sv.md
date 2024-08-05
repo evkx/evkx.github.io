@@ -204,7 +204,11 @@ Dessutom stöder BMW iX1 xDrive30 Android Auto och Apple CarPlay. Denna funktion
 
 ### Ljudsystem
 
-Du kan välja mellan två ljudsystem på BMW iX1 xDrive30. Med Harman Kardon Surround Sound system får du 16 högtalare med en maximal systemeffekt på 464 watt. Med Harman Kardon Surround Sound system får du 16 högtalare med en maximal systemeffekt på 464 watt.
+Du kan välja mellan två ljudsystem på BMW iX1 xDrive30.
+
+- Med Harman Kardon Surround Sound system får du 16 högtalare med en maximal systemeffekt på 464 watt.
+- Med Harman Kardon Surround Sound system får du 16 högtalare med en maximal systemeffekt på 464 watt.
+
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

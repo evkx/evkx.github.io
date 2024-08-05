@@ -189,7 +189,10 @@ De plus, le Hyundai INSTER Long Range prend en charge Android Auto et Apple CarP
 
 ### Système audio
 
-Un type de système audio est disponible pour le Hyundai INSTER Long Range. Avec le Bose Premium Sound System, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
+Un type de système audio est disponible pour le Hyundai INSTER Long Range.
+
+- Avec le Bose Premium Sound System, vous obtenez sept haut-parleurs avec une puissance système maximale de  watts.
+
 
 Le modèle dispose de 4 connexions USB-C en standard.
 

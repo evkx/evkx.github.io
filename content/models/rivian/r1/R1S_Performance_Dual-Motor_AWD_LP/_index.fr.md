@@ -183,7 +183,10 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 ### Système audio
 
-Un type de système audio est disponible pour le Rivian R1S Performance Dual-Motor AWD LP. Avec le Rivian Elevation audio system, vous obtenez 22 haut-parleurs avec une puissance système maximale de 1100 watts.
+Un type de système audio est disponible pour le Rivian R1S Performance Dual-Motor AWD LP.
+
+- Avec le Rivian Elevation audio system, vous obtenez 22 haut-parleurs avec une puissance système maximale de 1100 watts.
+
 
 Le modèle dispose de 6 connexions USB-C en standard.
 

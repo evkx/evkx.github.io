@@ -178,7 +178,10 @@ Yderligere understøtter Cadillac OPTIQ AWD Android Auto og Apple CarPlay. Denne
 
 ### Lydsystem
 
-Én type lydsystem er tilgængelig for Cadillac OPTIQ AWD. Med AKG sound system får du 19 højttalere med en maksimal systemeffekt på  watt.
+Én type lydsystem er tilgængelig for Cadillac OPTIQ AWD.
+
+- Med AKG sound system får du 19 højttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 5 USB-C-forbindelser som standard.
 

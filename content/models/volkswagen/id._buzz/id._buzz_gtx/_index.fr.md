@@ -204,7 +204,10 @@ De plus, le Volkswagen ID. Buzz GTX prend en charge Android Auto et Apple CarPla
 
 ### Système audio
 
-Un type de système audio est disponible pour le Volkswagen ID. Buzz GTX. Avec le Volkswagen Soundsystem, vous obtenez six haut-parleurs avec une puissance système maximale de 450 watts.
+Un type de système audio est disponible pour le Volkswagen ID. Buzz GTX.
+
+- Avec le Volkswagen Soundsystem, vous obtenez six haut-parleurs avec une puissance système maximale de 450 watts.
+
 
 Le modèle dispose de 5 connexions USB-C en standard.
 

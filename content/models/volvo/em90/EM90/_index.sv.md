@@ -197,7 +197,10 @@ Dessutom stöder Volvo EM90 Android Auto och Apple CarPlay. Denna funktion gör 
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för Volvo EM90. Med Bowers & Wilkins Sound System får du 21 högtalare med en maximal systemeffekt på 500 watt.
+En typ av ljudsystem är tillgänglig för Volvo EM90.
+
+- Med Bowers & Wilkins Sound System får du 21 högtalare med en maximal systemeffekt på 500 watt.
+
 
 Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 

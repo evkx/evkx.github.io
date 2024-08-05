@@ -181,7 +181,11 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 
 ### Lydsystem
 
-Du kan velge mellom to lydsystemer på HiPhi Y Performance. Med SONIC LINE SYSTEM får du 14 høyttalere med en maksimal systemeffekt på 600 watt. Med SONIC PRO SYSTEM får du 25 høyttalere med en maksimal systemeffekt på 2820 watt.
+Du kan velge mellom to lydsystemer på HiPhi Y Performance.
+
+- Med SONIC LINE SYSTEM får du 14 høyttalere med en maksimal systemeffekt på 600 watt.
+- Med SONIC PRO SYSTEM får du 25 høyttalere med en maksimal systemeffekt på 2820 watt.
+
 
 Modellen har 4 USB-C-tilkoblinger som standard.
 

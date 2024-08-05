@@ -186,7 +186,11 @@ De plus, avec le système de navigation embarqué un standard, vous obtenez l'ai
 
 ### Système audio
 
-Vous pouvez choisir entre deux systèmes audio sur le Cadillac ESCALADE IQ. Avec le AKG Studio audi System, vous obtenez 19 haut-parleurs avec une puissance système maximale de 1000 watts. Avec le AKG Studio Reference System, vous obtenez 40 haut-parleurs avec une puissance système maximale de 1000 watts.
+Vous pouvez choisir entre deux systèmes audio sur le Cadillac ESCALADE IQ.
+
+- Avec le AKG Studio audi System, vous obtenez 19 haut-parleurs avec une puissance système maximale de 1000 watts.
+- Avec le AKG Studio Reference System, vous obtenez 40 haut-parleurs avec une puissance système maximale de 1000 watts.
+
 
 Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 connexions USB-A en standard.
 

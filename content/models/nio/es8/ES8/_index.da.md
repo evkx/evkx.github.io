@@ -208,7 +208,11 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 ### Lydsystem
 
-Du kan vælge mellem to lydsystemer på Nio ES8. Med Surroundsystem får du syv højttalere med en maksimal systemeffekt på  watt. Med Premium sound system får du 12 højttalere med en maksimal systemeffekt på  watt.
+Du kan vælge mellem to lydsystemer på Nio ES8.
+
+- Med Surroundsystem får du syv højttalere med en maksimal systemeffekt på  watt.
+- Med Premium sound system får du 12 højttalere med en maksimal systemeffekt på  watt.
+
 
 Modellen har 3 USB-A-forbindelser som standard.
 

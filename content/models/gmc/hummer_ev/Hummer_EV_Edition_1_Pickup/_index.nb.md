@@ -171,7 +171,10 @@ I tillegg støtter GMC Hummer EV Edition 1 Pickup Android Auto og Apple CarPlay.
 
 ### Lydsystem
 
-Én type lydsystem er tilgjengelig for GMC Hummer EV Edition 1 Pickup. Med Bose Premium Sound System får du 14 høyttalere med en maksimal systemeffekt på 625 watt.
+Én type lydsystem er tilgjengelig for GMC Hummer EV Edition 1 Pickup.
+
+- Med Bose Premium Sound System får du 14 høyttalere med en maksimal systemeffekt på 625 watt.
+
 
 Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinger som standard.
 

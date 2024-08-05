@@ -209,7 +209,11 @@ Además, el Audi Q4 35 e-tron (GEN1) es compatible con Android Auto y Apple CarP
 
 ### Sistema de sonido
 
-Puedes elegir entre dos sistemas de sonido en el Audi Q4 35 e-tron (GEN1). Con el Audi Sound system, obtienes ocho parlantes con una salida máxima del sistema de 180 vatios. Con el Sonos Sound System, obtienes diez parlantes con una salida máxima del sistema de 580 vatios.
+Puedes elegir entre dos sistemas de sonido en el Audi Q4 35 e-tron (GEN1).
+
+- Con el Audi Sound system, obtienes ocho parlantes con una salida máxima del sistema de 180 vatios.
+- Con el Sonos Sound System, obtienes diez parlantes con una salida máxima del sistema de 580 vatios.
+
 
 El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 conexiones USB-C adicionales.
 

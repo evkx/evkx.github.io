@@ -165,7 +165,10 @@ Dessutom stöder MG Cyberster AWD Long Range Android Auto och Apple CarPlay. Den
 
 ### Ljudsystem
 
-En typ av ljudsystem är tillgänglig för MG Cyberster AWD Long Range. Med Bose Sound System får du sex högtalare med en maximal systemeffekt på 300 watt.
+En typ av ljudsystem är tillgänglig för MG Cyberster AWD Long Range.
+
+- Med Bose Sound System får du sex högtalare med en maximal systemeffekt på 300 watt.
+
 
 Modellen har 1 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutningar som standard.
 
