@@ -229,9 +229,12 @@ Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 Du kan velge mellom to typer frontlykter for Audi S6 Sportback e-tron.
 
 - **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
-- **LED Matrix frontlykter:** Tilgjengelig som et alternativ, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt, og optimaliserer belysningen ved å dempe spesifikke små områder foran.
+- **LED Matrix Frontlykter:** Tilgjengelig som en oppgradering, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan aktivere eller deaktivere individuelt. Dette optimaliserer belysningen ved selektivt å dempe spesifikke områder for å unngå å blende møtende trafikk. Kjørelysene (DRL) for dette alternativet har også flere LED-segmenter, som gjør at du kan tilpasse din foretrukne DRL-signatur. For økt sikkerhet inkluderer det hjørnelys som lyser opp siden når du svinger.
 
-Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+I tillegg har du to alternativer for baklykter:
+
+- Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
+- Valgfrie baklykter: Disse har OLED-teknologi, som gir forbedret belysning og et distinkt utseende.
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/headlights_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
 

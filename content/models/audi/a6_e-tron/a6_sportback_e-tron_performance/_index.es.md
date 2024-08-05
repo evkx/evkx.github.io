@@ -237,7 +237,7 @@ El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 cone
 Puedes elegir entre dos tipos de faros para el Audi A6 Sportback e-tron performance.
 
 - **Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
-- **Faros LED Matrix:** Disponibles como una opción, este sistema adaptativo divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente, optimizando la iluminación al atenuar áreas específicas al frente.
+- **Faros LED Matrix:** Disponibles como una mejora, este sistema adaptativo divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede activar o desactivar individualmente. Esto optimiza la iluminación al atenuar selectivamente áreas específicas para evitar deslumbrar al tráfico en sentido contrario. Las luces diurnas (DRL) para esta opción también cuentan con múltiples segmentos LED, lo que te permite personalizar tu firma DRL preferida. Para mayor seguridad, incluye luces de giro que iluminan el lateral al girar.
 
 Además, tienes dos opciones para las luces traseras:
 

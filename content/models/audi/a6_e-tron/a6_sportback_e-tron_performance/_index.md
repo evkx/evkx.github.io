@@ -237,7 +237,7 @@ The model has 2 USB-C connections as standard. As an option, you can get additio
 You can choose between two types of headlights for the Audi A6 Sportback e-tron performance.
 
 - **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
-- **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
+- **LED Matrix Headlights:**Available as an upgrade, this adaptive system divides the traditional headlight beam into dozens of smaller rays that the light controller can activate or deactivate individually. This optimizes lighting by selectively dimming specific areas to avoid dazzling oncoming traffic. The daytime running lights (DRL) for this option also feature multiple LED segments, allowing you to customize your preferred DRL signature. For enhanced safety, it includes corner lights that illuminate the side when turning.
 
 Additionally, you have two options for taillights:
 

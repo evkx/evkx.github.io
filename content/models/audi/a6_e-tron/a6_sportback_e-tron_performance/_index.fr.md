@@ -237,7 +237,7 @@ Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obt
 Vous pouvez choisir entre deux types de phares pour le Audi A6 Sportback e-tron performance.
 
 - **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
-- **Phares LED Matrix:** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement, optimisant ainsi l'éclairage en atténuant les petites zones spécifiques à l'avant.
+- **Phares LED Matrix:** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut activer ou désactiver individuellement. Cela optimise l'éclairage en atténuant sélectivement certaines zones pour éviter d'éblouir les conducteurs venant en sens inverse. Les feux de jour (DRL) pour cette option comportent également plusieurs segments LED, vous permettant de personnaliser votre signature DRL préférée. Pour une sécurité accrue, il comprend des feux de virage qui éclairent le côté lors des virages.
 
 De plus, vous avez deux options pour les feux arrière :
 

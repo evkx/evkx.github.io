@@ -241,9 +241,12 @@ Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderl
 Du kan vælge mellem to typer forlygter til Audi SQ6 e-tron.
 
 - **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
-- **LED Matrix forlygter:** Tilgængelige som en mulighed, dette adaptive system opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt, hvilket optimerer belysningen ved at dæmpe specifikke små områder foran.
+- **LED Matrix Forlygter:** Tilgængelige som en opgradering, dette adaptive system opdeler den traditionelle forlygtebjælke i dusinvis af mindre stråler, som lysstyringen kan aktivere eller deaktivere individuelt. Dette optimerer belysningen ved selektivt at dæmpe specifikke områder for at undgå at blænde modkørende trafik. Kørelysene (DRL) for denne mulighed har også flere LED-segmenter, hvilket giver dig mulighed for at tilpasse din foretrukne DRL-signatur. For øget sikkerhed inkluderer det drejelys, der oplyser siden, når du drejer.
 
-Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+Derudover har du to muligheder for baglygter:
+
+- Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+- Valgfrie baglygter: Disse har OLED-teknologi, hvilket giver forbedret lyseffekt og et karakteristisk look.
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/headlights_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 

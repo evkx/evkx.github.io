@@ -237,7 +237,7 @@ Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få yt
 Du kan välja mellan två typer av strålkastare för Audi A6 Sportback e-tron performance.
 
 - **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
-- **LED Matrix strålkastare:** Finns som ett alternativ, detta adaptiva system delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
+- **LED Matrix-strålkastare:** Tillgängliga som en uppgradering, detta adaptiva system delar upp den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan aktivera eller avaktivera individuellt. Detta optimerar belysningen genom att selektivt dämpa specifika områden för att undvika att blända mötande trafik. Dagsljuslamporna (DRL) för detta alternativ har också flera LED-segment, vilket gör att du kan anpassa din föredragna DRL-signatur. För ökad säkerhet inkluderar det hörnljus som lyser upp sidan när du svänger.
 
 Dessutom har du två alternativ för bakljus:
 
