@@ -126,8 +126,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Red/Black [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
 
 
-
-
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_r/frontseats_1_st.jpg" title="Lotus Emeya R" width="3000" height="1687"  >}}
 
 #### Asientos de la segunda fila
@@ -140,7 +138,6 @@ La opción standard es un banco de tres asientos con una división 40:20:40 dond
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 La opción second es [asientos ejecutivos gemelos](../../../../technology/seats/types/#twin-executive-seats). Además, las siguientes funcionalidades están disponibles.
-
 
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_r/secondrowseats_1_st.jpg" title="Lotus Emeya R" width="3000" height="1687"  >}}

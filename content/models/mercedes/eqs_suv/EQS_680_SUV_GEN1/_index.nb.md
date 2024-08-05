@@ -131,8 +131,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2001"  >}}
 
 #### Seter på andre rad

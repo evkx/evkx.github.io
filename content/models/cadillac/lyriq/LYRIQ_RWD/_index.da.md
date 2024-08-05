@@ -112,8 +112,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 - Gray [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/frontseats_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2700"  >}}
 
 #### Sæde på anden række
@@ -121,7 +119,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/secondrowseats_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2249"  >}}

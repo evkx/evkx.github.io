@@ -139,8 +139,6 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450_4matic_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC SUV" width="3000" height="1687"  >}}
 
 #### Säten på andra raden

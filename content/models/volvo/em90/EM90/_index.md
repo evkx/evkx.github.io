@@ -119,8 +119,6 @@ You can choose from 5 different materials/colors for this seat type.
 - Gray [leather upholstering](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/volvo/em90/em90/frontseats_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
 #### Second-row seat
@@ -206,9 +204,9 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/headlights_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}

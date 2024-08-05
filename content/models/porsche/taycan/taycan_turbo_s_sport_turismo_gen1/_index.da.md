@@ -145,8 +145,6 @@ Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 
-
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo_gen1/frontseats_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo (GEN1)" width="3000" height="2001"  >}}
 
 #### Sæder på anden række

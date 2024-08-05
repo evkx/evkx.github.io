@@ -119,8 +119,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 Du kan velge mellom 7 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/frontseats_1_st.jpg" title="BMW iX M60" width="3000" height="1999"  >}}
 
 #### Seter på andre rad

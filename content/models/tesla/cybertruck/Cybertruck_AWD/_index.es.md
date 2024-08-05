@@ -136,8 +136,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/frontseats_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila

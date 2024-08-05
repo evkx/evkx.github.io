@@ -181,7 +181,7 @@ One type of sound system is available for the DS 3 E-Tense.
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/headlights_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}

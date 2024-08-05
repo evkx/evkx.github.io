@@ -127,8 +127,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - Black/Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/frontseats_1_st.jpg" title="Citroën ë-C3 Aircross" width="3000" height="2000"  >}}
 
 #### Sæder på anden række

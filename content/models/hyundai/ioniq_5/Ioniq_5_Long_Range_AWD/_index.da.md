@@ -125,8 +125,6 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 - Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/frontseats_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 
 #### Sæde på anden række

@@ -107,8 +107,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - White/Blue [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/frontseats_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="2000"  >}}
 
 #### Sæde på anden række

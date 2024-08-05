@@ -125,8 +125,6 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_2wd/frontseats_1_st.jpg" title="Kia EV6 Standard Range 2WD" width="3000" height="1999"  >}}
 
 #### Asiento de segunda fila

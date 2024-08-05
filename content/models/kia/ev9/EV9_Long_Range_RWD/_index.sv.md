@@ -122,8 +122,6 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 - Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/frontseats_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
 
 #### Säten på andra raden

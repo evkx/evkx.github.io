@@ -124,7 +124,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/secondrowseats_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
 
 

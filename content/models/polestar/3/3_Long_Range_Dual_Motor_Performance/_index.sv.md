@@ -116,8 +116,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 - Gray [läderklädsel](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/frontseats_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2249"  >}}
 
 #### Säten på andra raden

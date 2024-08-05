@@ -166,8 +166,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
 
-
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/frontseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1686"  >}}
 
 #### Sièges de deuxième rangée

@@ -125,8 +125,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2001"  >}}
 
 #### Asiento de segunda fila

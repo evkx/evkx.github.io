@@ -119,8 +119,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/frontseats_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="1792"  >}}
 
 #### Sæde på anden række

@@ -142,8 +142,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/frontseats_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="2000"  >}}
 
 #### Seter på andre rad

@@ -123,8 +123,6 @@ You can choose from 2 different materials/colors for this seat type.
 - White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/frontseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2250"  >}}
 
 #### Second-row seat
@@ -190,9 +188,9 @@ The model has 4 USB-C connections as standard.
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/headlights_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}

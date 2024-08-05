@@ -112,8 +112,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - White/Blue [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1/frontseats_1_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 
 #### Seter på andre rad

@@ -141,8 +141,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 - Blue [stofpolstring](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/frontseats_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
@@ -150,7 +148,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}

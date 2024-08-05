@@ -121,8 +121,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/secondrowseats_1_st.jpg" title="BYD Seagull 38kWh" width="2300" height="1414"  >}}
 
 

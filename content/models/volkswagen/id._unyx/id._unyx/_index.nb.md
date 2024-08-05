@@ -119,8 +119,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/frontseats_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="1792"  >}}
 
 #### Seter på andre rad

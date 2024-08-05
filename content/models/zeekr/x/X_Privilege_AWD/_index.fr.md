@@ -107,8 +107,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 - White/Blue [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/frontseats_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée

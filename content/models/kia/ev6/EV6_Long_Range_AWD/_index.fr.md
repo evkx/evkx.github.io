@@ -125,8 +125,6 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 - Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/frontseats_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1999"  >}}
 
 #### Siège de deuxième rangée

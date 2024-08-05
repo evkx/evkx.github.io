@@ -117,8 +117,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 - Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/frontseats_1_st.jpg" title="Lancia Ypsilon" width="3000" height="1688"  >}}
 
 #### Seter på andre rad

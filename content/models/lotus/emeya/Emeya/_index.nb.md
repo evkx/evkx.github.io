@@ -126,8 +126,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Red/Black [polstring av mikrofiber/nappaskinn](../../../../technology/seats/materials/#nappaleather)
 
 
-
-
 {{< sitefiguresized thumb="models/lotus/emeya/emeya/frontseats_1_st.jpg" title="Lotus Emeya" width="3000" height="1687"  >}}
 
 #### Seter på andre rad
@@ -140,7 +138,6 @@ Alternativet standard er en tre-seters benk med en 40:20:40-del hvor du kan fold
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 Alternativet second er to [executive-seter](../../../../technology/seats/types/#twin-executive-seats). I tillegg er følgende funksjoner tilgjengelige.
-
 
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya/secondrowseats_1_st.jpg" title="Lotus Emeya" width="3000" height="1687"  >}}

@@ -124,8 +124,6 @@ Vous pouvez choisir parmi 7 différents matériaux/couleurs pour ce type de siè
 - Red [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1687"  >}}
 
 #### Siège de deuxième rangée

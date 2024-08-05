@@ -129,8 +129,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Beige [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/frontseats_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="1687"  >}}
 
 #### Säten på andra raden

@@ -110,8 +110,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/frontseats_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 
 #### Asiento de segunda fila

@@ -127,8 +127,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - Black/Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/frontseats_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 
 #### Seter på andre rad

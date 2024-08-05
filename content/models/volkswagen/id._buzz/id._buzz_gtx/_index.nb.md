@@ -138,8 +138,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Blue [stoffpolstring](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/frontseats_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="2010"  >}}
 
 #### Seter på andre rad
@@ -147,7 +145,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="2000"  >}}

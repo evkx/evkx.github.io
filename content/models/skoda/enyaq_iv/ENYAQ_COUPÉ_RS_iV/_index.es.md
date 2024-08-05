@@ -121,8 +121,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/frontseats_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" width="3000" height="2001"  >}}
 
 #### Asiento de segunda fila
@@ -130,7 +128,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_rs_iv/secondrowseats_1_st.jpg" title="SKODA ENYAQ COUPÉ RS iV" width="3000" height="2001"  >}}

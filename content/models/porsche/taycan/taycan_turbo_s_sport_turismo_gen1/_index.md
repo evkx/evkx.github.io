@@ -154,8 +154,6 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 You can choose from 4 different materials/colors for this seat type.
 
 
-
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo_gen1/frontseats_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo (GEN1)" width="3000" height="2001"  >}}
 
 #### Second-row seats
@@ -236,7 +234,7 @@ You can choose between three sound systems on the Porsche Taycan Turbo S Sport T
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo_gen1/headlights_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo (GEN1)" width="3000" height="2000"  >}}

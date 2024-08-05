@@ -133,8 +133,6 @@ Följande funktioner är tillgängliga på **ergoActive Top-Sport** sätet.
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/frontseats_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
 #### Säten på andra raden

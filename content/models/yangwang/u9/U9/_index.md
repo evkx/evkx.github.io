@@ -180,9 +180,9 @@ One type of sound system is available for the YangWang U9.
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/yangwang/u9/u9/headlights_1_st.jpg" title="YangWang U9" width="3000" height="2250"  >}}

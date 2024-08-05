@@ -152,8 +152,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Pl
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_sport_turismo_gen1/frontseats_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo (GEN1)" width="3000" height="2001"  >}}
 
 #### Asientos de la segunda fila

@@ -140,8 +140,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/frontseats_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="1999"  >}}
 
 #### Asiento de segunda fila

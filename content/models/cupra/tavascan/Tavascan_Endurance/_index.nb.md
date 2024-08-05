@@ -119,8 +119,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_endurance/frontseats_1_st.jpg" title="CUPRA Tavascan Endurance" width="3000" height="2250"  >}}
 
 #### Seter på andre rad

@@ -116,8 +116,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 - Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/frontseats_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2250"  >}}
 
 #### Sæde på anden række
@@ -125,7 +123,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/secondrowseats_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2000"  >}}

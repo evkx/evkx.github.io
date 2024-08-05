@@ -123,8 +123,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 
-
-
 {{< sitefiguresized thumb="models/byd/han/han/frontseats_1_st.jpg" title="BYD Han" width="1920" height="1156"  >}}
 
 #### Sæde på anden række

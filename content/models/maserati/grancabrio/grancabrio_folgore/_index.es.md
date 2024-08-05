@@ -126,8 +126,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/frontseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila

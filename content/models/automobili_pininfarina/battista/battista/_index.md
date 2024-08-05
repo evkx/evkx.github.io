@@ -180,9 +180,9 @@ One type of sound system is available for the Automobili Pininfarina Battista.
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/headlights_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="1999"  >}}

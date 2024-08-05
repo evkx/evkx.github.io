@@ -106,8 +106,6 @@ You can choose from 2 different materials/colors for this seat type.
 - Red [Alcantara/leatherette upholstering](../../../../technology/seats/materials/#alcantara)
 
 
-
-
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 
 
@@ -174,9 +172,9 @@ The model has 1 USB-C connections as standard. The model has 1 USB-A connections
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/headlights_1_st.jpg" title="MG Cyberster AWD Long Range" width="2800" height="1575"  >}}

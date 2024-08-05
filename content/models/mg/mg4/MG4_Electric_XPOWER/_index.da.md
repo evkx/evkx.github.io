@@ -108,8 +108,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 - Gray [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/frontseats_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
@@ -117,7 +115,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/secondrowseats_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}

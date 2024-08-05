@@ -123,8 +123,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 - Gray [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/frontseats_1_st.jpg" title="Renault Megane E-Tech Techno" width="1920" height="1080"  >}}
 
 #### Siège de deuxième rangée

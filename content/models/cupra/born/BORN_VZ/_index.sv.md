@@ -119,8 +119,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
-
-
 {{< sitefiguresized thumb="models/cupra/born/born_vz/frontseats_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="2191"  >}}
 
 #### Säten på andra raden

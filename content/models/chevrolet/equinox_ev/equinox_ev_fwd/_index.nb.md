@@ -113,8 +113,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 - Gray [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/frontseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="1999"  >}}
 
 #### Seter på andre rad

@@ -123,8 +123,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - White [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/frontseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2250"  >}}
 
 #### Säten på andra raden

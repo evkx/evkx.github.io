@@ -118,8 +118,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 - Beige [tygklädsel](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/frontseats_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
@@ -134,8 +132,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Brown [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Beige [tygklädsel](../../../../technology/seats/materials/#fabric)
-
-
 
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/secondrowseats_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}

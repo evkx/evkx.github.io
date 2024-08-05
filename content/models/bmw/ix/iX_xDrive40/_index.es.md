@@ -118,8 +118,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 Puedes elegir entre 7 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/frontseat_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1999"  >}}
 
 #### Asiento de segunda fila

@@ -106,8 +106,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - Red [Alcantara/kunst läderklädsel](../../../../technology/seats/materials/#alcantara)
 
 
-
-
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 
 

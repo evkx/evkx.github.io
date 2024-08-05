@@ -142,8 +142,6 @@ The following functionalities are available on the **multicontour** seat.
 You can choose from 5 different materials/colors for this seat type.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1687"  >}}
 
 #### Second-row seat
@@ -245,7 +243,7 @@ The model has 4 USB-C connections as standard. As an option, you can get additio
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced driver assistance systems
 

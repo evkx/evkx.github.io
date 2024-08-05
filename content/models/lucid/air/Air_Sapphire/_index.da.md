@@ -116,8 +116,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
-
-
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/frontseats_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2001"  >}}
 
 #### Sæde på anden række

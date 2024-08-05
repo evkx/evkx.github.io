@@ -138,8 +138,6 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/frontseats_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
 #### Säten på andra raden

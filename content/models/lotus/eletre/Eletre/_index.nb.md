@@ -126,8 +126,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Red/Black [polstring av mikrofiber/nappaskinn](../../../../technology/seats/materials/#nappaleather)
 
 
-
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/frontseats_1_st.jpg" title="Lotus Eletre" width="3000" height="1783"  >}}
 
 #### Seter på andre rad
@@ -135,7 +133,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/secondrowseats_1_st.jpg" title="Lotus Eletre" width="3000" height="1856"  >}}

@@ -116,8 +116,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s_gen1/frontseats_1_st.jpg" title="Volkswagen ID.3 Pro S (GEN1)" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
@@ -125,7 +123,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s_gen1/secondrowseats_1_st.jpg" title="Volkswagen ID.3 Pro S (GEN1)" width="3000" height="2000"  >}}

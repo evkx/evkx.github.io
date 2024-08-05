@@ -181,9 +181,9 @@ One type of sound system is available for the XPENG P7 AWD Performance.
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced driver assistance systems
 

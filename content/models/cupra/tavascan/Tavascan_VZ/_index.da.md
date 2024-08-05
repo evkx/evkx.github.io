@@ -119,8 +119,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 
-
-
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_vz/frontseats_1_st.jpg" title="CUPRA Tavascan VZ" width="3000" height="2250"  >}}
 
 #### Sæde på anden række

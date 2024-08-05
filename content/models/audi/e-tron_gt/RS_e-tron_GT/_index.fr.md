@@ -161,8 +161,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **sport pro**.
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
 
-
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/frontseats_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 

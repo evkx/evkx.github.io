@@ -123,8 +123,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 - White [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/frontseats_1_st.jpeg" title="Tesla Model 3" width="1920" height="1080"  >}}
 
 #### Seter på andre rad

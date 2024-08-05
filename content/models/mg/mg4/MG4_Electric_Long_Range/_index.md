@@ -108,8 +108,6 @@ You can choose from 2 different materials/colors for this seat type.
 - Gray [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/frontseats_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -117,7 +115,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/secondrowseats_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2001"  >}}
@@ -183,9 +180,9 @@ The model has 1 USB-C connections as standard. The model has 1 USB-A connections
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/headlights_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2000"  >}}

@@ -114,8 +114,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 - Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/frontseats_1_st.jpg" title="MG ZS EV Long Range" width="3000" height="1999"  >}}
 
 #### Seter på andre rad
@@ -123,7 +121,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/secondrowseats_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1706"  >}}

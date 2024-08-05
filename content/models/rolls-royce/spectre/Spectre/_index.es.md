@@ -124,8 +124,6 @@ Puedes elegir entre 7 diferentes materiales/colores para este tipo de asiento.
 - Red [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1687"  >}}
 
 #### Asiento de segunda fila

@@ -108,8 +108,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 - Beige [polstring av Alcantara/kunstskinn](../../../../technology/seats/materials/#alcantara)
 
 
-
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/frontseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1999"  >}}
 
 #### Seter på andre rad
@@ -117,7 +115,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/secondrowseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="2256"  >}}

@@ -140,8 +140,6 @@ Følgende funktioner er tilgængelige på **multicontour** sædet.
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/frontseats_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="1999"  >}}
 
 #### Sæde på anden række

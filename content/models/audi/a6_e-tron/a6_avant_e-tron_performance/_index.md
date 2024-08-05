@@ -237,14 +237,13 @@ The model has 2 USB-C connections as standard. As an option, you can get additio
 
 You can choose between two types of headlights for the Audi A6 Avant e-tron performance.
 
-- The standard headlights use LED technology.
-- Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+- **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
+- **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-In addition, you can choose between two types of taillights.
+Additionally, you have two options for taillights:
 
-- The standard taillights use LED technology.
+- Standard Taillights use LED technology, ensuring visibility and efficiency.
 - The standard taillights use OLED technology.
-
 
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}

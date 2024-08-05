@@ -116,8 +116,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 - Gray [læderpolstring](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/frontseats_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
 #### Sæde på anden række

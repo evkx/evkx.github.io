@@ -121,8 +121,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 - White [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/frontseats_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2256"  >}}
 
 #### Sæde på anden række

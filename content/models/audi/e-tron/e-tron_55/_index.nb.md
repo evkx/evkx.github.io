@@ -201,8 +201,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55/frontseats_1_st.jpg" title="Audi e-tron 55" width="3000" height="1999"  >}}
 
 #### Seter på andre rad

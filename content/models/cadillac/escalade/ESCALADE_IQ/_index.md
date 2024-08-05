@@ -114,8 +114,6 @@ You can choose from 1 different materials/colors for this seat type.
 - Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
 #### Second-row seat
@@ -196,9 +194,9 @@ The model has 2 USB-C connections as standard. The model has 2 USB-A connections
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced driver assistance systems
 

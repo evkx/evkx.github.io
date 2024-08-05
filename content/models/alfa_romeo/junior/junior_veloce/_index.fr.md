@@ -116,8 +116,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 - Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/frontseats_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2250"  >}}
 
 #### Siège de deuxième rangée
@@ -125,7 +123,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/secondrowseats_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2000"  >}}

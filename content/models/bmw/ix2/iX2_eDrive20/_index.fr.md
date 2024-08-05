@@ -138,8 +138,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
 
-
-
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/frontseats_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2250"  >}}
 
 #### Siège de deuxième rangée

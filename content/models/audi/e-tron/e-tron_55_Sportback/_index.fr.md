@@ -201,8 +201,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
 
-
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/frontseats_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="2249"  >}}
 
 #### Siège de deuxième rangée

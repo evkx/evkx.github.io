@@ -114,8 +114,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - Beige [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
 #### Säten på andra raden

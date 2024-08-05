@@ -128,8 +128,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 - Brown [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/frontseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 #### Siège de deuxième rangée

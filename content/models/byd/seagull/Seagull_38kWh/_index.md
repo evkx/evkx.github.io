@@ -121,8 +121,6 @@ The following functionalities are available on the **standard** seat.
 You can choose from 1 different materials/colors for this seat type.
 
 
-
-
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/secondrowseats_1_st.jpg" title="BYD Seagull 38kWh" width="2300" height="1414"  >}}
 
 
@@ -182,9 +180,9 @@ The model has 1 USB-A connections as standard.
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced driver assistance systems
 

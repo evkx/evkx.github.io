@@ -140,8 +140,6 @@ The following functionalities are available on the **standard** seat.
 You can choose from 3 different materials/colors for this seat type.
 
 
-
-
 {{< sitefiguresized thumb="models/nio/el7/el7/frontseats_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
 
 #### Second-row seat
@@ -212,9 +210,9 @@ The model has 2 USB-C connections as standard. The model has 2 USB-A connections
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/nio/el7/el7/headlights_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}

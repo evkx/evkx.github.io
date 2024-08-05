@@ -121,8 +121,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - White [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/frontseats_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2256"  >}}
 
 #### Asiento de segunda fila

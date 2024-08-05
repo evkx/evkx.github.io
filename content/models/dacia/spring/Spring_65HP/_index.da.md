@@ -108,8 +108,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - Black [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/frontseats_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
 #### Sæde på anden række

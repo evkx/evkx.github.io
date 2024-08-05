@@ -110,8 +110,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 - Gray [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
 
 #### Seter på andre rad

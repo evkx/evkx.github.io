@@ -117,8 +117,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 - Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/frontseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor" width="3000" height="1687"  >}}
 
 #### Siège de deuxième rangée

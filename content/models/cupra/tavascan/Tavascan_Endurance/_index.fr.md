@@ -119,8 +119,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
 
-
-
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_endurance/frontseats_1_st.jpg" title="CUPRA Tavascan Endurance" width="3000" height="2250"  >}}
 
 #### Siège de deuxième rangée

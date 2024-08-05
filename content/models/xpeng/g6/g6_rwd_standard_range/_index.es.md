@@ -114,8 +114,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - Beige [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/frontseats_1_st.jpg" title="XPENG G6 RWD Standard Range" width="1920" height="1080"  >}}
 
 #### Asiento de segunda fila

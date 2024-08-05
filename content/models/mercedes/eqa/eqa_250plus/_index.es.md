@@ -138,8 +138,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/frontseats_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
 #### Asiento de segunda fila

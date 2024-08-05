@@ -140,8 +140,6 @@ You can choose from 5 different materials/colors for this seat type.
 - Blue [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/frontseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2197"  >}}
 
 #### Second-row seats
@@ -230,10 +228,10 @@ The model has 5 USB-C connections as standard.
 
 You can choose between two types of headlights for the Volkswagen ID. Buzz Pro LWB.
 
-- The standard headlights use LED technology.
-- Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+- **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
+- **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/headlights_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}

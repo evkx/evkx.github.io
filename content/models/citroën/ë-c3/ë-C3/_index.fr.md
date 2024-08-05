@@ -122,8 +122,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 - Black/Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/frontseats_1_st.jpg" title="Citroën ë-C3" width="3000" height="1759"  >}}
 
 #### Sièges de deuxième rangée
@@ -145,8 +143,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Advanced Comfort
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 - Black/Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
-
-
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}

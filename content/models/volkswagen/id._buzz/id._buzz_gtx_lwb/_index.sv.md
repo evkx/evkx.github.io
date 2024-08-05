@@ -137,8 +137,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 - Blue [tygklädsel](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/frontseats_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2010"  >}}
 
 #### Säten på andra raden

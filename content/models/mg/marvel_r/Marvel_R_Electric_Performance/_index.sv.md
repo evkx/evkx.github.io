@@ -108,8 +108,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 - Beige [Alcantara/kunst läderklädsel](../../../../technology/seats/materials/#alcantara)
 
 
-
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/frontseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1999"  >}}
 
 #### Säten på andra raden
@@ -117,7 +115,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/secondrowseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="2256"  >}}

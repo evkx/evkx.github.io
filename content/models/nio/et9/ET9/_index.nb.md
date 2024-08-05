@@ -122,8 +122,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/nio/et9/et9/frontseats_1_st.jpg" title="Nio ET9" width="1170" height="759"  >}}
 
 #### Seter på andre rad

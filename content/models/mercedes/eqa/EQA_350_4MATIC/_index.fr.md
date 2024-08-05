@@ -138,8 +138,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée

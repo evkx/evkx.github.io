@@ -134,8 +134,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 - Blue [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/frontseats_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 #### Asiento de segunda fila

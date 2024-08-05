@@ -124,8 +124,6 @@ Du kan vælge mellem 7 forskellige materialer/farver til denne sædetype.
 - Red [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1687"  >}}
 
 #### Sæde på anden række

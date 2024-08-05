@@ -180,8 +180,6 @@ Du kan välja mellan 21 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/frontseats_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2121"  >}}
 
 #### Säten på andra raden

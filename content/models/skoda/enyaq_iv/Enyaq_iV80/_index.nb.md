@@ -138,8 +138,6 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80/frontseats_1_st.jpg" title="SKODA Enyaq iV80" width="3000" height="1999"  >}}
 
 #### Seter på andre rad
@@ -147,7 +145,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80/secondrowseats_1_st.jpg" title="SKODA Enyaq iV80" width="3000" height="1999"  >}}

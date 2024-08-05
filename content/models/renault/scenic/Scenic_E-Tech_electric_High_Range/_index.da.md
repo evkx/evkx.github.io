@@ -119,8 +119,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - Gray [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric_high_range/frontseats_1_st.jpg" title="Renault Scenic E-Tech electric High Range" width="3000" height="2001"  >}}
 
 #### Sæde på anden række

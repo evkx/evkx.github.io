@@ -117,8 +117,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 - Beige [stoffpolstring](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/frontseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
@@ -133,8 +131,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Brown [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Beige [stoffpolstring](../../../../technology/seats/materials/#fabric)
-
-
 
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/secondrowseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}

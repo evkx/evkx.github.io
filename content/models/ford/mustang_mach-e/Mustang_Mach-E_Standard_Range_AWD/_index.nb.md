@@ -115,8 +115,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Standard Range AWD" width="3000" height="1999"  >}}
 
 #### Seter på andre rad

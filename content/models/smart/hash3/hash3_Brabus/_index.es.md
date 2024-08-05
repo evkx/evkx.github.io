@@ -110,8 +110,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - White/Blue [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/frontseats_1_st.jpg" title="Smart #3 Brabus" width="1536" height="864"  >}}
 
 #### Asiento de segunda fila

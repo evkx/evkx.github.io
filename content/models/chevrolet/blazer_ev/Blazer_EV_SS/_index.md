@@ -110,8 +110,6 @@ You can choose from 2 different materials/colors for this seat type.
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
 
 #### Second-row seat
@@ -183,9 +181,9 @@ The model has 5 USB-C connections as standard.
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/headlights_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}

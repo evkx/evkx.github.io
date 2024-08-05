@@ -126,8 +126,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 - Red/Black [polstring af mikrofiber/nappalæder](../../../../technology/seats/materials/#nappalæder)
 
 
-
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/frontseats_1_st.jpg" title="Lotus Eletre R" width="3000" height="1783"  >}}
 
 #### Sæde på anden række

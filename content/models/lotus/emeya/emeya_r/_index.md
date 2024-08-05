@@ -126,8 +126,6 @@ You can choose from 5 different materials/colors for this seat type.
 - Red/Black [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
 
 
-
-
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_r/frontseats_1_st.jpg" title="Lotus Emeya R" width="3000" height="1687"  >}}
 
 #### Second-row seats
@@ -140,7 +138,6 @@ The standard option is a three-seat bench with a 40:20:40 split where you can fo
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 The second option is twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available.
-
 
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_r/secondrowseats_1_st.jpg" title="Lotus Emeya R" width="3000" height="1687"  >}}
@@ -210,7 +207,7 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced driver assistance systems
 

@@ -197,8 +197,6 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 
-
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/frontseats_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
 #### Säten på andra raden

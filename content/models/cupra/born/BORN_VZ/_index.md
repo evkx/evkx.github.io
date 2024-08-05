@@ -119,8 +119,6 @@ The following functionalities are available on the **standard** seat.
 You can choose from 3 different materials/colors for this seat type.
 
 
-
-
 {{< sitefiguresized thumb="models/cupra/born/born_vz/frontseats_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="2191"  >}}
 
 #### Second-row seat
@@ -190,9 +188,9 @@ The model has 4 USB-C connections as standard.
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced driver assistance systems
 

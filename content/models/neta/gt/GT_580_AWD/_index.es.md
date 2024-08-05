@@ -107,8 +107,6 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/frontseats_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="1081"  >}}
 
 #### Asiento de segunda fila

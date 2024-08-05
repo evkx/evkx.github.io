@@ -124,8 +124,6 @@ Du kan välja mellan 7 olika material/färger för denna sitstyp.
 - Red [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1687"  >}}
 
 #### Säten på andra raden

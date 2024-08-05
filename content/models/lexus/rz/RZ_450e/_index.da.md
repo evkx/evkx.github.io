@@ -115,8 +115,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
-
-
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/frontseats_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
 #### Sæde på anden række

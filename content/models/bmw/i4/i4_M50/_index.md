@@ -180,8 +180,6 @@ You can choose from 21 different materials/colors for this seat type.
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/frontseats_1_st.jpg" title="BMW i4 M50" width="3000" height="2121"  >}}
 
 #### Second-row seat
@@ -253,10 +251,10 @@ The model has 4 USB-C connections as standard.
 
 You can choose between two types of headlights for the BMW i4 M50.
 
-- The standard headlights use LED technology.
-- Headlights based on LED Matrix with Laser technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+- **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
+- **LED Matrix Headlights with Laser Technology:** Also available as an option, these headlights combine the adaptive features of the LED Matrix system with laser technology for enhanced brightness and range, offering superior illumination and safety.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced driver assistance systems
 

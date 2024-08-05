@@ -135,8 +135,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Pl
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt/frontseats_1_st.jpg" title="Porsche Taycan Turbo GT" width="3000" height="1687"  >}}
 
 #### Asientos de la segunda fila

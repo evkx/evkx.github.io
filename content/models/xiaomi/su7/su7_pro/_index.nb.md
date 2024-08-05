@@ -120,8 +120,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 - Purple [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/frontseats_1_st.jpg" title="Xiaomi SU7 Pro" width="1760" height="1000"  >}}
 
 #### Seter på andre rad

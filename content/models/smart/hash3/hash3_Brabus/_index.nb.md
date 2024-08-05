@@ -110,8 +110,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - White/Blue [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/frontseats_1_st.jpg" title="Smart #3 Brabus" width="1536" height="864"  >}}
 
 #### Seter på andre rad

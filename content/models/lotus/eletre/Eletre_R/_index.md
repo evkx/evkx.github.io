@@ -126,8 +126,6 @@ You can choose from 5 different materials/colors for this seat type.
 - Red/Black [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
 
 
-
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/frontseats_1_st.jpg" title="Lotus Eletre R" width="3000" height="1783"  >}}
 
 #### Second-row seat
@@ -207,7 +205,7 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/headlights_1_st.jpg" title="Lotus Eletre R" width="3000" height="2000"  >}}

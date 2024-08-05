@@ -108,8 +108,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/frontseats_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
@@ -117,7 +115,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/secondrowseats_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2001"  >}}

@@ -138,8 +138,6 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/frontseats_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
 
 #### Seter på andre rad

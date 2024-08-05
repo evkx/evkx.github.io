@@ -249,7 +249,6 @@ Además, puedes elegir entre dos tipos de luces traseras.
 - lights.taillight.technology.option.oledled
 
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2250"  >}}
 
 ## Sistemas avanzados de asistencia al conductor

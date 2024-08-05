@@ -145,8 +145,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **sport**.
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
 
-
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/frontseats_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="1998"  >}}
 
 #### Sièges de deuxième rangée
@@ -157,7 +155,6 @@ L'option standard est une banquette à trois places avec une séparation 60:40 o
 
 
 L'option second est une banquette à trois places avec une séparation 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/secondrowseats_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2000"  >}}
@@ -234,7 +231,6 @@ De plus, vous pouvez choisir entre deux types de feux arrière.
 
 - lights.taillight.technology.option.led
 - lights.taillight.technology.option.led
-
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/headlights_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2003"  >}}

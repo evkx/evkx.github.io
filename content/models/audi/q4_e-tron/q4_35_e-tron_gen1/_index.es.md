@@ -139,8 +139,6 @@ Las siguientes funcionalidades están disponibles en el asiento **sport**.
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron_gen1/frontseats_1_st.jpg" title="Audi Q4 35 e-tron (GEN1)" width="3000" height="1998"  >}}
 
 #### Asientos de la segunda fila
@@ -151,7 +149,6 @@ La opción standard es un banco de tres asientos con una división 60:40 donde p
 
 
 La opción second es un banco de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron_gen1/secondrowseats_1_st.jpg" title="Audi Q4 35 e-tron (GEN1)" width="3000" height="2000"  >}}
@@ -228,7 +225,6 @@ Además, puedes elegir entre dos tipos de luces traseras.
 
 - lights.taillight.technology.option.led
 - lights.taillight.technology.option.led
-
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron_gen1/headlights_1_st.jpg" title="Audi Q4 35 e-tron (GEN1)" width="3000" height="2003"  >}}

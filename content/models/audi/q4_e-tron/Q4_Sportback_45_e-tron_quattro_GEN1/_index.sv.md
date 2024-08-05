@@ -141,8 +141,6 @@ Följande funktioner är tillgängliga på **sport** sätet.
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 
-
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/frontseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2001"  >}}
 
 #### Säten på andra raden
@@ -153,7 +151,6 @@ Alternativet standard är en tresitssbänk med en 60:40-sektion där du kan vika
 
 
 Alternativet second är en tresitssbänk med en 40:20:40-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2001"  >}}
@@ -230,7 +227,6 @@ Dessutom kan du välja mellan två typer av bakljus.
 
 - lights.taillight.technology.option.led
 - lights.taillight.technology.option.led
-
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/headlights_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2000"  >}}

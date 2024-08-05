@@ -116,8 +116,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 Du kan vælge mellem 7 forskellige materialer/farver til denne sædetype.
 
 
-
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/frontseat_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1999"  >}}
 
 #### Sæde på anden række

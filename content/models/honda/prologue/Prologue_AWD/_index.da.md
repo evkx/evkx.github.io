@@ -125,7 +125,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/secondrowseats_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
 
 

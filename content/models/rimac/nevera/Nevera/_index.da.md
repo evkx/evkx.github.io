@@ -122,8 +122,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - Black [Alcantara polstring](../../../../technology/seats/materials/#alcantara)
 
 
-
-
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/frontseats_1_st.jpg" title="Rimac Nevera" width="3000" height="2001"  >}}
 
 

@@ -116,8 +116,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s_gen1/frontseats_1_st.jpg" title="Volkswagen ID.3 Pro S (GEN1)" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
@@ -125,7 +123,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s_gen1/secondrowseats_1_st.jpg" title="Volkswagen ID.3 Pro S (GEN1)" width="3000" height="2000"  >}}

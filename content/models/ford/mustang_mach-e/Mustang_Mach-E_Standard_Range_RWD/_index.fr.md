@@ -115,8 +115,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="1999"  >}}
 
 #### Siège de deuxième rangée

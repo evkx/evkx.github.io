@@ -133,8 +133,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **ergoActive Top-S
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/frontseats_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée

@@ -115,8 +115,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_awd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Standard Range AWD" width="3000" height="1999"  >}}
 
 #### Asiento de segunda fila

@@ -116,8 +116,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
-
-
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/frontseats_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2001"  >}}
 
 #### Säten på andra raden

@@ -139,8 +139,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="1687"  >}}
 
 #### Seter på andre rad

@@ -118,8 +118,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 
 
-
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/frontseats_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="2001"  >}}
 
 #### Siège de deuxième rangée

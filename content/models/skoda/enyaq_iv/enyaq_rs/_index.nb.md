@@ -118,8 +118,6 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/frontseats_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="2001"  >}}
 
 #### Seter på andre rad

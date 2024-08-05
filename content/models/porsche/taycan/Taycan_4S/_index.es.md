@@ -166,8 +166,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Pl
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/frontseats_1_st.jpg" title="Porsche Taycan 4S" width="2048" height="1536"  >}}
 
 #### Asientos de la segunda fila

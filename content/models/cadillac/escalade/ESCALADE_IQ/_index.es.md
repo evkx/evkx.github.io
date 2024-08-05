@@ -114,8 +114,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - Beige [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
 #### Asiento de segunda fila

@@ -127,8 +127,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 - Red/Black [revêtement en microfibre/cuir nappa](../../../../technology/seats/materials/#nappaleather)
 
 
-
-
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/frontseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
 #### Sièges de deuxième rangée
@@ -141,7 +139,6 @@ L'option standard est une banquette à trois places avec une séparation 40:20:4
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 L'option second est double [sièges exécutifs](../../../../technology/seats/types/#twin-executive-seats). De plus, les fonctionnalités suivantes sont disponibles.
-
 
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/secondrowseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}

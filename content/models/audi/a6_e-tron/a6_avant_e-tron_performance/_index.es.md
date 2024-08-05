@@ -246,7 +246,6 @@ Además, puedes elegir entre dos tipos de luces traseras.
 - Además, las luces traseras estándar utilizan tecnología OLED.
 
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
 ## Sistemas avanzados de asistencia al conductor

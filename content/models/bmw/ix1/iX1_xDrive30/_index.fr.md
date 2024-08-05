@@ -138,8 +138,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
 
-
-
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/frontseats_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
 
 #### Siège de deuxième rangée

@@ -119,8 +119,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - Beige [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/frontseats_1_st.jpeg" title="XPENG G9 AWD Performance" width="3000" height="2250"  >}}
 
 #### Asiento de segunda fila

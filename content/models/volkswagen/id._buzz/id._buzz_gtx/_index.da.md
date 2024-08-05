@@ -138,8 +138,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 - Blue [stofpolstring](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/frontseats_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="2010"  >}}
 
 #### Sæde på anden række
@@ -147,7 +145,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="2000"  >}}

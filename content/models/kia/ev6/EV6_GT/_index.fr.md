@@ -115,8 +115,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 - Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 #### Siège de deuxième rangée

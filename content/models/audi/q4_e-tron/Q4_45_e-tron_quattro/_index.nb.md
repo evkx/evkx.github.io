@@ -139,8 +139,6 @@ Følgende funksjoner er tilgjengelige på **sport** setet.
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="1998"  >}}
 
 #### Seter på andre rad
@@ -151,7 +149,6 @@ Alternativet standard er en tre-seters benk med en 60:40-del hvor du kan folde h
 
 
 Alternativet second er en tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="2000"  >}}
@@ -228,7 +225,6 @@ I tillegg kan du velge mellom to typer baklys.
 
 - lights.taillight.technology.option.led
 - lights.taillight.technology.option.led
-
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 45 e-tron quattro" width="3000" height="2003"  >}}

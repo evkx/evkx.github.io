@@ -119,8 +119,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 - Beige [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/frontseats_1_st.jpeg" title="XPENG G9 AWD Performance" width="3000" height="2250"  >}}
 
 #### Sæde på anden række

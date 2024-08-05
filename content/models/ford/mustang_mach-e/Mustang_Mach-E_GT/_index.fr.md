@@ -115,8 +115,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 - Black [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/frontseats_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée

@@ -126,8 +126,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Red/Black [polstring av mikrofiber/nappaskinn](../../../../technology/seats/materials/#nappaleather)
 
 
-
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/frontseats_1_st.jpg" title="Lotus Eletre R" width="3000" height="1783"  >}}
 
 #### Seter på andre rad

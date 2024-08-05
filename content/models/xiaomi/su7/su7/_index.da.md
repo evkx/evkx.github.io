@@ -120,8 +120,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 - Purple [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/frontseats_1_st.jpg" title="Xiaomi SU7" width="1760" height="1000"  >}}
 
 #### Sæde på anden række

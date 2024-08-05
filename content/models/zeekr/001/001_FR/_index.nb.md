@@ -116,8 +116,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Gray [skinntrekk](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/frontseats_1_st.jpg" title="Zeekr 001 FR" width="3000" height="2250"  >}}
 
 #### Seter på andre rad

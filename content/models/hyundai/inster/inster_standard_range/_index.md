@@ -118,8 +118,6 @@ You can choose from 3 different materials/colors for this seat type.
 - Beige [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/frontseats_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -134,8 +132,6 @@ You can choose from 3 different materials/colors for this seat type.
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Brown [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Beige [fabric upholstering](../../../../technology/seats/materials/#fabric)
-
-
 
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/secondrowseats_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
@@ -199,9 +195,9 @@ The model has 4 USB-C connections as standard.
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/headlights_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}

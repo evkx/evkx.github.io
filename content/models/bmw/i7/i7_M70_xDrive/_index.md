@@ -120,8 +120,6 @@ The following functionalities are available on the **standard** seat.
 You can choose from 7 different materials/colors for this seat type.
 
 
-
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/frontseats_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2001"  >}}
 
 #### Second-row seats
@@ -202,10 +200,10 @@ The model has 6 USB-C connections as standard.
 
 You can choose between two types of headlights for the BMW i7 M70 xDrive.
 
-- The standard headlights use LED technology.
-- Headlights based on LED Matrix with Laser technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+- **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
+- **LED Matrix Headlights with Laser Technology:** Also available as an option, these headlights combine the adaptive features of the LED Matrix system with laser technology for enhanced brightness and range, offering superior illumination and safety.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/headlights_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2001"  >}}

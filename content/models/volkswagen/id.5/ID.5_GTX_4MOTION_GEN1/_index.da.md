@@ -137,8 +137,6 @@ Følgende funktioner er tilgængelige på **ergoActive Top-Sport** sædet.
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion_gen1/frontseats_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
@@ -146,7 +144,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion_gen1/secondrowseats_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION (GEN1)" width="3000" height="2061"  >}}

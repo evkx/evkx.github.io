@@ -117,8 +117,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 - Beige [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/frontseats_2_st.jpg" title="Fisker Ocean Sport" width="3000" height="1687"  >}}
 
 #### Seter på andre rad

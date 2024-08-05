@@ -119,8 +119,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Gray [ullklädsel](../../../../technology/seats/materials/#wool)
 
 
-
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/frontseats_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
 #### Säten på andra raden

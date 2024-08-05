@@ -139,8 +139,6 @@ Følgende funktioner er tilgængelige på **multicontour** sædet.
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_300/frontseats_1_st.jpg" title="Mercedes-EQ EQE 300" width="3000" height="2000"  >}}
 
 #### Sæde på anden række

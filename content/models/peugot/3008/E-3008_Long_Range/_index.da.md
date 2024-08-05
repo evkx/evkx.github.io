@@ -121,8 +121,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 - Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/frontseats_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="2250"  >}}
 
 #### Sæde på anden række

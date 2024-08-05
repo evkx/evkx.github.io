@@ -116,8 +116,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Gray [skinntrekk](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor/frontseats_1_st.jpg" title="Polestar 3 Long Range Dual Motor" width="3000" height="2249"  >}}
 
 #### Seter på andre rad

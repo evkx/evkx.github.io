@@ -120,8 +120,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Purple [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/frontseats_1_st.jpg" title="Xiaomi SU7 Pro" width="1760" height="1000"  >}}
 
 #### Asiento de segunda fila

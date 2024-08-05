@@ -122,8 +122,6 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 - Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/frontseats_1_st.jpg" title="Genesis GV60 2WD" width="1500" height="1090"  >}}
 
 #### Seter på andre rad

@@ -123,8 +123,6 @@ The following functionalities are available on the **standard** seat.
 You can choose from 3 different materials/colors for this seat type.
 
 
-
-
 {{< sitefiguresized thumb="models/byd/han/han/frontseats_1_st.jpg" title="BYD Han" width="1920" height="1156"  >}}
 
 #### Second-row seat
@@ -200,9 +198,9 @@ The model has 1 USB-C connections as standard. The model has 5 USB-A connections
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/byd/han/han/headlights_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}

@@ -195,8 +195,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_50_e-tron/frontseats_1_st.jpg" title="Audi Q8 50 e-tron" width="3000" height="2249"  >}}
 
 #### Seter på andre rad

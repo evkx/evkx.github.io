@@ -127,7 +127,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 
-
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_standard_range/secondrowseats_1_st.jpg" title="Tesla Model X Standard Range" width="3000" height="2000"  >}}
 
 #### Seter på tredje rad

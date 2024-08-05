@@ -109,8 +109,6 @@ Følgende funksjoner er tilgjengelige på **** setet.
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor/frontseats_1_st.jpg" title="Volvo EX40 Single Motor" width="1920" height="1080"  >}}
 
 #### Seter på andre rad

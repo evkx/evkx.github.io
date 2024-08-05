@@ -195,8 +195,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
 
-
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_55_e-tron/frontseats_1_st.jpg" title="Audi Q8 55 e-tron" width="3000" height="2249"  >}}
 
 #### Siège de deuxième rangée

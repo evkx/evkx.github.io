@@ -189,9 +189,9 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/lucid/air/air_pure/headlights_1_st.jpg" title="Lucid Air Pure" width="2000" height="1334"  >}}

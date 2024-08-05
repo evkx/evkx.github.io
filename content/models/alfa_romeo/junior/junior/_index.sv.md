@@ -116,8 +116,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/frontseats_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2250"  >}}
 
 #### Säten på andra raden
@@ -125,7 +123,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/secondrowseats_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2000"  >}}

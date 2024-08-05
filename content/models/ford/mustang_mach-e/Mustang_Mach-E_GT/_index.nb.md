@@ -115,8 +115,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - Black [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/frontseats_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 
 #### Seter på andre rad

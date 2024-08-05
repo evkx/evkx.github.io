@@ -133,8 +133,6 @@ Følgende funksjoner er tilgjengelige på **ergoActive Top-Sport** setet.
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro_s/frontseats_1_st.jpg" title="Volkswagen ID.7 Tourer Pro S" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
@@ -142,7 +140,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro_s/secondrowseats_1_st.jpg" title="Volkswagen ID.7 Tourer Pro S" width="3000" height="2000"  >}}

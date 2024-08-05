@@ -121,8 +121,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - White [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/frontseats_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2256"  >}}
 
 #### Säten på andra raden

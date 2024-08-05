@@ -108,8 +108,6 @@ You can choose from 3 different materials/colors for this seat type.
 - Beige [Alcantara/leatherette upholstering](../../../../technology/seats/materials/#alcantara)
 
 
-
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/frontseats_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1999"  >}}
 
 #### Second-row seat
@@ -117,7 +115,6 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/secondrowseats_1_st.jpg" title="MG Marvel R Electric" width="3000" height="2256"  >}}
@@ -183,9 +180,9 @@ The model has 4 USB-A connections as standard.
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/headlights_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1701"  >}}

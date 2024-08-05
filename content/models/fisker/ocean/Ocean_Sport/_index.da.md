@@ -117,8 +117,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 - Beige [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/frontseats_2_st.jpg" title="Fisker Ocean Sport" width="3000" height="1687"  >}}
 
 #### Sæde på anden række

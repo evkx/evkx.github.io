@@ -147,8 +147,6 @@ The following functionalities are available on the **sport** seat.
 You can choose from 4 different materials/colors for this seat type.
 
 
-
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/frontseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2001"  >}}
 
 #### Second-row seats
@@ -159,7 +157,6 @@ The standard option is a three-seat bench with a 60:40 split where you can fold 
 
 
 The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2001"  >}}
@@ -229,14 +226,13 @@ The model has 2 USB-C connections as standard. As an option, you can get additio
 
 You can choose between two types of headlights for the Audi Q4 Sportback 45 e-tron quattro (GEN1).
 
-- The standard headlights use LED technology.
+- **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 - Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection.
 
-In addition, you can choose between two types of taillights.
+Additionally, you have two options for taillights:
 
 - The standard taillight uses LED technology and offers two distinctive lights, including one reversing light.
 - The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights.
-
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/headlights_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2000"  >}}

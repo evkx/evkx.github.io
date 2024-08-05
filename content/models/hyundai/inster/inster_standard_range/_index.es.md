@@ -118,8 +118,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 - Beige [tapizado de tela](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/frontseats_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
@@ -134,8 +132,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Brown [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Beige [tapizado de tela](../../../../technology/seats/materials/#fabric)
-
-
 
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/secondrowseats_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}

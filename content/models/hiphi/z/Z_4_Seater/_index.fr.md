@@ -121,8 +121,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 - White [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/frontseats_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2256"  >}}
 
 #### Siège de deuxième rangée

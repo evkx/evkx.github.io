@@ -121,8 +121,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 - White [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/frontseats_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2256"  >}}
 
 #### Seter på andre rad

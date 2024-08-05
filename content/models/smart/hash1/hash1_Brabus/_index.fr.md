@@ -109,8 +109,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 - White/Blue [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/frontseats_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
 #### Siège de deuxième rangée

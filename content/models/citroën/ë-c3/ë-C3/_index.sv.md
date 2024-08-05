@@ -122,8 +122,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - Black/Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/frontseats_1_st.jpg" title="Citroën ë-C3" width="3000" height="1759"  >}}
 
 #### Säten på andra raden
@@ -145,8 +143,6 @@ Följande funktioner är tillgängliga på **Advanced Comfort** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - Black/Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
-
-
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}

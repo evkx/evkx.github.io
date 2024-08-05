@@ -119,8 +119,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 
-
-
 {{< sitefiguresized thumb="models/cupra/born/born_58/frontseats_1_st.jpg" title="CUPRA BORN 58" width="3000" height="2110"  >}}
 
 #### Sæde på anden række

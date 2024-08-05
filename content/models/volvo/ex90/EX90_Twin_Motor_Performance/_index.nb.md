@@ -119,8 +119,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 - Gray [ullpolstring](../../../../technology/seats/materials/#wool)
 
 
-
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/frontseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
 #### Seter på andre rad

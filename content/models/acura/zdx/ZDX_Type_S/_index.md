@@ -111,8 +111,6 @@ You can choose from 2 different materials/colors for this seat type.
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/frontseats_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1997"  >}}
 
 #### Second-row seat
@@ -183,9 +181,9 @@ The model has 5 USB-C connections as standard.
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/headlights_1_st.jpg" title="Acura ZDX Type S" width="3000" height="2000"  >}}

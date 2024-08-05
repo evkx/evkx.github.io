@@ -116,8 +116,6 @@ The following functionalities are available on the **standard** seat.
 You can choose from 2 different materials/colors for this seat type.
 
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/frontseats_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -125,7 +123,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
@@ -205,10 +202,10 @@ The model has 4 USB-C connections as standard.
 
 You can choose between two types of headlights for the Volkswagen ID.3 Pro.
 
-- The standard headlights use LED technology.
-- Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+- **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
+- **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/headlights_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="1894"  >}}

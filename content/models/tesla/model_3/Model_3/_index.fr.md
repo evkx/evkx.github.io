@@ -123,8 +123,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 - White [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/frontseats_1_st.jpeg" title="Tesla Model 3" width="1920" height="1080"  >}}
 
 #### Siège de deuxième rangée

@@ -123,8 +123,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - White [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/frontseats_1_st.jpeg" title="Tesla Model 3" width="1920" height="1080"  >}}
 
 #### Asiento de segunda fila

@@ -113,8 +113,6 @@ You can choose from 1 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/frontseats_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2002"  >}}
 
 #### Second-row seat
@@ -190,9 +188,9 @@ The model has 4 USB-C connections as standard.
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced driver assistance systems
 

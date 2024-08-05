@@ -119,8 +119,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 
 
-
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/frontseats_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée
@@ -128,7 +126,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/secondrowseats_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2000"  >}}

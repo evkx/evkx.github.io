@@ -115,8 +115,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - Black [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/frontseats_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 
 #### Säten på andra raden

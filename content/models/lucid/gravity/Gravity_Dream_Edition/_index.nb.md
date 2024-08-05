@@ -128,8 +128,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 - Brown [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/frontseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 #### Seter på andre rad

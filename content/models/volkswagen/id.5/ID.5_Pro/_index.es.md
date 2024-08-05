@@ -138,8 +138,6 @@ Las siguientes funcionalidades están disponibles en el asiento **ergoActive Top
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/frontseats_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2336"  >}}
 
 #### Asiento de segunda fila
@@ -147,7 +145,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2052"  >}}

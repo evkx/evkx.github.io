@@ -141,8 +141,6 @@ Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 
-
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/frontseats_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
 #### Säten på andra raden

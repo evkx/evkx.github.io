@@ -122,8 +122,6 @@ You can choose from 6 different materials/colors for this seat type.
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/frontseats_1_st.jpg" title="Genesis GV60 2WD" width="1500" height="1090"  >}}
 
 #### Second-row seat
@@ -195,9 +193,9 @@ The model has 4 USB-C connections as standard. The model has 1 USB-A connections
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/headlights_1_st.jpg" title="Genesis GV60 2WD" width="1387" height="780"  >}}

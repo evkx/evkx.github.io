@@ -126,8 +126,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Red/Black [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
 
 
-
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/frontseats_1_st.jpg" title="Lotus Eletre R" width="3000" height="1783"  >}}
 
 #### Asiento de segunda fila

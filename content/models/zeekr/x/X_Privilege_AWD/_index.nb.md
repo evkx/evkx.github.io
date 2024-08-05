@@ -107,8 +107,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - White/Blue [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/frontseats_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
 
 #### Seter på andre rad

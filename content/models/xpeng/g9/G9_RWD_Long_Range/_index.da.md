@@ -119,8 +119,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 - Beige [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_long_range/frontseats_1_st.jpeg" title="XPENG G9 RWD Long Range" width="3000" height="2250"  >}}
 
 #### Sæde på anden række

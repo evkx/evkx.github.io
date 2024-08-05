@@ -139,8 +139,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_300/frontseats_1_st.jpg" title="Mercedes-EQ EQE 300" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée

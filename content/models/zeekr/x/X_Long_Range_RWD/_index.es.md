@@ -107,8 +107,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - White/Blue [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/frontseats_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila

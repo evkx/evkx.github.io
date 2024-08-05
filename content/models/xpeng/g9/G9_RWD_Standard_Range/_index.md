@@ -119,8 +119,6 @@ You can choose from 2 different materials/colors for this seat type.
 - Beige [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/frontseats_1_st.jpeg" title="XPENG G9 RWD Standard Range" width="3000" height="2250"  >}}
 
 #### Second-row seat
@@ -194,9 +192,9 @@ One type of sound system is available for the XPENG G9 RWD Standard Range.
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced driver assistance systems
 

@@ -145,8 +145,6 @@ Følgende funktioner er tilgængelige på **sport** sædet.
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 
-
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/frontseats_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="1998"  >}}
 
 #### Sæder på anden række
@@ -157,7 +155,6 @@ Muligheden standard er en tre-sædet bænk med en 60:40 del, hvor du kan folde h
 
 
 Muligheden second er en tre-sædet bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/secondrowseats_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2000"  >}}
@@ -234,7 +231,6 @@ Desuden kan du vælge mellem to typer baglygter.
 
 - lights.taillight.technology.option.led
 - lights.taillight.technology.option.led
-
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/headlights_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2003"  >}}

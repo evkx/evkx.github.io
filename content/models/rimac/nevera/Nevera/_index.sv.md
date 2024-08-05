@@ -122,8 +122,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - Black [Alcantara klädsel](../../../../technology/seats/materials/#alcantara)
 
 
-
-
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/frontseats_1_st.jpg" title="Rimac Nevera" width="3000" height="2001"  >}}
 
 

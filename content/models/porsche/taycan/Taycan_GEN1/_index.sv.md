@@ -172,8 +172,6 @@ Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 
-
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gen1/frontseats_1_st.jpg" title="Porsche Taycan (GEN1)" width="2048" height="1536"  >}}
 
 #### Säten på andra raden

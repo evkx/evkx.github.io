@@ -126,8 +126,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Red/Black [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
 
 
-
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/frontseats_1_st.jpg" title="Lotus Eletre" width="3000" height="1783"  >}}
 
 #### Asiento de segunda fila
@@ -135,7 +133,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/secondrowseats_1_st.jpg" title="Lotus Eletre" width="3000" height="1856"  >}}

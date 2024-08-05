@@ -120,8 +120,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
-
-
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/frontseats_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="2248"  >}}
 
 #### Säten på andra raden

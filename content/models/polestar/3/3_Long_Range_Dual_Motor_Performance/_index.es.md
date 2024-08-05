@@ -116,8 +116,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/frontseats_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2249"  >}}
 
 #### Asiento de segunda fila

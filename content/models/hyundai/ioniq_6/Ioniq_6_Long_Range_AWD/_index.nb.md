@@ -117,8 +117,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 - Gray [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/frontseats_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2000"  >}}
 
 #### Seter på andre rad

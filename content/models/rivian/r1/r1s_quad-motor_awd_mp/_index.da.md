@@ -134,8 +134,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 - Blue [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/frontseats_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 #### Sæde på anden række

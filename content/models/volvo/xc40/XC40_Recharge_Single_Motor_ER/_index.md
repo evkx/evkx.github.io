@@ -115,8 +115,6 @@ The following functionalities are available on the **** seat.
 You can choose from 1 different materials/colors for this seat type.
 
 
-
-
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor_er/frontseats_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" width="1920" height="1080"  >}}
 
 #### Second-row seat
@@ -181,10 +179,10 @@ The model has 1 USB-C connections as standard.
 
 You can choose between two types of headlights for the Volvo XC40 Recharge Single Motor ER.
 
-- The standard headlights use LED technology.
-- Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+- **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
+- **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor_er/headlights_1_st.jpg" title="Volvo XC40 Recharge Single Motor ER" width="1080" height="1080"  >}}

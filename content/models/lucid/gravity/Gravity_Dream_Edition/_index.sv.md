@@ -128,8 +128,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Brown [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/frontseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 #### Säten på andra raden

@@ -115,8 +115,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - Black [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/frontseats_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila

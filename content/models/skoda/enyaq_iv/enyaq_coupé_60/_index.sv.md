@@ -121,8 +121,6 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
-
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_60/frontseats_1_st.jpg" title="SKODA ENYAQ COUPÉ 60" width="3000" height="2001"  >}}
 
 #### Säten på andra raden
@@ -130,7 +128,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_60/secondrowseats_1_st.jpg" title="SKODA ENYAQ COUPÉ 60" width="3000" height="2001"  >}}

@@ -120,8 +120,6 @@ You can choose from 4 different materials/colors for this seat type.
 - Purple [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/frontseats_1_st.jpg" title="Xiaomi SU7 Max" width="1760" height="1000"  >}}
 
 #### Second-row seat
@@ -187,7 +185,7 @@ The model has 4 USB-C connections as standard. The model has 1 USB-A connections
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_max/headlights_1_st.jpg" title="Xiaomi SU7 Max" width="2880" height="2160"  >}}

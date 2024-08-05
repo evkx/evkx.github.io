@@ -139,8 +139,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="1687"  >}}
 
 #### Siège de deuxième rangée

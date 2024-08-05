@@ -125,8 +125,6 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2001"  >}}
 
 #### Säten på andra raden

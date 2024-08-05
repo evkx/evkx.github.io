@@ -138,8 +138,6 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_edrive20/frontseats_1_st.jpg" title="BMW iX2 eDrive20" width="3000" height="2250"  >}}
 
 #### Seter på andre rad

@@ -139,8 +139,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1687"  >}}
 
 #### Asiento de segunda fila

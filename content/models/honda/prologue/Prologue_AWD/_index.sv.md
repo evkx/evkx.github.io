@@ -125,7 +125,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/secondrowseats_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
 
 

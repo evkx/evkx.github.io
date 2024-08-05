@@ -116,8 +116,6 @@ The following functionalities are available on the **standard** seat.
 You can choose from 3 different materials/colors for this seat type.
 
 
-
-
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/frontseats_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -192,9 +190,9 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/headlights_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}

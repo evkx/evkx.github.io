@@ -127,7 +127,6 @@ You can choose from 3 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 
-
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/secondrowseats_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2000"  >}}
 
 #### Third-row seats
@@ -190,9 +189,9 @@ One type of sound system is available for the Tesla Model X Plaid.
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced driver assistance systems
 

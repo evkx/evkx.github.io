@@ -111,8 +111,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/frontseats_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2700"  >}}
 
 #### Säten på andra raden
@@ -120,7 +118,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/secondrowseats_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2249"  >}}

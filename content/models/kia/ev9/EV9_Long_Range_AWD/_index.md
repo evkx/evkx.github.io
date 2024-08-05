@@ -122,8 +122,6 @@ You can choose from 6 different materials/colors for this seat type.
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/frontseats_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
 #### Second-row seats
@@ -222,7 +220,7 @@ The model has 6 USB-C connections as standard.
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/headlights_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}

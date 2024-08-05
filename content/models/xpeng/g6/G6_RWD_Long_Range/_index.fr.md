@@ -114,8 +114,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 - Beige [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_long_range/frontseats_1_st.jpg" title="XPENG G6 RWD Long Range" width="1920" height="1080"  >}}
 
 #### Siège de deuxième rangée

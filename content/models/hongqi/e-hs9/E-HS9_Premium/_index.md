@@ -192,7 +192,7 @@ The model has 1 USB-C connections as standard. The model has 3 USB-A connections
 
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/headlights_1_st.jpg" title="Hongqi E-HS9 Premium" width="851" height="686"  >}}

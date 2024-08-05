@@ -118,8 +118,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/frontseats_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="2001"  >}}
 
 #### Asiento de segunda fila

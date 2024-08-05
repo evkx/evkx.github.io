@@ -115,8 +115,6 @@ You can choose from 1 different materials/colors for this seat type.
 - Black [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/frontseats_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -190,9 +188,9 @@ The model has 2 USB-C connections as standard. The model has 2 USB-A connections
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/headlights_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}

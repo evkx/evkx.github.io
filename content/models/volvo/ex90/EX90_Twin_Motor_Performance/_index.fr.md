@@ -119,8 +119,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 - Gray [revêtement en laine](../../../../technology/seats/materials/#wool)
 
 
-
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/frontseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
 #### Siège de deuxième rangée

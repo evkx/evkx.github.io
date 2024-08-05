@@ -138,8 +138,6 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
-
-
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/frontseats_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2250"  >}}
 
 #### Säten på andra raden

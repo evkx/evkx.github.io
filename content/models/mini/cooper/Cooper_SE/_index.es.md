@@ -110,8 +110,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/frontseats_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila

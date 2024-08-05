@@ -117,8 +117,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Beige [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/frontseats_2_st.jpg" title="Fisker Ocean Sport" width="3000" height="1687"  >}}
 
 #### Asiento de segunda fila

@@ -119,8 +119,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 - Gray [uldpolstring](../../../../technology/seats/materials/#wool)
 
 
-
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/frontseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
 #### Sæde på anden række

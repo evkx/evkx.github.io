@@ -122,8 +122,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - Black/Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/frontseats_1_st.jpg" title="Citroën ë-C3" width="3000" height="1759"  >}}
 
 #### Asientos de la segunda fila
@@ -145,8 +143,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfo
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - Black/Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
-
-
 
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}

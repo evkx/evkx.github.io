@@ -137,8 +137,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Blue [tapizado de tela](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/frontseats_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2010"  >}}
 
 #### Asientos de la segunda fila

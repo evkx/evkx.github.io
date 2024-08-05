@@ -122,8 +122,6 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 - Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/frontseats_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
 #### Sæder på anden række

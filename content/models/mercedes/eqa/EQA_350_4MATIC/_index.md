@@ -141,8 +141,6 @@ The following functionalities are available on the **multicontour** seat.
 You can choose from 5 different materials/colors for this seat type.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -216,9 +214,9 @@ The model has 4 USB-C connections as standard. As an option, you can get additio
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced driver assistance systems
 

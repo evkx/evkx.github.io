@@ -106,8 +106,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - Red [Alcantara/tapicería de polipiel](../../../../technology/seats/materials/#alcantara)
 
 
-
-
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 
 

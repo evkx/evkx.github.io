@@ -109,8 +109,6 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_twin_motor/frontseats_1_st.jpg" title="Volvo EX40 Twin Motor" width="1920" height="1080"  >}}
 
 #### Asiento de segunda fila

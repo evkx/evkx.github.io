@@ -119,8 +119,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_endurance/frontseats_1_st.jpg" title="CUPRA Tavascan Endurance" width="3000" height="2250"  >}}
 
 #### Asiento de segunda fila

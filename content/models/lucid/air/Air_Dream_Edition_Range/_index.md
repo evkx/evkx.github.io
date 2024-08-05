@@ -120,8 +120,6 @@ The following functionalities are available on the **standard** seat.
 You can choose from 1 different materials/colors for this seat type.
 
 
-
-
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/frontseats_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="2248"  >}}
 
 #### Second-row seat
@@ -195,9 +193,9 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/headlights_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="2001"  >}}

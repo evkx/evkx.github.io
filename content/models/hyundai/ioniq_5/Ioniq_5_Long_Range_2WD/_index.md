@@ -125,8 +125,6 @@ You can choose from 6 different materials/colors for this seat type.
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_2wd/frontseats_1_st.jpg" title="Hyundai Ioniq 5 Long Range 2WD" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -198,9 +196,9 @@ The model has 4 USB-C connections as standard. The model has 1 USB-A connections
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_2wd/headlights_1_st.jpg" title="Hyundai Ioniq 5 Long Range 2WD" width="3000" height="2000"  >}}

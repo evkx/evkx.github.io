@@ -127,7 +127,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 
-
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_standard_range/secondrowseats_1_st.jpg" title="Tesla Model X Standard Range" width="3000" height="2000"  >}}
 
 #### Sæder på tredje række

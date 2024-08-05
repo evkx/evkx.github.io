@@ -108,8 +108,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - Black [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/frontseats_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila

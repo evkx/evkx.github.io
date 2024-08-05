@@ -120,8 +120,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
-
-
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/frontseats_1_st.jpg" title="Lucid Air Grand Touring" width="3000" height="2248"  >}}
 
 #### Sæde på anden række

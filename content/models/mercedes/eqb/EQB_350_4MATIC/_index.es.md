@@ -135,8 +135,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_350_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQB 350 4MATIC" width="3000" height="1999"  >}}
 
 #### Asiento de segunda fila

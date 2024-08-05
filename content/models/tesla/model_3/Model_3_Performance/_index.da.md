@@ -123,8 +123,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 - White [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/frontseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2250"  >}}
 
 #### Sæde på anden række

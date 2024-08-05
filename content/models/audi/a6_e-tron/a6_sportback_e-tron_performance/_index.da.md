@@ -249,7 +249,6 @@ Desuden kan du vælge mellem to typer baglygter.
 - lights.taillight.technology.option.oledled
 
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2250"  >}}
 
 ## Avancerede førerassistentsystemer

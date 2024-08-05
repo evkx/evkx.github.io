@@ -116,8 +116,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 - Gray [læderpolstring](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_single_motor/frontseats_1_st.jpg" title="Polestar 3 Long Range Single Motor" width="3000" height="2249"  >}}
 
 #### Sæde på anden række

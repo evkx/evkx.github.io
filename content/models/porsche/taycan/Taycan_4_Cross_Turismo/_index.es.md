@@ -152,8 +152,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Pl
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4_cross_turismo/frontseats_1_st.jpg" title="Porsche Taycan 4 Cross Turismo" width="3000" height="1687"  >}}
 
 #### Asientos de la segunda fila

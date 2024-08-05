@@ -146,8 +146,6 @@ Følgende funktioner er tilgængelige på **multicontour** sædet.
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic_gen1/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2250"  >}}
 
 #### Sæder på anden række

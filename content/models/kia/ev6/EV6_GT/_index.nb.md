@@ -115,8 +115,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 #### Seter på andre rad

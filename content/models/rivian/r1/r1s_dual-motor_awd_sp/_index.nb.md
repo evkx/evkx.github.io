@@ -115,8 +115,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 - Blue [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/frontseats_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 
 #### Seter på andre rad

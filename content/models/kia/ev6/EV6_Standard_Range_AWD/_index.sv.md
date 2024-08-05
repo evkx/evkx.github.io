@@ -125,8 +125,6 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 - Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_awd/frontseats_1_st.jpg" title="Kia EV6 Standard Range AWD" width="3000" height="1999"  >}}
 
 #### Säten på andra raden

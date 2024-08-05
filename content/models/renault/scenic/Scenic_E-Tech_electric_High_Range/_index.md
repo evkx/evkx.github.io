@@ -119,8 +119,6 @@ You can choose from 1 different materials/colors for this seat type.
 - Gray [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric_high_range/frontseats_1_st.jpg" title="Renault Scenic E-Tech electric High Range" width="3000" height="2001"  >}}
 
 #### Second-row seat
@@ -201,10 +199,10 @@ The model has 6 USB-C connections as standard.
 
 You can choose between two types of headlights for the Renault Scenic E-Tech electric High Range.
 
-- The standard headlights use LED technology.
-- Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
+- **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
+- **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric_high_range/headlights_1_st.jpg" title="Renault Scenic E-Tech electric High Range" width="3000" height="1687"  >}}

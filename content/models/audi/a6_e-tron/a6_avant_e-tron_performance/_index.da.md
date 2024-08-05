@@ -246,7 +246,6 @@ Desuden kan du vælge mellem to typer baglygter.
 - Derudover bruger standardbaglygterne OLED-teknologi.
 
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
 ## Avancerede førerassistentsystemer

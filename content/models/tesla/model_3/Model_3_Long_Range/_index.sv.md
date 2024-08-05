@@ -123,8 +123,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - White [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/frontseats_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
 #### Säten på andra raden

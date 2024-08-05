@@ -126,8 +126,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 - Red/Black [polstring af mikrofiber/nappalæder](../../../../technology/seats/materials/#nappalæder)
 
 
-
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/frontseats_1_st.jpg" title="Lotus Eletre" width="3000" height="1783"  >}}
 
 #### Sæde på anden række
@@ -135,7 +133,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/secondrowseats_1_st.jpg" title="Lotus Eletre" width="3000" height="1856"  >}}

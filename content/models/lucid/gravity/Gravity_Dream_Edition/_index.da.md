@@ -128,8 +128,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 - Brown [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/frontseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 #### Sæde på anden række

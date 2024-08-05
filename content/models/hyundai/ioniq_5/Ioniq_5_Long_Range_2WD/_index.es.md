@@ -125,8 +125,6 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_2wd/frontseats_1_st.jpg" title="Hyundai Ioniq 5 Long Range 2WD" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila

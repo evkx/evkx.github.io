@@ -141,8 +141,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350_4matic_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQE 350 4MATIC SUV" width="3000" height="2250"  >}}
 
 #### Seter på andre rad

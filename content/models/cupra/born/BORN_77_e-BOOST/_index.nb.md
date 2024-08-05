@@ -119,8 +119,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/frontseats_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="2110"  >}}
 
 #### Seter på andre rad

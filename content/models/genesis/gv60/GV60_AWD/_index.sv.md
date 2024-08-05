@@ -123,8 +123,6 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 - Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/frontseats_1_st.jpg" title="Genesis GV60 AWD" width="1500" height="1090"  >}}
 
 #### Säten på andra raden

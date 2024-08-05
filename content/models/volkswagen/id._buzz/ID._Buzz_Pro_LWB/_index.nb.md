@@ -140,8 +140,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Blue [stoffpolstring](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/frontseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2197"  >}}
 
 #### Seter på andre rad

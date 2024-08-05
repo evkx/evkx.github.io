@@ -114,8 +114,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 - Beige [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/frontseats_1_st.jpg" title="XPENG G6 RWD Standard Range" width="1920" height="1080"  >}}
 
 #### Seter på andre rad

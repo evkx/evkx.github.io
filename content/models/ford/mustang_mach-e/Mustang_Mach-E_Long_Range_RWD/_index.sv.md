@@ -115,8 +115,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1999"  >}}
 
 #### Säten på andra raden

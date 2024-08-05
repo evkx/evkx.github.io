@@ -119,8 +119,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
 
-
-
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/frontseats_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="2110"  >}}
 
 #### Siège de deuxième rangée

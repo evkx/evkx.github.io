@@ -180,8 +180,6 @@ Du kan velge mellom 21 forskjellige materialer/farger for denne setetypen.
 - Black [skinntrekk](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/frontseats_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2121"  >}}
 
 #### Seter på andre rad

@@ -117,8 +117,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 - Beige [stofpolstring](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/frontseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
@@ -133,8 +131,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Brown [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Beige [stofpolstring](../../../../technology/seats/materials/#fabric)
-
-
 
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/secondrowseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}

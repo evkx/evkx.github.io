@@ -127,7 +127,6 @@ You can choose from 3 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 
-
 {{< sitefiguresized thumb="models/tesla/model_s/model_s/secondrowseats_1_st.jpg" title="Tesla Model S" width="3000" height="2000"  >}}
 
 
@@ -185,9 +184,9 @@ One type of sound system is available for the Tesla Model S.
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 ## Advanced driver assistance systems
 

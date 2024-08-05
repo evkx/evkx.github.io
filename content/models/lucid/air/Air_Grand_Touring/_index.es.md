@@ -120,8 +120,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
-
-
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/frontseats_1_st.jpg" title="Lucid Air Grand Touring" width="3000" height="2248"  >}}
 
 #### Asiento de segunda fila

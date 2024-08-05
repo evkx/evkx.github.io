@@ -128,8 +128,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Brown [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/frontseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 #### Asiento de segunda fila

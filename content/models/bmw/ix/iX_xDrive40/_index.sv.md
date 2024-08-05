@@ -118,8 +118,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 Du kan välja mellan 7 olika material/färger för denna sitstyp.
 
 
-
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/frontseat_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1999"  >}}
 
 #### Säten på andra raden

@@ -180,8 +180,6 @@ Puedes elegir entre 21 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/frontseats_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2121"  >}}
 
 #### Asiento de segunda fila

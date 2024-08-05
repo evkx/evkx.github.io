@@ -123,8 +123,6 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 - Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
 
-
-
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd_performance/frontseats_1_st.jpg" title="Genesis GV60 AWD Performance" width="1500" height="1090"  >}}
 
 #### Siège de deuxième rangée

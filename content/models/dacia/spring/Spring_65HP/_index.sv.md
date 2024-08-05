@@ -108,8 +108,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
 
-
-
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/frontseats_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
 #### Säten på andra raden

@@ -107,8 +107,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - White/Blue [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/frontseats_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
 
 #### Säten på andra raden

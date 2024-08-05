@@ -109,8 +109,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - White/Blue [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/frontseats_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
 #### Säten på andra raden

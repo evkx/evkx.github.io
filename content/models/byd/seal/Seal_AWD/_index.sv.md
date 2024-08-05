@@ -116,8 +116,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
-
-
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/frontseats_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
 
 #### Säten på andra raden

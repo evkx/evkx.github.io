@@ -119,8 +119,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - Beige [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/frontseats_1_st.jpeg" title="XPENG G9 RWD Standard Range" width="3000" height="2250"  >}}
 
 #### Säten på andra raden

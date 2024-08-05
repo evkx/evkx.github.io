@@ -126,8 +126,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 - Red/Black [klädselmikrofiber/nappaläder](../../../../technology/seats/materials/#nappaleather)
 
 
-
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/frontseats_1_st.jpg" title="Lotus Eletre R" width="3000" height="1783"  >}}
 
 #### Säten på andra raden

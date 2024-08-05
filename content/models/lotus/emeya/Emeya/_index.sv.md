@@ -126,8 +126,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 - Red/Black [klädselmikrofiber/nappaläder](../../../../technology/seats/materials/#nappaleather)
 
 
-
-
 {{< sitefiguresized thumb="models/lotus/emeya/emeya/frontseats_1_st.jpg" title="Lotus Emeya" width="3000" height="1687"  >}}
 
 #### Säten på andra raden
@@ -140,7 +138,6 @@ Alternativet standard är en tresitssbänk med en 40:20:40-sektion där du kan v
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (valfritt)
 
 Alternativ second är två [chefsplatser](../../../../technology/seats/types/#twin-executive-seats). Dessutom är följande funktioner tillgängliga.
-
 
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya/secondrowseats_1_st.jpg" title="Lotus Emeya" width="3000" height="1687"  >}}

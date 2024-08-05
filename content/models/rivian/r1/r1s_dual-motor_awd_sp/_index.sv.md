@@ -115,8 +115,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 - Blue [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
 
-
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/frontseats_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 
 #### Säten på andra raden

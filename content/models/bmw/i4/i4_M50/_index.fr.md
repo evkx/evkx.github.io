@@ -180,8 +180,6 @@ Vous pouvez choisir parmi 21 différents matériaux/couleurs pour ce type de si�
 - Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
 
 
-
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/frontseats_1_st.jpg" title="BMW i4 M50" width="3000" height="2121"  >}}
 
 #### Siège de deuxième rangée

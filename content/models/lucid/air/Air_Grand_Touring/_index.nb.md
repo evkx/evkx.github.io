@@ -120,8 +120,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
-
-
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/frontseats_1_st.jpg" title="Lucid Air Grand Touring" width="3000" height="2248"  >}}
 
 #### Seter på andre rad

@@ -201,9 +201,9 @@ The model has 3 USB-C connections as standard. The model has 3 USB-A connections
 
 ## Lights
 
-The standard headlights use LED technology.
+**Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
-The standard taillights use LED technology.
+Standard Taillights use LED technology, ensuring visibility and efficiency.
 
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/headlights_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000"  >}}
