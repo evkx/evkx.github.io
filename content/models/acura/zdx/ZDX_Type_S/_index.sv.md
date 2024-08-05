@@ -79,7 +79,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 
 Det finns två olika takalternativ att välja mellan. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten på passageraren. Den har en elektrisk gardin som passagerarna kan använda för att skydda sig mot solen. Som tillval kan du beställa denna modell med panoramatak som går att öppna. Glaset har två paneler. En ovanför första och andra raden, och passagerarna kan öppna den främre delen. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/exterior_1_st.jpg" title="Acura ZDX Type S" width="3000" height="2000"  >}}
 
 
@@ -109,7 +108,6 @@ Följande funktioner är tillgängliga på **** sätet.
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/frontseats_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1997"  >}}
 
@@ -154,7 +152,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/screens_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1687"  >}}
 
 
@@ -184,7 +181,6 @@ Modellen har 5 USB-C-anslutningar som standard.
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/headlights_1_st.jpg" title="Acura ZDX Type S" width="3000" height="2000"  >}}
 
@@ -223,7 +219,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten i bagageutrymmet är 793 liter. Med baksätet nedfällt är det 1723 liter.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1588, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/trunk_1_st.jpg" title="Acura ZDX Type S" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

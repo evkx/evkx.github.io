@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 10 hours and 16 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/charging_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2032"  >}}
 
 ### Charge port
@@ -87,7 +86,6 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/exterior_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="1399"  >}}
 
 
@@ -119,7 +117,6 @@ The following functionalities are available on the **standard** seat.
 You can choose from 2 different materials/colors for this seat type.
 - Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - White [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/frontseats_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2256"  >}}
 
@@ -167,7 +164,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/screens_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2052"  >}}
 
 
@@ -189,7 +185,6 @@ The model has 1 USB-C connections as standard. As an option, you can get additio
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/headlights_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="1467"  >}}
 

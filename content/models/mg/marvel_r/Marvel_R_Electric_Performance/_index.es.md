@@ -80,7 +80,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámi
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/exterior_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="2000"  >}}
 
 
@@ -107,7 +106,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 - Beige [Alcantara/tapicería de polipiel](../../../../technology/seats/materials/#alcantara)
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/frontseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1999"  >}}
 
 #### Asiento de segunda fila
@@ -115,7 +113,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/secondrowseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="2256"  >}}
 
@@ -153,7 +150,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/screens_1_st.jpg" title="MG Marvel R Electric Performance" width="2560" height="1707"  >}}
 
 
@@ -184,7 +180,6 @@ Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/headlights_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1701"  >}}
 
 ## Sistemas avanzados de asistencia al conductor
@@ -214,7 +209,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 La capacidad de carga en el maletero es de 359 litros. Con el asiento trasero abatido, es de 1396 litros. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 150 litros (5,3 CU FT). El peso máximo del automóvil es 2373 kg (5232 lbs), y con el peso base de 1920 kg (4233 lbs), puedes cargar como máximo 453 kg (999 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga. 453kg se considera bajo para este tipo de automóvil y podría restringir la cantidad de cosas que puedes llevar además de los pasajeros.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 750, y sin freno, es de 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/trunk_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1915"  >}}
 

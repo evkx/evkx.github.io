@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 20 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/charging_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 
 ### Charge port
@@ -93,7 +92,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a sunroof. The glass extends over only the front row, and occupants can open it. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/exterior_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 
@@ -179,7 +177,6 @@ You can choose from 21 different materials/colors for this seat type.
 - Blue [leather upholstering](../../../../technology/seats/materials/#leather)
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/frontseats_1_st.jpg" title="BMW i4 M50" width="3000" height="2121"  >}}
 
 #### Second-row seat
@@ -223,7 +220,6 @@ Key screen details:
 - The touch screen at the right part of the shared frame is 14.9 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/screens_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 

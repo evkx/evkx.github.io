@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 6 timer og 43 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/charging_1_st.jpg" title="BMW iX3" width="3000" height="2070"  >}}
 
 ### Ladeport
@@ -93,7 +92,6 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/exterior_1_st.jpg" title="BMW iX3" width="3000" height="2002"  >}}
 
 
@@ -132,7 +130,6 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 
-
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/secondrowseats_1_st.jpg" title="BMW iX3" width="3000" height="2250"  >}}
 
 
@@ -170,7 +167,6 @@ Viktige skjermdetaljer:
 - touch-skjermen i dashbordets sentrum er 12,3 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/screens_1_st.jpg" title="BMW iX3" width="3000" height="2250"  >}}
 
@@ -242,7 +238,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du følgende kjøreaut
 Lastkapasiteten i bagasjerommet er 510 liter. Med baksetet nede er det 1560 liter. På taket kan du laste opptil 100 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2725 kg, og med basisvekten på 2185 kg kan du maksimalt laste 540 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/trunk_1_st.jpg" title="BMW iX3" width="3000" height="2002"  >}}
 <div class="mt-3 mb-3">

@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 21 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/charging_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 
 ### Puerto de carga
@@ -85,7 +84,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [pu
 
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/exterior_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 
 
@@ -114,7 +112,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - Black [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/frontseats_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
@@ -124,7 +121,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
-
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/secondrowseats_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 
@@ -164,7 +160,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/screens_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 
 ## Infoentretenimiento
@@ -191,7 +186,6 @@ El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A 
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/headlights_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 
@@ -239,7 +233,6 @@ Con el sistema Ford BlueCruise  nivel 2, obtienes las siguientes funciones de au
 La capacidad de carga en el maletero es de 402 litros. Con el asiento trasero abatido, es de 1420 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 100 litros (3,5 CU FT). El peso máximo del automóvil es 2690 kg (5930 lbs), y con el peso base de 2218 kg (4890 lbs), puedes cargar como máximo 472 kg (1041 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga. 472kg se considera bajo para este tipo de automóvil y podría restringir la cantidad de cosas que puedes llevar además de los pasajeros.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 750, y sin freno, es de 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_gt/trunk_1_st.jpg" title="Ford Mustang Mach-E GT" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

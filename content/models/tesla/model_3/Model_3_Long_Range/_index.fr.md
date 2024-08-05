@@ -90,7 +90,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/exterior_1_st.jpeg" title="Tesla Model 3 Long Range" width="3000" height="2250"  >}}
 
 
@@ -121,7 +120,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - White [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/frontseats_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
@@ -168,7 +166,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/screens_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
 
@@ -194,7 +191,6 @@ Le modèle dispose de 3 connexions USB-C en standard.
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/headlights_1_st.jpeg" title="Tesla Model 3 Long Range" width="3000" height="2250"  >}}
 

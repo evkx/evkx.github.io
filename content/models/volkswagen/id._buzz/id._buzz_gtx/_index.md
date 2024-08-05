@@ -88,7 +88,6 @@ There is only one roof for this model. The standard is just a regular roof.
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/exterior_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="1999"  >}}
 
 
@@ -137,7 +136,6 @@ You can choose from 5 different materials/colors for this seat type.
 - Orange [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Blue [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/frontseats_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="2010"  >}}
 
 #### Second-row seat
@@ -145,7 +143,6 @@ You can choose from 5 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="2000"  >}}
 
@@ -186,7 +183,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/screens_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -216,7 +212,6 @@ You can choose between two types of headlights for the Volkswagen ID. Buzz GTX.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/headlights_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="2000"  >}}
 
@@ -267,7 +262,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 1121 liters. With the rear seat down, it is 2205 liters. On the roof, you can load up to 100 kg (220.5 lbs). The maxium weight of the car is 3000 kg (6614 lbs), and with the base weight of 2425 kg (5346 lbs), you can max load 575 kg (1268 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/trunk_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

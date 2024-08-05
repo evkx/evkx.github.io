@@ -79,7 +79,6 @@ The car has two [scissor doors](../../../../technology/doors/) and a [bootlid](.
 
 There is only one roof for this model. The standard roof is a soft top that can be folded down.
 
-
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/exterior_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="1487"  >}}
 
 
@@ -104,7 +103,6 @@ The following functionalities are available on the **standard** seat.
 You can choose from 2 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Red [Alcantara/leatherette upholstering](../../../../technology/seats/materials/#alcantara)
-
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 
@@ -145,7 +143,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/screens_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 
 
@@ -175,7 +172,6 @@ The model has 1 USB-C connections as standard. The model has 1 USB-A connections
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/headlights_1_st.jpg" title="MG Cyberster AWD Long Range" width="2800" height="1575"  >}}
 

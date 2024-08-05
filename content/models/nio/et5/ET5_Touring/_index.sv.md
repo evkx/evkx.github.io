@@ -107,7 +107,6 @@ Det finns bara ett tak för denna modell. Standardtaket har en stor panoramavy s
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/exterior_1_st.jpg" title="Nio ET5 Touring" width="2880" height="2316"  >}}
 
 
@@ -256,7 +255,6 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du fler körautomatiseringsfu
 Lastkapaciteten i bagageutrymmet är 450 liter. Med baksätet nedfällt är det 1447 liter. På taket kan du lasta upp till 100 kg. Takräcke är standard på denna modell, vilket gör det enkelt att montera takboxen eller räcket på bilen. Bilens maximala vikt är 2900 kg, och med basvikten på 2379 kg kan du lasta maximalt 521 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/trunk_1_st.jpg" title="Nio ET5 Touring" width="2560" height="1670"  >}}
 <div class="mt-3 mb-3">

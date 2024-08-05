@@ -84,7 +84,6 @@ Det finns bara ett tak för denna modell. Standardtaket har panoramaglass over f
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/exterior_1_st.jpg" title="HiPhi Y Performance" width="3000" height="1687"  >}}
 
 
@@ -167,7 +166,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/screens_1_st.jpg" title="HiPhi Y Performance" width="1000" height="536"  >}}
 
 
@@ -194,7 +192,6 @@ Modellen har 4 USB-C-anslutningar som standard.
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/headlights_1_st.jpg" title="HiPhi Y Performance" width="3000" height="1882"  >}}
 

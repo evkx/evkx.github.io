@@ -86,7 +86,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/exterior_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
 
@@ -121,7 +120,6 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 - Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/frontseats_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
 #### Asientos de la segunda fila
@@ -144,7 +142,6 @@ La opción third son dos sillas estilo capitán. Además, las siguientes funcion
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/secondrowseats_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
 #### Asientos de tercera fila
@@ -152,7 +149,6 @@ La opción third son dos sillas estilo capitán. Además, las siguientes funcion
 
 
 La tercera fila tiene un banco de dos asientos con una división 50:50. Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
-
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/thirdrowseats_1_st.jpg" title="Kia EV9 RWD" width="1350" height="900"  >}}
 
@@ -193,7 +189,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/screens_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
 ## Infoentretenimiento
@@ -221,7 +216,6 @@ El modelo tiene 6 conexiones USB-C de serie.
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/headlights_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
@@ -266,7 +260,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 La capacidad de carga en el maletero es de 333 litros. Con el asiento trasero abatido, es de 2393 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles de techo son estándar en este modelo, lo que facilita el montaje del cofre o portaequipajes en el automóvil. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 55 litros (1,9 CU FT). El peso máximo del automóvil es 3190 kg (7033 lbs), y con el peso base de 2637 kg (5814 lbs), puedes cargar como máximo 553 kg (1219 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2500, y sin freno, es de 750 kg (5512/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/trunk_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

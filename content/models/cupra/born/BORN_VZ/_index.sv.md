@@ -89,7 +89,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/cupra/born/born_vz/exterior_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="1766"  >}}
 
 
@@ -117,7 +116,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
-
 
 {{< sitefiguresized thumb="models/cupra/born/born_vz/frontseats_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="2191"  >}}
 
@@ -162,7 +160,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch i mitten av instrumentbrädan är 12,9 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/cupra/born/born_vz/screens_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="1717"  >}}
 

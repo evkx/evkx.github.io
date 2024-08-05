@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 6 timer og 21 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/charging_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="1736"  >}}
 
 ### Ladeport
@@ -85,7 +84,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback 
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lysere, noe som kan forbedre humøret og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/exterior_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="1642"  >}}
 
 
@@ -114,7 +112,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="1999"  >}}
 
 #### Seter på andre rad
@@ -124,7 +121,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - høydejusterbar hodestøtte
-
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/secondrowseats_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="2250"  >}}
 
@@ -164,7 +160,6 @@ Viktige skjermdetaljer:
 
 Modellen er ikke tilgjengelig med head-up display.
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/screens_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -191,7 +186,6 @@ Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinge
 Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/headlights_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="1999"  >}}
 
@@ -239,7 +233,6 @@ Med Ford BlueCruise  nivå 2-systemet får du følgende kjøreautomatiseringsfun
 Lastkapasiteten i bagasjerommet er 402 liter. Med baksetet nede er det 1420 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 100 liter. Maksimumsvekten til bilen er 2640 kg, og med basisvekten på 2063 kg kan du maksimalt laste 577 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_standard_range_rwd/trunk_1_st.jpg" title="Ford Mustang Mach-E Standard Range RWD" width="3000" height="1721"  >}}
 <div class="mt-3 mb-3">

@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 8 timer og 38 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/charging_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2250"  >}}
 
 ### Ladeport
@@ -83,7 +82,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg over de fleste områder fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humør og komfort for beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
 Rutene fra B-stolpen og baksiden er tonet.
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/exterior_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2000"  >}}
 
@@ -162,7 +160,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/screens_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2000"  >}}
 
 
@@ -192,7 +189,6 @@ Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/headlights_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2250"  >}}
 
@@ -233,7 +229,6 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 Lastkapasiteten i bagasjerommet er 539 liter. Med baksetet nede er det 1411 liter. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 32 liter. Maksimumsvekten til bilen er 2800 kg, og med basisvekten på 2200 kg kan du maksimalt laste 600 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1500, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/trunk_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2001"  >}}
 

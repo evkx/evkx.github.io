@@ -90,7 +90,6 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/exterior_1_st.jpeg" title="Tesla Model 3 Long Range" width="3000" height="2250"  >}}
 
 
@@ -121,7 +120,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - White [läderklädsel](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/frontseats_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
@@ -168,7 +166,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/screens_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
 
@@ -194,7 +191,6 @@ Modellen har 3 USB-C-anslutningar som standard.
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/headlights_1_st.jpeg" title="Tesla Model 3 Long Range" width="3000" height="2250"  >}}
 

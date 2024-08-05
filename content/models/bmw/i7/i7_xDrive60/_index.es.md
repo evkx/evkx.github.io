@@ -89,7 +89,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/exterior_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999"  >}}
 
 
@@ -153,7 +152,6 @@ La opción second es un [asiento ejecutivo combinado con un banco de dos asiento
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 - [reposapiés para pasajero](../../../../technology/seats/adjustment/#footrest)
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/secondrowseats_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999"  >}}
 
 
@@ -191,7 +189,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/screens_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999"  >}}
 
 ## Infoentretenimiento
@@ -222,7 +219,6 @@ Puedes elegir entre dos tipos de faros para el BMW i7 xDrive60.
 - Los faros basados en LED Matrix con tecnología láser están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apague individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/headlights_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999"  >}}
 

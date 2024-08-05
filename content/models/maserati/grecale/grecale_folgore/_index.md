@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 21 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/charging_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
 ### Charge port
@@ -99,7 +98,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/exterior_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2254"  >}}
 
 
@@ -136,7 +134,6 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/secondrowseats_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
@@ -178,7 +175,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/screens_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -206,7 +202,6 @@ The model has 2 USB-C connections as standard. As an option, you can get additio
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/headlights_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2332"  >}}
 

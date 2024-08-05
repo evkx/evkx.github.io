@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 10 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/charging_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="2001"  >}}
 
 ### Charge port
@@ -81,7 +80,6 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 There is only one roof for this model.
 
-
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/exterior_1_st.jpg" title="MG MG5 Electric Standard Range" width="2560" height="1707"  >}}
 
 
@@ -108,7 +106,6 @@ You can choose from 3 different materials/colors for this seat type.
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/frontseats_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="2005"  >}}
 
 #### Second-row seat
@@ -116,7 +113,6 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/secondrowseats_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="2004"  >}}
 
@@ -154,7 +150,6 @@ Key screen details:
 - The touch screen at the top of the center console is 10.3 inches large
 
 The model does not have a head-up display.
-
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/screens_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="2002"  >}}
 
@@ -213,7 +208,6 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 479 liters. With the rear seat down, it is 1367 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2017 kg (4447 lbs), and with the base weight of 1562 kg (3444 lbs), you can max load 455 kg (1003 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 500, and on unbraked, it is 500 kg (1102/1102 lbs).
-
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/trunk_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="1996"  >}}
 <div class="mt-3 mb-3">

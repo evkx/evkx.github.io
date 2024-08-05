@@ -82,7 +82,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 
 Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen.
 
-
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/exterior_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2250"  >}}
 
 
@@ -122,7 +121,6 @@ Den anden række har en standard tre-sæders bænk med en  del, hvor du kan fold
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
-
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/secondrowseats_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2250"  >}}
 
 
@@ -161,7 +159,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/screens_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2776"  >}}
 
 ## Infotainment
@@ -188,7 +185,6 @@ Du kan vælge mellem to typer forlygter til Volvo EX30 Single Motor.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/headlights_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2250"  >}}
 
@@ -235,7 +231,6 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 Lagekapaciteten i bagagerummet er 318 liter. Med bagsædet nede er det 904 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 7 liter (0,2 CU FT). Bilens maksimale vægt er 2216 kg (4885 lbs), og med basisvægten på 1758 kg (3876 lbs), kan du maksimalt laste 458 kg (1010 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/trunk_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2251"  >}}
 <div class="mt-3 mb-3">

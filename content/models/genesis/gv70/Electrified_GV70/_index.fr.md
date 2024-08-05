@@ -88,7 +88,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/genesis/gv70/electrified_gv70/exterior_1_st.jpg" title="Genesis Electrified GV70" width="3000" height="1800"  >}}
 
 
@@ -166,7 +165,6 @@ Détails clés de l'écran :
 - L'écran touch en bas de la console centrale mesure 5,0 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/genesis/gv70/electrified_gv70/screens_1_st.jpg" title="Genesis Electrified GV70" width="3000" height="1535"  >}}
 

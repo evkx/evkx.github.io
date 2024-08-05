@@ -105,7 +105,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers. As an option, double-glazed side windows are available to reduce cabin noise, enhancing the overall driving experience.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_e-tron/exterior_1_st.jpeg" title="Audi SQ8 e-tron" width="3000" height="1999"  >}}
 
 
@@ -243,7 +242,6 @@ You can choose between three types of headlights for the Audi SQ8 e-tron.
 - The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_e-tron/headlights_1_st.jpeg" title="Audi SQ8 e-tron" width="3000" height="1999"  >}}
 

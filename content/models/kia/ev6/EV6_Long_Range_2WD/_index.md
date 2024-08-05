@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 43 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/charging_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -89,7 +88,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/exterior_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2017"  >}}
 
 
@@ -124,7 +122,6 @@ You can choose from 6 different materials/colors for this seat type.
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/frontseats_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1999"  >}}
 
 #### Second-row seat
@@ -134,7 +131,6 @@ You can choose from 6 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/secondrowseats_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2400"  >}}
 
@@ -172,7 +168,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/screens_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2003"  >}}
 
 ## Infotainment
@@ -200,7 +195,6 @@ The model has 4 USB-C connections as standard. The model has 1 USB-A connections
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/headlights_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2000"  >}}
 
@@ -245,7 +239,6 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 480 liters. With the rear seat down, it is 1260 liters. On the roof, you can load up to 80 kg (176.4 lbs). Roof rails are standard on this model, making it easy to mount the roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 20 liters (0.7 CU FT). The maxium weight of the car is 2530 kg (5578 lbs), and with the base weight of 2015 kg (4442 lbs), you can max load 515 kg (1135 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/trunk_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

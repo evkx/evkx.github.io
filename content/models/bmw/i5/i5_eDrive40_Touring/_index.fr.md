@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 7 heures et 22 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/charging_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="1686"  >}}
 
 ### Port de recharge
@@ -98,7 +97,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/exterior_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="1999"  >}}
 
 
@@ -137,7 +135,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Comfort seats**.
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support) (facultatif)
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/frontseats_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2249"  >}}
 
 #### Siège de deuxième rangée
@@ -147,7 +144,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Comfort seats**.
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/secondrowseats_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2249"  >}}
 
@@ -189,7 +185,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/screens_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2249"  >}}
 
 ## Infodivertissement
@@ -221,7 +216,6 @@ Vous pouvez choisir entre deux types de phares pour le BMW i5 eDrive40 Touring.
 - Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/headlights_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="1999"  >}}
 
@@ -269,7 +263,6 @@ Avec le système Driving Assistant Professional  niveau 2, vous bénéficiez de 
 La capacité de chargement dans le coffre est de 570 litres. Avec la banquette arrière rabattue, elle est de 1700 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont standard sur ce modèle, ce qui facilite le montage du coffre de toit ou des barres de toit sur la voiture. Le poids maximum de la voiture est de 2790 kg (6151 lbs), et avec le poids de base de 2180 kg (4806 lbs), vous pouvez charger au maximum 610 kg (1345 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1500, et sur une remorque non freinée, il est de 750 kg (3307/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/trunk_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2250"  >}}
 <div class="mt-3 mb-3">

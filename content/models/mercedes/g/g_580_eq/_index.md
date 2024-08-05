@@ -93,7 +93,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a sunroof. The glass extends over only the front row, and occupants can open it. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has manual curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/exterior_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="2000"  >}}
 
 
@@ -141,7 +140,6 @@ The following functionalities are available on the **multicontour** seat.
 
 You can choose from 5 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/frontseats_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 
 #### Second-row seat
@@ -152,7 +150,6 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/secondrowseats_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 
@@ -202,7 +199,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/screens_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="2000"  >}}
 
 
@@ -235,7 +231,6 @@ The model has 4 USB-C connections as standard. As an option, you can get additio
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/headlights_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 

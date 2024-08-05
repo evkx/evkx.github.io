@@ -76,7 +76,6 @@ Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, p
 
 Der er kun ét tag til denne model.
 
-
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/exterior_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
 
@@ -134,7 +133,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/screens_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -151,7 +149,6 @@ Modellen har ikke et head-up display.
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/headlights_1_st.jpg" title="Honda e:Ny1" width="3000" height="1819"  >}}
 
@@ -177,7 +174,6 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 Lagekapaciteten i bagagerummet er 346 liter. Bilens maksimale vægt er 2080 kg (4586 lbs), og med basisvægten på 1677 kg (3697 lbs), kan du maksimalt laste 403 kg (888 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/trunk_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

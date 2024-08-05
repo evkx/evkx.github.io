@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 22 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 2 timer og 49 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/charging_1_st.jpg" title="Smart #1 Pulse" width="3000" height="1687"  >}}
 
 ### Ladeport
@@ -83,7 +82,6 @@ Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, p
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchback-stil bagklap](../../../../technology/doors/#hatcback-style-liftgate).
 
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/exterior_1_st.jpg" title="Smart #1 Pulse" width="3000" height="2246"  >}}
 
@@ -154,7 +152,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch øverst på midterkonsollen er 12,8 tommer stor
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/screens_1_st.jpg" title="Smart #1 Pulse" width="3000" height="1687"  >}}
 

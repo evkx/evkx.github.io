@@ -105,7 +105,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panoramaglastak som strekker seg fra front til bak, noe som forbedrer interiørets romslige og lyse følelse og dermed forbedrer stemningen og komforten til passasjerene. Dette glasset er tonet for å beskytte mot varme fra solen.
 
-
 {{< sitefiguresized thumb="models/nio/et5/et5/exterior_1_st.jpg" title="Nio ET5" width="1920" height="1104"  >}}
 
 
@@ -182,7 +181,6 @@ Viktige skjermdetaljer:
 - touch-skjermen i midten av midtkonsollen er 12,3 tommer stor
 
 Modellen er ikke tilgjengelig med head-up display.
-
 
 {{< sitefiguresized thumb="models/nio/et5/et5/screens_1_st.jpg" title="Nio ET5" width="3000" height="1690"  >}}
 

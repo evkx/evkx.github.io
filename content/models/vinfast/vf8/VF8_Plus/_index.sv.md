@@ -89,7 +89,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/exterior_1_st.jpg" title="VinFast VF8 Plus" width="2048" height="1365"  >}}
 
 
@@ -133,7 +132,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/secondrowseats_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
 
 
@@ -167,7 +165,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch i mitten av instrumentbrädan är 15,6 tum
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/screens_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
 

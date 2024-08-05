@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 4 horas y 37 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/opel/mokka/mokka_electric/charging_1_st.jpeg" title="Opel Mokka Electric" width="1920" height="1280"  >}}
 
 ### Puerto de carga
@@ -87,7 +86,6 @@ Sólo hay un techo para este modelo.
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/opel/mokka/mokka_electric/exterior_1_st.jpeg" title="Opel Mokka Electric" width="1920" height="1280"  >}}
 
 
@@ -117,7 +115,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Gray [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 - Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/opel/mokka/mokka_electric/frontseats_1_st.jpeg" title="Opel Mokka Electric" width="1920" height="1371"  >}}
 
@@ -159,7 +156,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en el centro del tablero mide 10,3 pulgadas de tamaño
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/opel/mokka/mokka_electric/screens_1_st.jpeg" title="Opel Mokka Electric" width="1920" height="1280"  >}}
 

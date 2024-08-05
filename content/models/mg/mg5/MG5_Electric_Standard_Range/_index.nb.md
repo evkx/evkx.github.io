@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 4 timer og 10 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/charging_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="2001"  >}}
 
 ### Ladeport
@@ -81,7 +80,6 @@ Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på
 
 Det er bare ett tak for denne modellen.
 
-
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/exterior_1_st.jpg" title="MG MG5 Electric Standard Range" width="2560" height="1707"  >}}
 
 
@@ -108,7 +106,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 - Gray [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/frontseats_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="2005"  >}}
 
 #### Seter på andre rad
@@ -116,7 +113,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/secondrowseats_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="2004"  >}}
 
@@ -154,7 +150,6 @@ Viktige skjermdetaljer:
 - touch-skjermen øverst på midtkonsollen er 10,3 tommer stor
 
 Modellen er ikke tilgjengelig med head-up display.
-
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/screens_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="2002"  >}}
 
@@ -213,7 +208,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 Lastkapasiteten i bagasjerommet er 479 liter. Med baksetet nede er det 1367 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2017 kg, og med basisvekten på 1562 kg kan du maksimalt laste 455 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 500, og på ubremset er den 500 kg.
-
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/trunk_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="1996"  >}}
 <div class="mt-3 mb-3">

@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 0 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/charging_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -85,7 +84,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 
 There are two different roof options to select from. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/exterior_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
 
 
@@ -111,7 +109,6 @@ The following functionalities are available on the **** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/frontseats_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -121,7 +118,6 @@ You can choose from 1 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/secondrowseats_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
 
@@ -161,7 +157,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/screens_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -184,7 +179,6 @@ You can choose between two types of headlights for the Volvo EC40 Single Motor.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/headlights_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2184"  >}}
 
@@ -225,7 +219,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 The cargo capacity in the trunk is 419 liters. With the rear seat down, it is 1205 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 31 liters (1.1 CU FT). The maxium weight of the car is 2460 kg (5423 lbs), and with the base weight of 1990 kg (4387 lbs), you can max load 470 kg (1036 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/trunk_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
 

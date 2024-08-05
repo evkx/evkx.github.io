@@ -81,7 +81,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/xpeng/p7/p7_awd_performance/exterior_1_st.jpg" title="XPENG P7 AWD Performance" width="3000" height="2000"  >}}
 
 
@@ -159,7 +158,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en el centro del tablero mide 15,0 pulgadas de tamaño
 
 El modelo no tiene head-up display.
-
 
 {{< sitefiguresized thumb="models/xpeng/p7/p7_awd_performance/screens_1_st.jpg" title="XPENG P7 AWD Performance" width="2000" height="1334"  >}}
 

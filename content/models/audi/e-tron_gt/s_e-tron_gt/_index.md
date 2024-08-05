@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 49 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 22 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 4 hours and 24 minutes at home.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/charging_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
 ### Charge port
@@ -112,7 +111,6 @@ There are two different roof options to select from. The standard roof includes 
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers. As an option, double-glazed side windows are available to reduce cabin noise, enhancing the overall driving experience.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/exterior_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
 
@@ -167,7 +165,6 @@ The following functionalities are available on the **sport pro** seat.
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 4 different materials/colors for this seat type.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/frontseats_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
@@ -236,7 +233,6 @@ You can choose between three types of headlights for the Audi S e-tron GT.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/headlights_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
 ## Advanced driver assistance systems
@@ -288,7 +284,6 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 405 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 85 liters (3.0 CU FT). The maxium weight of the car is 2860 kg (6305 lbs), and with the base weight of 2340 kg (5159 lbs), you can max load 520 kg (1146 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/trunk_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2249"  >}}
 

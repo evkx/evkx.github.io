@@ -86,7 +86,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/exterior_1_st.jpg" title="Seres 5 4WD Premium" width="1920" height="1012"  >}}
 
 
@@ -158,7 +157,6 @@ Détails clés de l'écran :
 - L'écran  au centre du tableau de bord mesure 15,6 pouces
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/screens_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707"  >}}
 

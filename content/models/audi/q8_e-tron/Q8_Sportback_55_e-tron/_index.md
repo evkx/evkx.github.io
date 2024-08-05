@@ -113,7 +113,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers. As an option, double-glazed side windows are available to reduce cabin noise, enhancing the overall driving experience.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_sportback_55_e-tron/exterior_1_st.jpeg" title="Audi Q8 Sportback 55 e-tron" width="3000" height="2002"  >}}
 
 

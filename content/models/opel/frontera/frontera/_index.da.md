@@ -90,7 +90,6 @@ Der er kun ét tag til denne model.
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/opel/frontera/exterior_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
 
 
@@ -173,7 +172,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/opel/frontera/screens_1_st.jpg" title="Opel Frontera" width="3000" height="1875"  >}}
 
 
@@ -204,7 +202,6 @@ Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderl
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/opel/frontera/headlights_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
 
@@ -240,7 +237,6 @@ Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), én
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 460 liter. Med bagsædet nede er det 1594 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2030 kg (4475 lbs), og med basisvægten på 1439 kg (3172 lbs), kan du maksimalt laste 591 kg (1303 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
-
 
 {{< sitefiguresized thumb="models/opel/frontera/trunk_1_st.jpg" title="Opel Frontera" width="3000" height="2000"  >}}
 

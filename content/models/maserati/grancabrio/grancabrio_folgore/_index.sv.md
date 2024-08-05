@@ -96,7 +96,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/exterior_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1740"  >}}
 
 
@@ -125,7 +124,6 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/frontseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
@@ -136,7 +134,6 @@ Den andra raden har en standardbänk med tre sittplatser med en -sektion där du
 
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/secondrowseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2213"  >}}
 
@@ -178,7 +175,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/screens_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1845"  >}}
 
 ## Infotainment
@@ -206,7 +202,6 @@ Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få yt
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/headlights_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2000"  >}}
 

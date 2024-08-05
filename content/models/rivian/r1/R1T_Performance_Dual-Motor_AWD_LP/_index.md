@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 11 hours and 44 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/charging_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2048" height="1280"  >}}
 
 ### Charge port
@@ -84,7 +83,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [tailgate]
 There is only one roof for this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/exterior_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2100" height="1400"  >}}
 
@@ -163,7 +161,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/screens_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="1600" height="1067"  >}}
 
 
@@ -189,7 +186,6 @@ The model has 8 USB-C connections as standard.
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/headlights_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2880" height="1920"  >}}
 
@@ -232,7 +228,6 @@ With the Driver+  level 2 system, you get the following driving automation featu
 The cargo capacity in the truck bed is 1925 liters. The bed width is 1275 mm, and length is 1371 mm. The max load weight in bed is 800 kg. On the roof, you can load up to 113 kg (249.1 lbs). Under the hood, there is frunk with more storage room. This frunk is 314 liters (11.1 CU FT). The maxium weight of the car is 3870 kg (8532 lbs), and with the base weight of 2858 kg (6301 lbs), you can max load 1012 kg (2231 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 5000, and on unbraked, it is 750 kg (11023/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/trunk_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2880" height="1920"  >}}
 

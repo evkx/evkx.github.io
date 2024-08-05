@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 0 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85/charging_1_st.jpg" title="SKODA ENYAQ COUPÉ 85" width="3000" height="2070"  >}}
 
 ### Charge port
@@ -91,7 +90,6 @@ There is only one roof for this model. The standard roof includes a large panora
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85/exterior_1_st.jpg" title="SKODA ENYAQ COUPÉ 85" width="3000" height="2002"  >}}
 
 
@@ -120,7 +118,6 @@ The following functionalities are available on the **Sport** seat.
 
 You can choose from 2 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85/frontseats_1_st.jpg" title="SKODA ENYAQ COUPÉ 85" width="3000" height="2001"  >}}
 
 #### Second-row seat
@@ -128,7 +125,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85/secondrowseats_1_st.jpg" title="SKODA ENYAQ COUPÉ 85" width="3000" height="2001"  >}}
 
@@ -167,7 +163,6 @@ Key screen details:
 - The touch screen on the dashboard's center is 13.0 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85/screens_1_st.jpg" title="SKODA ENYAQ COUPÉ 85" width="3000" height="1999"  >}}
 
@@ -240,7 +235,6 @@ With the MAX  level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 570 liters. With the rear seat down, it is 1610 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2740 kg (6041 lbs), and with the base weight of 2180 kg (4806 lbs), you can max load 560 kg (1235 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85/trunk_1_st.jpg" title="SKODA ENYAQ COUPÉ 85" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

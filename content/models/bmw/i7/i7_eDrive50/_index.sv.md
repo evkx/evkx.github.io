@@ -89,7 +89,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/exterior_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 
 
@@ -153,7 +152,6 @@ Alternativet second är en [executive-stol kombinerad med en tvåsitsbänk](../.
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 - [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd)
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/secondrowseats_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 
 
@@ -191,7 +189,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/screens_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 
 ## Infotainment
@@ -222,7 +219,6 @@ Du kan välja mellan två typer av strålkastare för BMW i7 eDrive50.
 - Strålkastare baserade på LED Matrix med laserteknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkla ljusstrålen i dussintals mindre strålar som ljusregulatorn kan slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/headlights_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 

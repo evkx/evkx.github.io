@@ -87,7 +87,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/exterior_1_st.jpg" title="BYD Atto 3" width="1600" height="1137"  >}}
 
 
@@ -119,7 +118,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/frontseats_1_st.jpg" title="BYD Atto 3" width="1600" height="1203"  >}}
 
 #### Säten på andra raden
@@ -127,7 +125,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/secondrowseats_1_st.jpg" title="BYD Atto 3" width="1600" height="1121"  >}}
 
@@ -179,7 +176,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/screens_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
 ## Infotainment
@@ -202,7 +198,6 @@ Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutninga
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/headlights_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
@@ -246,7 +241,6 @@ Med   nivå 1-systemet får du följande körautomationsfunktioner.
 ## Lastkapacitet och dragkapacitet
 
 Lastkapaciteten i bagageutrymmet är 440 liter. Med baksätet nedfällt är det 1338 liter. På taket kan du lasta upp till 50 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 2160 kg, och med basvikten på 1750 kg kan du lasta maximalt 410 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
-
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 <div class="mt-3 mb-3">

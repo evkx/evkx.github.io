@@ -87,7 +87,6 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/exterior_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
 
 
@@ -115,7 +114,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/frontseats_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
@@ -125,7 +123,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
-
 
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/secondrowseats_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
 
@@ -166,7 +163,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/screens_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -193,7 +189,6 @@ Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelse
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/headlights_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
 

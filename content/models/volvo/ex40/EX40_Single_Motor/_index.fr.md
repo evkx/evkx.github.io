@@ -82,7 +82,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe deux options de toit différentes à choisir. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre prolonge la majeure partie du toit et les occupants peuvent ouvrir la partie avant. Cette vitre rend la voiture plus belle. l'intérieur semble plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor/exterior_1_st.jpg" title="Volvo EX40 Single Motor" width="1920" height="1080"  >}}
 
 
@@ -107,7 +106,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor/frontseats_1_st.jpg" title="Volvo EX40 Single Motor" width="1920" height="1080"  >}}
 
@@ -154,7 +152,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor/screens_1_st.jpg" title="Volvo EX40 Single Motor" width="3000" height="2249"  >}}
 
 ## Infodivertissement
@@ -177,7 +174,6 @@ Vous pouvez choisir entre deux types de phares pour le Volvo EX40 Single Motor.
 - Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor/headlights_1_st.jpg" title="Volvo EX40 Single Motor" width="1080" height="1080"  >}}
 
@@ -218,7 +214,6 @@ Avec le système Pilot Assist  niveau 2, vous bénéficiez des fonctionnalités 
 La capacité de chargement dans le coffre est de 419 litres. Avec la banquette arrière rabattue, elle est de 1295 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 31 litres (1,1 CU FT). Le poids maximum de la voiture est de 2470 kg (5445 lbs), et avec le poids de base de 1965 kg (4332 lbs), vous pouvez charger au maximum 505 kg (1113 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1500, et sur une remorque non freinée, il est de 750 kg (3307/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor/trunk_1_st.jpg" title="Volvo EX40 Single Motor" width="3000" height="2250"  >}}
 

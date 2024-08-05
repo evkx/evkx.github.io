@@ -89,7 +89,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/exterior_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
 
 
@@ -115,7 +114,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/frontseats_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
@@ -123,7 +121,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
 
@@ -175,7 +172,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/screens_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -206,7 +202,6 @@ Du kan velge mellom to typer frontlykter for Volkswagen ID.3 Pro.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/headlights_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="1894"  >}}
 
@@ -261,7 +256,6 @@ Med Assistantpackage plus  nivå 2-systemet får du flere kjøreautomatiseringsf
 Lastkapasiteten i bagasjerommet er 385 liter. Med baksetet nede er det 1267 liter. På taket kan du laste opptil 0 kg. Maksimumsvekten til bilen er 2290 kg, og med basisvekten på 1786 kg kan du maksimalt laste 504 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/trunk_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

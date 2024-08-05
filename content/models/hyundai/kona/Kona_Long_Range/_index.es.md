@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 5 horas y 56 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/charging_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2054"  >}}
 
 ### Puerto de carga
@@ -86,7 +85,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [pu
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo corredizo. El cristal se extiende sólo sobre la primera fila y los ocupantes pueden abrirlo. Este cristal aporta una sensación de interior al coche. más espacioso y luminoso, lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
-
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/exterior_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2250"  >}}
 
@@ -131,7 +129,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 
-
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/secondrowseats_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2155"  >}}
 
 
@@ -170,7 +167,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/screens_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="1687"  >}}
 
 ## Infoentretenimiento
@@ -197,7 +193,6 @@ El modelo tiene 4 conexiones USB-C de serie.
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/headlights_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2250"  >}}
 
@@ -246,7 +241,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 La capacidad de carga en el maletero es de 466 litros. Con el asiento trasero abatido, es de 1578 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles de techo son estándar en este modelo, lo que facilita el montaje del cofre o portaequipajes en el automóvil. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 27 litros (1,0 CU FT). El peso máximo del automóvil es 2220 kg (4894 lbs), y con el peso base de 1760 kg (3880 lbs), puedes cargar como máximo 460 kg (1014 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 750, y sin freno, es de 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/trunk_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

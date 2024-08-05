@@ -90,7 +90,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo corredizo. El vidrio se extiende sólo sobre la primera fila y los ocupantes pueden abrirlo. Este vidrio hace que el interior del auto se sienta más cómodo. más espacioso y luminoso, lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de cortina manual que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/exterior_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="2000"  >}}
 
 
@@ -138,7 +137,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/frontseats_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 
 #### Asiento de segunda fila
@@ -149,7 +147,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/secondrowseats_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 
@@ -199,7 +196,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/screens_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="2000"  >}}
 
 
@@ -232,7 +228,6 @@ El modelo tiene 4 conexiones USB-C de serie. Como opción, puedes obtener 2 cone
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/headlights_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 

@@ -101,7 +101,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/exterior_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2000"  >}}
 
 
@@ -140,7 +139,6 @@ The following functionalities are available on the **sport** seat.
 
 You can choose from 4 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2001"  >}}
 
 #### Second-row seats
@@ -151,7 +149,6 @@ The standard option is a three-seat bench with a 60:40 split where you can fold 
 
 
 The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2001"  >}}
 
@@ -193,7 +190,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/screens_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -227,7 +223,6 @@ Additionally, you have two options for taillights:
 
 - The standard taillight uses LED technology and offers two distinctive lights, including one reversing light.
 - The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights.
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2000"  >}}
 
@@ -281,7 +276,6 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 535 liters. With the rear seat down, it is 1460 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2715 kg (5986 lbs), and with the base weight of 2140 kg (4718 lbs), you can max load 575 kg (1268 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/trunk_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2000"  >}}
 

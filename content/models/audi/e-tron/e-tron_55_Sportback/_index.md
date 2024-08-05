@@ -119,7 +119,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers. As an option, double-glazed side windows are available to reduce cabin noise, enhancing the overall driving experience.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/exterior_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="2249"  >}}
 
 
@@ -206,7 +205,6 @@ The following functionalities are available on the **multicontour** seat.
 
 You can choose from 4 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/frontseats_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="2249"  >}}
 
 #### Second-row seat
@@ -216,7 +214,6 @@ You can choose from 4 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - height adjustable headrest
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/secondrowseats_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="2249"  >}}
 
@@ -260,7 +257,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/screens_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -292,7 +288,6 @@ You can choose between three types of headlights for the Audi e-tron 55 Sportbac
 - The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/headlights_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="2249"  >}}
 
@@ -350,7 +345,6 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 3170 kg (6989 lbs), and with the base weight of 2520 kg (5556 lbs), you can max load 650 kg (1433 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/trunk_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="2001"  >}}
 

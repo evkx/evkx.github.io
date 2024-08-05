@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 11 timer og 8 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/charging_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
 
 ### Ladeport
@@ -54,7 +53,6 @@ Placeringen af ladeporten er i [venstre bageste hjørne](../../../../technology/
 ### V2L - Køretøj der skal indlæses
 
 Denne model understøtter V2L (Vehicle 2 Load), hvilket betyder, at du kan forsyne elektrisk udstyr, der kræver op til 11,5 kW effekt, inklusive opladning af andre køretøjer. Der er tilgængelige stikkontakter både på ladet og i kabinen.
-
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/v2l_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
 
@@ -107,7 +105,6 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/exterior_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2001"  >}}
 
 
@@ -134,7 +131,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/frontseats_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 
@@ -182,7 +178,6 @@ Vigtige skærmdetaljer:
 For bagsædepassagererne er der en infotainmentskærm i midterkonsollen på anden række.
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/screens_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -205,7 +200,6 @@ Modellen har 3 USB-C-forbindelser som standard.
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/headlights_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 
@@ -261,7 +255,6 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere køreauto
 Lastkapaciteten i lastbilens lad er 1897,23 liter. Ladebredden er 1295 mm, og længden er 1849 mm. Den maksimale lastvægt i lad er 1134 kg. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 201 liter (7,1 CU FT). Bilens maksimale vægt er 4159 kg (9169 lbs), og med basisvægten på 3025 kg (6669 lbs), kan du maksimalt laste 1134 kg (2500 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 4990, og på ubremset er den 750 kg (11000/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/trunk_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 

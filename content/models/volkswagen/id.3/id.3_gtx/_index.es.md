@@ -89,7 +89,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/exterior_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
 
@@ -114,7 +113,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/frontseats_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
@@ -172,7 +170,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/screens_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
 ## Infoentretenimiento
@@ -203,7 +200,6 @@ Puedes elegir entre dos tipos de faros para el Volkswagen ID.3 GTX.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/headlights_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 

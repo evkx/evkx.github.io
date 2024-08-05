@@ -102,7 +102,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna. Som ett alternativ finns dubbelglasade sidofönster tillgängliga för att minska kabinbuller och förbättra den totala körupplevelsen.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_e-tron/exterior_1_st.jpeg" title="Audi SQ8 e-tron" width="3000" height="1999"  >}}
 
 
@@ -240,7 +239,6 @@ Du kan välja mellan tre typer av strålkastare för Audi SQ8 e-tron.
 - Strålkastare baserade på LED Digital Matrix-teknik finns som tillval.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_e-tron/headlights_1_st.jpeg" title="Audi SQ8 e-tron" width="3000" height="1999"  >}}
 

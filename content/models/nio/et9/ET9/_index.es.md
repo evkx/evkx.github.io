@@ -89,7 +89,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Sólo hay un techo para este modelo. El techo estándar incluye un gran techo panorámico de cristal que se extiende desde el frente hasta la parte trasera, mejorando la sensación de amplitud y luminosidad del interior, mejorando así el estado de ánimo y la comodidad de los ocupantes. Este vidrio está tintado para proteger contra el calor del sol.
 
-
 {{< sitefiguresized thumb="models/nio/et9/et9/exterior_1_st.jpg" title="Nio ET9" width="1680" height="1000"  >}}
 
 
@@ -121,7 +120,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/nio/et9/et9/frontseats_1_st.jpg" title="Nio ET9" width="1170" height="759"  >}}
 
 #### Asiento de segunda fila
@@ -136,7 +134,6 @@ Para la segunda fila, este modelo tiene [asientos ejecutivos] gemelos(../../../.
 - [masaje](../../../../technology/seats/adjustment/#massage)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 - [reposapiés para pasajero](../../../../technology/seats/adjustment/#footrest)
-
 
 {{< sitefiguresized thumb="models/nio/et9/et9/secondrowseats_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
 
@@ -195,7 +192,6 @@ El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/nio/et9/et9/headlights_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
 

@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 10 timer og 16 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/charging_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2032"  >}}
 
 ### Ladeport
@@ -87,7 +86,6 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/exterior_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="1399"  >}}
 
 
@@ -119,7 +117,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 - Gray [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 - White [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/frontseats_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2256"  >}}
 
@@ -167,7 +164,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/screens_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2052"  >}}
 
 
@@ -189,7 +185,6 @@ Modellen har 1 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/headlights_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="1467"  >}}
 

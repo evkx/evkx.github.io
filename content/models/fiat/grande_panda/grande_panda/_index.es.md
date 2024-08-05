@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 7,4 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 5 horas y 56 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/charging_1_st.JPG" title="Fiat Grande Panda" width="3000" height="1999"  >}}
 
 ### Puerto de carga
@@ -93,7 +92,6 @@ Sólo hay un techo para este modelo.
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/exterior_1_st.jpg" title="Fiat Grande Panda" width="3000" height="1577"  >}}
 
 
@@ -125,7 +123,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfo
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - Black/Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/frontseats_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 
@@ -170,7 +167,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/screens_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 
 
@@ -201,7 +197,6 @@ El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 cone
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/headlights_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 
@@ -237,7 +232,6 @@ Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), 
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 361 litros. Con el asiento trasero abatido, es de 1600 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2030 kg (4475 lbs), y con el peso base de 1429 kg (3150 lbs), puedes cargar como máximo 601 kg (1325 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
-
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/trunk_1_st.jpg" title="Fiat Grande Panda" width="3000" height="1782"  >}}
 

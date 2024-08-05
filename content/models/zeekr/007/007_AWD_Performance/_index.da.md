@@ -81,7 +81,6 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/exterior_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
 
@@ -115,7 +114,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 - Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [læderpolstring](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/frontseats_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
 #### Sæde på anden række
@@ -126,7 +124,6 @@ Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan
 
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/secondrowseats_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
@@ -166,7 +163,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch øverst på midterkonsollen er 15,0 tommer stor
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/screens_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 

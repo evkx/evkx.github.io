@@ -86,7 +86,6 @@ Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/exterior_1_st.jpg" title="KGM Torres EVX" width="3000" height="2000"  >}}
 
 
@@ -160,7 +159,6 @@ Viktige skjermdetaljer:
 
 Modellen er ikke tilgjengelig med head-up display.
 
-
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/screens_1_st.jpg" title="KGM Torres EVX" width="3000" height="1960"  >}}
 
 ## Infotainment
@@ -187,7 +185,6 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/headlights_1_st.jpg" title="KGM Torres EVX" width="3000" height="1687"  >}}
 

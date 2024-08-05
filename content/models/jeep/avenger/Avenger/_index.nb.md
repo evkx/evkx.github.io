@@ -84,7 +84,6 @@ Det er bare ett tak for denne modellen.
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/exterior_1_st.jpg" title="Jeep Avenger" width="3000" height="2000"  >}}
 
 
@@ -155,7 +154,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/screens_1_st.jpg" title="Jeep Avenger" width="3000" height="2263"  >}}
 
 ## Infotainment
@@ -180,7 +178,6 @@ I tillegg støtter Jeep Avenger Android Auto og Apple CarPlay. Denne funksjonali
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/headlights_1_st.jpg" title="Jeep Avenger" width="3000" height="1838"  >}}
 
@@ -214,7 +211,6 @@ Med DS Drive Assist  nivå 1-systemet får du følgende kjøreautomatiseringsfun
 Lastkapasiteten i bagasjerommet er 355 liter. Med baksetet nede er det 1050 liter. Maksimumsvekten til bilen er 2025 kg, og med basisvekten på 1520 kg kan du maksimalt laste 505 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/trunk_1_st.jpg" title="Jeep Avenger" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

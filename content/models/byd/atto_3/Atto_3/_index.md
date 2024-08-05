@@ -87,7 +87,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/exterior_1_st.jpg" title="BYD Atto 3" width="1600" height="1137"  >}}
 
 
@@ -119,7 +118,6 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/frontseats_1_st.jpg" title="BYD Atto 3" width="1600" height="1203"  >}}
 
 #### Second-row seat
@@ -127,7 +125,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/secondrowseats_1_st.jpg" title="BYD Atto 3" width="1600" height="1121"  >}}
 
@@ -179,7 +176,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/screens_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
 ## Infotainment
@@ -202,7 +198,6 @@ The model has 2 USB-C connections as standard. The model has 2 USB-A connections
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/headlights_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
@@ -246,7 +241,6 @@ With the   level 1 system, you get the following driving automation features.
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 440 liters. With the rear seat down, it is 1338 liters. On the roof, you can load up to 50 kg (110.2 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2160 kg (4762 lbs), and with the base weight of 1750 kg (3858 lbs), you can max load 410 kg (904 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
-
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 <div class="mt-3 mb-3">

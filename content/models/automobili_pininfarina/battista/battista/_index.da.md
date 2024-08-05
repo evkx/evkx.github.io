@@ -97,7 +97,6 @@ Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, p
 
 Der er kun ét tag til denne model.
 
-
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/exterior_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="2004"  >}}
 
 
@@ -158,7 +157,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/screens_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="1977"  >}}
 
 ## Infotainment
@@ -183,7 +181,6 @@ Yderligere understøtter Automobili Pininfarina Battista Android Auto og Apple C
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/headlights_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="1999"  >}}
 

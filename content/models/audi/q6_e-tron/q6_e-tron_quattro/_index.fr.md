@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 37 minutes à domicile. our une charge plus rapide, vous pouvez opter pour un chargeur embarqué optionnel prenant en charge jusqu'à 22 kW. Avec cette mise à niveau, vous pouvez atteindre une charge complète de 0 à 100% en seulement environ 4 heures et 18 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/charging_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
 
 ### Port de recharge
@@ -114,7 +113,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/exterior_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
 
 
@@ -159,7 +157,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
 
 #### Siège de deuxième rangée
@@ -169,7 +166,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
 
@@ -212,7 +208,6 @@ Détails clés de l'écran :
 - L'écran touch devant le passager dans le tableau de bord mesure 10,9 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/screens_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
 
@@ -257,7 +252,6 @@ Vous pouvez choisir entre deux types de phares pour le Audi Q6 e-tron quattro.
 - Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/headlights_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
 
@@ -316,7 +310,6 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 La capacité de chargement dans le coffre est de 526 litres. Avec la banquette arrière rabattue, elle est de 1529 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 64 litres (2,3 CU FT). Le poids maximum de la voiture est de 2965 kg (6537 lbs), et avec le poids de base de 2325 kg (5126 lbs), vous pouvez charger au maximum 640 kg (1411 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2400, et sur une remorque non freinée, il est de 750 kg (5291/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_quattro/trunk_1_st.jpg" title="Audi Q6 e-tron quattro" width="3000" height="2249"  >}}
 

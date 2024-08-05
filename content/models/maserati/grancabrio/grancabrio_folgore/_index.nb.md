@@ -96,7 +96,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/exterior_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1740"  >}}
 
 
@@ -125,7 +124,6 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/frontseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
@@ -136,7 +134,6 @@ Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hv
 
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/secondrowseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2213"  >}}
 
@@ -178,7 +175,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/screens_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1845"  >}}
 
 ## Infotainment
@@ -206,7 +202,6 @@ Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/headlights_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2000"  >}}
 

@@ -110,7 +110,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne. Som en mulighed er dobbeltglas sidevinduer tilgængelige for at reducere kabinestøj, hvilket forbedrer den samlede køreoplevelse.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/exterior_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="1999"  >}}
 
 
@@ -171,7 +170,6 @@ Følgende funktioner er tilgængelige på **multicontour** sædet.
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/frontseats_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2249"  >}}
 
 #### Sæde på anden række
@@ -220,7 +218,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i bunden af midterkonsollen er 8,6 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/screens_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2250"  >}}
 
@@ -308,7 +305,6 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1725 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 3280 kg (7231 lbs), og med basisvægten på 2655 kg (5853 lbs), kan du maksimalt laste 625 kg (1378 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/trunk_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2249"  >}}
 

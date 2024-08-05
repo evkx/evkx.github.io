@@ -101,7 +101,6 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/exterior_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 
@@ -132,7 +131,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Green [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Blue [lærpolstring](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/frontseats_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
@@ -187,7 +185,6 @@ Viktige skjermdetaljer:
 
 Modellen er ikke tilgjengelig med head-up display.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/screens_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 
@@ -213,7 +210,6 @@ Modellen har 6 USB-C-tilkoblinger som standard.
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/headlights_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
@@ -260,7 +256,6 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/) , 11
 Lastkapasiteten i bagasjerommet er 498 liter. Med baksetet nede er det 2965 liter. På taket kan du laste opptil 113 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 314 liter. Maksimumsvekten til bilen er 3870 kg, og med basisvekten på 3216 kg kan du maksimalt laste 654 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 3492, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 

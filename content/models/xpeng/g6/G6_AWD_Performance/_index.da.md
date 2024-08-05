@@ -81,7 +81,6 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/xpeng/g6/g6_awd_performance/exterior_1_st.jpg" title="XPENG G6 AWD Performance" width="1920" height="1123"  >}}
 
 
@@ -113,7 +112,6 @@ Følgende funktioner er tilgængelige på **** sædet.
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 - Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - Beige [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_awd_performance/frontseats_1_st.jpg" title="XPENG G6 AWD Performance" width="1920" height="1080"  >}}
 
@@ -159,7 +157,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i dashboardets midte er 15,0 tommer stor
 
 Modellen har ikke et head-up display.
-
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_awd_performance/screens_1_st.jpg" title="XPENG G6 AWD Performance" width="3000" height="1546"  >}}
 

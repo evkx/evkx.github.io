@@ -86,7 +86,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/exterior_1_st.jpg" title="Seres 5 4WD Premium" width="1920" height="1012"  >}}
 
 
@@ -158,7 +157,6 @@ Viktiga skärmdetaljer:
 - Skärmen  i mitten av instrumentbrädan är 15,6 tum
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/screens_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707"  >}}
 

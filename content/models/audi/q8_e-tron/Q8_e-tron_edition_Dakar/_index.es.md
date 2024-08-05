@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 9 horas y 38 minutos usando un cargador en casa. Para una carga más rápida, puedes optar por un cargador a bordo opcional que soporta hasta 22 kW. Con esta mejora, puedes lograr una carga completa del 0 al 100% en solo unas 4 horas y 49 minutos en casa.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/charging_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
 ### Puerto de carga
@@ -108,7 +107,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [pu
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este cristal hace que el coche sea más cómodo. El interior se siente más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
 Las ventanas del pilar B y la parte trasera están tintadas. Como opción, están disponibles ventanas laterales de doble acristalamiento para reducir el ruido en la cabina, mejorando la experiencia de conducción en general
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/exterior_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="1999"  >}}
 
@@ -196,7 +194,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/frontseats_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
 #### Asiento de segunda fila
@@ -206,7 +203,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/secondrowseats_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
@@ -250,7 +246,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/screens_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
 ## Infoentretenimiento
@@ -281,7 +276,6 @@ Puedes elegir entre dos tipos de faros para el Audi Q8 e-tron edition Dakar.
 - Los faros basados en tecnología LED Digital Matrix están disponibles como opción.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/headlights_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2000"  >}}
 
@@ -339,7 +333,6 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 La capacidad de carga en el maletero es de 660 litros. Con el asiento trasero abatido, es de 1725 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 3170 kg (6989 lbs), y con el peso base de 2520 kg (5556 lbs), puedes cargar como máximo 650 kg (1433 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1800, y sin freno, es de 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/trunk_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 

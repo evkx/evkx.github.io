@@ -96,7 +96,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset har to paneler. Et over første og anden række, og beboerne kan åbne fronten del. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passageren. Begge glaspaneler har et elektrisk gardin, som passagererne kan bruge til at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/exterior_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 
 
@@ -130,7 +129,6 @@ Følgende funktioner er tilgængelige på **multicontour** sædet.
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2001"  >}}
 
 #### Sæde på anden række
@@ -148,7 +146,6 @@ For anden række har denne model to [executive-sæder](../../../../technology/se
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 - [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest)
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 
@@ -191,7 +188,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/screens_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 
 
@@ -224,7 +220,6 @@ Modellen har 4 USB-C-forbindelser som standard. Som en mulighed kan du få yderl
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/headlights_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 

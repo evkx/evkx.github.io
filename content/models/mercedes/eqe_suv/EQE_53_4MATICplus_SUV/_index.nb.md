@@ -91,7 +91,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad. Dette glasset gjør bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Begge glasspanelene har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_53_4maticplus_suv/exterior_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+ SUV" width="3000" height="1999"  >}}
 
 
@@ -149,7 +148,6 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_53_4maticplus_suv/secondrowseats_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+ SUV" width="3000" height="2089"  >}}
 
 
@@ -201,7 +199,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_53_4maticplus_suv/screens_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+ SUV" width="3000" height="1999"  >}}
 
 
@@ -237,7 +234,6 @@ Du kan velge mellom to typer frontlykter for Mercedes-AMG EQE 53 4MATIC+ SUV.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_53_4maticplus_suv/headlights_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+ SUV" width="3000" height="1999"  >}}
 
@@ -286,7 +282,6 @@ Med Driver Assistance Package Plus  nivå 2-systemet får du flere kjøreautomat
 Lastkapasiteten i bagasjerommet er 520 liter. Med baksetet nede er det 1675 liter. På taket kan du laste opptil 100 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 3195 kg, og med basisvekten på 2690 kg kan du maksimalt laste 505 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1800, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_53_4maticplus_suv/trunk_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+ SUV" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

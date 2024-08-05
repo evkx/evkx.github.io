@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 6 timer og 24 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/charging_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
 ### Ladeport
@@ -87,7 +86,6 @@ Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens br
 Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset har to paneler. Et over første og anden række, og beboerne kan åbne fronten del. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passageren. Begge glaspaneler har et elektrisk gardin, som passagererne kan bruge til at beskytte mod solen.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/exterior_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="2000"  >}}
 
@@ -137,7 +135,6 @@ Følgende funktioner er tilgængelige på **multicontour** sædet.
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/frontseats_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
 #### Sæde på anden række
@@ -147,7 +144,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/secondrowseats_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
@@ -185,7 +181,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/screens_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
 
@@ -218,7 +213,6 @@ Modellen har 4 USB-C-forbindelser som standard. Som en mulighed kan du få yderl
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/headlights_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
@@ -264,7 +258,6 @@ Med Driver Assistance Package  niveau 1-systemet får du følgende køreautomati
 Lagekapaciteten i bagagerummet er 340 liter. Med bagsædet nede er det 1320 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2535 kg (5589 lbs), og med basisvægten på 2030 kg (4475 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/trunk_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 <div class="mt-3 mb-3">

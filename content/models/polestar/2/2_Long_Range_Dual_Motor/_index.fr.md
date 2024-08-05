@@ -84,7 +84,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe deux options de toit différentes à choisir. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil.
 
-
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/exteriore_3_st.jpg" title="Polestar 2 Long Range Dual Motor" width="2953" height="2215"  >}}
 
 
@@ -116,7 +115,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 - Gray [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/frontseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor" width="3000" height="1687"  >}}
 
 #### Siège de deuxième rangée
@@ -126,7 +124,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/secondrowseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor" width="3000" height="2250"  >}}
 
@@ -166,7 +163,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/screens_1_st.jpg" title="Polestar 2 Long Range Dual Motor" width="3000" height="2250"  >}}
 
 ## Infodivertissement
@@ -189,7 +185,6 @@ Vous pouvez choisir entre deux types de phares pour le Polestar 2 Long Range Dua
 - Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/headlights_1_st.jpg" title="Polestar 2 Long Range Dual Motor" width="3000" height="1766"  >}}
 

@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 43 minutes à domicile. our une charge plus rapide, vous pouvez opter pour un chargeur embarqué optionnel prenant en charge jusqu'à 22 kW. Avec cette mise à niveau, vous pouvez atteindre une charge complète de 0 à 100% en seulement environ 4 heures et 21 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350plus_suv/charging_1_st.jpg" title="Mercedes-EQ EQE 350+ SUV" width="3000" height="2001"  >}}
 
 ### Port de recharge
@@ -92,7 +91,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir l'avant
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350plus_suv/exterior_1_st.jpg" title="Mercedes-EQ EQE 350+ SUV" width="3000" height="1687"  >}}
 
 
@@ -139,7 +137,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350plus_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQE 350+ SUV" width="3000" height="2250"  >}}
 
@@ -200,7 +197,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350plus_suv/screens_1_st.jpg" title="Mercedes-EQ EQE 350+ SUV" width="3000" height="2001"  >}}
 
 
@@ -236,7 +232,6 @@ Vous pouvez choisir entre deux types de phares pour le Mercedes-EQ EQE 350+ SUV.
 - Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350plus_suv/headlights_1_st.jpg" title="Mercedes-EQ EQE 350+ SUV" width="3000" height="2250"  >}}
 

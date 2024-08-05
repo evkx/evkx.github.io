@@ -96,7 +96,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir el frente Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Ambos paneles de cristal tienen una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/exterior_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 
 
@@ -130,7 +129,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2001"  >}}
 
 #### Asiento de segunda fila
@@ -148,7 +146,6 @@ Para la segunda fila, este modelo tiene [asientos ejecutivos] gemelos(../../../.
 - [masaje](../../../../technology/seats/adjustment/#massage)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 - [reposapiés para pasajero](../../../../technology/seats/adjustment/#footrest)
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 
@@ -191,7 +188,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/screens_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 
 
@@ -224,7 +220,6 @@ El modelo tiene 4 conexiones USB-C de serie. Como opción, puedes obtener 2 cone
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/headlights_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 

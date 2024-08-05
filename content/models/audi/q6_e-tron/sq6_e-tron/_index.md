@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 37 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 22 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 4 hours and 18 minutes at home.
 
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/charging_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
 ### Charge port
@@ -114,7 +113,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/exterior_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
 
@@ -151,7 +149,6 @@ The following functionalities are available on the **Sport Plus** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/frontseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
 #### Second-row seat
@@ -161,7 +158,6 @@ The following functionalities are available on the **Sport Plus** seat.
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/secondrowseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
@@ -204,7 +200,6 @@ Key screen details:
 - The touch screen in front of the passenger in the dashboard is 10.9 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/screens_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
@@ -249,7 +244,6 @@ You can choose between two types of headlights for the Audi SQ6 e-tron.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/headlights_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
@@ -308,7 +302,6 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 The cargo capacity in the trunk is 514 liters. With the rear seat down, it is 1517 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 64 liters (2.3 CU FT). The maxium weight of the car is 2965 kg (6537 lbs), and with the base weight of 2350 kg (5181 lbs), you can max load 615 kg (1356 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2400, and on unbraked, it is 750 kg (5291/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/trunk_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 

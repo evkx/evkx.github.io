@@ -90,7 +90,6 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/exterior_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2250"  >}}
 
 
@@ -125,7 +124,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/secondrowseats_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2000"  >}}
 
@@ -165,7 +163,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en la consola central trasera mide 8,0 pulgadas de tamaño
 
 El modelo no tiene head-up display.
-
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/screens_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2000"  >}}
 
@@ -240,7 +237,6 @@ Con el sistema Full Self-Driving Capability  nivel 3, obtienes funciones de auto
 La capacidad de carga en el maletero es de 709 litros. Con el asiento trasero abatido, es de 1828 litros. En el techo, puedes cargar hasta 70 kg (154,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 89 litros (3,1 CU FT). El peso máximo del automóvil es 2629 kg (5796 lbs), y con el peso base de 2265 kg (4993 lbs), puedes cargar como máximo 364 kg (802 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Una barra de remolque es equipo estándar en este modelo. El peso total máximo en un remolque con freno es 1600, y sin freno, es 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/trunk_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

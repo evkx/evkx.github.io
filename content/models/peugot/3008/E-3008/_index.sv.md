@@ -86,7 +86,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/exterior_1_st.jpg" title="Peugot E-3008" width="3000" height="1666"  >}}
 
 
@@ -119,7 +118,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/frontseats_1_st.jpg" title="Peugot E-3008" width="3000" height="2250"  >}}
 
@@ -167,7 +165,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/screens_1_st.jpg" title="Peugot E-3008" width="3000" height="2167"  >}}
 
 ## Infotainment
@@ -198,7 +195,6 @@ Du kan välja mellan två typer av strålkastare för Peugot E-3008.
 - Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/headlights_1_st.jpg" title="Peugot E-3008" width="3000" height="2250"  >}}
 

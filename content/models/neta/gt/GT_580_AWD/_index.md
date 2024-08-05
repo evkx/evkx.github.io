@@ -79,7 +79,6 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 There is only one roof for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 
-
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/exterior_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="950"  >}}
 
 
@@ -105,7 +104,6 @@ The following functionalities are available on the **** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 You can choose from 1 different materials/colors for this seat type.
-
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/frontseats_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="1081"  >}}
 
@@ -150,7 +148,6 @@ Key screen details:
 - The touch screen at the top of the center console is 17.6 inches large
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/screens_1_st.jpg" title="Neta GT 580 AWD" width="3000" height="2000"  >}}
 

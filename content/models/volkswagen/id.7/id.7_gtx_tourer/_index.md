@@ -89,7 +89,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/exterior_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
 
@@ -131,7 +130,6 @@ The following functionalities are available on the **ergoActive Top-Sport** seat
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 1 different materials/colors for this seat type.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/frontseats_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
@@ -178,7 +176,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/screens_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -206,7 +203,6 @@ The model has 4 USB-C connections as standard.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/headlights_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
@@ -257,7 +253,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 605 liters. With the rear seat down, it is 1714 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2630 kg (5798 lbs), and with the base weight of 2197 kg (4844 lbs), you can max load 433 kg (955 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/trunk_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 

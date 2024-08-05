@@ -84,7 +84,6 @@ Der er kun ét tag til denne model.
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/fiat/600e/600e/exterior_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 
 
@@ -114,7 +113,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/frontseats_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 
@@ -158,7 +156,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/fiat/600e/600e/screens_1_st.jpg" title="Fiat 600e" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -185,7 +182,6 @@ Modellen har 3 USB-A-forbindelser som standard.
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/headlights_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 
@@ -219,7 +215,6 @@ Med DS Drive Assist  niveau 1-systemet får du følgende køreautomatiseringsfun
 Lagekapaciteten i bagagerummet er 360 liter. Med bagsædet nede er det 1231 liter. Bilens maksimale vægt er 2025 kg (4464 lbs), og med basisvægten på 1520 kg (3351 lbs), kan du maksimalt laste 505 kg (1113 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/trunk_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

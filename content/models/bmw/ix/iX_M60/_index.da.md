@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 9 timer og 33 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/charging_1_st.jpg" title="BMW iX M60" width="3000" height="2002"  >}}
 
 ### Ladeport
@@ -88,7 +87,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/exterior_1_st.jpg" title="BMW iX M60" width="3000" height="2000"  >}}
 
 
@@ -117,7 +115,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
 
 Du kan vælge mellem 7 forskellige materialer/farver til denne sædetype.
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/frontseats_1_st.jpg" title="BMW iX M60" width="3000" height="1999"  >}}
 
@@ -163,7 +160,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/screens_1_st.jpg" title="BMW iX M60" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -194,7 +190,6 @@ Du kan vælge mellem to typer forlygter til BMW iX M60.
 - Forlygter baseret på LED Matrix med laserteknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukkes individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/headlights_1_st.jpg" title="BMW iX M60" width="3000" height="1999"  >}}
 
@@ -242,7 +237,6 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 Lagekapaciteten i bagagerummet er 500 liter. Med bagsædet nede er det 1750 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 3135 kg (6911 lbs), og med basisvægten på 2510 kg (5534 lbs), kan du maksimalt laste 625 kg (1378 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2500, og på ubremset er den 750 kg (5512/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/trunk_1_st.jpg" title="BMW iX M60" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

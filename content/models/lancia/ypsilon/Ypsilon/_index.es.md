@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 4 horas y 37 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/charging_1_st.jpg" title="Lancia Ypsilon" width="3000" height="2250"  >}}
 
 ### Puerto de carga
@@ -84,7 +83,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/exterior_1_st.jpg" title="Lancia Ypsilon" width="3000" height="1688"  >}}
 
 
@@ -116,7 +114,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Gray [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 - Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/frontseats_1_st.jpg" title="Lancia Ypsilon" width="3000" height="1688"  >}}
 
 #### Asiento de segunda fila
@@ -126,7 +123,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
-
 
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/secondrowseats_1_st.jpg" title="Lancia Ypsilon" width="3000" height="2250"  >}}
 
@@ -164,7 +160,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en la parte derecha del marco compartido mide 10,0 pulgadas de tamaño
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/screens_1_st.jpg" title="Lancia Ypsilon" width="3000" height="1688"  >}}
 
@@ -225,7 +220,6 @@ Con el sistema DS Drive Assist  nivel 1, obtienes las siguientes funciones de au
 La capacidad de carga en el maletero es de 352 litros. Con el asiento trasero abatido, es de 1268 litros. En el techo, puedes cargar hasta 70 kg (154,3 lbs). Los rieles de techo son estándar en este modelo, lo que facilita el montaje del cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 1950 kg (4299 lbs), y con el peso base de 1584 kg (3492 lbs), puedes cargar como máximo 366 kg (807 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
-
 
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/trunk_1_st.jpg" title="Lancia Ypsilon" width="3000" height="2250"  >}}
 

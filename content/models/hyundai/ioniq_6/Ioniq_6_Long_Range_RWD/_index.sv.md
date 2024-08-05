@@ -86,7 +86,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/exterior_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2001"  >}}
 
 
@@ -116,7 +115,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/frontseats_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
@@ -126,7 +124,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/secondrowseats_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2123"  >}}
 
@@ -164,7 +161,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/screens_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -191,7 +187,6 @@ Modellen har 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/headlights_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2000"  >}}
 

@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 43 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/charging_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 ### Charge port
@@ -85,7 +84,6 @@ There is only one roof for this model. The standard roof has a sunroof. The glas
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/exterior_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 
@@ -114,7 +112,6 @@ The following functionalities are available on the **** seat.
 You can choose from 1 different materials/colors for this seat type.
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 #### Second-row seat
@@ -124,7 +121,6 @@ You can choose from 1 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/secondrowseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
@@ -162,7 +158,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/screens_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 ## Infotainment
@@ -190,7 +185,6 @@ The model has 4 USB-C connections as standard. The model has 1 USB-A connections
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/headlights_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
@@ -235,7 +229,6 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 480 liters. With the rear seat down, it is 1260 liters. On the roof, you can load up to 80 kg (176.4 lbs). Roof rails are standard on this model, making it easy to mount the roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 20 liters (0.7 CU FT). The maxium weight of the car is 2610 kg (5754 lbs), and with the base weight of 2125 kg (4685 lbs), you can max load 485 kg (1069 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 485kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/trunk_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 <div class="mt-3 mb-3">

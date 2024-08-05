@@ -87,7 +87,6 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/exterior_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
 
 
@@ -115,7 +114,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/frontseats_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
@@ -125,7 +123,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
-
 
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/secondrowseats_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
 
@@ -166,7 +163,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/screens_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -193,7 +189,6 @@ Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/headlights_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
 

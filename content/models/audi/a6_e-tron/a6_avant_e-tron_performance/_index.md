@@ -109,7 +109,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/exterior_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2250"  >}}
 
 
@@ -145,7 +144,6 @@ The following functionalities are available on the **Sport Plus** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/frontseats_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
@@ -197,7 +195,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/screens_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
 
@@ -244,7 +241,6 @@ Additionally, you have two options for taillights:
 
 - Standard Taillights use LED technology, ensuring visibility and efficiency.
 - The standard taillights use OLED technology.
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
@@ -303,7 +299,6 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 The cargo capacity in the trunk is 502 liters. With the rear seat down, it is 1422 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 27 liters (1.0 CU FT). The maxium weight of the car is 2760 kg (6085 lbs), and with the base weight of 2185 kg (4817 lbs), you can max load 575 kg (1268 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2100, and on unbraked, it is 750 kg (4630/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 

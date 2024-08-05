@@ -84,7 +84,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/peugot/308/e-308/exterior_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
 
 
@@ -116,7 +115,6 @@ You can choose from 4 different materials/colors for this seat type.
 - Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/peugot/308/e-308/frontseats_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -126,7 +124,6 @@ You can choose from 4 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - height adjustable headrest
-
 
 {{< sitefiguresized thumb="models/peugot/308/e-308/secondrowseats_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
 
@@ -164,7 +161,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/peugot/308/e-308/screens_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -191,7 +187,6 @@ The model has 3 USB-C connections as standard.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/peugot/308/e-308/headlights_1_st.jpg" title="Peugot E-308" width="3000" height="2001"  >}}
 
@@ -227,7 +222,6 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 The cargo capacity in the trunk is 361 liters. With the rear seat down, it is 1271 liters. On the roof, you can load up to 70 kg (154.3 lbs). The maxium weight of the car is 2110 kg (4652 lbs), and with the base weight of 1684 kg (3713 lbs), you can max load 426 kg (939 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/peugot/308/e-308/trunk_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
 

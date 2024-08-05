@@ -101,7 +101,6 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/exterior_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 
@@ -132,7 +131,6 @@ You can choose from 3 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Green [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/frontseats_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
@@ -187,7 +185,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/screens_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 
@@ -213,7 +210,6 @@ The model has 6 USB-C connections as standard.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/headlights_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
@@ -260,7 +256,6 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), 11 
 The cargo capacity in the trunk is 498 liters. With the rear seat down, it is 2965 liters. On the roof, you can load up to 113 kg (249.1 lbs). Under the hood, there is frunk with more storage room. This frunk is 314 liters (11.1 CU FT). The maxium weight of the car is 3870 kg (8532 lbs), and with the base weight of 3216 kg (7090 lbs), you can max load 654 kg (1442 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 3492, and on unbraked, it is 750 kg (7699/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 

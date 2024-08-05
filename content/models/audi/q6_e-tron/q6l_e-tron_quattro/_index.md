@@ -111,7 +111,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_1_st.jpg" title="Audi Q6L e-tron quattro" width="3000" height="2250"  >}}
 
 
@@ -243,7 +242,6 @@ You can choose between two types of headlights for the Audi Q6L e-tron quattro.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6l_e-tron_quattro/headlights_1_st.jpg" title="Audi Q6L e-tron quattro" width="3000" height="2250"  >}}
 

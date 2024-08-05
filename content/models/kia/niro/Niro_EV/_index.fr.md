@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 5 heures et 53 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/charging_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
 ### Port de recharge
@@ -89,7 +88,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/exterior_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
 
@@ -133,7 +131,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 
-
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/secondrowseats_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
 
@@ -169,7 +166,6 @@ Détails clés de l'écran :
 - L'écran touch à droite du cadre partagé mesure 10,3 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/screens_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
@@ -240,7 +236,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 La capacité de chargement dans le coffre est de 475 litres. Avec la banquette arrière rabattue, elle est de 1392 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont standard sur ce modèle, ce qui facilite le montage du coffre de toit ou des barres de toit sur la voiture. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 20 litres (0,7 CU FT). Le poids maximum de la voiture est de 220 kg (485 lbs), et avec le poids de base de 1557 kg (3433 lbs), vous pouvez charger au maximum -1337 kg (-2948 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 750, et sur une remorque non freinée, il est de 300 kg (1653/661 lbs).
-
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/trunk_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

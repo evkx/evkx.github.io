@@ -88,7 +88,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panor
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/exterior_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="1687"  >}}
 
 
@@ -118,7 +117,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 - Gray [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/frontseats_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
 
 #### Siège de deuxième rangée
@@ -128,7 +126,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/secondrowseats_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
 
@@ -169,7 +166,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/screens_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
 
 
@@ -203,7 +199,6 @@ Vous pouvez choisir entre deux types de phares pour le Renault Scenic E-Tech ele
 - Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/headlights_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="1687"  >}}
 
@@ -247,7 +242,6 @@ Avec le système ProPILOT  niveau 2, vous bénéficiez des fonctionnalités d'au
 La capacité de chargement dans le coffre est de 545 litres. Avec la banquette arrière rabattue, elle est de 1490 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2340 kg (5159 lbs), et avec le poids de base de 1772 kg (3907 lbs), vous pouvez charger au maximum 568 kg (1252 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1100, et sur une remorque non freinée, il est de 750 kg (2425/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/trunk_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

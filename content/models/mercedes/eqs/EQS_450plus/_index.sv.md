@@ -92,7 +92,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset har två paneler. En ovanför första och andra raden. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humöret och komforten för den åkande. Båda glaspanelerna har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/exterior_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 
 
@@ -140,7 +139,6 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="4085"  >}}
 
 #### Säten på andra raden
@@ -158,7 +156,6 @@ Alternativet second är en tresitssbänk med en 40:20:40-sektion där du kan vik
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 
@@ -287,7 +284,6 @@ Med DRIVE PILOT  nivå 3-systemet får du fler körautomationsfunktioner än de 
 Lastkapaciteten i bagageutrymmet är 610 liter. Med baksätet nedfällt är det 1770 liter. På taket kan du lasta upp till 100 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 3060 kg, och med basvikten på 2540 kg kan du lasta maximalt 520 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 750, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/trunk_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 

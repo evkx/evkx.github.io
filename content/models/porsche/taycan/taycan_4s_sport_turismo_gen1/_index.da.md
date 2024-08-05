@@ -115,7 +115,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset for at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo_gen1/exterior_1_st.jpg" title="Porsche Taycan 4S Sport Turismo (GEN1)" width="3000" height="2001"  >}}
 
 
@@ -171,7 +170,6 @@ Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo_gen1/frontseats_1_st.jpg" title="Porsche Taycan 4S Sport Turismo (GEN1)" width="3000" height="2001"  >}}
 
 #### Sæder på anden række
@@ -185,7 +183,6 @@ Muligheden standard er to integrerede sæder i anden række. Derudover er følge
 Muligheden second er to integrerede sæder i anden række med et tredje mindre sæde imellem. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo_gen1/secondrowseats_1_st.jpg" title="Porsche Taycan 4S Sport Turismo (GEN1)" width="3000" height="1912"  >}}
 
@@ -226,7 +223,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo_gen1/screens_1_st.jpg" title="Porsche Taycan 4S Sport Turismo (GEN1)" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -256,7 +252,6 @@ Du kan vælge mellem to typer forlygter til Porsche Taycan 4S Sport Turismo (GEN
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo_gen1/headlights_1_st.jpg" title="Porsche Taycan 4S Sport Turismo (GEN1)" width="3000" height="2000"  >}}
 
@@ -309,7 +304,6 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 Lagekapaciteten i bagagerummet er 446 liter. Med bagsædet nede er det 1171 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2875 kg (6338 lbs), og med basisvægten på 2170 kg (4784 lbs), kan du maksimalt laste 705 kg (1554 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo_gen1/trunk_1_st.jpg" title="Porsche Taycan 4S Sport Turismo (GEN1)" width="3000" height="1747"  >}}
 

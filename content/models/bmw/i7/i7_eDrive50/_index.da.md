@@ -89,7 +89,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/exterior_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 
 
@@ -153,7 +152,6 @@ Muligheden second er et [executive-sæde kombineret med en to-sædet bænk](../.
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 - [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest)
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/secondrowseats_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 
 
@@ -191,7 +189,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/screens_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 
 ## Infotainment
@@ -222,7 +219,6 @@ Du kan vælge mellem to typer forlygter til BMW i7 eDrive50.
 - Forlygter baseret på LED Matrix med laserteknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukkes individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/headlights_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 

@@ -89,7 +89,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/cupra/born/born_58/exterior_1_st.jpg" title="CUPRA BORN 58" width="3000" height="1711"  >}}
 
 
@@ -117,7 +116,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
-
 
 {{< sitefiguresized thumb="models/cupra/born/born_58/frontseats_1_st.jpg" title="CUPRA BORN 58" width="3000" height="2110"  >}}
 
@@ -163,7 +161,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/cupra/born/born_58/screens_1_st.jpg" title="CUPRA BORN 58" width="3000" height="1714"  >}}
 
 ## Infotainment
@@ -191,7 +188,6 @@ Modellen har 4 USB-C-anslutningar som standard.
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/cupra/born/born_58/headlights_1_st.jpg" title="CUPRA BORN 58" width="3000" height="1976"  >}}
 

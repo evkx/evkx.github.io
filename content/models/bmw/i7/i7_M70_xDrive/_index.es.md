@@ -89,7 +89,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/exterior_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1999"  >}}
 
 
@@ -118,7 +117,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
 Puedes elegir entre 7 diferentes materiales/colores para este tipo de asiento.
-
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/frontseats_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2001"  >}}
 
@@ -173,7 +171,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/screens_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1991"  >}}
 
 ## Infoentretenimiento
@@ -204,7 +201,6 @@ Puedes elegir entre dos tipos de faros para el BMW i7 M70 xDrive.
 - Los faros basados en LED Matrix con tecnología láser están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apague individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/headlights_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2001"  >}}
 

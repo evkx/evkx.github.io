@@ -107,7 +107,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/nio/es8/es8/exterior_1_st.jpg" title="Nio ES8" width="3000" height="1687"  >}}
 
 
@@ -137,7 +136,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [reposapiés para pasajero](../../../../technology/seats/adjustment/#footrest)
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
-
 
 {{< sitefiguresized thumb="models/nio/es8/es8/frontseats_1_st.jpg" title="Nio ES8" width="2880" height="1784"  >}}
 
@@ -192,7 +190,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/nio/es8/es8/screens_1_st.jpg" title="Nio ES8" width="3000" height="1659"  >}}
 
 
@@ -219,7 +216,6 @@ El modelo tiene 3 conexiones USB-A de serie.
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/nio/es8/es8/headlights_1_st.jpg" title="Nio ES8" width="3000" height="1686"  >}}
 

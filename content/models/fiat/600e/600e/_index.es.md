@@ -84,7 +84,6 @@ Sólo hay un techo para este modelo.
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/fiat/600e/600e/exterior_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 
 
@@ -114,7 +113,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Gray [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 - Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/frontseats_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 
@@ -158,7 +156,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/fiat/600e/600e/screens_1_st.jpg" title="Fiat 600e" width="3000" height="2001"  >}}
 
 ## Infoentretenimiento
@@ -185,7 +182,6 @@ El modelo tiene 3 conexiones USB-A de serie.
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/headlights_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 
@@ -219,7 +215,6 @@ Con el sistema DS Drive Assist  nivel 1, obtienes las siguientes funciones de au
 La capacidad de carga en el maletero es de 360 litros. Con el asiento trasero abatido, es de 1231 litros. El peso máximo del automóvil es 2025 kg (4464 lbs), y con el peso base de 1520 kg (3351 lbs), puedes cargar como máximo 505 kg (1113 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
-
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/trunk_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

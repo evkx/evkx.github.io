@@ -81,7 +81,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 
 Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset for at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_single_motor/exterior_1_st.jpg" title="Polestar 4 Long range Single motor" width="3000" height="1687"  >}}
 
 
@@ -181,7 +180,6 @@ Du kan vælge mellem to typer forlygter til Polestar 4 Long range Single motor.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_single_motor/headlights_1_st.jpg" title="Polestar 4 Long range Single motor" width="3000" height="2250"  >}}
 

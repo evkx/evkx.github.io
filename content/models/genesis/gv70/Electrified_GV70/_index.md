@@ -88,7 +88,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/genesis/gv70/electrified_gv70/exterior_1_st.jpg" title="Genesis Electrified GV70" width="3000" height="1800"  >}}
 
 
@@ -166,7 +165,6 @@ Key screen details:
 - The touch screen at the bottom of the center console is 5.0 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/genesis/gv70/electrified_gv70/screens_1_st.jpg" title="Genesis Electrified GV70" width="3000" height="1535"  >}}
 

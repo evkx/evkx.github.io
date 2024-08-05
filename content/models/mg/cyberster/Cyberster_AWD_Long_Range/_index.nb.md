@@ -79,7 +79,6 @@ Bilen har to [saksedører](../../../../technology/doors/) og et [bagasjelokk](..
 
 Det er bare ett tak for denne modellen. Standardtaket er et stofftak topp som kan slås ned.
 
-
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/exterior_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="1487"  >}}
 
 
@@ -104,7 +103,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Red [polstring av Alcantara/kunstskinn](../../../../technology/seats/materials/#alcantara)
-
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 
@@ -145,7 +143,6 @@ Viktige skjermdetaljer:
 
 Modellen er ikke tilgjengelig med head-up display.
 
-
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/screens_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 
 
@@ -175,7 +172,6 @@ Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/headlights_1_st.jpg" title="MG Cyberster AWD Long Range" width="2800" height="1575"  >}}
 

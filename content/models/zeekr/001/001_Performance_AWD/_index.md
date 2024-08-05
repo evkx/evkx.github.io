@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 38 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/charging_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2250"  >}}
 
 ### Charge port
@@ -83,7 +82,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 There is only one roof for this model. The standard roof has a large panoramic roof extending over most areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/exterior_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2000"  >}}
 
@@ -162,7 +160,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/screens_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2000"  >}}
 
 
@@ -192,7 +189,6 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/headlights_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2250"  >}}
 
@@ -233,7 +229,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 The cargo capacity in the trunk is 539 liters. With the rear seat down, it is 1411 liters. On the roof, you can load up to 100 kg (220.5 lbs). Under the hood, there is frunk with more storage room. This frunk is 32 liters (1.1 CU FT). The maxium weight of the car is 3080 kg (6790 lbs), and with the base weight of 2335 kg (5148 lbs), you can max load 745 kg (1642 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/trunk_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2001"  >}}
 

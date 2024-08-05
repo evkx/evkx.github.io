@@ -81,7 +81,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [pu
 
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande amplio y luminoso, lo que puede mejorar el estado de ánimo y comodidad del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/exterior_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2049"  >}}
 
 
@@ -108,7 +107,6 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - White/Blue [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/frontseats_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
 #### Asiento de segunda fila
@@ -118,7 +116,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/secondrowseats_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
@@ -158,7 +155,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/screens_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
 ## Infoentretenimiento
@@ -184,7 +180,6 @@ Puedes elegir entre dos tipos de faros para el Smart #1 Brabus.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/headlights_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
@@ -231,7 +226,6 @@ Con el sistema Pilot Assist  nivel 2, obtienes las siguientes funciones de autom
 La capacidad de carga en el maletero es de 313 litros. Con el asiento trasero abatido, es de 976 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 15 litros (0,5 CU FT). El peso máximo del automóvil es 2325 kg (5126 lbs), y con el peso base de 2000 kg (4409 lbs), puedes cargar como máximo 325 kg (717 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1600, y sin freno, es de 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/trunk_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 

@@ -84,7 +84,6 @@ Det finns bara ett tak för denna modell.
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/fiat/600e/600e/exterior_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 
 
@@ -114,7 +113,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/frontseats_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 
@@ -158,7 +156,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/fiat/600e/600e/screens_1_st.jpg" title="Fiat 600e" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -185,7 +182,6 @@ Modellen har 3 USB-A-anslutningar som standard.
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/headlights_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 
@@ -219,7 +215,6 @@ Med DS Drive Assist  nivå 1-systemet får du följande körautomationsfunktione
 Lastkapaciteten i bagageutrymmet är 360 liter. Med baksätet nedfällt är det 1231 liter. Bilens maximala vikt är 2025 kg, och med basvikten på 1520 kg kan du lasta maximalt 505 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/trunk_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

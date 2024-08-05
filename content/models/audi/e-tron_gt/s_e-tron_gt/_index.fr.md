@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 49 minutes à domicile. our une charge plus rapide, vous pouvez opter pour un chargeur embarqué optionnel prenant en charge jusqu'à 22 kW. Avec cette mise à niveau, vous pouvez atteindre une charge complète de 0 à 100% en seulement environ 4 heures et 24 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/charging_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
 ### Port de recharge
@@ -106,7 +105,6 @@ Il existe deux options de toit différentes à choisir. Le toit standard compren
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/exterior_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
 
@@ -161,7 +159,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **sport pro**.
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/frontseats_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
@@ -230,7 +227,6 @@ Vous pouvez choisir entre trois types de phares pour le Audi S e-tron GT.
 
 De plus, les feux arrière standard utilisent la technologie LED.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/headlights_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
 ## Systèmes avancés d'aide à la conduite
@@ -282,7 +278,6 @@ Avec le système Assistantpackage Tour  niveau 2, vous bénéficiez de fonctionn
 La capacité de chargement du coffre est de 405 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 85 litres (3,0 CU FT). Le poids maximum de la voiture est de 2860 kg (6305 lbs), et avec le poids de base de 2340 kg (5159 lbs), vous pouvez charger au maximum 520 kg (1146 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/trunk_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2249"  >}}
 

@@ -92,7 +92,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset har to paneler. Et over første og anden række, og beboerne kan åbne fronten del. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passageren. Begge glaspaneler har et elektrisk gardin, som passagererne kan bruge til at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/exterior_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 
 
@@ -140,7 +139,6 @@ Følgende funktioner er tilgængelige på **multicontour** sædet.
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="4085"  >}}
 
 #### Sæder på anden række
@@ -158,7 +156,6 @@ Muligheden second er en tre-sædet bænk med en 40:20:40 del, hvor du kan folde 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 
@@ -287,7 +284,6 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere køreautomatiseringsfunkti
 Lagekapaciteten i bagagerummet er 610 liter. Med bagsædet nede er det 1770 liter. På taget kan du laste op til 100 kg (220,5 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 3060 kg (6746 lbs), og med basisvægten på 2540 kg (5600 lbs), kan du maksimalt laste 520 kg (1146 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/trunk_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 

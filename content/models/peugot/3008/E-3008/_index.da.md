@@ -86,7 +86,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/exterior_1_st.jpg" title="Peugot E-3008" width="3000" height="1666"  >}}
 
 
@@ -119,7 +118,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/frontseats_1_st.jpg" title="Peugot E-3008" width="3000" height="2250"  >}}
 
@@ -167,7 +165,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/screens_1_st.jpg" title="Peugot E-3008" width="3000" height="2167"  >}}
 
 ## Infotainment
@@ -198,7 +195,6 @@ Du kan vælge mellem to typer forlygter til Peugot E-3008.
 - Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008/headlights_1_st.jpg" title="Peugot E-3008" width="3000" height="2250"  >}}
 

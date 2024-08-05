@@ -82,7 +82,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchbac
 
 Det finns två olika takalternativ att välja mellan. Som tillval kan du beställa denna modell med panoramatak. Glaset sträcker ut större delen av taket, och passagerarna kan öppna den främre delen. Detta glas gör bilens interiören känns rymligare och ljusare, något som kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_twin_motor/exterior_1_st.jpg" title="Volvo EX40 Twin Motor" width="1920" height="1080"  >}}
 
 
@@ -107,7 +106,6 @@ Följande funktioner är tillgängliga på **** sätet.
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
-
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_twin_motor/frontseats_1_st.jpg" title="Volvo EX40 Twin Motor" width="1920" height="1080"  >}}
 
@@ -154,7 +152,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_twin_motor/screens_1_st.jpg" title="Volvo EX40 Twin Motor" width="3000" height="2249"  >}}
 
 ## Infotainment
@@ -177,7 +174,6 @@ Du kan välja mellan två typer av strålkastare för Volvo EX40 Twin Motor.
 - Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_twin_motor/headlights_1_st.jpg" title="Volvo EX40 Twin Motor" width="1080" height="1080"  >}}
 
@@ -218,7 +214,6 @@ Med Pilot Assist  nivå 2-systemet får du följande körautomatiseringsfunktion
 Lastkapaciteten i bagageutrymmet är 419 liter. Med baksätet nedfällt är det 1295 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 31 liter. Bilens maximala vikt är 2520 kg, och med basvikten på 2030 kg kan du lasta maximalt 490 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1500, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_twin_motor/trunk_1_st.jpg" title="Volvo EX40 Twin Motor" width="3000" height="2250"  >}}
 

@@ -81,7 +81,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe deux options de toit différentes à choisir. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre a une fonction électrochrome qui permet de mélanger le verre pour se protéger du soleil.
 
-
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_dual_motor/exterior_1_st.jpg" title="Polestar 4 Long range Dual motor" width="3000" height="1687"  >}}
 
 
@@ -181,7 +180,6 @@ Vous pouvez choisir entre deux types de phares pour le Polestar 4 Long range Dua
 - Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_dual_motor/headlights_1_st.jpg" title="Polestar 4 Long range Dual motor" width="3000" height="2250"  >}}
 

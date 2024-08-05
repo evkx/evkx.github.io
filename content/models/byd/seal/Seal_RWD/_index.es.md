@@ -87,7 +87,6 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/exterior_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
 
 
@@ -115,7 +114,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/frontseats_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
@@ -125,7 +123,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
-
 
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/secondrowseats_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
 
@@ -166,7 +163,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/screens_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
 
 ## Infoentretenimiento
@@ -193,7 +189,6 @@ El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/headlights_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
 

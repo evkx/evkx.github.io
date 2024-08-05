@@ -90,7 +90,6 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/exterior_1_st.jpeg" title="Tesla Model 3 Long Range" width="3000" height="2250"  >}}
 
 
@@ -121,7 +120,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - White [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/frontseats_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
@@ -168,7 +166,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/screens_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
 
@@ -194,7 +191,6 @@ El modelo tiene 3 conexiones USB-C de serie.
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/headlights_1_st.jpeg" title="Tesla Model 3 Long Range" width="3000" height="2250"  >}}
 

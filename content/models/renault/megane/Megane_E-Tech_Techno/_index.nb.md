@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 7,2 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 8 timer og 20 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/charging_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2134"  >}}
 
 ### Ladeport
@@ -91,7 +90,6 @@ Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/exterior_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="1999"  >}}
 
 
@@ -122,7 +120,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/frontseats_1_st.jpg" title="Renault Megane E-Tech Techno" width="1920" height="1080"  >}}
 
 #### Seter på andre rad
@@ -132,7 +129,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/secondrowseats_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001"  >}}
 
@@ -173,7 +169,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/screens_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001"  >}}
 
 
@@ -207,7 +202,6 @@ Du kan velge mellom to typer frontlykter for Renault Megane E-Tech Techno.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/headlights_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2250"  >}}
 
@@ -251,7 +245,6 @@ Med ProPILOT  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner
 Lastkapasiteten i bagasjerommet er 440 liter. Med baksetet nede er det 1332 liter. På taket kan du laste opptil 80 kg. Maksimumsvekten til bilen er 2158 kg, og med basisvekten på 1636 kg kan du maksimalt laste 522 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 900, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/trunk_1_st.jpg" title="Renault Megane E-Tech Techno" width="3000" height="1688"  >}}
 <div class="mt-3 mb-3">

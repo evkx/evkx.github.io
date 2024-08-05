@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 6 timmar och 43 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/charging_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2000"  >}}
 
 ### Laddningsport
@@ -89,7 +88,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/exterior_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2017"  >}}
 
 
@@ -124,7 +122,6 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 - Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 - Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/frontseats_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1999"  >}}
 
 #### Säten på andra raden
@@ -134,7 +131,6 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2400"  >}}
 
@@ -172,7 +168,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/screens_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2003"  >}}
 
 ## Infotainment
@@ -200,7 +195,6 @@ Modellen har 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/headlights_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="2000"  >}}
 
@@ -245,7 +239,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten i bagageutrymmet är 480 liter. Med baksätet nedfällt är det 1260 liter. På taket kan du lasta upp till 80 kg. Takräcke är standard på denna modell, vilket gör det enkelt att montera takboxen eller räcket på bilen. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 20 liter. Bilens maximala vikt är 2530 kg, och med basvikten på 2015 kg kan du lasta maximalt 515 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1600, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_awd/trunk_1_st.jpg" title="Kia EV6 Long Range AWD" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

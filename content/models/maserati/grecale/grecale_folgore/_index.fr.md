@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 22 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 4 heures et 21 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/charging_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
 ### Port de recharge
@@ -99,7 +98,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/exterior_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2254"  >}}
 
 
@@ -136,7 +134,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/secondrowseats_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
@@ -178,7 +175,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/screens_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
 ## Infodivertissement
@@ -206,7 +202,6 @@ Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obt
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/headlights_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2332"  >}}
 

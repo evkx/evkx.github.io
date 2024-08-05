@@ -89,7 +89,6 @@ Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/exterior_1_st.jpg" title="VinFast VF8 Eco" width="2048" height="1365"  >}}
 
 
@@ -128,7 +127,6 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/secondrowseats_1_st.jpg" title="VinFast VF8 Eco" width="2960" height="1232"  >}}
 
 
@@ -162,7 +160,6 @@ Viktige skjermdetaljer:
 - touch-skjermen i dashbordets sentrum er 15,6 tommer stor
 
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/screens_1_st.jpg" title="VinFast VF8 Eco" width="2960" height="1232"  >}}
 

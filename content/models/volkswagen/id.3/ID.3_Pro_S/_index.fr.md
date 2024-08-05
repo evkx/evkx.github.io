@@ -89,7 +89,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/exterior_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
 
 
@@ -169,7 +168,6 @@ Détails clés de l'écran :
 - L'écran touch au centre du tableau de bord mesure 12,0 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/screens_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2001"  >}}
 
@@ -253,7 +251,6 @@ Avec le système Assistantpackage plus  niveau 2, vous bénéficiez de fonctionn
 La capacité de chargement dans le coffre est de 385 litres. Avec la banquette arrière rabattue, elle est de 1267 litres. Sur le toit, vous pouvez charger jusqu'à 0 kg (0,0 lbs). Le poids maximum de la voiture est de 2420 kg (5335 lbs), et avec le poids de base de 1884 kg (4154 lbs), vous pouvez charger au maximum 536 kg (1182 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/trunk_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
 

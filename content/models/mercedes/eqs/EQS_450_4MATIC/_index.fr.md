@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 22 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 4 heures et 55 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/charging_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="1687"  >}}
 
 ### Port de recharge
@@ -139,7 +138,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="4085"  >}}
 
 #### Sièges de deuxième rangée
@@ -157,7 +155,6 @@ L'option second est une banquette à trois places avec une séparation 40:20:40 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 - [réglage des traversins latéraux du dossier](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="2250"  >}}
 
@@ -206,7 +203,6 @@ Détails clés de l'écran :
 - L'écran  devant le passager dans le tableau de bord mesure 12,3 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/screens_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="1875"  >}}
 
@@ -290,7 +286,6 @@ Avec le système DRIVE PILOT  niveau 3, vous bénéficiez de fonctionnalités d'
 La capacité de chargement dans le coffre est de 610 litres. Avec la banquette arrière rabattue, elle est de 1770 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 3060 kg (6746 lbs), et avec le poids de base de 2540 kg (5600 lbs), vous pouvez charger au maximum 520 kg (1146 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 750, et sur une remorque non freinée, il est de 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQS 450 4MATIC" width="3000" height="2000"  >}}
 

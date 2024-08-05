@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 24 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/charging_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
 ### Charge port
@@ -90,7 +89,6 @@ More narrow wheels will improve consumption and give a longer range, while wider
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/exterior_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="2000"  >}}
 
@@ -140,7 +138,6 @@ The following functionalities are available on the **multicontour** seat.
 
 You can choose from 5 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/frontseats_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
 #### Second-row seat
@@ -150,7 +147,6 @@ You can choose from 5 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - height adjustable headrest
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/secondrowseats_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
@@ -188,7 +184,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/screens_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
 
@@ -221,7 +216,6 @@ The model has 4 USB-C connections as standard. As an option, you can get additio
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/headlights_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
@@ -267,7 +261,6 @@ With the Driver Assistance Package  level 1 system, you get the following drivin
 The cargo capacity in the trunk is 340 liters. With the rear seat down, it is 1320 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2535 kg (5589 lbs), and with the base weight of 2030 kg (4475 lbs), you can max load 505 kg (1113 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/trunk_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 <div class="mt-3 mb-3">

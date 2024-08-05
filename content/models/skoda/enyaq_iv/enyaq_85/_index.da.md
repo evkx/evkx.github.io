@@ -88,7 +88,6 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/exterior_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="1999"  >}}
 
 
@@ -117,7 +116,6 @@ Følgende funktioner er tilgængelige på **Sport** sædet.
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/frontseats_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="2107"  >}}
 
 #### Sæde på anden række
@@ -125,7 +123,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/secondrowseats_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="1945"  >}}
 
@@ -165,7 +162,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/screens_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="1999"  >}}
 
 ## Infotainment
@@ -192,7 +188,6 @@ Modellen har 4 USB-C-forbindelser som standard.
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/headlights_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="2000"  >}}
 
@@ -240,7 +235,6 @@ Med MAX  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 570 liter. Med bagsædet nede er det 1610 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2740 kg (6041 lbs), og med basisvægten på 2180 kg (4806 lbs), kan du maksimalt laste 560 kg (1235 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1200, og på ubremset er den 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/trunk_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="2002"  >}}
 <div class="mt-3 mb-3">

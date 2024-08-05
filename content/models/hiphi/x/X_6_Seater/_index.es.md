@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 49 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/charging_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000"  >}}
 
 ### Puerto de carga
@@ -87,7 +86,6 @@ El auto tiene dos [puertas normales](../../../../technology/doors/) en el frente
 Sólo hay un techo para este modelo. El techo estándar tiene un vidrio panorámico sobre la primera fila, además de que la parte del techo de las puertas abatibles tiene vidrio. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso. lo que puede mejorar el estado de ánimo y la comodidad del ocupante.
 
 Las ventanas del pilar B y la parte trasera están tintadas.
-
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/exterior_1_st.jpg" title="HiPhi X 6 Seater" width="1959" height="1102"  >}}
 
@@ -177,7 +175,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/screens_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000"  >}}
 
 
@@ -204,7 +201,6 @@ El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 3 conexiones USB-A 
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/headlights_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000"  >}}
 
@@ -250,7 +246,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 La capacidad de carga en el maletero es de 204 litros. Con el asiento de la tercera fila abatido, es de 587 litros.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
-
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/trunk_1_st.jpg" title="HiPhi X 6 Seater" width="1200" height="700"  >}}
 <div class="mt-3 mb-3">

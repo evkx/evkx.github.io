@@ -104,7 +104,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are three different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
 
 
@@ -160,7 +159,6 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 
 You can choose from 4 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/frontseats_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
 
 #### Second-row seats
@@ -174,7 +172,6 @@ The standard option is two integrated seats in the second row. In addition, the 
 The second option is two integrated seats in the second row with a third smaller seat in between. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="1991"  >}}
 
@@ -214,7 +211,6 @@ Key screen details:
 - The touch screen in front of the passenger in the dashboard is 10.9 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/screens_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
 
@@ -292,7 +288,6 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 The cargo capacity in the trunk is 446 liters. With the rear seat down, it is 1212 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2875 kg (6338 lbs), and with the base weight of 2310 kg (5093 lbs), you can max load 565 kg (1246 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/trunk_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

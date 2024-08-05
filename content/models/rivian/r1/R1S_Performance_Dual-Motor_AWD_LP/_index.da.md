@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11,5 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 10 timer og 52 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/charging_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="2880" height="1920"  >}}
 
 ### Ladeport
@@ -84,7 +83,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [delt ba
 Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset har to paneler. Et over den første og den anden række. Dette glas gør bilens interiør føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Begge glaspaneler har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
 Ruderne fra B-stolpen og bagsiden er tonede.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/exterior_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="2880" height="1920"  >}}
 
@@ -169,7 +167,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/screens_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="1600" height="1067"  >}}
 
 
@@ -235,7 +232,6 @@ Med Driver+  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 498 liter. Med bagsædet nede er det 2965 liter. På taget kan du laste op til 113 kg (249,1 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 314 liter (11,1 CU FT).
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 3500, og på ubremset er den 750 kg (7716/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/trunk_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="1920" height="1080"  >}}
 

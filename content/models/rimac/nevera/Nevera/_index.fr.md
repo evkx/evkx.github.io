@@ -97,7 +97,6 @@ Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la m
 
 Il n'y a qu'un seul toit pour ce modèle.
 
-
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/exterior_1_st.jpg" title="Rimac Nevera" width="3000" height="2000"  >}}
 
 
@@ -120,7 +119,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 - Black [Revêtement Alcantara](../../../../technology/seats/materials/#alcantara)
-
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/frontseats_1_st.jpg" title="Rimac Nevera" width="3000" height="2001"  >}}
 
@@ -160,7 +158,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/screens_1_st.jpg" title="Rimac Nevera" width="3000" height="2000"  >}}
 
 ## Infodivertissement
@@ -185,7 +182,6 @@ Un type de système audio est disponible pour le Rimac Nevera.
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/headlights_1_st.jpg" title="Rimac Nevera" width="3000" height="2002"  >}}
 

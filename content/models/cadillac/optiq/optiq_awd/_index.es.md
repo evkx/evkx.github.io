@@ -80,7 +80,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Hay dos opciones de techo diferentes para elegir El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol. Como opción, puedes pedir este modelo con techo panorámico que se puede abrir. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir la parte delantera. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/cadillac/optiq/exterior_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2250"  >}}
 
 
@@ -110,7 +109,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Gray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/cadillac/optiq/frontseats_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="1684"  >}}
 
 #### Asiento de segunda fila
@@ -118,7 +116,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 {{< sitefiguresized thumb="models/cadillac/optiq/secondrowseats_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2001"  >}}
 
@@ -156,7 +153,6 @@ Detalles clave de la pantalla:
 - La touch pantalla detrás del volante, cruzando el centro del tablero mide 33,0 pulgadas de tamaño
 
 El modelo no tiene head-up display.
-
 
 {{< sitefiguresized thumb="models/cadillac/optiq/screens_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2001"  >}}
 
@@ -223,7 +219,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 La capacidad de carga en el maletero es de 793 litros. Con el asiento trasero abatido, es de 1723 litros. El peso máximo del automóvil es 2900 kg (6393 lbs), y con el peso base de 2355 kg (5192 lbs), puedes cargar como máximo 545 kg (1202 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1588, y sin freno, es de 750 kg (3501/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/cadillac/optiq/trunk_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 7,4 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 5 horas y 56 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/charging_1_st.jpg" title="Citroën ë-C3" width="2894" height="2170"  >}}
 
 ### Puerto de carga
@@ -93,7 +92,6 @@ Sólo hay un techo para este modelo.
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/exterior_1_st.jpg" title="Citroën ë-C3" width="3000" height="2000"  >}}
 
 
@@ -121,7 +119,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfo
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - Black/Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/frontseats_1_st.jpg" title="Citroën ë-C3" width="3000" height="1759"  >}}
 
 #### Asientos de la segunda fila
@@ -143,7 +140,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Advanced Comfo
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - Black/Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}
 
@@ -181,7 +177,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/screens_1_st.jpg" title="Citroën ë-C3" width="3000" height="2007"  >}}
 
 
@@ -212,7 +207,6 @@ El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 cone
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/headlights_1_st.jpg" title="Citroën ë-C3" width="2894" height="2170"  >}}
 
@@ -248,7 +242,6 @@ Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), 
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 310 litros. Con el asiento trasero abatido, es de 1200 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 1910 kg (4211 lbs), y con el peso base de 1416 kg (3122 lbs), puedes cargar como máximo 494 kg (1089 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/trunk_1_st.jpg" title="Citroën ë-C3" width="3000" height="1999"  >}}
 

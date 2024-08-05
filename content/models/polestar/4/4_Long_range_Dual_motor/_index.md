@@ -81,7 +81,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 
 There are two different roof options to select from. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_dual_motor/exterior_1_st.jpg" title="Polestar 4 Long range Dual motor" width="3000" height="1687"  >}}
 
 
@@ -181,7 +180,6 @@ You can choose between two types of headlights for the Polestar 4 Long range Dua
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_dual_motor/headlights_1_st.jpg" title="Polestar 4 Long range Dual motor" width="3000" height="2250"  >}}
 

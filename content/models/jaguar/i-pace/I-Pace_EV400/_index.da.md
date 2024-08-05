@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 7 timer og 42 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/charging_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -87,7 +86,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Standardtaget inkluderer et stort panoramaglastag, der strækker sig fra front til bag, hvilket forbedrer interiørets rummelige og lyse følelse og derved forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen.
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
-
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/exterior_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
 
@@ -144,7 +142,6 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 - Red [læderpolstring](../../../../technology/seats/materials/#leather)
 - Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/frontseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1946"  >}}
 
 #### Sæder på anden række
@@ -157,7 +154,6 @@ Muligheden standard er en tre-sædet bænk med en 60:40 del, hvor du kan folde h
 Muligheden second er en tre-sædet bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1958"  >}}
 
@@ -194,7 +190,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/screens_1_st.jpg" title="Jaguar I-Pace EV400" width="2560" height="1632"  >}}
 
 ## Infotainment
@@ -223,7 +218,6 @@ Du kan vælge mellem to typer forlygter til Jaguar I-Pace EV400.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/headlights_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
 
@@ -256,7 +250,6 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 Lagekapaciteten i bagagerummet er 505 liter. Med bagsædet nede er det 1163 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 27 liter (1,0 CU FT).
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/trunk_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1556"  >}}
 

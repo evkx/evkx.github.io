@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 11 hours and 8 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/charging_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
 
 ### Charge port
@@ -54,7 +53,6 @@ The charge port is conveniently located at the [left rear corner](../../../../te
 ### V2L - Vehichle to load
 
 This model supports V2L (Vehicle 2 Load), which means you can power electrical equipment requiring up to 11.5 kW power, including charging other vehicles. There are sockets available both on the cargo bed and in the cabin.
-
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/v2l_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2250"  >}}
 
@@ -107,7 +105,6 @@ There is only one roof for this model. The standard roof includes a large panora
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/exterior_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2001"  >}}
 
 
@@ -134,7 +131,6 @@ The following functionalities are available on the **standard** seat.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 You can choose from 1 different materials/colors for this seat type.
-
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/frontseats_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 
@@ -182,7 +178,6 @@ Key screen details:
 For the rear seat passengers, there is an infotainment screen in the second-row center console.
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/screens_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -205,7 +200,6 @@ The model has 3 USB-C connections as standard.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/headlights_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 
@@ -261,7 +255,6 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 The cargo capacity in the truck bed is 1897.23 liters. The bed width is 1295 mm, and length is 1849 mm. The max load weight in bed is 1134 kg. On the roof, you can load up to 100 kg (220.5 lbs). Under the hood, there is frunk with more storage room. This frunk is 201 liters (7.1 CU FT). The maxium weight of the car is 4159 kg (9169 lbs), and with the base weight of 3025 kg (6669 lbs), you can max load 1134 kg (2500 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 4990, and on unbraked, it is 750 kg (11000/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_awd/trunk_1_st.jpg" title="Tesla Cybertruck AWD" width="3000" height="2000"  >}}
 

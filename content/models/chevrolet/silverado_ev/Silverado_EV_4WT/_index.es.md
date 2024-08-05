@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 19 horas y 32 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/charging_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 
 ### Puerto de carga
@@ -84,7 +83,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [por
 
 Sólo hay un techo para este modelo.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/exterior_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 
 
@@ -112,7 +110,6 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/frontseats_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2002"  >}}
 
 #### Asiento de segunda fila
@@ -123,7 +120,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división  don
 
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 
@@ -163,7 +159,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en el centro del tablero mide 11,0 pulgadas de tamaño
 
 El modelo no tiene head-up display.
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/screens_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 
@@ -222,7 +217,6 @@ Con el sistema Super Cruise  nivel 1, obtienes las siguientes funciones de autom
 La capacidad de carga en la plataforma del camión es 1039 litros. El ancho de la plataforma es 1286 mm y el largo es 1803 mm. El peso máximo de carga en la plataforma es 614 kg. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 303 litros (10,7 CU FT). El peso máximo del automóvil es 4531 kg (9989 lbs), y con el peso base de 3882 kg (8558 lbs), puedes cargar como máximo 649 kg (1431 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 4536, y sin freno, es de 750 kg (10000/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_4wt/trunk_1_st.jpg" title="Chevrolet Silverado EV 4WT" width="3000" height="2000"  >}}
 

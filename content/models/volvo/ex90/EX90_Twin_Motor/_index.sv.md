@@ -84,7 +84,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/exterior_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2212"  >}}
 
 
@@ -118,7 +117,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Gray [ullklädsel](../../../../technology/seats/materials/#wool)
 
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/frontseats_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
 #### Säten på andra raden
@@ -128,7 +126,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
@@ -174,7 +171,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/screens_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -197,7 +193,6 @@ Du kan välja mellan två typer av strålkastare för Volvo EX90 Twin Motor.
 - Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/headlights_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 

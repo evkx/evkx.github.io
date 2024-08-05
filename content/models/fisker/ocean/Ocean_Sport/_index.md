@@ -84,7 +84,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 
 There is only one roof for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 
-
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/exterior_5_st.jpg" title="Fisker Ocean Sport" width="3000" height="2250"  >}}
 
 
@@ -115,7 +114,6 @@ You can choose from 4 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Blue [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 - Beige [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/frontseats_2_st.jpg" title="Fisker Ocean Sport" width="3000" height="1687"  >}}
 
@@ -161,7 +159,6 @@ Key screen details:
 - The touch screen in the middle of the center console is 17.1 inches large
 
 The model does not have a head-up display.
-
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/screens_1_st.jpg" title="Fisker Ocean Sport" width="1920" height="1080"  >}}
 

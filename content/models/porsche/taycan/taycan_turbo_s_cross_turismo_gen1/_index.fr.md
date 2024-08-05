@@ -101,7 +101,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe trois options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Cette vitre rend l'intérieur de la voiture plus agréable. spacieux et lumineux, ce qui peut améliorer l'ambiance et le confort de l'occupant. Le verre a une fonction électrochrome qui permet de mélanger le verre pour se protéger du soleil.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo_gen1/exterior_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo (GEN1)" width="3000" height="2001"  >}}
 
 
@@ -146,7 +145,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo_gen1/frontseats_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo (GEN1)" width="3000" height="1687"  >}}
 
 #### Sièges de deuxième rangée
@@ -160,7 +158,6 @@ L'option standard consiste en deux sièges intégrés dans la deuxième rangée.
 L'option second consiste en deux sièges intégrés dans la deuxième rangée avec un troisième siège plus petit entre les deux. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo_gen1/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo (GEN1)" width="3000" height="2250"  >}}
 
@@ -201,7 +198,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo_gen1/screens_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo (GEN1)" width="3000" height="1854"  >}}
 
 ## Infodivertissement
@@ -228,7 +224,6 @@ Vous pouvez choisir entre trois systèmes audio sur le Porsche Taycan Turbo S Cr
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo_gen1/headlights_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo (GEN1)" width="3000" height="2000"  >}}
 
@@ -281,7 +276,6 @@ Avec le système Porsche InnoDrive  niveau 2, vous bénéficiez de fonctionnalit
 La capacité de chargement dans le coffre est de 405 litres. Avec la banquette arrière rabattue, elle est de 1171 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 84 litres (3,0 CU FT). Le poids maximum de la voiture est de 2880 kg (6349 lbs), et avec le poids de base de 2320 kg (5115 lbs), vous pouvez charger au maximum 560 kg (1235 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo_gen1/trunk_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo (GEN1)" width="3000" height="1449"  >}}
 

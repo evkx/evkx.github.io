@@ -88,7 +88,6 @@ There are two different roof options to select from. The standard is just a regu
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh/exterior_1_st.jpg" title="Nissan Ariya 87kWh" width="3000" height="2000"  >}}
 
 
@@ -167,7 +166,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh/screens_1_st.jpg" title="Nissan Ariya 87kWh" width="3000" height="1999"  >}}
 
 
@@ -240,7 +238,6 @@ With the ProPILOT  level 2 system, you get the following driving automation feat
 The cargo capacity in the trunk is 468 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2400 kg (5291 lbs), and with the base weight of 1875 kg (4134 lbs), you can max load 525 kg (1157 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh/trunk_1_st.jpg" title="Nissan Ariya 87kWh" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

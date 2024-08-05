@@ -89,7 +89,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/exterior_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
 
@@ -114,7 +113,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/frontseats_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
@@ -172,7 +170,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/screens_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -203,7 +200,6 @@ Du kan vælge mellem to typer forlygter til Volkswagen ID.3 GTX.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/headlights_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 

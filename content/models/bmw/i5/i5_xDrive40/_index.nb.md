@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 22 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/charging_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="3000"  >}}
 
 ### Ladeport
@@ -98,7 +97,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/exterior_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="1999"  >}}
 
 
@@ -137,7 +135,6 @@ Følgende funksjoner er tilgjengelige på **Comfort seats** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support) (tilvalg)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/frontseats_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
@@ -147,7 +144,6 @@ Følgende funksjoner er tilgjengelige på **Comfort seats** setet.
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/secondrowseats_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
 
@@ -189,7 +185,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/screens_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="1999"  >}}
 
 ## Infotainment
@@ -221,7 +216,6 @@ Du kan velge mellom to typer frontlykter for BMW i5 xDrive40.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/headlights_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
 
@@ -269,7 +263,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du flere kjøreautomat
 Lastkapasiteten i bagasjerommet er 490 liter. Med baksetet nede er det 1290 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2740 kg, og med basisvekten på 2256 kg kan du maksimalt laste 484 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/trunk_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

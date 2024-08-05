@@ -80,7 +80,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/exterior_1_st.jpg" title="MG Marvel R Electric" width="3000" height="2000"  >}}
 
 
@@ -107,7 +106,6 @@ You can choose from 3 different materials/colors for this seat type.
 - Gray [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 - Beige [Alcantara/leatherette upholstering](../../../../technology/seats/materials/#alcantara)
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/frontseats_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1999"  >}}
 
 #### Second-row seat
@@ -115,7 +113,6 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/secondrowseats_1_st.jpg" title="MG Marvel R Electric" width="3000" height="2256"  >}}
 
@@ -153,7 +150,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/screens_1_st.jpg" title="MG Marvel R Electric" width="2560" height="1707"  >}}
 
 
@@ -184,7 +180,6 @@ The model has 4 USB-A connections as standard.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/headlights_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1701"  >}}
 
 ## Advanced driver assistance systems
@@ -214,7 +209,6 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 359 liters. With the rear seat down, it is 1396 liters. Under the hood, there is frunk with more storage room. This frunk is 150 liters (5.3 CU FT). The maxium weight of the car is 2288 kg (5044 lbs), and with the base weight of 1810 kg (3990 lbs), you can max load 478 kg (1054 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 478kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/trunk_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1915"  >}}
 

@@ -82,7 +82,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 
 There are two different roof options to select from. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
-
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/exterior_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2250"  >}}
 
 
@@ -122,7 +121,6 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
-
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/secondrowseats_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2250"  >}}
 
 
@@ -161,7 +159,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/screens_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2776"  >}}
 
 ## Infotainment
@@ -188,7 +185,6 @@ You can choose between two types of headlights for the Volvo EX30 Single Motor E
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/headlights_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2250"  >}}
 
@@ -235,7 +231,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 The cargo capacity in the trunk is 318 liters. With the rear seat down, it is 904 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 7 liters (0.2 CU FT). The maxium weight of the car is 2235 kg (4927 lbs), and with the base weight of 1755 kg (3869 lbs), you can max load 480 kg (1058 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1400, and on unbraked, it is 750 kg (3086/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/trunk_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2251"  >}}
 <div class="mt-3 mb-3">

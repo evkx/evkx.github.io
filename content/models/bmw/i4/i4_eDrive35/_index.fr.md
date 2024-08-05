@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 6 heures et 6 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/charging_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2001"  >}}
 
 ### Port de recharge
@@ -93,7 +92,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit ouvrant. La vitre s'étend uniquement sur la première rangée et les occupants peuvent l'ouvrir. Cette vitre donne une impression d'intérieur à la voiture. plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/exterior_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2255"  >}}
 
@@ -178,7 +176,6 @@ Vous pouvez choisir parmi 21 différents matériaux/couleurs pour ce type de si�
 - Brown [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Blue [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Black [revêtement en cuir](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/frontseats_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2121"  >}}
 
@@ -297,7 +294,6 @@ Avec le système Driving Assistant Professional  niveau 2, vous bénéficiez de 
 La capacité de chargement dans le coffre est de 470 litres. Avec la banquette arrière rabattue, elle est de 1290 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2545 kg (5611 lbs), et avec le poids de base de 2000 kg (4409 lbs), vous pouvez charger au maximum 545 kg (1202 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1600, et sur une remorque non freinée, il est de 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/trunk_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2121"  >}}
 <div class="mt-3 mb-3">

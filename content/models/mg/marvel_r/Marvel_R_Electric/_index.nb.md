@@ -80,7 +80,6 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/exterior_1_st.jpg" title="MG Marvel R Electric" width="3000" height="2000"  >}}
 
 
@@ -107,7 +106,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 - Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 - Beige [polstring av Alcantara/kunstskinn](../../../../technology/seats/materials/#alcantara)
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/frontseats_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1999"  >}}
 
 #### Seter på andre rad
@@ -115,7 +113,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/secondrowseats_1_st.jpg" title="MG Marvel R Electric" width="3000" height="2256"  >}}
 
@@ -153,7 +150,6 @@ Viktige skjermdetaljer:
 
 Modellen er ikke tilgjengelig med head-up display.
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/screens_1_st.jpg" title="MG Marvel R Electric" width="2560" height="1707"  >}}
 
 
@@ -184,7 +180,6 @@ Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/headlights_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1701"  >}}
 
 ## Avanserte førerassistentsystemer
@@ -214,7 +209,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 Lastkapasiteten i bagasjerommet er 359 liter. Med baksetet nede er det 1396 liter. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 150 liter. Maksimumsvekten til bilen er 2288 kg, og med basisvekten på 1810 kg kan du maksimalt laste 478 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt. 478 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/trunk_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1915"  >}}
 

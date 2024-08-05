@@ -84,7 +84,6 @@ Det finns bara ett tak för denna modell.
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/exterior_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2000"  >}}
 
 
@@ -115,7 +114,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Gray [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/frontseats_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2250"  >}}
 
 #### Säten på andra raden
@@ -123,7 +121,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/secondrowseats_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2000"  >}}
 
@@ -183,7 +180,6 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 
 Dessutom använder standardbakljusen LED-teknik.
 
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/headlights_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2177"  >}}
 
 ## Avancerade förarassistanssystem
@@ -216,7 +212,6 @@ Med DS Drive Assist  nivå 1-systemet får du följande körautomationsfunktione
 Lastkapaciteten i bagageutrymmet är 400 liter. Med baksätet nedfällt är det 1467 liter. Bilens maximala vikt är 2030 kg, och med basvikten på 1573 kg kan du lasta maximalt 457 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/trunk_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

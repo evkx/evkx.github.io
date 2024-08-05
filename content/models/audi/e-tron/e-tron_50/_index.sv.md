@@ -113,7 +113,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna. Som ett alternativ finns dubbelglasade sidofönster tillgängliga för att minska kabinbuller och förbättra den totala körupplevelsen.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50/exterior_1_st.jpg" title="Audi e-tron 50" width="3000" height="1999"  >}}
 
 
@@ -200,7 +199,6 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50/frontseats_1_st.jpg" title="Audi e-tron 50" width="3000" height="1999"  >}}
 
 #### Säten på andra raden
@@ -250,7 +248,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50/screens_1_st.jpg" title="Audi e-tron 50" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -282,7 +279,6 @@ Du kan välja mellan tre typer av strålkastare för Audi e-tron 50.
 - Strålkastare baserade på LED Digital Matrix-teknik finns som tillval.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50/headlights_1_st.jpg" title="Audi e-tron 50" width="3000" height="2249"  >}}
 
@@ -340,7 +336,6 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 Lastkapaciteten i bagageutrymmet är 660 liter. Med baksätet nedfällt är det 1725 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 3040 kg, och med basvikten på 2370 kg kan du lasta maximalt 670 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1800, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_50/trunk_1_st.jpg" title="Audi e-tron 50" width="3000" height="1999"  >}}
 

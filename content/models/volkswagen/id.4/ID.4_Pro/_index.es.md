@@ -91,7 +91,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/exterior_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="1922"  >}}
 
 
@@ -189,7 +188,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/screens_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2206"  >}}
 
 ## Infoentretenimiento
@@ -268,7 +266,6 @@ Con el sistema Assistantpackage plus  nivel 2, obtienes funciones de automatizac
 La capacidad de carga en el maletero es de 543 litros. Con el asiento trasero abatido, es de 1575 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2690 kg (5930 lbs), y con el peso base de 2081 kg (4588 lbs), puedes cargar como máximo 609 kg (1343 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1000, y sin freno, es de 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/trunk_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2000"  >}}
 

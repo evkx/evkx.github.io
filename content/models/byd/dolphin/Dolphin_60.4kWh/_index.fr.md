@@ -87,7 +87,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panor
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/exterior_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2499" height="1621"  >}}
 
 
@@ -119,7 +118,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/frontseats_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1579"  >}}
 
 #### Siège de deuxième rangée
@@ -127,7 +125,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/secondrowseats_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1623"  >}}
 
@@ -179,7 +176,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/screens_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1550"  >}}
 
 ## Infodivertissement
@@ -202,7 +198,6 @@ Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 co
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/headlights_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1448"  >}}
 
@@ -248,7 +243,6 @@ Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisa
 La capacité de chargement dans le coffre est de 345 litres. Avec la banquette arrière rabattue, elle est de 1310 litres. Sur le toit, vous pouvez charger jusqu'à 50 kg (110,2 lbs). Le poids maximum de la voiture est de 2068 kg (4559 lbs), et avec le poids de base de 1658 kg (3655 lbs), vous pouvez charger au maximum 410 kg (904 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 0, et sur une remorque non freinée, il est de 0 kg (0/0 lbs).
-
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}
 <div class="mt-3 mb-3">

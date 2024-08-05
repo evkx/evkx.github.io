@@ -90,7 +90,6 @@ Il n'y a qu'un seul toit pour ce modèle.
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/opel/frontera/exterior_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
 
 
@@ -173,7 +172,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/opel/frontera/screens_1_st.jpg" title="Opel Frontera" width="3000" height="1875"  >}}
 
 
@@ -204,7 +202,6 @@ Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obt
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/opel/frontera/headlights_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
 
@@ -240,7 +237,6 @@ Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), u
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement dans le coffre est de 460 litres. Avec la banquette arrière rabattue, elle est de 1594 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2030 kg (4475 lbs), et avec le poids de base de 1439 kg (3172 lbs), vous pouvez charger au maximum 591 kg (1303 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
-
 
 {{< sitefiguresized thumb="models/opel/frontera/trunk_1_st.jpg" title="Opel Frontera" width="3000" height="2000"  >}}
 

@@ -86,7 +86,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/exterior_1_st.jpg" title="Seres 5 4WD Premium" width="1920" height="1012"  >}}
 
 
@@ -158,7 +157,6 @@ Viktige skjermdetaljer:
 - -skjermen i dashbordets sentrum er 15,6 tommer stor
 
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/screens_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707"  >}}
 

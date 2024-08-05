@@ -97,7 +97,6 @@ Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på
 
 Det finns bara ett tak för denna modell.
 
-
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/exterior_1_st.jpg" title="Rimac Nevera" width="3000" height="2000"  >}}
 
 
@@ -120,7 +119,6 @@ Följande funktioner är tillgängliga på **** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - Black [Alcantara klädsel](../../../../technology/seats/materials/#alcantara)
-
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/frontseats_1_st.jpg" title="Rimac Nevera" width="3000" height="2001"  >}}
 
@@ -160,7 +158,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/screens_1_st.jpg" title="Rimac Nevera" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -185,7 +182,6 @@ En typ av ljudsystem är tillgänglig för Rimac Nevera.
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/headlights_1_st.jpg" title="Rimac Nevera" width="3000" height="2002"  >}}
 

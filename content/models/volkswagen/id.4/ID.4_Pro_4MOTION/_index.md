@@ -91,7 +91,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/exterior_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="1922"  >}}
 
 
@@ -189,7 +188,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/screens_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2206"  >}}
 
 ## Infotainment
@@ -268,7 +266,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 543 liters. With the rear seat down, it is 1575 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2760 kg (6085 lbs), and with the base weight of 2232 kg (4921 lbs), you can max load 528 kg (1164 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/trunk_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
 

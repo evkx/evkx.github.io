@@ -45,7 +45,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11,5 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 7 heures et 23 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/charging_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
 
 ### Port de recharge
@@ -85,7 +84,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe deux options de toit différentes à choisir. Le toit standard a un grand toit panoramique s'étendant de l'avant vers l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance et le confort. de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil. En option, vous pouvez commander ce modèle avec un toit panoramique ouvrant. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir la partie avant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/exterior_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2000"  >}}
 
 
@@ -124,7 +122,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/secondrowseats_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
 
 
@@ -161,7 +158,6 @@ Détails clés de l'écran :
 - L'écran touch en haut de la console centrale mesure 11,3 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/screens_1_st.jpg" title="Honda Prologue AWD" width="1600" height="900"  >}}
 
@@ -233,7 +229,6 @@ Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisa
 La capacité de chargement dans le coffre est de 793 litres. Avec la banquette arrière rabattue, elle est de 1723 litres.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 680, et sur une remorque non freinée, il est de 680 kg (1499/1499 lbs).
-
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/trunk_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

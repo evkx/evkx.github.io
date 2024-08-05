@@ -106,7 +106,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/nio/el8/el8/exterior_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 
@@ -138,7 +137,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 #### Seter på andre rad
@@ -159,7 +157,6 @@ Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgj
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
-
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -200,7 +197,6 @@ Viktige skjermdetaljer:
 - touch-skjermen i midten av midtkonsollen er 11,3 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/nio/el8/el8/screens_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 

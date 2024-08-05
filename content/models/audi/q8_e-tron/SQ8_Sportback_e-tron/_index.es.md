@@ -102,7 +102,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros. Como opción, están disponibles ventanas laterales de doble acristalamiento para reducir el ruido en la cabina, mejorando la experiencia de conducción en general
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/exterior_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="2250"  >}}
 
 
@@ -163,7 +162,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/frontseats_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="2249"  >}}
 
 #### Asiento de segunda fila
@@ -213,7 +211,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/screens_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="2249"  >}}
 
 ## Infoentretenimiento
@@ -245,7 +242,6 @@ Puedes elegir entre tres tipos de faros para el Audi SQ8 Sportback e-tron.
 - Los faros basados en tecnología LED Digital Matrix están disponibles como opción.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/headlights_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="1999"  >}}
 
@@ -303,7 +299,6 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 La capacidad de carga en el maletero es de 660 litros. Con el asiento trasero abatido, es de 1725 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 3290 kg (7253 lbs), y con el peso base de 2765 kg (6096 lbs), puedes cargar como máximo 525 kg (1157 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1800, y sin freno, es de 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/trunk_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="2249"  >}}
 

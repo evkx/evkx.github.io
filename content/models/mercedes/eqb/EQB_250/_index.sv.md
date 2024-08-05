@@ -85,7 +85,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset har två paneler. En ovanför första och andra raden. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humöret och komforten för den åkande. Båda glaspanelerna har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/exterior_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1686"  >}}
 
 
@@ -133,7 +132,6 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/frontseats_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1999"  >}}
 
@@ -183,7 +181,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch på höger sida av den delade ramen är 10,3 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/screens_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1686"  >}}
 
@@ -260,7 +257,6 @@ Med Driver Assistance Package  nivå 1-systemet får du följande körautomation
 Lastkapaciteten i bagageutrymmet är 495 liter. Med baksätet nedfällt är det 1410 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 2520 kg, och med basvikten på 2035 kg kan du lasta maximalt 485 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 485 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/trunk_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

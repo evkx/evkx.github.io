@@ -79,7 +79,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/exterior_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}
 
 
@@ -106,7 +105,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/frontseats_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
@@ -116,7 +114,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/secondrowseats_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}
 
@@ -165,7 +162,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/screens_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="1687"  >}}
 
 ## Infoentretenimiento
@@ -196,7 +192,6 @@ Puedes elegir entre dos tipos de faros para el Subaru Solterra AWD.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/headlights_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}
 
@@ -234,7 +229,6 @@ Con el sistema estándar, el modelo no ofrece automatización de conducción.
 La capacidad de carga en el maletero es de 441 litros. Con el asiento trasero abatido, es de 784 litros. En el techo, puedes cargar hasta 80 kg (176,4 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2550 kg (5622 lbs), y con el peso base de 2010 kg (4431 lbs), puedes cargar como máximo 540 kg (1190 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 750, y sin freno, es de 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/subaru/solterra/solterra_awd/trunk_1_st.jpg" title="Subaru Solterra AWD" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

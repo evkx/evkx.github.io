@@ -89,7 +89,6 @@ Det finns bara ett tak för denna modell. Standardinställningen är bara ett va
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/exterior_1_st.jpg" title="VinFast VF8 Eco" width="2048" height="1365"  >}}
 
 
@@ -128,7 +127,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/secondrowseats_1_st.jpg" title="VinFast VF8 Eco" width="2960" height="1232"  >}}
 
 
@@ -162,7 +160,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch i mitten av instrumentbrädan är 15,6 tum
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/screens_1_st.jpg" title="VinFast VF8 Eco" width="2960" height="1232"  >}}
 

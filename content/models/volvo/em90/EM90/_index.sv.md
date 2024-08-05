@@ -84,7 +84,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/volvo/em90/em90/exterior_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 
 
@@ -118,7 +117,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 - Gray [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Gray [läderklädsel](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/volvo/em90/em90/frontseats_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
 #### Säten på andra raden
@@ -131,7 +129,6 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
-
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/secondrowseats_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 
@@ -177,7 +174,6 @@ Viktiga skärmdetaljer:
 För baksätespassagerarna finns det en infotainmentskärm i taket bakom sätena på första raden.
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/volvo/em90/em90/screens_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
 
@@ -207,7 +203,6 @@ Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/headlights_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 

@@ -81,7 +81,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/voyah/free/free/exterior_1_st.jpg" title="VOYAH FREE" width="3000" height="1687"  >}}
 
 
@@ -154,7 +153,6 @@ Detalles clave de la pantalla:
 - La  pantalla frente al pasajero en el tablero mide 12,3 pulgadas de tamaño
 
 El modelo no tiene head-up display.
-
 
 {{< sitefiguresized thumb="models/voyah/free/free/screens_1_st.jpg" title="VOYAH FREE" width="2560" height="1767"  >}}
 

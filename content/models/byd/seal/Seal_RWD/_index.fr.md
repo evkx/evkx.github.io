@@ -87,7 +87,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/exterior_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
 
 
@@ -115,7 +114,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/frontseats_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée
@@ -125,7 +123,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
-
 
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/secondrowseats_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
 
@@ -166,7 +163,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/screens_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
 
 ## Infodivertissement
@@ -193,7 +189,6 @@ Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 co
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/byd/seal/seal_rwd/headlights_1_st.jpg" title="BYD Seal RWD" width="3000" height="2000"  >}}
 

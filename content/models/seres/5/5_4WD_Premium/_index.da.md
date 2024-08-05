@@ -86,7 +86,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/exterior_1_st.jpg" title="Seres 5 4WD Premium" width="1920" height="1012"  >}}
 
 
@@ -158,7 +157,6 @@ Vigtige skærmdetaljer:
 - Skærmen  i dashboardets midte er 15,6 tommer stor
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/screens_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707"  >}}
 

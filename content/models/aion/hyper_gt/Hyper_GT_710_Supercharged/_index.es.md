@@ -81,7 +81,6 @@ Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, m
 
 Sólo hay un techo para este modelo. El techo estándar incluye un gran techo panorámico de cristal que se extiende desde el frente hasta la parte trasera, mejorando la sensación de amplitud y luminosidad del interior, mejorando así el estado de ánimo y la comodidad de los ocupantes. Este vidrio está tintado para proteger contra el calor del sol.
 
-
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/exterior_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1400" height="788"  >}}
 
 
@@ -110,7 +109,6 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 -  [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/frontseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1875" height="1250"  >}}
 
 #### Asiento de segunda fila
@@ -122,7 +120,6 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 -  [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/secondrowseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="2500" height="1250"  >}}
 
@@ -161,7 +158,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/screens_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="2500" height="1250"  >}}
 
 ## Infoentretenimiento
@@ -180,7 +176,6 @@ El modelo tiene 1 conexiones USB-C de serie.
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/headlights_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1920" height="960"  >}}
 

@@ -83,7 +83,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/exterior_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2000"  >}}
 
 
@@ -154,7 +153,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/screens_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="1748"  >}}
 
 ## Infotainment
@@ -181,7 +179,6 @@ The model has 4 USB-C connections as standard. The model has 1 USB-A connections
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/headlights_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2001"  >}}
 
@@ -227,7 +224,6 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 527 liters. With the rear seat down, it is 1578 liters. On the roof, you can load up to 80 kg (176.4 lbs). Roof rails are standard on this model, making it easy to mount the roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 24 liters (0.8 CU FT). The maxium weight of the car is 2660 kg (5864 lbs), and with the base weight of 2214 kg (4881 lbs), you can max load 446 kg (983 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 446kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/trunk_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2250"  >}}
 

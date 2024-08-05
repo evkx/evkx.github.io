@@ -110,7 +110,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros. Como opción, están disponibles ventanas laterales de doble acristalamiento para reducir el ruido en la cabina, mejorando la experiencia de conducción en general
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/exterior_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="1999"  >}}
 
 
@@ -171,7 +170,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/frontseats_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2249"  >}}
 
 #### Asiento de segunda fila
@@ -220,7 +218,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en la parte inferior de la consola central mide 8,6 pulgadas de tamaño
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/screens_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2250"  >}}
 
@@ -308,7 +305,6 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 La capacidad de carga en el maletero es de 660 litros. Con el asiento trasero abatido, es de 1725 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 3280 kg (7231 lbs), y con el peso base de 2655 kg (5853 lbs), puedes cargar como máximo 625 kg (1378 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1800, y sin freno, es de 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/trunk_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2249"  >}}
 

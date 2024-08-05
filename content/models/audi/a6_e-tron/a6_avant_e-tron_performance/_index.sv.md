@@ -109,7 +109,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/exterior_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2250"  >}}
 
 
@@ -145,7 +144,6 @@ Följande funktioner är tillgängliga på **Sport Plus** sätet.
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/frontseats_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
@@ -197,7 +195,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/screens_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
 
@@ -244,7 +241,6 @@ Dessutom kan du välja mellan två typer av bakljus.
 
 - Dessutom använder standardbakljusen LED-teknik.
 - Dessutom använder standardbakljus OLED-teknik.
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
@@ -303,7 +299,6 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 Lastkapaciteten i bagageutrymmet är 502 liter. Med baksätet nedfällt är det 1422 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 27 liter. Bilens maximala vikt är 2760 kg, och med basvikten på 2185 kg kan du lasta maximalt 575 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2100, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 

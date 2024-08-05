@@ -90,7 +90,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som tilleggsutstyr kan du bestille denne modellen med soltak. Glasset strekker seg over kun første rad, og passasjerer kan åpne det. Dette glasset gjør at bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren Den har manuell gardin som passasjerene kan bruke for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/exterior_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="2000"  >}}
 
 
@@ -138,7 +137,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/frontseats_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 
 #### Seter på andre rad
@@ -149,7 +147,6 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/secondrowseats_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 
@@ -199,7 +196,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/screens_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="2000"  >}}
 
 
@@ -232,7 +228,6 @@ Modellen har 4 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/headlights_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 

@@ -84,7 +84,6 @@ Il n'y a qu'un seul toit pour ce modèle.
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/exterior_1_st.jpg" title="Jeep Avenger" width="3000" height="2000"  >}}
 
 
@@ -155,7 +154,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/screens_1_st.jpg" title="Jeep Avenger" width="3000" height="2263"  >}}
 
 ## Infodivertissement
@@ -180,7 +178,6 @@ Un type de système audio est disponible pour le Jeep Avenger.
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/headlights_1_st.jpg" title="Jeep Avenger" width="3000" height="1838"  >}}
 
@@ -214,7 +211,6 @@ Avec le système DS Drive Assist  niveau 1, vous bénéficiez des fonctionnalit�
 La capacité de chargement dans le coffre est de 355 litres. Avec la banquette arrière rabattue, elle est de 1050 litres. Le poids maximum de la voiture est de 2025 kg (4464 lbs), et avec le poids de base de 1520 kg (3351 lbs), vous pouvez charger au maximum 505 kg (1113 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/trunk_1_st.jpg" title="Jeep Avenger" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

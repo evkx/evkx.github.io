@@ -88,7 +88,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le standard est juste un toit ordinair
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/exterior_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="1999"  >}}
 
 
@@ -136,7 +135,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 - Orange [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Blue [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/frontseats_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2010"  >}}
 
 #### Sièges de deuxième rangée
@@ -149,7 +147,6 @@ L'option standard est une banquette à trois places avec une séparation 60:40 o
 L'option second est deux sièges capitaine. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2000"  >}}
 
@@ -195,7 +192,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/screens_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2000"  >}}
 
 ## Infodivertissement
@@ -225,7 +221,6 @@ Vous pouvez choisir entre deux types de phares pour le Volkswagen ID. Buzz GTX L
 - Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/headlights_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2000"  >}}
 
@@ -276,7 +271,6 @@ Avec le système Assistantpackage plus  niveau 2, vous bénéficiez de fonctionn
 La capacité de chargement dans le coffre est de 306 litres. Avec la banquette arrière rabattue, elle est de 2469 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Le poids maximum de la voiture est de 3000 kg (6614 lbs), et avec le poids de base de 2625 kg (5787 lbs), vous pouvez charger au maximum 375 kg (827 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1000, et sur une remorque non freinée, il est de 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/trunk_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

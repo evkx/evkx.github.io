@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 7,2 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 20 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/charging_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2134"  >}}
 
 ### Puerto de carga
@@ -91,7 +90,6 @@ Sólo hay un techo para este modelo. El estándar es simplemente un techo normal
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/exterior_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="1999"  >}}
 
 
@@ -122,7 +120,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 
-
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/frontseats_1_st.jpg" title="Renault Megane E-Tech Techno" width="1920" height="1080"  >}}
 
 #### Asiento de segunda fila
@@ -132,7 +129,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/secondrowseats_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001"  >}}
 
@@ -173,7 +169,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/screens_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2001"  >}}
 
 
@@ -207,7 +202,6 @@ Puedes elegir entre dos tipos de faros para el Renault Megane E-Tech Techno.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/headlights_1_st.jpeg" title="Renault Megane E-Tech Techno" width="3000" height="2250"  >}}
 
@@ -251,7 +245,6 @@ Con el sistema ProPILOT  nivel 2, obtienes las siguientes funciones de automatiz
 La capacidad de carga en el maletero es de 440 litros. Con el asiento trasero abatido, es de 1332 litros. En el techo, puedes cargar hasta 80 kg (176,4 lbs). El peso máximo del automóvil es 2158 kg (4758 lbs), y con el peso base de 1636 kg (3607 lbs), puedes cargar como máximo 522 kg (1151 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 900, y sin freno, es de 750 kg (1984/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/renault/megane/megane_e-tech_techno/trunk_1_st.jpg" title="Renault Megane E-Tech Techno" width="3000" height="1688"  >}}
 <div class="mt-3 mb-3">

@@ -88,7 +88,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_63kwh/exterior_1_st.jpg" title="Nissan Ariya 63kWh" width="3000" height="2000"  >}}
 
 
@@ -167,7 +166,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_63kwh/screens_1_st.jpg" title="Nissan Ariya 63kWh" width="3000" height="1999"  >}}
 
 
@@ -240,7 +238,6 @@ Avec le système ProPILOT  niveau 2, vous bénéficiez des fonctionnalités d'au
 La capacité de chargement dans le coffre est de 468 litres. Avec la banquette arrière rabattue, elle est de 1490 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2400 kg (5291 lbs), et avec le poids de base de 1875 kg (4134 lbs), vous pouvez charger au maximum 525 kg (1157 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 750, et sur une remorque non freinée, il est de 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_63kwh/trunk_1_st.jpg" title="Nissan Ariya 63kWh" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

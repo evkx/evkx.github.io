@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 7,2 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 13 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/charging_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1688"  >}}
 
 ### Puerto de carga
@@ -86,7 +85,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.
 
-
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/exterior_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
 
 
@@ -111,7 +109,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
-
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/frontseats_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
 
@@ -188,7 +185,6 @@ Puedes elegir entre dos tipos de faros para el Renault 5 E-Tech 52kWh 150hp.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/headlights_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
 

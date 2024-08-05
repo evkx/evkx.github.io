@@ -81,7 +81,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/exterior_1_st.jpg" title="XPENG G6 RWD Standard Range" width="1920" height="1123"  >}}
 
 
@@ -112,7 +111,6 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 - Beige [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/frontseats_1_st.jpg" title="XPENG G6 RWD Standard Range" width="1920" height="1080"  >}}
 
@@ -159,7 +157,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en el centro del tablero mide 15,0 pulgadas de tamaño
 
 El modelo no tiene head-up display.
-
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/screens_1_st.jpg" title="XPENG G6 RWD Standard Range" width="3000" height="1546"  >}}
 

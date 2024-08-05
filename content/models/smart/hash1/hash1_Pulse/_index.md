@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 2 hours and 49 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/charging_1_st.jpg" title="Smart #1 Pulse" width="3000" height="1687"  >}}
 
 ### Charge port
@@ -83,7 +82,6 @@ You can select from multiple wheel designs, all available in the same size, on t
 The car has four [regular doors](../../../../technology/doors/) and a [hatchback-style liftgate](../../../../technology/doors/#hatcback-style-liftgate).
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/exterior_1_st.jpg" title="Smart #1 Pulse" width="3000" height="2246"  >}}
 
@@ -154,7 +152,6 @@ Key screen details:
 - The touch screen at the top of the center console is 12.8 inches large
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/screens_1_st.jpg" title="Smart #1 Pulse" width="3000" height="1687"  >}}
 

@@ -81,7 +81,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/exterior_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1685"  >}}
 
 
@@ -156,7 +155,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/screens_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1874"  >}}
 
 ## Infoentretenimiento
@@ -183,7 +181,6 @@ El modelo tiene 3 conexiones USB-C de serie.
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/headlights_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1874"  >}}
 
@@ -219,7 +216,6 @@ Con el sistema DS Drive Assist  nivel 1, obtienes las siguientes funciones de au
 La capacidad de carga en el maletero es de 516 litros. Con el asiento trasero abatido, es de 1533 litros. En el techo, puedes cargar hasta 70 kg (154,3 lbs). Los rieles de techo son estándar en este modelo, lo que facilita el montaje del cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2175 kg (4795 lbs), y con el peso base de 1760 kg (3880 lbs), puedes cargar como máximo 415 kg (915 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
-
 
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/trunk_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1838"  >}}
 

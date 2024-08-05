@@ -88,7 +88,6 @@ Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset stræ
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs_iv_gen1/exterior_1_st.jpg" title="SKODA ENYAQ RS iV (GEN1)" width="3000" height="2001"  >}}
 
 

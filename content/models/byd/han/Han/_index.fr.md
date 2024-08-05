@@ -48,7 +48,6 @@ Le chargeur embarqué standard prend en charge jusqu'à 7 kW pour la charge CA d
 
 L'emplacement du port de charge se trouve sur le [côté arrière droit](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/battery_1_st.jpg" title="BYD Han" width="1084" height="470"  >}}
 
 
@@ -90,7 +89,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit p
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/exterior_1_st.jpg" title="BYD Han" width="1680" height="945"  >}}
 
 
@@ -122,7 +120,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/frontseats_1_st.jpg" title="BYD Han" width="1920" height="1156"  >}}
 
 #### Siège de deuxième rangée
@@ -132,7 +129,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 
 {{< sitefiguresized thumb="models/byd/han/han/secondrowseats_1_st.jpg" title="BYD Han" width="1600" height="960"  >}}
 
@@ -173,7 +169,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/screens_1_st.jpg" title="BYD Han" width="1920" height="1059"  >}}
 
 ## Infodivertissement
@@ -201,7 +196,6 @@ Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 5 co
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/byd/han/han/headlights_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}
 
@@ -252,7 +246,6 @@ Avec le système Smart Pilot  niveau 2, vous bénéficiez de fonctionnalités d'
 La capacité de chargement du coffre est de 410 litres. Le poids maximum de la voiture est de 2660 kg (5864 lbs), et avec le poids de base de 2250 kg (4960 lbs), vous pouvez charger au maximum 410 kg (904 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/byd/han/han/trunk_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}
 <div class="mt-3 mb-3">

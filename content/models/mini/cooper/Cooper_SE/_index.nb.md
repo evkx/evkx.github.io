@@ -82,7 +82,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/exterior_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 
@@ -108,7 +107,6 @@ Følgende funksjoner er tilgjengelige på **** setet.
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
-
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/frontseats_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
@@ -152,7 +150,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/screens_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -169,7 +166,6 @@ Et head-up display er tilvalg-system som viser hastighet og annen viktig føreri
 Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/headlights_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 

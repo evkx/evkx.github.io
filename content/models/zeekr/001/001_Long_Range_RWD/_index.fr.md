@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 38 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/charging_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2250"  >}}
 
 ### Port de recharge
@@ -83,7 +82,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un grand toit panoramique s'étendant sur la plupart des zones de l'avant vers l'arrière. Ce verre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance. humeur et confort de l'occupant. Les vitrages sont teintés pour protéger de la chaleur du soleil.
 
 Les vitres du montant B et de l'arrière sont teintées.
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/exterior_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2000"  >}}
 
@@ -162,7 +160,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/screens_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2000"  >}}
 
 
@@ -192,7 +189,6 @@ Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 co
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/headlights_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2250"  >}}
 
@@ -233,7 +229,6 @@ Avec le système Pilot Assist  niveau 2, vous bénéficiez des fonctionnalités 
 La capacité de chargement dans le coffre est de 539 litres. Avec la banquette arrière rabattue, elle est de 1411 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 32 litres (1,1 CU FT). Le poids maximum de la voiture est de 2800 kg (6173 lbs), et avec le poids de base de 2200 kg (4850 lbs), vous pouvez charger au maximum 600 kg (1323 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1500, et sur une remorque non freinée, il est de 750 kg (3307/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/trunk_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2001"  >}}
 

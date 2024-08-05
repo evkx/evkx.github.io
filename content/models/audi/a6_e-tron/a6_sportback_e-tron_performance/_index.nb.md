@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 8 timer og 37 minutter med en hjemmelader. For raskere lading kan du velge en valgfri ombordlader som støtter opptil 22 kW. Med denne oppgraderingen kan du oppnå full lading fra 0 til 100% på bare omtrent 4 timer og 18 minutter hjemme.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/charging_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2250"  >}}
 
 ### Ladeport
@@ -112,7 +111,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/exterior_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 
 
@@ -149,7 +147,6 @@ Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/frontseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 
 #### Seter på andre rad
@@ -159,7 +156,6 @@ Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/secondrowseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 
@@ -248,7 +244,6 @@ I tillegg kan du velge mellom to typer baklys.
 - I tillegg bruker standard baklykter LED-teknologi.
 - lights.taillight.technology.option.oledled
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2250"  >}}
 
 ## Avanserte førerassistentsystemer
@@ -306,7 +301,6 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/) , fe
 Lastkapasiteten i bagasjerommet er 514 liter. Med baksetet nede er det 1517 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 27 liter. Maksimumsvekten til bilen er 2750 kg, og med basisvekten på 2175 kg kan du maksimalt laste 575 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2400, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 

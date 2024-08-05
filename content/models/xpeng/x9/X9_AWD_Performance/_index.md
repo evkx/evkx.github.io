@@ -76,7 +76,6 @@ There is only one roof for this model.
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/exterior_2_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="2215"  >}}
 
 
@@ -110,7 +109,6 @@ The following functionalities are available on the **** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/frontseats_1_st.png" title="XPENG X9 AWD Performance" width="3000" height="1514"  >}}
 
 #### Second-row seat
@@ -123,7 +121,6 @@ For the second row, this model has two captain chairs. In addition, the followin
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
-
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/secondrowseats_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1687"  >}}
 
@@ -160,7 +157,6 @@ Key screen details:
 - The touch screen on the dashboard's center is 15.0 inches large
 
 The model does not have a head-up display.
-
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/screens_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1586"  >}}
 
@@ -225,7 +221,6 @@ With the XPILOT  level 2 system, you get the following driving automation featur
 The cargo capacity in the trunk is 755 liters. With the third-row seat down, it is 2554 liters.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
 This model is only available in China.<div class="mt-3 mb-3">

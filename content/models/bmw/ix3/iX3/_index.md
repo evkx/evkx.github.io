@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 43 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/charging_1_st.jpg" title="BMW iX3" width="3000" height="2070"  >}}
 
 ### Charge port
@@ -93,7 +92,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/exterior_1_st.jpg" title="BMW iX3" width="3000" height="2002"  >}}
 
 
@@ -132,7 +130,6 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
-
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/secondrowseats_1_st.jpg" title="BMW iX3" width="3000" height="2250"  >}}
 
 
@@ -170,7 +167,6 @@ Key screen details:
 - The touch screen on the dashboard's center is 12.3 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/screens_1_st.jpg" title="BMW iX3" width="3000" height="2250"  >}}
 
@@ -242,7 +238,6 @@ With the Driving Assistant Professional  level 2 system, you get the following d
 The cargo capacity in the trunk is 510 liters. With the rear seat down, it is 1560 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2725 kg (6008 lbs), and with the base weight of 2185 kg (4817 lbs), you can max load 540 kg (1190 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/trunk_1_st.jpg" title="BMW iX3" width="3000" height="2002"  >}}
 <div class="mt-3 mb-3">

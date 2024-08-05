@@ -106,7 +106,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 
 Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Glaset sträcker ut större delen av taket, och passagerare kan öppna den främre delen. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra atmosfären och komforten för passagerarna. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-
 {{< sitefiguresized thumb="models/nio/el6/el6/exterior_1_st.jpg" title="Nio EL6" width="2560" height="1280"  >}}
 
 
@@ -139,7 +138,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
-
 
 {{< sitefiguresized thumb="models/nio/el6/el6/frontseats_1_st.jpg" title="Nio EL6" width="2880" height="2316"  >}}
 
@@ -186,7 +184,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch i mitten av mittkonsolen är 12,8 tum
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/nio/el6/el6/screens_1_st.jpg" title="Nio EL6" width="2560" height="1280"  >}}
 
@@ -262,7 +259,6 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du fler körautomatiseringsfu
 Lastkapaciteten i bagageutrymmet är 668 liter. Med baksätet nedfällt är det 1430 liter. På taket kan du lasta upp till 100 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 2850 kg, och med basvikten på 2366 kg kan du lasta maximalt 484 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 484 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1200, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/nio/el6/el6/trunk_1_st.jpg" title="Nio EL6" width="2560" height="1600"  >}}
 <div class="mt-3 mb-3">

@@ -84,7 +84,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit panoramique. La vitre s'étend sur la majeure partie du toit et les occupants peuvent ouvrir la partie avant. Cette vitre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux. , ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil.
 
-
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/exterior_1_st.jpg" title="Fisker Ocean Ultra" width="3000" height="1635"  >}}
 
 
@@ -114,7 +113,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Blue [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 - Beige [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/frontseats_2_st.jpg" title="Fisker Ocean Ultra" width="3000" height="1687"  >}}
 
@@ -160,7 +158,6 @@ Détails clés de l'écran :
 - L'écran touch au milieu de la console centrale mesure 17,1 pouces
 
 Le modèle n'a pas d'affichage tête haute.
-
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/screens_1_st.jpg" title="Fisker Ocean Ultra" width="1920" height="1080"  >}}
 

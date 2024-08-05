@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 22 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 4 horas y 7 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_500_4matic/charging_1_st.jpg" title="Mercedes-EQ EQE 500 4MATIC" width="3000" height="2000"  >}}
 
 ### Puerto de carga
@@ -94,7 +93,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [ta
 
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir el frente Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Ambos paneles de cristal tienen una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_500_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQE 500 4MATIC" width="3000" height="1849"  >}}
 
 
@@ -142,7 +140,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_500_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQE 500 4MATIC" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
@@ -153,7 +150,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_500_4matic/secondrowseats_1_st.jpg" title="Mercedes-EQ EQE 500 4MATIC" width="3000" height="2000"  >}}
 
@@ -205,7 +201,6 @@ Detalles clave de la pantalla:
 - La  pantalla frente al pasajero en el tablero mide 12,3 pulgadas de tamaño
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_500_4matic/screens_1_st.jpg" title="Mercedes-EQ EQE 500 4MATIC" width="3000" height="1687"  >}}
 
@@ -288,7 +283,6 @@ Con el sistema Driver Assistance Package Plus  nivel 2, obtienes funciones de au
 La capacidad de carga en el maletero es de 430 litros. Con el asiento trasero abatido, es de 895 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 3095 kg (6823 lbs), y con el peso base de 2450 kg (5401 lbs), puedes cargar como máximo 645 kg (1422 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 750, y sin freno, es de 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_500_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQE 500 4MATIC" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

@@ -82,7 +82,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [pu
 
 Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este modelo con techo panorámico. El cristal extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este cristal hace que el coche sea más cómodo. El interior se siente más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/exterior_1_st.jpg" title="Volvo EX40 Single Motor ER" width="1920" height="1080"  >}}
 
 
@@ -107,7 +106,6 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/frontseats_1_st.jpg" title="Volvo EX40 Single Motor ER" width="1920" height="1080"  >}}
 
@@ -154,7 +152,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/screens_1_st.jpg" title="Volvo EX40 Single Motor ER" width="3000" height="2249"  >}}
 
 ## Infoentretenimiento
@@ -177,7 +174,6 @@ Puedes elegir entre dos tipos de faros para el Volvo EX40 Single Motor ER.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/headlights_1_st.jpg" title="Volvo EX40 Single Motor ER" width="1080" height="1080"  >}}
 
@@ -218,7 +214,6 @@ Con el sistema Pilot Assist  nivel 2, obtienes las siguientes funciones de autom
 La capacidad de carga en el maletero es de 419 litros. Con el asiento trasero abatido, es de 1295 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 31 litros (1,1 CU FT). El peso máximo del automóvil es 2520 kg (5556 lbs), y con el peso base de 2030 kg (4475 lbs), puedes cargar como máximo 490 kg (1080 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1500, y sin freno, es de 750 kg (3307/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/trunk_1_st.jpg" title="Volvo EX40 Single Motor ER" width="3000" height="2250"  >}}
 

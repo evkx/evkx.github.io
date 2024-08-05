@@ -86,7 +86,6 @@ There are two different roof options to select from. The standard is just a regu
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/exterior_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="1666"  >}}
 
 
@@ -119,7 +118,6 @@ You can choose from 4 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/frontseats_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="2250"  >}}
 
@@ -167,7 +165,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/screens_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="2167"  >}}
 
 ## Infotainment
@@ -198,7 +195,6 @@ You can choose between two types of headlights for the Peugot E-3008 Long Range.
 - The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/headlights_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="2250"  >}}
 

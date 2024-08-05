@@ -84,7 +84,6 @@ Sólo hay un techo para este modelo.
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/peugot/208/e-208/exterior_1_st.jpg" title="Peugot E-208" width="3000" height="1666"  >}}
 
 
@@ -114,7 +113,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Gray [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 - Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/peugot/208/e-208/frontseats_1_st.jpg" title="Peugot E-208" width="3000" height="2250"  >}}
 
@@ -157,7 +155,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/peugot/208/e-208/screens_1_st.jpg" title="Peugot E-208" width="3000" height="2001"  >}}
 
 ## Infoentretenimiento
@@ -182,7 +179,6 @@ Un tipo de sistema de sonido está disponible para el Peugot E-208.
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/peugot/208/e-208/headlights_1_st.jpg" title="Peugot E-208" width="3000" height="2000"  >}}
 

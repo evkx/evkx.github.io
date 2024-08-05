@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 22 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 2 timmar och 49 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/charging_1_st.jpg" title="Smart #1 Pulse" width="3000" height="1687"  >}}
 
 ### Laddningsport
@@ -83,7 +82,6 @@ Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på
 Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchback-typ baklucka](../../../../technology/doors/#hatcback-style-liftgate).
 
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/exterior_1_st.jpg" title="Smart #1 Pulse" width="3000" height="2246"  >}}
 
@@ -154,7 +152,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch översta mittkonsolen är 12,8 tum
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/screens_1_st.jpg" title="Smart #1 Pulse" width="3000" height="1687"  >}}
 

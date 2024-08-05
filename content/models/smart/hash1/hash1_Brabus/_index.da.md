@@ -81,7 +81,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/exterior_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2049"  >}}
 
 
@@ -108,7 +107,6 @@ Følgende funktioner er tilgængelige på **** sædet.
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - White/Blue [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/frontseats_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
 #### Sæde på anden række
@@ -118,7 +116,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/secondrowseats_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
@@ -158,7 +155,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/screens_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -184,7 +180,6 @@ Du kan vælge mellem to typer forlygter til Smart #1 Brabus.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/headlights_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
@@ -231,7 +226,6 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 Lagekapaciteten i bagagerummet er 313 liter. Med bagsædet nede er det 976 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 15 liter (0,5 CU FT). Bilens maksimale vægt er 2325 kg (5126 lbs), og med basisvægten på 2000 kg (4409 lbs), kan du maksimalt laste 325 kg (717 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/trunk_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 

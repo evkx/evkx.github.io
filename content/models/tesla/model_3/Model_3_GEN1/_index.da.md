@@ -50,7 +50,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 5 timer og 21 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_gen1/charging_1_st.jpg" title="Tesla Model 3 (GEN1)" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -99,7 +98,6 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_gen1/exterior_st.jpg" title="Tesla Model 3 (GEN1)" width="3000" height="1687"  >}}
 
 
@@ -127,7 +125,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_gen1/frontseats_1_st.jpg" title="Tesla Model 3 (GEN1)" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
@@ -135,7 +132,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_gen1/secondrowseats_1_st.jpg" title="Tesla Model 3 (GEN1)" width="3000" height="2000"  >}}
 
@@ -174,7 +170,6 @@ Vigtige skærmdetaljer:
 - Skærmen  i dashboardets midte er 15,0 tommer stor
 
 Modellen har ikke et head-up display.
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_gen1/screens_2_st.jpg" title="Tesla Model 3 (GEN1)" width="3000" height="2000"  >}}
 

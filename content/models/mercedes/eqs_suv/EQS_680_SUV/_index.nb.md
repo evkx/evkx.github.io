@@ -90,7 +90,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad. Dette glasset gjør bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Begge glasspanelene har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/exterior_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 
 
@@ -124,7 +123,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2001"  >}}
 
 #### Seter på andre rad
@@ -142,7 +140,6 @@ For den andre raden har denne modellen doble [executive-seter](../../../../techn
 - [massasje](../../../../technology/seats/adjustment/#massage)
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 - [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest)
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 
@@ -185,7 +182,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/screens_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 
 
@@ -218,7 +214,6 @@ Modellen har 4 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/headlights_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 

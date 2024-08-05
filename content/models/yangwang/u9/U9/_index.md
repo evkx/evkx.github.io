@@ -97,7 +97,6 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 There is only one roof for this model.
 
-
 {{< sitefiguresized thumb="models/yangwang/u9/u9/exterior_1_st.jpg" title="YangWang U9" width="3000" height="1562"  >}}
 
 
@@ -158,7 +157,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/yangwang/u9/u9/screens_1_st.jpg" title="YangWang U9" width="1200" height="717"  >}}
 
 ## Infotainment
@@ -183,7 +181,6 @@ One type of sound system is available for the YangWang U9.
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/yangwang/u9/u9/headlights_1_st.jpg" title="YangWang U9" width="3000" height="2250"  >}}
 

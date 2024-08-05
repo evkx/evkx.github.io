@@ -84,7 +84,6 @@ Det finns bara ett tak för denna modell.
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/peugot/208/e-208/exterior_1_st.jpg" title="Peugot E-208" width="3000" height="1666"  >}}
 
 
@@ -114,7 +113,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/peugot/208/e-208/frontseats_1_st.jpg" title="Peugot E-208" width="3000" height="2250"  >}}
 
@@ -157,7 +155,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/peugot/208/e-208/screens_1_st.jpg" title="Peugot E-208" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -182,7 +179,6 @@ En typ av ljudsystem är tillgänglig för Peugot E-208.
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/peugot/208/e-208/headlights_1_st.jpg" title="Peugot E-208" width="3000" height="2000"  >}}
 

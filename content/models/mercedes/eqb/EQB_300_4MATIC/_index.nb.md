@@ -85,7 +85,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad. Dette glasset gjør bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Begge glasspanelene har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_300_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" width="3000" height="1686"  >}}
 
 
@@ -133,7 +132,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_300_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" width="3000" height="1999"  >}}
 
@@ -183,7 +181,6 @@ Viktige skjermdetaljer:
 - touch-skjermen ved høyre del av den delte rammen er 10,3 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_300_4matic/screens_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" width="3000" height="1686"  >}}
 
@@ -260,7 +257,6 @@ Med Driver Assistance Package  nivå 1-systemet får du følgende kjøreautomati
 Lastkapasiteten i bagasjerommet er 495 liter. Med baksetet nede er det 1410 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2580 kg, og med basisvekten på 2100 kg kan du maksimalt laste 480 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt. 480 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_300_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

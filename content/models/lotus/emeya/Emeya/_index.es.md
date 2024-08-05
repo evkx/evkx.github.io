@@ -90,7 +90,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/lotus/emeya/emeya/exterior_1_st.jpg" title="Lotus Emeya" width="3000" height="1687"  >}}
 
 
@@ -125,7 +124,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Antracite/Gray [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
 - Red/Black [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
 
-
 {{< sitefiguresized thumb="models/lotus/emeya/emeya/frontseats_1_st.jpg" title="Lotus Emeya" width="3000" height="1687"  >}}
 
 #### Asientos de la segunda fila
@@ -138,7 +136,6 @@ La opción standard es un banco de tres asientos con una división 40:20:40 dond
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 La opción second es [asientos ejecutivos gemelos](../../../../technology/seats/types/#twin-executive-seats). Además, las siguientes funcionalidades están disponibles.
-
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya/secondrowseats_1_st.jpg" title="Lotus Emeya" width="3000" height="1687"  >}}
 
@@ -176,7 +173,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en el centro del tablero mide 15,1 pulgadas de tamaño
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya/screens_1_st.jpg" title="Lotus Emeya" width="3000" height="1285"  >}}
 

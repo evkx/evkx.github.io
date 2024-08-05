@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 6,6 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 9 heures et 41 minutes à domicile. our une charge plus rapide, vous pouvez opter pour un chargeur embarqué optionnel prenant en charge jusqu'à 11 kW. Avec cette mise à niveau, vous pouvez atteindre une charge complète de 0 à 100% en seulement environ 5 heures et 49 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/charging_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
 ### Port de recharge
@@ -87,7 +86,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/exterior_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
 
@@ -114,7 +112,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/frontseats_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
 #### Siège de deuxième rangée
@@ -124,7 +121,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:60 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/secondrowseats_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
@@ -173,7 +169,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/screens_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
 ## Infodivertissement
@@ -204,7 +199,6 @@ Vous pouvez choisir entre deux types de phares pour le Lexus RZ 450e.
 - Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/headlights_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
@@ -242,7 +236,6 @@ Avec le système standard, le modèle n'offre aucune automatisation de conduite.
 La capacité de chargement du coffre est de 522 litres. Avec le siège de troisième rangée abaissé, elle est de 1451 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2530 kg (5578 lbs), et avec le poids de base de 1980 kg (4365 lbs), vous pouvez charger au maximum 550 kg (1213 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 750, et sur une remorque non freinée, il est de 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/trunk_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

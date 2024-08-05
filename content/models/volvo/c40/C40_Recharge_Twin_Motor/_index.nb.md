@@ -50,7 +50,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 10 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/charging_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -91,7 +90,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback 
 
 Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør bilens interiøret føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/exterior_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}
 
 
@@ -117,7 +115,6 @@ Følgende funksjoner er tilgjengelige på **** setet.
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/frontseats_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
@@ -127,7 +124,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/secondrowseats_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}
 
@@ -167,7 +163,6 @@ Viktige skjermdetaljer:
 
 Modellen er ikke tilgjengelig med head-up display.
 
-
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/screens_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -190,7 +185,6 @@ Du kan velge mellom to typer frontlykter for Volvo C40 Recharge Twin Motor.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/headlights_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}
 
@@ -231,7 +225,6 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 Lastkapasiteten i bagasjerommet er 419 liter. Med baksetet nede er det 1205 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 31 liter. Maksimumsvekten til bilen er 2620 kg, og med basisvekten på 2110 kg kan du maksimalt laste 510 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1500, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/trunk_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}
 

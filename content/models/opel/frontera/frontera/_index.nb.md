@@ -90,7 +90,6 @@ Det er bare ett tak for denne modellen.
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/opel/frontera/exterior_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
 
 
@@ -173,7 +172,6 @@ Viktige skjermdetaljer:
 
 Modellen er ikke tilgjengelig med head-up display.
 
-
 {{< sitefiguresized thumb="models/opel/frontera/screens_1_st.jpg" title="Opel Frontera" width="3000" height="1875"  >}}
 
 
@@ -204,7 +202,6 @@ Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/opel/frontera/headlights_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
 
@@ -240,7 +237,6 @@ Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), en [
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 460 liter. Med baksetet nede er det 1594 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2030 kg, og med basisvekten på 1439 kg kan du maksimalt laste 591 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
-
 
 {{< sitefiguresized thumb="models/opel/frontera/trunk_1_st.jpg" title="Opel Frontera" width="3000" height="2000"  >}}
 

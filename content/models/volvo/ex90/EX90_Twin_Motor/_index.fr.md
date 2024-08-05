@@ -84,7 +84,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un grand 
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/exterior_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2212"  >}}
 
 
@@ -118,7 +117,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Gray [revêtement en laine](../../../../technology/seats/materials/#wool)
 
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/frontseats_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
 #### Siège de deuxième rangée
@@ -128,7 +126,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:60 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
@@ -174,7 +171,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/screens_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
 ## Infodivertissement
@@ -197,7 +193,6 @@ Vous pouvez choisir entre deux types de phares pour le Volvo EX90 Twin Motor.
 - Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/headlights_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 

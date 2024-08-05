@@ -86,7 +86,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/kia/ev3/ev3_long_range/exterior_1_st.jpg" title="Kia EV3 Long Range" width="3000" height="1687"  >}}
 
 
@@ -162,7 +161,6 @@ Viktige skjermdetaljer:
 - touch-skjermen ved høyre del av den delte rammen er 12,3 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/kia/ev3/ev3_long_range/screens_1_st.jpg" title="Kia EV3 Long Range" width="2903" height="1633"  >}}
 

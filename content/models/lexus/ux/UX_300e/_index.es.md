@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 7 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 9 horas y 8 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/charging_1_st.jpg" title="Lexus UX 300e" width="3000" height="1687"  >}}
 
 ### Puerto de carga
@@ -87,7 +86,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/exterior_1_st.jpg" title="Lexus UX 300e" width="3000" height="2000"  >}}
 
 
@@ -115,7 +113,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/frontseats_1_st.jpg" title="Lexus UX 300e" width="2281" height="1521"  >}}
 
 #### Asiento de segunda fila
@@ -125,7 +122,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/secondrowseats_1_st.jpg" title="Lexus UX 300e" width="2281" height="1521"  >}}
 
@@ -177,7 +173,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/screens_1_st.jpg" title="Lexus UX 300e" width="2451" height="1510"  >}}
 
 ## Infoentretenimiento
@@ -208,7 +203,6 @@ Puedes elegir entre dos tipos de faros para el Lexus UX 300e.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/headlights_1_st.jpg" title="Lexus UX 300e" width="3000" height="2000"  >}}
 
@@ -248,7 +242,6 @@ Con el sistema estándar, el modelo no ofrece automatización de conducción.
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 367 litros. Con el asiento de la tercera fila abatido, es de 1451 litros. En el techo, puedes cargar hasta 80 kg (176,4 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2245 kg (4949 lbs), y con el peso base de 1810 kg (3990 lbs), puedes cargar como máximo 435 kg (959 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
-
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/trunk_1_st.jpg" title="Lexus UX 300e" width="2241" height="1494"  >}}
 <div class="mt-3 mb-3">

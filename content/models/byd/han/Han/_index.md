@@ -48,7 +48,6 @@ The  onboard charger supports up to 7 kW for Level 1 and Level 2 AC charging. Th
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/battery_1_st.jpg" title="BYD Han" width="1084" height="470"  >}}
 
 
@@ -90,7 +89,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/exterior_1_st.jpg" title="BYD Han" width="1680" height="945"  >}}
 
 
@@ -122,7 +120,6 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 3 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/frontseats_1_st.jpg" title="BYD Han" width="1920" height="1156"  >}}
 
 #### Second-row seat
@@ -132,7 +129,6 @@ You can choose from 3 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/byd/han/han/secondrowseats_1_st.jpg" title="BYD Han" width="1600" height="960"  >}}
 
@@ -173,7 +169,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/screens_1_st.jpg" title="BYD Han" width="1920" height="1059"  >}}
 
 ## Infotainment
@@ -201,7 +196,6 @@ The model has 1 USB-C connections as standard. The model has 5 USB-A connections
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/byd/han/han/headlights_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}
 
@@ -252,7 +246,6 @@ With the Smart Pilot  level 2 system, you get additional driving automation feat
 The cargo capacity in the trunk is 410 liters. The maxium weight of the car is 2660 kg (5864 lbs), and with the base weight of 2250 kg (4960 lbs), you can max load 410 kg (904 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/byd/han/han/trunk_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}
 <div class="mt-3 mb-3">

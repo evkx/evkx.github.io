@@ -84,7 +84,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/exterior_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2212"  >}}
 
 
@@ -118,7 +117,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Gray [tapicería de lana](../../../../technology/seats/materials/#wool)
 
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/frontseats_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
 #### Asiento de segunda fila
@@ -128,7 +126,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 40:60 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
@@ -174,7 +171,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/screens_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 
 ## Infoentretenimiento
@@ -197,7 +193,6 @@ Puedes elegir entre dos tipos de faros para el Volvo EX90 Twin Motor.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor/headlights_1_st.jpg" title="Volvo EX90 Twin Motor" width="3000" height="2250"  >}}
 

@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 4 heures et 23 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/charging_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2054"  >}}
 
 ### Port de recharge
@@ -86,7 +85,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit ouvrant. La vitre s'étend uniquement sur la première rangée et les occupants peuvent l'ouvrir. Cette vitre donne une impression d'intérieur à la voiture. plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
-
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/exterior_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2250"  >}}
 
@@ -131,7 +129,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 
-
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/secondrowseats_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2155"  >}}
 
 
@@ -170,7 +167,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/screens_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="1687"  >}}
 
 ## Infodivertissement
@@ -197,7 +193,6 @@ Le modèle dispose de 4 connexions USB-C en standard.
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/headlights_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2250"  >}}
 
@@ -246,7 +241,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 La capacité de chargement dans le coffre est de 466 litres. Avec la banquette arrière rabattue, elle est de 1578 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont standard sur ce modèle, ce qui facilite le montage du coffre de toit ou des barres de toit sur la voiture. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 27 litres (1,0 CU FT). Le poids maximum de la voiture est de 2110 kg (4652 lbs), et avec le poids de base de 1640 kg (3616 lbs), vous pouvez charger au maximum 470 kg (1036 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 750, et sur une remorque non freinée, il est de 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/trunk_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

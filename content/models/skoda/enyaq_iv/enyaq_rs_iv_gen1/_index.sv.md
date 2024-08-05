@@ -88,7 +88,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs_iv_gen1/exterior_1_st.jpg" title="SKODA ENYAQ RS iV (GEN1)" width="3000" height="2001"  >}}
 
 

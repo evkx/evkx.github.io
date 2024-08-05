@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 4 timer og 37 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/opel/mokka/mokka_electric/charging_1_st.jpeg" title="Opel Mokka Electric" width="1920" height="1280"  >}}
 
 ### Ladeport
@@ -87,7 +86,6 @@ Det er bare ett tak for denne modellen.
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/opel/mokka/mokka_electric/exterior_1_st.jpeg" title="Opel Mokka Electric" width="1920" height="1280"  >}}
 
 
@@ -117,7 +115,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 - Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/opel/mokka/mokka_electric/frontseats_1_st.jpeg" title="Opel Mokka Electric" width="1920" height="1371"  >}}
 
@@ -159,7 +156,6 @@ Viktige skjermdetaljer:
 - touch-skjermen i dashbordets sentrum er 10,3 tommer stor
 
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/opel/mokka/mokka_electric/screens_1_st.jpeg" title="Opel Mokka Electric" width="1920" height="1280"  >}}
 

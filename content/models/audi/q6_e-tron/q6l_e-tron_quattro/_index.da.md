@@ -111,7 +111,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_1_st.jpg" title="Audi Q6L e-tron quattro" width="3000" height="2250"  >}}
 
 
@@ -243,7 +242,6 @@ Du kan vælge mellem to typer forlygter til Audi Q6L e-tron quattro.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6l_e-tron_quattro/headlights_1_st.jpg" title="Audi Q6L e-tron quattro" width="3000" height="2250"  >}}
 

@@ -91,7 +91,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/exterior_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="1922"  >}}
 
 
@@ -189,7 +188,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/screens_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2206"  >}}
 
 ## Infotainment
@@ -268,7 +266,6 @@ Med Assistantpackage plus  nivå 2-systemet får du flere kjøreautomatiseringsf
 Lastkapasiteten i bagasjerommet er 543 liter. Med baksetet nede er det 1575 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2690 kg, og med basisvekten på 2081 kg kan du maksimalt laste 609 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro/trunk_1_st.jpg" title="Volkswagen ID.4 Pro" width="3000" height="2000"  >}}
 

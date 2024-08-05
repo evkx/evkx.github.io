@@ -84,7 +84,6 @@ There is only one roof for this model.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/fiat/600e/600e/exterior_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 
 
@@ -114,7 +113,6 @@ You can choose from 4 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/frontseats_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 
@@ -158,7 +156,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/fiat/600e/600e/screens_1_st.jpg" title="Fiat 600e" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -185,7 +182,6 @@ The model has 3 USB-A connections as standard.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/headlights_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 
@@ -219,7 +215,6 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 The cargo capacity in the trunk is 360 liters. With the rear seat down, it is 1231 liters. The maxium weight of the car is 2025 kg (4464 lbs), and with the base weight of 1520 kg (3351 lbs), you can max load 505 kg (1113 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/fiat/600e/600e/trunk_1_st.jpg" title="Fiat 600e" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

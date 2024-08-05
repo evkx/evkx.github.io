@@ -42,7 +42,6 @@ Den maksimale DC-opladningshastighed er 30kW. En fuld opladning fra 0 - 100 % vi
 
 Den standard ombordlader understøtter op til 7 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 3 timer og 34 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/charging_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1702"  >}}
 
 ### Ladeport
@@ -83,7 +82,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er kun ét tag til denne model.
 
-
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/exterior_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1698"  >}}
 
 
@@ -106,7 +104,6 @@ Følgende funktioner er tilgængelige på **** sædet.
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - Black [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
-
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/frontseats_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
@@ -154,7 +151,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/screens_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -181,7 +177,6 @@ Modellen har 2 USB-C-forbindelser som standard.
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/headlights_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1698"  >}}
 

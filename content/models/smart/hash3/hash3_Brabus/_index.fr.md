@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 22 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 2 heures et 49 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/charging_1_st.jpg" title="Smart #3 Brabus" width="3000" height="1687"  >}}
 
 ### Port de recharge
@@ -82,7 +81,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Cette vitre donne à l'intérieur de la voiture une sensation plus agréable. spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil.
 
-
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/exterior_1_st.jpg" title="Smart #3 Brabus" width="3000" height="2250"  >}}
 
 
@@ -108,7 +106,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 - White/Blue [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/frontseats_1_st.jpg" title="Smart #3 Brabus" width="1536" height="864"  >}}
 
@@ -155,7 +152,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/screens_1_st.jpg" title="Smart #3 Brabus" width="3000" height="2000"  >}}
 
 ## Infodivertissement
@@ -181,7 +177,6 @@ Vous pouvez choisir entre deux types de phares pour le Smart #3 Brabus.
 - Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/headlights_1_st.jpg" title="Smart #3 Brabus" width="3000" height="2000"  >}}
 

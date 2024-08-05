@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 0 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/charging_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -94,7 +93,6 @@ There are two different roof options to select from. The standard is just a regu
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/exterior_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="1999"  >}}
 
 
@@ -137,7 +135,6 @@ The following functionalities are available on the **Sport** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/frontseats_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="1999"  >}}
 
 #### Second-row seat
@@ -145,7 +142,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/secondrowseats_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="1999"  >}}
 
@@ -185,7 +181,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/screens_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="1999"  >}}
 
 ## Infotainment
@@ -213,7 +208,6 @@ The model has 2 USB-C connections as standard. As an option, you can get additio
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/headlights_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="2000"  >}}
 
@@ -261,7 +255,6 @@ With the MAX  level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 585 liters. With the rear seat down, it is 1710 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2750 kg (6063 lbs), and with the base weight of 2117 kg (4667 lbs), you can max load 633 kg (1396 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/trunk_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="2000"  >}}
 

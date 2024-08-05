@@ -90,7 +90,6 @@ There is only one roof for this model. The windshield is panoramic going back ov
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/exterior_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2250"  >}}
 
 
@@ -125,7 +124,6 @@ You can choose from 3 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/secondrowseats_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2000"  >}}
 
@@ -170,7 +168,6 @@ Key screen details:
 - The touch screen in the rear center console is 8.0 inches large
 
 The model does not have a head-up display.
-
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/screens_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2000"  >}}
 
@@ -245,7 +242,6 @@ With the Full Self-Driving Capability  level 3 system, you get additional drivin
 The cargo capacity in the trunk is 709 liters. With the rear seat down, it is 1828 liters. Under the hood, there is frunk with more storage room. This frunk is 183 liters (6.5 CU FT). The maxium weight of the car is 2970 kg (6548 lbs), and with the base weight of 2464 kg (5432 lbs), you can max load 506 kg (1116 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 A towbar is standard equipment on this model. The maximum total weight on a braked trailer is 2250, and on unbraked, it is 750 kg (4960/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_plaid/trunk_1_st.jpg" title="Tesla Model X Plaid" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

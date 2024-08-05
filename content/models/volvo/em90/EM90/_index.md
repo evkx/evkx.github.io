@@ -84,7 +84,6 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/volvo/em90/em90/exterior_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 
 
@@ -118,7 +117,6 @@ You can choose from 5 different materials/colors for this seat type.
 - Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [leather upholstering](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/volvo/em90/em90/frontseats_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
 #### Second-row seat
@@ -131,7 +129,6 @@ For the second row, this model has two captain chairs. In addition, the followin
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
-
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/secondrowseats_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 
@@ -177,7 +174,6 @@ Key screen details:
 For the rear seat passengers, there is an infotainment screen in the roof behind the first row seats.
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/volvo/em90/em90/screens_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
 
@@ -207,7 +203,6 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/headlights_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 

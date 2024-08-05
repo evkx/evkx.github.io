@@ -84,7 +84,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [pu
 
 Sólo hay un techo para este modelo. El techo estándar incluye un gran techo panorámico de cristal que se extiende desde el frente hasta la parte trasera, mejorando la sensación de amplitud y luminosidad del interior, mejorando así el estado de ánimo y la comodidad de los ocupantes. Este vidrio está tintado para proteger contra el calor del sol.
 
-
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/exterior_5_st.jpg" title="Fisker Ocean Sport" width="3000" height="2250"  >}}
 
 
@@ -115,7 +114,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Blue [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 - Beige [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/frontseats_2_st.jpg" title="Fisker Ocean Sport" width="3000" height="1687"  >}}
 
@@ -161,7 +159,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en el medio de la consola central mide 17,1 pulgadas de tamaño
 
 El modelo no tiene head-up display.
-
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/screens_1_st.jpg" title="Fisker Ocean Sport" width="1920" height="1080"  >}}
 

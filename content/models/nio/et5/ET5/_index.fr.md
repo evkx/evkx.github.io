@@ -105,7 +105,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toit panoramique en verre s'étendant de l'avant à l'arrière, améliorant la sensation d'espace et de luminosité de l'intérieur, améliorant ainsi l'humeur et le confort des occupants. Ce verre est teinté pour protéger contre la chaleur du soleil.
 
-
 {{< sitefiguresized thumb="models/nio/et5/et5/exterior_1_st.jpg" title="Nio ET5" width="1920" height="1104"  >}}
 
 
@@ -182,7 +181,6 @@ Détails clés de l'écran :
 - L'écran touch au milieu de la console centrale mesure 12,3 pouces
 
 Le modèle n'a pas d'affichage tête haute.
-
 
 {{< sitefiguresized thumb="models/nio/et5/et5/screens_1_st.jpg" title="Nio ET5" width="3000" height="1690"  >}}
 

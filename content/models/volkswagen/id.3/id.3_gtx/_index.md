@@ -89,7 +89,6 @@ There are two different roof options to select from. The standard is just a regu
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/exterior_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
 
@@ -114,7 +113,6 @@ The following functionalities are available on the **standard** seat.
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
 You can choose from 2 different materials/colors for this seat type.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/frontseats_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
@@ -172,7 +170,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/screens_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -203,7 +200,6 @@ You can choose between two types of headlights for the Volkswagen ID.3 GTX.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/headlights_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 

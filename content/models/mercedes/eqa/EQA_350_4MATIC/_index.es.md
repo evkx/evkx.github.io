@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 6 horas y 2 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/charging_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2000"  >}}
 
 ### Puerto de carga
@@ -87,7 +86,6 @@ Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, m
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir el frente Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Ambos paneles de cristal tienen una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="1999"  >}}
 
@@ -137,7 +135,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
@@ -180,7 +177,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en la parte derecha del marco compartido mide 10,3 pulgadas de tamaño
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/screens_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2249"  >}}
 

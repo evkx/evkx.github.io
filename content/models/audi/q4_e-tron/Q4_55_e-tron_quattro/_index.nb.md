@@ -48,7 +48,6 @@ Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-ladin
 
 Plasseringen av ladeporten er på [høyre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/battery_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="1766"  >}}
 
 
@@ -99,7 +98,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/exterior_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="2250"  >}}
 
 
@@ -138,7 +136,6 @@ Følgende funksjoner er tilgjengelige på **sport** setet.
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="1998"  >}}
 
 #### Seter på andre rad
@@ -149,7 +146,6 @@ Alternativet standard er en tre-seters benk med en 60:40-del hvor du kan folde h
 
 
 Alternativet second er en tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="2000"  >}}
 
@@ -191,7 +187,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/screens_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="1686"  >}}
 
 ## Infotainment
@@ -225,7 +220,6 @@ I tillegg kan du velge mellom to typer baklys.
 
 - lights.taillight.technology.option.led
 - lights.taillight.technology.option.led
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="2003"  >}}
 
@@ -279,7 +273,6 @@ Med Assistantpackage Tour  nivå 2-systemet får du flere kjøreautomatiseringsf
 Lastkapasiteten i bagasjerommet er 520 liter. Med baksetet nede er det 1490 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2750 kg, og med basisvekten på 2160 kg kan du maksimalt laste 590 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/trunk_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="2249"  >}}
 

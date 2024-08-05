@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 37 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 22 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 4 hours and 18 minutes at home.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/charging_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2250"  >}}
 
 ### Charge port
@@ -109,7 +108,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/exterior_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="1999"  >}}
 
 
@@ -145,7 +143,6 @@ The following functionalities are available on the **Sport Plus** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/frontseats_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249"  >}}
 
@@ -197,7 +194,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/screens_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249"  >}}
 
 
@@ -241,7 +237,6 @@ You can choose between two types of headlights for the Audi S6 Avant e-tron.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/headlights_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="1999"  >}}
 
@@ -300,7 +295,6 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 The cargo capacity in the trunk is 502 liters. With the rear seat down, it is 1422 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 27 liters (1.0 CU FT). The maxium weight of the car is 2880 kg (6349 lbs), and with the base weight of 2335 kg (5148 lbs), you can max load 545 kg (1202 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2100, and on unbraked, it is 750 kg (4630/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/trunk_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249"  >}}
 

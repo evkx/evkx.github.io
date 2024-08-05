@@ -84,7 +84,6 @@ Det er bare ett tak for denne modellen.
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/exterior_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2000"  >}}
 
 
@@ -115,7 +114,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 - Gray [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 - Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/frontseats_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2250"  >}}
 
 #### Seter på andre rad
@@ -123,7 +121,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/secondrowseats_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2000"  >}}
 
@@ -183,7 +180,6 @@ Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system so
 
 I tillegg bruker standard baklykter LED-teknologi.
 
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/headlights_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2177"  >}}
 
 ## Avanserte førerassistentsystemer
@@ -216,7 +212,6 @@ Med DS Drive Assist  nivå 1-systemet får du følgende kjøreautomatiseringsfun
 Lastkapasiteten i bagasjerommet er 400 liter. Med baksetet nede er det 1467 liter. Maksimumsvekten til bilen er 2030 kg, og med basisvekten på 1573 kg kan du maksimalt laste 457 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/trunk_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

@@ -88,7 +88,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 
 There are two different roof options to select from. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/exterior_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="1920" height="1080"  >}}
 
 
@@ -113,7 +112,6 @@ The following functionalities are available on the **** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 You can choose from 1 different materials/colors for this seat type.
-
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/frontseats_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="1920" height="1080"  >}}
 
@@ -160,7 +158,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/screens_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="3000" height="2249"  >}}
 
 ## Infotainment
@@ -183,7 +180,6 @@ You can choose between two types of headlights for the Volvo XC40 Recharge Singl
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/headlights_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="1080" height="1080"  >}}
 
@@ -224,7 +220,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 The cargo capacity in the trunk is 419 liters. With the rear seat down, it is 1295 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 31 liters (1.1 CU FT). The maxium weight of the car is 2470 kg (5445 lbs), and with the base weight of 1965 kg (4332 lbs), you can max load 505 kg (1113 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volvo/xc40/xc40_recharge_single_motor/trunk_1_st.jpg" title="Volvo XC40 Recharge Single Motor" width="3000" height="2250"  >}}
 

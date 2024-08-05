@@ -87,7 +87,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/exterior_1_st.jpg" title="Genesis GV60 AWD" width="3000" height="2121"  >}}
 
 
@@ -121,7 +120,6 @@ You can choose from 6 different materials/colors for this seat type.
 - Gray [leather upholstering](../../../../technology/seats/materials/#leather)
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/frontseats_1_st.jpg" title="Genesis GV60 AWD" width="1500" height="1090"  >}}
 
@@ -166,7 +164,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/screens_1_st.jpg" title="Genesis GV60 AWD" width="3000" height="1796"  >}}
 
 ## Infotainment
@@ -193,7 +190,6 @@ The model has 4 USB-C connections as standard. The model has 1 USB-A connections
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/headlights_1_st.jpg" title="Genesis GV60 AWD" width="1387" height="780"  >}}
 

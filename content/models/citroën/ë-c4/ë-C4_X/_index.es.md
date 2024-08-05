@@ -84,7 +84,6 @@ Sólo hay un techo para este modelo.
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/exterior_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="2000"  >}}
 
 
@@ -176,7 +175,6 @@ Un tipo de sistema de sonido está disponible para el Citroën ë-C4 X.
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/headlights_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="1999"  >}}
 

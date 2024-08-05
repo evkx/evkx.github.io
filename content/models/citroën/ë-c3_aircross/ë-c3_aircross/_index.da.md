@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 7,4 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 5 timer og 56 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/charging_1_st.jpg" title="Citroën ë-C3 Aircross" width="2893" height="2170"  >}}
 
 ### Ladeport
@@ -93,7 +92,6 @@ Der er kun ét tag til denne model.
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/exterior_1_st.jpg" title="Citroën ë-C3 Aircross" width="2894" height="2170"  >}}
 
 
@@ -125,7 +123,6 @@ Følgende funktioner er tilgængelige på **Advanced Comfort** sædet.
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - Black/Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/frontseats_1_st.jpg" title="Citroën ë-C3 Aircross" width="3000" height="2000"  >}}
 
@@ -183,7 +180,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch øverst på midterkonsollen er 10,3 tommer stor
 
 Modellen har ikke et head-up display.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/screens_1_st.jpg" title="Citroën ë-C3 Aircross" width="3000" height="2000"  >}}
 
@@ -248,7 +244,6 @@ Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), én
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 460 liter. Med bagsædet nede er det 1600 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2030 kg (4475 lbs), og med basisvægten på 1429 kg (3150 lbs), kan du maksimalt laste 601 kg (1325 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/trunk_1_st.jpg" title="Citroën ë-C3 Aircross" width="2894" height="2170"  >}}
 

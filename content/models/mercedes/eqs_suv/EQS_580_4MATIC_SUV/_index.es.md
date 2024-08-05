@@ -90,7 +90,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir el frente Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Ambos paneles de cristal tienen una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/exterior_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
 
 
@@ -138,7 +137,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1687"  >}}
 
 #### Asiento de segunda fila
@@ -150,7 +148,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="2250"  >}}
 
 #### Asientos de tercera fila
@@ -158,7 +155,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 
 La tercera fila tiene un banco de dos asientos opcional con una división 50:50. Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/thirdrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="2001"  >}}
 
@@ -207,7 +203,6 @@ Detalles clave de la pantalla:
 - La  pantalla frente al pasajero en el tablero mide 12,3 pulgadas de tamaño
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/screens_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1687"  >}}
 
@@ -291,7 +286,6 @@ Con el sistema DRIVE PILOT  nivel 3, obtienes funciones de automatización de co
 La capacidad de carga en el maletero es de 645 litros. Con el asiento trasero abatido, es de 2100 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 3375 kg (7441 lbs), y con el peso base de 2735 kg (6030 lbs), puedes cargar como máximo 640 kg (1411 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1800, y sin freno, es de 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv/trunk_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
 

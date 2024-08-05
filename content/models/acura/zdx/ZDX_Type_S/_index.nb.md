@@ -79,7 +79,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er to forskjellige takalternativer å velge mellom. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen. Som ekstrautstyr kan du bestille denne modellen med panoramatak som kan åpnes. Glasset har to paneler. Ett over første og andre rad, og passasjerene kan åpne den fremre delen. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/exterior_1_st.jpg" title="Acura ZDX Type S" width="3000" height="2000"  >}}
 
 
@@ -109,7 +108,6 @@ Følgende funksjoner er tilgjengelige på **** setet.
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Gray [lærpolstring](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/frontseats_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1997"  >}}
 
@@ -154,7 +152,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/screens_1_st.jpg" title="Acura ZDX Type S" width="3000" height="1687"  >}}
 
 
@@ -184,7 +181,6 @@ Modellen har 5 USB-C-tilkoblinger som standard.
 Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/headlights_1_st.jpg" title="Acura ZDX Type S" width="3000" height="2000"  >}}
 
@@ -223,7 +219,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 Lastkapasiteten i bagasjerommet er 793 liter. Med baksetet nede er det 1723 liter.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1588, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/acura/zdx/zdx_type_s/trunk_1_st.jpg" title="Acura ZDX Type S" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

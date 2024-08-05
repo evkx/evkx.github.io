@@ -82,7 +82,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/exterior_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 
@@ -108,7 +107,6 @@ Følgende funktioner er tilgængelige på **** sædet.
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - Black [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
-
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/frontseats_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
@@ -152,7 +150,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/screens_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -169,7 +166,6 @@ Et head-up display er en valgfri-system, der viser hastighed og andre vigtige f�
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/headlights_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 

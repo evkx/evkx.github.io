@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 7 heures et 0 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/charging_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
 
 ### Port de recharge
@@ -92,7 +91,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/exterior_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
 
 
@@ -125,7 +123,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Ergo**.
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/frontseats_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
 
@@ -171,7 +168,6 @@ Détails clés de l'écran :
 - L'écran touch au centre du tableau de bord mesure 14,6 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/screens_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
 
@@ -251,7 +247,6 @@ Avec le système Assistantpackage  niveau 2, vous bénéficiez de fonctionnalit�
 La capacité de chargement dans le coffre est de 627 litres. Avec la banquette arrière rabattue, elle est de 1510 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2685 kg (5919 lbs), et avec le poids de base de 2098 kg (4625 lbs), vous pouvez charger au maximum 587 kg (1294 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1000, et sur une remorque non freinée, il est de 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/trunk_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
 

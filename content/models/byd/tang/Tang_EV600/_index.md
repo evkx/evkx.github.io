@@ -87,7 +87,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/exterior_1_st.jpg" title="BYD Tang EV600" width="1680" height="920"  >}}
 
 
@@ -127,7 +126,6 @@ You can choose from 3 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="1921" height="1080"  >}}
 
@@ -172,7 +170,6 @@ Key screen details:
 - The touch screen on the dashboard's center is 12.8 inches large
 
 The model does not have a head-up display.
-
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/screens_1_st.jpg" title="BYD Tang EV600" width="1920" height="1079"  >}}
 

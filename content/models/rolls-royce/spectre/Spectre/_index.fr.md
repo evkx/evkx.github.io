@@ -85,7 +85,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le standard est juste un toit ordinair
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/exterior_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
 
 
@@ -123,7 +122,6 @@ Vous pouvez choisir parmi 7 différents matériaux/couleurs pour ce type de siè
 - Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 - Red [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1687"  >}}
 
 #### Siège de deuxième rangée
@@ -136,7 +134,6 @@ Pour la deuxième rangée, ce modèle est doté de deux [sièges exécutifs](../
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/secondrowseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
 
@@ -174,7 +171,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/screens_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1862"  >}}
 
 ## Infodivertissement
@@ -205,7 +201,6 @@ Vous pouvez choisir entre deux types de phares pour le Rolls-Royce Spectre.
 - Des phares basés sur la technologie LED Matrix avec technologie Laser sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer. et éteindre individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/headlights_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1700"  >}}
 

@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 37 minutter ved brug af en hjemmeoplader. For hurtigere opladning kan du vælge en valgfri ombordlader, der understøtter op til 22 kW. Med denne opgradering kan du opnå en fuld opladning fra 0 til 100% på kun cirka 4 timer og 18 minutter derhjemme.
 
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/charging_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 
 ### Ladeport
@@ -114,7 +113,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/exterior_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 
 
@@ -159,7 +157,6 @@ Følgende funktioner er tilgængelige på **Sport Plus** sædet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/frontseats_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 
 #### Sæde på anden række
@@ -169,7 +166,6 @@ Følgende funktioner er tilgængelige på **Sport Plus** sædet.
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/secondrowseats_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 
@@ -212,7 +208,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch foran passageren i instrumentbrættet er 10,9 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/screens_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 
@@ -257,7 +252,6 @@ Du kan vælge mellem to typer forlygter til Audi Q6 e-tron performance.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/headlights_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 
@@ -316,7 +310,6 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 Lagekapaciteten i bagagerummet er 526 liter. Med bagsædet nede er det 1529 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 64 liter (2,3 CU FT). Bilens maksimale vægt er 2815 kg (6206 lbs), og med basisvægten på 2200 kg (4850 lbs), kan du maksimalt laste 615 kg (1356 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2000, og på ubremset er den 750 kg (4409/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6_e-tron_performance/trunk_1_st.jpg" title="Audi Q6 e-tron performance" width="3000" height="2249"  >}}
 

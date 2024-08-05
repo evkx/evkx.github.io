@@ -85,7 +85,6 @@ Det finns bara ett tak för denna modell. Standardinställningen är bara ett va
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/exterior_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
 
 
@@ -123,7 +122,6 @@ Du kan välja mellan 7 olika material/färger för denna sitstyp.
 - Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Red [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1687"  >}}
 
 #### Säten på andra raden
@@ -136,7 +134,6 @@ För den andra raden har den här modellen dubbla [executive-säten](../../../..
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/secondrowseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
 
@@ -174,7 +171,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/screens_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1862"  >}}
 
 ## Infotainment
@@ -205,7 +201,6 @@ Du kan välja mellan två typer av strålkastare för Rolls-Royce Spectre.
 - Strålkastare baserade på LED Matrix med laserteknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkla ljusstrålen i dussintals mindre strålar som ljusregulatorn kan slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/headlights_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1700"  >}}
 

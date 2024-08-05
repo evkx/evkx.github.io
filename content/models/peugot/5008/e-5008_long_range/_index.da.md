@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 54 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/charging_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1666"  >}}
 
 ### Ladeport
@@ -89,7 +88,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/exterior_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1958"  >}}
 
 
@@ -132,7 +130,6 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/secondrowseats_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 
@@ -177,7 +174,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/screens_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -208,7 +204,6 @@ Du kan vælge mellem to typer forlygter til Peugot E-5008 Long Range.
 - Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/headlights_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="2000"  >}}
 
@@ -254,7 +249,6 @@ Op til tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 Lagekapaciteten i bagagerummet er 300 liter. Med bagsædet nede er det 1815 liter. På taget kan du laste op til 80 kg (176,4 lbs). Bilens maksimale vægt er 2640 kg (5820 lbs), og med basisvægten på 2225 kg (4905 lbs), kan du maksimalt laste 415 kg (915 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 415kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/trunk_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 

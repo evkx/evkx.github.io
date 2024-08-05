@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 6 horas y 0 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/charging_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
 
 ### Puerto de carga
@@ -85,7 +84,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [pu
 
 Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este modelo con techo panorámico. El cristal extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este cristal hace que el coche sea más cómodo. El interior se siente más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/exterior_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
 
 
@@ -111,7 +109,6 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/frontseats_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
@@ -121,7 +118,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/secondrowseats_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
 
@@ -161,7 +157,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/screens_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
 
 ## Infoentretenimiento
@@ -184,7 +179,6 @@ Puedes elegir entre dos tipos de faros para el Volvo EC40 Single Motor.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/headlights_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2184"  >}}
 
@@ -225,7 +219,6 @@ Con el sistema Pilot Assist  nivel 2, obtienes las siguientes funciones de autom
 La capacidad de carga en el maletero es de 419 litros. Con el asiento trasero abatido, es de 1205 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 31 litros (1,1 CU FT). El peso máximo del automóvil es 2460 kg (5423 lbs), y con el peso base de 1990 kg (4387 lbs), puedes cargar como máximo 470 kg (1036 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1500, y sin freno, es de 750 kg (3307/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor/trunk_1_st.jpg" title="Volvo EC40 Single Motor" width="3000" height="2000"  >}}
 

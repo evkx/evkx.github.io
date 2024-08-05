@@ -90,7 +90,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/exterior_1_st.jpg" title="Lotus Eletre S" width="3000" height="1790"  >}}
 
 
@@ -125,7 +124,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Antracite/Gray [polstring av mikrofiber/nappaskinn](../../../../technology/seats/materials/#nappaleather)
 - Red/Black [polstring av mikrofiber/nappaskinn](../../../../technology/seats/materials/#nappaleather)
 
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/frontseats_1_st.jpg" title="Lotus Eletre S" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
@@ -138,7 +136,6 @@ Alternativet standard er en tre-seters benk med en 40:20:40-del hvor du kan fold
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 Alternativet second er to [executive-seter](../../../../technology/seats/types/#twin-executive-seats). I tillegg er følgende funksjoner tilgjengelige.
-
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/secondrowseats_1_st.jpg" title="Lotus Eletre S" width="3000" height="2000"  >}}
 
@@ -177,7 +174,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/screens_1_st.jpg" title="Lotus Eletre S" width="3000" height="1919"  >}}
 
 
@@ -208,7 +204,6 @@ Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/headlights_1_st.jpg" title="Lotus Eletre S" width="3000" height="2000"  >}}
 
@@ -263,7 +258,6 @@ Opptil fire [LiDARsensorer](../../../../technology/sensorsandcameras/lidar/), fe
 Lastkapasiteten i bagasjerommet er 688 liter. Med baksetet nede er det 1532 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 46 liter. Maksimumsvekten til bilen er 3100 kg, og med basisvekten på 2640 kg kan du maksimalt laste 460 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt. 460 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2250, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/trunk_1_st.jpg" title="Lotus Eletre S" width="3000" height="1687"  >}}
 

@@ -91,7 +91,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/exterior_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
 
@@ -126,7 +125,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 - Antracite/Gray [revêtement en microfibre/cuir nappa](../../../../technology/seats/materials/#nappaleather)
 - Red/Black [revêtement en microfibre/cuir nappa](../../../../technology/seats/materials/#nappaleather)
 
-
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/frontseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
 #### Sièges de deuxième rangée
@@ -139,7 +137,6 @@ L'option standard est une banquette à trois places avec une séparation 40:20:4
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (facultatif)
 
 L'option second est double [sièges exécutifs](../../../../technology/seats/types/#twin-executive-seats). De plus, les fonctionnalités suivantes sont disponibles.
-
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/secondrowseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
@@ -177,7 +174,6 @@ Détails clés de l'écran :
 - L'écran touch au centre du tableau de bord mesure 15,1 pouces
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/screens_1_st.jpg" title="Lotus Emeya S" width="3000" height="1285"  >}}
 

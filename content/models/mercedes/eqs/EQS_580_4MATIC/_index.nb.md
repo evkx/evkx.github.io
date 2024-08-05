@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 22 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 5 timer og 21 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/charging_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -95,7 +94,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad. Dette glasset gjør bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Begge glasspanelene har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1999"  >}}
 
 
@@ -143,7 +141,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1999"  >}}
 
 #### Seter på andre rad
@@ -161,7 +158,6 @@ Alternativet second er en tre-seters benk med en 40:20:40-del hvor du kan folde 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1687"  >}}
 
@@ -204,7 +200,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/screens_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1687"  >}}
 
 
@@ -237,7 +232,6 @@ Modellen har 4 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/headlights_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="1920" height="1080"  >}}
 
@@ -290,7 +284,6 @@ Med DRIVE PILOT  nivå 3-systemet får du flere kjøreautomatiseringsfunksjoner 
 Lastkapasiteten i bagasjerommet er 610 liter. Med baksetet nede er det 1770 liter. På taket kan du laste opptil 100 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 3060 kg, og med basisvekten på 2555 kg kan du maksimalt laste 505 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1700, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000"  >}}
 

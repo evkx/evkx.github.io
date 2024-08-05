@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 45 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/charging_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2249"  >}}
 
 ### Charge port
@@ -81,7 +80,6 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 There is only one roof for this model. As an option, you can order this model with large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/exterior_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}
 
 
@@ -107,7 +105,6 @@ You can choose from 2 different materials/colors for this seat type.
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/frontseats_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -115,7 +112,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/secondrowseats_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}
 
@@ -153,7 +149,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/screens_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}
 
 
@@ -184,7 +179,6 @@ The model has 1 USB-C connections as standard. The model has 1 USB-A connections
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/headlights_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2000"  >}}
 
 ## Advanced driver assistance systems
@@ -214,7 +208,6 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 363 liters. With the rear seat down, it is 1165 liters. The maxium weight of the car is 2209 kg (4870 lbs), and with the base weight of 1823 kg (4019 lbs), you can max load 386 kg (851 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 500, and on unbraked, it is 500 kg (1102/1102 lbs).
-
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/trunk_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

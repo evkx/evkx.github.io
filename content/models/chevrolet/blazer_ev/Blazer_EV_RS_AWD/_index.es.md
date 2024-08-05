@@ -79,7 +79,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Hay dos opciones de techo diferentes para elegir El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol. Como opción, puedes pedir este modelo con techo panorámico que se puede abrir. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir la parte delantera. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/exterior_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="1928"  >}}
 
 
@@ -108,7 +107,6 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Gray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/frontseats_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 
@@ -154,7 +152,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/screens_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 
 
@@ -184,7 +181,6 @@ El modelo tiene 5 conexiones USB-C de serie.
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/headlights_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 
@@ -223,7 +219,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 La capacidad de carga en el maletero es de 863 litros. Con el asiento trasero abatido, es de 1676 litros.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1588, y sin freno, es de 750 kg (3501/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/trunk_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

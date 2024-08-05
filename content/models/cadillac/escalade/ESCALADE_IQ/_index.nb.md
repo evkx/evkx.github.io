@@ -81,7 +81,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
-
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/exterior_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2028"  >}}
 
 
@@ -113,7 +112,6 @@ Følgende funksjoner er tilgjengelige på **** setet.
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - Beige [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
 #### Seter på andre rad
@@ -127,7 +125,6 @@ For den andre raden har denne modellen doble [executive-seter](../../../../techn
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massasje](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2003"  >}}
 
@@ -172,7 +169,6 @@ Viktige skjermdetaljer:
 - touch-skjermen foran passasjeren på dashbordet er 20,0 tommer stor
 
 Modellen er ikke tilgjengelig med head-up display.
-
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/screens_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2250"  >}}
 

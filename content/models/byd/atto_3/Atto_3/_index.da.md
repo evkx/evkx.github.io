@@ -87,7 +87,6 @@ Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset stræ
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/exterior_1_st.jpg" title="BYD Atto 3" width="1600" height="1137"  >}}
 
 
@@ -119,7 +118,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/frontseats_1_st.jpg" title="BYD Atto 3" width="1600" height="1203"  >}}
 
 #### Sæde på anden række
@@ -127,7 +125,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/secondrowseats_1_st.jpg" title="BYD Atto 3" width="1600" height="1121"  >}}
 
@@ -179,7 +176,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/screens_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
 ## Infotainment
@@ -202,7 +198,6 @@ Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelse
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/headlights_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
@@ -246,7 +241,6 @@ Med   niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 440 liter. Med bagsædet nede er det 1338 liter. På taget kan du laste op til 50 kg (110,2 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2160 kg (4762 lbs), og med basisvægten på 1750 kg (3858 lbs), kan du maksimalt laste 410 kg (904 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
-
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 <div class="mt-3 mb-3">

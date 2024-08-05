@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 6 timer og 2 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/charging_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -87,7 +86,6 @@ Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil g
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad. Dette glasset gjør bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Begge glasspanelene har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="1999"  >}}
 
@@ -137,7 +135,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
@@ -180,7 +177,6 @@ Viktige skjermdetaljer:
 - touch-skjermen ved høyre del av den delte rammen er 10,3 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/screens_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2249"  >}}
 

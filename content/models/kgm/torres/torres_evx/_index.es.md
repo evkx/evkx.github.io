@@ -86,7 +86,6 @@ Sólo hay un techo para este modelo. El estándar es simplemente un techo normal
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/exterior_1_st.jpg" title="KGM Torres EVX" width="3000" height="2000"  >}}
 
 
@@ -160,7 +159,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/screens_1_st.jpg" title="KGM Torres EVX" width="3000" height="1960"  >}}
 
 ## Infoentretenimiento
@@ -187,7 +185,6 @@ El modelo tiene 4 conexiones USB-C de serie.
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/headlights_1_st.jpg" title="KGM Torres EVX" width="3000" height="1687"  >}}
 

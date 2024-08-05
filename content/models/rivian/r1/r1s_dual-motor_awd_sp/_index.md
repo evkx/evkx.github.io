@@ -82,7 +82,6 @@ There is only one roof for this model. As an option, you can order this model wi
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/exterior_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 
 
@@ -113,7 +112,6 @@ You can choose from 3 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Green [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/frontseats_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 
@@ -168,7 +166,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/screens_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 
 
@@ -194,7 +191,6 @@ The model has 6 USB-C connections as standard.
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/headlights_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 
@@ -237,7 +233,6 @@ With the Driver+  level 2 system, you get the following driving automation featu
 The cargo capacity in the trunk is 498 liters. With the rear seat down, it is 2965 liters. On the roof, you can load up to 113 kg (249.1 lbs). Under the hood, there is frunk with more storage room. This frunk is 314 liters (11.1 CU FT).
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 3500, and on unbraked, it is 750 kg (7716/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/trunk_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 

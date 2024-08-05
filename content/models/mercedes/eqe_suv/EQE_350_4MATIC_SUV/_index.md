@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 14 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 22 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 4 hours and 7 minutes at home.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350_4matic_suv/charging_1_st.jpg" title="Mercedes-EQ EQE 350 4MATIC SUV" width="3000" height="2001"  >}}
 
 ### Charge port
@@ -98,7 +97,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350_4matic_suv/exterior_1_st.jpg" title="Mercedes-EQ EQE 350 4MATIC SUV" width="3000" height="1687"  >}}
 
 
@@ -145,7 +143,6 @@ The following functionalities are available on the **multicontour** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 5 different materials/colors for this seat type.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350_4matic_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQE 350 4MATIC SUV" width="3000" height="2250"  >}}
 
@@ -206,7 +203,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350_4matic_suv/screens_1_st.jpg" title="Mercedes-EQ EQE 350 4MATIC SUV" width="3000" height="2001"  >}}
 
 
@@ -242,7 +238,6 @@ You can choose between two types of headlights for the Mercedes-EQ EQE 350 4MATI
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350_4matic_suv/headlights_1_st.jpg" title="Mercedes-EQ EQE 350 4MATIC SUV" width="3000" height="2250"  >}}
 

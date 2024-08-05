@@ -46,7 +46,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 22 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 4 heures et 7 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/charging_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="2002"  >}}
 
 ### Port de recharge
@@ -137,7 +136,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/frontseats_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée
@@ -148,7 +146,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/secondrowseats_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="2000"  >}}
 
@@ -201,7 +198,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/screens_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="2000"  >}}
 
 
@@ -237,7 +233,6 @@ Vous pouvez choisir entre deux types de phares pour le Mercedes-AMG EQE 53 4MATI
 - Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/headlights_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="1738"  >}}
 
@@ -286,7 +281,6 @@ Avec le système Driver Assistance Package Plus  niveau 2, vous bénéficiez de 
 La capacité de chargement dans le coffre est de 430 litres. Avec la banquette arrière rabattue, elle est de 895 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 3095 kg (6823 lbs), et avec le poids de base de 2450 kg (5401 lbs), vous pouvez charger au maximum 645 kg (1422 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 750, et sur une remorque non freinée, il est de 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/trunk_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

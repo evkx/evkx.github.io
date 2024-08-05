@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 22 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 4 timer og 7 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_350plus/charging_1_st.jpg" title="Mercedes-EQ EQE 350+" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -138,7 +137,6 @@ Følgende funktioner er tilgængelige på **multicontour** sædet.
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_350plus/frontseats_1_st.jpg" title="Mercedes-EQ EQE 350+" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
@@ -197,7 +195,6 @@ Vigtige skærmdetaljer:
 - Skærmen  foran passageren i instrumentbrættet er 12,3 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_350plus/screens_1_st.jpg" title="Mercedes-EQ EQE 350+" width="3000" height="2001"  >}}
 
@@ -280,7 +277,6 @@ Med Driver Assistance Package Plus  niveau 2-systemet får du yderligere køreau
 Lagekapaciteten i bagagerummet er 430 liter. Med bagsædet nede er det 895 liter. På taget kan du laste op til 100 kg (220,5 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2880 kg (6349 lbs), og med basisvægten på 2310 kg (5093 lbs), kan du maksimalt laste 570 kg (1257 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_350plus/trunk_1_st.jpg" title="Mercedes-EQ EQE 350+" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

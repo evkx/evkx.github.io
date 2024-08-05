@@ -91,7 +91,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset har två paneler. En ovanför första och andra raden. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humöret och komforten för den åkande. Båda glaspanelerna har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/exterior_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="1999"  >}}
 
 
@@ -149,7 +148,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/secondrowseats_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="2089"  >}}
 
 
@@ -202,7 +200,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/screens_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="1999"  >}}
 
 
@@ -238,7 +235,6 @@ Du kan välja mellan två typer av strålkastare för Mercedes-AMG EQE 43 4MATIC
 - Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/headlights_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="1999"  >}}
 
@@ -287,7 +283,6 @@ Med Driver Assistance Package Plus  nivå 2-systemet får du fler körautomatise
 Lastkapaciteten i bagageutrymmet är 520 liter. Med baksätet nedfällt är det 1675 liter. På taket kan du lasta upp till 100 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 3195 kg, och med basvikten på 2600 kg kan du lasta maximalt 595 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1800, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/trunk_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

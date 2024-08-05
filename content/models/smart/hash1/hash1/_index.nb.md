@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 22 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 2 timer og 49 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1/charging_1_st.jpg" title="Smart #1" width="2000" height="1500"  >}}
 
 ### Ladeport
@@ -84,7 +83,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback 
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1/exterior_2_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 
 
@@ -111,7 +109,6 @@ Følgende funksjoner er tilgjengelige på **** setet.
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - White/Blue [lærpolstring](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1/frontseats_1_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 
 #### Seter på andre rad
@@ -121,7 +118,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/secondrowseats_1_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 
@@ -161,7 +157,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1/screens_1_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -187,7 +182,6 @@ Du kan velge mellom to typer frontlykter for Smart #1.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/headlights_1_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 
@@ -234,7 +228,6 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 Lastkapasiteten i bagasjerommet er 313 liter. Med baksetet nede er det 976 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 15 liter. Maksimumsvekten til bilen er 2213 kg, og med basisvekten på 1788 kg kan du maksimalt laste 425 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1600, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/trunk_3_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 

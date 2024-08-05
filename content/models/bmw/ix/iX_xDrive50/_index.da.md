@@ -85,7 +85,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/exterior_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1999"  >}}
 
 
@@ -115,7 +114,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 Du kan vælge mellem 7 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/frontseat_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1999"  >}}
 
 #### Sæde på anden række
@@ -125,7 +123,6 @@ Du kan vælge mellem 7 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/secondrowseats_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1999"  >}}
 
@@ -163,7 +160,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i højre del af den delte ramme er 14,9 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/screens_1_st.jpg" title="BMW iX xDrive50" width="3000" height="2250"  >}}
 
@@ -240,7 +236,6 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 Lagekapaciteten i bagagerummet er 500 liter. Med bagsædet nede er det 1750 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 3135 kg (6911 lbs), og med basisvægten på 2510 kg (5534 lbs), kan du maksimalt laste 625 kg (1378 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2500, og på ubremset er den 750 kg (5512/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/trunk_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1998"  >}}
 <div class="mt-3 mb-3">

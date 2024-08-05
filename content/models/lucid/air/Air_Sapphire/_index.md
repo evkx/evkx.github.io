@@ -83,7 +83,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [boot lid]
 
 There is only one roof for this model. The standard is just a regular roof.
 
-
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/exterior_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2001"  >}}
 
 
@@ -115,7 +114,6 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/frontseats_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2001"  >}}
 
 #### Second-row seat
@@ -125,7 +123,6 @@ You can choose from 1 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/secondrowseats_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2077"  >}}
 
@@ -168,7 +165,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/screens_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -191,7 +187,6 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/headlights_1_st.jpg" title="Lucid Air Sapphire" width="3000" height="2037"  >}}
 
@@ -232,7 +227,6 @@ With the ADAS  level 2 system, you get the following driving automation features
 The cargo capacity in the trunk is 456 liters. With the rear seat down, it is 627 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 283 liters (10.0 CU FT). The maxium weight of the car is 2850 kg (6283 lbs), and with the base weight of 2360 kg (5203 lbs), you can max load 490 kg (1080 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/lucid/air/air_sapphire/trunk_1_st.jpg" title="Lucid Air Sapphire" width="2000" height="1334"  >}}
 <div class="mt-3 mb-3">

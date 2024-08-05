@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 10 horas y 16 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/charging_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2032"  >}}
 
 ### Puerto de carga
@@ -87,7 +86,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/exterior_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="1399"  >}}
 
 
@@ -119,7 +117,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - Gray [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 - White [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/frontseats_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2256"  >}}
 
@@ -167,7 +164,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/screens_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2052"  >}}
 
 
@@ -189,7 +185,6 @@ El modelo tiene 1 conexiones USB-C de serie. Como opción, puedes obtener 2 cone
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/headlights_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="1467"  >}}
 

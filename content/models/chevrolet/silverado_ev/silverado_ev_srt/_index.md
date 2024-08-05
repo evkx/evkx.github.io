@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 19 hours and 32 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/charging_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1728"  >}}
 
 ### Charge port
@@ -84,7 +83,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [tailgate]
 
 There is only one roof for this model.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/exterior_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2000"  >}}
 
 
@@ -121,7 +119,6 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
 
@@ -162,7 +159,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/screens_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -189,7 +185,6 @@ The model has 4 USB-C connections as standard.
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/headlights_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2000"  >}}
 
@@ -223,7 +218,6 @@ With the Super Cruise  level 1 system, you get the following driving automation 
 The cargo capacity in the truck bed is 1039 liters. The bed width is 1286 mm, and length is 1803 mm. The max load weight in bed is 614 kg. Under the hood, there is frunk with more storage room. This frunk is 303 liters (10.7 CU FT). The maxium weight of the car is 4763 kg (10501 lbs), and with the base weight of 4061 kg (8953 lbs), you can max load 702 kg (1548 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 4536, and on unbraked, it is 750 kg (10000/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/trunk_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1864"  >}}
 

@@ -87,7 +87,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámi
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/exterior_1_st.jpg" title="BYD Tang EV600" width="1680" height="920"  >}}
 
 
@@ -127,7 +126,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="1921" height="1080"  >}}
 
@@ -172,7 +170,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en el centro del tablero mide 12,8 pulgadas de tamaño
 
 El modelo no tiene head-up display.
-
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/screens_1_st.jpg" title="BYD Tang EV600" width="1920" height="1079"  >}}
 

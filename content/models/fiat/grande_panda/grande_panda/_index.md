@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 7.4 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 56 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/charging_1_st.JPG" title="Fiat Grande Panda" width="3000" height="1999"  >}}
 
 ### Charge port
@@ -93,7 +92,6 @@ There is only one roof for this model.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/exterior_1_st.jpg" title="Fiat Grande Panda" width="3000" height="1577"  >}}
 
 
@@ -125,7 +123,6 @@ The following functionalities are available on the **Advanced Comfort** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 - Black/Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/frontseats_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 
@@ -170,7 +167,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/screens_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 
 
@@ -201,7 +197,6 @@ The model has 2 USB-C connections as standard. As an option, you can get additio
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/headlights_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 
@@ -237,7 +232,6 @@ Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), one 
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 361 liters. With the rear seat down, it is 1600 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2030 kg (4475 lbs), and with the base weight of 1429 kg (3150 lbs), you can max load 601 kg (1325 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
-
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/trunk_1_st.jpg" title="Fiat Grande Panda" width="3000" height="1782"  >}}
 

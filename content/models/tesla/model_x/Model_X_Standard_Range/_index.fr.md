@@ -90,7 +90,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le pare-brise est panoramique en remon
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_standard_range/exterior_1_st.jpg" title="Tesla Model X Standard Range" width="3000" height="2250"  >}}
 
 
@@ -125,7 +124,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_standard_range/secondrowseats_1_st.jpg" title="Tesla Model X Standard Range" width="3000" height="2000"  >}}
 
@@ -170,7 +168,6 @@ Détails clés de l'écran :
 - L'écran touch dans la console centrale arrière mesure 8,0 pouces
 
 Le modèle n'a pas d'affichage tête haute.
-
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_standard_range/screens_1_st.jpg" title="Tesla Model X Standard Range" width="3000" height="2000"  >}}
 
@@ -245,7 +242,6 @@ Avec le système Full Self-Driving Capability  niveau 3, vous bénéficiez de fo
 La capacité de chargement dans le coffre est de 709 litres. Avec la banquette arrière rabattue, elle est de 1828 litres. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 183 litres (6,5 CU FT). Le poids maximum de la voiture est de 2970 kg (6548 lbs), et avec le poids de base de 2464 kg (5432 lbs), vous pouvez charger au maximum 506 kg (1116 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Une barre d'attelage est un équipement standard sur ce modèle. Le poids total maximum sur une remorque freinée est de 2250, et sur une remorque non freinée, il est de 750 kg (4960/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x_standard_range/trunk_1_st.jpg" title="Tesla Model X Standard Range" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

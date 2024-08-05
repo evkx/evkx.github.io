@@ -89,7 +89,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/exterior_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
 
@@ -131,7 +130,6 @@ Følgende funktioner er tilgængelige på **ergoActive Top-Sport** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/frontseats_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
@@ -178,7 +176,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/screens_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -206,7 +203,6 @@ Modellen har 4 USB-C-forbindelser som standard.
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/headlights_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
@@ -257,7 +253,6 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 Lagekapaciteten i bagagerummet er 605 liter. Med bagsædet nede er det 1714 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2630 kg (5798 lbs), og med basisvægten på 2197 kg (4844 lbs), kan du maksimalt laste 433 kg (955 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/trunk_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 

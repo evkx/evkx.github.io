@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 54 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/charging_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1666"  >}}
 
 ### Puerto de carga
@@ -89,7 +88,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/exterior_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1958"  >}}
 
 
@@ -132,7 +130,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/secondrowseats_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 
@@ -177,7 +174,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/screens_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="2000"  >}}
 
 ## Infoentretenimiento
@@ -208,7 +204,6 @@ Puedes elegir entre dos tipos de faros para el Peugot E-5008 Long Range.
 - Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/headlights_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="2000"  >}}
 
@@ -254,7 +249,6 @@ Hasta tres [sensores de radar](../../../../technology/sensorsandcameras/radar/),
 La capacidad de carga en el maletero es de 300 litros. Con el asiento trasero abatido, es de 1815 litros. En el techo, puedes cargar hasta 80 kg (176,4 lbs). El peso máximo del automóvil es 2640 kg (5820 lbs), y con el peso base de 2225 kg (4905 lbs), puedes cargar como máximo 415 kg (915 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga. 415kg se considera bajo para este tipo de automóvil y podría restringir la cantidad de cosas que puedes llevar además de los pasajeros.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1000, y sin freno, es de 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/trunk_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 

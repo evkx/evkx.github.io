@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 4 timmar och 43 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/ford/explorer/explorer_standard_range_rwd/charging_1_st.jpg" title="Ford Explorer Standard Range RWD" width="3000" height="2000"  >}}
 
 ### Laddningsport
@@ -92,7 +91,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset sträcker ut större delen av taket, och passagerarna kan öppna den främre delen. Detta glas gör bilens interiören känns rymligare och ljusare, något som kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
-
 
 {{< sitefiguresized thumb="models/ford/explorer/explorer_standard_range_rwd/exterior_1_st.jpg" title="Ford Explorer Standard Range RWD" width="3000" height="2199"  >}}
 
@@ -170,7 +168,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/ford/explorer/explorer_standard_range_rwd/screens_1_st.jpg" title="Ford Explorer Standard Range RWD" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -198,7 +195,6 @@ Modellen har 4 USB-C-anslutningar som standard.
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/ford/explorer/explorer_standard_range_rwd/headlights_1_st.jpg" title="Ford Explorer Standard Range RWD" width="3000" height="2250"  >}}
 

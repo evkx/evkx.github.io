@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 22 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 2 timer og 49 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/charging_1_st.jpg" title="Smart #3 Brabus" width="3000" height="1687"  >}}
 
 ### Ladeport
@@ -82,7 +81,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback 
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
-
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/exterior_1_st.jpg" title="Smart #3 Brabus" width="3000" height="2250"  >}}
 
 
@@ -108,7 +106,6 @@ Følgende funksjoner er tilgjengelige på **** setet.
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - White/Blue [lærpolstring](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/frontseats_1_st.jpg" title="Smart #3 Brabus" width="1536" height="864"  >}}
 
@@ -155,7 +152,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/screens_1_st.jpg" title="Smart #3 Brabus" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -181,7 +177,6 @@ Du kan velge mellom to typer frontlykter for Smart #3 Brabus.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/headlights_1_st.jpg" title="Smart #3 Brabus" width="3000" height="2000"  >}}
 

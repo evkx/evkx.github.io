@@ -86,7 +86,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/exterior_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2001"  >}}
 
 
@@ -116,7 +115,6 @@ You can choose from 2 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/frontseats_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -126,7 +124,6 @@ You can choose from 2 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/secondrowseats_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2123"  >}}
 
@@ -164,7 +161,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/screens_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -191,7 +187,6 @@ The model has 4 USB-C connections as standard. The model has 1 USB-A connections
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/headlights_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2000"  >}}
 

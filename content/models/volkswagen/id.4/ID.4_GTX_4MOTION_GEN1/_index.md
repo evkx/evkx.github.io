@@ -96,7 +96,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion_gen1/exterior_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
 
@@ -136,7 +135,6 @@ The following functionalities are available on the **ergoActive Top-Sport** seat
 
 You can choose from 1 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion_gen1/frontseats_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -144,7 +142,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion_gen1/secondrowseats_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
@@ -196,7 +193,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion_gen1/screens_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -224,7 +220,6 @@ The model has 4 USB-C connections as standard.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion_gen1/headlights_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION (GEN1)" width="3000" height="1687"  >}}
 
@@ -275,7 +270,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 543 liters. With the rear seat down, it is 1575 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2750 kg (6063 lbs), and with the base weight of 2164 kg (4771 lbs), you can max load 586 kg (1292 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion_gen1/trunk_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
 

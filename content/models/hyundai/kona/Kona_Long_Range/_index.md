@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 56 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/charging_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2054"  >}}
 
 ### Charge port
@@ -86,7 +85,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a sunroof. The glass extends over only the front row, and occupants can open it. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
-
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/exterior_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2250"  >}}
 
@@ -131,7 +129,6 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
-
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/secondrowseats_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2155"  >}}
 
 
@@ -170,7 +167,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/screens_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="1687"  >}}
 
 ## Infotainment
@@ -197,7 +193,6 @@ The model has 4 USB-C connections as standard.
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/headlights_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2250"  >}}
 
@@ -246,7 +241,6 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 466 liters. With the rear seat down, it is 1578 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard on this model, making it easy to mount the roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 27 liters (1.0 CU FT). The maxium weight of the car is 2220 kg (4894 lbs), and with the base weight of 1760 kg (3880 lbs), you can max load 460 kg (1014 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/trunk_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

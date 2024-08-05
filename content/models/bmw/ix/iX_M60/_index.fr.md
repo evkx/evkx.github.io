@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 9 heures et 33 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/charging_1_st.jpg" title="BMW iX M60" width="3000" height="2002"  >}}
 
 ### Port de recharge
@@ -88,7 +87,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/exterior_1_st.jpg" title="BMW iX M60" width="3000" height="2000"  >}}
 
 
@@ -117,7 +115,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
 
 Vous pouvez choisir parmi 7 différents matériaux/couleurs pour ce type de siège.
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/frontseats_1_st.jpg" title="BMW iX M60" width="3000" height="1999"  >}}
 
@@ -163,7 +160,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/screens_1_st.jpg" title="BMW iX M60" width="3000" height="2001"  >}}
 
 ## Infodivertissement
@@ -194,7 +190,6 @@ Vous pouvez choisir entre deux types de phares pour le BMW iX M60.
 - Des phares basés sur la technologie LED Matrix avec technologie Laser sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer. et éteindre individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/headlights_1_st.jpg" title="BMW iX M60" width="3000" height="1999"  >}}
 
@@ -242,7 +237,6 @@ Avec le système Driving Assistant Professional  niveau 2, vous bénéficiez de 
 La capacité de chargement dans le coffre est de 500 litres. Avec la banquette arrière rabattue, elle est de 1750 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 3135 kg (6911 lbs), et avec le poids de base de 2510 kg (5534 lbs), vous pouvez charger au maximum 625 kg (1378 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2500, et sur une remorque non freinée, il est de 750 kg (5512/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/trunk_1_st.jpg" title="BMW iX M60" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

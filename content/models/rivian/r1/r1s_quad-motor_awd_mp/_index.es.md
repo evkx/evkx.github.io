@@ -101,7 +101,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/exterior_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 
@@ -132,7 +131,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Green [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Blue [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/frontseats_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
@@ -187,7 +185,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/screens_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 
@@ -213,7 +210,6 @@ El modelo tiene 6 conexiones USB-C de serie.
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/headlights_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
@@ -260,7 +256,6 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 La capacidad de carga en el maletero es de 498 litros. Con el asiento trasero abatido, es de 2965 litros. En el techo, puedes cargar hasta 113 kg (249,1 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 314 litros (11,1 CU FT). El peso máximo del automóvil es 3870 kg (8532 lbs), y con el peso base de 3216 kg (7090 lbs), puedes cargar como máximo 654 kg (1442 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 3492, y sin freno, es de 750 kg (7699/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 

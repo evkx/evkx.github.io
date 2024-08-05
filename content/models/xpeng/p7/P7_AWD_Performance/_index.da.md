@@ -81,7 +81,6 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/xpeng/p7/p7_awd_performance/exterior_1_st.jpg" title="XPENG P7 AWD Performance" width="3000" height="2000"  >}}
 
 
@@ -159,7 +158,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i dashboardets midte er 15,0 tommer stor
 
 Modellen har ikke et head-up display.
-
 
 {{< sitefiguresized thumb="models/xpeng/p7/p7_awd_performance/screens_1_st.jpg" title="XPENG P7 AWD Performance" width="2000" height="1334"  >}}
 

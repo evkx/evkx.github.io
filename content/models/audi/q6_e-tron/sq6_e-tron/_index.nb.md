@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 8 timer og 37 minutter med en hjemmelader. For raskere lading kan du velge en valgfri ombordlader som støtter opptil 22 kW. Med denne oppgraderingen kan du oppnå full lading fra 0 til 100% på bare omtrent 4 timer og 18 minutter hjemme.
 
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/charging_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
 ### Ladeport
@@ -114,7 +113,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/exterior_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
 
@@ -151,7 +149,6 @@ Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/frontseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
 #### Seter på andre rad
@@ -161,7 +158,6 @@ Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/secondrowseats_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
@@ -204,7 +200,6 @@ Viktige skjermdetaljer:
 - touch-skjermen foran passasjeren i dashbordet er 10,9 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/screens_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
@@ -249,7 +244,6 @@ Du kan velge mellom to typer frontlykter for Audi SQ6 e-tron.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/headlights_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 
@@ -308,7 +302,6 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/) , fe
 Lastkapasiteten i bagasjerommet er 514 liter. Med baksetet nede er det 1517 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 64 liter. Maksimumsvekten til bilen er 2965 kg, og med basisvekten på 2350 kg kan du maksimalt laste 615 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2400, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/trunk_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 

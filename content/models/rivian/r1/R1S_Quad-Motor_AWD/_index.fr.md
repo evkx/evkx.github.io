@@ -45,7 +45,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11,5 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 10 heures et 52 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/charging_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="2880" height="1920"  >}}
 
 ### Port de recharge
@@ -85,7 +84,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 Il n'y a qu'un seul toit pour ce modèle. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée. Cette vitre embellit l'intérieur de la voiture. se sentir plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Les deux panneaux de verre sont dotés d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
 Les vitres du montant B et de l'arrière sont teintées.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/exterior_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="2880" height="1920"  >}}
 
@@ -170,7 +168,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/screens_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="1600" height="1067"  >}}
 
 
@@ -236,7 +233,6 @@ Avec le système Driver+  niveau 2, vous bénéficiez des fonctionnalités d'aut
 La capacité de chargement dans le coffre est de 498 litres. Avec la banquette arrière rabattue, elle est de 2965 litres. Sur le toit, vous pouvez charger jusqu'à 113 kg (249,1 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 314 litres (11,1 CU FT).
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 3500, et sur une remorque non freinée, il est de 750 kg (7716/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="1920" height="1080"  >}}
 

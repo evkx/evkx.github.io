@@ -80,7 +80,6 @@ Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset stræ
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/exterior_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="2000"  >}}
 
 
@@ -107,7 +106,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 - Gray [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 - Beige [Alcantara/læderbetræk](../../../../technology/seats/materials/#alcantara)
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/frontseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1999"  >}}
 
 #### Sæde på anden række
@@ -115,7 +113,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/secondrowseats_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="2256"  >}}
 
@@ -153,7 +150,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/screens_1_st.jpg" title="MG Marvel R Electric Performance" width="2560" height="1707"  >}}
 
 
@@ -184,7 +180,6 @@ Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/headlights_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1701"  >}}
 
 ## Avancerede førerassistentsystemer
@@ -214,7 +209,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 359 liter. Med bagsædet nede er det 1396 liter. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 150 liter (5,3 CU FT). Bilens maksimale vægt er 2373 kg (5232 lbs), og med basisvægten på 1920 kg (4233 lbs), kan du maksimalt laste 453 kg (999 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 453kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric_performance/trunk_1_st.jpg" title="MG Marvel R Electric Performance" width="3000" height="1915"  >}}
 

@@ -111,7 +111,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_1_st.jpg" title="Audi Q6L e-tron quattro" width="3000" height="2250"  >}}
 
 
@@ -243,7 +242,6 @@ Du kan välja mellan två typer av strålkastare för Audi Q6L e-tron quattro.
 - Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6l_e-tron_quattro/headlights_1_st.jpg" title="Audi Q6L e-tron quattro" width="3000" height="2250"  >}}
 

@@ -102,7 +102,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne. Som en mulighed er dobbeltglas sidevinduer tilgængelige for at reducere kabinestøj, hvilket forbedrer den samlede køreoplevelse.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_e-tron/exterior_1_st.jpeg" title="Audi SQ8 e-tron" width="3000" height="1999"  >}}
 
 
@@ -240,7 +239,6 @@ Du kan vælge mellem tre typer forlygter til Audi SQ8 e-tron.
 - Forlygter baseret på LED Digital Matrix-teknologi er tilgængelig som ekstraudstyr.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_e-tron/headlights_1_st.jpeg" title="Audi SQ8 e-tron" width="3000" height="1999"  >}}
 

@@ -87,7 +87,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [co
 
 Il n'y a qu'un seul toit pour ce modèle. Le pare-brise est panoramique en remontant sur la première rangée. De plus, il y a un panneau de verre au-dessus de la deuxième rangée. Ce verre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux, ce qui peut améliorent l'humeur et le confort de l'occupant. Les vitrages sont teintés pour protéger de la chaleur du soleil.
 
-
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/exterior_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="1945"  >}}
 
 
@@ -119,7 +118,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/frontseats_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="2248"  >}}
 
 #### Siège de deuxième rangée
@@ -129,7 +127,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/secondrowseats_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="2077"  >}}
 
@@ -172,7 +169,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/screens_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="1999"  >}}
 
 ## Infodivertissement
@@ -196,7 +192,6 @@ Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 co
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/headlights_1_st.jpg" title="Lucid Air Dream Edition Range" width="3000" height="2001"  >}}
 
@@ -237,7 +232,6 @@ Avec le système ADAS  niveau 2, vous bénéficiez des fonctionnalités d'automa
 La capacité de chargement dans le coffre est de 456 litres. Avec la banquette arrière rabattue, elle est de 627 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 283 litres (10,0 CU FT). Le poids maximum de la voiture est de 2850 kg (6283 lbs), et avec le poids de base de 2360 kg (5203 lbs), vous pouvez charger au maximum 490 kg (1080 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_range/trunk_1_st.jpg" title="Lucid Air Dream Edition Range" width="2000" height="1334"  >}}
 <div class="mt-3 mb-3">

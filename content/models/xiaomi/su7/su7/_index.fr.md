@@ -89,7 +89,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/exterior_1_st.jpg" title="Xiaomi SU7" width="2880" height="2160"  >}}
 
 
@@ -119,7 +118,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 - Gray [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 - Purple [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/frontseats_1_st.jpg" title="Xiaomi SU7" width="1760" height="1000"  >}}
 
 #### Siège de deuxième rangée
@@ -130,7 +128,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/secondrowseats_1_st.jpg" title="Xiaomi SU7" width="1760" height="1080"  >}}
 
@@ -166,7 +163,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/screens_1_st.jpg" title="Xiaomi SU7" width="2560" height="1440"  >}}
 
 ## Infodivertissement
@@ -186,7 +182,6 @@ Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 co
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/headlights_1_st.jpg" title="Xiaomi SU7" width="2880" height="2160"  >}}
 

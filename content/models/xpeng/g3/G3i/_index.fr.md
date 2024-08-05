@@ -81,7 +81,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [co
 
 Il n'y a qu'un seul toit pour ce modèle.
 
-
 {{< sitefiguresized thumb="models/xpeng/g3/g3i/exterior_1_st.jpeg" title="XPENG G3i" width="3000" height="1686"  >}}
 
 

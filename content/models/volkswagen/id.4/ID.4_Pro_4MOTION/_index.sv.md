@@ -91,7 +91,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/exterior_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="1922"  >}}
 
 
@@ -189,7 +188,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/screens_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2206"  >}}
 
 ## Infotainment
@@ -268,7 +266,6 @@ Med Assistantpackage plus  nivå 2-systemet får du fler körautomatiseringsfunk
 Lastkapaciteten i bagageutrymmet är 543 liter. Med baksätet nedfällt är det 1575 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2760 kg, och med basvikten på 2232 kg kan du lasta maximalt 528 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1200, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion/trunk_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION" width="3000" height="2000"  >}}
 

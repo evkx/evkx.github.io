@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 22 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/charging_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="1686"  >}}
 
 ### Charge port
@@ -98,7 +97,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/exterior_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="1999"  >}}
 
 
@@ -137,7 +135,6 @@ The following functionalities are available on the **Comfort seats** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/frontseats_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2249"  >}}
 
 #### Second-row seat
@@ -147,7 +144,6 @@ The following functionalities are available on the **Comfort seats** seat.
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/secondrowseats_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2249"  >}}
 
@@ -189,7 +185,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/screens_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2249"  >}}
 
 ## Infotainment
@@ -221,7 +216,6 @@ You can choose between two types of headlights for the BMW i5 eDrive40 Touring.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/headlights_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="1999"  >}}
 
@@ -269,7 +263,6 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 The cargo capacity in the trunk is 570 liters. With the rear seat down, it is 1700 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard on this model, making it easy to mount the roof box or rack to the car. The maxium weight of the car is 2790 kg (6151 lbs), and with the base weight of 2180 kg (4806 lbs), you can max load 610 kg (1345 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_edrive40_touring/trunk_1_st.jpg" title="BMW i5 eDrive40 Touring" width="3000" height="2250"  >}}
 <div class="mt-3 mb-3">

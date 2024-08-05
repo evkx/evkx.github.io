@@ -103,7 +103,6 @@ There are two different roof options to select from. The standard roof includes 
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers. As an option, double-glazed side windows are available to reduce cabin noise, enhancing the overall driving experience.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/exterior_1_st.jpg" title="Audi e-tron GT" width="3000" height="1999"  >}}
 
 
@@ -159,7 +158,6 @@ The following functionalities are available on the **sport pro** seat.
 
 You can choose from 4 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/frontseats_1_st.jpg" title="Audi e-tron GT" width="3000" height="2249"  >}}
 
 
@@ -199,7 +197,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/screens_1_st.jpg" title="Audi e-tron GT" width="3000" height="2002"  >}}
 
 ## Infotainment
@@ -229,7 +226,6 @@ You can choose between three types of headlights for the Audi e-tron GT.
 - **LED Matrix Headlights with Laser Technology:** Also available as an option, these headlights combine the adaptive features of the LED Matrix system with laser technology for enhanced brightness and range, offering superior illumination and safety.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/headlights_1_st.jpg" title="Audi e-tron GT" width="3000" height="1999"  >}}
 
@@ -282,7 +278,6 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 405 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 85 liters (3.0 CU FT). The maxium weight of the car is 2860 kg (6305 lbs), and with the base weight of 2340 kg (5159 lbs), you can max load 520 kg (1146 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/trunk_1_st.jpg" title="Audi e-tron GT" width="3000" height="2249"  >}}
 

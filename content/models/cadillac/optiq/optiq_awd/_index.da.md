@@ -80,7 +80,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er to forskellige tagmuligheder at vælge imellem. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen. Som ekstraudstyr kan du bestille denne model med panoramatag, der kan åbnes. Glasset har to paneler. Et over første og anden række, og beboerne kan åbne den forreste del. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/cadillac/optiq/exterior_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2250"  >}}
 
 
@@ -110,7 +109,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Gray [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/cadillac/optiq/frontseats_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="1684"  >}}
 
 #### Sæde på anden række
@@ -118,7 +116,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 {{< sitefiguresized thumb="models/cadillac/optiq/secondrowseats_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2001"  >}}
 
@@ -156,7 +153,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch bag rattet på tværs af midten af instrumentbrættet er 33,0 tommer stor
 
 Modellen har ikke et head-up display.
-
 
 {{< sitefiguresized thumb="models/cadillac/optiq/screens_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2001"  >}}
 
@@ -223,7 +219,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 793 liter. Med bagsædet nede er det 1723 liter. Bilens maksimale vægt er 2900 kg (6393 lbs), og med basisvægten på 2355 kg (5192 lbs), kan du maksimalt laste 545 kg (1202 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1588, og på ubremset er den 750 kg (3501/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/cadillac/optiq/trunk_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

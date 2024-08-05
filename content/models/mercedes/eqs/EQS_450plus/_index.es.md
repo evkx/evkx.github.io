@@ -92,7 +92,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir el frente Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Ambos paneles de cristal tienen una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/exterior_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 
 
@@ -140,7 +139,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="4085"  >}}
 
 #### Asientos de la segunda fila
@@ -158,7 +156,6 @@ La opción second es un banco de tres asientos con una división 40:20:40 donde 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 - [ajuste de los refuerzos laterales del respaldo](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 
@@ -287,7 +284,6 @@ Con el sistema DRIVE PILOT  nivel 3, obtienes funciones de automatización de co
 La capacidad de carga en el maletero es de 610 litros. Con el asiento trasero abatido, es de 1770 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 3060 kg (6746 lbs), y con el peso base de 2540 kg (5600 lbs), puedes cargar como máximo 520 kg (1146 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 750, y sin freno, es de 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/trunk_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 

@@ -92,7 +92,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad. Dette glasset gjør bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Begge glasspanelene har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/exterior_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 
 
@@ -140,7 +139,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="4085"  >}}
 
 #### Seter på andre rad
@@ -158,7 +156,6 @@ Alternativet second er en tre-seters benk med en 40:20:40-del hvor du kan folde 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 - [justering av ryggstøtte sidestøtter](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 
@@ -287,7 +284,6 @@ Med DRIVE PILOT  nivå 3-systemet får du flere kjøreautomatiseringsfunksjoner 
 Lastkapasiteten i bagasjerommet er 610 liter. Med baksetet nede er det 1770 liter. På taket kan du laste opptil 100 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 3060 kg, og med basisvekten på 2540 kg kan du maksimalt laste 520 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/trunk_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 

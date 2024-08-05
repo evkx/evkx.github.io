@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 7,4 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 5 timmar och 56 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/charging_1_st.jpg" title="Citroën ë-C3 Aircross" width="2893" height="2170"  >}}
 
 ### Laddningsport
@@ -93,7 +92,6 @@ Det finns bara ett tak för denna modell.
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/exterior_1_st.jpg" title="Citroën ë-C3 Aircross" width="2894" height="2170"  >}}
 
 
@@ -125,7 +123,6 @@ Följande funktioner är tillgängliga på **Advanced Comfort** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - Black/Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/frontseats_1_st.jpg" title="Citroën ë-C3 Aircross" width="3000" height="2000"  >}}
 
@@ -183,7 +180,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch översta mittkonsolen är 10,3 tum
 
 Modellen är inte tillgänglig med head-up display.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/screens_1_st.jpg" title="Citroën ë-C3 Aircross" width="3000" height="2000"  >}}
 
@@ -248,7 +244,6 @@ Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), comm
 ## Lastkapacitet och dragkapacitet
 
 Lastkapaciteten i bagageutrymmet är 460 liter. Med baksätet nedfällt är det 1600 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2030 kg, och med basvikten på 1429 kg kan du lasta maximalt 601 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/trunk_1_st.jpg" title="Citroën ë-C3 Aircross" width="2894" height="2170"  >}}
 

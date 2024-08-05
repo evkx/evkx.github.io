@@ -90,7 +90,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset har två paneler. En ovanför första och andra raden. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humöret och komforten för den åkande. Båda glaspanelerna har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/exterior_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="1999"  >}}
 
 
@@ -138,7 +137,6 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="1687"  >}}
 
 #### Säten på andra raden
@@ -150,7 +148,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="2250"  >}}
 
 #### Seter på tredje rad
@@ -158,7 +155,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 
 
 Den tredje raden har en valfri tvåsitsbänk med en 50:50-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/thirdrowseats_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="2001"  >}}
 
@@ -207,7 +203,6 @@ Viktiga skärmdetaljer:
 - Skärmen  framför passageraren i instrumentbrädan är 12,3 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/screens_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="1687"  >}}
 
@@ -291,7 +286,6 @@ Med DRIVE PILOT  nivå 3-systemet får du fler körautomationsfunktioner än de 
 Lastkapaciteten i bagageutrymmet är 645 liter. Med baksätet nedfällt är det 2100 liter. På taket kan du lasta upp till 100 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 3265 kg, och med basvikten på 2620 kg kan du lasta maximalt 645 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 750, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/trunk_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

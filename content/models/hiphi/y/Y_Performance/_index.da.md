@@ -84,7 +84,6 @@ Der er kun ét tag til denne model. Standardtaget har panoramaglas over første 
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/exterior_1_st.jpg" title="HiPhi Y Performance" width="3000" height="1687"  >}}
 
 
@@ -167,7 +166,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/screens_1_st.jpg" title="HiPhi Y Performance" width="1000" height="536"  >}}
 
 
@@ -194,7 +192,6 @@ Modellen har 4 USB-C-forbindelser som standard.
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/headlights_1_st.jpg" title="HiPhi Y Performance" width="3000" height="1882"  >}}
 

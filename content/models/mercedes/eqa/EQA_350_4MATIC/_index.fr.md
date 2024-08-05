@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 6 heures et 2 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/charging_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2000"  >}}
 
 ### Port de recharge
@@ -87,7 +86,6 @@ Des roues plus étroites amélioreront la consommation et donneront une plus gra
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir l'avant
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="1999"  >}}
 
@@ -137,7 +135,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée
@@ -180,7 +177,6 @@ Détails clés de l'écran :
 - L'écran touch à droite du cadre partagé mesure 10,3 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/screens_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2249"  >}}
 

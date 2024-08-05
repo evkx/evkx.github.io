@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 4 timmar och 37 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/charging_1_st.jpg" title="DS 3 E-Tense" width="3000" height="1970"  >}}
 
 ### Laddningsport
@@ -86,7 +85,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchbac
 Det finns bara ett tak för denna modell.
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
-
 
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/exterior_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
@@ -157,7 +155,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/screens_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -182,7 +179,6 @@ En typ av ljudsystem är tillgänglig för DS 3 E-Tense.
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/headlights_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
@@ -212,7 +208,6 @@ Med DS Drive Assist  nivå 1-systemet får du följande körautomationsfunktione
 Lastkapaciteten i bagageutrymmet är 350 liter. Med baksätet nedfällt är det 1050 liter. Bilens maximala vikt är 2008 kg, och med basvikten på 1550 kg kan du lasta maximalt 458 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
 
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/trunk_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

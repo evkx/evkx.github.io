@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11,5 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 12 horas y 26 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/charging_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="2048" height="1280"  >}}
 
 ### Puerto de carga
@@ -84,7 +83,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [por
 Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
 
 Las ventanas del pilar B y la parte trasera están tintadas.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/exterior_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="2100" height="1400"  >}}
 
@@ -163,7 +161,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/screens_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="1600" height="1067"  >}}
 
 
@@ -189,7 +186,6 @@ El modelo tiene 8 conexiones USB-C de serie.
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/headlights_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="2880" height="1920"  >}}
 
@@ -232,7 +228,6 @@ Con el sistema Driver+  nivel 2, obtienes las siguientes funciones de automatiza
 La capacidad de carga en la plataforma del camión es 1925 litros. El ancho de la plataforma es 1275 mm y el largo es 1371 mm. El peso máximo de carga en la plataforma es 800 kg. En el techo, puedes cargar hasta 113 kg (249,1 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 314 litros (11,1 CU FT). El peso máximo del automóvil es 3870 kg (8532 lbs), y con el peso base de 2858 kg (6301 lbs), puedes cargar como máximo 1012 kg (2231 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 5000, y sin freno, es de 750 kg (11023/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD MP" width="2880" height="1920"  >}}
 

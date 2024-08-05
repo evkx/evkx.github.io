@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The standard onboard charger supports up to 6.6 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 9 hours and 41 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 11 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 5 hours and 49 minutes at home.
 
-
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/charging_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
 ### Charge port
@@ -87,7 +86,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/exterior_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
 
@@ -114,7 +112,6 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/frontseats_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
 #### Second-row seat
@@ -124,7 +121,6 @@ You can choose from 1 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/secondrowseats_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
@@ -173,7 +169,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/screens_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
 ## Infotainment
@@ -204,7 +199,6 @@ You can choose between two types of headlights for the Lexus RZ 450e.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/headlights_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
@@ -242,7 +236,6 @@ With the standard system the model offers no driving automation.
 The cargo capacity in the trunk is 522 liters. With the third-row seat down, it is 1451 liters. On the roof, you can load up to 80 kg (176.4 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2530 kg (5578 lbs), and with the base weight of 1980 kg (4365 lbs), you can max load 550 kg (1213 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/trunk_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

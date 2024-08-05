@@ -93,7 +93,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Hay tres opciones de techo diferentes para elegir. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande Es espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El cristal tiene una función electrocrómica que permite difuminar el cristal para protegerlo del sol.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt_weissach/exterior_1_st.jpg" title="Porsche Taycan Turbo GT Weissach" width="3000" height="1687"  >}}
 
 
@@ -133,7 +132,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Pl
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt_weissach/frontseats_1_st.jpg" title="Porsche Taycan Turbo GT Weissach" width="3000" height="1687"  >}}
 
 
@@ -172,7 +170,6 @@ Detalles clave de la pantalla:
 - La touch pantalla frente al pasajero en el tablero mide 10,9 pulgadas de tamaño
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt_weissach/screens_1_st.jpg" title="Porsche Taycan Turbo GT Weissach" width="3000" height="1687"  >}}
 

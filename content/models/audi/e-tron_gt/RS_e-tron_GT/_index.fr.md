@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 49 minutes à domicile. our une charge plus rapide, vous pouvez opter pour un chargeur embarqué optionnel prenant en charge jusqu'à 22 kW. Avec cette mise à niveau, vous pouvez atteindre une charge complète de 0 à 100% en seulement environ 4 heures et 24 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/charging_2_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 ### Port de recharge
@@ -104,7 +103,6 @@ Il existe trois options de toit différentes à choisir. Le toit standard compre
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/exterior_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 
@@ -160,7 +158,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **sport pro**.
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/frontseats_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 
@@ -200,7 +197,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/screens_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 ## Infodivertissement
@@ -230,7 +226,6 @@ Vous pouvez choisir entre trois types de phares pour le Audi RS e-tron GT.
 - Des phares basés sur la technologie LED Matrix avec technologie Laser sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer. et éteindre individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/headlights_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="1999"  >}}
 

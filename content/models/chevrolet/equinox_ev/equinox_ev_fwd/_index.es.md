@@ -83,7 +83,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este cristal hace que el coche sea más cómodo. El interior se siente más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/exterior_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2099"  >}}
 
 
@@ -112,7 +111,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Gray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/frontseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="1999"  >}}
 
 #### Asiento de segunda fila
@@ -123,7 +121,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 60:4
 
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/secondrowseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
 
@@ -163,7 +160,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/screens_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2000"  >}}
 
 
@@ -194,7 +190,6 @@ El modelo tiene 5 conexiones USB-C de serie.
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/headlights_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2000"  >}}
 
@@ -236,7 +231,6 @@ Con el sistema Super Cruise  nivel 2, obtienes funciones de automatización de c
 La capacidad de carga en el maletero es de 748 litros. Con el asiento trasero abatido, es de 1614 litros.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 680, y sin freno, es de 680 kg (1499/1499 lbs).
-
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/trunk_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

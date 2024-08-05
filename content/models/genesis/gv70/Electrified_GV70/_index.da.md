@@ -88,7 +88,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/genesis/gv70/electrified_gv70/exterior_1_st.jpg" title="Genesis Electrified GV70" width="3000" height="1800"  >}}
 
 
@@ -166,7 +165,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i bunden af midterkonsollen er 5,0 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/genesis/gv70/electrified_gv70/screens_1_st.jpg" title="Genesis Electrified GV70" width="3000" height="1535"  >}}
 

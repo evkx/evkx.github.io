@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 11 timer og 8 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/charging_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2250"  >}}
 
 ### Ladeport
@@ -90,7 +89,6 @@ Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panora
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/exterior_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2001"  >}}
 
 
@@ -117,7 +115,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/frontseats_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
 
@@ -165,7 +162,6 @@ Viktige skjermdetaljer:
 
 Modellen er ikke tilgjengelig med head-up display.
 
-
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/screens_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -186,7 +182,6 @@ I tillegg får du med standard navigasjonssystemet i bilen den hjelpen du trenge
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/headlights_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
 
@@ -242,7 +237,6 @@ Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatis
 Lastkapasiteten i lastebilen er 1897,23 liter. Bredden på lasteplanet er 1295 mm, og lengden er 1849 mm. Maksimal lastevekt i lasteplanet er 1134 kg. På taket kan du laste opptil 100 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 201 liter. Maksimumsvekten til bilen er 4159 kg, og med basisvekten på 3104 kg kan du maksimalt laste 1055 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 4990, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/tesla/cybertruck/cybertruck_cyberbeast/trunk_1_st.jpg" title="Tesla Cybertruck Cyberbeast" width="3000" height="2000"  >}}
 

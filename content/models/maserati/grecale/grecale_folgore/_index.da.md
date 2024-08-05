@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 22 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 4 timer og 21 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/charging_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
 ### Ladeport
@@ -99,7 +98,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/exterior_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2254"  >}}
 
 
@@ -136,7 +134,6 @@ Den anden række har en standard tre-sæders bænk med en  del, hvor du kan fold
 
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/secondrowseats_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
@@ -178,7 +175,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/screens_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -206,7 +202,6 @@ Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderl
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/headlights_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2332"  >}}
 

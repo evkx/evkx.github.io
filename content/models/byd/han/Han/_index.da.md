@@ -48,7 +48,6 @@ Den standard ombordlader understøtter op til 7 kW til Level 1 og Level 2 AC-opl
 
 Placeringen af ladeporten er på [højre bagside](../../../../technology/charging/connectors/#rear-side). Denne placering gør det nemt at bruge ladestationer, hvor du skal bakke til ladestander. Stiktyperne varierer mellem de forskellige markeder. Denne model bruger [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nordamerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se de fulde specifikationer for alle markeder.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/battery_1_st.jpg" title="BYD Han" width="1084" height="470"  >}}
 
 
@@ -90,7 +89,6 @@ Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset stræ
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/exterior_1_st.jpg" title="BYD Han" width="1680" height="945"  >}}
 
 
@@ -122,7 +120,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/frontseats_1_st.jpg" title="BYD Han" width="1920" height="1156"  >}}
 
 #### Sæde på anden række
@@ -132,7 +129,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-
 
 {{< sitefiguresized thumb="models/byd/han/han/secondrowseats_1_st.jpg" title="BYD Han" width="1600" height="960"  >}}
 
@@ -173,7 +169,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/screens_1_st.jpg" title="BYD Han" width="1920" height="1059"  >}}
 
 ## Infotainment
@@ -201,7 +196,6 @@ Modellen har 1 USB-C-forbindelser som standard. Modellen har 5 USB-A-forbindelse
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/byd/han/han/headlights_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}
 
@@ -252,7 +246,6 @@ Med Smart Pilot  niveau 2-systemet får du yderligere køreautomatiseringsfunkti
 Lagekapaciteten i bagagerummet er 410 liter. Bilens maksimale vægt er 2660 kg (5864 lbs), og med basisvægten på 2250 kg (4960 lbs), kan du maksimalt laste 410 kg (904 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/byd/han/han/trunk_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}
 <div class="mt-3 mb-3">

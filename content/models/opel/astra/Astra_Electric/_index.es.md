@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 4 horas y 37 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/charging_1_st.jpg" title="Opel Astra Electric" width="3000" height="2153"  >}}
 
 ### Puerto de carga
@@ -84,7 +83,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/exterior_1_st.jpg" title="Opel Astra Electric" width="3000" height="2000"  >}}
 
 
@@ -115,7 +113,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Gray [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 - Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/frontseats_1_st.jpg" title="Opel Astra Electric" width="3000" height="1687"  >}}
 
@@ -161,7 +158,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/screens_1_st.jpg" title="Opel Astra Electric" width="3000" height="1687"  >}}
 
 ## Infoentretenimiento
@@ -188,7 +184,6 @@ El modelo tiene 3 conexiones USB-C de serie.
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/headlights_1_st.jpg" title="Opel Astra Electric" width="3000" height="1957"  >}}
 
@@ -224,7 +219,6 @@ Con el sistema DS Drive Assist  nivel 1, obtienes las siguientes funciones de au
 La capacidad de carga en el maletero es de 352 litros. Con el asiento trasero abatido, es de 1268 litros. En el techo, puedes cargar hasta 70 kg (154,3 lbs). Los rieles de techo son estándar en este modelo, lo que facilita el montaje del cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2100 kg (4630 lbs), y con el peso base de 1736 kg (3827 lbs), puedes cargar como máximo 364 kg (802 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
-
 
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/trunk_1_st.jpg" title="Opel Astra Electric" width="3000" height="2000"  >}}
 

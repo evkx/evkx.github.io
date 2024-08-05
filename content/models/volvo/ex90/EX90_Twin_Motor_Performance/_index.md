@@ -84,7 +84,6 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/exterior_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2212"  >}}
 
 
@@ -118,7 +117,6 @@ You can choose from 4 different materials/colors for this seat type.
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [wool upholstering](../../../../technology/seats/materials/#wool)
 
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/frontseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
 #### Second-row seat
@@ -128,7 +126,6 @@ You can choose from 4 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
@@ -174,7 +171,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/screens_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -197,7 +193,6 @@ You can choose between two types of headlights for the Volvo EX90 Twin Motor Per
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/headlights_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 

@@ -91,7 +91,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/exterior_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2455"  >}}
 
 
@@ -118,7 +117,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/frontseats_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée
@@ -127,7 +125,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/secondrowseats_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2000"  >}}
 
 #### Sièges de troisième rangée
@@ -135,7 +132,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 
 La troisième rangée dispose d'une banquette à deux places en option avec une répartition 50:50. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
-
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/thirdrowseats_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2000"  >}}
 
@@ -175,7 +171,6 @@ Détails clés de l'écran :
 - L'écran touch au centre du tableau de bord mesure 15,0 pouces
 
 Le modèle n'a pas d'affichage tête haute.
-
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/screens_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="1800"  >}}
 

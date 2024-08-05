@@ -84,7 +84,6 @@ There is only one roof for this model.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/peugot/208/e-208/exterior_1_st.jpg" title="Peugot E-208" width="3000" height="1666"  >}}
 
 
@@ -114,7 +113,6 @@ You can choose from 4 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/peugot/208/e-208/frontseats_1_st.jpg" title="Peugot E-208" width="3000" height="2250"  >}}
 
@@ -157,7 +155,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/peugot/208/e-208/screens_1_st.jpg" title="Peugot E-208" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -182,7 +179,6 @@ One type of sound system is available for the Peugot E-208.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/peugot/208/e-208/headlights_1_st.jpg" title="Peugot E-208" width="3000" height="2000"  >}}
 

@@ -107,7 +107,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna. Som ett alternativ finns dubbelglasade sidofönster tillgängliga för att minska kabinbuller och förbättra den totala körupplevelsen.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_55_e-tron/exterior_1_st.jpg" title="Audi Q8 55 e-tron" width="3000" height="2249"  >}}
 
 
@@ -194,7 +193,6 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_55_e-tron/frontseats_1_st.jpg" title="Audi Q8 55 e-tron" width="3000" height="2249"  >}}
 
 #### Säten på andra raden
@@ -204,7 +202,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_55_e-tron/secondrowseats_1_st.jpg" title="Audi Q8 55 e-tron" width="3000" height="2250"  >}}
 
@@ -248,7 +245,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_55_e-tron/screens_1_st.jpg" title="Audi Q8 55 e-tron" width="3000" height="2249"  >}}
 
 ## Infotainment
@@ -280,7 +276,6 @@ Du kan välja mellan tre typer av strålkastare för Audi Q8 55 e-tron.
 - Strålkastare baserade på LED Digital Matrix-teknik finns som tillval.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_55_e-tron/headlights_1_st.jpg" title="Audi Q8 55 e-tron" width="2557" height="1353"  >}}
 
@@ -338,7 +333,6 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 Lastkapaciteten i bagageutrymmet är 660 liter. Med baksätet nedfällt är det 1725 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 3170 kg, och med basvikten på 2520 kg kan du lasta maximalt 650 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1800, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_55_e-tron/trunk_1_st.jpg" title="Audi Q8 55 e-tron" width="3000" height="2249"  >}}
 

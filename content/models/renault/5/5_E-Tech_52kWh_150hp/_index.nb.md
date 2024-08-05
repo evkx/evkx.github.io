@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 7,2 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 13 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/charging_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1688"  >}}
 
 ### Ladeport
@@ -86,7 +85,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
-
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/exterior_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
 
 
@@ -111,7 +109,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
-
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/frontseats_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
 
@@ -188,7 +185,6 @@ Du kan velge mellom to typer frontlykter for Renault 5 E-Tech 52kWh 150hp.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/renault/5/5_e-tech_52kwh_150hp/headlights_1_st.jpg" title="Renault 5 E-Tech 52kWh 150hp" width="3000" height="1687"  >}}
 

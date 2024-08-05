@@ -110,7 +110,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene. Som et alternativ er dobbeltglass sidevinduer tilgjengelig for å redusere kabinstøy, noe som forbedrer den totale kjøreopplevelsen.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/exterior_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
 
@@ -171,7 +170,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/frontseats_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
 #### Seter på andre rad
@@ -181,7 +179,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - høydejusterbar hodestøtte
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/secondrowseats_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
@@ -255,7 +252,6 @@ Du kan velge mellom tre typer frontlykter for Audi e-tron S.
 
 I tillegg bruker standard baklykter LED-teknologi.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/headlights_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
 ## Avanserte førerassistentsystemer
@@ -312,7 +308,6 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/) , fe
 Lastkapasiteten i bagasjerommet er 555 liter. Med baksetet nede er det 1594 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 3280 kg, og med basisvekten på 2655 kg kan du maksimalt laste 625 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1800, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/trunk_1_st.jpg" title="Audi e-tron S" width="3000" height="2250"  >}}
 

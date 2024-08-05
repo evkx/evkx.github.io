@@ -88,7 +88,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/exterior_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="2323"  >}}
 
 
@@ -116,7 +115,6 @@ The following functionalities are available on the **Sport** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 2 different materials/colors for this seat type.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/frontseats_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="2001"  >}}
 
@@ -162,7 +160,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/screens_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -189,7 +186,6 @@ The model has 4 USB-C connections as standard.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/headlights_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="2001"  >}}
 
@@ -237,7 +233,6 @@ With the MAX  level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 585 liters. With the rear seat down, it is 1710 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2750 kg (6063 lbs), and with the base weight of 2176 kg (4797 lbs), you can max load 574 kg (1265 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/trunk_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="2001"  >}}
 

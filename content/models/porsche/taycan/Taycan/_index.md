@@ -118,7 +118,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are three different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/exterior_1_st.jpg" title="Porsche Taycan" width="3000" height="1687"  >}}
 
 
@@ -174,7 +173,6 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 
 You can choose from 4 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/frontseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1686"  >}}
 
 #### Second-row seats
@@ -188,7 +186,6 @@ The standard option is two integrated seats in the second row. In addition, the 
 The second option is two integrated seats in the second row with a third smaller seat in between. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/secondrowseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
 
@@ -229,7 +226,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/screens_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
 
 ## Infotainment
@@ -259,7 +255,6 @@ You can choose between two types of headlights for the Porsche Taycan.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/headlights_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
 
@@ -312,7 +307,6 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 The cargo capacity in the trunk is 407 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2795 kg (6162 lbs), and with the base weight of 2075 kg (4575 lbs), you can max load 720 kg (1587 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/trunk_1_st.jpg" title="Porsche Taycan" width="3000" height="2250"  >}}
 

@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 4 timmar och 37 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/charging_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2249"  >}}
 
 ### Laddningsport
@@ -81,7 +80,6 @@ Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på
 
 Det finns bara ett tak för denna modell. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra ditt humör och den åkandes komfort. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/exterior_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2001"  >}}
 
 
@@ -107,7 +105,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/frontseats_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
@@ -115,7 +112,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/secondrowseats_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2001"  >}}
 
@@ -153,7 +149,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/screens_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2001"  >}}
 
 
@@ -184,7 +179,6 @@ Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/headlights_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2000"  >}}
 
 ## Avancerade förarassistanssystem
@@ -214,7 +208,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Bilens maximala vikt är 2133 kg, och med basvikten på 1715 kg kan du lasta maximalt 418 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 500, och på en obromsad är den 500 kg.
-
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_standard/trunk_1_st.jpg" title="MG MG4 Electric Standard" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

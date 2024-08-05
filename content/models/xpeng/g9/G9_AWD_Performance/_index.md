@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 30 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/charging_1_st.jpg" title="XPENG G9 AWD Performance" width="1600" height="1040"  >}}
 
 ### Charge port
@@ -83,7 +82,6 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/exterior_1_st.jpg" title="XPENG G9 AWD Performance" width="3000" height="2002"  >}}
 
 
@@ -118,7 +116,6 @@ You can choose from 2 different materials/colors for this seat type.
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Beige [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/frontseats_1_st.jpeg" title="XPENG G9 AWD Performance" width="3000" height="2250"  >}}
 
 #### Second-row seat
@@ -129,7 +126,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/secondrowseats_1_st.jpeg" title="XPENG G9 AWD Performance" width="3000" height="1687"  >}}
 
@@ -170,7 +166,6 @@ Key screen details:
 - The touch screen in front of the passenger on the dashboard is 15.0 inches large
 
 The model does not have a head-up display.
-
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/screens_1_st.jpg" title="XPENG G9 AWD Performance" width="3000" height="2002"  >}}
 
@@ -238,7 +233,6 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1576 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 71 liters (2.5 CU FT). The maxium weight of the car is 2800 kg (6173 lbs), and with the base weight of 2360 kg (5203 lbs), you can max load 440 kg (970 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 440kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1500, and on unbraked, it is 750 kg (3307/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/trunk_1_st.jpg" title="XPENG G9 AWD Performance" width="3000" height="2002"  >}}
 <div class="mt-3 mb-3">

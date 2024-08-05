@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 6 heures et 24 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/charging_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
 ### Port de recharge
@@ -87,7 +86,6 @@ Des roues plus étroites amélioreront la consommation et donneront une plus gra
 La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [hayon](../../../../technologie/portes/#liftgate).
 
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir l'avant
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/exterior_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="2000"  >}}
 
@@ -137,7 +135,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/frontseats_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
 #### Siège de deuxième rangée
@@ -147,7 +144,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/secondrowseats_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
@@ -185,7 +181,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/screens_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
 
@@ -218,7 +213,6 @@ Le modèle dispose de 4 connexions USB-C en standard. En option, vous pouvez obt
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/headlights_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
@@ -264,7 +258,6 @@ Avec le système Driver Assistance Package  niveau 1, vous bénéficiez des fonc
 La capacité de chargement dans le coffre est de 340 litres. Avec la banquette arrière rabattue, elle est de 1320 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2535 kg (5589 lbs), et avec le poids de base de 2030 kg (4475 lbs), vous pouvez charger au maximum 505 kg (1113 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1800, et sur une remorque non freinée, il est de 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/trunk_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 <div class="mt-3 mb-3">

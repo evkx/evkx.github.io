@@ -84,7 +84,6 @@ Der er kun ét tag til denne model.
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/exterior_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2000"  >}}
 
 
@@ -115,7 +114,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 - Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/frontseats_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2250"  >}}
 
 #### Sæde på anden række
@@ -123,7 +121,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/secondrowseats_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2000"  >}}
 
@@ -183,7 +180,6 @@ Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, 
 
 Derudover bruger standardbaglygterne LED-teknologi.
 
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/headlights_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2177"  >}}
 
 ## Avancerede førerassistentsystemer
@@ -216,7 +212,6 @@ Med DS Drive Assist  niveau 1-systemet får du følgende køreautomatiseringsfun
 Lagekapaciteten i bagagerummet er 400 liter. Med bagsædet nede er det 1467 liter. Bilens maksimale vægt er 2030 kg (4475 lbs), og med basisvægten på 1573 kg (3468 lbs), kan du maksimalt laste 457 kg (1008 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/trunk_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

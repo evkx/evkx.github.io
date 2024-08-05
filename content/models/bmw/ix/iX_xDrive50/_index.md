@@ -85,7 +85,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/exterior_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1999"  >}}
 
 
@@ -115,7 +114,6 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 7 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/frontseat_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1999"  >}}
 
 #### Second-row seat
@@ -125,7 +123,6 @@ You can choose from 7 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/secondrowseats_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1999"  >}}
 
@@ -163,7 +160,6 @@ Key screen details:
 - The touch screen at the right part of the shared frame is 14.9 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/screens_1_st.jpg" title="BMW iX xDrive50" width="3000" height="2250"  >}}
 
@@ -240,7 +236,6 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 The cargo capacity in the trunk is 500 liters. With the rear seat down, it is 1750 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 3135 kg (6911 lbs), and with the base weight of 2510 kg (5534 lbs), you can max load 625 kg (1378 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2500, and on unbraked, it is 750 kg (5512/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/trunk_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1998"  >}}
 <div class="mt-3 mb-3">

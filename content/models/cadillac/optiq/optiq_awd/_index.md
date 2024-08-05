@@ -80,7 +80,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are two different roof options to select from. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun. As an option, you can order this model with a panoramic roof that can be opened. The glass has two panels. One over the first and the second rows, and occupants can open the front part. It has an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/cadillac/optiq/exterior_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2250"  >}}
 
 
@@ -110,7 +109,6 @@ You can choose from 2 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/cadillac/optiq/frontseats_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="1684"  >}}
 
 #### Second-row seat
@@ -118,7 +116,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/cadillac/optiq/secondrowseats_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2001"  >}}
 
@@ -156,7 +153,6 @@ Key screen details:
 - The touch screen behind the steering wheel accross the the center of the dash is 33.0 inches large
 
 The model does not have a head-up display.
-
 
 {{< sitefiguresized thumb="models/cadillac/optiq/screens_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2001"  >}}
 
@@ -223,7 +219,6 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 793 liters. With the rear seat down, it is 1723 liters. The maxium weight of the car is 2900 kg (6393 lbs), and with the base weight of 2355 kg (5192 lbs), you can max load 545 kg (1202 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1588, and on unbraked, it is 750 kg (3501/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/cadillac/optiq/trunk_1_st.jpg" title="Cadillac OPTIQ AWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

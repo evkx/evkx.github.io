@@ -86,7 +86,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør at bilens interiør føles romsligere og lysere , som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusive/exterior_1_st.jpg" title="Hongqi E-HS9 Exclusive" width="3000" height="1757"  >}}
 
 
@@ -169,7 +168,6 @@ Viktige skjermdetaljer:
 
 Modellen er ikke tilgjengelig med head-up display.
 
-
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusive/screens_1_st.jpg" title="Hongqi E-HS9 Exclusive" width="3000" height="1800"  >}}
 
 
@@ -195,7 +193,6 @@ Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 3 USB-A-tilkoblinge
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusive/headlights_1_st.jpg" title="Hongqi E-HS9 Exclusive" width="851" height="686"  >}}
 

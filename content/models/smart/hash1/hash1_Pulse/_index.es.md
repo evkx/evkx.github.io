@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 22 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 2 horas y 49 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/charging_1_st.jpg" title="Smart #1 Pulse" width="3000" height="1687"  >}}
 
 ### Puerto de carga
@@ -83,7 +82,6 @@ Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el 
 El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza estilo hatchback](../../../../technology/doors/#hatcback-style-liftgate).
 
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande amplio y luminoso, lo que puede mejorar el estado de ánimo y comodidad del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/exterior_1_st.jpg" title="Smart #1 Pulse" width="3000" height="2246"  >}}
 
@@ -154,7 +152,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en la parte superior de la consola central mide 12,8 pulgadas de tamaño
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_pulse/screens_1_st.jpg" title="Smart #1 Pulse" width="3000" height="1687"  >}}
 

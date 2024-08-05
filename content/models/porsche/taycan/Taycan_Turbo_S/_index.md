@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 49 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 22 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 4 hours and 24 minutes at home.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/charging_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2242"  >}}
 
 ### Charge port
@@ -105,7 +104,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are three different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/exterior_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2000"  >}}
 
 
@@ -150,7 +148,6 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 
 You can choose from 4 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/frontseats_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2250"  >}}
 
 #### Second-row seats
@@ -164,7 +161,6 @@ The standard option is two integrated seats in the second row. In addition, the 
 The second option is two integrated seats in the second row with a third smaller seat in between. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="1688"  >}}
 
@@ -205,7 +201,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/screens_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -232,7 +227,6 @@ You can choose between three sound systems on the Porsche Taycan Turbo S.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/headlights_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2298"  >}}
 
@@ -285,7 +279,6 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 The cargo capacity in the trunk is 366 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2880 kg (6349 lbs), and with the base weight of 2230 kg (4916 lbs), you can max load 650 kg (1433 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/trunk_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2250"  >}}
 <div class="mt-3 mb-3">

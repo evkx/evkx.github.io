@@ -90,7 +90,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/tesla/model_s/model_s/exterior_1_st.jpg" title="Tesla Model S" width="3000" height="2250"  >}}
 
 
@@ -125,7 +124,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s/secondrowseats_1_st.jpg" title="Tesla Model S" width="3000" height="2000"  >}}
 
@@ -165,7 +163,6 @@ Détails clés de l'écran :
 - L'écran touch dans la console centrale arrière mesure 8,0 pouces
 
 Le modèle n'a pas d'affichage tête haute.
-
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s/screens_1_st.jpg" title="Tesla Model S" width="3000" height="2000"  >}}
 
@@ -240,7 +237,6 @@ Avec le système Full Self-Driving Capability  niveau 3, vous bénéficiez de fo
 La capacité de chargement dans le coffre est de 709 litres. Avec la banquette arrière rabattue, elle est de 1828 litres. Sur le toit, vous pouvez charger jusqu'à 70 kg (154,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 89 litres (3,1 CU FT). Le poids maximum de la voiture est de 2629 kg (5796 lbs), et avec le poids de base de 2265 kg (4993 lbs), vous pouvez charger au maximum 364 kg (802 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Une barre d'attelage est un équipement standard sur ce modèle. Le poids total maximum sur une remorque freinée est de 1600, et sur une remorque non freinée, il est de 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s/trunk_1_st.jpg" title="Tesla Model S" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

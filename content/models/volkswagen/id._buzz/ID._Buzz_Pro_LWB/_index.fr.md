@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 7 heures et 49 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/charging_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
 ### Port de recharge
@@ -90,7 +89,6 @@ La voiture a deux [portes ordinaires](../../../../technology/doors/) dans la pre
 Il n'y a qu'un seul toit pour ce modèle. Le standard est juste un toit ordinaire.
 
 Les vitres du montant B et de l'arrière sont teintées.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/exterior_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
@@ -139,7 +137,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 - Orange [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Blue [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/frontseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2197"  >}}
 
 #### Sièges de deuxième rangée
@@ -153,7 +150,6 @@ L'option second est deux sièges capitaine. De plus, les fonctionnalités suivan
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
 #### Sièges de troisième rangée
@@ -161,7 +157,6 @@ L'option second est deux sièges capitaine. De plus, les fonctionnalités suivan
 
 
 La troisième rangée est dotée d'une banquette à deux places divisée en 50:50. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/thirdrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
@@ -202,7 +197,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/screens_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="1999"  >}}
 
 ## Infodivertissement
@@ -232,7 +226,6 @@ Vous pouvez choisir entre deux types de phares pour le Volkswagen ID. Buzz Pro L
 - Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/headlights_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
@@ -283,7 +276,6 @@ Avec le système Assistantpackage plus  niveau 2, vous bénéficiez de fonctionn
 La capacité de chargement dans le coffre est de 306 litres. Avec la banquette arrière rabattue, elle est de 2469 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Le poids maximum de la voiture est de 3000 kg (6614 lbs), et avec le poids de base de 2416 kg (5326 lbs), vous pouvez charger au maximum 584 kg (1287 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1000, et sur une remorque non freinée, il est de 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/trunk_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

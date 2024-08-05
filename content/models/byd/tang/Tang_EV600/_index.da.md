@@ -87,7 +87,6 @@ Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset stræ
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/exterior_1_st.jpg" title="BYD Tang EV600" width="1680" height="920"  >}}
 
 
@@ -127,7 +126,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/secondrowseats_1_st.jpg" title="BYD Tang EV600" width="1921" height="1080"  >}}
 
@@ -172,7 +170,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i dashboardets midte er 12,8 tommer stor
 
 Modellen har ikke et head-up display.
-
 
 {{< sitefiguresized thumb="models/byd/tang/tang_ev600/screens_1_st.jpg" title="BYD Tang EV600" width="1920" height="1079"  >}}
 

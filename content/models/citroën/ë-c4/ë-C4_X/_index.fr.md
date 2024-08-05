@@ -84,7 +84,6 @@ Il n'y a qu'un seul toit pour ce modèle.
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/exterior_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="2000"  >}}
 
 
@@ -176,7 +175,6 @@ Un type de système audio est disponible pour le Citroën ë-C4 X.
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/headlights_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="1999"  >}}
 

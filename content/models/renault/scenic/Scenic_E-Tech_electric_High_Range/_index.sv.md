@@ -88,7 +88,6 @@ Det finns bara ett tak för denna modell. Standardtaket har en stor panoramavy s
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric_high_range/exterior_1_st.jpg" title="Renault Scenic E-Tech electric High Range" width="3000" height="1687"  >}}
 
 
@@ -118,7 +117,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric_high_range/frontseats_1_st.jpg" title="Renault Scenic E-Tech electric High Range" width="3000" height="2001"  >}}
 
 #### Säten på andra raden
@@ -128,7 +126,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric_high_range/secondrowseats_1_st.jpg" title="Renault Scenic E-Tech electric High Range" width="3000" height="2001"  >}}
 
@@ -169,7 +166,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric_high_range/screens_1_st.jpg" title="Renault Scenic E-Tech electric High Range" width="3000" height="2001"  >}}
 
 
@@ -203,7 +199,6 @@ Du kan välja mellan två typer av strålkastare för Renault Scenic E-Tech elec
 - Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric_high_range/headlights_1_st.jpg" title="Renault Scenic E-Tech electric High Range" width="3000" height="1687"  >}}
 
@@ -247,7 +242,6 @@ Med ProPILOT  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten i bagageutrymmet är 545 liter. Med baksätet nedfällt är det 1490 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2400 kg, och med basvikten på 1842 kg kan du lasta maximalt 558 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 750, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric_high_range/trunk_1_st.jpg" title="Renault Scenic E-Tech electric High Range" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

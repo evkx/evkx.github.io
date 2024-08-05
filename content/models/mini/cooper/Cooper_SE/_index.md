@@ -82,7 +82,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/exterior_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 
@@ -108,7 +107,6 @@ The following functionalities are available on the **** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
-
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/frontseats_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
@@ -152,7 +150,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/screens_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -169,7 +166,6 @@ One type of sound system is available for the Mini Cooper SE.
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/headlights_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 

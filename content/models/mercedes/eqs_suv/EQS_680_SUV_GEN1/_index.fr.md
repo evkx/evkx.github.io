@@ -96,7 +96,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir l'avant
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/exterior_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 
 
@@ -130,7 +129,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/frontseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="2001"  >}}
 
 #### Siège de deuxième rangée
@@ -148,7 +146,6 @@ Pour la deuxième rangée, ce modèle est doté de deux [sièges exécutifs](../
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 - [repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest)
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/secondrowseats_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 
@@ -191,7 +188,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/screens_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 
 
@@ -224,7 +220,6 @@ Le modèle dispose de 4 connexions USB-C en standard. En option, vous pouvez obt
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_680_suv/headlights_1_st.jpg" title="Mercedes-Maybach EQS 680 SUV" width="3000" height="1999"  >}}
 

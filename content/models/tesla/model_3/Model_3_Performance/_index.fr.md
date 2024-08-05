@@ -90,7 +90,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/exterior_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2658"  >}}
 
 
@@ -121,7 +120,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - White [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/frontseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2250"  >}}
 
@@ -168,7 +166,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/screens_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 
 ## Infodivertissement
@@ -191,7 +188,6 @@ Le modèle dispose de 4 connexions USB-C en standard.
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/headlights_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 

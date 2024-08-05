@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 7 timmar och 10 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/charging_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
 
 ### Laddningsport
@@ -92,7 +91,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/exterior_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
 
 
@@ -125,7 +123,6 @@ Följande funktioner är tillgängliga på **Ergo** sätet.
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd)
 - [justerbart lårstöd](../../../../technology/seats/adjustment/#lårstödsjustering)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/frontseats_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
 
@@ -171,7 +168,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch i mitten av instrumentbrädan är 14,6 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/screens_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
 
@@ -251,7 +247,6 @@ Med Assistantpackage  nivå 2-systemet får du fler körautomatiseringsfunktione
 Lastkapaciteten i bagageutrymmet är 627 liter. Med baksätet nedfällt är det 1510 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2745 kg, och med basvikten på 2174 kg kan du lasta maximalt 571 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1200, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/trunk_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
 

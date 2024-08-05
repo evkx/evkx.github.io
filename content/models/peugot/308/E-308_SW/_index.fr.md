@@ -81,7 +81,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/peugot/308/e-308_sw/exterior_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
 
 
@@ -113,7 +112,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 - Gray [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 - Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/peugot/308/e-308_sw/frontseats_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée
@@ -123,7 +121,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
-
 
 {{< sitefiguresized thumb="models/peugot/308/e-308_sw/secondrowseats_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
 
@@ -185,7 +182,6 @@ Le modèle dispose de 3 connexions USB-C en standard.
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/peugot/308/e-308_sw/headlights_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2001"  >}}
 

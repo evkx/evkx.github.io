@@ -109,7 +109,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset for at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/exterior_1_st.jpg" title="Porsche Taycan 4S" width="3000" height="1713"  >}}
 
 
@@ -165,7 +164,6 @@ Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/frontseats_1_st.jpg" title="Porsche Taycan 4S" width="2048" height="1536"  >}}
 
 #### Sæder på anden række
@@ -215,7 +213,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch foran passageren i instrumentbrættet er 10,9 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/screens_1_st.jpg" title="Porsche Taycan 4S" width="3000" height="1870"  >}}
 
@@ -296,7 +293,6 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 Lagekapaciteten i bagagerummet er 407 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2795 kg (6162 lbs), og med basisvægten på 2075 kg (4575 lbs), kan du maksimalt laste 720 kg (1587 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/trunk_1_st.jpg" title="Porsche Taycan 4S" width="3000" height="2250"  >}}
 <div class="mt-3 mb-3">

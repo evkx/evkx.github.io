@@ -48,7 +48,6 @@ Den standard ombordladdaren stöder upp till 7 kW för nivå 1 och nivå 2 AC-la
 
 Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/battery_1_st.jpg" title="BYD Han" width="1084" height="470"  >}}
 
 
@@ -90,7 +89,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/exterior_1_st.jpg" title="BYD Han" width="1680" height="945"  >}}
 
 
@@ -122,7 +120,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/frontseats_1_st.jpg" title="BYD Han" width="1920" height="1156"  >}}
 
 #### Säten på andra raden
@@ -132,7 +129,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-
 
 {{< sitefiguresized thumb="models/byd/han/han/secondrowseats_1_st.jpg" title="BYD Han" width="1600" height="960"  >}}
 
@@ -173,7 +169,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/screens_1_st.jpg" title="BYD Han" width="1920" height="1059"  >}}
 
 ## Infotainment
@@ -201,7 +196,6 @@ Modellen har 1 USB-C-anslutningar som standard. Modellen har 5 USB-A-anslutninga
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/byd/han/han/headlights_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}
 
@@ -252,7 +246,6 @@ Med Smart Pilot  nivå 2-systemet får du fler körautomatiseringsfunktioner än
 Lastutrymmets kapacitet är 410 liter. Bilens maximala vikt är 2660 kg, och med basvikten på 2250 kg kan du lasta maximalt 410 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
 
 {{< sitefiguresized thumb="models/byd/han/han/trunk_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}
 <div class="mt-3 mb-3">

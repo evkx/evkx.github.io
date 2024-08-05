@@ -87,7 +87,6 @@ Sólo hay un techo para este modelo. El estándar es simplemente un techo normal
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/exterior_1_st.jpg" title="BYD Seagull 38kWh" width="3000" height="2210"  >}}
 
 
@@ -119,7 +118,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/secondrowseats_1_st.jpg" title="BYD Seagull 38kWh" width="2300" height="1414"  >}}
 
@@ -159,7 +157,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en el centro del tablero mide 10,1 pulgadas de tamaño
 
 El modelo no tiene head-up display.
-
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/screens_1_st.jpg" title="BYD Seagull 38kWh" width="2400" height="1600"  >}}
 

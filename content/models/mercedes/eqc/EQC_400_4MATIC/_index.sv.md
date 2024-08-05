@@ -106,7 +106,6 @@ Följande funktioner är tillgängliga på **** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="1931"  >}}
 
 
@@ -139,7 +138,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch på höger sida av den delade ramen är 10,1 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/screens_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="1721"  >}}
 
@@ -211,7 +209,6 @@ Med Driver Assistance Package  nivå 1-systemet får du följande körautomation
 Lastkapaciteten i bagageutrymmet är 500 liter. Med baksätet nedfällt är det 1460 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2940 kg, och med basvikten på 2420 kg kan du lasta maximalt 520 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1800, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="2170"  >}}
 <div class="mt-3 mb-3">

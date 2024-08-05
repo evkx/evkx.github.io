@@ -85,7 +85,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir l'avant
 
-
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_350_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQB 350 4MATIC" width="3000" height="1686"  >}}
 
 
@@ -133,7 +132,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_350_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQB 350 4MATIC" width="3000" height="1999"  >}}
 
@@ -183,7 +181,6 @@ Détails clés de l'écran :
 - L'écran touch à droite du cadre partagé mesure 10,3 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_350_4matic/screens_1_st.jpg" title="Mercedes-EQ EQB 350 4MATIC" width="3000" height="1686"  >}}
 
@@ -260,7 +257,6 @@ Avec le système Driver Assistance Package  niveau 1, vous bénéficiez des fonc
 La capacité de chargement dans le coffre est de 495 litres. Avec la banquette arrière rabattue, elle est de 1410 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2580 kg (5688 lbs), et avec le poids de base de 2100 kg (4630 lbs), vous pouvez charger au maximum 480 kg (1058 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 480kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_350_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQB 350 4MATIC" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

@@ -81,7 +81,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/peugot/308/e-308_sw/exterior_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
 
 
@@ -113,7 +112,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Gray [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 - Black [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/peugot/308/e-308_sw/frontseats_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
@@ -123,7 +121,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
-
 
 {{< sitefiguresized thumb="models/peugot/308/e-308_sw/secondrowseats_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
 
@@ -185,7 +182,6 @@ El modelo tiene 3 conexiones USB-C de serie.
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/peugot/308/e-308_sw/headlights_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2001"  >}}
 

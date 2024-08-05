@@ -90,7 +90,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/exterior_1_st.jpg" title="Lotus Eletre" width="3000" height="1687"  >}}
 
 
@@ -125,7 +124,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 - Antracite/Gray [revêtement en microfibre/cuir nappa](../../../../technology/seats/materials/#nappaleather)
 - Red/Black [revêtement en microfibre/cuir nappa](../../../../technology/seats/materials/#nappaleather)
 
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/frontseats_1_st.jpg" title="Lotus Eletre" width="3000" height="1783"  >}}
 
 #### Siège de deuxième rangée
@@ -133,7 +131,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/secondrowseats_1_st.jpg" title="Lotus Eletre" width="3000" height="1856"  >}}
 
@@ -172,7 +169,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/screens_1_st.jpg" title="Lotus Eletre" width="3000" height="1919"  >}}
 
 
@@ -203,7 +199,6 @@ Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 co
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/headlights_1_st.jpg" title="Lotus Eletre" width="3000" height="2000"  >}}
 
@@ -258,7 +253,6 @@ Jusqu'à quatre [capteurs LiDAR](../../../../technology/sensorsandcameras/lidar/
 La capacité de chargement dans le coffre est de 688 litres. Avec la banquette arrière rabattue, elle est de 1532 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 46 litres (1,6 CU FT). Le poids maximum de la voiture est de 3100 kg (6834 lbs), et avec le poids de base de 2640 kg (5820 lbs), vous pouvez charger au maximum 460 kg (1014 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 460kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2250, et sur une remorque non freinée, il est de 750 kg (4960/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre/trunk_1_st.jpg" title="Lotus Eletre" width="3000" height="1687"  >}}
 

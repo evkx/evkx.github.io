@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 9 heures et 38 minutes à domicile. our une charge plus rapide, vous pouvez opter pour un chargeur embarqué optionnel prenant en charge jusqu'à 22 kW. Avec cette mise à niveau, vous pouvez atteindre une charge complète de 0 à 100% en seulement environ 4 heures et 49 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/charging_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
 ### Port de recharge
@@ -108,7 +107,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre prolonge la majeure partie du toit et les occupants peuvent ouvrir la partie avant. Cette vitre rend la voiture plus belle. l'intérieur semble plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
 Les vitres du montant B et de l'arrière sont teintées. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/exterior_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="1999"  >}}
 
@@ -196,7 +194,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/frontseats_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
 #### Siège de deuxième rangée
@@ -206,7 +203,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/secondrowseats_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
@@ -250,7 +246,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/screens_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
 ## Infodivertissement
@@ -281,7 +276,6 @@ Vous pouvez choisir entre deux types de phares pour le Audi Q8 e-tron edition Da
 - Des phares basés sur la technologie LED Digital Matrix sont disponibles en option.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/headlights_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2000"  >}}
 
@@ -339,7 +333,6 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 La capacité de chargement dans le coffre est de 660 litres. Avec la banquette arrière rabattue, elle est de 1725 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 3170 kg (6989 lbs), et avec le poids de base de 2520 kg (5556 lbs), vous pouvez charger au maximum 650 kg (1433 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1800, et sur une remorque non freinée, il est de 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/trunk_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 

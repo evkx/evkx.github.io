@@ -88,7 +88,6 @@ Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset stræ
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/exterior_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="2323"  >}}
 
 
@@ -116,7 +115,6 @@ Følgende funktioner er tilgængelige på **Sport** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/frontseats_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="2001"  >}}
 
@@ -162,7 +160,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/screens_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -189,7 +186,6 @@ Modellen har 4 USB-C-forbindelser som standard.
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/headlights_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="2001"  >}}
 
@@ -237,7 +233,6 @@ Med MAX  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 585 liter. Med bagsædet nede er det 1710 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2750 kg (6063 lbs), og med basisvægten på 2176 kg (4797 lbs), kan du maksimalt laste 574 kg (1265 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1200, og på ubremset er den 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/trunk_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="2001"  >}}
 

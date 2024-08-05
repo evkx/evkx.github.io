@@ -102,7 +102,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_e-tron/exterior_1_st.jpeg" title="Audi SQ8 e-tron" width="3000" height="1999"  >}}
 
 
@@ -240,7 +239,6 @@ Vous pouvez choisir entre trois types de phares pour le Audi SQ8 e-tron.
 - Des phares basés sur la technologie LED Digital Matrix sont disponibles en option.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_e-tron/headlights_1_st.jpeg" title="Audi SQ8 e-tron" width="3000" height="1999"  >}}
 

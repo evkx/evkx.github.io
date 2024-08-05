@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 9 timer og 33 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/charging_1_st.jpg" title="BMW iX M60" width="3000" height="2002"  >}}
 
 ### Ladeport
@@ -88,7 +87,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/exterior_1_st.jpg" title="BMW iX M60" width="3000" height="2000"  >}}
 
 
@@ -117,7 +115,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
 Du kan velge mellom 7 forskjellige materialer/farger for denne setetypen.
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/frontseats_1_st.jpg" title="BMW iX M60" width="3000" height="1999"  >}}
 
@@ -163,7 +160,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/screens_1_st.jpg" title="BMW iX M60" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -194,7 +190,6 @@ Du kan velge mellom to typer frontlykter for BMW iX M60.
 - Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/headlights_1_st.jpg" title="BMW iX M60" width="3000" height="1999"  >}}
 
@@ -242,7 +237,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du flere kjøreautomat
 Lastkapasiteten i bagasjerommet er 500 liter. Med baksetet nede er det 1750 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 3135 kg, og med basisvekten på 2510 kg kan du maksimalt laste 625 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2500, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/trunk_1_st.jpg" title="BMW iX M60" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

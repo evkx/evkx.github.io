@@ -89,7 +89,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/exterior_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1999"  >}}
 
 
@@ -118,7 +117,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
 
 Du kan vælge mellem 7 forskellige materialer/farver til denne sædetype.
-
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/frontseats_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2001"  >}}
 
@@ -173,7 +171,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/screens_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1991"  >}}
 
 ## Infotainment
@@ -204,7 +201,6 @@ Du kan vælge mellem to typer forlygter til BMW i7 M70 xDrive.
 - Forlygter baseret på LED Matrix med laserteknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukkes individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/headlights_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2001"  >}}
 

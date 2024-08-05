@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 9 timmar och 38 minuter med en hemmaladdare. För snabbare laddning kan du välja en valfri ombordladdare som stöder upp till 22 kW. Med denna uppgradering kan du uppnå en full laddning från 0 till 100% på bara cirka 4 timmar och 49 minuter hemma.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/charging_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
 ### Laddningsport
@@ -108,7 +107,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchbac
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset sträcker ut större delen av taket, och passagerarna kan öppna den främre delen. Detta glas gör bilens interiören känns rymligare och ljusare, något som kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
 B-stolpen och vyerna bak är tonade. Som ett alternativ finns dubbelglasade sidofönster tillgängliga för att minska kabinbuller och förbättra den totala körupplevelsen.
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/exterior_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="1999"  >}}
 
@@ -196,7 +194,6 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/frontseats_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
 #### Säten på andra raden
@@ -206,7 +203,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/secondrowseats_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
@@ -250,7 +246,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/screens_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -281,7 +276,6 @@ Du kan välja mellan två typer av strålkastare för Audi Q8 e-tron edition Dak
 - Strålkastare baserade på LED Digital Matrix-teknik finns som tillval.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/headlights_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2000"  >}}
 
@@ -339,7 +333,6 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 Lastkapaciteten i bagageutrymmet är 660 liter. Med baksätet nedfällt är det 1725 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 3170 kg, och med basvikten på 2520 kg kan du lasta maximalt 650 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1800, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_e-tron_edition_dakar/trunk_1_st.jpg" title="Audi Q8 e-tron edition Dakar" width="3000" height="2250"  >}}
 

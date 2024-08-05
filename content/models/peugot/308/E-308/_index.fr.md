@@ -84,7 +84,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/peugot/308/e-308/exterior_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
 
 
@@ -116,7 +115,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 - Gray [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 - Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/peugot/308/e-308/frontseats_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée
@@ -126,7 +124,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
-
 
 {{< sitefiguresized thumb="models/peugot/308/e-308/secondrowseats_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
 
@@ -164,7 +161,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/peugot/308/e-308/screens_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
 
 ## Infodivertissement
@@ -191,7 +187,6 @@ Le modèle dispose de 3 connexions USB-C en standard.
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/peugot/308/e-308/headlights_1_st.jpg" title="Peugot E-308" width="3000" height="2001"  >}}
 
@@ -227,7 +222,6 @@ Avec le système DS Drive Assist  niveau 1, vous bénéficiez des fonctionnalit�
 La capacité de chargement dans le coffre est de 361 litres. Avec la banquette arrière rabattue, elle est de 1271 litres. Sur le toit, vous pouvez charger jusqu'à 70 kg (154,3 lbs). Le poids maximum de la voiture est de 2110 kg (4652 lbs), et avec le poids de base de 1684 kg (3713 lbs), vous pouvez charger au maximum 426 kg (939 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/peugot/308/e-308/trunk_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
 

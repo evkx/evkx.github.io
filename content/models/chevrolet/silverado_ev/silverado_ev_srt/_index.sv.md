@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 19 timmar och 32 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/charging_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1728"  >}}
 
 ### Laddningsport
@@ -84,7 +83,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka
 
 Det finns bara ett tak för denna modell.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/exterior_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2000"  >}}
 
 
@@ -121,7 +119,6 @@ Den andra raden har en standardbänk med tre sittplatser med en -sektion där du
 
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
 
@@ -162,7 +159,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/screens_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -189,7 +185,6 @@ Modellen har 4 USB-C-anslutningar som standard.
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/headlights_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2000"  >}}
 
@@ -223,7 +218,6 @@ Med Super Cruise  nivå 1-systemet får du följande körautomationsfunktioner.
 Lastkapaciteten för lastbilen är 1039 liter. Bredden på lastflaket är 1286 mm och längden är 1803 mm. Den maximala lastvikten i lastflaket är 614 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 303 liter. Bilens maximala vikt är 4763 kg, och med basvikten på 4061 kg kan du lasta maximalt 702 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 4536, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/trunk_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1864"  >}}
 

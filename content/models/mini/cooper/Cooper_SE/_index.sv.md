@@ -82,7 +82,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/exterior_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 
@@ -108,7 +107,6 @@ Följande funktioner är tillgängliga på **** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - Black [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
-
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/frontseats_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
@@ -152,7 +150,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/screens_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -169,7 +166,6 @@ En typ av ljudsystem är tillgänglig för Mini Cooper SE.
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/headlights_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 

@@ -106,7 +106,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/exterior_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
 
 
@@ -142,7 +141,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [masaje](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/frontseats_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
 
@@ -235,7 +233,6 @@ Puedes elegir entre dos tipos de faros para el Audi S6 Sportback e-tron.
 
 Además, las luces traseras estándar utilizan tecnología LED.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/headlights_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
 
 ## Sistemas avanzados de asistencia al conductor
@@ -293,7 +290,6 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 La capacidad de carga en el maletero es de 514 litros. Con el asiento trasero abatido, es de 1517 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 27 litros (1,0 CU FT). El peso máximo del automóvil es 2965 kg (6537 lbs), y con el peso base de 2325 kg (5126 lbs), puedes cargar como máximo 640 kg (1411 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2100, y sin freno, es de 750 kg (4630/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_sportback_e-tron/trunk_1_st.jpg" title="Audi S6 Sportback e-tron" width="3000" height="2249"  >}}
 

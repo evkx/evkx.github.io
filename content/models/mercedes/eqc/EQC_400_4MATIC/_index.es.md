@@ -106,7 +106,6 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="1931"  >}}
 
 
@@ -139,7 +138,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en la parte derecha del marco compartido mide 10,1 pulgadas de tamaño
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/screens_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="1721"  >}}
 
@@ -211,7 +209,6 @@ Con el sistema Driver Assistance Package  nivel 1, obtienes las siguientes funci
 La capacidad de carga en el maletero es de 500 litros. Con el asiento trasero abatido, es de 1460 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2940 kg (6482 lbs), y con el peso base de 2420 kg (5335 lbs), puedes cargar como máximo 520 kg (1146 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1800, y sin freno, es de 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="2170"  >}}
 <div class="mt-3 mb-3">

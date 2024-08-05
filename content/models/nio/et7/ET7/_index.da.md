@@ -106,7 +106,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramaglastag, der strækker sig fra front til bag, hvilket forbedrer interiørets rummelige og lyse følelse og derved forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen.
 
-
 {{< sitefiguresized thumb="models/nio/et7/et7/exterior_1_st.jpg" title="Nio ET7" width="2880" height="1792"  >}}
 
 
@@ -181,7 +180,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/nio/et7/et7/screens_1_st.jpg" title="Nio ET7" width="1390" height="758"  >}}
 
 
@@ -207,7 +205,6 @@ Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelse
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/nio/et7/et7/headlights_1_st.jpg" title="Nio ET7" width="1200" height="676"  >}}
 

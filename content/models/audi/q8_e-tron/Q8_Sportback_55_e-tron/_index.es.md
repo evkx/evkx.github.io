@@ -107,7 +107,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros. Como opción, están disponibles ventanas laterales de doble acristalamiento para reducir el ruido en la cabina, mejorando la experiencia de conducción en general
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_sportback_55_e-tron/exterior_1_st.jpeg" title="Audi Q8 Sportback 55 e-tron" width="3000" height="2002"  >}}
 
 

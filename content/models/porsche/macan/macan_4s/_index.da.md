@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 37 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/charging_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
 
 ### Ladeport
@@ -95,7 +94,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset strækker det meste af taget, og beboerne kan åbne den forreste del. Dette glas gør bilens interiøret føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
-
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/exterior_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
 
@@ -159,7 +157,6 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/secondrowseats_1_st.jpg" title="Porsche Macan 4S" width="3000" height="2250"  >}}
 
 
@@ -199,7 +196,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/screens_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
 
 ## Infotainment
@@ -230,7 +226,6 @@ Du kan vælge mellem to typer forlygter til Porsche Macan 4S.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/headlights_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
 
@@ -283,7 +278,6 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 Lagekapaciteten i bagagerummet er 480 liter. Med bagsædet nede er det 1288 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2950 kg (6504 lbs), og med basisvægten på 2330 kg (5137 lbs), kan du maksimalt laste 620 kg (1367 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2000, og på ubremset er den 750 kg (4409/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/trunk_1_st.jpg" title="Porsche Macan 4S" width="3000" height="2250"  >}}
 

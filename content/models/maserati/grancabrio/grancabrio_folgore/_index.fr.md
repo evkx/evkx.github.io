@@ -96,7 +96,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/exterior_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1740"  >}}
 
 
@@ -125,7 +124,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/frontseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée
@@ -136,7 +134,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/secondrowseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2213"  >}}
 
@@ -178,7 +175,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/screens_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1845"  >}}
 
 ## Infodivertissement
@@ -206,7 +202,6 @@ Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obt
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/headlights_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2000"  >}}
 

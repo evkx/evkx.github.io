@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 10 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/charging_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
 
 ### Puerto de carga
@@ -92,7 +91,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/exterior_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
 
 
@@ -125,7 +123,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Ergo**.
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [masaje](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/frontseats_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
 
@@ -171,7 +168,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en el centro del tablero mide 14,6 pulgadas de tamaño
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/screens_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
 
@@ -251,7 +247,6 @@ Con el sistema Assistantpackage  nivel 2, obtienes funciones de automatización 
 La capacidad de carga en el maletero es de 627 litros. Con el asiento trasero abatido, es de 1510 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2745 kg (6052 lbs), y con el peso base de 2174 kg (4793 lbs), puedes cargar como máximo 571 kg (1259 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1200, y sin freno, es de 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/trunk_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
 

@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 22 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 4 timmar och 55 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/charging_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="1687"  >}}
 
 ### Laddningsport
@@ -139,7 +138,6 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="4085"  >}}
 
 #### Säten på andra raden
@@ -157,7 +155,6 @@ Alternativet second är en tresitssbänk med en 40:20:40-sektion där du kan vik
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="2250"  >}}
 
@@ -206,7 +203,6 @@ Viktiga skärmdetaljer:
 - Skärmen  framför passageraren i instrumentbrädan är 12,3 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/screens_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="1875"  >}}
 
@@ -290,7 +286,6 @@ Med DRIVE PILOT  nivå 3-systemet får du fler körautomationsfunktioner än de 
 Lastkapaciteten i bagageutrymmet är 610 liter. Med baksätet nedfällt är det 1770 liter. På taket kan du lasta upp till 100 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 3060 kg, och med basvikten på 2540 kg kan du lasta maximalt 520 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 750, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="2000"  >}}
 

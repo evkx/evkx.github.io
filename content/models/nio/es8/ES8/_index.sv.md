@@ -107,7 +107,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 
 Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra atmosfären och komforten hos passageraren. Den har en elektrisk gardin som passagerarna kan använda för att skydda sig mot solen.
 
-
 {{< sitefiguresized thumb="models/nio/es8/es8/exterior_1_st.jpg" title="Nio ES8" width="3000" height="1687"  >}}
 
 
@@ -137,7 +136,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [fotstöd för passagerare](../../../../technology/seats/adjustment/#benstöd)
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
-
 
 {{< sitefiguresized thumb="models/nio/es8/es8/frontseats_1_st.jpg" title="Nio ES8" width="2880" height="1784"  >}}
 
@@ -192,7 +190,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/nio/es8/es8/screens_1_st.jpg" title="Nio ES8" width="3000" height="1659"  >}}
 
 
@@ -219,7 +216,6 @@ Modellen har 3 USB-A-anslutningar som standard.
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/nio/es8/es8/headlights_1_st.jpg" title="Nio ES8" width="3000" height="1686"  >}}
 

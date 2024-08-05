@@ -106,7 +106,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="1931"  >}}
 
 
@@ -139,7 +138,6 @@ Détails clés de l'écran :
 - L'écran touch à droite du cadre partagé mesure 10,1 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/screens_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="1721"  >}}
 
@@ -211,7 +209,6 @@ Avec le système Driver Assistance Package  niveau 1, vous bénéficiez des fonc
 La capacité de chargement dans le coffre est de 500 litres. Avec la banquette arrière rabattue, elle est de 1460 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2940 kg (6482 lbs), et avec le poids de base de 2420 kg (5335 lbs), vous pouvez charger au maximum 520 kg (1146 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1800, et sur une remorque non freinée, il est de 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqc/eqc_400_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQC 400 4MATIC" width="3000" height="2170"  >}}
 <div class="mt-3 mb-3">

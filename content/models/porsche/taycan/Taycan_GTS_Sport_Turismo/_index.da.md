@@ -95,7 +95,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset for at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
 
 
@@ -151,7 +150,6 @@ Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/frontseats_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
 
 #### Sæder på anden række
@@ -165,7 +163,6 @@ Muligheden standard er to integrerede sæder i anden række. Derudover er følge
 Muligheden second er to integrerede sæder i anden række med et tredje mindre sæde imellem. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="1991"  >}}
 
@@ -205,7 +202,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch foran passageren i instrumentbrættet er 10,9 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/screens_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
 
@@ -283,7 +279,6 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 Lagekapaciteten i bagagerummet er 446 liter. Med bagsædet nede er det 1212 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2875 kg (6338 lbs), og med basisvægten på 2310 kg (5093 lbs), kan du maksimalt laste 565 kg (1246 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/trunk_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

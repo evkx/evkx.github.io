@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 4 timer og 27 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/charging_1_st.jpg" title="MG ZS EV Standard Range" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -84,7 +83,6 @@ Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset stræ
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/exterior_1_st.jpg" title="MG ZS EV Standard Range" width="3000" height="2000"  >}}
 
 
@@ -113,7 +111,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/frontseats_1_st.jpg" title="MG ZS EV Standard Range" width="3000" height="1999"  >}}
 
 #### Sæde på anden række
@@ -121,7 +118,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/secondrowseats_1_st.jpg" title="MG ZS EV Standard Range" width="2560" height="1706"  >}}
 
@@ -159,7 +155,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/screens_1_st.jpg" title="MG ZS EV Standard Range" width="2560" height="1015"  >}}
 
 
@@ -190,7 +185,6 @@ Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelse
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/headlights_1_st.jpg" title="MG ZS EV Standard Range" width="2560" height="1673"  >}}
 
@@ -227,7 +221,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 448 liter. Med bagsædet nede er det 1166 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 150 liter (5,3 CU FT). Bilens maksimale vægt er 2070 kg (4564 lbs), og med basisvægten på 1620 kg (3571 lbs), kan du maksimalt laste 450 kg (992 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 450kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 500, og på ubremset er den 500 kg (1102/1102 lbs).
-
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/trunk_1_st.jpg" title="MG ZS EV Standard Range" width="2560" height="1707"  >}}
 

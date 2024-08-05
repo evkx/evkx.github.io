@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 49 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/charging_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 
 ### Port de recharge
@@ -87,7 +86,6 @@ La voiture a deux [portes régulières](../../../../technology/doors/) à l'avan
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'une vitre panoramique au-dessus de la première rangée et la partie du toit des portes gullving est également vitrée. Cette vitre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant.
 
 Les vitres du montant B et de l'arrière sont teintées.
-
 
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/exterior_1_st.jpg" title="HiPhi X 4 Seater" width="1959" height="1102"  >}}
 
@@ -171,7 +169,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/screens_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 
 
@@ -198,7 +195,6 @@ Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 3 co
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/headlights_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 
@@ -244,7 +240,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 La capacité de chargement du coffre est de 204 litres. Avec le siège de troisième rangée abaissé, elle est de 587 litres.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/trunk_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

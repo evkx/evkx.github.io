@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 5 timer og 36 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/charging_2_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
 
 ### Ladeport
@@ -81,7 +80,6 @@ Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, p
 
 Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model med stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/exterior_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="1687"  >}}
 
 
@@ -107,7 +105,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [stof/læderbetræk](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/frontseats_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
@@ -115,7 +112,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/secondrowseats_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
 
@@ -152,7 +148,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch øverst på midterkonsollen er 10,2 tommer stor
 
 Modellen har ikke et head-up display.
-
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/screens_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
 
@@ -211,7 +206,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 Bilens maksimale vægt er 2133 kg (4702 lbs), og med basisvægten på 1715 kg (3781 lbs), kan du maksimalt laste 418 kg (922 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 500, og på ubremset er den 500 kg (1102/1102 lbs).
-
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/trunk_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

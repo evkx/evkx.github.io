@@ -79,7 +79,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/exterior_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="1999"  >}}
 
 
@@ -114,7 +113,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/secondrowseats_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="1999"  >}}
 
@@ -162,7 +160,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch översta mittkonsolen är 12,3 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/screens_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="1999"  >}}
 
@@ -229,7 +226,6 @@ Med standardsystemet erbjuder modellen ingen körautomatisering.
 Lastutrymmets kapacitet är 452 liter. På taket kan du lasta upp till 80 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 2195 kg, och med basvikten på 1945 kg kan du lasta maximalt 250 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 250 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 750, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/trunk_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

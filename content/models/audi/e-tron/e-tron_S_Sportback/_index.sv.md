@@ -110,7 +110,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna. Som ett alternativ finns dubbelglasade sidofönster tillgängliga för att minska kabinbuller och förbättra den totala körupplevelsen.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/exterior_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="1999"  >}}
 
 
@@ -171,7 +170,6 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/frontseats_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2249"  >}}
 
 #### Säten på andra raden
@@ -220,7 +218,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch botten av mittkonsolen är 8,6 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/screens_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2250"  >}}
 
@@ -308,7 +305,6 @@ Upp till fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 Lastkapaciteten i bagageutrymmet är 660 liter. Med baksätet nedfällt är det 1725 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 3280 kg, och med basvikten på 2655 kg kan du lasta maximalt 625 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1800, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/trunk_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2249"  >}}
 

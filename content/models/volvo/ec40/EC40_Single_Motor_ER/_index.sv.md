@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 7 timmar och 10 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/charging_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
 
 ### Laddningsport
@@ -85,7 +84,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchbac
 
 Det finns två olika takalternativ att välja mellan. Som tillval kan du beställa denna modell med panoramatak. Glaset sträcker ut större delen av taket, och passagerarna kan öppna den främre delen. Detta glas gör bilens interiören känns rymligare och ljusare, något som kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/exterior_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
 
 
@@ -111,7 +109,6 @@ Följande funktioner är tillgängliga på **** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/frontseats_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
@@ -121,7 +118,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/secondrowseats_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
 
@@ -161,7 +157,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/screens_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -184,7 +179,6 @@ Du kan välja mellan två typer av strålkastare för Volvo EC40 Single Motor ER
 - Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/headlights_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2184"  >}}
 
@@ -225,7 +219,6 @@ Med Pilot Assist  nivå 2-systemet får du följande körautomatiseringsfunktion
 Lastkapaciteten i bagageutrymmet är 419 liter. Med baksätet nedfällt är det 1205 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 31 liter. Bilens maximala vikt är 2500 kg, och med basvikten på 2020 kg kan du lasta maximalt 480 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1500, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/volvo/ec40/ec40_single_motor_er/trunk_1_st.jpg" title="Volvo EC40 Single Motor ER" width="3000" height="2000"  >}}
 

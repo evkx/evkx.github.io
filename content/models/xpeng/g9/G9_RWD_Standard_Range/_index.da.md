@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 6 timer og 49 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/charging_1_st.jpg" title="XPENG G9 RWD Standard Range" width="1600" height="1040"  >}}
 
 ### Ladeport
@@ -83,7 +82,6 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/exterior_1_st.jpg" title="XPENG G9 RWD Standard Range" width="3000" height="2002"  >}}
 
 
@@ -118,7 +116,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 - Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - Beige [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/frontseats_1_st.jpeg" title="XPENG G9 RWD Standard Range" width="3000" height="2250"  >}}
 
 #### Sæde på anden række
@@ -129,7 +126,6 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/secondrowseats_1_st.jpeg" title="XPENG G9 RWD Standard Range" width="3000" height="1687"  >}}
 
@@ -170,7 +166,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch foran passageren på instrumentbrættet er 15,0 tommer stor
 
 Modellen har ikke et head-up display.
-
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/screens_1_st.jpg" title="XPENG G9 RWD Standard Range" width="3000" height="2002"  >}}
 
@@ -238,7 +233,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1576 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 71 liter (2,5 CU FT). Bilens maksimale vægt er 2680 kg (5908 lbs), og med basisvægten på 2255 kg (4971 lbs), kan du maksimalt laste 425 kg (937 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 425kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/trunk_1_st.jpg" title="XPENG G9 RWD Standard Range" width="3000" height="2002"  >}}
 <div class="mt-3 mb-3">

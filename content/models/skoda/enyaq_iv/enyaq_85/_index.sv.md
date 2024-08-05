@@ -88,7 +88,6 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/exterior_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="1999"  >}}
 
 
@@ -117,7 +116,6 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/frontseats_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="2107"  >}}
 
 #### Säten på andra raden
@@ -125,7 +123,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/secondrowseats_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="1945"  >}}
 
@@ -165,7 +162,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/screens_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="1999"  >}}
 
 ## Infotainment
@@ -192,7 +188,6 @@ Modellen har 4 USB-C-anslutningar som standard.
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/headlights_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="2000"  >}}
 
@@ -240,7 +235,6 @@ Med MAX  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten i bagageutrymmet är 570 liter. Med baksätet nedfällt är det 1610 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2740 kg, och med basvikten på 2180 kg kan du lasta maximalt 560 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1200, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_85/trunk_1_st.jpg" title="SKODA ENYAQ 85" width="3000" height="2002"  >}}
 <div class="mt-3 mb-3">

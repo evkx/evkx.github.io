@@ -81,7 +81,6 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/exterior_1_st.jpg" title="Zeekr 009 ME Edition" width="2000" height="1333"  >}}
 
 
@@ -127,7 +126,6 @@ For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende 
 - [massasje](../../../../technology/seats/adjustment/#massage)
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 
-
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/secondrowseats_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440"  >}}
 
 #### Seter på tredje rad
@@ -171,7 +169,6 @@ Viktige skjermdetaljer:
 - touch-skjermen øverst på midtkonsollen er 15,4 tommer stor
 
 Modellen er ikke tilgjengelig med head-up display.
-
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/screens_1_st.jpg" title="Zeekr 009 ME Edition" width="1256" height="836"  >}}
 

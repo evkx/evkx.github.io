@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 49 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/charging_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000"  >}}
 
 ### Laddningsport
@@ -87,7 +86,6 @@ Bilen har två [vanliga dörrar](../../../../technology/doors/) i fronten, en un
 Det finns bara ett tak för denna modell. Standardtaket har panoramaglass over første rad i tillegg til at takdelen av gullvingdørene har glass. Dette glasset gjør at bilens interiør føles mer romslig og lyst, som kan forbedre humøret og komforten til beboeren.
 
 B-stolpen och vyerna bak är tonade.
-
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/exterior_1_st.jpg" title="HiPhi X 6 Seater" width="1959" height="1102"  >}}
 
@@ -177,7 +175,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/screens_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000"  >}}
 
 
@@ -204,7 +201,6 @@ Modellen har 3 USB-C-anslutningar som standard. Modellen har 3 USB-A-anslutninga
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/headlights_1_st.jpg" title="HiPhi X 6 Seater" width="3000" height="2000"  >}}
 
@@ -250,7 +246,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten i bagageutrymmet är 204 liter. Med den tredje sätesraden nere är den 587 liter.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
 
 {{< sitefiguresized thumb="models/hiphi/x/x_6_seater/trunk_1_st.jpg" title="HiPhi X 6 Seater" width="1200" height="700"  >}}
 <div class="mt-3 mb-3">

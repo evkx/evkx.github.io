@@ -81,7 +81,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [boot lid]
 
 There is only one roof for this model.
 
-
 {{< sitefiguresized thumb="models/xpeng/g3/g3i/exterior_1_st.jpeg" title="XPENG G3i" width="3000" height="1686"  >}}
 
 

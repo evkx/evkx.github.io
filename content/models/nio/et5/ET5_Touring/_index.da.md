@@ -107,7 +107,6 @@ Der er kun ét tag til denne model. Standardtaget har en stor panoramaudsigt, de
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/exterior_1_st.jpg" title="Nio ET5 Touring" width="2880" height="2316"  >}}
 
 
@@ -256,7 +255,6 @@ Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere køreautomatis
 Lagekapaciteten i bagagerummet er 450 liter. Med bagsædet nede er det 1447 liter. På taget kan du laste op til 100 kg (220,5 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Bilens maksimale vægt er 2900 kg (6393 lbs), og med basisvægten på 2379 kg (5245 lbs), kan du maksimalt laste 521 kg (1149 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2000, og på ubremset er den 750 kg (4409/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/trunk_1_st.jpg" title="Nio ET5 Touring" width="2560" height="1670"  >}}
 <div class="mt-3 mb-3">

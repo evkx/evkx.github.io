@@ -95,7 +95,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/exterior_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 
 
@@ -143,7 +142,6 @@ The following functionalities are available on the **multicontour** seat.
 
 You can choose from 5 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="4085"  >}}
 
 #### Second-row seats
@@ -161,7 +159,6 @@ The second option is a three-seat bench with a 40:20:40 split where you can fold
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 
@@ -290,7 +287,6 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 The cargo capacity in the trunk is 610 liters. With the rear seat down, it is 1770 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 3060 kg (6746 lbs), and with the base weight of 2540 kg (5600 lbs), you can max load 520 kg (1146 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_450plus/trunk_1_st.jpg" title="Mercedes-EQ EQS 450+" width="3000" height="2000"  >}}
 

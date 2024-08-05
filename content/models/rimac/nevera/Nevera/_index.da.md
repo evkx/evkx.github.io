@@ -97,7 +97,6 @@ Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, p
 
 Der er kun ét tag til denne model.
 
-
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/exterior_1_st.jpg" title="Rimac Nevera" width="3000" height="2000"  >}}
 
 
@@ -120,7 +119,6 @@ Følgende funktioner er tilgængelige på **** sædet.
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - Black [Alcantara polstring](../../../../technology/seats/materials/#alcantara)
-
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/frontseats_1_st.jpg" title="Rimac Nevera" width="3000" height="2001"  >}}
 
@@ -160,7 +158,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/screens_1_st.jpg" title="Rimac Nevera" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -185,7 +182,6 @@ Yderligere understøtter Rimac Nevera Android Auto og Apple CarPlay. Denne funkt
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/rimac/nevera/nevera/headlights_1_st.jpg" title="Rimac Nevera" width="3000" height="2002"  >}}
 

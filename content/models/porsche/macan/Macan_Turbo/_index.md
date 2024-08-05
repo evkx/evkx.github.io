@@ -102,7 +102,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/exterior_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="1687"  >}}
 
 
@@ -148,7 +147,6 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 
 You can choose from 4 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/frontseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
 
 #### Second-row seat
@@ -158,7 +156,6 @@ You can choose from 4 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/secondrowseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
 
@@ -199,7 +196,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/screens_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="1687"  >}}
 
 ## Infotainment
@@ -230,7 +226,6 @@ You can choose between two types of headlights for the Porsche Macan Turbo.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/headlights_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
 
@@ -283,7 +278,6 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 The cargo capacity in the trunk is 480 liters. With the rear seat down, it is 1288 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2950 kg (6504 lbs), and with the base weight of 2330 kg (5137 lbs), you can max load 620 kg (1367 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/trunk_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
 

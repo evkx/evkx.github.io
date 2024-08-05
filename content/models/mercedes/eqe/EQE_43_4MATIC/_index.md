@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 7 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/charging_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -97,7 +96,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [boot lid]
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/exterior_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="2027"  >}}
 
 
@@ -144,7 +142,6 @@ The following functionalities are available on the **multicontour** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 5 different materials/colors for this seat type.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/frontseats_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="1999"  >}}
 
@@ -205,7 +202,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/screens_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="2000"  >}}
 
 
@@ -241,7 +237,6 @@ You can choose between two types of headlights for the Mercedes-AMG EQE 43 4MATI
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/headlights_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="1999"  >}}
 
@@ -290,7 +285,6 @@ With the Driver Assistance Package Plus  level 2 system, you get additional driv
 The cargo capacity in the trunk is 430 liters. With the rear seat down, it is 895 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 3095 kg (6823 lbs), and with the base weight of 2450 kg (5401 lbs), you can max load 645 kg (1422 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/trunk_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

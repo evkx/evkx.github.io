@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 19 horas y 32 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/charging_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1728"  >}}
 
 ### Puerto de carga
@@ -84,7 +83,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [por
 
 Sólo hay un techo para este modelo.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/exterior_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2000"  >}}
 
 
@@ -121,7 +119,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división  don
 
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
 
@@ -162,7 +159,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/screens_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
 
 ## Infoentretenimiento
@@ -189,7 +185,6 @@ El modelo tiene 4 conexiones USB-C de serie.
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/headlights_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2000"  >}}
 
@@ -223,7 +218,6 @@ Con el sistema Super Cruise  nivel 1, obtienes las siguientes funciones de autom
 La capacidad de carga en la plataforma del camión es 1039 litros. El ancho de la plataforma es 1286 mm y el largo es 1803 mm. El peso máximo de carga en la plataforma es 614 kg. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 303 litros (10,7 CU FT). El peso máximo del automóvil es 4763 kg (10501 lbs), y con el peso base de 4061 kg (8953 lbs), puedes cargar como máximo 702 kg (1548 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 4536, y sin freno, es de 750 kg (10000/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/trunk_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1864"  >}}
 

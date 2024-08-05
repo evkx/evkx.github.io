@@ -88,7 +88,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_300_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQA 300 4MATIC" width="3000" height="2000"  >}}
 
 
@@ -137,7 +136,6 @@ The following functionalities are available on the **multicontour** seat.
 
 You can choose from 5 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_300_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQA 300 4MATIC" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -180,7 +178,6 @@ Key screen details:
 - The touch screen at the right part of the shared frame is 10.3 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_300_4matic/screens_1_st.jpg" title="Mercedes-EQ EQA 300 4MATIC" width="3000" height="2000"  >}}
 

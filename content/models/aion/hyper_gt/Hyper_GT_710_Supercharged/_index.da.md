@@ -81,7 +81,6 @@ Mere smalle hjul vil forbedre forbruget og give en længere rækkevidde, mens br
 
 Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramaglastag, der strækker sig fra front til bag, hvilket forbedrer interiørets rummelige og lyse følelse og derved forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen.
 
-
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/exterior_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1400" height="788"  >}}
 
 
@@ -110,7 +109,6 @@ Følgende funktioner er tilgængelige på **** sædet.
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 -  [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/frontseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1875" height="1250"  >}}
 
 #### Sæde på anden række
@@ -122,7 +120,6 @@ Følgende funktioner er tilgængelige på **** sædet.
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 -  [læderbetræk](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/secondrowseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="2500" height="1250"  >}}
 
@@ -161,7 +158,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/screens_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="2500" height="1250"  >}}
 
 ## Infotainment
@@ -180,7 +176,6 @@ Modellen har 1 USB-C-forbindelser som standard.
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/headlights_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1920" height="960"  >}}
 

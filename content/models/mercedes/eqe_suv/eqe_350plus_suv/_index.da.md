@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 43 minutter ved brug af en hjemmeoplader. For hurtigere opladning kan du vælge en valgfri ombordlader, der understøtter op til 22 kW. Med denne opgradering kan du opnå en fuld opladning fra 0 til 100% på kun cirka 4 timer og 21 minutter derhjemme.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350plus_suv/charging_1_st.jpg" title="Mercedes-EQ EQE 350+ SUV" width="3000" height="2001"  >}}
 
 ### Ladeport
@@ -92,7 +91,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset har to paneler. Et over første og anden række, og beboerne kan åbne fronten del. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passageren. Begge glaspaneler har et elektrisk gardin, som passagererne kan bruge til at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350plus_suv/exterior_1_st.jpg" title="Mercedes-EQ EQE 350+ SUV" width="3000" height="1687"  >}}
 
 
@@ -139,7 +137,6 @@ Følgende funktioner er tilgængelige på **multicontour** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350plus_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQE 350+ SUV" width="3000" height="2250"  >}}
 
@@ -200,7 +197,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350plus_suv/screens_1_st.jpg" title="Mercedes-EQ EQE 350+ SUV" width="3000" height="2001"  >}}
 
 
@@ -236,7 +232,6 @@ Du kan vælge mellem to typer forlygter til Mercedes-EQ EQE 350+ SUV.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350plus_suv/headlights_1_st.jpg" title="Mercedes-EQ EQE 350+ SUV" width="3000" height="2250"  >}}
 

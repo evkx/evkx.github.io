@@ -106,7 +106,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panoramique s'étendant de l'avant vers l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance et le confort. de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-
 {{< sitefiguresized thumb="models/nio/el8/el8/exterior_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 
@@ -138,7 +137,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 #### Sièges de deuxième rangée
@@ -159,7 +157,6 @@ L'option second est deux sièges capitaine. De plus, les fonctionnalités suivan
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
-
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -200,7 +197,6 @@ Détails clés de l'écran :
 - L'écran touch au milieu de la console centrale mesure 11,3 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/nio/el8/el8/screens_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 

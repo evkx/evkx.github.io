@@ -80,7 +80,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/exterior_1_st.jpg" title="MG Marvel R Electric" width="3000" height="2000"  >}}
 
 
@@ -107,7 +106,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 - Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 - Beige [Alcantara/kunst läderklädsel](../../../../technology/seats/materials/#alcantara)
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/frontseats_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1999"  >}}
 
 #### Säten på andra raden
@@ -115,7 +113,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/secondrowseats_1_st.jpg" title="MG Marvel R Electric" width="3000" height="2256"  >}}
 
@@ -153,7 +150,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/screens_1_st.jpg" title="MG Marvel R Electric" width="2560" height="1707"  >}}
 
 
@@ -184,7 +180,6 @@ Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/headlights_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1701"  >}}
 
 ## Avancerade förarassistanssystem
@@ -214,7 +209,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten i bagageutrymmet är 359 liter. Med baksätet nedfällt är det 1396 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 150 liter. Bilens maximala vikt är 2288 kg, och med basvikten på 1810 kg kan du lasta maximalt 478 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 478 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 750, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/trunk_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1915"  >}}
 

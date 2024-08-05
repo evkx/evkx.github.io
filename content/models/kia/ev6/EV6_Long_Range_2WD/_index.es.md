@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 6 horas y 43 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/charging_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2000"  >}}
 
 ### Puerto de carga
@@ -89,7 +88,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/exterior_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2017"  >}}
 
 
@@ -124,7 +122,6 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 - Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/frontseats_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1999"  >}}
 
 #### Asiento de segunda fila
@@ -134,7 +131,6 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/secondrowseats_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2400"  >}}
 
@@ -172,7 +168,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/screens_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2003"  >}}
 
 ## Infoentretenimiento
@@ -200,7 +195,6 @@ El modelo tiene 4 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/headlights_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="2000"  >}}
 
@@ -245,7 +239,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 La capacidad de carga en el maletero es de 480 litros. Con el asiento trasero abatido, es de 1260 litros. En el techo, puedes cargar hasta 80 kg (176,4 lbs). Los rieles de techo son estándar en este modelo, lo que facilita el montaje del cofre o portaequipajes en el automóvil. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 20 litros (0,7 CU FT). El peso máximo del automóvil es 2530 kg (5578 lbs), y con el peso base de 2015 kg (4442 lbs), puedes cargar como máximo 515 kg (1135 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1600, y sin freno, es de 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_long_range_2wd/trunk_1_st.jpg" title="Kia EV6 Long Range 2WD" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

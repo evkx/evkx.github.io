@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 4 timmar och 43 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_50/charging_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2002"  >}}
 
 ### Laddningsport
@@ -90,7 +89,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort panoramaglastak som sträcker sig från fram till bak, vilket förbättrar interiörens rymliga och ljusa känsla och därmed förbättrar stämningen och komforten för passagerarna. Detta glas är tonat för att skydda mot värme från solen.
 
 B-stolpen och vyerna bak är tonade.
-
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_50/exterior_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2001"  >}}
 
@@ -190,7 +188,6 @@ Du kan välja mellan två typer av strålkastare för SKODA Elroq 50.
 - Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_50/headlights_1_st.jpg" title="SKODA Elroq 50" width="3000" height="2000"  >}}
 

@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 14 minutos usando un cargador en casa. Para una carga más rápida, puedes optar por un cargador a bordo opcional que soporta hasta 22 kW. Con esta mejora, puedes lograr una carga completa del 0 al 100% en solo unas 4 horas y 7 minutos en casa.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_500_4matic_suv/charging_1_st.jpg" title="Mercedes-EQ EQE 500 4MATIC SUV" width="3000" height="2001"  >}}
 
 ### Puerto de carga
@@ -92,7 +91,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir el frente Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Ambos paneles de cristal tienen una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_500_4matic_suv/exterior_1_st.jpg" title="Mercedes-EQ EQE 500 4MATIC SUV" width="3000" height="1687"  >}}
 
 
@@ -139,7 +137,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_500_4matic_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQE 500 4MATIC SUV" width="3000" height="2250"  >}}
 
@@ -200,7 +197,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_500_4matic_suv/screens_1_st.jpg" title="Mercedes-EQ EQE 500 4MATIC SUV" width="3000" height="2001"  >}}
 
 
@@ -236,7 +232,6 @@ Puedes elegir entre dos tipos de faros para el Mercedes-EQ EQE 500 4MATIC SUV.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_500_4matic_suv/headlights_1_st.jpg" title="Mercedes-EQ EQE 500 4MATIC SUV" width="3000" height="2250"  >}}
 

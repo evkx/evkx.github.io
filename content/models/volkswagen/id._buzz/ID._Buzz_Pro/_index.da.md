@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 7 timer og 0 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/charging_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -90,7 +89,6 @@ Bilen har to [almindelige døre](../../../../technology/doors/) i første række
 Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
 
 Ruderne fra B-stolpen og bagsiden er tonede.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/exterior_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
@@ -140,7 +138,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 - Orange [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Blue [stofpolstring](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/frontseats_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
@@ -148,7 +145,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
@@ -188,7 +184,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i dashboardets midte er 12,0 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/screens_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
@@ -267,7 +262,6 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 Lagekapaciteten i bagagerummet er 1121 liter. Med bagsædet nede er det 2205 liter. På taget kan du laste op til 100 kg (220,5 lbs). Bilens maksimale vægt er 3000 kg (6614 lbs), og med basisvægten på 2416 kg (5326 lbs), kan du maksimalt laste 584 kg (1287 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/trunk_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

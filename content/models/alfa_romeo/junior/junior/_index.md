@@ -84,7 +84,6 @@ There is only one roof for this model.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/exterior_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2000"  >}}
 
 
@@ -115,7 +114,6 @@ You can choose from 4 different materials/colors for this seat type.
 - Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/frontseats_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2250"  >}}
 
 #### Second-row seat
@@ -123,7 +121,6 @@ You can choose from 4 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/secondrowseats_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2000"  >}}
 
@@ -183,7 +180,6 @@ The standard headlights use LED Matrix technology. LED Matrix is an adaptive sys
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
 
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/headlights_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2177"  >}}
 
 ## Advanced driver assistance systems
@@ -216,7 +212,6 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 The cargo capacity in the trunk is 400 liters. With the rear seat down, it is 1467 liters. The maxium weight of the car is 2030 kg (4475 lbs), and with the base weight of 1573 kg (3468 lbs), you can max load 457 kg (1008 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior/trunk_1_st.jpg" title="Alfa Romeo Junior" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

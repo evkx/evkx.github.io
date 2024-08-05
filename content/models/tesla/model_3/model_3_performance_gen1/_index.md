@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 49 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/charging_1_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -93,7 +92,6 @@ There is only one roof for this model. The standard roof includes a large panora
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/exterior_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="1687"  >}}
 
 
@@ -121,7 +119,6 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 2 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/frontseats_1_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -129,7 +126,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/secondrowseats_1_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="2000"  >}}
 
@@ -168,7 +164,6 @@ Key screen details:
 - The  screen on the dashboard's center is 15.0 inches large
 
 The model does not have a head-up display.
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance_gen1/screens_2_st.jpg" title="Tesla Model 3 Performance (GEN1)" width="3000" height="2000"  >}}
 

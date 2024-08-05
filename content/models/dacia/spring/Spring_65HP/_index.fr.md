@@ -42,7 +42,6 @@ La vitesse de charge DC maximale est de 30kW. Une charge complète de 0 à 100 %
 
 Le chargeur embarqué standard prend en charge jusqu'à 7 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 3 heures et 34 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/charging_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1702"  >}}
 
 ### Port de recharge
@@ -83,7 +82,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il n'y a qu'un seul toit pour ce modèle.
 
-
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/exterior_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1698"  >}}
 
 
@@ -106,7 +104,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 - Black [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
-
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/frontseats_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
@@ -154,7 +151,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/screens_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
 ## Infodivertissement
@@ -181,7 +177,6 @@ Le modèle dispose de 2 connexions USB-C en standard.
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/headlights_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1698"  >}}
 

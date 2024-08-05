@@ -107,7 +107,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna. Som ett alternativ finns dubbelglasade sidofönster tillgängliga för att minska kabinbuller och förbättra den totala körupplevelsen.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_sportback_55_e-tron/exterior_1_st.jpeg" title="Audi Q8 Sportback 55 e-tron" width="3000" height="2002"  >}}
 
 

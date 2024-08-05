@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 37 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 22 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 4 hours and 18 minutes at home.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/charging_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2250"  >}}
 
 ### Charge port
@@ -112,7 +111,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/exterior_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 
 
@@ -149,7 +147,6 @@ The following functionalities are available on the **Sport Plus** seat.
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/frontseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 
 #### Second-row seat
@@ -159,7 +156,6 @@ The following functionalities are available on the **Sport Plus** seat.
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/secondrowseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 
@@ -248,7 +244,6 @@ Additionally, you have two options for taillights:
 - Standard Taillights use LED technology, ensuring visibility and efficiency.
 - Optional Taillights: These feature OLED technology, offering enhanced lighting performance and a distinctive look.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2250"  >}}
 
 ## Advanced driver assistance systems
@@ -306,7 +301,6 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 The cargo capacity in the trunk is 514 liters. With the rear seat down, it is 1517 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 27 liters (1.0 CU FT). The maxium weight of the car is 2750 kg (6063 lbs), and with the base weight of 2175 kg (4795 lbs), you can max load 575 kg (1268 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2400, and on unbraked, it is 750 kg (5291/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 

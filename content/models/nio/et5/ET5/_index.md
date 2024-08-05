@@ -105,7 +105,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There is only one roof for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 
-
 {{< sitefiguresized thumb="models/nio/et5/et5/exterior_1_st.jpg" title="Nio ET5" width="1920" height="1104"  >}}
 
 
@@ -182,7 +181,6 @@ Key screen details:
 - The touch screen in the middle of the center console is 12.3 inches large
 
 The model does not have a head-up display.
-
 
 {{< sitefiguresized thumb="models/nio/et5/et5/screens_1_st.jpg" title="Nio ET5" width="3000" height="1690"  >}}
 

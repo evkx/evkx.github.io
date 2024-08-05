@@ -87,7 +87,6 @@ Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [bakluck
 
 Det finns bara ett tak för denna modell. Vindrutan är en panoramavy bakåt över första raden. Dessutom finns det en glaspanel över andra raden. Detta glas gör att bilens interiör känns rymligare och ljus, vilket kan förbättra humöret och komforten för den åkande. Glaset är tonat för att skydda mot värme från solen.
 
-
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/exterior_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="1945"  >}}
 
 
@@ -119,7 +118,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/frontseats_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="2248"  >}}
 
 #### Säten på andra raden
@@ -129,7 +127,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/secondrowseats_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="2077"  >}}
 
@@ -172,7 +169,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/screens_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="1999"  >}}
 
 ## Infotainment
@@ -196,7 +192,6 @@ Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/headlights_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="2001"  >}}
 
@@ -237,7 +232,6 @@ Med ADAS  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten i bagageutrymmet är 456 liter. Med baksätet nedfällt är det 627 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 283 liter. Bilens maximala vikt är 2850 kg, och med basvikten på 2360 kg kan du lasta maximalt 490 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/trunk_1_st.jpg" title="Lucid Air Dream Edition Performance" width="2000" height="1334"  >}}
 <div class="mt-3 mb-3">

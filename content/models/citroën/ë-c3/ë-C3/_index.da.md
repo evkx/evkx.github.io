@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 7,4 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 5 timer og 56 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/charging_1_st.jpg" title="Citroën ë-C3" width="2894" height="2170"  >}}
 
 ### Ladeport
@@ -93,7 +92,6 @@ Der er kun ét tag til denne model.
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/exterior_1_st.jpg" title="Citroën ë-C3" width="3000" height="2000"  >}}
 
 
@@ -121,7 +119,6 @@ Følgende funktioner er tilgængelige på **Advanced Comfort** sædet.
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - Black/Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/frontseats_1_st.jpg" title="Citroën ë-C3" width="3000" height="1759"  >}}
 
 #### Sæder på anden række
@@ -143,7 +140,6 @@ Følgende funktioner er tilgængelige på **Advanced Comfort** sædet.
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - Black/Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}
 
@@ -181,7 +177,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/screens_1_st.jpg" title="Citroën ë-C3" width="3000" height="2007"  >}}
 
 
@@ -212,7 +207,6 @@ Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderl
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/headlights_1_st.jpg" title="Citroën ë-C3" width="2894" height="2170"  >}}
 
@@ -248,7 +242,6 @@ Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), én
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 310 liter. Med bagsædet nede er det 1200 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 1910 kg (4211 lbs), og med basisvægten på 1416 kg (3122 lbs), kan du maksimalt laste 494 kg (1089 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/trunk_1_st.jpg" title="Citroën ë-C3" width="3000" height="1999"  >}}
 

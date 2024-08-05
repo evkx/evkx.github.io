@@ -84,7 +84,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 
 There is only one roof for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
-
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/exterior_1_st.jpg" title="Fisker Ocean Ultra" width="3000" height="1635"  >}}
 
 
@@ -114,7 +113,6 @@ You can choose from 4 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Blue [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 - Beige [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/frontseats_2_st.jpg" title="Fisker Ocean Ultra" width="3000" height="1687"  >}}
 
@@ -160,7 +158,6 @@ Key screen details:
 - The touch screen in the middle of the center console is 17.1 inches large
 
 The model does not have a head-up display.
-
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/screens_1_st.jpg" title="Fisker Ocean Ultra" width="1920" height="1080"  >}}
 

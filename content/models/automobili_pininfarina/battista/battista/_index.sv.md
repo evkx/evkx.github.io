@@ -97,7 +97,6 @@ Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på
 
 Det finns bara ett tak för denna modell.
 
-
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/exterior_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="2004"  >}}
 
 
@@ -158,7 +157,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/screens_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="1977"  >}}
 
 ## Infotainment
@@ -183,7 +181,6 @@ En typ av ljudsystem är tillgänglig för Automobili Pininfarina Battista.
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/headlights_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="1999"  >}}
 

@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 2 hours and 49 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/charging_1_st.jpg" title="Smart #3 Brabus" width="3000" height="1687"  >}}
 
 ### Charge port
@@ -82,7 +81,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
-
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/exterior_1_st.jpg" title="Smart #3 Brabus" width="3000" height="2250"  >}}
 
 
@@ -108,7 +106,6 @@ The following functionalities are available on the **** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 - White/Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/frontseats_1_st.jpg" title="Smart #3 Brabus" width="1536" height="864"  >}}
 
@@ -155,7 +152,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/screens_1_st.jpg" title="Smart #3 Brabus" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -181,7 +177,6 @@ You can choose between two types of headlights for the Smart #3 Brabus.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/smart/hash3/hash3_brabus/headlights_1_st.jpg" title="Smart #3 Brabus" width="3000" height="2000"  >}}
 

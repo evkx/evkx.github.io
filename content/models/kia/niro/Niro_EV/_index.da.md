@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 5 timer og 53 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/charging_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -89,7 +88,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/exterior_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
 
@@ -133,7 +131,6 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
-
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/secondrowseats_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
 
@@ -169,7 +166,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i højre del af den delte ramme er 10,3 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/screens_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
@@ -240,7 +236,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 475 liter. Med bagsædet nede er det 1392 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 20 liter (0,7 CU FT). Bilens maksimale vægt er 220 kg (485 lbs), og med basisvægten på 1557 kg (3433 lbs), kan du maksimalt laste -1337 kg (-2948 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 300 kg (1653/661 lbs).
-
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/trunk_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

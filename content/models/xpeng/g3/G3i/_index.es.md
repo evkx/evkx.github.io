@@ -81,7 +81,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [ta
 
 Sólo hay un techo para este modelo.
 
-
 {{< sitefiguresized thumb="models/xpeng/g3/g3i/exterior_1_st.jpeg" title="XPENG G3i" width="3000" height="1686"  >}}
 
 

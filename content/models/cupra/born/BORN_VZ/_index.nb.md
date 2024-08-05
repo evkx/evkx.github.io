@@ -89,7 +89,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/cupra/born/born_vz/exterior_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="1766"  >}}
 
 
@@ -117,7 +116,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
-
 
 {{< sitefiguresized thumb="models/cupra/born/born_vz/frontseats_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="2191"  >}}
 
@@ -162,7 +160,6 @@ Viktige skjermdetaljer:
 - touch-skjermen i dashbordets sentrum er 12,9 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/cupra/born/born_vz/screens_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="1717"  >}}
 

@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 6 timer og 45 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/charging_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2249"  >}}
 
 ### Ladeport
@@ -81,7 +80,6 @@ Du kan velge mellom flere hjuldesign, alle tilgjengelige i samme størrelse, på
 
 Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne modellen med stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lysere, noe som kan forbedre humøret og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/exterior_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}
 
 
@@ -107,7 +105,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/frontseats_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
@@ -115,7 +112,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/secondrowseats_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}
 
@@ -153,7 +149,6 @@ Viktige skjermdetaljer:
 
 Modellen er ikke tilgjengelig med head-up display.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/screens_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}
 
 
@@ -184,7 +179,6 @@ Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/headlights_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2000"  >}}
 
 ## Avanserte førerassistentsystemer
@@ -214,7 +208,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 Lastkapasiteten i bagasjerommet er 363 liter. Med baksetet nede er det 1165 liter. Maksimumsvekten til bilen er 2209 kg, og med basisvekten på 1823 kg kan du maksimalt laste 386 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 500, og på ubremset er den 500 kg.
-
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/trunk_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

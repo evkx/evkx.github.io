@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 0 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/charging_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
 ### Puerto de carga
@@ -90,7 +89,6 @@ El automóvil tiene dos [puertas normales](../../../../technology/doors/) en la 
 Sólo hay un techo para este modelo. El estándar es simplemente un techo normal.
 
 Las ventanas del pilar B y la parte trasera están tintadas.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/exterior_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
@@ -140,7 +138,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Orange [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Blue [tapizado de tela](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/frontseats_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
@@ -148,7 +145,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
@@ -188,7 +184,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en el centro del tablero mide 12,0 pulgadas de tamaño
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/screens_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
@@ -267,7 +262,6 @@ Con el sistema Assistantpackage plus  nivel 2, obtienes funciones de automatizac
 La capacidad de carga en el maletero es de 1121 litros. Con el asiento trasero abatido, es de 2205 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). El peso máximo del automóvil es 3000 kg (6614 lbs), y con el peso base de 2416 kg (5326 lbs), puedes cargar como máximo 584 kg (1287 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1000, y sin freno, es de 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/trunk_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

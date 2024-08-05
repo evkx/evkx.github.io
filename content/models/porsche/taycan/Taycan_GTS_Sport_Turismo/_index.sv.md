@@ -95,7 +95,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 
 Det finns tre olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra humöret och komforten för den åkande. Glaset har en elektrokrom funktion som gör att du kan blanda glaset för att skydda mot solen.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
 
 
@@ -151,7 +150,6 @@ Följande funktioner är tillgängliga på **Sportsseats Plus** sätet.
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/frontseats_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
@@ -165,7 +163,6 @@ Alternativet standard är två integrerade säten i andra raden. Dessutom är f�
 Alternativet second är två integrerade säten i andra raden med en tredje mindre säte emellan. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="1991"  >}}
 
@@ -205,7 +202,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch framför passageraren i instrumentbrädan är 10,9 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/screens_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
 
@@ -283,7 +279,6 @@ Med Porsche InnoDrive  nivå 2-systemet får du fler körautomatiseringsfunktion
 Lastkapaciteten i bagageutrymmet är 446 liter. Med baksätet nedfällt är det 1212 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2875 kg, och med basvikten på 2310 kg kan du lasta maximalt 565 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_gts_sport_turismo/trunk_1_st.jpg" title="Porsche Taycan GTS Sport Turismo" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

@@ -89,7 +89,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/exterior_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
 
@@ -114,7 +113,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/frontseats_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
@@ -172,7 +170,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/screens_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -203,7 +200,6 @@ Du kan velge mellom to typer frontlykter for Volkswagen ID.3 GTX.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/headlights_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 

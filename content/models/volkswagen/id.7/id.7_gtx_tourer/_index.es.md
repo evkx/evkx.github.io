@@ -89,7 +89,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/exterior_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
 
@@ -131,7 +130,6 @@ Las siguientes funcionalidades están disponibles en el asiento **ergoActive Top
 - [masaje](../../../../technology/seats/adjustment/#massage)
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/frontseats_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
@@ -178,7 +176,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/screens_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
 ## Infoentretenimiento
@@ -206,7 +203,6 @@ El modelo tiene 4 conexiones USB-C de serie.
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/headlights_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
@@ -257,7 +253,6 @@ Con el sistema Assistantpackage plus  nivel 2, obtienes funciones de automatizac
 La capacidad de carga en el maletero es de 605 litros. Con el asiento trasero abatido, es de 1714 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2630 kg (5798 lbs), y con el peso base de 2197 kg (4844 lbs), puedes cargar como máximo 433 kg (955 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1000, y sin freno, es de 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/trunk_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 

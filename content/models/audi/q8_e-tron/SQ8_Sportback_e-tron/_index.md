@@ -105,7 +105,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers. As an option, double-glazed side windows are available to reduce cabin noise, enhancing the overall driving experience.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/exterior_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="2250"  >}}
 
 
@@ -166,7 +165,6 @@ The following functionalities are available on the **multicontour** seat.
 
 You can choose from 4 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/frontseats_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="2249"  >}}
 
 #### Second-row seat
@@ -216,7 +214,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/screens_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="2249"  >}}
 
 ## Infotainment
@@ -248,7 +245,6 @@ You can choose between three types of headlights for the Audi SQ8 Sportback e-tr
 - The optional LED Digital Matrix works as LED Matrix but in addition The new digital lighting system offers features that make driving easier and more secure. One major advantage is the lane and orientation lighting for highways, in which the headlights emit a carpet of light up to 50 meters long. It brightly illuminates the driver’s current lane and adjusts dynamically during lane changes. Dark spots — areas, where the lighting is dimmed — show where the car is positioned in the lane.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/headlights_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="1999"  >}}
 
@@ -306,7 +302,6 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 The cargo capacity in the trunk is 660 liters. With the rear seat down, it is 1725 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 3290 kg (7253 lbs), and with the base weight of 2765 kg (6096 lbs), you can max load 525 kg (1157 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/trunk_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="2249"  >}}
 

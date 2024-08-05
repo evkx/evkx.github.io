@@ -80,7 +80,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [por
 
 Sólo hay un techo para este modelo. El techo estándar tiene 4 paneles de vidrio separados que se pueden quitar, lo que lo convierte en un convertible.
 
-
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2000"  >}}
 
 
@@ -155,7 +154,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en el centro del tablero mide 13,4 pulgadas de tamaño
 
 El modelo no tiene head-up display.
-
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2001"  >}}
 

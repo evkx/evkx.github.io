@@ -90,7 +90,6 @@ Sólo hay un techo para este modelo.
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/opel/frontera/exterior_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
 
 
@@ -173,7 +172,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/opel/frontera/screens_1_st.jpg" title="Opel Frontera" width="3000" height="1875"  >}}
 
 
@@ -204,7 +202,6 @@ El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 cone
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/opel/frontera/headlights_1_st.jpg" title="Opel Frontera" width="3000" height="1687"  >}}
 
@@ -240,7 +237,6 @@ Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), 
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en el maletero es de 460 litros. Con el asiento trasero abatido, es de 1594 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2030 kg (4475 lbs), y con el peso base de 1439 kg (3172 lbs), puedes cargar como máximo 591 kg (1303 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
-
 
 {{< sitefiguresized thumb="models/opel/frontera/trunk_1_st.jpg" title="Opel Frontera" width="3000" height="2000"  >}}
 

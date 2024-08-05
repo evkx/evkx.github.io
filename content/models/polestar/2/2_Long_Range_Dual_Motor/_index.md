@@ -84,7 +84,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 
 There are two different roof options to select from. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
-
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/exteriore_3_st.jpg" title="Polestar 2 Long Range Dual Motor" width="2953" height="2215"  >}}
 
 
@@ -116,7 +115,6 @@ You can choose from 5 different materials/colors for this seat type.
 - Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [leather upholstering](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/frontseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor" width="3000" height="1687"  >}}
 
 #### Second-row seat
@@ -126,7 +124,6 @@ You can choose from 5 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/secondrowseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor" width="3000" height="2250"  >}}
 
@@ -166,7 +163,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/screens_1_st.jpg" title="Polestar 2 Long Range Dual Motor" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -189,7 +185,6 @@ You can choose between two types of headlights for the Polestar 2 Long Range Dua
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor/headlights_1_st.jpg" title="Polestar 2 Long Range Dual Motor" width="3000" height="1766"  >}}
 

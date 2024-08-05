@@ -81,7 +81,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap
 
 Der er kun ét tag til denne model.
 
-
 {{< sitefiguresized thumb="models/xpeng/g3/g3i/exterior_1_st.jpeg" title="XPENG G3i" width="3000" height="1686"  >}}
 
 

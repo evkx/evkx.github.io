@@ -79,7 +79,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are two different roof options to select from. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun. As an option, you can order this model with a panoramic roof that can be opened. The glass has two panels. One over the first and the second rows, and occupants can open the front part. It has an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/exterior_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="1928"  >}}
 
 
@@ -108,7 +107,6 @@ The following functionalities are available on the **** seat.
 You can choose from 2 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
 
@@ -154,7 +152,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/screens_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
 
 
@@ -184,7 +181,6 @@ The model has 5 USB-C connections as standard.
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/headlights_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
 
@@ -223,7 +219,6 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 863 liters. With the rear seat down, it is 1676 liters.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1588, and on unbraked, it is 750 kg (3501/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/trunk_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

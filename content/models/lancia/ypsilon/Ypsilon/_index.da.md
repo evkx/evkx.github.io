@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 4 timer og 37 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/charging_1_st.jpg" title="Lancia Ypsilon" width="3000" height="2250"  >}}
 
 ### Ladeport
@@ -84,7 +83,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/exterior_1_st.jpg" title="Lancia Ypsilon" width="3000" height="1688"  >}}
 
 
@@ -116,7 +114,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 - Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/frontseats_1_st.jpg" title="Lancia Ypsilon" width="3000" height="1688"  >}}
 
 #### Sæde på anden række
@@ -126,7 +123,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
-
 
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/secondrowseats_1_st.jpg" title="Lancia Ypsilon" width="3000" height="2250"  >}}
 
@@ -164,7 +160,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i højre del af den delte ramme er 10,0 tommer stor
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/screens_1_st.jpg" title="Lancia Ypsilon" width="3000" height="1688"  >}}
 
@@ -225,7 +220,6 @@ Med DS Drive Assist  niveau 1-systemet får du følgende køreautomatiseringsfun
 Lagekapaciteten i bagagerummet er 352 liter. Med bagsædet nede er det 1268 liter. På taget kan du laste op til 70 kg (154,3 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Bilens maksimale vægt er 1950 kg (4299 lbs), og med basisvægten på 1584 kg (3492 lbs), kan du maksimalt laste 366 kg (807 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/trunk_1_st.jpg" title="Lancia Ypsilon" width="3000" height="2250"  >}}
 

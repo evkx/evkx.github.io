@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 54 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/charging_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1666"  >}}
 
 ### Laddningsport
@@ -89,7 +88,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/exterior_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1958"  >}}
 
 
@@ -132,7 +130,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/secondrowseats_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 
@@ -177,7 +174,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/screens_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -208,7 +204,6 @@ Du kan välja mellan två typer av strålkastare för Peugot E-5008 Long Range.
 - Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/headlights_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="2000"  >}}
 
@@ -254,7 +249,6 @@ Upp till tre [radarsensorer](../../../../technology/sensorsandcameras/radar/), f
 Lastkapaciteten i bagageutrymmet är 300 liter. Med baksätet nedfällt är det 1815 liter. På taket kan du lasta upp till 80 kg. Bilens maximala vikt är 2640 kg, och med basvikten på 2225 kg kan du lasta maximalt 415 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 415 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1000, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/trunk_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 

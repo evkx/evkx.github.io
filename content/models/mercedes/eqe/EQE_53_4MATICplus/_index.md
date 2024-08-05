@@ -46,7 +46,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 7 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/charging_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="2002"  >}}
 
 ### Charge port
@@ -143,7 +142,6 @@ The following functionalities are available on the **multicontour** seat.
 
 You can choose from 5 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/frontseats_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -154,7 +152,6 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/secondrowseats_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="2000"  >}}
 
@@ -207,7 +204,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/screens_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="2000"  >}}
 
 
@@ -243,7 +239,6 @@ You can choose between two types of headlights for the Mercedes-AMG EQE 53 4MATI
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/headlights_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="1738"  >}}
 
@@ -292,7 +287,6 @@ With the Driver Assistance Package Plus  level 2 system, you get additional driv
 The cargo capacity in the trunk is 430 liters. With the rear seat down, it is 895 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 3095 kg (6823 lbs), and with the base weight of 2450 kg (5401 lbs), you can max load 645 kg (1422 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_53_4maticplus/trunk_1_st.jpg" title="Mercedes-AMG EQE 53 4MATIC+" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

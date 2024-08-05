@@ -88,7 +88,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámi
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs_iv_gen1/exterior_1_st.jpg" title="SKODA ENYAQ RS iV (GEN1)" width="3000" height="2001"  >}}
 
 

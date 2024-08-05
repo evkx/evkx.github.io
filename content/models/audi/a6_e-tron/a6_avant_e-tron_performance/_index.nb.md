@@ -109,7 +109,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/exterior_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2250"  >}}
 
 
@@ -145,7 +144,6 @@ Følgende funksjoner er tilgjengelige på **Sport Plus** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massasje](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/frontseats_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
@@ -197,7 +195,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/screens_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
 
@@ -244,7 +241,6 @@ I tillegg kan du velge mellom to typer baklys.
 
 - I tillegg bruker standard baklykter LED-teknologi.
 - I tillegg bruker standard baklykter OLED-teknologi.
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
@@ -303,7 +299,6 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/) , fe
 Lastkapasiteten i bagasjerommet er 502 liter. Med baksetet nede er det 1422 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 27 liter. Maksimumsvekten til bilen er 2760 kg, og med basisvekten på 2185 kg kan du maksimalt laste 575 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2100, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 

@@ -91,7 +91,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir el frente Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Ambos paneles de cristal tienen una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/exterior_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="1999"  >}}
 
 
@@ -149,7 +148,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/secondrowseats_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="2089"  >}}
 
 
@@ -202,7 +200,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/screens_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="1999"  >}}
 
 
@@ -238,7 +235,6 @@ Puedes elegir entre dos tipos de faros para el Mercedes-AMG EQE 43 4MATIC SUV.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/headlights_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="1999"  >}}
 
@@ -287,7 +283,6 @@ Con el sistema Driver Assistance Package Plus  nivel 2, obtienes funciones de au
 La capacidad de carga en el maletero es de 520 litros. Con el asiento trasero abatido, es de 1675 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 3195 kg (7044 lbs), y con el peso base de 2600 kg (5732 lbs), puedes cargar como máximo 595 kg (1312 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1800, y sin freno, es de 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/trunk_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

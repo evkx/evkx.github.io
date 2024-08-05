@@ -81,7 +81,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/peugot/308/e-308_sw/exterior_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
 
 
@@ -113,7 +112,6 @@ You can choose from 4 different materials/colors for this seat type.
 - Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/peugot/308/e-308_sw/frontseats_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -123,7 +121,6 @@ You can choose from 4 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - height adjustable headrest
-
 
 {{< sitefiguresized thumb="models/peugot/308/e-308_sw/secondrowseats_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2000"  >}}
 
@@ -185,7 +182,6 @@ The model has 3 USB-C connections as standard.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/peugot/308/e-308_sw/headlights_1_st.jpg" title="Peugot E-308 SW" width="3000" height="2001"  >}}
 

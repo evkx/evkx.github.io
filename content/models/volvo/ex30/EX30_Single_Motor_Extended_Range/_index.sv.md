@@ -82,7 +82,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchbac
 
 Det finns två olika takalternativ att välja mellan. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
-
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/exterior_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2250"  >}}
 
 
@@ -122,7 +121,6 @@ Den andra raden har en standardbänk med tre sittplatser med en -sektion där du
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
-
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/secondrowseats_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2250"  >}}
 
 
@@ -161,7 +159,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/screens_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2776"  >}}
 
 ## Infotainment
@@ -188,7 +185,6 @@ Du kan välja mellan två typer av strålkastare för Volvo EX30 Single Motor Ex
 - Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/headlights_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2250"  >}}
 
@@ -235,7 +231,6 @@ Med Pilot Assist  nivå 2-systemet får du följande körautomatiseringsfunktion
 Lastkapaciteten i bagageutrymmet är 318 liter. Med baksätet nedfällt är det 904 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 7 liter. Bilens maximala vikt är 2235 kg, och med basvikten på 1755 kg kan du lasta maximalt 480 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1400, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor_extended_range/trunk_1_st.jpg" title="Volvo EX30 Single Motor Extended Range" width="3000" height="2251"  >}}
 <div class="mt-3 mb-3">

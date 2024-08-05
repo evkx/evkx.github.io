@@ -88,7 +88,6 @@ Det er bare ett tak for denne modellen. Standardtaket har en stor panoramautsikt
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/exterior_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="1687"  >}}
 
 
@@ -118,7 +117,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - Gray [stoff-/lærpolstring](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/frontseats_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
 
 #### Seter på andre rad
@@ -128,7 +126,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/secondrowseats_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
 
@@ -169,7 +166,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/screens_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
 
 
@@ -203,7 +199,6 @@ Du kan velge mellom to typer frontlykter for Renault Scenic E-Tech electric.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/headlights_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="1687"  >}}
 
@@ -247,7 +242,6 @@ Med ProPILOT  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner
 Lastkapasiteten i bagasjerommet er 545 liter. Med baksetet nede er det 1490 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2340 kg, og med basisvekten på 1772 kg kan du maksimalt laste 568 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1100, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/trunk_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

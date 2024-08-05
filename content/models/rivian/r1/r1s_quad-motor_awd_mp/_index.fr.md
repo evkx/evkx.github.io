@@ -101,7 +101,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un grand 
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/exterior_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 
@@ -132,7 +131,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Green [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Blue [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/frontseats_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
@@ -187,7 +185,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/screens_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 
@@ -213,7 +210,6 @@ Le modèle dispose de 6 connexions USB-C en standard.
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/headlights_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
@@ -260,7 +256,6 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 La capacité de chargement dans le coffre est de 498 litres. Avec la banquette arrière rabattue, elle est de 2965 litres. Sur le toit, vous pouvez charger jusqu'à 113 kg (249,1 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 314 litres (11,1 CU FT). Le poids maximum de la voiture est de 3870 kg (8532 lbs), et avec le poids de base de 3216 kg (7090 lbs), vous pouvez charger au maximum 654 kg (1442 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 3492, et sur une remorque non freinée, il est de 750 kg (7699/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 

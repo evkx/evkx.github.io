@@ -85,7 +85,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset har två paneler. En ovanför första och andra raden. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humöret och komforten för den åkande. Båda glaspanelerna har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250/exterior_1_st.jpg" title="Mercedes-EQ EQA 250" width="3000" height="2000"  >}}
 
 
@@ -134,7 +133,6 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250/frontseats_1_st.jpg" title="Mercedes-EQ EQA 250" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
@@ -177,7 +175,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch på höger sida av den delade ramen är 10,3 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250/screens_1_st.jpg" title="Mercedes-EQ EQA 250" width="3000" height="2000"  >}}
 

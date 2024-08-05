@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 6 horas y 6 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/charging_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2001"  >}}
 
 ### Puerto de carga
@@ -93,7 +92,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo corredizo. El cristal se extiende sólo sobre la primera fila y los ocupantes pueden abrirlo. Este cristal aporta una sensación de interior al coche. más espacioso y luminoso, lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/exterior_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2255"  >}}
 
@@ -178,7 +176,6 @@ Puedes elegir entre 21 diferentes materiales/colores para este tipo de asiento.
 - Brown [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Blue [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/frontseats_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2121"  >}}
 
@@ -297,7 +294,6 @@ Con el sistema Driving Assistant Professional  nivel 2, obtienes funciones de au
 La capacidad de carga en el maletero es de 470 litros. Con el asiento trasero abatido, es de 1290 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2545 kg (5611 lbs), y con el peso base de 2000 kg (4409 lbs), puedes cargar como máximo 545 kg (1202 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1600, y sin freno, es de 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/trunk_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2121"  >}}
 <div class="mt-3 mb-3">

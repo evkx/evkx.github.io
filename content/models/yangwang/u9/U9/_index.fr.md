@@ -97,7 +97,6 @@ Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la m
 
 Il n'y a qu'un seul toit pour ce modèle.
 
-
 {{< sitefiguresized thumb="models/yangwang/u9/u9/exterior_1_st.jpg" title="YangWang U9" width="3000" height="1562"  >}}
 
 
@@ -158,7 +157,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/yangwang/u9/u9/screens_1_st.jpg" title="YangWang U9" width="1200" height="717"  >}}
 
 ## Infodivertissement
@@ -183,7 +181,6 @@ Un type de système audio est disponible pour le YangWang U9.
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/yangwang/u9/u9/headlights_1_st.jpg" title="YangWang U9" width="3000" height="2250"  >}}
 

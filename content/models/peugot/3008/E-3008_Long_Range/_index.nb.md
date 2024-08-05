@@ -86,7 +86,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/exterior_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="1666"  >}}
 
 
@@ -119,7 +118,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 - Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/frontseats_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="2250"  >}}
 
@@ -167,7 +165,6 @@ Viktige skjermdetaljer:
 
 Modellen er ikke tilgjengelig med head-up display.
 
-
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/screens_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="2167"  >}}
 
 ## Infotainment
@@ -198,7 +195,6 @@ Du kan velge mellom to typer frontlykter for Peugot E-3008 Long Range.
 - Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/headlights_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="2250"  >}}
 

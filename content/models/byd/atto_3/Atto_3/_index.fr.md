@@ -87,7 +87,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit p
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/exterior_1_st.jpg" title="BYD Atto 3" width="1600" height="1137"  >}}
 
 
@@ -119,7 +118,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/frontseats_1_st.jpg" title="BYD Atto 3" width="1600" height="1203"  >}}
 
 #### Siège de deuxième rangée
@@ -127,7 +125,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/secondrowseats_1_st.jpg" title="BYD Atto 3" width="1600" height="1121"  >}}
 
@@ -179,7 +176,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/screens_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
 ## Infodivertissement
@@ -202,7 +198,6 @@ Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 co
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/headlights_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
@@ -246,7 +241,6 @@ Avec le système   niveau 1, vous bénéficiez des fonctionnalités d'automatisa
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement dans le coffre est de 440 litres. Avec la banquette arrière rabattue, elle est de 1338 litres. Sur le toit, vous pouvez charger jusqu'à 50 kg (110,2 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2160 kg (4762 lbs), et avec le poids de base de 1750 kg (3858 lbs), vous pouvez charger au maximum 410 kg (904 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
-
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 <div class="mt-3 mb-3">

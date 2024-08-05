@@ -96,7 +96,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/exterior_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1740"  >}}
 
 
@@ -125,7 +124,6 @@ The following functionalities are available on the **Sport** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/frontseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -136,7 +134,6 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/secondrowseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2213"  >}}
 
@@ -178,7 +175,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/screens_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1845"  >}}
 
 ## Infotainment
@@ -206,7 +202,6 @@ The model has 2 USB-C connections as standard. As an option, you can get additio
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/headlights_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2000"  >}}
 

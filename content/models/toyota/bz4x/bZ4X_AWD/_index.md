@@ -79,7 +79,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/exterior_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
 
@@ -114,7 +113,6 @@ You can choose from 1 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/secondrowseats_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
@@ -162,7 +160,6 @@ Key screen details:
 - The touch screen at the top of the center console is 12.3 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/screens_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
@@ -229,7 +226,6 @@ With the standard system the model offers no driving automation.
 The cargo capacity in the trunk is 452 liters. On the roof, you can load up to 80 kg (176.4 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2530 kg (5578 lbs), and with the base weight of 2015 kg (4442 lbs), you can max load 515 kg (1135 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/trunk_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

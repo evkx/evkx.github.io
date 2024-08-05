@@ -95,7 +95,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Hay tres opciones de techo diferentes para elegir. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande Es espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El cristal tiene una función electrocrómica que permite difuminar el cristal para protegerlo del sol.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4_cross_turismo/exterior_1_st.jpg" title="Porsche Taycan 4 Cross Turismo" width="3000" height="2001"  >}}
 
 
@@ -151,7 +150,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Pl
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4_cross_turismo/frontseats_1_st.jpg" title="Porsche Taycan 4 Cross Turismo" width="3000" height="1687"  >}}
 
 #### Asientos de la segunda fila
@@ -165,7 +163,6 @@ La opción standard son dos asientos integrados en la segunda fila. Además, las
 La opción second son dos asientos integrados en la segunda fila con un tercer asiento más pequeño en el medio. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4_cross_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan 4 Cross Turismo" width="3000" height="2250"  >}}
 
@@ -206,7 +203,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4_cross_turismo/screens_1_st.jpg" title="Porsche Taycan 4 Cross Turismo" width="3000" height="1854"  >}}
 
 ## Infoentretenimiento
@@ -236,7 +232,6 @@ Puedes elegir entre dos tipos de faros para el Porsche Taycan 4 Cross Turismo.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4_cross_turismo/headlights_1_st.jpg" title="Porsche Taycan 4 Cross Turismo" width="3000" height="2000"  >}}
 
@@ -289,7 +284,6 @@ Con el sistema Porsche InnoDrive  nivel 2, obtienes funciones de automatización
 La capacidad de carga en el maletero es de 446 litros. Con el asiento trasero abatido, es de 1171 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2885 kg (6360 lbs), y con el peso base de 2245 kg (4949 lbs), puedes cargar como máximo 640 kg (1411 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4_cross_turismo/trunk_1_st.jpg" title="Porsche Taycan 4 Cross Turismo" width="3000" height="1449"  >}}
 <div class="mt-3 mb-3">

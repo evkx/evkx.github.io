@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 4 timer og 37 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/charging_1_st.jpg" title="DS 3 E-Tense" width="3000" height="1970"  >}}
 
 ### Ladeport
@@ -86,7 +85,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 Der er kun ét tag til denne model.
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
-
 
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/exterior_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
@@ -157,7 +155,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/screens_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -182,7 +179,6 @@ Yderligere understøtter DS 3 E-Tense Android Auto og Apple CarPlay. Denne funkt
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/headlights_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
@@ -212,7 +208,6 @@ Med DS Drive Assist  niveau 1-systemet får du følgende køreautomatiseringsfun
 Lagekapaciteten i bagagerummet er 350 liter. Med bagsædet nede er det 1050 liter. Bilens maksimale vægt er 2008 kg (4427 lbs), og med basisvægten på 1550 kg (3417 lbs), kan du maksimalt laste 458 kg (1010 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/trunk_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 49 minutos usando un cargador en casa. Para una carga más rápida, puedes optar por un cargador a bordo opcional que soporta hasta 22 kW. Con esta mejora, puedes lograr una carga completa del 0 al 100% en solo unas 4 horas y 24 minutos en casa.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/charging_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
 ### Puerto de carga
@@ -106,7 +105,6 @@ Hay dos opciones de techo diferentes para elegir El techo estándar incluye un g
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros. Como opción, están disponibles ventanas laterales de doble acristalamiento para reducir el ruido en la cabina, mejorando la experiencia de conducción en general
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/exterior_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
 
@@ -161,7 +159,6 @@ Las siguientes funcionalidades están disponibles en el asiento **sport pro**.
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/frontseats_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
@@ -230,7 +227,6 @@ Puedes elegir entre tres tipos de faros para el Audi S e-tron GT.
 
 Además, las luces traseras estándar utilizan tecnología LED.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/headlights_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
 ## Sistemas avanzados de asistencia al conductor
@@ -282,7 +278,6 @@ Con el sistema Assistantpackage Tour  nivel 2, obtienes funciones de automatizac
 La capacidad de carga en el maletero es de 405 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 85 litros (3,0 CU FT). El peso máximo del automóvil es 2860 kg (6305 lbs), y con el peso base de 2340 kg (5159 lbs), puedes cargar como máximo 520 kg (1146 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/trunk_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2249"  >}}
 

@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 21 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/charging_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1736"  >}}
 
 ### Port de recharge
@@ -85,7 +84,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliore l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/exterior_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1642"  >}}
 
 
@@ -114,7 +112,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1999"  >}}
 
 #### Siège de deuxième rangée
@@ -124,7 +121,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
-
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/secondrowseats_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="2250"  >}}
 
@@ -164,7 +160,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/screens_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="2000"  >}}
 
 ## Infodivertissement
@@ -191,7 +186,6 @@ Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 co
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/headlights_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1999"  >}}
 
@@ -239,7 +233,6 @@ Avec le système Ford BlueCruise  niveau 2, vous bénéficiez des fonctionnalit�
 La capacité de chargement dans le coffre est de 402 litres. Avec la banquette arrière rabattue, elle est de 1420 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 100 litres (3,5 CU FT). Le poids maximum de la voiture est de 2605 kg (5743 lbs), et avec le poids de base de 2085 kg (4597 lbs), vous pouvez charger au maximum 520 kg (1146 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 750, et sur une remorque non freinée, il est de 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/trunk_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1721"  >}}
 <div class="mt-3 mb-3">

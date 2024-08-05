@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 6 timmar och 43 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/charging_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 ### Laddningsport
@@ -85,7 +84,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett taklucka. Glaset
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/exterior_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 
@@ -114,7 +112,6 @@ Följande funktioner är tillgängliga på **** sätet.
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/frontseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 #### Säten på andra raden
@@ -124,7 +121,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/secondrowseats_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
@@ -162,7 +158,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/screens_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
 ## Infotainment
@@ -190,7 +185,6 @@ Modellen har 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/headlights_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 
@@ -235,7 +229,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten i bagageutrymmet är 480 liter. Med baksätet nedfällt är det 1260 liter. På taket kan du lasta upp till 80 kg. Takräcke är standard på denna modell, vilket gör det enkelt att montera takboxen eller räcket på bilen. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 20 liter. Bilens maximala vikt är 2610 kg, och med basvikten på 2125 kg kan du lasta maximalt 485 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 485 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1600, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_gt/trunk_1_st.jpg" title="Kia EV6 GT" width="1920" height="1080"  >}}
 <div class="mt-3 mb-3">

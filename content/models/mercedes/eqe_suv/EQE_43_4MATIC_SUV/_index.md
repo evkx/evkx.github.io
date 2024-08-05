@@ -97,7 +97,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/exterior_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="1999"  >}}
 
 
@@ -155,7 +154,6 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/secondrowseats_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="2089"  >}}
 
 
@@ -208,7 +206,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/screens_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="1999"  >}}
 
 
@@ -244,7 +241,6 @@ You can choose between two types of headlights for the Mercedes-AMG EQE 43 4MATI
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/headlights_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="1999"  >}}
 
@@ -293,7 +289,6 @@ With the Driver Assistance Package Plus  level 2 system, you get additional driv
 The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1675 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 3195 kg (7044 lbs), and with the base weight of 2600 kg (5732 lbs), you can max load 595 kg (1312 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/trunk_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

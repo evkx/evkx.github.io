@@ -87,7 +87,6 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/exterior_1_st.jpg" title="BYD Atto 3" width="1600" height="1137"  >}}
 
 
@@ -119,7 +118,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/frontseats_1_st.jpg" title="BYD Atto 3" width="1600" height="1203"  >}}
 
 #### Seter på andre rad
@@ -127,7 +125,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/secondrowseats_1_st.jpg" title="BYD Atto 3" width="1600" height="1121"  >}}
 
@@ -179,7 +176,6 @@ Viktige skjermdetaljer:
 
 Modellen er ikke tilgjengelig med head-up display.
 
-
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/screens_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
 ## Infotainment
@@ -202,7 +198,6 @@ Modellen har 2 USB-C-tilkoblinger som standard. Modellen har 2 USB-A-tilkoblinge
 Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/headlights_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 
@@ -246,7 +241,6 @@ Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 440 liter. Med baksetet nede er det 1338 liter. På taket kan du laste opptil 50 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2160 kg, og med basisvekten på 1750 kg kan du maksimalt laste 410 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
-
 
 {{< sitefiguresized thumb="models/byd/atto_3/atto_3/trunk_1_st.jpg" title="BYD Atto 3" width="1600" height="1067"  >}}
 <div class="mt-3 mb-3">

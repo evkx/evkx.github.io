@@ -84,7 +84,6 @@ Det finns bara ett tak för denna modell.
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/exterior_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="2000"  >}}
 
 
@@ -176,7 +175,6 @@ En typ av ljudsystem är tillgänglig för Citroën ë-C4 X.
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/headlights_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="1999"  >}}
 

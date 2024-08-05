@@ -89,7 +89,6 @@ Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panora
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/exterior_1_st.jpg" title="Xiaomi SU7 Pro" width="2880" height="2160"  >}}
 
 
@@ -119,7 +118,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 - Gray [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 - Purple [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/frontseats_1_st.jpg" title="Xiaomi SU7 Pro" width="1760" height="1000"  >}}
 
 #### Seter på andre rad
@@ -130,7 +128,6 @@ Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hv
 
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/secondrowseats_1_st.jpg" title="Xiaomi SU7 Pro" width="1760" height="1080"  >}}
 
@@ -166,7 +163,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/screens_1_st.jpg" title="Xiaomi SU7 Pro" width="2560" height="1440"  >}}
 
 ## Infotainment
@@ -186,7 +182,6 @@ Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/headlights_1_st.jpg" title="Xiaomi SU7 Pro" width="2880" height="2160"  >}}
 

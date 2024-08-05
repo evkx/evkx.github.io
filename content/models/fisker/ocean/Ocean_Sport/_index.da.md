@@ -84,7 +84,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 
 Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramaglastag, der strækker sig fra front til bag, hvilket forbedrer interiørets rummelige og lyse følelse og derved forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen.
 
-
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/exterior_5_st.jpg" title="Fisker Ocean Sport" width="3000" height="2250"  >}}
 
 
@@ -115,7 +114,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Blue [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 - Beige [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/frontseats_2_st.jpg" title="Fisker Ocean Sport" width="3000" height="1687"  >}}
 
@@ -161,7 +159,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i midten af midterkonsollen er 17,1 tommer stor
 
 Modellen har ikke et head-up display.
-
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/screens_1_st.jpg" title="Fisker Ocean Sport" width="1920" height="1080"  >}}
 

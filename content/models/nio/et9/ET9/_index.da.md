@@ -89,7 +89,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramaglastag, der strækker sig fra front til bag, hvilket forbedrer interiørets rummelige og lyse følelse og derved forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen.
 
-
 {{< sitefiguresized thumb="models/nio/et9/et9/exterior_1_st.jpg" title="Nio ET9" width="1680" height="1000"  >}}
 
 
@@ -121,7 +120,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/nio/et9/et9/frontseats_1_st.jpg" title="Nio ET9" width="1170" height="759"  >}}
 
 #### Sæde på anden række
@@ -136,7 +134,6 @@ For anden række har denne model to [executive-sæder](../../../../technology/se
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 - [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest)
-
 
 {{< sitefiguresized thumb="models/nio/et9/et9/secondrowseats_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
 
@@ -195,7 +192,6 @@ Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelse
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/nio/et9/et9/headlights_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
 

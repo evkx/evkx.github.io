@@ -91,7 +91,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/exterior_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
 
 
@@ -181,7 +180,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/screens_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -212,7 +210,6 @@ You can choose between two types of headlights for the BMW iX1 eDrive20.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/headlights_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
 

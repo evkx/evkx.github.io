@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 22 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 2 heures et 49 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1/charging_1_st.jpg" title="Smart #1" width="2000" height="1500"  >}}
 
 ### Port de recharge
@@ -84,7 +83,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant vers l'arrière. Cette vitre rend l'intérieur de la voiture plus agréable. spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1/exterior_2_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 
 
@@ -111,7 +109,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 - White/Blue [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1/frontseats_1_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 
 #### Siège de deuxième rangée
@@ -121,7 +118,6 @@ Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/secondrowseats_1_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 
@@ -161,7 +157,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1/screens_1_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 
 ## Infodivertissement
@@ -187,7 +182,6 @@ Vous pouvez choisir entre deux types de phares pour le Smart #1.
 - Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/headlights_1_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 
@@ -234,7 +228,6 @@ Avec le système Pilot Assist  niveau 2, vous bénéficiez des fonctionnalités 
 La capacité de chargement dans le coffre est de 313 litres. Avec la banquette arrière rabattue, elle est de 976 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 15 litres (0,5 CU FT). Le poids maximum de la voiture est de 2213 kg (4879 lbs), et avec le poids de base de 1788 kg (3942 lbs), vous pouvez charger au maximum 425 kg (937 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1600, et sur une remorque non freinée, il est de 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1/trunk_3_st.jpg" title="Smart #1" width="3000" height="2250"  >}}
 

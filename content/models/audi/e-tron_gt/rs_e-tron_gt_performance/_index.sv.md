@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 49 minuter med en hemmaladdare. För snabbare laddning kan du välja en valfri ombordladdare som stöder upp till 22 kW. Med denna uppgradering kan du uppnå en full laddning från 0 till 100% på bara cirka 4 timmar och 24 minuter hemma.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/charging_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
 ### Laddningsport
@@ -104,7 +103,6 @@ Det finns tre olika takalternativ att välja mellan. tandardtaket inkluderar ett
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna. Som ett alternativ finns dubbelglasade sidofönster tillgängliga för att minska kabinbuller och förbättra den totala körupplevelsen.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/exterior_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
 
@@ -160,7 +158,6 @@ Följande funktioner är tillgängliga på **sport pro** sätet.
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/frontseats_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
 
@@ -200,7 +197,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/screens_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -230,7 +226,6 @@ Du kan välja mellan tre typer av strålkastare för Audi RS e-tron GT performan
 - Strålkastare baserade på LED Matrix med laserteknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkla ljusstrålen i dussintals mindre strålar som ljusregulatorn kan slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/headlights_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2249"  >}}
 

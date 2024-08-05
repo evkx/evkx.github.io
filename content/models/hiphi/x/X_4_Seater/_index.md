@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 49 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/charging_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -87,7 +86,6 @@ The car has two [regular doors](../../../../technology/doors/) in front, a uniqu
 There is only one roof for this model. The standard roof has a panoramic glass over first row in addition to the roof part of the gullving doors have glass. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant.
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
-
 
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/exterior_1_st.jpg" title="HiPhi X 4 Seater" width="1959" height="1102"  >}}
 
@@ -171,7 +169,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/screens_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 
 
@@ -198,7 +195,6 @@ The model has 3 USB-C connections as standard. The model has 3 USB-A connections
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/headlights_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 
@@ -244,7 +240,6 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 204 liters. With the third-row seat down, it is 587 liters.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/trunk_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

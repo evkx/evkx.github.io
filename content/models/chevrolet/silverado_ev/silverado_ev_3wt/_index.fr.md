@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 17 heures et 16 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/charging_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
 ### Port de recharge
@@ -84,7 +83,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il n'y a qu'un seul toit pour ce modèle.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/exterior_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
 
@@ -112,7 +110,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/frontseats_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2002"  >}}
 
 #### Siège de deuxième rangée
@@ -123,7 +120,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
@@ -163,7 +159,6 @@ Détails clés de l'écran :
 - L'écran touch au centre du tableau de bord mesure 11,0 pouces
 
 Le modèle n'a pas d'affichage tête haute.
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/screens_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
@@ -222,7 +217,6 @@ Avec le système Super Cruise  niveau 1, vous bénéficiez des fonctionnalités 
 La capacité de chargement dans la caisse du camion est de 1039 litres. La largeur de la caisse est de 1286 mm et la longueur est de 1803 mm. Le poids de charge maximal dans la caisse est de 614 kg. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 303 litres (10,7 CU FT). Le poids maximum de la voiture est de 4531 kg (9989 lbs), et avec le poids de base de 3723 kg (8208 lbs), vous pouvez charger au maximum 808 kg (1781 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 5670, et sur une remorque non freinée, il est de 750 kg (12500/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/trunk_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 

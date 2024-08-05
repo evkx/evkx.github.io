@@ -87,7 +87,6 @@ There is only one roof for this model. The standard roof includes a large panora
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/exterior_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
 
 
@@ -115,7 +114,6 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 3 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/frontseats_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -125,7 +123,6 @@ You can choose from 3 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - height adjustable headrest
-
 
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/secondrowseats_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
 
@@ -166,7 +163,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/screens_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -193,7 +189,6 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/byd/seal/seal_awd/headlights_1_st.jpg" title="BYD Seal AWD" width="3000" height="2000"  >}}
 

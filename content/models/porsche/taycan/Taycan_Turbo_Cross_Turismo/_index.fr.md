@@ -97,7 +97,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe trois options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Cette vitre rend l'intérieur de la voiture plus agréable. spacieux et lumineux, ce qui peut améliorer l'ambiance et le confort de l'occupant. Le verre a une fonction électrochrome qui permet de mélanger le verre pour se protéger du soleil.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/exterior_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1688"  >}}
 
 
@@ -153,7 +152,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1688"  >}}
 
 #### Sièges de deuxième rangée
@@ -167,7 +165,6 @@ L'option standard consiste en deux sièges intégrés dans la deuxième rangée.
 L'option second consiste en deux sièges intégrés dans la deuxième rangée avec un troisième siège plus petit entre les deux. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1688"  >}}
 
@@ -208,7 +205,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1688"  >}}
 
 ## Infodivertissement
@@ -235,7 +231,6 @@ Vous pouvez choisir entre trois systèmes audio sur le Porsche Taycan Turbo Cros
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_cross_turismo/headlights_1_st.jpg" title="Porsche Taycan Turbo Cross Turismo" width="3000" height="1688"  >}}
 

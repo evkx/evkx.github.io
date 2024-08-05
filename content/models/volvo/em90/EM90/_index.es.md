@@ -84,7 +84,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/volvo/em90/em90/exterior_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 
 
@@ -118,7 +117,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/volvo/em90/em90/frontseats_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
 #### Asiento de segunda fila
@@ -131,7 +129,6 @@ Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las s
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
-
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/secondrowseats_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 
@@ -177,7 +174,6 @@ Detalles clave de la pantalla:
 Para los pasajeros de los asientos traseros, hay una pantalla de infoentretenimiento en el techo, detrás de los asientos de la primera fila.
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/volvo/em90/em90/screens_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
 
@@ -207,7 +203,6 @@ El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/headlights_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 

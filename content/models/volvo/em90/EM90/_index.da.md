@@ -84,7 +84,6 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/volvo/em90/em90/exterior_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 
 
@@ -118,7 +117,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 - Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [læderpolstring](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/volvo/em90/em90/frontseats_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
 #### Sæde på anden række
@@ -131,7 +129,6 @@ For anden række har denne model to kaptajnstole. Derudover er følgende funktio
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
-
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/secondrowseats_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 
@@ -177,7 +174,6 @@ Vigtige skærmdetaljer:
 For bagsædepassagererne er der en infotainmentskærm i taget bag sæderne på første række.
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/volvo/em90/em90/screens_1_st.jpg" title="Volvo EM90" width="3000" height="1685"  >}}
 
 
@@ -207,7 +203,6 @@ Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelse
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/volvo/em90/em90/headlights_1_st.jpg" title="Volvo EM90" width="3000" height="2250"  >}}
 

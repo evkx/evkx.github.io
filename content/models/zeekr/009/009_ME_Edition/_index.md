@@ -81,7 +81,6 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/exterior_1_st.jpg" title="Zeekr 009 ME Edition" width="2000" height="1333"  >}}
 
 
@@ -127,7 +126,6 @@ For the second row, this model has two captain chairs. In addition, the followin
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
-
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/secondrowseats_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440"  >}}
 
 #### Third-row seats
@@ -171,7 +169,6 @@ Key screen details:
 - The touch screen at the top of the center console is 15.4 inches large
 
 The model does not have a head-up display.
-
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/screens_1_st.jpg" title="Zeekr 009 ME Edition" width="1256" height="836"  >}}
 

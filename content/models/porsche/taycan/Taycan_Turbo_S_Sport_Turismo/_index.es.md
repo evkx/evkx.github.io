@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 49 minutos usando un cargador en casa. Para una carga más rápida, puedes optar por un cargador a bordo opcional que soporta hasta 22 kW. Con esta mejora, puedes lograr una carga completa del 0 al 100% en solo unas 4 horas y 24 minutos en casa.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/charging_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo" width="3000" height="2000"  >}}
 
 ### Puerto de carga
@@ -95,7 +94,6 @@ Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, m
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Hay tres opciones de techo diferentes para elegir. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande Es espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El cristal tiene una función electrocrómica que permite difuminar el cristal para protegerlo del sol.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo" width="3000" height="1687"  >}}
 
@@ -190,7 +188,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo" width="3000" height="1688"  >}}
 
 ## Infoentretenimiento
@@ -217,7 +214,6 @@ Puedes elegir entre tres sistemas de sonido en el Porsche Taycan Turbo S Sport T
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo" width="3000" height="1688"  >}}
 

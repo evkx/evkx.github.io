@@ -45,7 +45,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 19,2 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 6 horas y 46 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/charging_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1506"  >}}
 
 ### Puerto de carga
@@ -87,7 +86,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [por
 
 Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con techo panorámico. El cristal extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este cristal hace que el coche sea más cómodo. El interior se siente más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/exterior_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1595"  >}}
 
 
@@ -118,7 +116,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/frontseats_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}
 
@@ -166,7 +163,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/screens_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}
 
 ## Infoentretenimiento
@@ -193,7 +189,6 @@ Puedes elegir entre tres sistemas de sonido en el Ford F150 Lightning Extended R
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/headlights_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}
 
@@ -241,7 +236,6 @@ Con el sistema Ford Co-Pilot360™ Active 2.0  nivel 2, obtienes funciones de au
 ## Capacidad de carga y capacidad de remolque
 
 La capacidad de carga en la plataforma del camión es 1495 litros. El ancho de la plataforma es 1285 mm y el largo es 1704 mm. El peso máximo de carga en la plataforma es 907 kg. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 399 litros (14,1 CU FT). El peso máximo del automóvil es 3878 kg (8550 lbs), y con el peso base de 2988 kg (6587 lbs), puedes cargar como máximo 890 kg (1962 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
-
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/trunk_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1264"  >}}
 

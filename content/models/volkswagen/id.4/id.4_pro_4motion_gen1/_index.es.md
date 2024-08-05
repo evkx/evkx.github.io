@@ -97,7 +97,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/exterior_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
 
@@ -140,7 +139,6 @@ Las siguientes funcionalidades están disponibles en el asiento **ergoActive Top
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/frontseats_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
@@ -148,7 +146,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/secondrowseats_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
@@ -200,7 +197,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/screens_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
 ## Infoentretenimiento
@@ -231,7 +227,6 @@ Puedes elegir entre dos tipos de faros para el Volkswagen ID.4 Pro 4MOTION (GEN1
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/headlights_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
@@ -282,7 +277,6 @@ Con el sistema Assistantpackage plus  nivel 2, obtienes funciones de automatizac
 La capacidad de carga en el maletero es de 543 litros. Con el asiento trasero abatido, es de 1575 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2750 kg (6063 lbs), y con el peso base de 2164 kg (4771 lbs), puedes cargar como máximo 586 kg (1292 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1200, y sin freno, es de 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_4motion_gen1/trunk_1_st.jpg" title="Volkswagen ID.4 Pro 4MOTION (GEN1)" width="3000" height="2000"  >}}
 

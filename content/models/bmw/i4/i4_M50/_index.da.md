@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 7 timer og 20 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/charging_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 
 ### Ladeport
@@ -93,7 +92,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med soltag. Glasset strækker sig kun over forreste række, og passagererne kan åbne det. Dette glas får bilens interiør til at føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/exterior_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 
@@ -179,7 +177,6 @@ Du kan vælge mellem 21 forskellige materialer/farver til denne sædetype.
 - Blue [læderpolstring](../../../../technology/seats/materials/#leather)
 - Black [læderpolstring](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/frontseats_1_st.jpg" title="BMW i4 M50" width="3000" height="2121"  >}}
 
 #### Sæde på anden række
@@ -223,7 +220,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i højre del af den delte ramme er 14,9 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/screens_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 

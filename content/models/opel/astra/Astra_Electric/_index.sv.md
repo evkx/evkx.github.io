@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 4 timmar och 37 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/charging_1_st.jpg" title="Opel Astra Electric" width="3000" height="2153"  >}}
 
 ### Laddningsport
@@ -84,7 +83,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/exterior_1_st.jpg" title="Opel Astra Electric" width="3000" height="2000"  >}}
 
 
@@ -115,7 +113,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/frontseats_1_st.jpg" title="Opel Astra Electric" width="3000" height="1687"  >}}
 
@@ -161,7 +158,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/screens_1_st.jpg" title="Opel Astra Electric" width="3000" height="1687"  >}}
 
 ## Infotainment
@@ -188,7 +184,6 @@ Modellen har 3 USB-C-anslutningar som standard.
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/headlights_1_st.jpg" title="Opel Astra Electric" width="3000" height="1957"  >}}
 
@@ -224,7 +219,6 @@ Med DS Drive Assist  nivå 1-systemet får du följande körautomationsfunktione
 Lastkapaciteten i bagageutrymmet är 352 liter. Med baksätet nedfällt är det 1268 liter. På taket kan du lasta upp till 70 kg. Takräcke är standard på denna modell, vilket gör det enkelt att montera takboxen eller räcket på bilen. Bilens maximala vikt är 2100 kg, och med basvikten på 1736 kg kan du lasta maximalt 364 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
 
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/trunk_1_st.jpg" title="Opel Astra Electric" width="3000" height="2000"  >}}
 

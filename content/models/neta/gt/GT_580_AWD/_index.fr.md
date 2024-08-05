@@ -79,7 +79,6 @@ Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la m
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toit panoramique en verre s'étendant de l'avant à l'arrière, améliorant la sensation d'espace et de luminosité de l'intérieur, améliorant ainsi l'humeur et le confort des occupants. Ce verre est teinté pour protéger contre la chaleur du soleil.
 
-
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/exterior_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="950"  >}}
 
 
@@ -105,7 +104,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/frontseats_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="1081"  >}}
 
@@ -150,7 +148,6 @@ Détails clés de l'écran :
 - L'écran touch en haut de la console centrale mesure 17,6 pouces
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/screens_1_st.jpg" title="Neta GT 580 AWD" width="3000" height="2000"  >}}
 

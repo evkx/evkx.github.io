@@ -42,7 +42,6 @@ The vehicle supports fast DC charging with a maximum power of 30 kW. Charging fr
 
 The  onboard charger supports up to 7 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 3 hours and 34 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/charging_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1702"  >}}
 
 ### Charge port
@@ -83,7 +82,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There is only one roof for this model.
 
-
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/exterior_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1698"  >}}
 
 
@@ -106,7 +104,6 @@ The following functionalities are available on the **** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 - Black [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
-
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/frontseats_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
@@ -154,7 +151,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/screens_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -181,7 +177,6 @@ The model has 2 USB-C connections as standard.
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/dacia/spring/spring_65hp/headlights_1_st.jpg" title="Dacia Spring 65HP" width="3000" height="1698"  >}}
 

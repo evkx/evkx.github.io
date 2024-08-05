@@ -81,7 +81,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchbac
 
 Det finns två olika takalternativ att välja mellan. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
-
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/exterior_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2250"  >}}
 
 
@@ -115,7 +114,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 - Gray [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Gray [läderklädsel](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/frontseats_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2249"  >}}
 
 #### Säten på andra raden
@@ -125,7 +123,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/secondrowseats_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2248"  >}}
 
@@ -166,7 +163,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/screens_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2251"  >}}
 
 ## Infotainment
@@ -189,7 +185,6 @@ Du kan välja mellan två typer av strålkastare för Polestar 3 Long Range Dual
 - Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/headlights_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2250"  >}}
 

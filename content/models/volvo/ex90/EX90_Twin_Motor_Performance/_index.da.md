@@ -84,7 +84,6 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/exterior_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2212"  >}}
 
 
@@ -118,7 +117,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [uldpolstring](../../../../technology/seats/materials/#wool)
 
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/frontseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
 #### Sæde på anden række
@@ -128,7 +126,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/secondrowseats_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
@@ -174,7 +171,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/screens_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -197,7 +193,6 @@ Du kan vælge mellem to typer forlygter til Volvo EX90 Twin Motor Performance.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/headlights_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
 

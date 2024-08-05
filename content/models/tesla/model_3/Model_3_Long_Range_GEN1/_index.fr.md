@@ -50,7 +50,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 6 heures et 49 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/charging_1_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}
 
 ### Port de recharge
@@ -99,7 +98,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/exterior_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="1687"  >}}
 
 
@@ -127,7 +125,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/frontseats_1_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée
@@ -135,7 +132,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/secondrowseats_1_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}
 
@@ -174,7 +170,6 @@ Détails clés de l'écran :
 - L'écran  au centre du tableau de bord mesure 15,0 pouces
 
 Le modèle n'a pas d'affichage tête haute.
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/screens_2_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}
 

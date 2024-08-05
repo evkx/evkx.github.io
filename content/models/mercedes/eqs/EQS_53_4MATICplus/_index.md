@@ -46,7 +46,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 53 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/charging_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -96,7 +95,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/exterior_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="1998"  >}}
 
 
@@ -143,7 +141,6 @@ The following functionalities are available on the **multicontour** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 5 different materials/colors for this seat type.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/frontseats_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="2000"  >}}
 
@@ -197,7 +194,6 @@ Key screen details:
 - The  screen in front of the passenger in the dashboard is 12.3 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/screens_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="1695"  >}}
 
@@ -281,7 +277,6 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 The cargo capacity in the trunk is 610 liters. With the rear seat down, it is 1770 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 3225 kg (7110 lbs), and with the base weight of 2580 kg (5688 lbs), you can max load 645 kg (1422 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/trunk_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="2000"  >}}
 

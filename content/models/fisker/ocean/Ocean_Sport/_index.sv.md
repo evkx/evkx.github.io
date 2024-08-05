@@ -84,7 +84,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchbac
 
 Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort panoramaglastak som sträcker sig från fram till bak, vilket förbättrar interiörens rymliga och ljusa känsla och därmed förbättrar stämningen och komforten för passagerarna. Detta glas är tonat för att skydda mot värme från solen.
 
-
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/exterior_5_st.jpg" title="Fisker Ocean Sport" width="3000" height="2250"  >}}
 
 
@@ -115,7 +114,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Blue [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 - Beige [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/frontseats_2_st.jpg" title="Fisker Ocean Sport" width="3000" height="1687"  >}}
 
@@ -161,7 +159,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch i mitten av mittkonsolen är 17,1 tum
 
 Modellen är inte tillgänglig med head-up display.
-
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_sport/screens_1_st.jpg" title="Fisker Ocean Sport" width="1920" height="1080"  >}}
 

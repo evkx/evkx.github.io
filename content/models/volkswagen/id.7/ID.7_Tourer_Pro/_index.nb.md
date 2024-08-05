@@ -89,7 +89,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro/exterior_1_st.jpg" title="Volkswagen ID.7 Tourer Pro" width="3000" height="2000"  >}}
 
 
@@ -132,7 +131,6 @@ Følgende funksjoner er tilgjengelige på **ergoActive Top-Sport** setet.
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro/frontseats_1_st.jpg" title="Volkswagen ID.7 Tourer Pro" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
@@ -140,7 +138,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.7 Tourer Pro" width="3000" height="2000"  >}}
 
@@ -180,7 +177,6 @@ Viktige skjermdetaljer:
 - touch-skjermen i dashbordets sentrum er 15,0 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro/screens_1_st.jpg" title="Volkswagen ID.7 Tourer Pro" width="3000" height="2000"  >}}
 
@@ -260,7 +256,6 @@ Med Assistantpackage plus  nivå 2-systemet får du flere kjøreautomatiseringsf
 Lastkapasiteten i bagasjerommet er 605 liter. Med baksetet nede er det 1714 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2630 kg, og med basisvekten på 2152 kg kan du maksimalt laste 478 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_tourer_pro/trunk_1_st.jpg" title="Volkswagen ID.7 Tourer Pro" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

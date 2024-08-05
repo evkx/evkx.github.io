@@ -81,7 +81,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/exterior_1_st.jpg" title="Zeekr 009 ME Edition" width="2000" height="1333"  >}}
 
 
@@ -127,7 +126,6 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
-
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/secondrowseats_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440"  >}}
 
 #### Seter på tredje rad
@@ -171,7 +169,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch översta mittkonsolen är 15,4 tum
 
 Modellen är inte tillgänglig med head-up display.
-
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/screens_1_st.jpg" title="Zeekr 009 ME Edition" width="1256" height="836"  >}}
 

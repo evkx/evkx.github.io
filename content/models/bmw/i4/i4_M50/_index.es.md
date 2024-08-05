@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 20 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/charging_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 
 ### Puerto de carga
@@ -93,7 +92,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo corredizo. El cristal se extiende sólo sobre la primera fila y los ocupantes pueden abrirlo. Este cristal aporta una sensación de interior al coche. más espacioso y luminoso, lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/exterior_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 
@@ -179,7 +177,6 @@ Puedes elegir entre 21 diferentes materiales/colores para este tipo de asiento.
 - Blue [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Black [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/frontseats_1_st.jpg" title="BMW i4 M50" width="3000" height="2121"  >}}
 
 #### Asiento de segunda fila
@@ -223,7 +220,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en la parte derecha del marco compartido mide 14,9 pulgadas de tamaño
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/screens_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 

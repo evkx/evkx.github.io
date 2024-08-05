@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 8 timer og 49 minutter med en hjemmelader. For raskere lading kan du velge en valgfri ombordlader som støtter opptil 22 kW. Med denne oppgraderingen kan du oppnå full lading fra 0 til 100% på bare omtrent 4 timer og 24 minutter hjemme.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/charging_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
 ### Ladeport
@@ -106,7 +105,6 @@ Det er to forskjellige takalternativer å velge mellom. Standardtaket inkluderer
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene. Som et alternativ er dobbeltglass sidevinduer tilgjengelig for å redusere kabinstøy, noe som forbedrer den totale kjøreopplevelsen.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/exterior_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
 
@@ -161,7 +159,6 @@ Følgende funksjoner er tilgjengelige på **sport pro** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/frontseats_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
@@ -230,7 +227,6 @@ Du kan velge mellom tre typer frontlykter for Audi S e-tron GT.
 
 I tillegg bruker standard baklykter LED-teknologi.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/headlights_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
 ## Avanserte førerassistentsystemer
@@ -282,7 +278,6 @@ Med Assistantpackage Tour  nivå 2-systemet får du flere kjøreautomatiseringsf
 Lastkapasiteten i bagasjerommet er 405 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 85 liter. Maksimumsvekten til bilen er 2860 kg, og med basisvekten på 2340 kg kan du maksimalt laste 520 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/trunk_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2249"  >}}
 

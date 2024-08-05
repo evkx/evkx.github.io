@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 7 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_300/charging_1_st.jpg" title="Mercedes-EQ EQE 300" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -144,7 +143,6 @@ The following functionalities are available on the **multicontour** seat.
 
 You can choose from 5 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_300/frontseats_1_st.jpg" title="Mercedes-EQ EQE 300" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -203,7 +201,6 @@ Key screen details:
 - The  screen in front of the passenger in the dashboard is 12.3 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_300/screens_1_st.jpg" title="Mercedes-EQ EQE 300" width="3000" height="2001"  >}}
 
@@ -286,7 +283,6 @@ With the Driver Assistance Package Plus  level 2 system, you get additional driv
 The cargo capacity in the trunk is 430 liters. With the rear seat down, it is 895 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2880 kg (6349 lbs), and with the base weight of 2310 kg (5093 lbs), you can max load 570 kg (1257 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_300/trunk_1_st.jpg" title="Mercedes-EQ EQE 300" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

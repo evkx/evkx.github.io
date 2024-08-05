@@ -85,7 +85,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir l'avant
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_300_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQA 300 4MATIC" width="3000" height="2000"  >}}
 
 
@@ -134,7 +133,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_300_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQA 300 4MATIC" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée
@@ -177,7 +175,6 @@ Détails clés de l'écran :
 - L'écran touch à droite du cadre partagé mesure 10,3 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_300_4matic/screens_1_st.jpg" title="Mercedes-EQ EQA 300 4MATIC" width="3000" height="2000"  >}}
 

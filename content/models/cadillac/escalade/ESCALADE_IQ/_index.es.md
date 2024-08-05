@@ -81,7 +81,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
 
-
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/exterior_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2028"  >}}
 
 
@@ -113,7 +112,6 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 - Beige [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
 #### Asiento de segunda fila
@@ -127,7 +125,6 @@ Para la segunda fila, este modelo tiene [asientos ejecutivos] gemelos(../../../.
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2003"  >}}
 
@@ -172,7 +169,6 @@ Detalles clave de la pantalla:
 - La touch pantalla frente al pasajero en el tablero mide 20,0 pulgadas de tamaño
 
 El modelo no tiene head-up display.
-
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/screens_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2250"  >}}
 

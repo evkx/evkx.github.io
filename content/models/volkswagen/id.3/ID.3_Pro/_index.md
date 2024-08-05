@@ -89,7 +89,6 @@ There are two different roof options to select from. The standard is just a regu
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/exterior_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
 
 
@@ -115,7 +114,6 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 2 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/frontseats_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -123,7 +121,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
 
@@ -175,7 +172,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/screens_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -206,7 +202,6 @@ You can choose between two types of headlights for the Volkswagen ID.3 Pro.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/headlights_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="1894"  >}}
 
@@ -261,7 +256,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 385 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0.0 lbs). The maxium weight of the car is 2290 kg (5049 lbs), and with the base weight of 1786 kg (3937 lbs), you can max load 504 kg (1111 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro/trunk_1_st.jpg" title="Volkswagen ID.3 Pro" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

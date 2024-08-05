@@ -89,7 +89,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/exterior_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="1711"  >}}
 
 
@@ -117,7 +116,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
-
 
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/frontseats_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="2110"  >}}
 
@@ -163,7 +161,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/screens_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="1714"  >}}
 
 ## Infotainment
@@ -191,7 +188,6 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/headlights_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="1976"  >}}
 

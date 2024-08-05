@@ -50,7 +50,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 6 timmar och 49 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/charging_1_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}
 
 ### Laddningsport
@@ -99,7 +98,6 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/exterior_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="1687"  >}}
 
 
@@ -127,7 +125,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/frontseats_1_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
@@ -135,7 +132,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/secondrowseats_1_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}
 
@@ -174,7 +170,6 @@ Viktiga skärmdetaljer:
 - Skärmen  i mitten av instrumentbrädan är 15,0 tum
 
 Modellen är inte tillgänglig med head-up display.
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/screens_2_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}
 

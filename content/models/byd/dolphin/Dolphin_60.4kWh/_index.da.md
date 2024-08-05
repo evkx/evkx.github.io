@@ -87,7 +87,6 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/exterior_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2499" height="1621"  >}}
 
 
@@ -119,7 +118,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/frontseats_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1579"  >}}
 
 #### Sæde på anden række
@@ -127,7 +125,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/secondrowseats_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1623"  >}}
 
@@ -179,7 +176,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/screens_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1550"  >}}
 
 ## Infotainment
@@ -202,7 +198,6 @@ Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelse
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/headlights_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1448"  >}}
 
@@ -248,7 +243,6 @@ Med   niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 345 liter. Med bagsædet nede er det 1310 liter. På taget kan du laste op til 50 kg (110,2 lbs). Bilens maksimale vægt er 2068 kg (4559 lbs), og med basisvægten på 1658 kg (3655 lbs), kan du maksimalt laste 410 kg (904 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 0, og på ubremset er den 0 kg (0/0 lbs).
-
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}
 <div class="mt-3 mb-3">

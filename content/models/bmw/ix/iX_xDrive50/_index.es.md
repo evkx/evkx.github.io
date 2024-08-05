@@ -85,7 +85,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/exterior_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1999"  >}}
 
 
@@ -115,7 +114,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 7 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/frontseat_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1999"  >}}
 
 #### Asiento de segunda fila
@@ -125,7 +123,6 @@ Puedes elegir entre 7 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/secondrowseats_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1999"  >}}
 
@@ -163,7 +160,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en la parte derecha del marco compartido mide 14,9 pulgadas de tamaño
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/screens_1_st.jpg" title="BMW iX xDrive50" width="3000" height="2250"  >}}
 
@@ -240,7 +236,6 @@ Con el sistema Driving Assistant Professional  nivel 2, obtienes funciones de au
 La capacidad de carga en el maletero es de 500 litros. Con el asiento trasero abatido, es de 1750 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 3135 kg (6911 lbs), y con el peso base de 2510 kg (5534 lbs), puedes cargar como máximo 625 kg (1378 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2500, y sin freno, es de 750 kg (5512/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive50/trunk_1_st.jpg" title="BMW iX xDrive50" width="3000" height="1998"  >}}
 <div class="mt-3 mb-3">

@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 53 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/charging_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -89,7 +88,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/exterior_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
 
@@ -133,7 +131,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
-
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/secondrowseats_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
 
@@ -169,7 +166,6 @@ Key screen details:
 - The touch screen at the right part of the shared frame is 10.3 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/screens_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 
@@ -240,7 +236,6 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 475 liters. With the rear seat down, it is 1392 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are standard on this model, making it easy to mount the roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 20 liters (0.7 CU FT). The maxium weight of the car is 220 kg (485 lbs), and with the base weight of 1557 kg (3433 lbs), you can max load -1337 kg (-2948 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 300 kg (1653/661 lbs).
-
 
 {{< sitefiguresized thumb="models/kia/niro/niro_ev/trunk_1_st.jpg" title="Kia Niro EV" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

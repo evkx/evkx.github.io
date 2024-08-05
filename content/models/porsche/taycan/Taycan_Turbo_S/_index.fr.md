@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 49 minutes à domicile. our une charge plus rapide, vous pouvez opter pour un chargeur embarqué optionnel prenant en charge jusqu'à 22 kW. Avec cette mise à niveau, vous pouvez atteindre une charge complète de 0 à 100% en seulement environ 4 heures et 24 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/charging_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2242"  >}}
 
 ### Port de recharge
@@ -96,7 +95,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe trois options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Cette vitre rend l'intérieur de la voiture plus agréable. spacieux et lumineux, ce qui peut améliorer l'ambiance et le confort de l'occupant. Le verre a une fonction électrochrome qui permet de mélanger le verre pour se protéger du soleil.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/exterior_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2000"  >}}
 
 
@@ -141,7 +139,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/frontseats_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2250"  >}}
 
 #### Sièges de deuxième rangée
@@ -155,7 +152,6 @@ L'option standard consiste en deux sièges intégrés dans la deuxième rangée.
 L'option second consiste en deux sièges intégrés dans la deuxième rangée avec un troisième siège plus petit entre les deux. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="1688"  >}}
 
@@ -196,7 +192,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/screens_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2250"  >}}
 
 ## Infodivertissement
@@ -223,7 +218,6 @@ Vous pouvez choisir entre trois systèmes audio sur le Porsche Taycan Turbo S.
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/headlights_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2298"  >}}
 
@@ -276,7 +270,6 @@ Avec le système Porsche InnoDrive  niveau 2, vous bénéficiez de fonctionnalit
 La capacité de chargement du coffre est de 366 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2880 kg (6349 lbs), et avec le poids de base de 2230 kg (4916 lbs), vous pouvez charger au maximum 650 kg (1433 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/trunk_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2250"  >}}
 <div class="mt-3 mb-3">

@@ -101,7 +101,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/exterior_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2000"  >}}
 
 
@@ -140,7 +139,6 @@ Følgende funksjoner er tilgjengelige på **sport** setet.
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/frontseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2001"  >}}
 
 #### Seter på andre rad
@@ -151,7 +149,6 @@ Alternativet standard er en tre-seters benk med en 60:40-del hvor du kan folde h
 
 
 Alternativet second er en tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2001"  >}}
 
@@ -193,7 +190,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/screens_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -227,7 +223,6 @@ I tillegg kan du velge mellom to typer baklys.
 
 - lights.taillight.technology.option.led
 - lights.taillight.technology.option.led
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/headlights_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2000"  >}}
 
@@ -281,7 +276,6 @@ Med Assistantpackage Tour  nivå 2-systemet får du flere kjøreautomatiseringsf
 Lastkapasiteten i bagasjerommet er 535 liter. Med baksetet nede er det 1460 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2720 kg, og med basisvekten på 2135 kg kan du maksimalt laste 585 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/trunk_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2000"  >}}
 

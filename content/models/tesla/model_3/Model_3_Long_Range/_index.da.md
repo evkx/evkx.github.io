@@ -90,7 +90,6 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/exterior_1_st.jpeg" title="Tesla Model 3 Long Range" width="3000" height="2250"  >}}
 
 
@@ -121,7 +120,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - White [læderbetræk](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/frontseats_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
@@ -168,7 +166,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/screens_1_st.jpeg" title="Tesla Model 3 Long Range" width="1920" height="1080"  >}}
 
 
@@ -194,7 +191,6 @@ Modellen har 3 USB-C-forbindelser som standard.
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range/headlights_1_st.jpeg" title="Tesla Model 3 Long Range" width="3000" height="2250"  >}}
 

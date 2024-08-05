@@ -82,7 +82,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe deux options de toit différentes à choisir. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil.
 
-
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/exterior_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2250"  >}}
 
 
@@ -122,7 +121,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 
-
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/secondrowseats_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2250"  >}}
 
 
@@ -161,7 +159,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/screens_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2776"  >}}
 
 ## Infodivertissement
@@ -188,7 +185,6 @@ Vous pouvez choisir entre deux types de phares pour le Volvo EX30 Single Motor.
 - Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/headlights_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2250"  >}}
 
@@ -235,7 +231,6 @@ Avec le système Pilot Assist  niveau 2, vous bénéficiez des fonctionnalités 
 La capacité de chargement dans le coffre est de 318 litres. Avec la banquette arrière rabattue, elle est de 904 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 7 litres (0,2 CU FT). Le poids maximum de la voiture est de 2216 kg (4885 lbs), et avec le poids de base de 1758 kg (3876 lbs), vous pouvez charger au maximum 458 kg (1010 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1000, et sur une remorque non freinée, il est de 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volvo/ex30/ex30_single_motor/trunk_1_st.jpg" title="Volvo EX30 Single Motor" width="3000" height="2251"  >}}
 <div class="mt-3 mb-3">

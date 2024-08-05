@@ -95,7 +95,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset for at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/exterior_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
 
@@ -140,7 +139,6 @@ Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/frontseats_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
 #### Sæder på anden række
@@ -154,7 +152,6 @@ Muligheden standard er to integrerede sæder i anden række. Derudover er følge
 Muligheden second er to integrerede sæder i anden række med et tredje mindre sæde imellem. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
@@ -195,7 +192,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
 ## Infotainment
@@ -222,7 +218,6 @@ Du kan vælge mellem tre lydsystemer på Porsche Taycan Turbo S Cross Turismo.
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/headlights_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 

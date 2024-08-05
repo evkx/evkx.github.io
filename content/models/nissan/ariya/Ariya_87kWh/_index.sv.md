@@ -88,7 +88,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh/exterior_1_st.jpg" title="Nissan Ariya 87kWh" width="3000" height="2000"  >}}
 
 
@@ -167,7 +166,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh/screens_1_st.jpg" title="Nissan Ariya 87kWh" width="3000" height="1999"  >}}
 
 
@@ -240,7 +238,6 @@ Med ProPILOT  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten i bagageutrymmet är 468 liter. Med baksätet nedfällt är det 1490 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2400 kg, och med basvikten på 1875 kg kan du lasta maximalt 525 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 750, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh/trunk_1_st.jpg" title="Nissan Ariya 87kWh" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

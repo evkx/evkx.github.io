@@ -81,7 +81,6 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/exterior_1_st.jpg" title="Zeekr 009 ME Edition" width="2000" height="1333"  >}}
 
 
@@ -127,7 +126,6 @@ For anden række har denne model to kaptajnstole. Derudover er følgende funktio
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
-
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/secondrowseats_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440"  >}}
 
 #### Sæder på tredje række
@@ -171,7 +169,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch øverst på midterkonsollen er 15,4 tommer stor
 
 Modellen har ikke et head-up display.
-
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/screens_1_st.jpg" title="Zeekr 009 ME Edition" width="1256" height="836"  >}}
 

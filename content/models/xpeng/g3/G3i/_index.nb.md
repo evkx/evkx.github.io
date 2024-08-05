@@ -81,7 +81,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelok
 
 Det er bare ett tak for denne modellen.
 
-
 {{< sitefiguresized thumb="models/xpeng/g3/g3i/exterior_1_st.jpeg" title="XPENG G3i" width="3000" height="1686"  >}}
 
 

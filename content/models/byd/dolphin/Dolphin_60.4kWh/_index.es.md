@@ -87,7 +87,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/exterior_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2499" height="1621"  >}}
 
 
@@ -119,7 +118,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/frontseats_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1579"  >}}
 
 #### Asiento de segunda fila
@@ -127,7 +125,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/secondrowseats_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1623"  >}}
 
@@ -179,7 +176,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/screens_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1550"  >}}
 
 ## Infoentretenimiento
@@ -202,7 +198,6 @@ El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/headlights_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1448"  >}}
 
@@ -248,7 +243,6 @@ Con el sistema   nivel 1, obtienes las siguientes funciones de automatización d
 La capacidad de carga en el maletero es de 345 litros. Con el asiento trasero abatido, es de 1310 litros. En el techo, puedes cargar hasta 50 kg (110,2 lbs). El peso máximo del automóvil es 2068 kg (4559 lbs), y con el peso base de 1658 kg (3655 lbs), puedes cargar como máximo 410 kg (904 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 0, y sin freno, es de 0 kg (0/0 lbs).
-
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}
 <div class="mt-3 mb-3">

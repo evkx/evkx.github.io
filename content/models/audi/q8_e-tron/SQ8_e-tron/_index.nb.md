@@ -102,7 +102,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene. Som et alternativ er dobbeltglass sidevinduer tilgjengelig for å redusere kabinstøy, noe som forbedrer den totale kjøreopplevelsen.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_e-tron/exterior_1_st.jpeg" title="Audi SQ8 e-tron" width="3000" height="1999"  >}}
 
 
@@ -240,7 +239,6 @@ Du kan velge mellom tre typer frontlykter for Audi SQ8 e-tron.
 - Hovedlys basert på LED Digital Matrix-teknologi er tilgjengelig som ekstrautstyr.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_e-tron/headlights_1_st.jpeg" title="Audi SQ8 e-tron" width="3000" height="1999"  >}}
 

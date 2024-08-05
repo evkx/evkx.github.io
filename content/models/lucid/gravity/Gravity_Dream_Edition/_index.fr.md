@@ -90,7 +90,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il n'y a qu'un seul toit pour ce modèle. Le pare-brise est panoramique en remontant sur la première rangée. De plus, il y a un panneau de verre au-dessus de la deuxième rangée. Ce verre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux, ce qui peut améliorent l'humeur et le confort de l'occupant. Les vitrages sont teintés pour protéger de la chaleur du soleil.
 
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/exterior_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="1687"  >}}
 
 
@@ -127,7 +126,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 - White [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Brown [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/frontseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 #### Siège de deuxième rangée
@@ -137,7 +135,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/secondrowseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
@@ -182,7 +179,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/screens_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 ## Infodivertissement
@@ -205,7 +201,6 @@ Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 co
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/headlights_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="1999"  >}}
 
@@ -246,7 +241,6 @@ Avec le système ADAS  niveau 2, vous bénéficiez des fonctionnalités d'automa
 La capacité de chargement dans le coffre est de 700 litres. Avec la banquette arrière rabattue, elle est de 3170 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 226 litres (8,0 CU FT). Le poids maximum de la voiture est de 3280 kg (7231 lbs), et avec le poids de base de 2500 kg (5512 lbs), vous pouvez charger au maximum 780 kg (1720 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2700, et sur une remorque non freinée, il est de 750 kg (5952/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/trunk_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2000"  >}}
 

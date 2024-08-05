@@ -111,7 +111,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_1_st.jpg" title="Audi Q6L e-tron quattro" width="3000" height="2250"  >}}
 
 
@@ -243,7 +242,6 @@ Puedes elegir entre dos tipos de faros para el Audi Q6L e-tron quattro.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/q6l_e-tron_quattro/headlights_1_st.jpg" title="Audi Q6L e-tron quattro" width="3000" height="2250"  >}}
 

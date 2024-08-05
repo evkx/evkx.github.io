@@ -91,7 +91,6 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/exterior_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2455"  >}}
 
 
@@ -118,7 +117,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/frontseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
@@ -127,7 +125,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/secondrowseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
 
 #### Sæder på tredje række
@@ -135,7 +132,6 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 
 
 Tredje række har en valgfri to-sædet bænk med en 50:50 split. Igen kan du folde sæderne ned, når de ikke bruges for at skabe en større lastkapacitet.
-
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/thirdrowseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
 
@@ -175,7 +171,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i dashboardets midte er 15,0 tommer stor
 
 Modellen har ikke et head-up display.
-
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/screens_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="1800"  >}}
 

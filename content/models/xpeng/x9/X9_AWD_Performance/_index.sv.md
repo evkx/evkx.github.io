@@ -76,7 +76,6 @@ Det finns bara ett tak för denna modell.
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/exterior_2_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="2215"  >}}
 
 
@@ -110,7 +109,6 @@ Följande funktioner är tillgängliga på **** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/frontseats_1_st.png" title="XPENG X9 AWD Performance" width="3000" height="1514"  >}}
 
 #### Säten på andra raden
@@ -123,7 +121,6 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
-
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/secondrowseats_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1687"  >}}
 
@@ -160,7 +157,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch i mitten av instrumentbrädan är 15,0 tum
 
 Modellen är inte tillgänglig med head-up display.
-
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/screens_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1586"  >}}
 
@@ -225,7 +221,6 @@ Med XPILOT  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten i bagageutrymmet är 755 liter. Med den tredje sätesraden nere är den 2554 liter.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
 Denna modell är endast tillgänglig i Kina.<div class="mt-3 mb-3">

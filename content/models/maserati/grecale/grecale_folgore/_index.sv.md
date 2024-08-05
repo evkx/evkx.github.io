@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 22 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 4 timmar och 21 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/charging_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
 ### Laddningsport
@@ -99,7 +98,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/exterior_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2254"  >}}
 
 
@@ -136,7 +134,6 @@ Den andra raden har en standardbänk med tre sittplatser med en -sektion där du
 
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/secondrowseats_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
@@ -178,7 +175,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/screens_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -206,7 +202,6 @@ Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få yt
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/maserati/grecale/grecale_folgore/headlights_1_st.jpg" title="Maserati Grecale Folgore" width="3000" height="2332"  >}}
 

@@ -79,7 +79,6 @@ Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, p
 
 Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramaglastag, der strækker sig fra front til bag, hvilket forbedrer interiørets rummelige og lyse følelse og derved forbedrer stemningen og komforten for passagererne. Dette glas er tonet for at beskytte mod varme fra solen.
 
-
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/exterior_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="950"  >}}
 
 
@@ -105,7 +104,6 @@ Følgende funktioner er tilgængelige på **** sædet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/frontseats_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="1081"  >}}
 
@@ -150,7 +148,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch øverst på midterkonsollen er 17,6 tommer stor
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/screens_1_st.jpg" title="Neta GT 580 AWD" width="3000" height="2000"  >}}
 

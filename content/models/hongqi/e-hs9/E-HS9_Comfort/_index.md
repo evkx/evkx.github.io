@@ -86,7 +86,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There is only one roof for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_comfort/exterior_1_st.jpg" title="Hongqi E-HS9 Comfort" width="3000" height="1757"  >}}
 
 
@@ -167,7 +166,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_comfort/screens_1_st.jpg" title="Hongqi E-HS9 Comfort" width="3000" height="1800"  >}}
 
 
@@ -193,7 +191,6 @@ The model has 1 USB-C connections as standard. The model has 3 USB-A connections
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_comfort/headlights_1_st.jpg" title="Hongqi E-HS9 Comfort" width="851" height="686"  >}}
 

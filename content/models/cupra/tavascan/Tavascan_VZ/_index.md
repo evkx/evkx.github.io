@@ -89,7 +89,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_vz/exterior_1_st.JPG" title="CUPRA Tavascan VZ" width="3000" height="1676"  >}}
 
 
@@ -117,7 +116,6 @@ The following functionalities are available on the **standard** seat.
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 3 different materials/colors for this seat type.
-
 
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_vz/frontseats_1_st.jpg" title="CUPRA Tavascan VZ" width="3000" height="2250"  >}}
 
@@ -163,7 +161,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_vz/screens_1_st.jpg" title="CUPRA Tavascan VZ" width="3000" height="1714"  >}}
 
 ## Infotainment
@@ -191,7 +188,6 @@ The model has 4 USB-C connections as standard.
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/cupra/tavascan/tavascan_vz/headlights_1_st.JPG" title="CUPRA Tavascan VZ" width="3000" height="1673"  >}}
 

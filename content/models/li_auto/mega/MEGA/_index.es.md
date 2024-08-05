@@ -44,13 +44,11 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 9 horas y 5 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/li_auto/mega/mega/charging_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
 ### Puerto de carga
 
 La ubicación del puerto de carga está en el [lado trasero izquierdo](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/battery_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
@@ -87,7 +85,6 @@ El automóvil tiene dos [puertas normales](../../../../technology/doors/) en la 
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende sobre la mayoría de las áreas desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar la estado de ánimo y comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
 
 Las ventanas del pilar B y la parte trasera están tintadas.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/exterior_1_st.jpg" title="Li Auto MEGA" width="2800" height="1575"  >}}
 
@@ -126,7 +123,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/li_auto/mega/mega/frontseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
 #### Asiento de segunda fila
@@ -140,7 +136,6 @@ Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las s
 - [masaje](../../../../technology/seats/adjustment/#massage)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
 
-
 {{< sitefiguresized thumb="models/li_auto/mega/mega/secondrowseats_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
 #### Asientos de tercera fila
@@ -148,7 +143,6 @@ Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las s
 
 
 La tercera fila tiene un banco de tres asientos con una división 40:60. Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/thirdrowseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1667"  >}}
 
@@ -189,7 +183,6 @@ Detalles clave de la pantalla:
 Para los pasajeros de los asientos traseros, hay una pantalla de infoentretenimiento en el techo, detrás de los asientos de la primera fila.
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/li_auto/mega/mega/screens_1_st.jpg" title="Li Auto MEGA" width="1920" height="1080"  >}}
 
 
@@ -219,7 +212,6 @@ El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/headlights_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
@@ -270,7 +262,6 @@ Hasta uno [sensores de radar](../../../../technology/sensorsandcameras/radar/), 
 La capacidad de carga en el maletero es de 1054 litros. Con el asiento de la tercera fila abatido, es de 1800 litros. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 32 litros (1,1 CU FT). El peso máximo del automóvil es 3400 kg (7496 lbs), y con el peso base de 2763 kg (6091 lbs), puedes cargar como máximo 637 kg (1404 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/trunk_1_st.jpg" title="Li Auto MEGA" width="1920" height="1079"  >}}
 

@@ -79,7 +79,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 
 Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/exterior_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="1687"  >}}
 
 
@@ -106,7 +105,6 @@ Følgende funktioner er tilgængelige på **** sædet.
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - White/Blue [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/frontseats_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
@@ -116,7 +114,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/secondrowseats_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
 
@@ -156,7 +153,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/screens_1_st.jpg" title="Zeekr X Privilege AWD" width="2280" height="1282"  >}}
 
 ## Infotainment
@@ -182,7 +178,6 @@ Du kan vælge mellem to typer forlygter til Zeekr X Privilege AWD.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/headlights_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
 
@@ -229,7 +224,6 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 Lagekapaciteten i bagagerummet er 362 liter. Med bagsædet nede er det 904 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 7 liter (0,2 CU FT). Bilens maksimale vægt er 2520 kg (5556 lbs), og med basisvægten på 1960 kg (4321 lbs), kan du maksimalt laste 560 kg (1235 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/zeekr/x/x_privilege_awd/trunk_1_st.jpg" title="Zeekr X Privilege AWD" width="3000" height="2000"  >}}
 

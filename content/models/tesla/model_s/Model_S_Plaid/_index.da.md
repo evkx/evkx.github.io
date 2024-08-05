@@ -90,7 +90,6 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/exterior_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2250"  >}}
 
 
@@ -125,7 +124,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/secondrowseats_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2000"  >}}
 
@@ -165,7 +163,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i den bagerste midterkonsol er 8,0 tommer stor
 
 Modellen har ikke et head-up display.
-
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/screens_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2000"  >}}
 
@@ -240,7 +237,6 @@ Med Full Self-Driving Capability  niveau 3-systemet får du yderligere køreauto
 Lagekapaciteten i bagagerummet er 709 liter. Med bagsædet nede er det 1828 liter. På taget kan du laste op til 70 kg (154,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 89 liter (3,1 CU FT). Bilens maksimale vægt er 2629 kg (5796 lbs), og med basisvægten på 2265 kg (4993 lbs), kan du maksimalt laste 364 kg (802 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Et anhængertræk er standardudstyr på denne model. Den maksimale totalvægt på en bremset trailer er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/tesla/model_s/model_s_plaid/trunk_1_st.jpg" title="Tesla Model S Plaid" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

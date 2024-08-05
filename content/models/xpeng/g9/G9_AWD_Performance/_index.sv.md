@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 30 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/charging_1_st.jpg" title="XPENG G9 AWD Performance" width="1600" height="1040"  >}}
 
 ### Laddningsport
@@ -83,7 +82,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/exterior_1_st.jpg" title="XPENG G9 AWD Performance" width="3000" height="2002"  >}}
 
 
@@ -118,7 +116,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Beige [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/frontseats_1_st.jpeg" title="XPENG G9 AWD Performance" width="3000" height="2250"  >}}
 
 #### Säten på andra raden
@@ -129,7 +126,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/secondrowseats_1_st.jpeg" title="XPENG G9 AWD Performance" width="3000" height="1687"  >}}
 
@@ -170,7 +166,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch framför passageraren på instrumentbrädan är 15,0 tum
 
 Modellen är inte tillgänglig med head-up display.
-
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/screens_1_st.jpg" title="XPENG G9 AWD Performance" width="3000" height="2002"  >}}
 
@@ -238,7 +233,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten i bagageutrymmet är 660 liter. Med baksätet nedfällt är det 1576 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 71 liter. Bilens maximala vikt är 2800 kg, och med basvikten på 2360 kg kan du lasta maximalt 440 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten. 440 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1500, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_awd_performance/trunk_1_st.jpg" title="XPENG G9 AWD Performance" width="3000" height="2002"  >}}
 <div class="mt-3 mb-3">

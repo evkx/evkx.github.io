@@ -84,7 +84,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/exterior_2_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 
@@ -116,7 +115,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 - Brown [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Beige [tygklädsel](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/frontseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
@@ -131,7 +129,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 - Black [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Brown [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Beige [tygklädsel](../../../../technology/seats/materials/#fabric)
-
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/secondrowseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
@@ -170,7 +167,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/screens_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -197,7 +193,6 @@ Modellen har 4 USB-C-anslutningar som standard.
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/headlights_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
@@ -248,7 +243,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten i bagageutrymmet är 280 liter. Med baksätet nedfällt är det 1050 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 1700 kg, och med basvikten på 1375 kg kan du lasta maximalt 325 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/trunk_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 

@@ -84,7 +84,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/exterior_2_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
 
@@ -117,7 +116,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 - Brown [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Beige [stoffpolstring](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/frontseats_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
@@ -132,7 +130,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Brown [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Beige [stoffpolstring](../../../../technology/seats/materials/#fabric)
-
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/secondrowseats_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
@@ -171,7 +168,6 @@ Viktige skjermdetaljer:
 
 Modellen er ikke tilgjengelig med head-up display.
 
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/screens_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -198,7 +194,6 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/headlights_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 
@@ -249,7 +244,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 Lastkapasiteten i bagasjerommet er 280 liter. Med baksetet nede er det 1050 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 1650 kg, og med basisvekten på 1325 kg kan du maksimalt laste 325 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_standard_range/trunk_1_st.jpg" title="Hyundai INSTER Standard Range" width="3000" height="2000"  >}}
 

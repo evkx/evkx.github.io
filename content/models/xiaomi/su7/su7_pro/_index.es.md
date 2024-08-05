@@ -89,7 +89,6 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/exterior_1_st.jpg" title="Xiaomi SU7 Pro" width="2880" height="2160"  >}}
 
 
@@ -119,7 +118,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Gray [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 - Purple [Tapizado de piel napa](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/frontseats_1_st.jpg" title="Xiaomi SU7 Pro" width="1760" height="1000"  >}}
 
 #### Asiento de segunda fila
@@ -130,7 +128,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división  don
 
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/secondrowseats_1_st.jpg" title="Xiaomi SU7 Pro" width="1760" height="1080"  >}}
 
@@ -166,7 +163,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/screens_1_st.jpg" title="Xiaomi SU7 Pro" width="2560" height="1440"  >}}
 
 ## Infoentretenimiento
@@ -186,7 +182,6 @@ El modelo tiene 4 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7_pro/headlights_1_st.jpg" title="Xiaomi SU7 Pro" width="2880" height="2160"  >}}
 

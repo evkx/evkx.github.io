@@ -80,7 +80,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe deux options de toit différentes à choisir. Le toit standard a un grand toit panoramique s'étendant de l'avant vers l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance et le confort. de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil. En option, vous pouvez commander ce modèle avec un toit panoramique ouvrant. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir la partie avant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/exterior_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2249"  >}}
 
 
@@ -110,7 +109,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Gray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/frontseats_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2700"  >}}
 
 #### Siège de deuxième rangée
@@ -118,7 +116,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/secondrowseats_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2249"  >}}
 
@@ -157,7 +154,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/screens_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2000"  >}}
 
 
@@ -187,7 +183,6 @@ Le modèle dispose de 5 connexions USB-C en standard.
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/headlights_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="1973"  >}}
 
@@ -226,7 +221,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 La capacité de chargement dans le coffre est de 793 litres. Avec la banquette arrière rabattue, elle est de 1723 litres.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1588, et sur une remorque non freinée, il est de 750 kg (3501/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/trunk_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

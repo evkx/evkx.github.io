@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 6 timer og 6 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/charging_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2001"  >}}
 
 ### Ladeport
@@ -93,7 +92,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med soltag. Glasset strækker sig kun over forreste række, og passagererne kan åbne det. Dette glas får bilens interiør til at føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/exterior_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2255"  >}}
 
@@ -178,7 +176,6 @@ Du kan vælge mellem 21 forskellige materialer/farver til denne sædetype.
 - Brown [læderpolstring](../../../../technology/seats/materials/#leather)
 - Blue [læderpolstring](../../../../technology/seats/materials/#leather)
 - Black [læderpolstring](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/frontseats_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2121"  >}}
 
@@ -297,7 +294,6 @@ Med Driving Assistant Professional  niveau 2-systemet får du yderligere køreau
 Lagekapaciteten i bagagerummet er 470 liter. Med bagsædet nede er det 1290 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2545 kg (5611 lbs), og med basisvægten på 2000 kg (4409 lbs), kan du maksimalt laste 545 kg (1202 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/trunk_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2121"  >}}
 <div class="mt-3 mb-3">

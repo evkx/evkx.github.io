@@ -83,7 +83,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/exterior_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2000"  >}}
 
 
@@ -154,7 +153,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/screens_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="1748"  >}}
 
 ## Infotainment
@@ -181,7 +179,6 @@ Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/headlights_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2001"  >}}
 
@@ -227,7 +224,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 Lastkapasiteten i bagasjerommet er 527 liter. Med baksetet nede er det 1578 liter. På taket kan du laste opptil 80 kg. Takrails er standard på denne modellen, noe som gjør det enkelt å montere takboks eller stativ på bilen. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 24 liter. Maksimumsvekten til bilen er 2660 kg, og med basisvekten på 2214 kg kan du maksimalt laste 446 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt. 446 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1600, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/trunk_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2250"  >}}
 

@@ -81,7 +81,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/exterior_1_st.jpg" title="XPENG G6 RWD Standard Range" width="1920" height="1123"  >}}
 
 
@@ -112,7 +111,6 @@ Följande funktioner är tillgängliga på **** sätet.
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Beige [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/frontseats_1_st.jpg" title="XPENG G6 RWD Standard Range" width="1920" height="1080"  >}}
 
@@ -159,7 +157,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch i mitten av instrumentbrädan är 15,0 tum
 
 Modellen är inte tillgänglig med head-up display.
-
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/screens_1_st.jpg" title="XPENG G6 RWD Standard Range" width="3000" height="1546"  >}}
 

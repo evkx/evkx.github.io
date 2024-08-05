@@ -81,7 +81,6 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/exterior_1_st.jpg" title="XPENG G6 RWD Standard Range" width="1920" height="1123"  >}}
 
 
@@ -112,7 +111,6 @@ Følgende funksjoner er tilgjengelige på **** setet.
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 - Black [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
 - Beige [Nappa-skinntrekk](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/frontseats_1_st.jpg" title="XPENG G6 RWD Standard Range" width="1920" height="1080"  >}}
 
@@ -159,7 +157,6 @@ Viktige skjermdetaljer:
 - touch-skjermen i dashbordets sentrum er 15,0 tommer stor
 
 Modellen er ikke tilgjengelig med head-up display.
-
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/screens_1_st.jpg" title="XPENG G6 RWD Standard Range" width="3000" height="1546"  >}}
 

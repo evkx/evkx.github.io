@@ -90,7 +90,6 @@ Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panora
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/exterior_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2658"  >}}
 
 
@@ -121,7 +120,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - White [lærpolstring](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/frontseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2250"  >}}
 
@@ -168,7 +166,6 @@ Viktige skjermdetaljer:
 
 Modellen er ikke tilgjengelig med head-up display.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/screens_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -191,7 +188,6 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/headlights_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 

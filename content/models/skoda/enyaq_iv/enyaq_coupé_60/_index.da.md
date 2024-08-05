@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 5 timer og 16 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_60/charging_1_st.jpg" title="SKODA ENYAQ COUPÉ 60" width="3000" height="2070"  >}}
 
 ### Ladeport
@@ -91,7 +90,6 @@ Der er kun ét tag til denne model. Standardtaget inkluderer et stort panoramagl
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_60/exterior_1_st.jpg" title="SKODA ENYAQ COUPÉ 60" width="3000" height="2002"  >}}
 
 
@@ -120,7 +118,6 @@ Følgende funktioner er tilgængelige på **Sport** sædet.
 
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_60/frontseats_1_st.jpg" title="SKODA ENYAQ COUPÉ 60" width="3000" height="2001"  >}}
 
 #### Sæde på anden række
@@ -128,7 +125,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_60/secondrowseats_1_st.jpg" title="SKODA ENYAQ COUPÉ 60" width="3000" height="2001"  >}}
 
@@ -167,7 +163,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i dashboardets midte er 13,0 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_60/screens_1_st.jpg" title="SKODA ENYAQ COUPÉ 60" width="3000" height="1999"  >}}
 
@@ -240,7 +235,6 @@ Med MAX  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 570 liter. Med bagsædet nede er det 1610 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2740 kg (6041 lbs), og med basisvægten på 2180 kg (4806 lbs), kan du maksimalt laste 560 kg (1235 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1200, og på ubremset er den 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_60/trunk_1_st.jpg" title="SKODA ENYAQ COUPÉ 60" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

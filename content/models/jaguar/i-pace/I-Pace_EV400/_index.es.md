@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 42 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/charging_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
 
 ### Puerto de carga
@@ -87,7 +86,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. El techo estándar incluye un gran techo panorámico de cristal que se extiende desde el frente hasta la parte trasera, mejorando la sensación de amplitud y luminosidad del interior, mejorando así el estado de ánimo y la comodidad de los ocupantes. Este vidrio está tintado para proteger contra el calor del sol.
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
-
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/exterior_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
 
@@ -144,7 +142,6 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 - Red [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/frontseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1946"  >}}
 
 #### Asientos de la segunda fila
@@ -157,7 +154,6 @@ La opción standard es un banco de tres asientos con una división 60:40 donde p
 La opción second es un banco de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1958"  >}}
 
@@ -194,7 +190,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/screens_1_st.jpg" title="Jaguar I-Pace EV400" width="2560" height="1632"  >}}
 
 ## Infoentretenimiento
@@ -223,7 +218,6 @@ Puedes elegir entre dos tipos de faros para el Jaguar I-Pace EV400.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/headlights_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
 
@@ -256,7 +250,6 @@ Con el sistema estándar, el modelo no ofrece automatización de conducción.
 La capacidad de carga en el maletero es de 505 litros. Con el asiento trasero abatido, es de 1163 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 27 litros (1,0 CU FT).
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 750, y sin freno, es de 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/trunk_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1556"  >}}
 

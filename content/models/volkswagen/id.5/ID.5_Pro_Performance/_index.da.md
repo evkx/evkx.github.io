@@ -50,7 +50,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 7 timer og 0 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro_performance/charging_1_st.jpg" title="Volkswagen ID.5 Pro Performance" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -100,7 +99,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro_performance/exterior_1_st.jpg" title="Volkswagen ID.5 Pro Performance" width="3000" height="2000"  >}}
 
 
@@ -143,7 +141,6 @@ Følgende funktioner er tilgængelige på **ergoActive Top-Sport** sædet.
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro_performance/frontseats_1_st.jpg" title="Volkswagen ID.5 Pro Performance" width="3000" height="2336"  >}}
 
 #### Sæde på anden række
@@ -151,7 +148,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro_performance/secondrowseats_1_st.jpg" title="Volkswagen ID.5 Pro Performance" width="3000" height="2052"  >}}
 
@@ -203,7 +199,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro_performance/screens_1_st.jpg" title="Volkswagen ID.5 Pro Performance" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -234,7 +229,6 @@ Du kan vælge mellem to typer forlygter til Volkswagen ID.5 Pro Performance.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro_performance/headlights_1_st.jpg" title="Volkswagen ID.5 Pro Performance" width="3000" height="2000"  >}}
 
@@ -285,7 +279,6 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 Lagekapaciteten i bagagerummet er 549 liter. Med bagsædet nede er det 1561 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2650 kg (5842 lbs), og med basisvægten på 2042 kg (4502 lbs), kan du maksimalt laste 608 kg (1340 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1000, og på ubremset er den 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro_performance/trunk_1_st.jpg" title="Volkswagen ID.5 Pro Performance" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

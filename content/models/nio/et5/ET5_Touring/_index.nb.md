@@ -107,7 +107,6 @@ Det er bare ett tak for denne modellen. Standardtaket har en stor panoramautsikt
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/exterior_1_st.jpg" title="Nio ET5 Touring" width="2880" height="2316"  >}}
 
 
@@ -256,7 +255,6 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du flere kjøreautomatisering
 Lastkapasiteten i bagasjerommet er 450 liter. Med baksetet nede er det 1447 liter. På taket kan du laste opptil 100 kg. Takrails er standard på denne modellen, noe som gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2900 kg, og med basisvekten på 2379 kg kan du maksimalt laste 521 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/trunk_1_st.jpg" title="Nio ET5 Touring" width="2560" height="1670"  >}}
 <div class="mt-3 mb-3">

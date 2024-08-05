@@ -91,7 +91,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/exterior_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
 
 
@@ -137,7 +136,6 @@ The following functionalities are available on the **Sport** seat.
 
 You can choose from 3 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/frontseats_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
 
 #### Second-row seat
@@ -147,7 +145,6 @@ You can choose from 3 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/secondrowseats_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
 
@@ -187,7 +184,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/screens_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -218,7 +214,6 @@ You can choose between two types of headlights for the BMW iX1 xDrive30.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/headlights_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="1999"  >}}
 
@@ -262,7 +257,6 @@ With the Driving Assistant Professional  level 2 system, you get the following d
 The cargo capacity in the trunk is 490 liters. With the rear seat down, it is 1495 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2580 kg (5688 lbs), and with the base weight of 2010 kg (4431 lbs), you can max load 570 kg (1257 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_xdrive30/trunk_1_st.jpg" title="BMW iX1 xDrive30" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

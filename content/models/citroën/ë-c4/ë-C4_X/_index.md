@@ -84,7 +84,6 @@ There is only one roof for this model.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/exterior_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="2000"  >}}
 
 
@@ -176,7 +175,6 @@ One type of sound system is available for the Citroën ë-C4 X.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/headlights_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="1999"  >}}
 

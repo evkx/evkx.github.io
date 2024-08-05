@@ -50,7 +50,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 36 minutos usando un cargador en casa. Para una carga más rápida, puedes optar por un cargador a bordo opcional que soporta hasta 22 kW. Con esta mejora, puedes lograr una carga completa del 0 al 100% en solo unas 3 horas y 48 minutos en casa.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/charging_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2242"  >}}
 
 ### Puerto de carga
@@ -102,7 +101,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Hay tres opciones de techo diferentes para elegir. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande Es espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El cristal tiene una función electrocrómica que permite difuminar el cristal para protegerlo del sol.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/exterior_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2000"  >}}
 
 
@@ -146,7 +144,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sportsseats Pl
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/frontseats_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2250"  >}}
 
@@ -198,7 +195,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/screens_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2250"  >}}
 
 ## Infoentretenimiento
@@ -225,7 +221,6 @@ Puedes elegir entre tres sistemas de sonido en el Porsche Taycan Turbo S (GEN1).
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/headlights_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2298"  >}}
 

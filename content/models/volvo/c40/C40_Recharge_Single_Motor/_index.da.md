@@ -50,7 +50,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 6 timer og 0 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/charging_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -91,7 +90,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 
 Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset strækker det meste af taget, og beboerne kan åbne den forreste del. Dette glas gør bilens interiøret føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/exterior_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000"  >}}
 
 
@@ -117,7 +115,6 @@ Følgende funktioner er tilgængelige på **** sædet.
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/frontseats_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
@@ -127,7 +124,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/secondrowseats_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000"  >}}
 
@@ -167,7 +163,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/screens_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -190,7 +185,6 @@ Du kan vælge mellem to typer forlygter til Volvo C40 Recharge Single Motor.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/headlights_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000"  >}}
 
@@ -231,7 +225,6 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 Lagekapaciteten i bagagerummet er 419 liter. Med bagsædet nede er det 1205 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 31 liter (1,1 CU FT). Bilens maksimale vægt er 2460 kg (5423 lbs), og med basisvægten på 1990 kg (4387 lbs), kan du maksimalt laste 470 kg (1036 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/trunk_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000"  >}}
 

@@ -84,7 +84,6 @@ Der er kun ét tag til denne model.
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/peugot/2008/e-2008/exterior_1_st.jpg" title="Peugot E-2008" width="3000" height="1666"  >}}
 
 
@@ -155,7 +154,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/peugot/2008/e-2008/screens_1_st.jpg" title="Peugot E-2008" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -180,7 +178,6 @@ Yderligere understøtter Peugot E-2008 Android Auto og Apple CarPlay. Denne funk
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/peugot/2008/e-2008/headlights_1_st.jpg" title="Peugot E-2008" width="3000" height="2000"  >}}
 
@@ -214,7 +211,6 @@ Med DS Drive Assist  niveau 1-systemet får du følgende køreautomatiseringsfun
 Lagekapaciteten i bagagerummet er 434 liter. Med bagsædet nede er det 1467 liter. Bilens maksimale vægt er 2030 kg (4475 lbs), og med basisvægten på 1573 kg (3468 lbs), kan du maksimalt laste 457 kg (1008 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/peugot/2008/e-2008/trunk_1_st.jpg" title="Peugot E-2008" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 10 heures et 16 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/charging_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2032"  >}}
 
 ### Port de recharge
@@ -87,7 +86,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panor
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/exterior_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="1399"  >}}
 
 
@@ -119,7 +117,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 - Gray [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 - White [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/frontseats_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2256"  >}}
 
@@ -167,7 +164,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/screens_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="2052"  >}}
 
 
@@ -189,7 +185,6 @@ Le modèle dispose de 1 connexions USB-C en standard. En option, vous pouvez obt
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/headlights_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="1467"  >}}
 

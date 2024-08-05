@@ -106,7 +106,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit panoramique. La vitre s'étend sur la majeure partie du toit et les occupants peuvent ouvrir la partie avant. Cette vitre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux. , ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-
 {{< sitefiguresized thumb="models/nio/el6/el6/exterior_1_st.jpg" title="Nio EL6" width="2560" height="1280"  >}}
 
 
@@ -139,7 +138,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
-
 
 {{< sitefiguresized thumb="models/nio/el6/el6/frontseats_1_st.jpg" title="Nio EL6" width="2880" height="2316"  >}}
 
@@ -186,7 +184,6 @@ Détails clés de l'écran :
 - L'écran touch au milieu de la console centrale mesure 12,8 pouces
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/nio/el6/el6/screens_1_st.jpg" title="Nio EL6" width="2560" height="1280"  >}}
 
@@ -262,7 +259,6 @@ Avec le système NIO Pilot Complete Pack  niveau 2, vous bénéficiez de fonctio
 La capacité de chargement dans le coffre est de 668 litres. Avec la banquette arrière rabattue, elle est de 1430 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2850 kg (6283 lbs), et avec le poids de base de 2366 kg (5216 lbs), vous pouvez charger au maximum 484 kg (1067 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 484kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1200, et sur une remorque non freinée, il est de 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/nio/el6/el6/trunk_1_st.jpg" title="Nio EL6" width="2560" height="1600"  >}}
 <div class="mt-3 mb-3">

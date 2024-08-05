@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 19,2 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 5 timer og 6 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/charging_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1506"  >}}
 
 ### Ladeport
@@ -86,7 +85,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap
 
 Der er kun ét tag til denne model. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset strækker det meste af taget, og beboerne kan åbne den forreste del. Dette glas gør bilens interiøret føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/exterior_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1595"  >}}
 
 
@@ -117,7 +115,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 - Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/frontseats_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1687"  >}}
 
@@ -165,7 +162,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/screens_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1687"  >}}
 
 ## Infotainment
@@ -192,7 +188,6 @@ Du kan vælge mellem tre lydsystemer på Ford F150 Lightning Standard Range.
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/headlights_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1687"  >}}
 
@@ -242,7 +237,6 @@ Med Ford Co-Pilot360™ Active 2.0  niveau 2-systemet får du yderligere køreau
 Lastkapaciteten i lastbilens lad er 1495 liter. Ladebredden er 1285 mm, og længden er 1704 mm. Den maksimale lastvægt i lad er 907 kg. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 399 liter (14,1 CU FT). Bilens maksimale vægt er 3500 kg (7716 lbs), og med basisvægten på 2890 kg (6371 lbs), kan du maksimalt laste 610 kg (1345 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 3490, og på ubremset er den 750 kg (7694/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/trunk_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1264"  >}}
 

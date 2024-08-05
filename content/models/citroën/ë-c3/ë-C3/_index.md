@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 7.4 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 56 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/charging_1_st.jpg" title="Citroën ë-C3" width="2894" height="2170"  >}}
 
 ### Charge port
@@ -93,7 +92,6 @@ There is only one roof for this model.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/exterior_1_st.jpg" title="Citroën ë-C3" width="3000" height="2000"  >}}
 
 
@@ -121,7 +119,6 @@ The following functionalities are available on the **Advanced Comfort** seat.
 You can choose from 1 different materials/colors for this seat type.
 - Black/Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/frontseats_1_st.jpg" title="Citroën ë-C3" width="3000" height="1759"  >}}
 
 #### Second-row seats
@@ -143,7 +140,6 @@ The following functionalities are available on the **Advanced Comfort** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 - Black/Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/secondrowseats_1_st.jpg" title="Citroën ë-C3" width="2893" height="2170"  >}}
 
@@ -181,7 +177,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/screens_1_st.jpg" title="Citroën ë-C3" width="3000" height="2007"  >}}
 
 
@@ -212,7 +207,6 @@ The model has 2 USB-C connections as standard. As an option, you can get additio
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/headlights_1_st.jpg" title="Citroën ë-C3" width="2894" height="2170"  >}}
 
@@ -248,7 +242,6 @@ Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), one 
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 310 liters. With the rear seat down, it is 1200 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 1910 kg (4211 lbs), and with the base weight of 1416 kg (3122 lbs), you can max load 494 kg (1089 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3/ë-c3/trunk_1_st.jpg" title="Citroën ë-C3" width="3000" height="1999"  >}}
 

@@ -88,7 +88,6 @@ Det er bare ett tak for denne modellen. Standarden er bare et vanlig tak.
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/exterior_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="1999"  >}}
 
 
@@ -136,7 +135,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Orange [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Blue [stoffpolstring](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/frontseats_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2010"  >}}
 
 #### Seter på andre rad
@@ -149,7 +147,6 @@ Alternativet standard er en tre-seters benk med en 60:40-del hvor du kan folde h
 Alternativet second er to kapteinstoler. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2000"  >}}
 
@@ -195,7 +192,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/screens_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -225,7 +221,6 @@ Du kan velge mellom to typer frontlykter for Volkswagen ID. Buzz GTX LWB.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/headlights_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="2000"  >}}
 
@@ -276,7 +271,6 @@ Med Assistantpackage plus  nivå 2-systemet får du flere kjøreautomatiseringsf
 Lastkapasiteten i bagasjerommet er 306 liter. Med baksetet nede er det 2469 liter. På taket kan du laste opptil 100 kg. Maksimumsvekten til bilen er 3000 kg, og med basisvekten på 2625 kg kan du maksimalt laste 375 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx_lwb/trunk_1_st.jpg" title="Volkswagen ID. Buzz GTX LWB" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

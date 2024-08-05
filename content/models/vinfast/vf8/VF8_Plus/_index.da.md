@@ -89,7 +89,6 @@ Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset stræ
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/exterior_1_st.jpg" title="VinFast VF8 Plus" width="2048" height="1365"  >}}
 
 
@@ -133,7 +132,6 @@ Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/secondrowseats_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
 
 
@@ -167,7 +165,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i dashboardets midte er 15,6 tommer stor
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/screens_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
 

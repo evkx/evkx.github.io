@@ -89,7 +89,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/exterior_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 
 
@@ -153,7 +152,6 @@ second-alternativet er et [executive sete kombinert med en to-seters benk](../..
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 - [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest)
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/secondrowseats_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 
 
@@ -191,7 +189,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/screens_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 
 ## Infotainment
@@ -222,7 +219,6 @@ Du kan velge mellom to typer frontlykter for BMW i7 eDrive50.
 - Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/headlights_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 

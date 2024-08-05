@@ -109,7 +109,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/exterior_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2250"  >}}
 
 
@@ -145,7 +144,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 - [soutien lombaire électrique](../../../../technology/seats/adjustment/#lumbar-support)
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/frontseats_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
@@ -197,7 +195,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/screens_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
 
@@ -244,7 +241,6 @@ De plus, vous pouvez choisir entre deux types de feux arrière.
 
 - De plus, les feux arrière standard utilisent la technologie LED.
 - De plus, les feux arrière standards utilisent la technologie OLED.
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 
@@ -303,7 +299,6 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 La capacité de chargement dans le coffre est de 502 litres. Avec la banquette arrière rabattue, elle est de 1422 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 27 litres (1,0 CU FT). Le poids maximum de la voiture est de 2760 kg (6085 lbs), et avec le poids de base de 2185 kg (4817 lbs), vous pouvez charger au maximum 575 kg (1268 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2100, et sur une remorque non freinée, il est de 750 kg (4630/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 

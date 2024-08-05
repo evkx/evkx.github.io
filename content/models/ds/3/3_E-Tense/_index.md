@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 37 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/charging_1_st.jpg" title="DS 3 E-Tense" width="3000" height="1970"  >}}
 
 ### Charge port
@@ -86,7 +85,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 There is only one roof for this model.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
-
 
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/exterior_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
@@ -157,7 +155,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/screens_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -182,7 +179,6 @@ One type of sound system is available for the DS 3 E-Tense.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/headlights_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
@@ -212,7 +208,6 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 The cargo capacity in the trunk is 350 liters. With the rear seat down, it is 1050 liters. The maxium weight of the car is 2008 kg (4427 lbs), and with the base weight of 1550 kg (3417 lbs), you can max load 458 kg (1010 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/trunk_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

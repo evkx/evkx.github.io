@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 0 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/charging_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -94,7 +93,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/exterior_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2000"  >}}
 
 
@@ -137,7 +135,6 @@ Følgende funksjoner er tilgjengelige på **ergoActive Top-Sport** setet.
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/frontseats_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2336"  >}}
 
 #### Seter på andre rad
@@ -145,7 +142,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2052"  >}}
 
@@ -186,7 +182,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/screens_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2206"  >}}
 
 ## Infotainment
@@ -217,7 +212,6 @@ Du kan velge mellom to typer frontlykter for Volkswagen ID.5 Pro.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/headlights_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2000"  >}}
 
@@ -268,7 +262,6 @@ Med Assistantpackage plus  nivå 2-systemet får du flere kjøreautomatiseringsf
 Lastkapasiteten i bagasjerommet er 549 liter. Med baksetet nede er det 1561 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2650 kg, og med basisvekten på 2042 kg kan du maksimalt laste 608 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/trunk_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2000"  >}}
 

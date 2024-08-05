@@ -89,7 +89,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/exterior_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
 
 
@@ -169,7 +168,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch i mitten av instrumentbrädan är 12,0 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/screens_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2001"  >}}
 
@@ -253,7 +251,6 @@ Med Assistantpackage plus  nivå 2-systemet får du fler körautomatiseringsfunk
 Lastkapaciteten i bagageutrymmet är 385 liter. Med baksätet nedfällt är det 1267 liter. På taket kan du lasta upp till 0 kg. Bilens maximala vikt är 2420 kg, och med basvikten på 1884 kg kan du lasta maximalt 536 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/trunk_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
 

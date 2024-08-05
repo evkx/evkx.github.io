@@ -110,7 +110,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne. Som en mulighed er dobbeltglas sidevinduer tilgængelige for at reducere kabinestøj, hvilket forbedrer den samlede køreoplevelse.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/exterior_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
 
@@ -171,7 +170,6 @@ Følgende funktioner er tilgængelige på **multicontour** sædet.
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/frontseats_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
 #### Sæde på anden række
@@ -181,7 +179,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/secondrowseats_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
@@ -255,7 +252,6 @@ Du kan vælge mellem tre typer forlygter til Audi e-tron S.
 
 Derudover bruger standardbaglygterne LED-teknologi.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/headlights_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
 ## Avancerede førerassistentsystemer
@@ -312,7 +308,6 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 Lagekapaciteten i bagagerummet er 555 liter. Med bagsædet nede er det 1594 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 3280 kg (7231 lbs), og med basisvægten på 2655 kg (5853 lbs), kan du maksimalt laste 625 kg (1378 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/trunk_1_st.jpg" title="Audi e-tron S" width="3000" height="2250"  >}}
 

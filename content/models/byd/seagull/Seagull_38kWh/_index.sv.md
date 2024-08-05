@@ -87,7 +87,6 @@ Det finns bara ett tak för denna modell. Standardinställningen är bara ett va
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/exterior_1_st.jpg" title="BYD Seagull 38kWh" width="3000" height="2210"  >}}
 
 
@@ -119,7 +118,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
-
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/secondrowseats_1_st.jpg" title="BYD Seagull 38kWh" width="2300" height="1414"  >}}
 
@@ -159,7 +157,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch i mitten av instrumentbrädan är 10,1 tum
 
 Modellen är inte tillgänglig med head-up display.
-
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/screens_1_st.jpg" title="BYD Seagull 38kWh" width="2400" height="1600"  >}}
 

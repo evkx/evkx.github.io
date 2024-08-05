@@ -83,7 +83,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/exterior_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2000"  >}}
 
 
@@ -154,7 +153,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/screens_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="1748"  >}}
 
 ## Infotainment
@@ -181,7 +179,6 @@ Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelse
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/headlights_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2001"  >}}
 
@@ -227,7 +224,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 527 liter. Med bagsædet nede er det 1578 liter. På taget kan du laste op til 80 kg (176,4 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 24 liter (0,8 CU FT). Bilens maksimale vægt er 2660 kg (5864 lbs), og med basisvægten på 2214 kg (4881 lbs), kan du maksimalt laste 446 kg (983 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 446kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/trunk_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2250"  >}}
 

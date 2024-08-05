@@ -90,7 +90,6 @@ Det finns bara ett tak för denna modell. Vindrutan är panoramautsikt över fö
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/exterior_1_st.jpg" title="Tesla Model X" width="3000" height="2250"  >}}
 
 
@@ -125,7 +124,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/secondrowseats_1_st.jpg" title="Tesla Model X" width="3000" height="2000"  >}}
 
@@ -170,7 +168,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch i den bakre mittkonsolen är 8,0 tum
 
 Modellen är inte tillgänglig med head-up display.
-
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/screens_1_st.jpg" title="Tesla Model X" width="3000" height="2000"  >}}
 
@@ -245,7 +242,6 @@ Med Full Self-Driving Capability  nivå 3-systemet får du fler körautomationsf
 Lastkapaciteten i bagageutrymmet är 709 liter. Med baksätet nedfällt är det 1828 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 183 liter. Bilens maximala vikt är 2970 kg, och med basvikten på 2464 kg kan du lasta maximalt 506 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Dragkrok är standardutrustning på denna modell. Maximal totalvikt på en släpvagn med bromsar är 2250, och på obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/trunk_1_st.jpg" title="Tesla Model X" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

@@ -91,7 +91,6 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/exterior_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
 
 
@@ -181,7 +180,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/screens_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -212,7 +210,6 @@ Du kan velge mellom to typer frontlykter for BMW iX1 eDrive20.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/bmw/ix1/ix1_edrive20/headlights_1_st.jpg" title="BMW iX1 eDrive20" width="3000" height="2250"  >}}
 

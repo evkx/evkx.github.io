@@ -86,7 +86,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/kia/ev3/ev3_long_range/exterior_1_st.jpg" title="Kia EV3 Long Range" width="3000" height="1687"  >}}
 
 
@@ -162,7 +161,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch på höger sida av den delade ramen är 12,3 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/kia/ev3/ev3_long_range/screens_1_st.jpg" title="Kia EV3 Long Range" width="2903" height="1633"  >}}
 

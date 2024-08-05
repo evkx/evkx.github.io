@@ -44,13 +44,11 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 9 heures et 5 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/li_auto/mega/mega/charging_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
 ### Port de recharge
 
 L'emplacement du port de charge est sur le [côté arrière gauche](../../../../technology/charging/connectors/#rear-side). Cet emplacement facilite l'utilisation des bornes de recharge là où vous devez sauvegarder sur le chargeur. Les types de connecteurs varient selon les différents marchés. Ce modèle utilise [**CCS Combo 1**](../../../../technology/charge/connectors/#ccs) pour l'Amérique du Nord et pour l'Europe, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Voir les spécifications complètes pour tous les marchés.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/battery_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
@@ -87,7 +85,6 @@ La voiture a deux [portes ordinaires](../../../../technology/doors/) dans la pre
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un grand toit panoramique s'étendant sur la plupart des zones de l'avant vers l'arrière. Ce verre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance. humeur et confort de l'occupant. Les vitrages sont teintés pour protéger de la chaleur du soleil.
 
 Les vitres du montant B et de l'arrière sont teintées.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/exterior_1_st.jpg" title="Li Auto MEGA" width="2800" height="1575"  >}}
 
@@ -126,7 +123,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 - Gray [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/li_auto/mega/mega/frontseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
 #### Siège de deuxième rangée
@@ -140,7 +136,6 @@ Pour la deuxième rangée, ce modèle dispose de deux sièges capitaine. De plus
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 
-
 {{< sitefiguresized thumb="models/li_auto/mega/mega/secondrowseats_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
 #### Sièges de troisième rangée
@@ -148,7 +143,6 @@ Pour la deuxième rangée, ce modèle dispose de deux sièges capitaine. De plus
 
 
 La troisième rangée est dotée d'une banquette à trois places divisée en 40:60. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/thirdrowseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1667"  >}}
 
@@ -189,7 +183,6 @@ Détails clés de l'écran :
 Pour les passagers arrière, il y a un écran d'infodivertissement dans le toit derrière les sièges de la première rangée.
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/li_auto/mega/mega/screens_1_st.jpg" title="Li Auto MEGA" width="1920" height="1080"  >}}
 
 
@@ -219,7 +212,6 @@ Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 co
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/headlights_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
@@ -270,7 +262,6 @@ Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), u
 La capacité de chargement du coffre est de 1054 litres. Avec le siège de troisième rangée abaissé, elle est de 1800 litres. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 32 litres (1,1 CU FT). Le poids maximum de la voiture est de 3400 kg (7496 lbs), et avec le poids de base de 2763 kg (6091 lbs), vous pouvez charger au maximum 637 kg (1404 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/trunk_1_st.jpg" title="Li Auto MEGA" width="1920" height="1079"  >}}
 

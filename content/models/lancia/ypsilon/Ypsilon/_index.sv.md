@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 4 timmar och 37 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/charging_1_st.jpg" title="Lancia Ypsilon" width="3000" height="2250"  >}}
 
 ### Laddningsport
@@ -84,7 +83,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/exterior_1_st.jpg" title="Lancia Ypsilon" width="3000" height="1688"  >}}
 
 
@@ -116,7 +114,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Gray [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Black [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/frontseats_1_st.jpg" title="Lancia Ypsilon" width="3000" height="1688"  >}}
 
 #### Säten på andra raden
@@ -126,7 +123,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
-
 
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/secondrowseats_1_st.jpg" title="Lancia Ypsilon" width="3000" height="2250"  >}}
 
@@ -164,7 +160,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch på höger sida av den delade ramen är 10,0 tum
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/screens_1_st.jpg" title="Lancia Ypsilon" width="3000" height="1688"  >}}
 
@@ -225,7 +220,6 @@ Med DS Drive Assist  nivå 1-systemet får du följande körautomationsfunktione
 Lastkapaciteten i bagageutrymmet är 352 liter. Med baksätet nedfällt är det 1268 liter. På taket kan du lasta upp till 70 kg. Takräcke är standard på denna modell, vilket gör det enkelt att montera takboxen eller räcket på bilen. Bilens maximala vikt är 1950 kg, och med basvikten på 1584 kg kan du lasta maximalt 366 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
 
 {{< sitefiguresized thumb="models/lancia/ypsilon/ypsilon/trunk_1_st.jpg" title="Lancia Ypsilon" width="3000" height="2250"  >}}
 

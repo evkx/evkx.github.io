@@ -87,7 +87,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap
 
 Der er kun ét tag til denne model. Forruden er panoramisk tilbage over første række. Derudover er der glaspanel over anden række. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen.
 
-
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/exterior_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="1945"  >}}
 
 
@@ -119,7 +118,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/frontseats_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="2248"  >}}
 
 #### Sæde på anden række
@@ -129,7 +127,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/secondrowseats_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="2077"  >}}
 
@@ -172,7 +169,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/screens_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="1999"  >}}
 
 ## Infotainment
@@ -196,7 +192,6 @@ Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelse
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/headlights_1_st.jpg" title="Lucid Air Dream Edition Performance" width="3000" height="2001"  >}}
 
@@ -237,7 +232,6 @@ Med ADAS  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 456 liter. Med bagsædet nede er det 627 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 283 liter (10,0 CU FT). Bilens maksimale vægt er 2850 kg (6283 lbs), og med basisvægten på 2360 kg (5203 lbs), kan du maksimalt laste 490 kg (1080 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/lucid/air/air_dream_edition_performance/trunk_1_st.jpg" title="Lucid Air Dream Edition Performance" width="2000" height="1334"  >}}
 <div class="mt-3 mb-3">

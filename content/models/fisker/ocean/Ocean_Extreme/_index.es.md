@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 9 horas y 40 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/charging_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="2250"  >}}
 
 ### Puerto de carga
@@ -96,7 +95,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [pu
 
 Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámico. El vidrio extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso , lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
 
-
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/exterior_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="1635"  >}}
 
 
@@ -127,7 +125,6 @@ Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Blue [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 - Beige [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/frontseats_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="1687"  >}}
 
@@ -174,7 +171,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en el medio de la consola central mide 17,1 pulgadas de tamaño
 
 El modelo no tiene head-up display.
-
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/screens_1_st.jpg" title="Fisker Ocean Extreme" width="1920" height="1080"  >}}
 

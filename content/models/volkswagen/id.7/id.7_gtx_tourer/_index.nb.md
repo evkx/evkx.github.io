@@ -89,7 +89,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/exterior_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
 
@@ -131,7 +130,6 @@ Følgende funksjoner er tilgjengelige på **ergoActive Top-Sport** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/frontseats_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
@@ -178,7 +176,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/screens_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -206,7 +203,6 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/headlights_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
@@ -257,7 +253,6 @@ Med Assistantpackage plus  nivå 2-systemet får du flere kjøreautomatiseringsf
 Lastkapasiteten i bagasjerommet er 605 liter. Med baksetet nede er det 1714 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2630 kg, og med basisvekten på 2197 kg kan du maksimalt laste 433 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/trunk_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 

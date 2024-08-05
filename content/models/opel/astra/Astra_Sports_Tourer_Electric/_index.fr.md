@@ -81,7 +81,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/exterior_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1685"  >}}
 
 
@@ -156,7 +155,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/screens_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1874"  >}}
 
 ## Infodivertissement
@@ -183,7 +181,6 @@ Le modèle dispose de 3 connexions USB-C en standard.
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/headlights_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1874"  >}}
 
@@ -219,7 +216,6 @@ Avec le système DS Drive Assist  niveau 1, vous bénéficiez des fonctionnalit�
 La capacité de chargement dans le coffre est de 516 litres. Avec la banquette arrière rabattue, elle est de 1533 litres. Sur le toit, vous pouvez charger jusqu'à 70 kg (154,3 lbs). Les rails de toit sont standard sur ce modèle, ce qui facilite le montage du coffre de toit ou des barres de toit sur la voiture. Le poids maximum de la voiture est de 2175 kg (4795 lbs), et avec le poids de base de 1760 kg (3880 lbs), vous pouvez charger au maximum 415 kg (915 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/trunk_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1838"  >}}
 

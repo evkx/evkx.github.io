@@ -91,7 +91,6 @@ There is only one roof for this model. The standard roof includes a large panora
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/exterior_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2455"  >}}
 
 
@@ -118,7 +117,6 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 2 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/frontseats_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -127,7 +125,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/secondrowseats_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2000"  >}}
 
 #### Third-row seats
@@ -135,7 +132,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 
 The third row has an optional two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
-
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/thirdrowseats_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="2000"  >}}
 
@@ -175,7 +171,6 @@ Key screen details:
 - The touch screen on the dashboard's center is 15.0 inches large
 
 The model does not have a head-up display.
-
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range/screens_1_st.jpg" title="Tesla Model Y Long Range" width="3000" height="1800"  >}}
 

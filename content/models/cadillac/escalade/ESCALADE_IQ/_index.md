@@ -81,7 +81,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There is only one roof for this model. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
-
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/exterior_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2028"  >}}
 
 
@@ -113,7 +112,6 @@ The following functionalities are available on the **** seat.
 You can choose from 1 different materials/colors for this seat type.
 - Beige [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/frontseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="1921"  >}}
 
 #### Second-row seat
@@ -127,7 +125,6 @@ For the second row, this model has twin [executive seats](../../../../technology
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/secondrowseats_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2003"  >}}
 
@@ -172,7 +169,6 @@ Key screen details:
 - The touch screen in front of the passenger on the dashboard is 20.0 inches large
 
 The model does not have a head-up display.
-
 
 {{< sitefiguresized thumb="models/cadillac/escalade/escalade_iq/screens_1_st.jpg" title="Cadillac ESCALADE IQ" width="3000" height="2250"  >}}
 

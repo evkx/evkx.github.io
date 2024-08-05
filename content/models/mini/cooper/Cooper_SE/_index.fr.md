@@ -82,7 +82,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/exterior_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 
@@ -108,7 +107,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 - Black [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
-
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/frontseats_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
@@ -152,7 +150,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/screens_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 
 ## Infodivertissement
@@ -169,7 +166,6 @@ Un type de système audio est disponible pour le Mini Cooper SE.
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/headlights_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 

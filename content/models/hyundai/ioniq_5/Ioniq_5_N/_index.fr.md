@@ -83,7 +83,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/exterior_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2000"  >}}
 
 
@@ -154,7 +153,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/screens_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="1748"  >}}
 
 ## Infodivertissement
@@ -181,7 +179,6 @@ Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 co
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/headlights_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2001"  >}}
 
@@ -227,7 +224,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 La capacité de chargement dans le coffre est de 527 litres. Avec la banquette arrière rabattue, elle est de 1578 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Les rails de toit sont standard sur ce modèle, ce qui facilite le montage du coffre de toit ou des barres de toit sur la voiture. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 24 litres (0,8 CU FT). Le poids maximum de la voiture est de 2660 kg (5864 lbs), et avec le poids de base de 2214 kg (4881 lbs), vous pouvez charger au maximum 446 kg (983 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 446kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1600, et sur une remorque non freinée, il est de 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_n/trunk_1_st.jpg" title="Hyundai Ioniq 5 N" width="3000" height="2250"  >}}
 

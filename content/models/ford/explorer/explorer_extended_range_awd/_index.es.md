@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 10 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_awd/charging_1_st.jpg" title="Ford Explorer Extended Range AWD" width="3000" height="2000"  >}}
 
 ### Puerto de carga
@@ -92,7 +91,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este cristal hace que el coche sea más cómodo. El interior se siente más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
-
 
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_awd/exterior_1_st.jpg" title="Ford Explorer Extended Range AWD" width="3000" height="2199"  >}}
 
@@ -170,7 +168,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_awd/screens_1_st.jpg" title="Ford Explorer Extended Range AWD" width="3000" height="2250"  >}}
 
 ## Infoentretenimiento
@@ -198,7 +195,6 @@ El modelo tiene 4 conexiones USB-C de serie.
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_awd/headlights_1_st.jpg" title="Ford Explorer Extended Range AWD" width="3000" height="2250"  >}}
 

@@ -89,7 +89,6 @@ Sólo hay un techo para este modelo. El estándar es simplemente un techo normal
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/exterior_1_st.jpg" title="VinFast VF8 Eco" width="2048" height="1365"  >}}
 
 
@@ -128,7 +127,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 60:4
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 
-
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/secondrowseats_1_st.jpg" title="VinFast VF8 Eco" width="2960" height="1232"  >}}
 
 
@@ -162,7 +160,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en el centro del tablero mide 15,6 pulgadas de tamaño
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_eco/screens_1_st.jpg" title="VinFast VF8 Eco" width="2960" height="1232"  >}}
 

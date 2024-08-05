@@ -86,7 +86,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/kia/ev3/ev3_long_range/exterior_1_st.jpg" title="Kia EV3 Long Range" width="3000" height="1687"  >}}
 
 
@@ -162,7 +161,6 @@ Key screen details:
 - The touch screen at the right part of the shared frame is 12.3 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/kia/ev3/ev3_long_range/screens_1_st.jpg" title="Kia EV3 Long Range" width="2903" height="1633"  >}}
 

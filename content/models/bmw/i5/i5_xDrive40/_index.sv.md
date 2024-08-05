@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 7 timmar och 22 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/charging_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="3000"  >}}
 
 ### Laddningsport
@@ -98,7 +97,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/exterior_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="1999"  >}}
 
 
@@ -137,7 +135,6 @@ Följande funktioner är tillgängliga på **Comfort seats** sätet.
 - [elektriskt svankstöd](../../../../technology/seats/adjustment/#ländryggsstöd) (valfritt)
 - [justering av ryggstödets sidostöd](../../../../technology/seats/adjustment/#justering-av-ryggstödet)
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/frontseats_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
@@ -147,7 +144,6 @@ Följande funktioner är tillgängliga på **Comfort seats** sätet.
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/secondrowseats_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
 
@@ -189,7 +185,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/screens_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="1999"  >}}
 
 ## Infotainment
@@ -221,7 +216,6 @@ Du kan välja mellan två typer av strålkastare för BMW i5 xDrive40.
 - Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/headlights_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
 
@@ -269,7 +263,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du fler körautomatise
 Lastkapaciteten i bagageutrymmet är 490 liter. Med baksätet nedfällt är det 1290 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2740 kg, och med basvikten på 2256 kg kan du lasta maximalt 484 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_xdrive40/trunk_1_st.jpg" title="BMW i5 xDrive40" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

@@ -88,7 +88,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh_e-4orce/exterior_1_st.jpg" title="Nissan Ariya 87kWh e-4ORCE" width="3000" height="2000"  >}}
 
 
@@ -167,7 +166,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh_e-4orce/screens_1_st.jpg" title="Nissan Ariya 87kWh e-4ORCE" width="3000" height="1999"  >}}
 
 
@@ -240,7 +238,6 @@ Med ProPILOT  niveau 2-systemet får du følgende køreautomatiseringsfunktioner
 Lagekapaciteten i bagagerummet er 415 liter. Med bagsædet nede er det 1490 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2400 kg (5291 lbs), og med basisvægten på 1875 kg (4134 lbs), kan du maksimalt laste 525 kg (1157 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/nissan/ariya/ariya_87kwh_e-4orce/trunk_1_st.jpg" title="Nissan Ariya 87kWh e-4ORCE" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

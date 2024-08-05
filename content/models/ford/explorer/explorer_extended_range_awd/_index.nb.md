@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 10 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_awd/charging_1_st.jpg" title="Ford Explorer Extended Range AWD" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -92,7 +91,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør bilens interiøret føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
-
 
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_awd/exterior_1_st.jpg" title="Ford Explorer Extended Range AWD" width="3000" height="2199"  >}}
 
@@ -170,7 +168,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_awd/screens_1_st.jpg" title="Ford Explorer Extended Range AWD" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -198,7 +195,6 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_awd/headlights_1_st.jpg" title="Ford Explorer Extended Range AWD" width="3000" height="2250"  >}}
 

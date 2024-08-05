@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 37 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/charging_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
 
 ### Charge port
@@ -104,7 +103,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
-
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/exterior_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
 
@@ -168,7 +166,6 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/secondrowseats_1_st.jpg" title="Porsche Macan 4S" width="3000" height="2250"  >}}
 
 
@@ -208,7 +205,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/screens_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
 
 ## Infotainment
@@ -239,7 +235,6 @@ You can choose between two types of headlights for the Porsche Macan 4S.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/headlights_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
 
@@ -292,7 +287,6 @@ With the Porsche InnoDrive  level 2 system, you get additional driving automatio
 The cargo capacity in the trunk is 480 liters. With the rear seat down, it is 1288 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2950 kg (6504 lbs), and with the base weight of 2330 kg (5137 lbs), you can max load 620 kg (1367 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/trunk_1_st.jpg" title="Porsche Macan 4S" width="3000" height="2250"  >}}
 

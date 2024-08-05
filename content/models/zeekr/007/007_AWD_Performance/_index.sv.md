@@ -81,7 +81,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/exterior_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
 
@@ -115,7 +114,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 - Gray [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Gray [läderklädsel](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/frontseats_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
 #### Säten på andra raden
@@ -126,7 +124,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion d�
 
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/secondrowseats_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
@@ -166,7 +163,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch översta mittkonsolen är 15,0 tum
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/screens_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 

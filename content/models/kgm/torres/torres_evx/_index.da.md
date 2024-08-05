@@ -86,7 +86,6 @@ Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/exterior_1_st.jpg" title="KGM Torres EVX" width="3000" height="2000"  >}}
 
 
@@ -160,7 +159,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/screens_1_st.jpg" title="KGM Torres EVX" width="3000" height="1960"  >}}
 
 ## Infotainment
@@ -187,7 +185,6 @@ Modellen har 4 USB-C-forbindelser som standard.
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/headlights_1_st.jpg" title="KGM Torres EVX" width="3000" height="1687"  >}}
 

@@ -86,7 +86,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There is only one roof for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/exterior_1_st.jpg" title="Hongqi E-HS9 Exclusive+" width="3000" height="1757"  >}}
 
 
@@ -169,7 +168,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/screens_1_st.jpg" title="Hongqi E-HS9 Exclusive+" width="3000" height="1800"  >}}
 
 
@@ -195,7 +193,6 @@ The model has 1 USB-C connections as standard. The model has 3 USB-A connections
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusiveplus/headlights_1_st.jpg" title="Hongqi E-HS9 Exclusive+" width="851" height="686"  >}}
 

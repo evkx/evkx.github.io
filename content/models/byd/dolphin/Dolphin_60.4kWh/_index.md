@@ -87,7 +87,6 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/exterior_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2499" height="1621"  >}}
 
 
@@ -119,7 +118,6 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/frontseats_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1579"  >}}
 
 #### Second-row seat
@@ -127,7 +125,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/secondrowseats_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1623"  >}}
 
@@ -179,7 +176,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/screens_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1550"  >}}
 
 ## Infotainment
@@ -202,7 +198,6 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/headlights_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1448"  >}}
 
@@ -248,7 +243,6 @@ With the   level 1 system, you get the following driving automation features.
 The cargo capacity in the trunk is 345 liters. With the rear seat down, it is 1310 liters. On the roof, you can load up to 50 kg (110.2 lbs). The maxium weight of the car is 2068 kg (4559 lbs), and with the base weight of 1658 kg (3655 lbs), you can max load 410 kg (904 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 0, and on unbraked, it is 0 kg (0/0 lbs).
-
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}
 <div class="mt-3 mb-3">

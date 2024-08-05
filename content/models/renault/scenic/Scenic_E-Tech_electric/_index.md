@@ -88,7 +88,6 @@ There is only one roof for this model. The standard roof has a large panoramic e
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/exterior_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="1687"  >}}
 
 
@@ -118,7 +117,6 @@ The following functionalities are available on the **standard** seat.
 You can choose from 1 different materials/colors for this seat type.
 - Gray [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/frontseats_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
 
 #### Second-row seat
@@ -128,7 +126,6 @@ You can choose from 1 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/secondrowseats_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
 
@@ -169,7 +166,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/screens_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
 
 
@@ -203,7 +199,6 @@ You can choose between two types of headlights for the Renault Scenic E-Tech ele
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/headlights_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="1687"  >}}
 
@@ -247,7 +242,6 @@ With the ProPILOT  level 2 system, you get the following driving automation feat
 The cargo capacity in the trunk is 545 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2340 kg (5159 lbs), and with the base weight of 1772 kg (3907 lbs), you can max load 568 kg (1252 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1100, and on unbraked, it is 750 kg (2425/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/renault/scenic/scenic_e-tech_electric/trunk_1_st.jpg" title="Renault Scenic E-Tech electric" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

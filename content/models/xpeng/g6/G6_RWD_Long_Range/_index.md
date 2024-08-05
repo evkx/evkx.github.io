@@ -81,7 +81,6 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_long_range/exterior_1_st.jpg" title="XPENG G6 RWD Long Range" width="1920" height="1123"  >}}
 
 
@@ -112,7 +111,6 @@ The following functionalities are available on the **** seat.
 You can choose from 2 different materials/colors for this seat type.
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Beige [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_long_range/frontseats_1_st.jpg" title="XPENG G6 RWD Long Range" width="1920" height="1080"  >}}
 
@@ -159,7 +157,6 @@ Key screen details:
 - The touch screen on the dashboard's center is 15.0 inches large
 
 The model does not have a head-up display.
-
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_long_range/screens_1_st.jpg" title="XPENG G6 RWD Long Range" width="3000" height="1546"  >}}
 

@@ -113,7 +113,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers. As an option, double-glazed side windows are available to reduce cabin noise, enhancing the overall driving experience.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/exterior_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
 
@@ -174,7 +173,6 @@ The following functionalities are available on the **multicontour** seat.
 
 You can choose from 4 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/frontseats_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
 #### Second-row seat
@@ -184,7 +182,6 @@ You can choose from 4 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - height adjustable headrest
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/secondrowseats_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
@@ -258,7 +255,6 @@ You can choose between three types of headlights for the Audi e-tron S.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/headlights_1_st.jpg" title="Audi e-tron S" width="3000" height="2249"  >}}
 
 ## Advanced driver assistance systems
@@ -315,7 +311,6 @@ Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), fiv
 The cargo capacity in the trunk is 555 liters. With the rear seat down, it is 1594 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 3280 kg (7231 lbs), and with the base weight of 2655 kg (5853 lbs), you can max load 625 kg (1378 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1800, and on unbraked, it is 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s/trunk_1_st.jpg" title="Audi e-tron S" width="3000" height="2250"  >}}
 

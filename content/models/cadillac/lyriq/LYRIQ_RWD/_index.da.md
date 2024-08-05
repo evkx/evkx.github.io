@@ -80,7 +80,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er to forskellige tagmuligheder at vælge imellem. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen. Som ekstraudstyr kan du bestille denne model med panoramatag, der kan åbnes. Glasset har to paneler. Et over første og anden række, og beboerne kan åbne den forreste del. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/exterior_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2249"  >}}
 
 
@@ -111,7 +110,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Gray [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/frontseats_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2700"  >}}
 
 #### Sæde på anden række
@@ -119,7 +117,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
-
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/secondrowseats_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2249"  >}}
 
@@ -158,7 +155,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/screens_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2000"  >}}
 
 
@@ -188,7 +184,6 @@ Modellen har 5 USB-C-forbindelser som standard.
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/headlights_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="1973"  >}}
 
@@ -227,7 +222,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 793 liter. Med bagsædet nede er det 1723 liter.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1588, og på ubremset er den 750 kg (3501/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_rwd/trunk_1_st.jpg" title="Cadillac LYRIQ RWD" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

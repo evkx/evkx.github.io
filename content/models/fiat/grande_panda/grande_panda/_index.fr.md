@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 7,4 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 5 heures et 56 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/charging_1_st.JPG" title="Fiat Grande Panda" width="3000" height="1999"  >}}
 
 ### Port de recharge
@@ -93,7 +92,6 @@ Il n'y a qu'un seul toit pour ce modèle.
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/exterior_1_st.jpg" title="Fiat Grande Panda" width="3000" height="1577"  >}}
 
 
@@ -125,7 +123,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Advanced Comfort
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
 - Black/Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/frontseats_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 
@@ -170,7 +167,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/screens_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 
 
@@ -201,7 +197,6 @@ Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obt
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/headlights_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 
@@ -237,7 +232,6 @@ Jusqu'à un [capteurs radar](../../../../technology/sensorsandcameras/radar/), u
 ## Capacité de chargement et capacité de remorquage
 
 La capacité de chargement dans le coffre est de 361 litres. Avec la banquette arrière rabattue, elle est de 1600 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2030 kg (4475 lbs), et avec le poids de base de 1429 kg (3150 lbs), vous pouvez charger au maximum 601 kg (1325 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
-
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/trunk_1_st.jpg" title="Fiat Grande Panda" width="3000" height="1782"  >}}
 

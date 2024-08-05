@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 2 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/charging_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -90,7 +89,6 @@ More narrow wheels will improve consumption and give a longer range, while wider
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="1999"  >}}
 
@@ -140,7 +138,6 @@ The following functionalities are available on the **multicontour** seat.
 
 You can choose from 5 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -183,7 +180,6 @@ Key screen details:
 - The touch screen at the right part of the shared frame is 10.3 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_350_4matic/screens_1_st.jpg" title="Mercedes-EQ EQA 350 4MATIC" width="3000" height="2249"  >}}
 

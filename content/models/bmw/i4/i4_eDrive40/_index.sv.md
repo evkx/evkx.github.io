@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 7 timmar och 20 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/charging_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2001"  >}}
 
 ### Laddningsport
@@ -93,7 +92,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med taklucka. Glaset sträcker sig bara över första raden och passagerarna kan öppna det. Detta glas gör att bilens interiör känns mer rymlig och ljus, vilket kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/exterior_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2255"  >}}
 
@@ -178,7 +176,6 @@ Du kan välja mellan 21 olika material/färger för denna sitstyp.
 - Brown [läderklädsel](../../../../technology/seats/materials/#leather)
 - Blue [läderklädsel](../../../../technology/seats/materials/#leather)
 - Black [läderklädsel](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/frontseats_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2121"  >}}
 
@@ -297,7 +294,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du fler körautomatise
 Lastkapaciteten i bagageutrymmet är 470 liter. Med baksätet nedfällt är det 1290 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 2605 kg, och med basvikten på 2050 kg kan du lasta maximalt 555 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1600, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive40/trunk_1_st.jpg" title="BMW i4 eDrive40" width="3000" height="2121"  >}}
 <div class="mt-3 mb-3">

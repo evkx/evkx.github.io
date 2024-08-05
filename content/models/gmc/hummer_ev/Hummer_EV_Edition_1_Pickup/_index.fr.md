@@ -80,7 +80,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard comporte 4 panneaux de verre séparés qui peuvent être retirés, ce qui en fait un cabriolet.
 
-
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2000"  >}}
 
 
@@ -155,7 +154,6 @@ Détails clés de l'écran :
 - L'écran touch au centre du tableau de bord mesure 13,4 pouces
 
 Le modèle n'a pas d'affichage tête haute.
-
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2001"  >}}
 

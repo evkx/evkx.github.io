@@ -89,7 +89,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/exterior_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
 
@@ -131,7 +130,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **ergoActive Top-S
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/frontseats_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
@@ -178,7 +176,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/screens_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
 ## Infodivertissement
@@ -206,7 +203,6 @@ Le modèle dispose de 4 connexions USB-C en standard.
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/headlights_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 
@@ -257,7 +253,6 @@ Avec le système Assistantpackage plus  niveau 2, vous bénéficiez de fonctionn
 La capacité de chargement dans le coffre est de 605 litres. Avec la banquette arrière rabattue, elle est de 1714 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2630 kg (5798 lbs), et avec le poids de base de 2197 kg (4844 lbs), vous pouvez charger au maximum 433 kg (955 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1000, et sur une remorque non freinée, il est de 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.7/id.7_gtx_tourer/trunk_1_st.jpg" title="Volkswagen ID.7 GTX Tourer" width="3000" height="2000"  >}}
 

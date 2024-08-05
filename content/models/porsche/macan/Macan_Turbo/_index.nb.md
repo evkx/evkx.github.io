@@ -93,7 +93,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/exterior_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="1687"  >}}
 
 
@@ -139,7 +138,6 @@ Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/frontseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
 
 #### Seter på andre rad
@@ -149,7 +147,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/secondrowseats_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
 
@@ -190,7 +187,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/screens_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="1687"  >}}
 
 ## Infotainment
@@ -221,7 +217,6 @@ Du kan velge mellom to typer frontlykter for Porsche Macan Turbo.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/headlights_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
 
@@ -274,7 +269,6 @@ Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 Lastkapasiteten i bagasjerommet er 480 liter. Med baksetet nede er det 1288 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2950 kg, og med basisvekten på 2330 kg kan du maksimalt laste 620 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2000, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_turbo/trunk_1_st.jpg" title="Porsche Macan Turbo" width="3000" height="2250"  >}}
 

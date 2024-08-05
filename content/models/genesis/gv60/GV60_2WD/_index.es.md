@@ -86,7 +86,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/exterior_1_st.jpg" title="Genesis GV60 2WD" width="3000" height="2121"  >}}
 
 
@@ -120,7 +119,6 @@ Puedes elegir entre 6 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
 - Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
 - Gray [tapizado de microfibra/cuero sintético](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/frontseats_1_st.jpg" title="Genesis GV60 2WD" width="1500" height="1090"  >}}
 
@@ -169,7 +167,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/screens_1_st.jpg" title="Genesis GV60 2WD" width="3000" height="1796"  >}}
 
 ## Infoentretenimiento
@@ -196,7 +193,6 @@ El modelo tiene 4 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/headlights_1_st.jpg" title="Genesis GV60 2WD" width="1387" height="780"  >}}
 

@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 0 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85x/charging_1_st.jpg" title="SKODA ENYAQ COUPÉ 85x" width="3000" height="2070"  >}}
 
 ### Ladeport
@@ -91,7 +90,6 @@ Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panora
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85x/exterior_1_st.jpg" title="SKODA ENYAQ COUPÉ 85x" width="3000" height="2002"  >}}
 
 
@@ -120,7 +118,6 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85x/frontseats_1_st.jpg" title="SKODA ENYAQ COUPÉ 85x" width="3000" height="2001"  >}}
 
 #### Seter på andre rad
@@ -128,7 +125,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85x/secondrowseats_1_st.jpg" title="SKODA ENYAQ COUPÉ 85x" width="3000" height="2001"  >}}
 
@@ -167,7 +163,6 @@ Viktige skjermdetaljer:
 - touch-skjermen i dashbordets sentrum er 13,0 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85x/screens_1_st.jpg" title="SKODA ENYAQ COUPÉ 85x" width="3000" height="1999"  >}}
 
@@ -240,7 +235,6 @@ Med MAX  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 Lastkapasiteten i bagasjerommet er 570 liter. Med baksetet nede er det 1610 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2740 kg, og med basisvekten på 2180 kg kan du maksimalt laste 560 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85x/trunk_1_st.jpg" title="SKODA ENYAQ COUPÉ 85x" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

@@ -97,7 +97,6 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 There is only one roof for this model.
 
-
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/exterior_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="2004"  >}}
 
 
@@ -158,7 +157,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/screens_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="1977"  >}}
 
 ## Infotainment
@@ -183,7 +181,6 @@ One type of sound system is available for the Automobili Pininfarina Battista.
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/headlights_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="1999"  >}}
 

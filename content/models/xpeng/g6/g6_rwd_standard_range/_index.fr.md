@@ -81,7 +81,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un grand 
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/exterior_1_st.jpg" title="XPENG G6 RWD Standard Range" width="1920" height="1123"  >}}
 
 
@@ -112,7 +111,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 - Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 - Beige [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/frontseats_1_st.jpg" title="XPENG G6 RWD Standard Range" width="1920" height="1080"  >}}
 
@@ -159,7 +157,6 @@ Détails clés de l'écran :
 - L'écran touch au centre du tableau de bord mesure 15,0 pouces
 
 Le modèle n'a pas d'affichage tête haute.
-
 
 {{< sitefiguresized thumb="models/xpeng/g6/g6_rwd_standard_range/screens_1_st.jpg" title="XPENG G6 RWD Standard Range" width="3000" height="1546"  >}}
 

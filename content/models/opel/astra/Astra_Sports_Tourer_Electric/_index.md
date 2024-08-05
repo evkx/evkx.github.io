@@ -81,7 +81,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/exterior_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1685"  >}}
 
 
@@ -156,7 +155,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/screens_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1874"  >}}
 
 ## Infotainment
@@ -183,7 +181,6 @@ The model has 3 USB-C connections as standard.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/headlights_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1874"  >}}
 
@@ -219,7 +216,6 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 The cargo capacity in the trunk is 516 liters. With the rear seat down, it is 1533 liters. On the roof, you can load up to 70 kg (154.3 lbs). Roof rails are standard on this model, making it easy to mount the roof box or rack to the car. The maxium weight of the car is 2175 kg (4795 lbs), and with the base weight of 1760 kg (3880 lbs), you can max load 415 kg (915 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/trunk_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1838"  >}}
 

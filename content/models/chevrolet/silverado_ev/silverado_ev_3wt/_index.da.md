@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 17 timer og 16 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/charging_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -84,7 +83,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap
 
 Der er kun ét tag til denne model.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/exterior_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
 
@@ -112,7 +110,6 @@ Følgende funktioner er tilgængelige på **** sædet.
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/frontseats_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2002"  >}}
 
 #### Sæde på anden række
@@ -123,7 +120,6 @@ Den anden række har en standard tre-sæders bænk med en  del, hvor du kan fold
 
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
@@ -163,7 +159,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i dashboardets midte er 11,0 tommer stor
 
 Modellen har ikke et head-up display.
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/screens_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
@@ -222,7 +217,6 @@ Med Super Cruise  niveau 1-systemet får du følgende køreautomatiseringsfunkti
 Lastkapaciteten i lastbilens lad er 1039 liter. Ladebredden er 1286 mm, og længden er 1803 mm. Den maksimale lastvægt i lad er 614 kg. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 303 liter (10,7 CU FT). Bilens maksimale vægt er 4531 kg (9989 lbs), og med basisvægten på 3723 kg (8208 lbs), kan du maksimalt laste 808 kg (1781 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 5670, og på ubremset er den 750 kg (12500/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/trunk_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 

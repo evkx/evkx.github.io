@@ -106,7 +106,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/nio/el7/el7/exterior_1_st.jpeg" title="Nio EL7" width="2880" height="1792"  >}}
 
 
@@ -138,7 +137,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [reposapiés para pasajero](../../../../technology/seats/adjustment/#footrest)
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
-
 
 {{< sitefiguresized thumb="models/nio/el7/el7/frontseats_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
 
@@ -187,7 +185,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/nio/el7/el7/screens_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
 
 
@@ -213,7 +210,6 @@ El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A 
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/nio/el7/el7/headlights_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
 
@@ -265,7 +261,6 @@ Con el sistema NIO Pilot Complete Pack  nivel 2, obtienes funciones de automatiz
 La capacidad de carga en el maletero es de 570 litros. Con el asiento trasero abatido, es de 1545 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2850 kg (6283 lbs), y con el peso base de 2366 kg (5216 lbs), puedes cargar como máximo 484 kg (1067 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga. 484kg se considera bajo para este tipo de automóvil y podría restringir la cantidad de cosas que puedes llevar además de los pasajeros.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2000, y sin freno, es de 750 kg (4409/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/nio/el7/el7/trunk_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
 <div class="mt-3 mb-3">

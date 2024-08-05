@@ -110,7 +110,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/exterior_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="1999"  >}}
 
 
@@ -171,7 +170,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/frontseats_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2249"  >}}
 
 #### Siège de deuxième rangée
@@ -220,7 +218,6 @@ Détails clés de l'écran :
 - L'écran touch en bas de la console centrale mesure 8,6 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/screens_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2250"  >}}
 
@@ -308,7 +305,6 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 La capacité de chargement dans le coffre est de 660 litres. Avec la banquette arrière rabattue, elle est de 1725 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 3280 kg (7231 lbs), et avec le poids de base de 2655 kg (5853 lbs), vous pouvez charger au maximum 625 kg (1378 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1800, et sur une remorque non freinée, il est de 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_s_sportback/trunk_1_st.jpg" title="Audi e-tron S Sportback" width="3000" height="2249"  >}}
 

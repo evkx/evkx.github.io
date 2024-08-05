@@ -89,7 +89,6 @@ There are two different roof options to select from. The standard is just a regu
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/exterior_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
 
 
@@ -169,7 +168,6 @@ Key screen details:
 - The touch screen on the dashboard's center is 12.0 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/screens_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2001"  >}}
 
@@ -253,7 +251,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 385 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0.0 lbs). The maxium weight of the car is 2420 kg (5335 lbs), and with the base weight of 1884 kg (4154 lbs), you can max load 536 kg (1182 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_pro_s/trunk_1_st.jpg" title="Volkswagen ID.3 Pro S" width="3000" height="2000"  >}}
 

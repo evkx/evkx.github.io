@@ -76,7 +76,6 @@ Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på
 
 Det finns bara ett tak för denna modell.
 
-
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/exterior_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
 
@@ -134,7 +133,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/screens_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -151,7 +149,6 @@ En typ av ljudsystem är tillgänglig för Honda e:Ny1.
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/headlights_1_st.jpg" title="Honda e:Ny1" width="3000" height="1819"  >}}
 
@@ -177,7 +174,6 @@ Med standardsystemet erbjuder modellen ingen körautomatisering.
 Lastutrymmets kapacitet är 346 liter. Bilens maximala vikt är 2080 kg, och med basvikten på 1677 kg kan du lasta maximalt 403 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/trunk_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

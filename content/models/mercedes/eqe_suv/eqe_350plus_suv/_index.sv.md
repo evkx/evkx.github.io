@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 43 minuter med en hemmaladdare. För snabbare laddning kan du välja en valfri ombordladdare som stöder upp till 22 kW. Med denna uppgradering kan du uppnå en full laddning från 0 till 100% på bara cirka 4 timmar och 21 minuter hemma.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350plus_suv/charging_1_st.jpg" title="Mercedes-EQ EQE 350+ SUV" width="3000" height="2001"  >}}
 
 ### Laddningsport
@@ -92,7 +91,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset har två paneler. En ovanför första och andra raden. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humöret och komforten för den åkande. Båda glaspanelerna har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350plus_suv/exterior_1_st.jpg" title="Mercedes-EQ EQE 350+ SUV" width="3000" height="1687"  >}}
 
 
@@ -139,7 +137,6 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350plus_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQE 350+ SUV" width="3000" height="2250"  >}}
 
@@ -200,7 +197,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350plus_suv/screens_1_st.jpg" title="Mercedes-EQ EQE 350+ SUV" width="3000" height="2001"  >}}
 
 
@@ -236,7 +232,6 @@ Du kan välja mellan två typer av strålkastare för Mercedes-EQ EQE 350+ SUV.
 - Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_350plus_suv/headlights_1_st.jpg" title="Mercedes-EQ EQE 350+ SUV" width="3000" height="2250"  >}}
 

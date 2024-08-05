@@ -54,7 +54,6 @@ The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. T
 
 The location of the charge port is on the [right rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/battery_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="1766"  >}}
 
 
@@ -111,7 +110,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/exterior_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2250"  >}}
 
 
@@ -150,7 +148,6 @@ The following functionalities are available on the **sport** seat.
 
 You can choose from 4 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/frontseats_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="1998"  >}}
 
 #### Second-row seats
@@ -161,7 +158,6 @@ The standard option is a three-seat bench with a 60:40 split where you can fold 
 
 
 The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/secondrowseats_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2000"  >}}
 
@@ -203,7 +199,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/screens_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="1686"  >}}
 
 ## Infotainment
@@ -237,7 +232,6 @@ Additionally, you have two options for taillights:
 
 - The standard taillight uses LED technology and offers two distinctive lights, including one reversing light.
 - The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights.
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/headlights_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2003"  >}}
 
@@ -291,7 +285,6 @@ With the Assistantpackage Tour  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1490 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2720 kg (5997 lbs), and with the base weight of 2135 kg (4707 lbs), you can max load 585 kg (1290 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/trunk_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2249"  >}}
 

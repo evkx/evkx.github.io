@@ -101,7 +101,6 @@ Der er kun ét tag til denne model. Alternativt kan du vælge et panoramisk tag 
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/exterior_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 
@@ -132,7 +131,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Green [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Blue [læderbetræk](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/frontseats_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
@@ -187,7 +185,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/screens_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
 
@@ -213,7 +210,6 @@ Modellen har 6 USB-C-forbindelser som standard.
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/headlights_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 
@@ -260,7 +256,6 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), 11 
 Lagekapaciteten i bagagerummet er 498 liter. Med bagsædet nede er det 2965 liter. På taget kan du laste op til 113 kg (249,1 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 314 liter (11,1 CU FT). Bilens maksimale vægt er 3870 kg (8532 lbs), og med basisvægten på 3216 kg (7090 lbs), kan du maksimalt laste 654 kg (1442 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 3492, og på ubremset er den 750 kg (7699/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd_mp/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD MP" width="2880" height="1920"  >}}
 

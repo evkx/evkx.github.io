@@ -89,7 +89,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/exterior_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1999"  >}}
 
 
@@ -118,7 +117,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
 Du kan välja mellan 7 olika material/färger för denna sitstyp.
-
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/frontseats_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2001"  >}}
 
@@ -173,7 +171,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/screens_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1991"  >}}
 
 ## Infotainment
@@ -204,7 +201,6 @@ Du kan välja mellan två typer av strålkastare för BMW i7 M70 xDrive.
 - Strålkastare baserade på LED Matrix med laserteknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkla ljusstrålen i dussintals mindre strålar som ljusregulatorn kan slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/headlights_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2001"  >}}
 

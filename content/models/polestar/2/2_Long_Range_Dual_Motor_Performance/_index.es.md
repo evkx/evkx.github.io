@@ -84,7 +84,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [pu
 
 Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
 
-
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/exteriore_3_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="2953" height="2215"  >}}
 
 
@@ -116,7 +115,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/frontseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="1687"  >}}
 
 #### Asiento de segunda fila
@@ -126,7 +124,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/secondrowseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="2250"  >}}
 
@@ -166,7 +163,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/screens_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="2250"  >}}
 
 ## Infoentretenimiento
@@ -189,7 +185,6 @@ Puedes elegir entre dos tipos de faros para el Polestar 2 Long Range Dual Motor 
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/headlights_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="1766"  >}}
 

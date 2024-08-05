@@ -81,7 +81,6 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/xpeng/p7/p7_awd_performance/exterior_1_st.jpg" title="XPENG P7 AWD Performance" width="3000" height="2000"  >}}
 
 
@@ -159,7 +158,6 @@ Viktige skjermdetaljer:
 - touch-skjermen i dashbordets sentrum er 15,0 tommer stor
 
 Modellen er ikke tilgjengelig med head-up display.
-
 
 {{< sitefiguresized thumb="models/xpeng/p7/p7_awd_performance/screens_1_st.jpg" title="XPENG P7 AWD Performance" width="2000" height="1334"  >}}
 

@@ -85,7 +85,6 @@ Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/exterior_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
 
 
@@ -123,7 +122,6 @@ Du kan vælge mellem 7 forskellige materialer/farver til denne sædetype.
 - Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - Red [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1687"  >}}
 
 #### Sæde på anden række
@@ -136,7 +134,6 @@ For anden række har denne model to [executive-sæder](../../../../technology/se
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/secondrowseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
 
@@ -174,7 +171,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/screens_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1862"  >}}
 
 ## Infotainment
@@ -205,7 +201,6 @@ Du kan vælge mellem to typer forlygter til Rolls-Royce Spectre.
 - Forlygter baseret på LED Matrix med laserteknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukkes individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/headlights_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1700"  >}}
 

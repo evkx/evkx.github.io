@@ -90,7 +90,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/exterior_1_st.jpg" title="Lotus Eletre R" width="3000" height="2000"  >}}
 
 
@@ -125,7 +124,6 @@ You can choose from 5 different materials/colors for this seat type.
 - Antracite/Gray [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
 - Red/Black [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
 
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/frontseats_1_st.jpg" title="Lotus Eletre R" width="3000" height="1783"  >}}
 
 #### Second-row seat
@@ -136,7 +134,6 @@ The second row has a standard three-seat bench with a 40:20:40 split where you c
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
-
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/secondrowseats_1_st.jpg" title="Lotus Eletre R" width="3000" height="1856"  >}}
 
@@ -175,7 +172,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/screens_1_st.jpg" title="Lotus Eletre R" width="3000" height="1919"  >}}
 
 
@@ -206,7 +202,6 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/headlights_1_st.jpg" title="Lotus Eletre R" width="3000" height="2000"  >}}
 
@@ -261,7 +256,6 @@ Up to four [LiDAR sensors](../../../../technology/sensorsandcameras/lidar/), fiv
 The cargo capacity in the trunk is 688 liters. With the rear seat down, it is 1532 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 46 liters (1.6 CU FT). The maxium weight of the car is 3100 kg (6834 lbs), and with the base weight of 2520 kg (5556 lbs), you can max load 580 kg (1279 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2250, and on unbraked, it is 750 kg (4960/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_r/trunk_1_st.jpg" title="Lotus Eletre R" width="3000" height="1687"  >}}
 

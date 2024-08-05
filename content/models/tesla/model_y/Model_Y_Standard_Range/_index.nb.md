@@ -125,7 +125,6 @@ Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panora
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/exterior_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2455"  >}}
 
 
@@ -152,7 +151,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/frontseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
@@ -161,7 +159,6 @@ Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/secondrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
 #### Seter på tredje rad
@@ -169,7 +166,6 @@ Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan fol
 
 
 Den tredje raden har en valgfri to-seters benk med en 50:50-deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
-
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/thirdrowseats_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="2000"  >}}
 
@@ -209,7 +205,6 @@ Viktige skjermdetaljer:
 - touch-skjermen i dashbordets sentrum er 15,0 tommer stor
 
 Modellen er ikke tilgjengelig med head-up display.
-
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_standard_range/screens_1_st.jpg" title="Tesla Model Y Standard Range" width="3000" height="1800"  >}}
 

@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 17 hours and 16 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/charging_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -84,7 +83,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [tailgate]
 
 There is only one roof for this model.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/exterior_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
 
@@ -112,7 +110,6 @@ The following functionalities are available on the **** seat.
 You can choose from 1 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/frontseats_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2002"  >}}
 
 #### Second-row seat
@@ -123,7 +120,6 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
@@ -163,7 +159,6 @@ Key screen details:
 - The touch screen on the dashboard's center is 11.0 inches large
 
 The model does not have a head-up display.
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/screens_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 
@@ -222,7 +217,6 @@ With the Super Cruise  level 1 system, you get the following driving automation 
 The cargo capacity in the truck bed is 1039 liters. The bed width is 1286 mm, and length is 1803 mm. The max load weight in bed is 614 kg. Under the hood, there is frunk with more storage room. This frunk is 303 liters (10.7 CU FT). The maxium weight of the car is 4531 kg (9989 lbs), and with the base weight of 3723 kg (8208 lbs), you can max load 808 kg (1781 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 5670, and on unbraked, it is 750 kg (12500/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_3wt/trunk_1_st.jpg" title="Chevrolet Silverado EV 3WT" width="3000" height="2000"  >}}
 

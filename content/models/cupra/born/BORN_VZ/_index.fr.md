@@ -89,7 +89,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/cupra/born/born_vz/exterior_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="1766"  >}}
 
 
@@ -117,7 +116,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
-
 
 {{< sitefiguresized thumb="models/cupra/born/born_vz/frontseats_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="2191"  >}}
 
@@ -162,7 +160,6 @@ Détails clés de l'écran :
 - L'écran touch au centre du tableau de bord mesure 12,9 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/cupra/born/born_vz/screens_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="1717"  >}}
 

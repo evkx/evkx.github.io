@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 5 timer og 56 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/charging_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2054"  >}}
 
 ### Ladeport
@@ -86,7 +85,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med soltag. Glasset strækker sig kun over forreste række, og passagererne kan åbne det. Dette glas får bilens interiør til at føles mere rummelig og lys, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
-
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/exterior_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2250"  >}}
 
@@ -131,7 +129,6 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
-
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/secondrowseats_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2155"  >}}
 
 
@@ -170,7 +167,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/screens_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="1687"  >}}
 
 ## Infotainment
@@ -197,7 +193,6 @@ Modellen har 4 USB-C-forbindelser som standard.
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/headlights_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2250"  >}}
 
@@ -246,7 +241,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 466 liter. Med bagsædet nede er det 1578 liter. På taget kan du laste op til 100 kg (220,5 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 27 liter (1,0 CU FT). Bilens maksimale vægt er 2220 kg (4894 lbs), og med basisvægten på 1760 kg (3880 lbs), kan du maksimalt laste 460 kg (1014 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_long_range/trunk_1_st.jpg" title="Hyundai Kona Long Range" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

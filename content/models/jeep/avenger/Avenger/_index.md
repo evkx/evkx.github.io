@@ -84,7 +84,6 @@ There is only one roof for this model.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/exterior_1_st.jpg" title="Jeep Avenger" width="3000" height="2000"  >}}
 
 
@@ -155,7 +154,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/screens_1_st.jpg" title="Jeep Avenger" width="3000" height="2263"  >}}
 
 ## Infotainment
@@ -180,7 +178,6 @@ One type of sound system is available for the Jeep Avenger.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/headlights_1_st.jpg" title="Jeep Avenger" width="3000" height="1838"  >}}
 
@@ -214,7 +211,6 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 The cargo capacity in the trunk is 355 liters. With the rear seat down, it is 1050 liters. The maxium weight of the car is 2025 kg (4464 lbs), and with the base weight of 1520 kg (3351 lbs), you can max load 505 kg (1113 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/trunk_1_st.jpg" title="Jeep Avenger" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

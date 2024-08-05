@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 5 horas y 13 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/charging_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2001"  >}}
 
 ### Puerto de carga
@@ -81,7 +80,6 @@ Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el 
 
 Sólo hay un techo para este modelo.
 
-
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/exterior_1_st.jpg" title="MG MG5 Electric Long Range" width="2560" height="1707"  >}}
 
 
@@ -108,7 +106,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/frontseats_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2005"  >}}
 
 #### Asiento de segunda fila
@@ -116,7 +113,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/secondrowseats_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2004"  >}}
 
@@ -154,7 +150,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en la parte superior de la consola central mide 10,3 pulgadas de tamaño
 
 El modelo no tiene head-up display.
-
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/screens_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="2002"  >}}
 
@@ -213,7 +208,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 La capacidad de carga en el maletero es de 479 litros. Con el asiento trasero abatido, es de 1367 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2017 kg (4447 lbs), y con el peso base de 1562 kg (3444 lbs), puedes cargar como máximo 455 kg (1003 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 500, y sin freno, es de 500 kg (1102/1102 lbs).
-
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_long_range/trunk_1_st.jpg" title="MG MG5 Electric Long Range" width="3000" height="1996"  >}}
 <div class="mt-3 mb-3">

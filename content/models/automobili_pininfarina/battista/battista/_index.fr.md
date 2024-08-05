@@ -97,7 +97,6 @@ Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la m
 
 Il n'y a qu'un seul toit pour ce modèle.
 
-
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/exterior_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="2004"  >}}
 
 
@@ -158,7 +157,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/screens_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="1977"  >}}
 
 ## Infodivertissement
@@ -183,7 +181,6 @@ Un type de système audio est disponible pour le Automobili Pininfarina Battista
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/automobili_pininfarina/battista/battista/headlights_1_st.jpg" title="Automobili Pininfarina Battista" width="3000" height="1999"  >}}
 

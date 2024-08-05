@@ -91,7 +91,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir l'avant
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/exterior_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="1999"  >}}
 
 
@@ -149,7 +148,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/secondrowseats_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="2089"  >}}
 
 
@@ -202,7 +200,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/screens_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="1999"  >}}
 
 
@@ -238,7 +235,6 @@ Vous pouvez choisir entre deux types de phares pour le Mercedes-AMG EQE 43 4MATI
 - Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/headlights_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="1999"  >}}
 
@@ -287,7 +283,6 @@ Avec le système Driver Assistance Package Plus  niveau 2, vous bénéficiez de 
 La capacité de chargement dans le coffre est de 520 litres. Avec la banquette arrière rabattue, elle est de 1675 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 3195 kg (7044 lbs), et avec le poids de base de 2600 kg (5732 lbs), vous pouvez charger au maximum 595 kg (1312 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1800, et sur une remorque non freinée, il est de 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe_suv/eqe_43_4matic_suv/trunk_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC SUV" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

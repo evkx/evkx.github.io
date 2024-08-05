@@ -107,7 +107,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panor
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/exterior_1_st.jpg" title="Nio ET5 Touring" width="2880" height="2316"  >}}
 
 
@@ -256,7 +255,6 @@ Avec le système NIO Pilot Complete Pack  niveau 2, vous bénéficiez de fonctio
 La capacité de chargement dans le coffre est de 450 litres. Avec la banquette arrière rabattue, elle est de 1447 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont standard sur ce modèle, ce qui facilite le montage du coffre de toit ou des barres de toit sur la voiture. Le poids maximum de la voiture est de 2900 kg (6393 lbs), et avec le poids de base de 2379 kg (5245 lbs), vous pouvez charger au maximum 521 kg (1149 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2000, et sur une remorque non freinée, il est de 750 kg (4409/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/trunk_1_st.jpg" title="Nio ET5 Touring" width="2560" height="1670"  >}}
 <div class="mt-3 mb-3">

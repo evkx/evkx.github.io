@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 37 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/charging_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
 
 ### Puerto de carga
@@ -95,7 +94,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este cristal hace que el coche sea más cómodo. El interior se siente más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Tiene una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
-
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/exterior_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
 
@@ -159,7 +157,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:2
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/secondrowseats_1_st.jpg" title="Porsche Macan 4S" width="3000" height="2250"  >}}
 
 
@@ -199,7 +196,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/screens_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
 
 ## Infoentretenimiento
@@ -230,7 +226,6 @@ Puedes elegir entre dos tipos de faros para el Porsche Macan 4S.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/headlights_1_st.jpeg" title="Porsche Macan 4S" width="3000" height="1687"  >}}
 
@@ -283,7 +278,6 @@ Con el sistema Porsche InnoDrive  nivel 2, obtienes funciones de automatización
 La capacidad de carga en el maletero es de 480 litros. Con el asiento trasero abatido, es de 1288 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2950 kg (6504 lbs), y con el peso base de 2330 kg (5137 lbs), puedes cargar como máximo 620 kg (1367 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2000, y sin freno, es de 750 kg (4409/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4s/trunk_1_st.jpg" title="Porsche Macan 4S" width="3000" height="2250"  >}}
 

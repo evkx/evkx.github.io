@@ -106,7 +106,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toit panoramique en verre s'étendant de l'avant à l'arrière, améliorant la sensation d'espace et de luminosité de l'intérieur, améliorant ainsi l'humeur et le confort des occupants. Ce verre est teinté pour protéger contre la chaleur du soleil.
 
-
 {{< sitefiguresized thumb="models/nio/et7/et7/exterior_1_st.jpg" title="Nio ET7" width="2880" height="1792"  >}}
 
 
@@ -181,7 +180,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/nio/et7/et7/screens_1_st.jpg" title="Nio ET7" width="1390" height="758"  >}}
 
 
@@ -207,7 +205,6 @@ Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 co
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/nio/et7/et7/headlights_1_st.jpg" title="Nio ET7" width="1200" height="676"  >}}
 

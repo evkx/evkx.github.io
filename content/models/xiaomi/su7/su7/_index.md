@@ -89,7 +89,6 @@ There is only one roof for this model. The standard roof includes a large panora
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/exterior_1_st.jpg" title="Xiaomi SU7" width="2880" height="2160"  >}}
 
 
@@ -119,7 +118,6 @@ You can choose from 4 different materials/colors for this seat type.
 - Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Purple [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/frontseats_1_st.jpg" title="Xiaomi SU7" width="1760" height="1000"  >}}
 
 #### Second-row seat
@@ -130,7 +128,6 @@ The second row has a standard three-seat bench with a  split where you can fold 
 
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/secondrowseats_1_st.jpg" title="Xiaomi SU7" width="1760" height="1080"  >}}
 
@@ -166,7 +163,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/screens_1_st.jpg" title="Xiaomi SU7" width="2560" height="1440"  >}}
 
 ## Infotainment
@@ -186,7 +182,6 @@ The model has 4 USB-C connections as standard. The model has 1 USB-A connections
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/headlights_1_st.jpg" title="Xiaomi SU7" width="2880" height="2160"  >}}
 

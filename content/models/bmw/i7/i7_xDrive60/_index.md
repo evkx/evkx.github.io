@@ -89,7 +89,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/exterior_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999"  >}}
 
 
@@ -153,7 +152,6 @@ The second option is an [executive seat combined with a two-seat bench](../../..
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 - [footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/secondrowseats_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999"  >}}
 
 
@@ -191,7 +189,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/screens_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999"  >}}
 
 ## Infotainment
@@ -222,7 +219,6 @@ You can choose between two types of headlights for the BMW i7 xDrive60.
 - **LED Matrix Headlights with Laser Technology:** Also available as an option, these headlights combine the adaptive features of the LED Matrix system with laser technology for enhanced brightness and range, offering superior illumination and safety.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/headlights_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999"  >}}
 

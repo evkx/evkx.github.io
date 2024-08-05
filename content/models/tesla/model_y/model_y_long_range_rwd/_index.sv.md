@@ -91,7 +91,6 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/exterior_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2455"  >}}
 
 
@@ -118,7 +117,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/frontseats_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
@@ -127,7 +125,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/secondrowseats_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2000"  >}}
 
 #### Seter på tredje rad
@@ -135,7 +132,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 
 
 Den tredje raden har en valfri tvåsitsbänk med en 50:50-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
-
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/thirdrowseats_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="2000"  >}}
 
@@ -175,7 +171,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch i mitten av instrumentbrädan är 15,0 tum
 
 Modellen är inte tillgänglig med head-up display.
-
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_long_range_rwd/screens_1_st.jpg" title="Tesla Model Y Long Range RWD" width="3000" height="1800"  >}}
 

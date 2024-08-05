@@ -81,7 +81,6 @@ There is only one roof for this model. The standard roof has a large panoramic r
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/exterior_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
 
@@ -115,7 +114,6 @@ You can choose from 5 different materials/colors for this seat type.
 - Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [leather upholstering](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/frontseats_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
 #### Second-row seat
@@ -126,7 +124,6 @@ The second row has a standard three-seat bench with a 40:60 split where you can 
 
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/secondrowseats_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
@@ -166,7 +163,6 @@ Key screen details:
 - The touch screen at the top of the center console is 15.0 inches large
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/screens_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 

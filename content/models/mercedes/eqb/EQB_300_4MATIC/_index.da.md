@@ -85,7 +85,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset har to paneler. Et over første og anden række, og beboerne kan åbne fronten del. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for passageren. Begge glaspaneler har et elektrisk gardin, som passagererne kan bruge til at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_300_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" width="3000" height="1686"  >}}
 
 
@@ -133,7 +132,6 @@ Følgende funktioner er tilgængelige på **multicontour** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_300_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" width="3000" height="1999"  >}}
 
@@ -183,7 +181,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i højre del af den delte ramme er 10,3 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_300_4matic/screens_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" width="3000" height="1686"  >}}
 
@@ -260,7 +257,6 @@ Med Driver Assistance Package  niveau 1-systemet får du følgende køreautomati
 Lagekapaciteten i bagagerummet er 495 liter. Med bagsædet nede er det 1410 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2580 kg (5688 lbs), og med basisvægten på 2100 kg (4630 lbs), kan du maksimalt laste 480 kg (1058 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 480kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_300_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQB 300 4MATIC" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

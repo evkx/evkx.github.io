@@ -89,7 +89,6 @@ Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort pano
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/exterior_1_st.jpg" title="Xiaomi SU7" width="2880" height="2160"  >}}
 
 
@@ -119,7 +118,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - Gray [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 - Purple [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/frontseats_1_st.jpg" title="Xiaomi SU7" width="1760" height="1000"  >}}
 
 #### Säten på andra raden
@@ -130,7 +128,6 @@ Den andra raden har en standardbänk med tre sittplatser med en -sektion där du
 
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/secondrowseats_1_st.jpg" title="Xiaomi SU7" width="1760" height="1080"  >}}
 
@@ -166,7 +163,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/screens_1_st.jpg" title="Xiaomi SU7" width="2560" height="1440"  >}}
 
 ## Infotainment
@@ -186,7 +182,6 @@ Modellen har 4 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/xiaomi/su7/su7/headlights_1_st.jpg" title="Xiaomi SU7" width="2880" height="2160"  >}}
 

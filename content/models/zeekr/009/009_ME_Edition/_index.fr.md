@@ -81,7 +81,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un grand 
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/exterior_1_st.jpg" title="Zeekr 009 ME Edition" width="2000" height="1333"  >}}
 
 
@@ -127,7 +126,6 @@ Pour la deuxième rangée, ce modèle dispose de deux sièges capitaine. De plus
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 
-
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/secondrowseats_1_st.jpg" title="Zeekr 009 ME Edition" width="2560" height="1440"  >}}
 
 #### Sièges de troisième rangée
@@ -171,7 +169,6 @@ Détails clés de l'écran :
 - L'écran touch en haut de la console centrale mesure 15,4 pouces
 
 Le modèle n'a pas d'affichage tête haute.
-
 
 {{< sitefiguresized thumb="models/zeekr/009/009_me_edition/screens_1_st.jpg" title="Zeekr 009 ME Edition" width="1256" height="836"  >}}
 

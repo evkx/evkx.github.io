@@ -89,7 +89,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/exterior_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="1711"  >}}
 
 
@@ -117,7 +116,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
-
 
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/frontseats_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="2110"  >}}
 
@@ -163,7 +161,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/screens_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="1714"  >}}
 
 ## Infoentretenimiento
@@ -191,7 +188,6 @@ El modelo tiene 4 conexiones USB-C de serie.
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/cupra/born/born_77_e-boost/headlights_1_st.jpg" title="CUPRA BORN 77 e-BOOST" width="3000" height="1976"  >}}
 

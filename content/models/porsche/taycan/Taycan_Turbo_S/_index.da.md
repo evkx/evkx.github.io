@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 49 minutter ved brug af en hjemmeoplader. For hurtigere opladning kan du vælge en valgfri ombordlader, der understøtter op til 22 kW. Med denne opgradering kan du opnå en fuld opladning fra 0 til 100% på kun cirka 4 timer og 24 minutter derhjemme.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/charging_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2242"  >}}
 
 ### Ladeport
@@ -96,7 +95,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset for at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/exterior_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2000"  >}}
 
 
@@ -141,7 +139,6 @@ Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/frontseats_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2250"  >}}
 
 #### Sæder på anden række
@@ -155,7 +152,6 @@ Muligheden standard er to integrerede sæder i anden række. Derudover er følge
 Muligheden second er to integrerede sæder i anden række med et tredje mindre sæde imellem. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="1688"  >}}
 
@@ -196,7 +192,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/screens_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -223,7 +218,6 @@ Du kan vælge mellem tre lydsystemer på Porsche Taycan Turbo S.
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/headlights_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2298"  >}}
 
@@ -276,7 +270,6 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 Lagekapaciteten i bagagerummet er 366 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2880 kg (6349 lbs), og med basisvægten på 2230 kg (4916 lbs), kan du maksimalt laste 650 kg (1433 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s/trunk_1_st.jpg" title="Porsche Taycan Turbo S" width="3000" height="2250"  >}}
 <div class="mt-3 mb-3">

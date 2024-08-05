@@ -86,7 +86,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/kia/ev3/ev3_long_range/exterior_1_st.jpg" title="Kia EV3 Long Range" width="3000" height="1687"  >}}
 
 
@@ -162,7 +161,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i højre del af den delte ramme er 12,3 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/kia/ev3/ev3_long_range/screens_1_st.jpg" title="Kia EV3 Long Range" width="2903" height="1633"  >}}
 

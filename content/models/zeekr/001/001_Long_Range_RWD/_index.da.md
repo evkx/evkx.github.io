@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 38 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/charging_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2250"  >}}
 
 ### Ladeport
@@ -83,7 +82,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humør og komfort for beboeren. Glasset er tonet for at beskytte mod varme fra solen.
 
 Ruderne fra B-stolpen og bagsiden er tonede.
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/exterior_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2000"  >}}
 
@@ -162,7 +160,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/screens_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2000"  >}}
 
 
@@ -192,7 +189,6 @@ Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelse
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/headlights_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2250"  >}}
 
@@ -233,7 +229,6 @@ Med Pilot Assist  niveau 2-systemet får du følgende køreautomatiseringsfunkti
 Lagekapaciteten i bagagerummet er 539 liter. Med bagsædet nede er det 1411 liter. På taget kan du laste op til 100 kg (220,5 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 32 liter (1,1 CU FT). Bilens maksimale vægt er 2800 kg (6173 lbs), og med basisvægten på 2200 kg (4850 lbs), kan du maksimalt laste 600 kg (1323 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1500, og på ubremset er den 750 kg (3307/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_long_range_rwd/trunk_1_st.jpg" title="Zeekr 001 Long Range RWD" width="3000" height="2001"  >}}
 

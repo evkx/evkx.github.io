@@ -95,7 +95,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/exterior_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro" width="3000" height="2000"  >}}
 
 
@@ -134,7 +133,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **sport**.
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro" width="3000" height="2001"  >}}
 
 #### Sièges de deuxième rangée
@@ -145,7 +143,6 @@ L'option standard est une banquette à trois places avec une séparation 60:40 o
 
 
 L'option second est une banquette à trois places avec une séparation 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro" width="3000" height="2001"  >}}
 
@@ -187,7 +184,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/screens_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro" width="3000" height="2001"  >}}
 
 ## Infodivertissement
@@ -221,7 +217,6 @@ De plus, vous pouvez choisir entre deux types de feux arrière.
 
 - lights.taillight.technology.option.led
 - lights.taillight.technology.option.led
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro" width="3000" height="2000"  >}}
 
@@ -276,7 +271,6 @@ Avec le système Assistantpackage Tour  niveau 2, vous bénéficiez de fonctionn
 La capacité de chargement dans le coffre est de 535 litres. Avec la banquette arrière rabattue, elle est de 1460 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2720 kg (5997 lbs), et avec le poids de base de 2135 kg (4707 lbs), vous pouvez charger au maximum 585 kg (1290 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1200, et sur une remorque non freinée, il est de 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro/trunk_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro" width="3000" height="2000"  >}}
 

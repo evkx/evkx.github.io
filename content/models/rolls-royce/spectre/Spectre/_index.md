@@ -85,7 +85,6 @@ There is only one roof for this model. The standard is just a regular roof.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/exterior_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
 
 
@@ -123,7 +122,6 @@ You can choose from 7 different materials/colors for this seat type.
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Red [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/frontseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1687"  >}}
 
 #### Second-row seat
@@ -136,7 +134,6 @@ For the second row, this model has twin [executive seats](../../../../technology
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/secondrowseats_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="2000"  >}}
 
@@ -174,7 +171,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/screens_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1862"  >}}
 
 ## Infotainment
@@ -205,7 +201,6 @@ You can choose between two types of headlights for the Rolls-Royce Spectre.
 - **LED Matrix Headlights with Laser Technology:** Also available as an option, these headlights combine the adaptive features of the LED Matrix system with laser technology for enhanced brightness and range, offering superior illumination and safety.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/rolls-royce/spectre/spectre/headlights_1_st.jpg" title="Rolls-Royce Spectre" width="3000" height="1700"  >}}
 

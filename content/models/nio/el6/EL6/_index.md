@@ -106,7 +106,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There is only one roof for this model. The standard roof has a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/nio/el6/el6/exterior_1_st.jpg" title="Nio EL6" width="2560" height="1280"  >}}
 
 
@@ -139,7 +138,6 @@ The following functionalities are available on the **standard** seat.
 - [footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
 You can choose from 3 different materials/colors for this seat type.
-
 
 {{< sitefiguresized thumb="models/nio/el6/el6/frontseats_1_st.jpg" title="Nio EL6" width="2880" height="2316"  >}}
 
@@ -186,7 +184,6 @@ Key screen details:
 - The touch screen in the middle of the center console is 12.8 inches large
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/nio/el6/el6/screens_1_st.jpg" title="Nio EL6" width="2560" height="1280"  >}}
 
@@ -262,7 +259,6 @@ With the NIO Pilot Complete Pack  level 2 system, you get additional driving aut
 The cargo capacity in the trunk is 668 liters. With the rear seat down, it is 1430 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2850 kg (6283 lbs), and with the base weight of 2366 kg (5216 lbs), you can max load 484 kg (1067 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 484kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/nio/el6/el6/trunk_1_st.jpg" title="Nio EL6" width="2560" height="1600"  >}}
 <div class="mt-3 mb-3">

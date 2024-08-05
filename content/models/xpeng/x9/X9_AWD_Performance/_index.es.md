@@ -76,7 +76,6 @@ Sólo hay un techo para este modelo.
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/exterior_2_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="2215"  >}}
 
 
@@ -110,7 +109,6 @@ Las siguientes funcionalidades están disponibles en el asiento ****.
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/frontseats_1_st.png" title="XPENG X9 AWD Performance" width="3000" height="1514"  >}}
 
 #### Asiento de segunda fila
@@ -123,7 +121,6 @@ Para la segunda fila, este modelo tiene dos sillas tipo capitán. Además, las s
 - [ventilación](../../../../technology/seats/adjustment/#ventilación)
 - [masaje](../../../../technology/seats/adjustment/#massage)
 - [apoyo para las piernas del pasajero](../../../../technology/seats/adjustment/#leg-support)
-
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/secondrowseats_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1687"  >}}
 
@@ -160,7 +157,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en el centro del tablero mide 15,0 pulgadas de tamaño
 
 El modelo no tiene head-up display.
-
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/screens_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1586"  >}}
 
@@ -225,7 +221,6 @@ Con el sistema XPILOT  nivel 2, obtienes las siguientes funciones de automatizac
 La capacidad de carga en el maletero es de 755 litros. Con el asiento de la tercera fila abatido, es de 2554 litros.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
-
 
 {{< sitefiguresized thumb="models/xpeng/x9/x9_awd_performance/trunk_1_st.jpg" title="XPENG X9 AWD Performance" width="3000" height="1575"  >}}
 Este modelo sólo está disponible en China.<div class="mt-3 mb-3">

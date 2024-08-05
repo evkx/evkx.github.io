@@ -89,7 +89,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/cupra/born/born_58/exterior_1_st.jpg" title="CUPRA BORN 58" width="3000" height="1711"  >}}
 
 
@@ -117,7 +116,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
-
 
 {{< sitefiguresized thumb="models/cupra/born/born_58/frontseats_1_st.jpg" title="CUPRA BORN 58" width="3000" height="2110"  >}}
 
@@ -163,7 +161,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/cupra/born/born_58/screens_1_st.jpg" title="CUPRA BORN 58" width="3000" height="1714"  >}}
 
 ## Infotainment
@@ -191,7 +188,6 @@ Modellen har 4 USB-C-forbindelser som standard.
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/cupra/born/born_58/headlights_1_st.jpg" title="CUPRA BORN 58" width="3000" height="1976"  >}}
 

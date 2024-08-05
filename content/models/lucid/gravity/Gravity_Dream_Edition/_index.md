@@ -90,7 +90,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There is only one roof for this model. The windshield is panoramic going back over the first row. In addition there is glasspanel over the second row. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun.
 
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/exterior_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="1687"  >}}
 
 
@@ -127,7 +126,6 @@ You can choose from 4 different materials/colors for this seat type.
 - White [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Brown [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/frontseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 #### Second-row seat
@@ -137,7 +135,6 @@ You can choose from 4 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/secondrowseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
@@ -182,7 +179,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/screens_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -205,7 +201,6 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/headlights_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="1999"  >}}
 
@@ -246,7 +241,6 @@ With the ADAS  level 2 system, you get the following driving automation features
 The cargo capacity in the trunk is 700 liters. With the rear seat down, it is 3170 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 226 liters (8.0 CU FT). The maxium weight of the car is 3280 kg (7231 lbs), and with the base weight of 2500 kg (5512 lbs), you can max load 780 kg (1720 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2700, and on unbraked, it is 750 kg (5952/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/trunk_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2000"  >}}
 

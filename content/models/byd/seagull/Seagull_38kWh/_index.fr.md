@@ -87,7 +87,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le standard est juste un toit ordinair
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/exterior_1_st.jpg" title="BYD Seagull 38kWh" width="3000" height="2210"  >}}
 
 
@@ -119,7 +118,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 
 Vous pouvez choisir parmi 1 différents matériaux/couleurs pour ce type de siège.
-
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/secondrowseats_1_st.jpg" title="BYD Seagull 38kWh" width="2300" height="1414"  >}}
 
@@ -159,7 +157,6 @@ Détails clés de l'écran :
 - L'écran touch au centre du tableau de bord mesure 10,1 pouces
 
 Le modèle n'a pas d'affichage tête haute.
-
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/screens_1_st.jpg" title="BYD Seagull 38kWh" width="2400" height="1600"  >}}
 

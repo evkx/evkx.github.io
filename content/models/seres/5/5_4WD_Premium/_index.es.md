@@ -86,7 +86,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/exterior_1_st.jpg" title="Seres 5 4WD Premium" width="1920" height="1012"  >}}
 
 
@@ -158,7 +157,6 @@ Detalles clave de la pantalla:
 - La  pantalla en el centro del tablero mide 15,6 pulgadas de tamaño
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/seres/5/5_4wd_premium/screens_1_st.jpg" title="Seres 5 4WD Premium" width="2560" height="1707"  >}}
 

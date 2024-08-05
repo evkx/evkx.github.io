@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 6 heures et 49 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/charging_1_st.jpg" title="XPENG G9 RWD Standard Range" width="1600" height="1040"  >}}
 
 ### Port de recharge
@@ -83,7 +82,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un grand 
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/exterior_1_st.jpg" title="XPENG G9 RWD Standard Range" width="3000" height="2002"  >}}
 
 
@@ -118,7 +116,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 - Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 - Beige [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/frontseats_1_st.jpeg" title="XPENG G9 RWD Standard Range" width="3000" height="2250"  >}}
 
 #### Siège de deuxième rangée
@@ -129,7 +126,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/secondrowseats_1_st.jpeg" title="XPENG G9 RWD Standard Range" width="3000" height="1687"  >}}
 
@@ -170,7 +166,6 @@ Détails clés de l'écran :
 - L'écran touch devant le passager sur le tableau de bord mesure 15,0 pouces
 
 Le modèle n'a pas d'affichage tête haute.
-
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/screens_1_st.jpg" title="XPENG G9 RWD Standard Range" width="3000" height="2002"  >}}
 
@@ -238,7 +233,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 La capacité de chargement dans le coffre est de 660 litres. Avec la banquette arrière rabattue, elle est de 1576 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 71 litres (2,5 CU FT). Le poids maximum de la voiture est de 2680 kg (5908 lbs), et avec le poids de base de 2255 kg (4971 lbs), vous pouvez charger au maximum 425 kg (937 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 425kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1500, et sur une remorque non freinée, il est de 750 kg (3307/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/xpeng/g9/g9_rwd_standard_range/trunk_1_st.jpg" title="XPENG G9 RWD Standard Range" width="3000" height="2002"  >}}
 <div class="mt-3 mb-3">

@@ -90,7 +90,6 @@ Det er bare ett tak for denne modellen. Forruten er panoramautsikt over den før
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/exterior_1_st.jpg" title="Tesla Model X" width="3000" height="2250"  >}}
 
 
@@ -125,7 +124,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/secondrowseats_1_st.jpg" title="Tesla Model X" width="3000" height="2000"  >}}
 
@@ -170,7 +168,6 @@ Viktige skjermdetaljer:
 - touch-skjermen i den bakre midtkonsollen er 8,0 tommer stor
 
 Modellen er ikke tilgjengelig med head-up display.
-
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/screens_1_st.jpg" title="Tesla Model X" width="3000" height="2000"  >}}
 
@@ -245,7 +242,6 @@ Med Full Self-Driving Capability  nivå 3-systemet får du flere kjøreautomatis
 Lastkapasiteten i bagasjerommet er 709 liter. Med baksetet nede er det 1828 liter. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 183 liter. Maksimumsvekten til bilen er 2970 kg, og med basisvekten på 2464 kg kan du maksimalt laste 506 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Hengerfeste er standardutstyr på denne modellen. Maksimal totalvekt på en tilhenger med bremser er 2250, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/tesla/model_x/model_x/trunk_1_st.jpg" title="Tesla Model X" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

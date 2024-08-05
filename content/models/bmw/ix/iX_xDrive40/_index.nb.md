@@ -87,7 +87,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/exterior_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1999"  >}}
 
 
@@ -117,7 +116,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 
 Du kan velge mellom 7 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/frontseat_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1999"  >}}
 
 #### Seter på andre rad
@@ -127,7 +125,6 @@ Du kan velge mellom 7 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/secondrowseats_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1999"  >}}
 
@@ -165,7 +162,6 @@ Viktige skjermdetaljer:
 - touch-skjermen ved høyre del av den delte rammen er 14,9 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/screens_1_st.jpg" title="BMW iX xDrive40" width="3000" height="2250"  >}}
 
@@ -242,7 +238,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du flere kjøreautomat
 Lastkapasiteten i bagasjerommet er 500 liter. Med baksetet nede er det 1750 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 3010 kg, og med basisvekten på 2365 kg kan du maksimalt laste 645 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 2500, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/trunk_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1998"  >}}
 <div class="mt-3 mb-3">

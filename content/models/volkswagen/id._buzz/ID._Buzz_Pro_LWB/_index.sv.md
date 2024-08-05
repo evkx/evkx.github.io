@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 7 timmar och 49 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/charging_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
 ### Laddningsport
@@ -90,7 +89,6 @@ Bilen har två [vanliga dörrar](../../../../technology/doors/) i första raden,
 Det finns bara ett tak för denna modell. Standardinställningen är bara ett vanligt tak.
 
 B-stolpen och vyerna bak är tonade.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/exterior_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
@@ -139,7 +137,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 - Orange [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Blue [tygklädsel](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/frontseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2197"  >}}
 
 #### Säten på andra raden
@@ -153,7 +150,6 @@ Alternativ second är två kaptensstolar. Dessutom är följande funktioner till
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
 #### Seter på tredje rad
@@ -161,7 +157,6 @@ Alternativ second är två kaptensstolar. Dessutom är följande funktioner till
 
 
 Den tredje raden har en tvåsitsig bänk med en 50:50-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/thirdrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
@@ -202,7 +197,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/screens_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="1999"  >}}
 
 ## Infotainment
@@ -232,7 +226,6 @@ Du kan välja mellan två typer av strålkastare för Volkswagen ID. Buzz Pro LW
 - Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/headlights_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
@@ -283,7 +276,6 @@ Med Assistantpackage plus  nivå 2-systemet får du fler körautomatiseringsfunk
 Lastkapaciteten i bagageutrymmet är 306 liter. Med baksätet nedfällt är det 2469 liter. På taket kan du lasta upp till 100 kg. Bilens maximala vikt är 3000 kg, och med basvikten på 2416 kg kan du lasta maximalt 584 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1000, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/trunk_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

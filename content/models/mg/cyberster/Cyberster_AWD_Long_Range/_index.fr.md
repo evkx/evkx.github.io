@@ -79,7 +79,6 @@ La voiture a deux [portes ciseaux](../../../../technology/doors/) et un [couverc
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard est une capote souple qui peut être rabattue.
 
-
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/exterior_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="1487"  >}}
 
 
@@ -104,7 +103,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Red [Alcantara/revêtement en similicuir](../../../../technology/seats/materials/#alcantara)
-
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 
@@ -145,7 +143,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/screens_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 
 
@@ -175,7 +172,6 @@ Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 1 co
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/headlights_1_st.jpg" title="MG Cyberster AWD Long Range" width="2800" height="1575"  >}}
 

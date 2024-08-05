@@ -88,7 +88,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit p
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs_iv_gen1/exterior_1_st.jpg" title="SKODA ENYAQ RS iV (GEN1)" width="3000" height="2001"  >}}
 
 

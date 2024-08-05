@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 5 horas y 36 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/charging_2_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
 
 ### Puerto de carga
@@ -81,7 +80,6 @@ Puedes seleccionar entre múltiples diseños de ruedas, todos disponibles en el 
 
 Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/exterior_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="1687"  >}}
 
 
@@ -107,7 +105,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Gray [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/frontseats_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
@@ -115,7 +112,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división  donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/secondrowseats_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
 
@@ -152,7 +148,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en la parte superior de la consola central mide 10,2 pulgadas de tamaño
 
 El modelo no tiene head-up display.
-
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/screens_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
 
@@ -211,7 +206,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 El peso máximo del automóvil es 2133 kg (4702 lbs), y con el peso base de 1715 kg (3781 lbs), puedes cargar como máximo 418 kg (922 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 500, y sin freno, es de 500 kg (1102/1102 lbs).
-
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_xpower/trunk_1_st.jpg" title="MG MG4 Electric XPOWER" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

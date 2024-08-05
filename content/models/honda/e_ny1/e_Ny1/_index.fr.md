@@ -76,7 +76,6 @@ Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la m
 
 Il n'y a qu'un seul toit pour ce modèle.
 
-
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/exterior_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
 
@@ -134,7 +133,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/screens_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
 ## Infodivertissement
@@ -151,7 +149,6 @@ Un type de système audio est disponible pour le Honda e:Ny1.
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/headlights_1_st.jpg" title="Honda e:Ny1" width="3000" height="1819"  >}}
 
@@ -177,7 +174,6 @@ Avec le système standard, le modèle n'offre aucune automatisation de conduite.
 La capacité de chargement du coffre est de 346 litres. Le poids maximum de la voiture est de 2080 kg (4586 lbs), et avec le poids de base de 1677 kg (3697 lbs), vous pouvez charger au maximum 403 kg (888 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/trunk_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

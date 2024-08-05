@@ -80,7 +80,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](.
 
 Det er bare ett tak for denne modellen. Standardtaket har 4 separate glasspaneler som kan fjernes, noe som gjør dette til en cabriolet.
 
-
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2000"  >}}
 
 
@@ -155,7 +154,6 @@ Viktige skjermdetaljer:
 - touch-skjermen i dashbordets sentrum er 13,4 tommer stor
 
 Modellen er ikke tilgjengelig med head-up display.
-
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2001"  >}}
 

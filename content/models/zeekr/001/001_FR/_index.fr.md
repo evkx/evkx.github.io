@@ -81,7 +81,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un grand 
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/exterior_1_st.jpg" title="Zeekr 001 FR" width="3000" height="1999"  >}}
 
 
@@ -114,7 +113,6 @@ Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siè
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Gray [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/frontseats_1_st.jpg" title="Zeekr 001 FR" width="3000" height="2250"  >}}
 
@@ -162,7 +160,6 @@ Détails clés de l'écran :
 - L'écran touch en haut de la console centrale mesure 15,4 pouces
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/screens_1_st.jpg" title="Zeekr 001 FR" width="3000" height="3000"  >}}
 

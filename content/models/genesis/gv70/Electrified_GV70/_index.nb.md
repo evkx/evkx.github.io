@@ -88,7 +88,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/genesis/gv70/electrified_gv70/exterior_1_st.jpg" title="Genesis Electrified GV70" width="3000" height="1800"  >}}
 
 
@@ -166,7 +165,6 @@ Viktige skjermdetaljer:
 - touch-skjermen nederst på midtkonsollen er 5,0 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/genesis/gv70/electrified_gv70/screens_1_st.jpg" title="Genesis Electrified GV70" width="3000" height="1535"  >}}
 

@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 36 minutter med en hjemmelader. For raskere lading kan du velge en valgfri ombordlader som støtter opptil 22 kW. Med denne oppgraderingen kan du oppnå full lading fra 0 til 100% på bare omtrent 3 timer og 48 minutter hjemme.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_gen1/charging_1_st.jpg" title="Audi RS e-tron GT (GEN1)" width="3000" height="2249"  >}}
 
 ### Ladeport
@@ -99,7 +98,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelok
 Det er to forskjellige takalternativer å velge mellom. Standardtaket inkluderer et stort panoramaglastak som strekker seg fra front til bak, noe som forbedrer interiørets romslige og lyse følelse og dermed forbedrer stemningen og komforten til passasjerene. Dette glasset er tonet for å beskytte mot varme fra solen. Det valgfrie taket er et karbontak, som reduserer bilens totale vekt, senker tyngdepunktet og forbedrer håndtering og ytelse.
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene. Som et alternativ er dobbeltglass sidevinduer tilgjengelig for å redusere kabinstøy, noe som forbedrer den totale kjøreopplevelsen.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_gen1/exterior_1_st.jpg" title="Audi RS e-tron GT (GEN1)" width="3000" height="1999"  >}}
 
@@ -156,7 +154,6 @@ Følgende funksjoner er tilgjengelige på **sport pro** setet.
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_gen1/frontseats_1_st.jpg" title="Audi RS e-tron GT (GEN1)" width="3000" height="2250"  >}}
 
 
@@ -196,7 +193,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_gen1/screens_1_st.jpg" title="Audi RS e-tron GT (GEN1)" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -226,7 +222,6 @@ Du kan velge mellom tre typer frontlykter for Audi RS e-tron GT (GEN1).
 - Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_gen1/headlights_1_st.jpg" title="Audi RS e-tron GT (GEN1)" width="3000" height="2001"  >}}
 
@@ -279,7 +274,6 @@ Med Assistantpackage Tour  nivå 2-systemet får du flere kjøreautomatiseringsf
 Lastkapasiteten i bagasjerommet er 405 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 85 liter. Maksimumsvekten til bilen er 2860 kg, og med basisvekten på 2340 kg kan du maksimalt laste 520 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_gen1/trunk_1_st.jpg" title="Audi RS e-tron GT (GEN1)" width="3000" height="2249"  >}}
 

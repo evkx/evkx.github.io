@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 6,6 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 9 timer og 41 minutter ved brug af en hjemmeoplader. For hurtigere opladning kan du vælge en valgfri ombordlader, der understøtter op til 11 kW. Med denne opgradering kan du opnå en fuld opladning fra 0 til 100% på kun cirka 5 timer og 49 minutter derhjemme.
 
-
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/charging_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
 ### Ladeport
@@ -87,7 +86,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/exterior_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
 
@@ -114,7 +112,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/frontseats_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
 #### Sæde på anden række
@@ -124,7 +121,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/secondrowseats_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
@@ -173,7 +169,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/screens_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
 ## Infotainment
@@ -204,7 +199,6 @@ Du kan vælge mellem to typer forlygter til Lexus RZ 450e.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/headlights_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 
@@ -242,7 +236,6 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 Lagekapaciteten i bagagerummet er 522 liter. Med sædet på tredje række nede er det 1451 liter. På taget kan du laste op til 80 kg (176,4 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2530 kg (5578 lbs), og med basisvægten på 1980 kg (4365 lbs), kan du maksimalt laste 550 kg (1213 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/lexus/rz/rz_450e/trunk_1_st.jpg" title="Lexus RZ 450e" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

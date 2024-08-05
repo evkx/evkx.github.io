@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 0 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/charging_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
 
 ### Ladeport
@@ -92,7 +91,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/exterior_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
 
 
@@ -125,7 +123,6 @@ Følgende funksjoner er tilgjengelige på **Ergo** setet.
 - [elektrisk korsryggstøtte](../../../../technology/seats/adjustment/#lumbar-support)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massasje](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/frontseats_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
 
@@ -171,7 +168,6 @@ Viktige skjermdetaljer:
 - touch-skjermen i dashbordets sentrum er 14,6 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/screens_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
 
@@ -251,7 +247,6 @@ Med Assistantpackage  nivå 2-systemet får du flere kjøreautomatiseringsfunksj
 Lastkapasiteten i bagasjerommet er 627 liter. Med baksetet nede er det 1510 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2685 kg, og med basisvekten på 2098 kg kan du maksimalt laste 587 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1000, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_rwd/trunk_1_st.jpg" title="Ford Capri Extended Range RWD" width="3000" height="2250"  >}}
 

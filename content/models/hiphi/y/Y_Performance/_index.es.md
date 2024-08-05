@@ -84,7 +84,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un vidrio panorám
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/exterior_1_st.jpg" title="HiPhi Y Performance" width="3000" height="1687"  >}}
 
 
@@ -167,7 +166,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/screens_1_st.jpg" title="HiPhi Y Performance" width="1000" height="536"  >}}
 
 
@@ -194,7 +192,6 @@ El modelo tiene 4 conexiones USB-C de serie.
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/headlights_1_st.jpg" title="HiPhi Y Performance" width="3000" height="1882"  >}}
 

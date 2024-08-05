@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 7 timer og 0 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_rwd/charging_1_st.jpg" title="Ford Explorer Extended Range RWD" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -92,7 +91,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med panoramatag. Glasset strækker det meste af taget, og beboerne kan åbne den forreste del. Dette glas gør bilens interiøret føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
-
 
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_rwd/exterior_1_st.jpg" title="Ford Explorer Extended Range RWD" width="3000" height="2199"  >}}
 
@@ -170,7 +168,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_rwd/screens_1_st.jpg" title="Ford Explorer Extended Range RWD" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -198,7 +195,6 @@ Modellen har 4 USB-C-forbindelser som standard.
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_rwd/headlights_1_st.jpg" title="Ford Explorer Extended Range RWD" width="3000" height="2250"  >}}
 

@@ -87,7 +87,6 @@ Der er kun ét tag til denne model. Standarden er bare et almindeligt tag.
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/exterior_1_st.jpg" title="BYD Seagull 38kWh" width="3000" height="2210"  >}}
 
 
@@ -119,7 +118,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
-
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/secondrowseats_1_st.jpg" title="BYD Seagull 38kWh" width="2300" height="1414"  >}}
 
@@ -159,7 +157,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i dashboardets midte er 10,1 tommer stor
 
 Modellen har ikke et head-up display.
-
 
 {{< sitefiguresized thumb="models/byd/seagull/seagull_38kwh/screens_1_st.jpg" title="BYD Seagull 38kWh" width="2400" height="1600"  >}}
 

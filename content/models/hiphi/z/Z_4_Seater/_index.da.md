@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 10 timer og 16 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/charging_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2032"  >}}
 
 ### Ladeport
@@ -87,7 +86,6 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/exterior_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1399"  >}}
 
 
@@ -120,7 +118,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 - Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - White [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/frontseats_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2256"  >}}
 
 #### Sæde på anden række
@@ -132,7 +129,6 @@ For anden række har denne model to [executive-sæder](../../../../technology/se
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/secondrowseats_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2287"  >}}
 
@@ -173,7 +169,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/screens_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="2052"  >}}
 
 
@@ -195,7 +190,6 @@ Modellen har 1 USB-C-forbindelser som standard. Som en mulighed kan du få yderl
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/hiphi/z/z_4_seater/headlights_1_st.jpg" title="HiPhi Z 4 Seater" width="3000" height="1467"  >}}
 

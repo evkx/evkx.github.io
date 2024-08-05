@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 0 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/charging_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2000"  >}}
 
 ### Puerto de carga
@@ -94,7 +93,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/exterior_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2000"  >}}
 
 
@@ -137,7 +135,6 @@ Las siguientes funcionalidades están disponibles en el asiento **ergoActive Top
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/frontseats_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2336"  >}}
 
 #### Asiento de segunda fila
@@ -145,7 +142,6 @@ Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/secondrowseats_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2052"  >}}
 
@@ -186,7 +182,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/screens_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2206"  >}}
 
 ## Infoentretenimiento
@@ -217,7 +212,6 @@ Puedes elegir entre dos tipos de faros para el Volkswagen ID.5 Pro.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/headlights_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2000"  >}}
 
@@ -268,7 +262,6 @@ Con el sistema Assistantpackage plus  nivel 2, obtienes funciones de automatizac
 La capacidad de carga en el maletero es de 549 litros. Con el asiento trasero abatido, es de 1561 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2650 kg (5842 lbs), y con el peso base de 2042 kg (4502 lbs), puedes cargar como máximo 608 kg (1340 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1000, y sin freno, es de 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_pro/trunk_1_st.jpg" title="Volkswagen ID.5 Pro" width="3000" height="2000"  >}}
 

@@ -79,7 +79,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe deux options de toit différentes à choisir. Le toit standard a un grand toit panoramique s'étendant de l'avant vers l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance et le confort. de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil. En option, vous pouvez commander ce modèle avec un toit panoramique ouvrant. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir la partie avant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/exterior_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="1928"  >}}
 
 
@@ -108,7 +107,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège ****.
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Gray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
 
@@ -154,7 +152,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/screens_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
 
 
@@ -184,7 +181,6 @@ Le modèle dispose de 5 connexions USB-C en standard.
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/headlights_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
 
@@ -223,7 +219,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 La capacité de chargement dans le coffre est de 863 litres. Avec la banquette arrière rabattue, elle est de 1676 litres.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1588, et sur une remorque non freinée, il est de 750 kg (3501/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_ss/trunk_1_st.jpg" title="Chevrolet Blazer EV SS" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

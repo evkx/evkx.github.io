@@ -46,7 +46,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 22 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 4 timer og 53 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/charging_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -92,7 +91,6 @@ Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil g
 Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](../../../../technology/doors/#liftgate).
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad. Dette glasset gjør bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Begge glasspanelene har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/exterior_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="1998"  >}}
 
@@ -140,7 +138,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/frontseats_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="2000"  >}}
 
@@ -194,7 +191,6 @@ Viktige skjermdetaljer:
 - -skjermen foran passasjeren i dashbordet er 12,3 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/screens_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="1695"  >}}
 
@@ -278,7 +274,6 @@ Med DRIVE PILOT  nivå 3-systemet får du flere kjøreautomatiseringsfunksjoner 
 Lastkapasiteten i bagasjerommet er 610 liter. Med baksetet nede er det 1770 liter. På taket kan du laste opptil 100 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 3225 kg, og med basisvekten på 2580 kg kan du maksimalt laste 645 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_53_4maticplus/trunk_1_st.jpg" title="Mercedes-AMG EQS 53 4MATIC+" width="3000" height="2000"  >}}
 

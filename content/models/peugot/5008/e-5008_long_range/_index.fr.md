@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 54 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/charging_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1666"  >}}
 
 ### Port de recharge
@@ -89,7 +88,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/exterior_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1958"  >}}
 
 
@@ -132,7 +130,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/secondrowseats_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 
@@ -177,7 +174,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/screens_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="2000"  >}}
 
 ## Infodivertissement
@@ -208,7 +204,6 @@ Vous pouvez choisir entre deux types de phares pour le Peugot E-5008 Long Range.
 - Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/headlights_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="2000"  >}}
 
@@ -254,7 +249,6 @@ Jusqu'à trois [capteurs radar](../../../../technology/sensorsandcameras/radar/)
 La capacité de chargement dans le coffre est de 300 litres. Avec la banquette arrière rabattue, elle est de 1815 litres. Sur le toit, vous pouvez charger jusqu'à 80 kg (176,4 lbs). Le poids maximum de la voiture est de 2640 kg (5820 lbs), et avec le poids de base de 2225 kg (4905 lbs), vous pouvez charger au maximum 415 kg (915 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 415kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1000, et sur une remorque non freinée, il est de 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/peugot/5008/e-5008_long_range/trunk_1_st.jpg" title="Peugot E-5008 Long Range" width="3000" height="1986"  >}}
 

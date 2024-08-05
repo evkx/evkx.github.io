@@ -90,7 +90,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad. Dette glasset gjør bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Begge glasspanelene har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/exterior_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
 
 
@@ -138,7 +137,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1687"  >}}
 
 #### Seter på andre rad
@@ -150,7 +148,6 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 - høydejusterbar hodestøtte
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="2250"  >}}
 
 #### Seter på tredje rad
@@ -158,7 +155,6 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 
 
 Den tredje raden har en valgfri to-seters benk med en 50:50-deling. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/thirdrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="2001"  >}}
 
@@ -207,7 +203,6 @@ Viktige skjermdetaljer:
 - -skjermen foran passasjeren i dashbordet er 12,3 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/screens_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1687"  >}}
 
@@ -291,7 +286,6 @@ Med DRIVE PILOT  nivå 3-systemet får du flere kjøreautomatiseringsfunksjoner 
 Lastkapasiteten i bagasjerommet er 645 liter. Med baksetet nede er det 2100 liter. På taket kan du laste opptil 100 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 3375 kg, og med basisvekten på 2735 kg kan du maksimalt laste 640 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1800, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_580_4matic_suv_gen1/trunk_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC SUV" width="3000" height="1999"  >}}
 

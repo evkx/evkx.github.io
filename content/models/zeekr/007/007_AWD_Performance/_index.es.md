@@ -81,7 +81,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/exterior_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
 
@@ -115,7 +114,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/frontseats_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
 #### Asiento de segunda fila
@@ -126,7 +124,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 40:6
 
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/secondrowseats_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 
@@ -166,7 +163,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en la parte superior de la consola central mide 15,0 pulgadas de tamaño
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/zeekr/007/007_awd_performance/screens_1_st.jpg" title="Zeekr 007 AWD Performance" width="2048" height="1152"  >}}
 

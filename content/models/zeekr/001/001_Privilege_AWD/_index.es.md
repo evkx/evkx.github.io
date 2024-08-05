@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 38 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/zeekr/001/001_privilege_awd/charging_1_st.jpg" title="Zeekr 001 Privilege AWD" width="3000" height="2250"  >}}
 
 ### Puerto de carga
@@ -83,7 +82,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [pu
 Sólo hay un techo para este modelo. El techo estándar tiene un gran techo panorámico que se extiende sobre la mayoría de las áreas desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y brillante, lo que puede mejorar la estado de ánimo y comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol.
 
 Las ventanas del pilar B y la parte trasera están tintadas.
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_privilege_awd/exterior_1_st.jpg" title="Zeekr 001 Privilege AWD" width="3000" height="2000"  >}}
 
@@ -164,7 +162,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/zeekr/001/001_privilege_awd/screens_1_st.jpg" title="Zeekr 001 Privilege AWD" width="3000" height="2000"  >}}
 
 
@@ -194,7 +191,6 @@ El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_privilege_awd/headlights_1_st.jpg" title="Zeekr 001 Privilege AWD" width="3000" height="2250"  >}}
 
@@ -235,7 +231,6 @@ Con el sistema Pilot Assist  nivel 2, obtienes las siguientes funciones de autom
 La capacidad de carga en el maletero es de 539 litros. Con el asiento trasero abatido, es de 1411 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 32 litros (1,1 CU FT). El peso máximo del automóvil es 3080 kg (6790 lbs), y con el peso base de 2350 kg (5181 lbs), puedes cargar como máximo 730 kg (1609 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2000, y sin freno, es de 750 kg (4409/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_privilege_awd/trunk_1_st.jpg" title="Zeekr 001 Privilege AWD" width="3000" height="2001"  >}}
 

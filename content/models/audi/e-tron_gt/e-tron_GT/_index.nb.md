@@ -97,7 +97,6 @@ Det er to forskjellige takalternativer å velge mellom. Standardtaket inkluderer
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene. Som et alternativ er dobbeltglass sidevinduer tilgjengelig for å redusere kabinstøy, noe som forbedrer den totale kjøreopplevelsen.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/exterior_1_st.jpg" title="Audi e-tron GT" width="3000" height="1999"  >}}
 
 
@@ -153,7 +152,6 @@ Følgende funksjoner er tilgjengelige på **sport pro** setet.
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/frontseats_1_st.jpg" title="Audi e-tron GT" width="3000" height="2249"  >}}
 
 
@@ -193,7 +191,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/screens_1_st.jpg" title="Audi e-tron GT" width="3000" height="2002"  >}}
 
 ## Infotainment
@@ -223,7 +220,6 @@ Du kan velge mellom tre typer frontlykter for Audi e-tron GT.
 - Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/headlights_1_st.jpg" title="Audi e-tron GT" width="3000" height="1999"  >}}
 
@@ -276,7 +272,6 @@ Med Assistantpackage Tour  nivå 2-systemet får du flere kjøreautomatiseringsf
 Lastkapasiteten i bagasjerommet er 405 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 85 liter. Maksimumsvekten til bilen er 2860 kg, og med basisvekten på 2340 kg kan du maksimalt laste 520 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/trunk_1_st.jpg" title="Audi e-tron GT" width="3000" height="2249"  >}}
 

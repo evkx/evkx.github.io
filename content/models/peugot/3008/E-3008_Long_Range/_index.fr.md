@@ -86,7 +86,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/exterior_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="1666"  >}}
 
 
@@ -119,7 +118,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Gray [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 - Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/frontseats_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="2250"  >}}
 
@@ -167,7 +165,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/screens_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="2167"  >}}
 
 ## Infodivertissement
@@ -198,7 +195,6 @@ Vous pouvez choisir entre deux types de phares pour le Peugot E-3008 Long Range.
 - Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/peugot/3008/e-3008_long_range/headlights_1_st.jpg" title="Peugot E-3008 Long Range" width="3000" height="2250"  >}}
 

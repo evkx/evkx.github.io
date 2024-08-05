@@ -89,7 +89,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/exterior_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1999"  >}}
 
 
@@ -118,7 +117,6 @@ The following functionalities are available on the **standard** seat.
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 7 different materials/colors for this seat type.
-
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/frontseats_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2001"  >}}
 
@@ -173,7 +171,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/screens_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1991"  >}}
 
 ## Infotainment
@@ -204,7 +201,6 @@ You can choose between two types of headlights for the BMW i7 M70 xDrive.
 - **LED Matrix Headlights with Laser Technology:** Also available as an option, these headlights combine the adaptive features of the LED Matrix system with laser technology for enhanced brightness and range, offering superior illumination and safety.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/headlights_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2001"  >}}
 

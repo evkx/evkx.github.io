@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 21 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/charging_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -98,7 +97,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1999"  >}}
 
 
@@ -146,7 +144,6 @@ The following functionalities are available on the **multicontour** seat.
 
 You can choose from 5 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1999"  >}}
 
 #### Second-row seats
@@ -164,7 +161,6 @@ The second option is a three-seat bench with a 40:20:40 split where you can fold
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1687"  >}}
 
@@ -207,7 +203,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/screens_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1687"  >}}
 
 
@@ -240,7 +235,6 @@ The model has 4 USB-C connections as standard. As an option, you can get additio
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/headlights_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="1920" height="1080"  >}}
 
@@ -293,7 +287,6 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 The cargo capacity in the trunk is 610 liters. With the rear seat down, it is 1770 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 3060 kg (6746 lbs), and with the base weight of 2555 kg (5633 lbs), you can max load 505 kg (1113 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1700, and on unbraked, it is 750 kg (3748/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000"  >}}
 

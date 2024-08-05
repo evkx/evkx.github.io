@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 21 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/charging_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1736"  >}}
 
 ### Charge port
@@ -85,7 +84,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/exterior_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1642"  >}}
 
 
@@ -114,7 +112,6 @@ The following functionalities are available on the **standard** seat.
 You can choose from 1 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1999"  >}}
 
 #### Second-row seat
@@ -124,7 +121,6 @@ You can choose from 1 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - height adjustable headrest
-
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/secondrowseats_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="2250"  >}}
 
@@ -164,7 +160,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/screens_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -191,7 +186,6 @@ The model has 2 USB-C connections as standard. The model has 2 USB-A connections
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/headlights_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1999"  >}}
 
@@ -239,7 +233,6 @@ With the Ford BlueCruise  level 2 system, you get the following driving automati
 The cargo capacity in the trunk is 402 liters. With the rear seat down, it is 1420 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 100 liters (3.5 CU FT). The maxium weight of the car is 2605 kg (5743 lbs), and with the base weight of 2085 kg (4597 lbs), you can max load 520 kg (1146 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_rwd/trunk_1_st.jpg" title="Ford Mustang Mach-E Long Range RWD" width="3000" height="1721"  >}}
 <div class="mt-3 mb-3">

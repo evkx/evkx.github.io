@@ -80,7 +80,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit p
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/exterior_1_st.jpg" title="MG Marvel R Electric" width="3000" height="2000"  >}}
 
 
@@ -107,7 +106,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 - Gray [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
 - Beige [Alcantara/revêtement en similicuir](../../../../technology/seats/materials/#alcantara)
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/frontseats_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1999"  >}}
 
 #### Siège de deuxième rangée
@@ -115,7 +113,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/secondrowseats_1_st.jpg" title="MG Marvel R Electric" width="3000" height="2256"  >}}
 
@@ -153,7 +150,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/screens_1_st.jpg" title="MG Marvel R Electric" width="2560" height="1707"  >}}
 
 
@@ -184,7 +180,6 @@ Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
 
-
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/headlights_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1701"  >}}
 
 ## Systèmes avancés d'aide à la conduite
@@ -214,7 +209,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 La capacité de chargement dans le coffre est de 359 litres. Avec la banquette arrière rabattue, elle est de 1396 litres. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 150 litres (5,3 CU FT). Le poids maximum de la voiture est de 2288 kg (5044 lbs), et avec le poids de base de 1810 kg (3990 lbs), vous pouvez charger au maximum 478 kg (1054 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum. 478kg est considéré comme faible pour ce type de voiture et peut limiter la quantité de choses que vous pouvez emporter en plus des passagers.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 750, et sur une remorque non freinée, il est de 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mg/marvel_r/marvel_r_electric/trunk_1_st.jpg" title="MG Marvel R Electric" width="3000" height="1915"  >}}
 

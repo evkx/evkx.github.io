@@ -84,7 +84,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/exterior_2_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 
@@ -116,7 +115,6 @@ You can choose from 3 different materials/colors for this seat type.
 - Brown [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Beige [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/frontseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -131,7 +129,6 @@ You can choose from 3 different materials/colors for this seat type.
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Brown [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Beige [fabric upholstering](../../../../technology/seats/materials/#fabric)
-
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/secondrowseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
@@ -170,7 +167,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/screens_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -197,7 +193,6 @@ The model has 4 USB-C connections as standard.
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/headlights_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
@@ -248,7 +243,6 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 280 liters. With the rear seat down, it is 1050 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 1700 kg (3748 lbs), and with the base weight of 1375 kg (3031 lbs), you can max load 325 kg (717 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/trunk_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 

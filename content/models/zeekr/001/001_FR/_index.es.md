@@ -81,7 +81,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/exterior_1_st.jpg" title="Zeekr 001 FR" width="3000" height="1999"  >}}
 
 
@@ -114,7 +113,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Gray [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Gray [tapicería de cuero](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/frontseats_1_st.jpg" title="Zeekr 001 FR" width="3000" height="2250"  >}}
 
@@ -162,7 +160,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en la parte superior de la consola central mide 15,4 pulgadas de tamaño
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/screens_1_st.jpg" title="Zeekr 001 FR" width="3000" height="3000"  >}}
 

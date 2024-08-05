@@ -86,7 +86,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit panoramique. La vitre s'étend sur la majeure partie du toit et les occupants peuvent ouvrir la partie avant. Cette vitre donne l'impression que l'intérieur de la voiture est plus spacieux et plus lumineux. , ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusive/exterior_1_st.jpg" title="Hongqi E-HS9 Exclusive" width="3000" height="1757"  >}}
 
 
@@ -169,7 +168,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusive/screens_1_st.jpg" title="Hongqi E-HS9 Exclusive" width="3000" height="1800"  >}}
 
 
@@ -195,7 +193,6 @@ Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 3 co
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_exclusive/headlights_1_st.jpg" title="Hongqi E-HS9 Exclusive" width="851" height="686"  >}}
 

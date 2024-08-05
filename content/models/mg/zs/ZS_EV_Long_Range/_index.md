@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 12 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/charging_1_st.jpg" title="MG ZS EV Long Range" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -84,7 +83,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/exterior_1_st.jpg" title="MG ZS EV Long Range" width="3000" height="2000"  >}}
 
 
@@ -113,7 +111,6 @@ You can choose from 2 different materials/colors for this seat type.
 - Black [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Gray [fabric/leatherette upholstering](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/frontseats_1_st.jpg" title="MG ZS EV Long Range" width="3000" height="1999"  >}}
 
 #### Second-row seat
@@ -121,7 +118,6 @@ You can choose from 2 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/secondrowseats_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1706"  >}}
 
@@ -159,7 +155,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/screens_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1015"  >}}
 
 
@@ -190,7 +185,6 @@ The model has 2 USB-C connections as standard. The model has 2 USB-A connections
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/headlights_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1673"  >}}
 
@@ -227,7 +221,6 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 448 liters. With the rear seat down, it is 1166 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 150 liters (5.3 CU FT). The maxium weight of the car is 2070 kg (4564 lbs), and with the base weight of 1620 kg (3571 lbs), you can max load 450 kg (992 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 450kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 500, and on unbraked, it is 500 kg (1102/1102 lbs).
-
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_long_range/trunk_1_st.jpg" title="MG ZS EV Long Range" width="2560" height="1707"  >}}
 

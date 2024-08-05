@@ -79,7 +79,6 @@ Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på
 
 Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort panoramaglastak som sträcker sig från fram till bak, vilket förbättrar interiörens rymliga och ljusa känsla och därmed förbättrar stämningen och komforten för passagerarna. Detta glas är tonat för att skydda mot värme från solen.
 
-
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/exterior_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="950"  >}}
 
 
@@ -105,7 +104,6 @@ Följande funktioner är tillgängliga på **** sätet.
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
-
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/frontseats_1_st.jpg" title="Neta GT 580 AWD" width="1920" height="1081"  >}}
 
@@ -150,7 +148,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch översta mittkonsolen är 17,6 tum
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/neta/gt/gt_580_awd/screens_1_st.jpg" title="Neta GT 580 AWD" width="3000" height="2000"  >}}
 

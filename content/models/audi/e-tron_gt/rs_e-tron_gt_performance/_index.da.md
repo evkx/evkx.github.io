@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 49 minutter ved brug af en hjemmeoplader. For hurtigere opladning kan du vælge en valgfri ombordlader, der understøtter op til 22 kW. Med denne opgradering kan du opnå en fuld opladning fra 0 til 100% på kun cirka 4 timer og 24 minutter derhjemme.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/charging_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
 ### Ladeport
@@ -104,7 +103,6 @@ Der er tre forskellige tagmuligheder at vælge imellem. Standardtaget inkluderer
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne. Som en mulighed er dobbeltglas sidevinduer tilgængelige for at reducere kabinestøj, hvilket forbedrer den samlede køreoplevelse.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/exterior_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
 
@@ -160,7 +158,6 @@ Følgende funktioner er tilgængelige på **sport pro** sædet.
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/frontseats_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
 
@@ -200,7 +197,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/screens_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -230,7 +226,6 @@ Du kan vælge mellem tre typer forlygter til Audi RS e-tron GT performance.
 - Forlygter baseret på LED Matrix med laserteknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukkes individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_performance/headlights_1_st.jpg" title="Audi RS e-tron GT performance" width="3000" height="2249"  >}}
 

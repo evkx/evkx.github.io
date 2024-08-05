@@ -50,7 +50,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 6 horas y 49 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/charging_1_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}
 
 ### Puerto de carga
@@ -99,7 +98,6 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/exterior_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="1687"  >}}
 
 
@@ -127,7 +125,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/frontseats_1_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
@@ -135,7 +132,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/secondrowseats_1_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}
 
@@ -174,7 +170,6 @@ Detalles clave de la pantalla:
 - La  pantalla en el centro del tablero mide 15,0 pulgadas de tamaño
 
 El modelo no tiene head-up display.
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_long_range_gen1/screens_2_st.jpg" title="Tesla Model 3 Long Range (GEN1)" width="3000" height="2000"  >}}
 

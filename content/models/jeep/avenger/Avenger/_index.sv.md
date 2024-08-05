@@ -84,7 +84,6 @@ Det finns bara ett tak för denna modell.
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/exterior_1_st.jpg" title="Jeep Avenger" width="3000" height="2000"  >}}
 
 
@@ -155,7 +154,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/screens_1_st.jpg" title="Jeep Avenger" width="3000" height="2263"  >}}
 
 ## Infotainment
@@ -180,7 +178,6 @@ En typ av ljudsystem är tillgänglig för Jeep Avenger.
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/headlights_1_st.jpg" title="Jeep Avenger" width="3000" height="1838"  >}}
 
@@ -214,7 +211,6 @@ Med DS Drive Assist  nivå 1-systemet får du följande körautomationsfunktione
 Lastkapaciteten i bagageutrymmet är 355 liter. Med baksätet nedfällt är det 1050 liter. Bilens maximala vikt är 2025 kg, och med basvikten på 1520 kg kan du lasta maximalt 505 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
 
 {{< sitefiguresized thumb="models/jeep/avenger/avenger/trunk_1_st.jpg" title="Jeep Avenger" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

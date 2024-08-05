@@ -86,7 +86,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/exterior_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
 
@@ -121,7 +120,6 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 - Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 - Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/frontseats_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
 #### Sæder på anden række
@@ -144,7 +142,6 @@ Muligheden third er to kaptajnstole. Derudover er følgende funktionaliteter til
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [benstøtte til passager](../../../../technology/seats/adjustment/#leg-support)
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/secondrowseats_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
 #### Sæder på tredje række
@@ -152,7 +149,6 @@ Muligheden third er to kaptajnstole. Derudover er følgende funktionaliteter til
 
 
 Den tredje række har en to-sæders bænk med en 50:50-deling. Igen kan du folde sæderne ned, når de ikke bruges, for at skabe en større lastkapacitet.
-
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/thirdrowseats_1_st.jpg" title="Kia EV9 RWD" width="1350" height="900"  >}}
 
@@ -193,7 +189,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/screens_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -221,7 +216,6 @@ Modellen har 6 USB-C-forbindelser som standard.
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/headlights_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 
@@ -266,7 +260,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 333 liter. Med bagsædet nede er det 2393 liter. På taget kan du laste op til 100 kg (220,5 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 55 liter (1,9 CU FT). Bilens maksimale vægt er 3190 kg (7033 lbs), og med basisvægten på 2637 kg (5814 lbs), kan du maksimalt laste 553 kg (1219 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2500, og på ubremset er den 750 kg (5512/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_rwd/trunk_1_st.jpg" title="Kia EV9 RWD" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

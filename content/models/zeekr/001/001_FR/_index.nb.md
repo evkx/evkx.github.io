@@ -81,7 +81,6 @@ Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak s
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/exterior_1_st.jpg" title="Zeekr 001 FR" width="3000" height="1999"  >}}
 
 
@@ -114,7 +113,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Black [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [skinntrekk](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/frontseats_1_st.jpg" title="Zeekr 001 FR" width="3000" height="2250"  >}}
 
@@ -162,7 +160,6 @@ Viktige skjermdetaljer:
 - touch-skjermen øverst på midtkonsollen er 15,4 tommer stor
 
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/screens_1_st.jpg" title="Zeekr 001 FR" width="3000" height="3000"  >}}
 

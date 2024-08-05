@@ -80,7 +80,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [tailgate]
 
 There is only one roof for this model. The standard roof has a 4 seperate glass panels that can be removed, making this a convertible.
 
-
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/exterior_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2000"  >}}
 
 
@@ -155,7 +154,6 @@ Key screen details:
 - The touch screen on the dashboard's center is 13.4 inches large
 
 The model does not have a head-up display.
-
 
 {{< sitefiguresized thumb="models/gmc/hummer_ev/hummer_ev_edition_1_pickup/screens_1_st.jpg" title="GMC Hummer EV Edition 1 Pickup" width="3000" height="2001"  >}}
 

@@ -86,7 +86,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le standard est juste un toit ordinair
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/exterior_1_st.jpg" title="KGM Torres EVX" width="3000" height="2000"  >}}
 
 
@@ -160,7 +159,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/screens_1_st.jpg" title="KGM Torres EVX" width="3000" height="1960"  >}}
 
 ## Infodivertissement
@@ -187,7 +185,6 @@ Le modèle dispose de 4 connexions USB-C en standard.
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/headlights_1_st.jpg" title="KGM Torres EVX" width="3000" height="1687"  >}}
 

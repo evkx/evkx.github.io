@@ -97,7 +97,6 @@ Du kan vælge mellem flere hjuldesigns, alle tilgængelige i samme størrelse, p
 
 Der er kun ét tag til denne model.
 
-
 {{< sitefiguresized thumb="models/yangwang/u9/u9/exterior_1_st.jpg" title="YangWang U9" width="3000" height="1562"  >}}
 
 
@@ -158,7 +157,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/yangwang/u9/u9/screens_1_st.jpg" title="YangWang U9" width="1200" height="717"  >}}
 
 ## Infotainment
@@ -183,7 +181,6 @@ Yderligere understøtter YangWang U9 Android Auto og Apple CarPlay. Denne funkti
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/yangwang/u9/u9/headlights_1_st.jpg" title="YangWang U9" width="3000" height="2250"  >}}
 

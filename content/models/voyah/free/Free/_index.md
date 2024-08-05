@@ -81,7 +81,6 @@ There is only one roof for this model. The standard roof has a large panoramic e
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/voyah/free/free/exterior_1_st.jpg" title="VOYAH FREE" width="3000" height="1687"  >}}
 
 
@@ -154,7 +153,6 @@ Key screen details:
 - The  screen in front of the passenger in the dashboard is 12.3 inches large
 
 The model does not have a head-up display.
-
 
 {{< sitefiguresized thumb="models/voyah/free/free/screens_1_st.jpg" title="VOYAH FREE" width="2560" height="1767"  >}}
 

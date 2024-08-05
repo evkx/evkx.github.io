@@ -81,7 +81,6 @@ Bilen har fyra [standarddörrar](../../../../technology/doors/) och ett [bakluck
 
 Det finns bara ett tak för denna modell.
 
-
 {{< sitefiguresized thumb="models/xpeng/g3/g3i/exterior_1_st.jpeg" title="XPENG G3i" width="3000" height="1686"  >}}
 
 

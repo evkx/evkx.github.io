@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 20 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/charging_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 
 ### Ladeport
@@ -93,7 +92,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med soltak. Glasset strekker seg kun over første rad, og passasjerer kan åpne det. Dette glasset gjør at bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/exterior_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 
@@ -179,7 +177,6 @@ Du kan velge mellom 21 forskjellige materialer/farger for denne setetypen.
 - Blue [skinntrekk](../../../../technology/seats/materials/#leather)
 - Black [skinntrekk](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/frontseats_1_st.jpg" title="BMW i4 M50" width="3000" height="2121"  >}}
 
 #### Seter på andre rad
@@ -223,7 +220,6 @@ Viktige skjermdetaljer:
 - touch-skjermen ved høyre del av den delte rammen er 14,9 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/screens_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 

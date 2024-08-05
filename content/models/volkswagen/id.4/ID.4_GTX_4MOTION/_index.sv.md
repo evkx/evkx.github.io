@@ -90,7 +90,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion/exterior_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION" width="3000" height="2000"  >}}
 
 
@@ -130,7 +129,6 @@ Följande funktioner är tillgängliga på **ergoActive Top-Sport** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion/frontseats_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
@@ -138,7 +136,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion/secondrowseats_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION" width="3000" height="2000"  >}}
 
@@ -179,7 +176,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion/screens_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION" width="3000" height="2206"  >}}
 
 ## Infotainment
@@ -207,7 +203,6 @@ Modellen har 4 USB-C-anslutningar som standard.
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion/headlights_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION" width="3000" height="1687"  >}}
 
@@ -258,7 +253,6 @@ Med Assistantpackage plus  nivå 2-systemet får du fler körautomatiseringsfunk
 Lastkapaciteten i bagageutrymmet är 543 liter. Med baksätet nedfällt är det 1575 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2750 kg, och med basvikten på 2164 kg kan du lasta maximalt 586 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1200, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_gtx_4motion/trunk_1_st.jpg" title="Volkswagen ID.4 GTX 4MOTION" width="3000" height="2000"  >}}
 

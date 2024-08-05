@@ -89,7 +89,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/exterior_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="1711"  >}}
 
 
@@ -117,7 +116,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
-
 
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/frontseats_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="2110"  >}}
 
@@ -163,7 +161,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/screens_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="1714"  >}}
 
 ## Infodivertissement
@@ -191,7 +188,6 @@ Le modèle dispose de 4 connexions USB-C en standard.
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/cupra/born/born_58_e-boost/headlights_1_st.jpg" title="CUPRA BORN 58 e-BOOST" width="3000" height="1976"  >}}
 

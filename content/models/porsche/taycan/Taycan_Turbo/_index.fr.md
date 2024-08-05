@@ -95,7 +95,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe trois options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Cette vitre rend l'intérieur de la voiture plus agréable. spacieux et lumineux, ce qui peut améliorer l'ambiance et le confort de l'occupant. Le verre a une fonction électrochrome qui permet de mélanger le verre pour se protéger du soleil.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo/exterior_1_st.jpg" title="Porsche Taycan Turbo" width="3000" height="2000"  >}}
 
 
@@ -200,7 +199,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo/screens_1_st.jpg" title="Porsche Taycan Turbo" width="3000" height="2000"  >}}
 
 ## Infodivertissement
@@ -277,7 +275,6 @@ Avec le système Porsche InnoDrive  niveau 2, vous bénéficiez de fonctionnalit
 La capacité de chargement du coffre est de 366 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2870 kg (6327 lbs), et avec le poids de base de 2220 kg (4894 lbs), vous pouvez charger au maximum 650 kg (1433 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo/trunk_1_st.jpg" title="Porsche Taycan Turbo" width="3000" height="2250"  >}}
 

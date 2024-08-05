@@ -89,7 +89,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/cupra/born/born_vz/exterior_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="1766"  >}}
 
 
@@ -117,7 +116,6 @@ The following functionalities are available on the **standard** seat.
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 3 different materials/colors for this seat type.
-
 
 {{< sitefiguresized thumb="models/cupra/born/born_vz/frontseats_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="2191"  >}}
 
@@ -162,7 +160,6 @@ Key screen details:
 - The touch screen on the dashboard's center is 12.9 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/cupra/born/born_vz/screens_1_st.jpg" title="CUPRA BORN VZ" width="3000" height="1717"  >}}
 

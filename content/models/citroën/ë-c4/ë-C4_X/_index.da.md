@@ -84,7 +84,6 @@ Der er kun ét tag til denne model.
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/exterior_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="2000"  >}}
 
 
@@ -176,7 +175,6 @@ Yderligere understøtter Citroën ë-C4 X Android Auto og Apple CarPlay. Denne f
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c4/ë-c4_x/headlights_1_st.jpg" title="Citroën ë-C4 X" width="3000" height="1999"  >}}
 

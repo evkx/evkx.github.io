@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 10 hours and 52 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/charging_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="2880" height="1920"  >}}
 
 ### Charge port
@@ -84,7 +83,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [split tai
 There is only one roof for this model. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/exterior_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="2880" height="1920"  >}}
 
@@ -169,7 +167,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/screens_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="1600" height="1067"  >}}
 
 
@@ -235,7 +232,6 @@ With the Driver+  level 2 system, you get the following driving automation featu
 The cargo capacity in the trunk is 498 liters. With the rear seat down, it is 2965 liters. On the roof, you can load up to 113 kg (249.1 lbs). Under the hood, there is frunk with more storage room. This frunk is 314 liters (11.1 CU FT).
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 3500, and on unbraked, it is 750 kg (7716/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_performance_dual-motor_awd_lp/trunk_1_st.jpg" title="Rivian R1S Performance Dual-Motor AWD LP" width="1920" height="1080"  >}}
 

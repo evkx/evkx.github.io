@@ -81,7 +81,6 @@ Smalare hjul kommer att förbättra förbrukningen och ge längre räckvidd, med
 
 Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort panoramaglastak som sträcker sig från fram till bak, vilket förbättrar interiörens rymliga och ljusa känsla och därmed förbättrar stämningen och komforten för passagerarna. Detta glas är tonat för att skydda mot värme från solen.
 
-
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/exterior_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1400" height="788"  >}}
 
 
@@ -110,7 +109,6 @@ Följande funktioner är tillgängliga på **** sätet.
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 -  [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/frontseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1875" height="1250"  >}}
 
 #### Säten på andra raden
@@ -122,7 +120,6 @@ Följande funktioner är tillgängliga på **** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 -  [läderklädsel](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/secondrowseats_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="2500" height="1250"  >}}
 
@@ -161,7 +158,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/screens_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="2500" height="1250"  >}}
 
 ## Infotainment
@@ -180,7 +176,6 @@ Modellen har 1 USB-C-anslutningar som standard.
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/aion/hyper_gt/hyper_gt_710_supercharged/headlights_1_st.jpg" title="Aion Hyper GT 710 Supercharged" width="1920" height="960"  >}}
 

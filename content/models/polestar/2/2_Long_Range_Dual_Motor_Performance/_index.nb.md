@@ -84,7 +84,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback 
 
 Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
-
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/exteriore_3_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="2953" height="2215"  >}}
 
 
@@ -116,7 +115,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Gray [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [skinntrekk](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/frontseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="1687"  >}}
 
 #### Seter på andre rad
@@ -126,7 +124,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en -del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/secondrowseats_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="2250"  >}}
 
@@ -166,7 +163,6 @@ Viktige skjermdetaljer:
 
 Modellen er ikke tilgjengelig med head-up display.
 
-
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/screens_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -189,7 +185,6 @@ Du kan velge mellom to typer frontlykter for Polestar 2 Long Range Dual Motor Pe
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/polestar/2/2_long_range_dual_motor_performance/headlights_1_st.jpg" title="Polestar 2 Long Range Dual Motor Performance" width="3000" height="1766"  >}}
 

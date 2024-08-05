@@ -99,7 +99,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er tre forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Glasset har en elektrokrom funksjon som lar deg blande glasset for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo_gen1/exterior_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo (GEN1)" width="3000" height="2001"  >}}
 
 
@@ -144,7 +143,6 @@ Følgende funksjoner er tilgjengelige på **Sportsseats Plus** setet.
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo_gen1/frontseats_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo (GEN1)" width="3000" height="2001"  >}}
 
 #### Seter på andre rad
@@ -158,7 +156,6 @@ Alternativet standard er to integrerte seter i andre rad. I tillegg er følgende
 Alternativet second er to integrerte seter i andre rad med et tredje mindre sete i mellom. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo_gen1/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo (GEN1)" width="3000" height="1912"  >}}
 
@@ -199,7 +196,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo_gen1/screens_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo (GEN1)" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -226,7 +222,6 @@ Du kan velge mellom tre lydsystemer på Porsche Taycan Turbo S Sport Turismo (GE
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo_gen1/headlights_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo (GEN1)" width="3000" height="2000"  >}}
 
@@ -279,7 +274,6 @@ Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 Lastkapasiteten i bagasjerommet er 446 liter. Med baksetet nede er det 1212 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2870 kg, og med basisvekten på 2250 kg kan du maksimalt laste 620 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo_gen1/trunk_1_st.jpg" title="Porsche Taycan Turbo S Sport Turismo (GEN1)" width="3000" height="1747"  >}}
 

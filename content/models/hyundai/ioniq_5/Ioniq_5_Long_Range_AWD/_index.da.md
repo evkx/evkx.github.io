@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 6 timer og 43 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/charging_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -89,7 +88,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/exterior_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 
 
@@ -124,7 +122,6 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 - Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 - Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/frontseats_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
@@ -134,7 +131,6 @@ Du kan vælge mellem 6 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/secondrowseats_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 
@@ -172,7 +168,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/screens_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -199,7 +194,6 @@ Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelse
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/headlights_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 
@@ -245,7 +239,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 527 liter. Med bagsædet nede er det 1578 liter. På taget kan du laste op til 80 kg (176,4 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 24 liter (0,8 CU FT). Bilens maksimale vægt er 2560 kg (5644 lbs), og med basisvægten på 2045 kg (4508 lbs), kan du maksimalt laste 515 kg (1135 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1600, og på ubremset er den 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_5/ioniq_5_long_range_awd/trunk_1_st.jpg" title="Hyundai Ioniq 5 Long Range AWD" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

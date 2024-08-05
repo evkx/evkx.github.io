@@ -81,7 +81,6 @@ Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der 
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/exterior_1_st.jpg" title="Zeekr 001 FR" width="3000" height="1999"  >}}
 
 
@@ -114,7 +113,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 - Black [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [læderpolstring](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/frontseats_1_st.jpg" title="Zeekr 001 FR" width="3000" height="2250"  >}}
 
@@ -162,7 +160,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch øverst på midterkonsollen er 15,4 tommer stor
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_fr/screens_1_st.jpg" title="Zeekr 001 FR" width="3000" height="3000"  >}}
 

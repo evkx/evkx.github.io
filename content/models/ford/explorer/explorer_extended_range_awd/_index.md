@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 10 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_awd/charging_1_st.jpg" title="Ford Explorer Extended Range AWD" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -92,7 +91,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
-
 
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_awd/exterior_1_st.jpg" title="Ford Explorer Extended Range AWD" width="3000" height="2199"  >}}
 
@@ -170,7 +168,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_awd/screens_1_st.jpg" title="Ford Explorer Extended Range AWD" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -198,7 +195,6 @@ The model has 4 USB-C connections as standard.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_awd/headlights_1_st.jpg" title="Ford Explorer Extended Range AWD" width="3000" height="2250"  >}}
 

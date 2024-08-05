@@ -79,7 +79,6 @@ El auto tiene dos [puertas de tijera](../../../../technology/doors/) y una [tapa
 
 Sólo hay un techo para este modelo. El techo estándar es una capota blanda que se puede plegar.
 
-
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/exterior_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="1487"  >}}
 
 
@@ -104,7 +103,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Red [Alcantara/tapicería de polipiel](../../../../technology/seats/materials/#alcantara)
-
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/frontseats_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 
@@ -145,7 +143,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/screens_1_st.jpg" title="MG Cyberster AWD Long Range" width="3000" height="2000"  >}}
 
 
@@ -175,7 +172,6 @@ El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/mg/cyberster/cyberster_awd_long_range/headlights_1_st.jpg" title="MG Cyberster AWD Long Range" width="2800" height="1575"  >}}
 

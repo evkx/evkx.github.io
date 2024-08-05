@@ -107,7 +107,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_sportback_50_e-tron/exterior_1_st.jpeg" title="Audi Q8 Sportback 50 e-tron" width="3000" height="2002"  >}}
 
 

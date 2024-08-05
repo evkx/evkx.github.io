@@ -81,7 +81,6 @@ Der er kun ét tag til denne model. Standardtaget har en stor panoramaudsigt, de
 
 Ruderne fra B-stolpen og bagsiden er tonede.
 
-
 {{< sitefiguresized thumb="models/voyah/free/free/exterior_1_st.jpg" title="VOYAH FREE" width="3000" height="1687"  >}}
 
 
@@ -154,7 +153,6 @@ Vigtige skærmdetaljer:
 - Skærmen  foran passageren i instrumentbrættet er 12,3 tommer stor
 
 Modellen har ikke et head-up display.
-
 
 {{< sitefiguresized thumb="models/voyah/free/free/screens_1_st.jpg" title="VOYAH FREE" width="2560" height="1767"  >}}
 

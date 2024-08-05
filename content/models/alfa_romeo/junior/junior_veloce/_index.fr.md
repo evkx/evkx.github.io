@@ -84,7 +84,6 @@ Il n'y a qu'un seul toit pour ce modèle.
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/exterior_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2000"  >}}
 
 
@@ -115,7 +114,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 - Gray [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 - Black [Revêtement en cuir Nappa](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/frontseats_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2250"  >}}
 
 #### Siège de deuxième rangée
@@ -123,7 +121,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/secondrowseats_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2000"  >}}
 
@@ -183,7 +180,6 @@ Les phares standard utilisent la technologie LED Matrix. LED Matrix est un syst�
 
 De plus, les feux arrière standard utilisent la technologie LED.
 
-
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/headlights_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2177"  >}}
 
 ## Systèmes avancés d'aide à la conduite
@@ -216,7 +212,6 @@ Avec le système DS Drive Assist  niveau 1, vous bénéficiez des fonctionnalit�
 La capacité de chargement dans le coffre est de 400 litres. Avec la banquette arrière rabattue, elle est de 1467 litres. Le poids maximum de la voiture est de 2030 kg (4475 lbs), et avec le poids de base de 1573 kg (3468 lbs), vous pouvez charger au maximum 457 kg (1008 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/alfa_romeo/junior/junior_veloce/trunk_1_st.jpg" title="Alfa Romeo Junior Veloce" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

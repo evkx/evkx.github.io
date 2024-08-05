@@ -106,7 +106,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør at bilens interiør føles romsligere og lysere , som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/nio/el6/el6/exterior_1_st.jpg" title="Nio EL6" width="2560" height="1280"  >}}
 
 
@@ -139,7 +138,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [fotstøtte for passasjer](../../../../technology/seats/adjustment/#footrest)
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
-
 
 {{< sitefiguresized thumb="models/nio/el6/el6/frontseats_1_st.jpg" title="Nio EL6" width="2880" height="2316"  >}}
 
@@ -186,7 +184,6 @@ Viktige skjermdetaljer:
 - touch-skjermen i midten av midtkonsollen er 12,8 tommer stor
 
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/nio/el6/el6/screens_1_st.jpg" title="Nio EL6" width="2560" height="1280"  >}}
 
@@ -262,7 +259,6 @@ Med NIO Pilot Complete Pack  nivå 2-systemet får du flere kjøreautomatisering
 Lastkapasiteten i bagasjerommet er 668 liter. Med baksetet nede er det 1430 liter. På taket kan du laste opptil 100 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2850 kg, og med basisvekten på 2366 kg kan du maksimalt laste 484 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt. 484 kg anses som lavt for denne typen biler og kan begrense hvor mye ting du kan ta med i tillegg til passasjerer.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/nio/el6/el6/trunk_1_st.jpg" title="Nio EL6" width="2560" height="1600"  >}}
 <div class="mt-3 mb-3">

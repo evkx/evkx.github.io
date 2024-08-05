@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 49 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 22 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 4 hours and 24 minutes at home.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/charging_2_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 ### Charge port
@@ -107,7 +106,6 @@ There are three different roof options to select from. The standard roof include
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers. As an option, double-glazed side windows are available to reduce cabin noise, enhancing the overall driving experience.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/exterior_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 
@@ -163,7 +161,6 @@ The following functionalities are available on the **sport pro** seat.
 
 You can choose from 4 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/frontseats_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 
@@ -203,7 +200,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/screens_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -233,7 +229,6 @@ You can choose between three types of headlights for the Audi RS e-tron GT.
 - **LED Matrix Headlights with Laser Technology:** Also available as an option, these headlights combine the adaptive features of the LED Matrix system with laser technology for enhanced brightness and range, offering superior illumination and safety.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/headlights_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="1999"  >}}
 

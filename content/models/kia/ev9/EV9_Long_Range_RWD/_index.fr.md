@@ -86,7 +86,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/exterior_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
 
 
@@ -121,7 +120,6 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 - Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 - Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/frontseats_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
 
 #### Sièges de deuxième rangée
@@ -144,7 +142,6 @@ L'option third est deux sièges capitaine. De plus, les fonctionnalités suivant
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/secondrowseats_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
 
 #### Sièges de troisième rangée
@@ -152,7 +149,6 @@ L'option third est deux sièges capitaine. De plus, les fonctionnalités suivant
 
 
 La troisième rangée est dotée d'une banquette à deux places divisée en 50:50. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
-
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/thirdrowseats_1_st.jpg" title="Kia EV9 Long Range RWD" width="1350" height="900"  >}}
 
@@ -193,7 +189,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/screens_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
 
 ## Infodivertissement
@@ -221,7 +216,6 @@ Le modèle dispose de 6 connexions USB-C en standard.
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/headlights_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
 
@@ -266,7 +260,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 La capacité de chargement dans le coffre est de 333 litres. Avec la banquette arrière rabattue, elle est de 2393 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont standard sur ce modèle, ce qui facilite le montage du coffre de toit ou des barres de toit sur la voiture. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 55 litres (1,9 CU FT). Le poids maximum de la voiture est de 3190 kg (7033 lbs), et avec le poids de base de 2637 kg (5814 lbs), vous pouvez charger au maximum 553 kg (1219 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2500, et sur une remorque non freinée, il est de 750 kg (5512/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_rwd/trunk_1_st.jpg" title="Kia EV9 Long Range RWD" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

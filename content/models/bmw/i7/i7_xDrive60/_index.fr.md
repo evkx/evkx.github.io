@@ -89,7 +89,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/exterior_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999"  >}}
 
 
@@ -153,7 +152,6 @@ L'option second est un [siège exécutif combiné à une banquette à deux place
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 - [repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest)
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/secondrowseats_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999"  >}}
 
 
@@ -191,7 +189,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/screens_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999"  >}}
 
 ## Infodivertissement
@@ -222,7 +219,6 @@ Vous pouvez choisir entre deux types de phares pour le BMW i7 xDrive60.
 - Des phares basés sur la technologie LED Matrix avec technologie Laser sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer. et éteindre individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_xdrive60/headlights_1_st.jpg" title="BMW i7 xDrive60" width="3000" height="1999"  >}}
 

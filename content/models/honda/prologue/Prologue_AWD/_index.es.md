@@ -45,7 +45,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11,5 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 23 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/charging_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
 
 ### Puerto de carga
@@ -85,7 +84,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Hay dos opciones de techo diferentes para elegir El techo estándar tiene un gran techo panorámico que se extiende desde el frente hasta la parte trasera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad. del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol. Como opción, puedes pedir este modelo con techo panorámico que se puede abrir. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir la parte delantera. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/exterior_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2000"  >}}
 
 
@@ -124,7 +122,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/secondrowseats_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
 
 
@@ -161,7 +158,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en la parte superior de la consola central mide 11,3 pulgadas de tamaño
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/screens_1_st.jpg" title="Honda Prologue AWD" width="1600" height="900"  >}}
 
@@ -233,7 +229,6 @@ Con el sistema   nivel 1, obtienes las siguientes funciones de automatización d
 La capacidad de carga en el maletero es de 793 litros. Con el asiento trasero abatido, es de 1723 litros.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 680, y sin freno, es de 680 kg (1499/1499 lbs).
-
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/trunk_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

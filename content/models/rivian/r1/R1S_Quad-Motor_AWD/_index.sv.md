@@ -45,7 +45,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11,5 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 10 timmar och 52 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/charging_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="2880" height="1920"  >}}
 
 ### Laddningsport
@@ -85,7 +84,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [delad ba
 Det finns bara ett tak för denna modell. Som tillval kan du beställa denna modell med panoramatak. Glaset har två paneler. En ovanför första och andra raden, och passagerarna kan öppna främre delen. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten för passageraren. Båda glaspanelerna har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
 B-stolpen och vyerna bak är tonade.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/exterior_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="2880" height="1920"  >}}
 
@@ -170,7 +168,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/screens_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="1600" height="1067"  >}}
 
 
@@ -236,7 +233,6 @@ Med Driver+  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten i bagageutrymmet är 498 liter. Med baksätet nedfällt är det 2965 liter. På taket kan du lasta upp till 113 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 314 liter.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 3500, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="1920" height="1080"  >}}
 

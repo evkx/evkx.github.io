@@ -86,7 +86,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/exterior_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2001"  >}}
 
 
@@ -116,7 +115,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - Gray [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/frontseats_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
@@ -126,7 +124,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción)
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/secondrowseats_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2123"  >}}
 
@@ -164,7 +161,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/screens_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2000"  >}}
 
 ## Infoentretenimiento
@@ -191,7 +187,6 @@ El modelo tiene 4 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_rwd/headlights_1_st.jpg" title="Hyundai Ioniq 6 Long Range RWD" width="3000" height="2000"  >}}
 

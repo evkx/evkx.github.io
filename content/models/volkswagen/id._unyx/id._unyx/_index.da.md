@@ -89,7 +89,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/exterior_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="1683"  >}}
 
 
@@ -117,7 +116,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/frontseats_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="1792"  >}}
 
@@ -163,7 +161,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/id._unyx/screens_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="2023"  >}}
 
 ## Infotainment
@@ -191,7 +188,6 @@ Modellen har 4 USB-C-forbindelser som standard.
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/id._unyx/headlights_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="1687"  >}}
 
@@ -248,7 +244,6 @@ Med Assistantpackage plus  niveau 2-systemet får du yderligere køreautomatiser
 Lagekapaciteten i bagagerummet er 540 liter. Med bagsædet nede er det 1267 liter. På taget kan du laste op til 0 kg (0,0 lbs). Bilens maksimale vægt er 2650 kg (5842 lbs), og med basisvægten på 2042 kg (4502 lbs), kan du maksimalt laste 608 kg (1340 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/id._unyx/trunk_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="2193"  >}}
 <div class="mt-3 mb-3">

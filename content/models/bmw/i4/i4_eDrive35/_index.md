@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 6 hours and 6 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/charging_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2001"  >}}
 
 ### Charge port
@@ -93,7 +92,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a sunroof. The glass extends over only the front row, and occupants can open it. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/exterior_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2255"  >}}
 
@@ -178,7 +176,6 @@ You can choose from 21 different materials/colors for this seat type.
 - Brown [leather upholstering](../../../../technology/seats/materials/#leather)
 - Blue [leather upholstering](../../../../technology/seats/materials/#leather)
 - Black [leather upholstering](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/frontseats_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2121"  >}}
 
@@ -297,7 +294,6 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 The cargo capacity in the trunk is 470 liters. With the rear seat down, it is 1290 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2545 kg (5611 lbs), and with the base weight of 2000 kg (4409 lbs), you can max load 545 kg (1202 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_edrive35/trunk_1_st.jpg" title="BMW i4 eDrive35" width="3000" height="2121"  >}}
 <div class="mt-3 mb-3">

@@ -93,7 +93,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan/exterior_1_st.jpeg" title="Porsche Macan" width="3000" height="1687"  >}}
 
 
@@ -192,7 +191,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan/screens_1_st.jpeg" title="Porsche Macan" width="3000" height="1687"  >}}
 
 ## Infotainment
@@ -273,7 +271,6 @@ Med Porsche InnoDrive  nivå 2-systemet får du fler körautomatiseringsfunktion
 Lastkapaciteten i bagageutrymmet är 540 liter. Med baksätet nedfällt är det 1348 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 2920 kg, och med basvikten på 2255 kg kan du lasta maximalt 665 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/porsche/macan/macan/trunk_1_st.jpg" title="Porsche Macan" width="3000" height="2250"  >}}
 

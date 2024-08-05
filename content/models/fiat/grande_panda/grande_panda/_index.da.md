@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 7,4 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 5 timer og 56 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/charging_1_st.JPG" title="Fiat Grande Panda" width="3000" height="1999"  >}}
 
 ### Ladeport
@@ -93,7 +92,6 @@ Der er kun ét tag til denne model.
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/exterior_1_st.jpg" title="Fiat Grande Panda" width="3000" height="1577"  >}}
 
 
@@ -125,7 +123,6 @@ Følgende funktioner er tilgængelige på **Advanced Comfort** sædet.
 
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - Black/Gray [mikrofiber/læderbetræk](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/frontseats_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 
@@ -170,7 +167,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/screens_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 
 
@@ -201,7 +197,6 @@ Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderl
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/headlights_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 
@@ -237,7 +232,6 @@ Op til én [radarsensorer](../../../../technology/sensorsandcameras/radar/), én
 ## Lastkapacitet og træk-kapacitet
 
 Lagekapaciteten i bagagerummet er 361 liter. Med bagsædet nede er det 1600 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2030 kg (4475 lbs), og med basisvægten på 1429 kg (3150 lbs), kan du maksimalt laste 601 kg (1325 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
-
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/trunk_1_st.jpg" title="Fiat Grande Panda" width="3000" height="1782"  >}}
 

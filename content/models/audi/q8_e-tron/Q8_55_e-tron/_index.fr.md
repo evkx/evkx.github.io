@@ -107,7 +107,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_55_e-tron/exterior_1_st.jpg" title="Audi Q8 55 e-tron" width="3000" height="2249"  >}}
 
 
@@ -194,7 +193,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_55_e-tron/frontseats_1_st.jpg" title="Audi Q8 55 e-tron" width="3000" height="2249"  >}}
 
 #### Siège de deuxième rangée
@@ -204,7 +202,6 @@ Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siè
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - appui-tête réglable en hauteur
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_55_e-tron/secondrowseats_1_st.jpg" title="Audi Q8 55 e-tron" width="3000" height="2250"  >}}
 
@@ -248,7 +245,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_55_e-tron/screens_1_st.jpg" title="Audi Q8 55 e-tron" width="3000" height="2249"  >}}
 
 ## Infodivertissement
@@ -280,7 +276,6 @@ Vous pouvez choisir entre trois types de phares pour le Audi Q8 55 e-tron.
 - Des phares basés sur la technologie LED Digital Matrix sont disponibles en option.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_55_e-tron/headlights_1_st.jpg" title="Audi Q8 55 e-tron" width="2557" height="1353"  >}}
 
@@ -338,7 +333,6 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 La capacité de chargement dans le coffre est de 660 litres. Avec la banquette arrière rabattue, elle est de 1725 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 3170 kg (6989 lbs), et avec le poids de base de 2520 kg (5556 lbs), vous pouvez charger au maximum 650 kg (1433 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1800, et sur une remorque non freinée, il est de 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/q8_55_e-tron/trunk_1_st.jpg" title="Audi Q8 55 e-tron" width="3000" height="2249"  >}}
 

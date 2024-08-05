@@ -86,7 +86,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/kia/ev3/ev3_long_range/exterior_1_st.jpg" title="Kia EV3 Long Range" width="3000" height="1687"  >}}
 
 
@@ -162,7 +161,6 @@ Détails clés de l'écran :
 - L'écran touch à droite du cadre partagé mesure 12,3 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/kia/ev3/ev3_long_range/screens_1_st.jpg" title="Kia EV3 Long Range" width="2903" height="1633"  >}}
 

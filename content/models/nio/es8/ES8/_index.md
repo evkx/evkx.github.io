@@ -107,7 +107,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/nio/es8/es8/exterior_1_st.jpg" title="Nio ES8" width="3000" height="1687"  >}}
 
 
@@ -137,7 +136,6 @@ The following functionalities are available on the **standard** seat.
 - [footrest for passenger](../../../../technology/seats/adjustment/#footrest)
 
 You can choose from 3 different materials/colors for this seat type.
-
 
 {{< sitefiguresized thumb="models/nio/es8/es8/frontseats_1_st.jpg" title="Nio ES8" width="2880" height="1784"  >}}
 
@@ -192,7 +190,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/nio/es8/es8/screens_1_st.jpg" title="Nio ES8" width="3000" height="1659"  >}}
 
 
@@ -219,7 +216,6 @@ The model has 3 USB-A connections as standard.
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/nio/es8/es8/headlights_1_st.jpg" title="Nio ES8" width="3000" height="1686"  >}}
 

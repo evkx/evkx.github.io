@@ -106,7 +106,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There is only one roof for this model. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/nio/el8/el8/exterior_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 
@@ -138,7 +137,6 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 3 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/nio/el8/el8/frontseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
 #### Second-row seats
@@ -159,7 +157,6 @@ The second option is two captain chairs. In addition, the following functionalit
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
-
 
 {{< sitefiguresized thumb="models/nio/el8/el8/secondrowseats_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 
@@ -200,7 +197,6 @@ Key screen details:
 - The touch screen in the middle of the center console is 11.3 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/nio/el8/el8/screens_1_st.jpg" title="Nio EL8" width="3000" height="3000"  >}}
 

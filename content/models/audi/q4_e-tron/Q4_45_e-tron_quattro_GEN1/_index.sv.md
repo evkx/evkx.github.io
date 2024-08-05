@@ -54,7 +54,6 @@ Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-l
 
 Platsen för laddningsporten är på [höger baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/battery_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="1766"  >}}
 
 
@@ -105,7 +104,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/exterior_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2250"  >}}
 
 
@@ -144,7 +142,6 @@ Följande funktioner är tillgängliga på **sport** sätet.
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/frontseats_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="1998"  >}}
 
 #### Säten på andra raden
@@ -155,7 +152,6 @@ Alternativet standard är en tresitssbänk med en 60:40-sektion där du kan vika
 
 
 Alternativet second är en tresitssbänk med en 40:20:40-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/secondrowseats_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2000"  >}}
 
@@ -197,7 +193,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/screens_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="1686"  >}}
 
 ## Infotainment
@@ -231,7 +226,6 @@ Dessutom kan du välja mellan två typer av bakljus.
 
 - lights.taillight.technology.option.led
 - lights.taillight.technology.option.led
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/headlights_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2003"  >}}
 
@@ -285,7 +279,6 @@ Med Assistantpackage Tour  nivå 2-systemet får du fler körautomatiseringsfunk
 Lastkapaciteten i bagageutrymmet är 520 liter. Med baksätet nedfällt är det 1490 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2720 kg, och med basvikten på 2135 kg kan du lasta maximalt 585 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1200, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/trunk_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2249"  >}}
 

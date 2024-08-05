@@ -85,7 +85,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir el frente Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Ambos paneles de cristal tienen una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_300_4matic/exterior_1_st.jpg" title="Mercedes-EQ EQA 300 4MATIC" width="3000" height="2000"  >}}
 
 
@@ -134,7 +133,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_300_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQA 300 4MATIC" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
@@ -177,7 +175,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en la parte derecha del marco compartido mide 10,3 pulgadas de tamaño
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_300_4matic/screens_1_st.jpg" title="Mercedes-EQ EQA 300 4MATIC" width="3000" height="2000"  >}}
 

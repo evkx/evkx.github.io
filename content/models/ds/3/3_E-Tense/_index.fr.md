@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 4 heures et 37 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/charging_1_st.jpg" title="DS 3 E-Tense" width="3000" height="1970"  >}}
 
 ### Port de recharge
@@ -86,7 +85,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 Il n'y a qu'un seul toit pour ce modèle.
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
-
 
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/exterior_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
@@ -157,7 +155,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/screens_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
 ## Infodivertissement
@@ -182,7 +179,6 @@ Un type de système audio est disponible pour le DS 3 E-Tense.
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/headlights_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 
@@ -212,7 +208,6 @@ Avec le système DS Drive Assist  niveau 1, vous bénéficiez des fonctionnalit�
 La capacité de chargement dans le coffre est de 350 litres. Avec la banquette arrière rabattue, elle est de 1050 litres. Le poids maximum de la voiture est de 2008 kg (4427 lbs), et avec le poids de base de 1550 kg (3417 lbs), vous pouvez charger au maximum 458 kg (1010 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/ds/3/3_e-tense/trunk_1_st.jpg" title="DS 3 E-Tense" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

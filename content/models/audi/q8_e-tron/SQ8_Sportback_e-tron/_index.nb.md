@@ -102,7 +102,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene. Som et alternativ er dobbeltglass sidevinduer tilgjengelig for å redusere kabinstøy, noe som forbedrer den totale kjøreopplevelsen.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/exterior_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="2250"  >}}
 
 
@@ -163,7 +162,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 
 Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/frontseats_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="2249"  >}}
 
 #### Seter på andre rad
@@ -213,7 +211,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/screens_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="2249"  >}}
 
 ## Infotainment
@@ -245,7 +242,6 @@ Du kan velge mellom tre typer frontlykter for Audi SQ8 Sportback e-tron.
 - Hovedlys basert på LED Digital Matrix-teknologi er tilgjengelig som ekstrautstyr.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/headlights_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="1999"  >}}
 
@@ -303,7 +299,6 @@ Opptil fem [radarsensorer](../../../../technology/sensorsandcameras/radar/) , fe
 Lastkapasiteten i bagasjerommet er 660 liter. Med baksetet nede er det 1725 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 3290 kg, og med basisvekten på 2765 kg kan du maksimalt laste 525 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1800, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/trunk_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="2249"  >}}
 

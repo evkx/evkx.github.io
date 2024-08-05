@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 0 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_performance/charging_1_st.jpg" title="Volkswagen ID.4 Pro Performance" width="3000" height="1765"  >}}
 
 ### Charge port
@@ -94,7 +93,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_performance/exterior_1_st.jpg" title="Volkswagen ID.4 Pro Performance" width="3000" height="2000"  >}}
 
 
@@ -137,7 +135,6 @@ The following functionalities are available on the **ergoActive Top-Sport** seat
 
 You can choose from 1 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_performance/frontseats_1_st.jpg" title="Volkswagen ID.4 Pro Performance" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -145,7 +142,6 @@ You can choose from 1 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_performance/secondrowseats_1_st.jpg" title="Volkswagen ID.4 Pro Performance" width="3000" height="2000"  >}}
 
@@ -197,7 +193,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_performance/screens_1_st.jpg" title="Volkswagen ID.4 Pro Performance" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -228,7 +223,6 @@ You can choose between two types of headlights for the Volkswagen ID.4 Pro Perfo
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_performance/headlights_1_st.jpg" title="Volkswagen ID.4 Pro Performance" width="3000" height="2000"  >}}
 
@@ -279,7 +273,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 543 liters. With the rear seat down, it is 1575 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2750 kg (6063 lbs), and with the base weight of 2164 kg (4771 lbs), you can max load 586 kg (1292 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.4/id.4_pro_performance/trunk_1_st.jpg" title="Volkswagen ID.4 Pro Performance" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

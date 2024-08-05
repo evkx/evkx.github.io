@@ -91,7 +91,6 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/exterior_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2455"  >}}
 
 
@@ -118,7 +117,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/frontseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
@@ -127,7 +125,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
-
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/secondrowseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
 
 #### Asientos de tercera fila
@@ -135,7 +132,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división 60:4
 
 
 La tercera fila tiene un banco de dos asientos opcional con una división 50:50. Nuevamente, puedes plegar los asientos cuando no los uses para crear una mayor capacidad de carga.
-
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/thirdrowseats_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="2000"  >}}
 
@@ -175,7 +171,6 @@ Detalles clave de la pantalla:
 - La touch pantalla en el centro del tablero mide 15,0 pulgadas de tamaño
 
 El modelo no tiene head-up display.
-
 
 {{< sitefiguresized thumb="models/tesla/model_y/model_y_performance/screens_1_st.jpg" title="Tesla Model Y Performance" width="3000" height="1800"  >}}
 

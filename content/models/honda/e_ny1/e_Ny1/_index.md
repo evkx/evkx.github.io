@@ -76,7 +76,6 @@ You can select from multiple wheel designs, all available in the same size, on t
 
 There is only one roof for this model.
 
-
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/exterior_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
 
@@ -134,7 +133,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/screens_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -151,7 +149,6 @@ One type of sound system is available for the Honda e:Ny1.
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/headlights_1_st.jpg" title="Honda e:Ny1" width="3000" height="1819"  >}}
 
@@ -177,7 +174,6 @@ With the standard system the model offers no driving automation.
 The cargo capacity in the trunk is 346 liters. The maxium weight of the car is 2080 kg (4586 lbs), and with the base weight of 1677 kg (3697 lbs), you can max load 403 kg (888 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/honda/e_ny1/e_ny1/trunk_1_st.jpg" title="Honda e:Ny1" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

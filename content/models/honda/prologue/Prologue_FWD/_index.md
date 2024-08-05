@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11.5 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 23 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/charging_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
 
 ### Charge port
@@ -84,7 +83,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are two different roof options to select from. The standard roof has a large panoramic roof extending from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun. As an option, you can order this model with a panoramic roof that can be opened. The glass has two panels. One over the first and the second rows, and occupants can open the front part. It has an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/exterior_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2000"  >}}
 
 
@@ -123,7 +121,6 @@ You can choose from 3 different materials/colors for this seat type.
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/secondrowseats_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
 
 
@@ -160,7 +157,6 @@ Key screen details:
 - The touch screen at the top of the center console is 11.3 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/screens_1_st.jpg" title="Honda Prologue FWD" width="1600" height="900"  >}}
 
@@ -232,7 +228,6 @@ With the   level 1 system, you get the following driving automation features.
 The cargo capacity in the trunk is 793 liters. With the rear seat down, it is 1723 liters.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 680, and on unbraked, it is 680 kg (1499/1499 lbs).
-
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/trunk_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

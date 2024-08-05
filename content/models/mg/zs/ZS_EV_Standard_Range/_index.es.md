@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 4 horas y 27 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/charging_1_st.jpg" title="MG ZS EV Standard Range" width="3000" height="2000"  >}}
 
 ### Puerto de carga
@@ -84,7 +83,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámi
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/exterior_1_st.jpg" title="MG ZS EV Standard Range" width="3000" height="2000"  >}}
 
 
@@ -113,7 +111,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - Black [tapizado de tela](../../../../technology/seats/materials/#fabric)
 - Gray [tapizado de tela/cuero sintético](../../../../technology/asientos/materiales/#fabric)
 
-
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/frontseats_1_st.jpg" title="MG ZS EV Standard Range" width="3000" height="1999"  >}}
 
 #### Asiento de segunda fila
@@ -121,7 +118,6 @@ Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 
 
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/secondrowseats_1_st.jpg" title="MG ZS EV Standard Range" width="2560" height="1706"  >}}
 
@@ -159,7 +155,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/screens_1_st.jpg" title="MG ZS EV Standard Range" width="2560" height="1015"  >}}
 
 
@@ -190,7 +185,6 @@ El modelo tiene 2 conexiones USB-C de serie. El modelo tiene 2 conexiones USB-A 
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/headlights_1_st.jpg" title="MG ZS EV Standard Range" width="2560" height="1673"  >}}
 
@@ -227,7 +221,6 @@ Con el sistema   nivel 2, obtienes las siguientes funciones de automatización d
 La capacidad de carga en el maletero es de 448 litros. Con el asiento trasero abatido, es de 1166 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 150 litros (5,3 CU FT). El peso máximo del automóvil es 2070 kg (4564 lbs), y con el peso base de 1620 kg (3571 lbs), puedes cargar como máximo 450 kg (992 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga. 450kg se considera bajo para este tipo de automóvil y podría restringir la cantidad de cosas que puedes llevar además de los pasajeros.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 500, y sin freno, es de 500 kg (1102/1102 lbs).
-
 
 {{< sitefiguresized thumb="models/mg/zs/zs_ev_standard_range/trunk_1_st.jpg" title="MG ZS EV Standard Range" width="2560" height="1707"  >}}
 

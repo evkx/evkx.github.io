@@ -48,7 +48,6 @@ El cargador a bordo estándar soporta hasta 7 kW para carga AC de Nivel 1 y Nive
 
 La ubicación del puerto de carga está en el [lado trasero derecho](../../../../technology/charging/connectors/#parte-trasera). Esta ubicación facilita el uso de estaciones de carga en las que es necesario realizar una copia de seguridad del cargador. Los tipos de conectores varían entre los diferentes mercados. Este modelo utiliza [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) para Norteamérica y Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Consulte las especificaciones completas para todos los mercados.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/battery_1_st.jpg" title="BYD Han" width="1084" height="470"  >}}
 
 
@@ -90,7 +89,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámi
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/exterior_1_st.jpg" title="BYD Han" width="1680" height="945"  >}}
 
 
@@ -122,7 +120,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/frontseats_1_st.jpg" title="BYD Han" width="1920" height="1156"  >}}
 
 #### Asiento de segunda fila
@@ -132,7 +129,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-
 
 {{< sitefiguresized thumb="models/byd/han/han/secondrowseats_1_st.jpg" title="BYD Han" width="1600" height="960"  >}}
 
@@ -173,7 +169,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/byd/han/han/screens_1_st.jpg" title="BYD Han" width="1920" height="1059"  >}}
 
 ## Infoentretenimiento
@@ -201,7 +196,6 @@ El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 5 conexiones USB-A 
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/byd/han/han/headlights_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}
 
@@ -252,7 +246,6 @@ Con el sistema Smart Pilot  nivel 2, obtienes funciones de automatización de co
 La capacidad de carga en el maletero es de 410 litros. El peso máximo del automóvil es 2660 kg (5864 lbs), y con el peso base de 2250 kg (4960 lbs), puedes cargar como máximo 410 kg (904 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
-
 
 {{< sitefiguresized thumb="models/byd/han/han/trunk_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}
 <div class="mt-3 mb-3">

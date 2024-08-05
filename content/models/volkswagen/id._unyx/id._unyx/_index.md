@@ -89,7 +89,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/exterior_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="1683"  >}}
 
 
@@ -117,7 +116,6 @@ The following functionalities are available on the **standard** seat.
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 3 different materials/colors for this seat type.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/frontseats_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="1792"  >}}
 
@@ -163,7 +161,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/id._unyx/screens_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="2023"  >}}
 
 ## Infotainment
@@ -191,7 +188,6 @@ The model has 4 USB-C connections as standard.
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/id._unyx/headlights_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="1687"  >}}
 
@@ -248,7 +244,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 540 liters. With the rear seat down, it is 1267 liters. On the roof, you can load up to 0 kg (0.0 lbs). The maxium weight of the car is 2650 kg (5842 lbs), and with the base weight of 2042 kg (4502 lbs), you can max load 608 kg (1340 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/id._unyx/trunk_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="2193"  >}}
 <div class="mt-3 mb-3">

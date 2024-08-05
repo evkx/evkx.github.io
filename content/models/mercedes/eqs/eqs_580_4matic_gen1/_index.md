@@ -50,7 +50,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 22 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 55 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic_gen1/charging_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -148,7 +147,6 @@ The following functionalities are available on the **multicontour** seat.
 
 You can choose from 5 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic_gen1/frontseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2250"  >}}
 
 #### Second-row seats
@@ -166,7 +164,6 @@ The second option is a three-seat bench with a 40:20:40 split where you can fold
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic_gen1/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000"  >}}
 
@@ -205,7 +202,6 @@ Key screen details:
 - The  screen in front of the passenger in the dashboard is 12.3 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic_gen1/screens_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="1687"  >}}
 
@@ -289,7 +285,6 @@ With the DRIVE PILOT  level 3 system, you get additional driving automation feat
 The cargo capacity in the trunk is 610 liters. With the rear seat down, it is 1770 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 3060 kg (6746 lbs), and with the base weight of 2555 kg (5633 lbs), you can max load 505 kg (1113 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_580_4matic_gen1/trunk_1_st.jpg" title="Mercedes-EQ EQS 580 4MATIC" width="3000" height="2000"  >}}
 

@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 22 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 4 timer og 7 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/charging_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -90,7 +89,6 @@ Smale hjul vil forbedre forbruket og gi lengre rekkevidde, mens brede hjul vil g
 Bilen har fire [vanlige dører](../../../../technology/doors/) og et [bagasjelokk](../../../../technology/doors/#boot-lid) for bagasjerommet.
 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset har to paneler. Ett over første og andre rad. Dette glasset gjør bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Begge glasspanelene har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/exterior_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="2027"  >}}
 
@@ -138,7 +136,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/frontseats_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="1999"  >}}
 
@@ -199,7 +196,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/screens_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="2000"  >}}
 
 
@@ -235,7 +231,6 @@ Du kan velge mellom to typer frontlykter for Mercedes-AMG EQE 43 4MATIC.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/headlights_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="1999"  >}}
 
@@ -284,7 +279,6 @@ Med Driver Assistance Package Plus  nivå 2-systemet får du flere kjøreautomat
 Lastkapasiteten i bagasjerommet er 430 liter. Med baksetet nede er det 895 liter. På taket kan du laste opptil 100 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 3095 kg, og med basisvekten på 2450 kg kan du maksimalt laste 645 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_43_4matic/trunk_1_st.jpg" title="Mercedes-AMG EQE 43 4MATIC" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

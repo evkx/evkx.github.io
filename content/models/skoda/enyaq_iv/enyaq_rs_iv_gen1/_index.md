@@ -88,7 +88,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs_iv_gen1/exterior_1_st.jpg" title="SKODA ENYAQ RS iV (GEN1)" width="3000" height="2001"  >}}
 
 

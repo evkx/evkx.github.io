@@ -107,7 +107,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un gran techo pano
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/exterior_1_st.jpg" title="Nio ET5 Touring" width="2880" height="2316"  >}}
 
 
@@ -256,7 +255,6 @@ Con el sistema NIO Pilot Complete Pack  nivel 2, obtienes funciones de automatiz
 La capacidad de carga en el maletero es de 450 litros. Con el asiento trasero abatido, es de 1447 litros. En el techo, puedes cargar hasta 100 kg (220,5 lbs). Los rieles de techo son estándar en este modelo, lo que facilita el montaje del cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2900 kg (6393 lbs), y con el peso base de 2379 kg (5245 lbs), puedes cargar como máximo 521 kg (1149 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2000, y sin freno, es de 750 kg (4409/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/nio/et5/et5_touring/trunk_1_st.jpg" title="Nio ET5 Touring" width="2560" height="1670"  >}}
 <div class="mt-3 mb-3">

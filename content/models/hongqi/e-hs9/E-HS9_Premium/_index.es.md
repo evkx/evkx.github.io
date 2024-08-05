@@ -86,7 +86,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámico. El vidrio extiende la mayor parte del techo y los ocupantes pueden abrir la parte delantera. Este vidrio hace que el interior del automóvil se sienta más espacioso y luminoso , lo que puede mejorar el estado de ánimo y el confort del ocupante. Dispone de una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
-
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/exterior_1_st.jpg" title="Hongqi E-HS9 Premium" width="3000" height="1757"  >}}
 
 
@@ -167,7 +166,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/screens_1_st.jpg" title="Hongqi E-HS9 Premium" width="3000" height="1800"  >}}
 
 
@@ -193,7 +191,6 @@ El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 3 conexiones USB-A 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/hongqi/e-hs9/e-hs9_premium/headlights_1_st.jpg" title="Hongqi E-HS9 Premium" width="851" height="686"  >}}
 

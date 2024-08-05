@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 7 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 9 hours and 8 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/charging_1_st.jpg" title="Lexus UX 300e" width="3000" height="1687"  >}}
 
 ### Charge port
@@ -87,7 +86,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/exterior_1_st.jpg" title="Lexus UX 300e" width="3000" height="2000"  >}}
 
 
@@ -115,7 +113,6 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/frontseats_1_st.jpg" title="Lexus UX 300e" width="2281" height="1521"  >}}
 
 #### Second-row seat
@@ -125,7 +122,6 @@ You can choose from 1 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 40:60 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/secondrowseats_1_st.jpg" title="Lexus UX 300e" width="2281" height="1521"  >}}
 
@@ -177,7 +173,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/screens_1_st.jpg" title="Lexus UX 300e" width="2451" height="1510"  >}}
 
 ## Infotainment
@@ -208,7 +203,6 @@ You can choose between two types of headlights for the Lexus UX 300e.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/headlights_1_st.jpg" title="Lexus UX 300e" width="3000" height="2000"  >}}
 
@@ -248,7 +242,6 @@ With the standard system the model offers no driving automation.
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 367 liters. With the third-row seat down, it is 1451 liters. On the roof, you can load up to 80 kg (176.4 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2245 kg (4949 lbs), and with the base weight of 1810 kg (3990 lbs), you can max load 435 kg (959 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
-
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/trunk_1_st.jpg" title="Lexus UX 300e" width="2241" height="1494"  >}}
 <div class="mt-3 mb-3">

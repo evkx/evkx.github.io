@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 8 timer og 21 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/charging_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="1736"  >}}
 
 ### Ladeport
@@ -85,7 +84,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 
 Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/exterior_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="1642"  >}}
 
 
@@ -114,7 +112,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/frontseats_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="1999"  >}}
 
 #### Sæde på anden række
@@ -124,7 +121,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en  del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
-
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/secondrowseats_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="2250"  >}}
 
@@ -164,7 +160,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/screens_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -191,7 +186,6 @@ Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelse
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/headlights_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="1999"  >}}
 
@@ -239,7 +233,6 @@ Med Ford BlueCruise  niveau 2-systemet får du følgende køreautomatiseringsfun
 Lagekapaciteten i bagagerummet er 402 liter. Med bagsædet nede er det 1420 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 100 liter (3,5 CU FT). Bilens maksimale vægt er 2690 kg (5930 lbs), og med basisvægten på 2218 kg (4890 lbs), kan du maksimalt laste 472 kg (1041 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 472kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/ford/mustang_mach-e/mustang_mach-e_long_range_awd/trunk_1_st.jpg" title="Ford Mustang Mach-E Long Range AWD" width="3000" height="1721"  >}}
 <div class="mt-3 mb-3">

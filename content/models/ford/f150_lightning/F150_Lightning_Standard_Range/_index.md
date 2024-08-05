@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 19.2 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 6 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/charging_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1506"  >}}
 
 ### Charge port
@@ -86,7 +85,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [tailgate]
 
 There is only one roof for this model. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/exterior_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1595"  >}}
 
 
@@ -117,7 +115,6 @@ You can choose from 4 different materials/colors for this seat type.
 - Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/frontseats_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1687"  >}}
 
@@ -165,7 +162,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/screens_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1687"  >}}
 
 ## Infotainment
@@ -192,7 +188,6 @@ You can choose between three sound systems on the Ford F150 Lightning Standard R
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/headlights_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1687"  >}}
 
@@ -242,7 +237,6 @@ With the Ford Co-Pilot360™ Active 2.0  level 2 system, you get additional driv
 The cargo capacity in the truck bed is 1495 liters. The bed width is 1285 mm, and length is 1704 mm. The max load weight in bed is 907 kg. Under the hood, there is frunk with more storage room. This frunk is 399 liters (14.1 CU FT). The maxium weight of the car is 3500 kg (7716 lbs), and with the base weight of 2890 kg (6371 lbs), you can max load 610 kg (1345 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 3490, and on unbraked, it is 750 kg (7694/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_standard_range/trunk_1_st.jpg" title="Ford F150 Lightning Standard Range" width="3000" height="1264"  >}}
 

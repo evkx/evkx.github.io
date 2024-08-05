@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 4 timer og 23 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/charging_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2054"  >}}
 
 ### Ladeport
@@ -86,7 +85,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback 
 Det er to forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med soltak. Glasset strekker seg kun over første rad, og passasjerer kan åpne det. Dette glasset gjør at bilens interiør føles mer romslig og lys, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
-
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/exterior_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2250"  >}}
 
@@ -131,7 +129,6 @@ Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan 
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating)
 
-
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/secondrowseats_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2155"  >}}
 
 
@@ -170,7 +167,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/screens_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="1687"  >}}
 
 ## Infotainment
@@ -197,7 +193,6 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/headlights_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2250"  >}}
 
@@ -246,7 +241,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 Lastkapasiteten i bagasjerommet er 466 liter. Med baksetet nede er det 1578 liter. På taket kan du laste opptil 100 kg. Takrails er standard på denne modellen, noe som gjør det enkelt å montere takboks eller stativ på bilen. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 27 liter. Maksimumsvekten til bilen er 2110 kg, og med basisvekten på 1640 kg kan du maksimalt laste 470 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/hyundai/kona/kona_standard_range/trunk_1_st.jpg" title="Hyundai Kona Standard Range" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

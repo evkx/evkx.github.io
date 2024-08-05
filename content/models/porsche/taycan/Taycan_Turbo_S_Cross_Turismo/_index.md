@@ -104,7 +104,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are three different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/exterior_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
 
@@ -149,7 +148,6 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 
 You can choose from 4 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/frontseats_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
 #### Second-row seats
@@ -163,7 +161,6 @@ The standard option is two integrated seats in the second row. In addition, the 
 The second option is two integrated seats in the second row with a third smaller seat in between. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/secondrowseats_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
@@ -204,7 +201,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 
 ## Infotainment
@@ -231,7 +227,6 @@ You can choose between three sound systems on the Porsche Taycan Turbo S Cross T
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_cross_turismo/headlights_1_st.jpg" title="Porsche Taycan Turbo S Cross Turismo" width="3000" height="1688"  >}}
 

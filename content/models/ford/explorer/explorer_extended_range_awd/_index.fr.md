@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 7 heures et 10 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_awd/charging_1_st.jpg" title="Ford Explorer Extended Range AWD" width="3000" height="2000"  >}}
 
 ### Port de recharge
@@ -92,7 +91,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre prolonge la majeure partie du toit et les occupants peuvent ouvrir la partie avant. Cette vitre rend la voiture plus belle. l'intérieur semble plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
-
 
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_awd/exterior_1_st.jpg" title="Ford Explorer Extended Range AWD" width="3000" height="2199"  >}}
 
@@ -170,7 +168,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_awd/screens_1_st.jpg" title="Ford Explorer Extended Range AWD" width="3000" height="2250"  >}}
 
 ## Infodivertissement
@@ -198,7 +195,6 @@ Le modèle dispose de 4 connexions USB-C en standard.
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/ford/explorer/explorer_extended_range_awd/headlights_1_st.jpg" title="Ford Explorer Extended Range AWD" width="3000" height="2250"  >}}
 

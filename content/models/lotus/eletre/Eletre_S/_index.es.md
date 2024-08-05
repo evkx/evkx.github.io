@@ -90,7 +90,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/exterior_1_st.jpg" title="Lotus Eletre S" width="3000" height="1790"  >}}
 
 
@@ -125,7 +124,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 - Antracite/Gray [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
 - Red/Black [tapizado de microfibra/napa](../../../../technology/seats/materials/#nappaleather)
 
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/frontseats_1_st.jpg" title="Lotus Eletre S" width="3000" height="2000"  >}}
 
 #### Asientos de la segunda fila
@@ -138,7 +136,6 @@ La opción standard es un banco de tres asientos con una división 40:20:40 dond
 - [ventilación](../../../../technology/seats/adjustment/#ventilación) (opcional)
 
 La opción second es [asientos ejecutivos gemelos](../../../../technology/seats/types/#twin-executive-seats). Además, las siguientes funcionalidades están disponibles.
-
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/secondrowseats_1_st.jpg" title="Lotus Eletre S" width="3000" height="2000"  >}}
 
@@ -177,7 +174,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/screens_1_st.jpg" title="Lotus Eletre S" width="3000" height="1919"  >}}
 
 
@@ -208,7 +204,6 @@ El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/headlights_1_st.jpg" title="Lotus Eletre S" width="3000" height="2000"  >}}
 
@@ -263,7 +258,6 @@ Hasta cuatro [sensores LiDAR](../../../../technology/sensorsandcameras/lidar/), 
 La capacidad de carga en el maletero es de 688 litros. Con el asiento trasero abatido, es de 1532 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 46 litros (1,6 CU FT). El peso máximo del automóvil es 3100 kg (6834 lbs), y con el peso base de 2640 kg (5820 lbs), puedes cargar como máximo 460 kg (1014 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga. 460kg se considera bajo para este tipo de automóvil y podría restringir la cantidad de cosas que puedes llevar además de los pasajeros.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2250, y sin freno, es de 750 kg (4960/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/lotus/eletre/eletre_s/trunk_1_st.jpg" title="Lotus Eletre S" width="3000" height="1687"  >}}
 

@@ -84,7 +84,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/peugot/308/e-308/exterior_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
 
 
@@ -116,7 +115,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 - Gray [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 - Black [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/peugot/308/e-308/frontseats_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
@@ -126,7 +124,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
-
 
 {{< sitefiguresized thumb="models/peugot/308/e-308/secondrowseats_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
 
@@ -164,7 +161,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/peugot/308/e-308/screens_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -191,7 +187,6 @@ Modellen har 3 USB-C-forbindelser som standard.
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/peugot/308/e-308/headlights_1_st.jpg" title="Peugot E-308" width="3000" height="2001"  >}}
 
@@ -227,7 +222,6 @@ Med DS Drive Assist  niveau 1-systemet får du følgende køreautomatiseringsfun
 Lagekapaciteten i bagagerummet er 361 liter. Med bagsædet nede er det 1271 liter. På taget kan du laste op til 70 kg (154,3 lbs). Bilens maksimale vægt er 2110 kg (4652 lbs), og med basisvægten på 1684 kg (3713 lbs), kan du maksimalt laste 426 kg (939 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/peugot/308/e-308/trunk_1_st.jpg" title="Peugot E-308" width="3000" height="2000"  >}}
 

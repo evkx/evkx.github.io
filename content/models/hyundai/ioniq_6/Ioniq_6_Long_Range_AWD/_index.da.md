@@ -86,7 +86,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/exterior_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2001"  >}}
 
 
@@ -116,7 +115,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Gray [læderbetræk](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/frontseats_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2000"  >}}
 
 #### Sæde på anden række
@@ -126,7 +124,6 @@ Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/secondrowseats_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2123"  >}}
 
@@ -164,7 +161,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/screens_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -191,7 +187,6 @@ Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelse
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/hyundai/ioniq_6/ioniq_6_long_range_awd/headlights_1_st.jpg" title="Hyundai Ioniq 6 Long Range AWD" width="3000" height="2000"  >}}
 

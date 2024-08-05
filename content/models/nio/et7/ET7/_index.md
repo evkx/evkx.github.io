@@ -106,7 +106,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There is only one roof for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 
-
 {{< sitefiguresized thumb="models/nio/et7/et7/exterior_1_st.jpg" title="Nio ET7" width="2880" height="1792"  >}}
 
 
@@ -181,7 +180,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/nio/et7/et7/screens_1_st.jpg" title="Nio ET7" width="1390" height="758"  >}}
 
 
@@ -207,7 +205,6 @@ The model has 2 USB-C connections as standard. The model has 2 USB-A connections
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/nio/et7/et7/headlights_1_st.jpg" title="Nio ET7" width="1200" height="676"  >}}
 

@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 22 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 4 timer og 7 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_350plus/charging_1_st.jpg" title="Mercedes-EQ EQE 350+" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -138,7 +137,6 @@ Følgende funksjoner er tilgjengelige på **multicontour** setet.
 
 Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_350plus/frontseats_1_st.jpg" title="Mercedes-EQ EQE 350+" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
@@ -197,7 +195,6 @@ Viktige skjermdetaljer:
 - -skjermen foran passasjeren i dashbordet er 12,3 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_350plus/screens_1_st.jpg" title="Mercedes-EQ EQE 350+" width="3000" height="2001"  >}}
 
@@ -280,7 +277,6 @@ Med Driver Assistance Package Plus  nivå 2-systemet får du flere kjøreautomat
 Lastkapasiteten i bagasjerommet er 430 liter. Med baksetet nede er det 895 liter. På taket kan du laste opptil 100 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2880 kg, og med basisvekten på 2310 kg kan du maksimalt laste 570 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqe/eqe_350plus/trunk_1_st.jpg" title="Mercedes-EQ EQE 350+" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

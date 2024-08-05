@@ -87,7 +87,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/exterior_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1999"  >}}
 
 
@@ -117,7 +116,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 7 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/frontseat_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1999"  >}}
 
 #### Säten på andra raden
@@ -127,7 +125,6 @@ Du kan välja mellan 7 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/secondrowseats_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1999"  >}}
 
@@ -165,7 +162,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch på höger sida av den delade ramen är 14,9 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/screens_1_st.jpg" title="BMW iX xDrive40" width="3000" height="2250"  >}}
 
@@ -242,7 +238,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du fler körautomatise
 Lastkapaciteten i bagageutrymmet är 500 liter. Med baksätet nedfällt är det 1750 liter. På taket kan du lasta upp till 75 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 3010 kg, och med basvikten på 2365 kg kan du lasta maximalt 645 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2500, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_xdrive40/trunk_1_st.jpg" title="BMW iX xDrive40" width="3000" height="1998"  >}}
 <div class="mt-3 mb-3">

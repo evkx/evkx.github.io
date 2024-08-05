@@ -86,7 +86,6 @@ There is only one roof for this model. The standard is just a regular roof.
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/exterior_1_st.jpg" title="KGM Torres EVX" width="3000" height="2000"  >}}
 
 
@@ -160,7 +159,6 @@ Key screen details:
 
 The model does not have a head-up display.
 
-
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/screens_1_st.jpg" title="KGM Torres EVX" width="3000" height="1960"  >}}
 
 ## Infotainment
@@ -187,7 +185,6 @@ The model has 4 USB-C connections as standard.
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/kgm/torres/torres_evx/headlights_1_st.jpg" title="KGM Torres EVX" width="3000" height="1687"  >}}
 

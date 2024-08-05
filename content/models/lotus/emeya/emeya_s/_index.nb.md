@@ -91,7 +91,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/exterior_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
 
@@ -126,7 +125,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Antracite/Gray [polstring av mikrofiber/nappaskinn](../../../../technology/seats/materials/#nappaleather)
 - Red/Black [polstring av mikrofiber/nappaskinn](../../../../technology/seats/materials/#nappaleather)
 
-
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/frontseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
 #### Seter på andre rad
@@ -139,7 +137,6 @@ Alternativet standard er en tre-seters benk med en 40:20:40-del hvor du kan fold
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (tilvalg)
 
 Alternativet second er to [executive-seter](../../../../technology/seats/types/#twin-executive-seats). I tillegg er følgende funksjoner tilgjengelige.
-
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/secondrowseats_1_st.jpg" title="Lotus Emeya S" width="3000" height="1687"  >}}
 
@@ -177,7 +174,6 @@ Viktige skjermdetaljer:
 - touch-skjermen i dashbordets sentrum er 15,1 tommer stor
 
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya_s/screens_1_st.jpg" title="Lotus Emeya S" width="3000" height="1285"  >}}
 

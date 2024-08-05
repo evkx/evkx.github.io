@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 49 minutos usando un cargador en casa. Para una carga más rápida, puedes optar por un cargador a bordo opcional que soporta hasta 22 kW. Con esta mejora, puedes lograr una carga completa del 0 al 100% en solo unas 4 horas y 24 minutos en casa.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/charging_2_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 ### Puerto de carga
@@ -104,7 +103,6 @@ Hay tres opciones de techo diferentes para elegir. El techo estándar incluye un
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros. Como opción, están disponibles ventanas laterales de doble acristalamiento para reducir el ruido en la cabina, mejorando la experiencia de conducción en general
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/exterior_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 
@@ -160,7 +158,6 @@ Las siguientes funcionalidades están disponibles en el asiento **sport pro**.
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/frontseats_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 
@@ -200,7 +197,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/screens_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="2250"  >}}
 
 ## Infoentretenimiento
@@ -230,7 +226,6 @@ Puedes elegir entre tres tipos de faros para el Audi RS e-tron GT.
 - Los faros basados en LED Matrix con tecnología láser están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apague individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt/headlights_1_st.jpg" title="Audi RS e-tron GT" width="3000" height="1999"  >}}
 

@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 7 heures et 0 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85/charging_1_st.jpg" title="SKODA ENYAQ COUPÉ 85" width="3000" height="2070"  >}}
 
 ### Port de recharge
@@ -91,7 +90,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toi
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85/exterior_1_st.jpg" title="SKODA ENYAQ COUPÉ 85" width="3000" height="2002"  >}}
 
 
@@ -120,7 +118,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport**.
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85/frontseats_1_st.jpg" title="SKODA ENYAQ COUPÉ 85" width="3000" height="2001"  >}}
 
 #### Siège de deuxième rangée
@@ -128,7 +125,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 60:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85/secondrowseats_1_st.jpg" title="SKODA ENYAQ COUPÉ 85" width="3000" height="2001"  >}}
 
@@ -167,7 +163,6 @@ Détails clés de l'écran :
 - L'écran touch au centre du tableau de bord mesure 13,0 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85/screens_1_st.jpg" title="SKODA ENYAQ COUPÉ 85" width="3000" height="1999"  >}}
 
@@ -240,7 +235,6 @@ Avec le système MAX  niveau 2, vous bénéficiez des fonctionnalités d'automat
 La capacité de chargement dans le coffre est de 570 litres. Avec la banquette arrière rabattue, elle est de 1610 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2740 kg (6041 lbs), et avec le poids de base de 2180 kg (4806 lbs), vous pouvez charger au maximum 560 kg (1235 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 1200, et sur une remorque non freinée, il est de 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_coupé_85/trunk_1_st.jpg" title="SKODA ENYAQ COUPÉ 85" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 7 timmar och 0 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/charging_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="2000"  >}}
 
 ### Laddningsport
@@ -94,7 +93,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/exterior_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="1999"  >}}
 
 
@@ -137,7 +135,6 @@ Följande funktioner är tillgängliga på **Sport** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/frontseats_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="1999"  >}}
 
 #### Säten på andra raden
@@ -145,7 +142,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/secondrowseats_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="1999"  >}}
 
@@ -185,7 +181,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/screens_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="1999"  >}}
 
 ## Infotainment
@@ -213,7 +208,6 @@ Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få yt
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/headlights_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="2000"  >}}
 
@@ -261,7 +255,6 @@ Med MAX  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten i bagageutrymmet är 585 liter. Med baksätet nedfällt är det 1710 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2750 kg, och med basvikten på 2117 kg kan du lasta maximalt 633 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1200, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_iv80x/trunk_1_st.jpg" title="SKODA Enyaq iV80x" width="3000" height="2000"  >}}
 

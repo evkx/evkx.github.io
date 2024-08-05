@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 6 timer og 43 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/charging_1_st.jpg" title="BMW iX3" width="3000" height="2070"  >}}
 
 ### Ladeport
@@ -93,7 +92,6 @@ Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset stræ
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/exterior_1_st.jpg" title="BMW iX3" width="3000" height="2002"  >}}
 
 
@@ -132,7 +130,6 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
-
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/secondrowseats_1_st.jpg" title="BMW iX3" width="3000" height="2250"  >}}
 
 
@@ -170,7 +167,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i dashboardets midte er 12,3 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/screens_1_st.jpg" title="BMW iX3" width="3000" height="2250"  >}}
 
@@ -242,7 +238,6 @@ Med Driving Assistant Professional  niveau 2-systemet får du følgende køreaut
 Lagekapaciteten i bagagerummet er 510 liter. Med bagsædet nede er det 1560 liter. På taget kan du laste op til 100 kg (220,5 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2725 kg (6008 lbs), og med basisvægten på 2185 kg (4817 lbs), kan du maksimalt laste 540 kg (1190 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/trunk_1_st.jpg" title="BMW iX3" width="3000" height="2002"  >}}
 <div class="mt-3 mb-3">

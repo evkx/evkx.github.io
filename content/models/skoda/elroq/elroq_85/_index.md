@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 0 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_85/charging_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2002"  >}}
 
 ### Charge port
@@ -90,7 +89,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There is only one roof for this model. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
-
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_85/exterior_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2001"  >}}
 
@@ -190,7 +188,6 @@ You can choose between two types of headlights for the SKODA Elroq 85.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_85/headlights_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2000"  >}}
 

@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 7 timmar och 54 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/charging_1_st.jpg" title="BYD Seal U Design" width="3000" height="1976"  >}}
 
 ### Laddningsport
@@ -92,7 +91,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett panoramatak. Gla
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/exterior_1_st.jpg" title="BYD Seal U Design" width="1500" height="872"  >}}
 
 
@@ -119,7 +117,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/frontseats_1_st.jpg" title="BYD Seal U Design" width="3000" height="1687"  >}}
 
 #### Säten på andra raden
@@ -129,7 +126,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - höjdjusterbart nackstöd
-
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/secondrowseats_1_st.jpg" title="BYD Seal U Design" width="3000" height="2225"  >}}
 
@@ -170,7 +166,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/screens_1_st.jpg" title="BYD Seal U Design" width="3000" height="1986"  >}}
 
 ## Infotainment
@@ -197,7 +192,6 @@ Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/headlights_1_st.jpg" title="BYD Seal U Design" width="3000" height="1900"  >}}
 
@@ -244,7 +238,6 @@ Med Smart Pilot  nivå 2-systemet får du följande körautomatiseringsfunktione
 Lastkapaciteten i bagageutrymmet är 520 liter. Med baksätet nedfällt är det 1449 liter. Bilens maximala vikt är 2501 kg, och med basvikten på 1900 kg kan du lasta maximalt 601 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/trunk_1_st.jpg" title="BYD Seal U Design" width="3000" height="1960"  >}}
 <div class="mt-3 mb-3">

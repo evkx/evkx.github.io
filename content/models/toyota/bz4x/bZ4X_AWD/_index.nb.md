@@ -79,7 +79,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/exterior_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
 
@@ -114,7 +113,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en 40:60-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/secondrowseats_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
@@ -162,7 +160,6 @@ Viktige skjermdetaljer:
 - touch-skjermen øverst på midtkonsollen er 12,3 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/screens_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 
@@ -229,7 +226,6 @@ Med standardsystemet tilbyr modellen ingen kjøreautomatisering.
 Lastkapasiteten i bagasjerommet er 452 liter. På taket kan du laste opptil 80 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2530 kg, og med basisvekten på 2015 kg kan du maksimalt laste 515 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 750, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_awd/trunk_1_st.jpg" title="Toyota bZ4X AWD" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

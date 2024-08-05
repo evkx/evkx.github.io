@@ -45,7 +45,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11,5 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 10 timmar och 52 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/charging_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2048" height="1280"  >}}
 
 ### Laddningsport
@@ -85,7 +84,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [baklucka
 Det finns bara ett tak för denna modell. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
 B-stolpen och vyerna bak är tonade.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/exterior_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2100" height="1400"  >}}
 
@@ -164,7 +162,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/screens_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="1600" height="1067"  >}}
 
 
@@ -190,7 +187,6 @@ Modellen har 8 USB-C-anslutningar som standard.
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/headlights_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2880" height="1920"  >}}
 
@@ -233,7 +229,6 @@ Med Driver+  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten för lastbilen är 1925 liter. Bredden på lastflaket är 1275 mm och längden är 1371 mm. Den maximala lastvikten i lastflaket är 800 kg. På taket kan du lasta upp till 113 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 314 liter. Bilens maximala vikt är 3870 kg, och med basvikten på 2858 kg kan du lasta maximalt 1012 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 5000, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/trunk_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2880" height="1920"  >}}
 

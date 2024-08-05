@@ -81,7 +81,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [hatchba
 
 Der er to forskellige tagmuligheder at vælge imellem. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen.
 
-
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_single_motor/exterior_1_st.jpg" title="Polestar 3 Long Range Single Motor" width="3000" height="2250"  >}}
 
 
@@ -115,7 +114,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 - Gray [stofpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [læderpolstring](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_single_motor/frontseats_1_st.jpg" title="Polestar 3 Long Range Single Motor" width="3000" height="2249"  >}}
 
 #### Sæde på anden række
@@ -125,7 +123,6 @@ Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_single_motor/secondrowseats_1_st.jpg" title="Polestar 3 Long Range Single Motor" width="3000" height="2248"  >}}
 
@@ -166,7 +163,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_single_motor/screens_1_st.jpg" title="Polestar 3 Long Range Single Motor" width="3000" height="2251"  >}}
 
 ## Infotainment
@@ -189,7 +185,6 @@ Du kan vælge mellem to typer forlygter til Polestar 3 Long Range Single Motor.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_single_motor/headlights_1_st.jpg" title="Polestar 3 Long Range Single Motor" width="3000" height="2250"  >}}
 

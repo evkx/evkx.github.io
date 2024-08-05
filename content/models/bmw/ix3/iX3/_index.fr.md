@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 6 heures et 43 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/charging_1_st.jpg" title="BMW iX3" width="3000" height="2070"  >}}
 
 ### Port de recharge
@@ -93,7 +92,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit p
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/exterior_1_st.jpg" title="BMW iX3" width="3000" height="2002"  >}}
 
 
@@ -132,7 +130,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
-
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/secondrowseats_1_st.jpg" title="BMW iX3" width="3000" height="2250"  >}}
 
 
@@ -170,7 +167,6 @@ Détails clés de l'écran :
 - L'écran touch au centre du tableau de bord mesure 12,3 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/screens_1_st.jpg" title="BMW iX3" width="3000" height="2250"  >}}
 
@@ -242,7 +238,6 @@ Avec le système Driving Assistant Professional  niveau 2, vous bénéficiez des
 La capacité de chargement dans le coffre est de 510 litres. Avec la banquette arrière rabattue, elle est de 1560 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 2725 kg (6008 lbs), et avec le poids de base de 2185 kg (4817 lbs), vous pouvez charger au maximum 540 kg (1190 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 750, et sur une remorque non freinée, il est de 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/bmw/ix3/ix3/trunk_1_st.jpg" title="BMW iX3" width="3000" height="2002"  >}}
 <div class="mt-3 mb-3">

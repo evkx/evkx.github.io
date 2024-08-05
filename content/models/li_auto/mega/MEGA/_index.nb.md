@@ -44,13 +44,11 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 9 timer og 5 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/li_auto/mega/mega/charging_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
 ### Ladeport
 
 Plasseringen av ladeporten er på [venstre bakside](../../../../technology/charging/connectors/#rear-side). Denne plasseringen gjør det enkelt å bruke ladestasjoner der du må rygge inntil laderen. Koblingstypene varierer mellom de forskjellige markedene. Denne modellen bruker [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) for Nord-Amerika og for Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullstendige spesifikasjoner for alle markeder.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/battery_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
@@ -87,7 +85,6 @@ Bilen har to [vanlige dører](../../../../technology/doors/) i første rad, [sky
 Det er bare ett tak for denne modellen. Standardtaket har et stort panoramatak som strekker seg over de fleste områder fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humør og komfort for beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
 Rutene fra B-stolpen og baksiden er tonet.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/exterior_1_st.jpg" title="Li Auto MEGA" width="2800" height="1575"  >}}
 
@@ -126,7 +123,6 @@ Du kan velge mellom 5 forskjellige materialer/farger for denne setetypen.
 - Gray [stoffpolstring](../../../../technology/seats/materials/#fabric)
 - Gray [skinntrekk](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/li_auto/mega/mega/frontseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
 #### Seter på andre rad
@@ -140,7 +136,6 @@ For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende 
 - [massasje](../../../../technology/seats/adjustment/#massage)
 - [benstøtte for passasjer](../../../../technology/seats/adjustment/#leg-support)
 
-
 {{< sitefiguresized thumb="models/li_auto/mega/mega/secondrowseats_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
 #### Seter på tredje rad
@@ -148,7 +143,6 @@ For den andre raden har denne modellen to kapteinstoler. I tillegg er følgende 
 
 
 Den tredje raden har en tre-seters benk med en 40:60 delt. Igjen kan du legge ned setene når de ikke brukes for å skape en større lastekapasitet.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/thirdrowseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1667"  >}}
 
@@ -189,7 +183,6 @@ Viktige skjermdetaljer:
 For baksetepassasjerene er det en infotainmentskjerm i taket bak setene på første rad.
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/li_auto/mega/mega/screens_1_st.jpg" title="Li Auto MEGA" width="1920" height="1080"  >}}
 
 
@@ -219,7 +212,6 @@ Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/headlights_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
@@ -270,7 +262,6 @@ Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), en [
 Lastkapasiteten i bagasjerommet er 1054 liter. Med setet på tredje rad nede er det 1800 liter. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 32 liter. Maksimumsvekten til bilen er 3400 kg, og med basisvekten på 2763 kg kan du maksimalt laste 637 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/trunk_1_st.jpg" title="Li Auto MEGA" width="1920" height="1079"  >}}
 

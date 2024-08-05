@@ -107,7 +107,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard a un grand toit panoramique s'étendant de l'avant vers l'arrière. Ce verre rend l'intérieur de la voiture plus spacieux et plus lumineux, ce qui peut améliorer l'ambiance et le confort. de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-
 {{< sitefiguresized thumb="models/nio/es8/es8/exterior_1_st.jpg" title="Nio ES8" width="3000" height="1687"  >}}
 
 
@@ -137,7 +136,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
-
 
 {{< sitefiguresized thumb="models/nio/es8/es8/frontseats_1_st.jpg" title="Nio ES8" width="2880" height="1784"  >}}
 
@@ -192,7 +190,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/nio/es8/es8/screens_1_st.jpg" title="Nio ES8" width="3000" height="1659"  >}}
 
 
@@ -219,7 +216,6 @@ Le modèle dispose de 3 connexions USB-A en standard.
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/nio/es8/es8/headlights_1_st.jpg" title="Nio ES8" width="3000" height="1686"  >}}
 

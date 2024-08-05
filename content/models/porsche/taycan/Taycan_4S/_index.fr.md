@@ -109,7 +109,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe trois options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant sur la plupart des zones de l'avant à l'arrière. Cette vitre rend l'intérieur de la voiture plus agréable. spacieux et lumineux, ce qui peut améliorer l'ambiance et le confort de l'occupant. Le verre a une fonction électrochrome qui permet de mélanger le verre pour se protéger du soleil.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/exterior_1_st.jpg" title="Porsche Taycan 4S" width="3000" height="1713"  >}}
 
 
@@ -165,7 +164,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sportsseats Plus
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/frontseats_1_st.jpg" title="Porsche Taycan 4S" width="2048" height="1536"  >}}
 
 #### Sièges de deuxième rangée
@@ -215,7 +213,6 @@ Détails clés de l'écran :
 - L'écran touch devant le passager dans le tableau de bord mesure 10,9 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/screens_1_st.jpg" title="Porsche Taycan 4S" width="3000" height="1870"  >}}
 
@@ -296,7 +293,6 @@ Avec le système Porsche InnoDrive  niveau 2, vous bénéficiez de fonctionnalit
 La capacité de chargement du coffre est de 407 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Le poids maximum de la voiture est de 2795 kg (6162 lbs), et avec le poids de base de 2075 kg (4575 lbs), vous pouvez charger au maximum 720 kg (1587 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s/trunk_1_st.jpg" title="Porsche Taycan 4S" width="3000" height="2250"  >}}
 <div class="mt-3 mb-3">

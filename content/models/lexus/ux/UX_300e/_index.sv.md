@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 7 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 9 timmar och 8 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/charging_1_st.jpg" title="Lexus UX 300e" width="3000" height="1687"  >}}
 
 ### Laddningsport
@@ -87,7 +86,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/exterior_1_st.jpg" title="Lexus UX 300e" width="3000" height="2000"  >}}
 
 
@@ -115,7 +113,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/frontseats_1_st.jpg" title="Lexus UX 300e" width="2281" height="1521"  >}}
 
 #### Säten på andra raden
@@ -125,7 +122,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 40:60-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/secondrowseats_1_st.jpg" title="Lexus UX 300e" width="2281" height="1521"  >}}
 
@@ -177,7 +173,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/screens_1_st.jpg" title="Lexus UX 300e" width="2451" height="1510"  >}}
 
 ## Infotainment
@@ -208,7 +203,6 @@ Du kan välja mellan två typer av strålkastare för Lexus UX 300e.
 - Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/headlights_1_st.jpg" title="Lexus UX 300e" width="3000" height="2000"  >}}
 
@@ -248,7 +242,6 @@ Med standardsystemet erbjuder modellen ingen körautomatisering.
 ## Lastkapacitet och dragkapacitet
 
 Lastkapaciteten i bagageutrymmet är 367 liter. Med den tredje sätesraden nere är den 1451 liter. På taket kan du lasta upp till 80 kg. Takräcke är tillval på denna modell. Takräcke gör det enkelt att montera takbox eller räcke på bilen. Bilens maximala vikt är 2245 kg, och med basvikten på 1810 kg kan du lasta maximalt 435 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
-
 
 {{< sitefiguresized thumb="models/lexus/ux/ux_300e/trunk_1_st.jpg" title="Lexus UX 300e" width="2241" height="1494"  >}}
 <div class="mt-3 mb-3">

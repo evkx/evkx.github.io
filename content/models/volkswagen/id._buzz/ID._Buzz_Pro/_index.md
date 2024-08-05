@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 0 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/charging_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -90,7 +89,6 @@ The car has two [regular doors](../../../../technology/doors/) in the first row,
 There is only one roof for this model. The standard is just a regular roof.
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/exterior_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
@@ -140,7 +138,6 @@ You can choose from 5 different materials/colors for this seat type.
 - Orange [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Blue [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/frontseats_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -148,7 +145,6 @@ You can choose from 5 different materials/colors for this seat type.
 
 
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
@@ -188,7 +184,6 @@ Key screen details:
 - The touch screen on the dashboard's center is 12.0 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/screens_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 
@@ -267,7 +262,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 1121 liters. With the rear seat down, it is 2205 liters. On the roof, you can load up to 100 kg (220.5 lbs). The maxium weight of the car is 3000 kg (6614 lbs), and with the base weight of 2416 kg (5326 lbs), you can max load 584 kg (1287 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro/trunk_1_st.jpg" title="Volkswagen ID. Buzz Pro" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

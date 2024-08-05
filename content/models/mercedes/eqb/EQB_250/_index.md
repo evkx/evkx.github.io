@@ -88,7 +88,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass has two panels. One over the first and the second rows, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. Both glass panels have an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/exterior_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1686"  >}}
 
 
@@ -136,7 +135,6 @@ The following functionalities are available on the **multicontour** seat.
 - [massage](../../../../technology/seats/adjustment/#massage)
 
 You can choose from 5 different materials/colors for this seat type.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/frontseats_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1999"  >}}
 
@@ -186,7 +184,6 @@ Key screen details:
 - The touch screen at the right part of the shared frame is 10.3 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/screens_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1686"  >}}
 
@@ -263,7 +260,6 @@ With the Driver Assistance Package  level 1 system, you get the following drivin
 The cargo capacity in the trunk is 495 liters. With the rear seat down, it is 1410 liters. On the roof, you can load up to 75 kg (165.3 lbs). Roof rails are optional on this model. Roof rails make it easy to mount a roof box or rack to the car. The maxium weight of the car is 2520 kg (5556 lbs), and with the base weight of 2035 kg (4486 lbs), you can max load 485 kg (1069 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight. 485kg is considered low for this type of car and might restrict how much stuff you can bring in addition to passengers.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqb/eqb_250/trunk_1_st.jpg" title="Mercedes-EQ EQB 250" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

@@ -91,7 +91,6 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/exterior_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="1999"  >}}
 
 
@@ -137,7 +136,6 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 
 Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/frontseats_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2250"  >}}
 
 #### Seter på andre rad
@@ -147,7 +145,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 Den andre raden har en standard tre-seters benk med en 40:20:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
 - [oppvarming](../../../../technology/seats/adjustment/#heating) (tilvalg)
-
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/secondrowseats_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2250"  >}}
 
@@ -187,7 +184,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/screens_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -218,7 +214,6 @@ Du kan velge mellom to typer frontlykter for BMW iX2 xDrive30.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/headlights_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2001"  >}}
 
@@ -262,7 +257,6 @@ Med Driving Assistant Professional  nivå 2-systemet får du følgende kjøreaut
 Lastkapasiteten i bagasjerommet er 525 liter. Med baksetet nede er det 1400 liter. På taket kan du laste opptil 75 kg. Takrails er ekstrautstyr på denne modellen. Takrails gjør det enkelt å montere takboks eller stativ på bilen. Maksimumsvekten til bilen er 2605 kg, og med basisvekten på 2020 kg kan du maksimalt laste 585 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/bmw/ix2/ix2_xdrive30/trunk_1_st.jpg" title="BMW iX2 xDrive30" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

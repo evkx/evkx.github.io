@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 36 minutos usando un cargador en casa. Para una carga más rápida, puedes optar por un cargador a bordo opcional que soporta hasta 22 kW. Con esta mejora, puedes lograr una carga completa del 0 al 100% en solo unas 3 horas y 48 minutos en casa.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_gen1/charging_1_st.jpg" title="Audi RS e-tron GT (GEN1)" width="3000" height="2249"  >}}
 
 ### Puerto de carga
@@ -99,7 +98,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [ta
 Hay dos opciones de techo diferentes para elegir El techo estándar incluye un gran techo panorámico de cristal que se extiende desde el frente hasta la parte trasera, mejorando la sensación de amplitud y luminosidad del interior, mejorando así el estado de ánimo y la comodidad de los ocupantes. Este vidrio está tintado para proteger contra el calor del sol. La opción de techo opcional es un techo de carbono, que reduce el peso total del vehículo, bajando el centro de gravedad y mejorando el manejo y el rendimiento.
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros. Como opción, están disponibles ventanas laterales de doble acristalamiento para reducir el ruido en la cabina, mejorando la experiencia de conducción en general
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_gen1/exterior_1_st.jpg" title="Audi RS e-tron GT (GEN1)" width="3000" height="1999"  >}}
 
@@ -156,7 +154,6 @@ Las siguientes funcionalidades están disponibles en el asiento **sport pro**.
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_gen1/frontseats_1_st.jpg" title="Audi RS e-tron GT (GEN1)" width="3000" height="2250"  >}}
 
 
@@ -196,7 +193,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_gen1/screens_1_st.jpg" title="Audi RS e-tron GT (GEN1)" width="3000" height="2000"  >}}
 
 ## Infoentretenimiento
@@ -226,7 +222,6 @@ Puedes elegir entre tres tipos de faros para el Audi RS e-tron GT (GEN1).
 - Los faros basados en LED Matrix con tecnología láser están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apague individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_gen1/headlights_1_st.jpg" title="Audi RS e-tron GT (GEN1)" width="3000" height="2001"  >}}
 
@@ -279,7 +274,6 @@ Con el sistema Assistantpackage Tour  nivel 2, obtienes funciones de automatizac
 La capacidad de carga en el maletero es de 405 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 85 litros (3,0 CU FT). El peso máximo del automóvil es 2860 kg (6305 lbs), y con el peso base de 2340 kg (5159 lbs), puedes cargar como máximo 520 kg (1146 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/rs_e-tron_gt_gen1/trunk_1_st.jpg" title="Audi RS e-tron GT (GEN1)" width="3000" height="2249"  >}}
 

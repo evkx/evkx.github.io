@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 4 hours and 37 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/charging_1_st.jpg" title="Opel Astra Electric" width="3000" height="2153"  >}}
 
 ### Charge port
@@ -84,7 +83,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/exterior_1_st.jpg" title="Opel Astra Electric" width="3000" height="2000"  >}}
 
 
@@ -115,7 +113,6 @@ You can choose from 4 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
 - Black [Nappa leather upholstering](../../../../technology/seats/materials/#leather)
-
 
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/frontseats_1_st.jpg" title="Opel Astra Electric" width="3000" height="1687"  >}}
 
@@ -161,7 +158,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/screens_1_st.jpg" title="Opel Astra Electric" width="3000" height="1687"  >}}
 
 ## Infotainment
@@ -188,7 +184,6 @@ The model has 3 USB-C connections as standard.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/headlights_1_st.jpg" title="Opel Astra Electric" width="3000" height="1957"  >}}
 
@@ -224,7 +219,6 @@ With the DS Drive Assist  level 1 system, you get the following driving automati
 The cargo capacity in the trunk is 352 liters. With the rear seat down, it is 1268 liters. On the roof, you can load up to 70 kg (154.3 lbs). Roof rails are standard on this model, making it easy to mount the roof box or rack to the car. The maxium weight of the car is 2100 kg (4630 lbs), and with the base weight of 1736 kg (3827 lbs), you can max load 364 kg (802 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/opel/astra/astra_electric/trunk_1_st.jpg" title="Opel Astra Electric" width="3000" height="2000"  >}}
 

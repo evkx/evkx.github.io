@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11,5 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 7 timer og 23 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/charging_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
 
 ### Ladeport
@@ -84,7 +83,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er to forskjellige takalternativer å velge mellom. Standardtaket har et stort panoramatak som strekker seg fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten av beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen. Som ekstrautstyr kan du bestille denne modellen med panoramatak som kan åpnes. Glasset har to paneler. Ett over første og andre rad, og passasjerene kan åpne den fremre delen. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/exterior_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2000"  >}}
 
 
@@ -123,7 +121,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
 
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/secondrowseats_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2250"  >}}
 
 
@@ -160,7 +157,6 @@ Viktige skjermdetaljer:
 - touch-skjermen øverst på midtkonsollen er 11,3 tommer stor
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
-
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/screens_1_st.jpg" title="Honda Prologue FWD" width="1600" height="900"  >}}
 
@@ -232,7 +228,6 @@ Med   nivå 1-systemet får du følgende kjøreautomatiseringsfunksjoner.
 Lastkapasiteten i bagasjerommet er 793 liter. Med baksetet nede er det 1723 liter.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 680, og på ubremset er den 680 kg.
-
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_fwd/trunk_1_st.jpg" title="Honda Prologue FWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

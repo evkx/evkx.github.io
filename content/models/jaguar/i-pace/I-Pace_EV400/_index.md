@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 42 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/charging_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -87,7 +86,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 There are two different roof options to select from. The standard is just a regular roof. The standard roof includes a large panoramic glass roof extending from the front to the rear, enhancing the interior's spacious and bright feel, thereby improving the mood and comfort of occupants. This glass is tinted to protect against heat from the sun.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
-
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/exterior_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
 
@@ -144,7 +142,6 @@ You can choose from 6 different materials/colors for this seat type.
 - Red [leather upholstering](../../../../technology/seats/materials/#leather)
 - Gray [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/frontseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1946"  >}}
 
 #### Second-row seats
@@ -157,7 +154,6 @@ The standard option is a three-seat bench with a 60:40 split where you can fold 
 The second option is a three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/secondrowseats_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1958"  >}}
 
@@ -194,7 +190,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/screens_1_st.jpg" title="Jaguar I-Pace EV400" width="2560" height="1632"  >}}
 
 ## Infotainment
@@ -223,7 +218,6 @@ You can choose between two types of headlights for the Jaguar I-Pace EV400.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/headlights_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
 
@@ -256,7 +250,6 @@ With the standard system the model offers no driving automation.
 The cargo capacity in the trunk is 505 liters. With the rear seat down, it is 1163 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 27 liters (1.0 CU FT).
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 750, and on unbraked, it is 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/trunk_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="1556"  >}}
 

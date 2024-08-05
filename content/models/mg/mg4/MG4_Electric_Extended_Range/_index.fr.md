@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 6 heures et 45 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/charging_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2249"  >}}
 
 ### Port de recharge
@@ -81,7 +80,6 @@ Vous pouvez choisir parmi plusieurs designs de roues, tous disponibles dans la m
 
 Il n'y a qu'un seul toit pour ce modèle. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliore l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/exterior_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}
 
 
@@ -107,7 +105,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Gray [revêtement en tissu/similicuir](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/frontseats_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée
@@ -115,7 +112,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 
 
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division  où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
-
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/secondrowseats_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}
 
@@ -153,7 +149,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/screens_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}
 
 
@@ -184,7 +179,6 @@ Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
 
-
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/headlights_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2000"  >}}
 
 ## Systèmes avancés d'aide à la conduite
@@ -214,7 +208,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 La capacité de chargement dans le coffre est de 363 litres. Avec la banquette arrière rabattue, elle est de 1165 litres. Le poids maximum de la voiture est de 2209 kg (4870 lbs), et avec le poids de base de 1823 kg (4019 lbs), vous pouvez charger au maximum 386 kg (851 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 500, et sur une remorque non freinée, il est de 500 kg (1102/1102 lbs).
-
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_extended_range/trunk_1_st.jpg" title="MG MG4 Electric Extended Range" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

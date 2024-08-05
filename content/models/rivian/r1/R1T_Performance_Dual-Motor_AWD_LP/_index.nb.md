@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11,5 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 11 timer og 44 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/charging_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2048" height="1280"  >}}
 
 ### Ladeport
@@ -84,7 +83,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [bakluke](.
 Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
 Rutene fra B-stolpen og baksiden er tonet.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/exterior_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2100" height="1400"  >}}
 
@@ -163,7 +161,6 @@ Viktige skjermdetaljer:
 
 Modellen er ikke tilgjengelig med head-up display.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/screens_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="1600" height="1067"  >}}
 
 
@@ -189,7 +186,6 @@ Modellen har 8 USB-C-tilkoblinger som standard.
 Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/headlights_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2880" height="1920"  >}}
 
@@ -232,7 +228,6 @@ Med Driver+  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 Lastkapasiteten i lastebilen er 1925 liter. Bredden på lasteplanet er 1275 mm, og lengden er 1371 mm. Maksimal lastevekt i lasteplanet er 800 kg. På taket kan du laste opptil 113 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 314 liter. Maksimumsvekten til bilen er 3870 kg, og med basisvekten på 2858 kg kan du maksimalt laste 1012 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 5000, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_performance_dual-motor_awd_lp/trunk_1_st.jpg" title="Rivian R1T Performance Dual-Motor AWD LP" width="2880" height="1920"  >}}
 

@@ -88,7 +88,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/genesis/gv70/electrified_gv70/exterior_1_st.jpg" title="Genesis Electrified GV70" width="3000" height="1800"  >}}
 
 
@@ -166,7 +165,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch botten av mittkonsolen är 5,0 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/genesis/gv70/electrified_gv70/screens_1_st.jpg" title="Genesis Electrified GV70" width="3000" height="1535"  >}}
 

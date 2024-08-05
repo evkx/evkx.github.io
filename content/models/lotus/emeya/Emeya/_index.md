@@ -90,7 +90,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/lotus/emeya/emeya/exterior_1_st.jpg" title="Lotus Emeya" width="3000" height="1687"  >}}
 
 
@@ -125,7 +124,6 @@ You can choose from 5 different materials/colors for this seat type.
 - Antracite/Gray [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
 - Red/Black [microfiber/nappaleather upholstering](../../../../technology/seats/materials/#nappaleather)
 
-
 {{< sitefiguresized thumb="models/lotus/emeya/emeya/frontseats_1_st.jpg" title="Lotus Emeya" width="3000" height="1687"  >}}
 
 #### Second-row seats
@@ -138,7 +136,6 @@ The standard option is a three-seat bench with a 40:20:40 split where you can fo
 - [ventilation](../../../../technology/seats/adjustment/#ventilation) (optional)
 
 The second option is twin [executive seats](../../../../technology/seats/types/#twin-executive-seats). In addition, the following functionalities are available.
-
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya/secondrowseats_1_st.jpg" title="Lotus Emeya" width="3000" height="1687"  >}}
 
@@ -176,7 +173,6 @@ Key screen details:
 - The touch screen on the dashboard's center is 15.1 inches large
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/lotus/emeya/emeya/screens_1_st.jpg" title="Lotus Emeya" width="3000" height="1285"  >}}
 

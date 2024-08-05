@@ -79,7 +79,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 
 Det finns två olika takalternativ att välja mellan. Standardtaket har ett stort panoramatak som sträcker sig framifrån och bak. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten på passageraren. Den har en elektrisk gardin som passagerarna kan använda för att skydda sig mot solen. Som tillval kan du beställa denna modell med panoramatak som går att öppna. Glaset har två paneler. En ovanför första och andra raden, och passagerarna kan öppna den främre delen. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/exterior_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="1928"  >}}
 
 
@@ -108,7 +107,6 @@ Följande funktioner är tillgängliga på **** sätet.
 Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/frontseats_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 
@@ -154,7 +152,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/screens_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 
 
@@ -184,7 +181,6 @@ Modellen har 5 USB-C-anslutningar som standard.
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/headlights_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 
@@ -223,7 +219,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten i bagageutrymmet är 863 liter. Med baksätet nedfällt är det 1676 liter.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1588, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/trunk_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

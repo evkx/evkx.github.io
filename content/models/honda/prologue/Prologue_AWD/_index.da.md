@@ -45,7 +45,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11,5 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 7 timer og 23 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/charging_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
 
 ### Ladeport
@@ -85,7 +84,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er to forskellige tagmuligheder at vælge imellem. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen. Som ekstraudstyr kan du bestille denne model med panoramatag, der kan åbnes. Glasset har to paneler. Et over første og anden række, og beboerne kan åbne den forreste del. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/exterior_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2000"  >}}
 
 
@@ -124,7 +122,6 @@ Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
 
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
-
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/secondrowseats_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2250"  >}}
 
 
@@ -161,7 +158,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch øverst på midterkonsollen er 11,3 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/screens_1_st.jpg" title="Honda Prologue AWD" width="1600" height="900"  >}}
 
@@ -233,7 +229,6 @@ Med   niveau 1-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 793 liter. Med bagsædet nede er det 1723 liter.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 680, og på ubremset er den 680 kg (1499/1499 lbs).
-
 
 {{< sitefiguresized thumb="models/honda/prologue/prologue_awd/trunk_1_st.jpg" title="Honda Prologue AWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

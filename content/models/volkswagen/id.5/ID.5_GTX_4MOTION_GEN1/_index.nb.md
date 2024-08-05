@@ -96,7 +96,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion_gen1/exterior_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
 
@@ -136,7 +135,6 @@ Følgende funksjoner er tilgjengelige på **ergoActive Top-Sport** setet.
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion_gen1/frontseats_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
 #### Seter på andre rad
@@ -144,7 +142,6 @@ Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 
 
 Den andre raden har en standard tre-seters benk med en 60:40-del hvor du kan folde hver seksjon separat for å øke lasterommet. I tillegg er følgende funksjoner tilgjengelige.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion_gen1/secondrowseats_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION (GEN1)" width="3000" height="2061"  >}}
 
@@ -196,7 +193,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion_gen1/screens_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -224,7 +220,6 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion_gen1/headlights_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION (GEN1)" width="3000" height="2400"  >}}
 
@@ -275,7 +270,6 @@ Med Assistantpackage plus  nivå 2-systemet får du flere kjøreautomatiseringsf
 Lastkapasiteten i bagasjerommet er 549 liter. Med baksetet nede er det 1561 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2750 kg, og med basisvekten på 2167 kg kan du maksimalt laste 583 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.5/id.5_gtx_4motion_gen1/trunk_1_st.jpg" title="Volkswagen ID.5 GTX 4MOTION (GEN1)" width="3000" height="2000"  >}}
 

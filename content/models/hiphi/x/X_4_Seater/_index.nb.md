@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 8 timer og 49 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/charging_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 
 ### Ladeport
@@ -87,7 +86,6 @@ Bilen har to [vanlige dører](../../../../technology/doors/) foran, en unik komb
 Det er bare ett tak for denne modellen. Standardtaket har panoramaglass over første rad i tillegg til at takdelen av gullvingdørene har glass. Dette glasset gjør at bilens interiør føles mer romslig og lyst, som kan forbedre humøret og komforten til beboeren.
 
 Rutene fra B-stolpen og baksiden er tonet.
-
 
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/exterior_1_st.jpg" title="HiPhi X 4 Seater" width="1959" height="1102"  >}}
 
@@ -171,7 +169,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er standard-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/screens_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 
 
@@ -198,7 +195,6 @@ Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 3 USB-A-tilkoblinge
 Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/headlights_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 
@@ -244,7 +240,6 @@ Med   nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 Lastkapasiteten i bagasjerommet er 204 liter. Med setet på tredje rad nede er det 587 liter.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/hiphi/x/x_4_seater/trunk_1_st.jpg" title="HiPhi X 4 Seater" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

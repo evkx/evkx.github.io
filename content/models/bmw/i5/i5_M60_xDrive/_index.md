@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 22 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/charging_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="3000"  >}}
 
 ### Charge port
@@ -94,7 +93,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/exterior_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="1999"  >}}
 
 
@@ -133,7 +131,6 @@ The following functionalities are available on the **Comfort seats** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support) (optional)
 - [backrest side bolsters adjustment](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/frontseats_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="2000"  >}}
 
 #### Second-row seat
@@ -143,7 +140,6 @@ The following functionalities are available on the **Comfort seats** seat.
 The second row has a standard three-seat bench with a 40:20:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/secondrowseats_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="2000"  >}}
 
@@ -185,7 +181,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/screens_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="1999"  >}}
 
 
@@ -222,7 +217,6 @@ You can choose between two types of headlights for the BMW i5 M60 xDrive.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/headlights_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="2000"  >}}
 
@@ -270,7 +264,6 @@ With the Driving Assistant Professional  level 2 system, you get additional driv
 The cargo capacity in the trunk is 490 liters. With the rear seat down, it is 1290 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2895 kg (6382 lbs), and with the base weight of 2305 kg (5082 lbs), you can max load 590 kg (1301 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2000, and on unbraked, it is 750 kg (4409/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/bmw/i5/i5_m60_xdrive/trunk_1_st.jpg" title="BMW i5 M60 xDrive" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

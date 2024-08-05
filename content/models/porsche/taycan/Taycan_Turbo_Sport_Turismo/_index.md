@@ -46,7 +46,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 8 hours and 49 minutes using a home charging setup. For faster charging, you can opt for an optional onboard charger that supports up to 22 kW. With this upgrade, you can achieve a full charge from 0 to 100% in just about 4 hours and 24 minutes at home.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/charging_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -106,7 +105,6 @@ More narrow wheels will improve consumption and give a longer range, while wider
 The car has four [regular doors](../../../../technology/doors/) and a [liftgate](../../../../technology/doors/#liftgate).
 
 There are three different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/exterior_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="1687"  >}}
 
@@ -212,7 +210,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/screens_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="1688"  >}}
 
 ## Infotainment
@@ -239,7 +236,6 @@ You can choose between three sound systems on the Porsche Taycan Turbo Sport Tur
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_sport_turismo/headlights_1_st.jpg" title="Porsche Taycan Turbo Sport Turismo" width="3000" height="1688"  >}}
 

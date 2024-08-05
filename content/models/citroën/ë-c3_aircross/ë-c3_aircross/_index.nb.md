@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 7,4 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 5 timer og 56 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/charging_1_st.jpg" title="Citroën ë-C3 Aircross" width="2893" height="2170"  >}}
 
 ### Ladeport
@@ -93,7 +92,6 @@ Det er bare ett tak for denne modellen.
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/exterior_1_st.jpg" title="Citroën ë-C3 Aircross" width="2894" height="2170"  >}}
 
 
@@ -125,7 +123,6 @@ Følgende funksjoner er tilgjengelige på **Advanced Comfort** setet.
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
 - Black/Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/frontseats_1_st.jpg" title="Citroën ë-C3 Aircross" width="3000" height="2000"  >}}
 
@@ -183,7 +180,6 @@ Viktige skjermdetaljer:
 - touch-skjermen øverst på midtkonsollen er 10,3 tommer stor
 
 Modellen er ikke tilgjengelig med head-up display.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/screens_1_st.jpg" title="Citroën ë-C3 Aircross" width="3000" height="2000"  >}}
 
@@ -248,7 +244,6 @@ Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), en [
 ## Lastekapasitet og slepeevne
 
 Lastkapasiteten i bagasjerommet er 460 liter. Med baksetet nede er det 1600 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2030 kg, og med basisvekten på 1429 kg kan du maksimalt laste 601 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/trunk_1_st.jpg" title="Citroën ë-C3 Aircross" width="2894" height="2170"  >}}
 

@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 10 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/charging_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
 
 ### Charge port
@@ -92,7 +91,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/exterior_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
 
 
@@ -125,7 +123,6 @@ The following functionalities are available on the **Ergo** seat.
 - [electric lumbar support](../../../../technology/seats/adjustment/#lumbar-support)
 - [adjustable thigh support](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/frontseats_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
 
@@ -171,7 +168,6 @@ Key screen details:
 - The touch screen on the dashboard's center is 14.6 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/screens_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
 
@@ -251,7 +247,6 @@ With the Assistantpackage  level 2 system, you get additional driving automation
 The cargo capacity in the trunk is 627 liters. With the rear seat down, it is 1510 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2745 kg (6052 lbs), and with the base weight of 2174 kg (4793 lbs), you can max load 571 kg (1259 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1200, and on unbraked, it is 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/ford/capri/capri_extended_range_awd/trunk_1_st.jpg" title="Ford Capri Extended Range AWD" width="3000" height="2250"  >}}
 

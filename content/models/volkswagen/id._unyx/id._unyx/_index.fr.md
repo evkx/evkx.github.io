@@ -89,7 +89,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/exterior_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="1683"  >}}
 
 
@@ -117,7 +116,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [massage](../../../../technology/seats/adjustment/#massage) (facultatif)
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/frontseats_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="1792"  >}}
 
@@ -163,7 +161,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/id._unyx/screens_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="2023"  >}}
 
 ## Infodivertissement
@@ -191,7 +188,6 @@ Le modèle dispose de 4 connexions USB-C en standard.
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/id._unyx/headlights_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="1687"  >}}
 
@@ -248,7 +244,6 @@ Avec le système Assistantpackage plus  niveau 2, vous bénéficiez de fonctionn
 La capacité de chargement dans le coffre est de 540 litres. Avec la banquette arrière rabattue, elle est de 1267 litres. Sur le toit, vous pouvez charger jusqu'à 0 kg (0,0 lbs). Le poids maximum de la voiture est de 2650 kg (5842 lbs), et avec le poids de base de 2042 kg (4502 lbs), vous pouvez charger au maximum 608 kg (1340 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._unyx/id._unyx/trunk_1_st.jpg" title="Volkswagen Id. UNYX" width="3000" height="2193"  >}}
 <div class="mt-3 mb-3">

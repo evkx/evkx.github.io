@@ -113,7 +113,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne. Som en mulighed er dobbeltglas sidevinduer tilgængelige for at reducere kabinestøj, hvilket forbedrer den samlede køreoplevelse.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/exterior_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="2249"  >}}
 
 
@@ -200,7 +199,6 @@ Følgende funktioner er tilgængelige på **multicontour** sædet.
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/frontseats_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="2249"  >}}
 
 #### Sæde på anden række
@@ -210,7 +208,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - højdejusterbar nakkestøtte
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/secondrowseats_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="2249"  >}}
 
@@ -254,7 +251,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/screens_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -286,7 +282,6 @@ Du kan vælge mellem tre typer forlygter til Audi e-tron 55 Sportback.
 - Forlygter baseret på LED Digital Matrix-teknologi er tilgængelig som ekstraudstyr.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/headlights_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="2249"  >}}
 
@@ -344,7 +339,6 @@ Op til fem [radarsensorer](../../../../technology/sensorsandcameras/radar/), fem
 Lagekapaciteten i bagagerummet er 660 liter. Med bagsædet nede er det 1725 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 3170 kg (6989 lbs), og med basisvægten på 2520 kg (5556 lbs), kan du maksimalt laste 650 kg (1433 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1800, og på ubremset er den 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/e-tron/e-tron_55_sportback/trunk_1_st.jpg" title="Audi e-tron 55 Sportback" width="3000" height="2001"  >}}
 

@@ -89,7 +89,6 @@ Il n'y a qu'un seul toit pour ce modèle. Le toit standard est doté d'un toit p
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/exterior_1_st.jpg" title="VinFast VF8 Plus" width="2048" height="1365"  >}}
 
 
@@ -133,7 +132,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 - [chauffage](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/secondrowseats_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
 
 
@@ -167,7 +165,6 @@ Détails clés de l'écran :
 - L'écran touch au centre du tableau de bord mesure 15,6 pouces
 
 Un affichage tête haute est un système un standard qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/screens_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
 

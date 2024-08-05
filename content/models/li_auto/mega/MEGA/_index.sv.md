@@ -44,13 +44,11 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 9 timmar och 5 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/li_auto/mega/mega/charging_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
 ### Laddningsport
 
 Platsen för laddningsporten är på [vänster baksida](../../../../technology/charging/connectors/#rear-side). Detta plats gör det enkelt att använda laddstationer där du måste backa upp till laddaren. Anslutningstyper varierar mellan olika marknader. Den här modellen använder [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) för Nordamerika och för Europa, [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs). Se fullständiga specifikationer för alla marknader.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/battery_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
@@ -87,7 +85,6 @@ Bilen har två [vanliga dörrar](../../../../technology/doors/) i första raden,
 Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som spänner över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humör och komfort för den boende. Glaset är tonat för att skydda mot värme från solen.
 
 B-stolpen och vyerna bak är tonade.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/exterior_1_st.jpg" title="Li Auto MEGA" width="2800" height="1575"  >}}
 
@@ -126,7 +123,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 - Gray [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Gray [läderklädsel](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/li_auto/mega/mega/frontseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1664"  >}}
 
 #### Säten på andra raden
@@ -140,7 +136,6 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
-
 {{< sitefiguresized thumb="models/li_auto/mega/mega/secondrowseats_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
 #### Seter på tredje rad
@@ -148,7 +143,6 @@ För den andra raden har den här modellen två kaptensstolar. Dessutom är föl
 
 
 Den tredje raden har en tresitsig bänk med en 40:60-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/thirdrowseats_1_st.jpg" title="Li Auto MEGA" width="2960" height="1667"  >}}
 
@@ -189,7 +183,6 @@ Viktiga skärmdetaljer:
 För baksätespassagerarna finns det en infotainmentskärm i taket bakom sätena på första raden.
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/li_auto/mega/mega/screens_1_st.jpg" title="Li Auto MEGA" width="1920" height="1080"  >}}
 
 
@@ -219,7 +212,6 @@ Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/headlights_1_st.jpg" title="Li Auto MEGA" width="3000" height="1687"  >}}
 
@@ -270,7 +262,6 @@ Opptil en [radarsensorer](../../../../technology/sensorsandcameras/radar/), nio 
 Lastkapaciteten i bagageutrymmet är 1054 liter. Med den tredje sätesraden nere är den 1800 liter. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 32 liter. Bilens maximala vikt är 3400 kg, och med basvikten på 2763 kg kan du lasta maximalt 637 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
 
 {{< sitefiguresized thumb="models/li_auto/mega/mega/trunk_1_st.jpg" title="Li Auto MEGA" width="1920" height="1079"  >}}
 

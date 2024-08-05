@@ -83,7 +83,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a panoramic roof. The glass extends most of the roof, and occupants can open the front part. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/exterior_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="2099"  >}}
 
 
@@ -112,7 +111,6 @@ You can choose from 2 different materials/colors for this seat type.
 - Black [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 - Gray [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/frontseats_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="1999"  >}}
 
 #### Second-row seat
@@ -123,7 +121,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 
 - height adjustable headrest
 - [heating](../../../../technology/seats/adjustment/#heating) (optional)
-
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/secondrowseats_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="2001"  >}}
 
@@ -163,7 +160,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/screens_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="2000"  >}}
 
 
@@ -194,7 +190,6 @@ The model has 5 USB-C connections as standard.
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/headlights_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="2000"  >}}
 
@@ -236,7 +231,6 @@ With the Super Cruise  level 2 system, you get additional driving automation fea
 The cargo capacity in the trunk is 748 liters. With the rear seat down, it is 1614 liters.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 680, and on unbraked, it is 680 kg (1499/1499 lbs).
-
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_awd/trunk_1_st.jpg" title="Chevrolet Equinox EV AWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

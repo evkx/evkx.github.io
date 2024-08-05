@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 0 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_85/charging_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2002"  >}}
 
 ### Puerto de carga
@@ -90,7 +89,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 Sólo hay un techo para este modelo. El techo estándar incluye un gran techo panorámico de cristal que se extiende desde el frente hasta la parte trasera, mejorando la sensación de amplitud y luminosidad del interior, mejorando así el estado de ánimo y la comodidad de los ocupantes. Este vidrio está tintado para proteger contra el calor del sol.
 
 Las ventanas del pilar B y la parte trasera están tintadas.
-
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_85/exterior_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2001"  >}}
 
@@ -190,7 +188,6 @@ Puedes elegir entre dos tipos de faros para el SKODA Elroq 85.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_85/headlights_1_st.jpg" title="SKODA Elroq 85" width="3000" height="2000"  >}}
 

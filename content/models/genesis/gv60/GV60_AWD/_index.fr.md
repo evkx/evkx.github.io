@@ -87,7 +87,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/exterior_1_st.jpg" title="Genesis GV60 AWD" width="3000" height="2121"  >}}
 
 
@@ -121,7 +120,6 @@ Vous pouvez choisir parmi 6 différents matériaux/couleurs pour ce type de siè
 - Gray [revêtement en cuir](../../../../technology/seats/materials/#leather)
 - Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
 - Gray [revêtement en microfibre/similicuir](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/frontseats_1_st.jpg" title="Genesis GV60 AWD" width="1500" height="1090"  >}}
 
@@ -166,7 +164,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/screens_1_st.jpg" title="Genesis GV60 AWD" width="3000" height="1796"  >}}
 
 ## Infodivertissement
@@ -193,7 +190,6 @@ Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 co
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd/headlights_1_st.jpg" title="Genesis GV60 AWD" width="1387" height="780"  >}}
 

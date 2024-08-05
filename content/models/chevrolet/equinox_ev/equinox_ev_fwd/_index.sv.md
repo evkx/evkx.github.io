@@ -83,7 +83,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med panoramatak. Glaset sträcker ut större delen av taket, och passagerarna kan öppna den främre delen. Detta glas gör bilens interiören känns rymligare och ljusare, något som kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/exterior_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2099"  >}}
 
 
@@ -112,7 +111,6 @@ Du kan välja mellan 2 olika material/färger för denna sitstyp.
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/frontseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="1999"  >}}
 
 #### Säten på andra raden
@@ -123,7 +121,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion d�
 
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/secondrowseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
 
@@ -163,7 +160,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/screens_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2000"  >}}
 
 
@@ -194,7 +190,6 @@ Modellen har 5 USB-C-anslutningar som standard.
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/headlights_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2000"  >}}
 
@@ -236,7 +231,6 @@ Med Super Cruise  nivå 2-systemet får du fler körautomatiseringsfunktioner ä
 Lastkapaciteten i bagageutrymmet är 748 liter. Med baksätet nedfällt är det 1614 liter.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 680, och på en obromsad är den 680 kg.
-
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/trunk_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

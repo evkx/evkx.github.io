@@ -90,7 +90,6 @@ Sólo hay un techo para este modelo. El techo estándar incluye un gran techo pa
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/exterior_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2658"  >}}
 
 
@@ -121,7 +120,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 Puedes elegir entre 2 diferentes materiales/colores para este tipo de asiento.
 - Black [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
 - White [tapicería de polipiel](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/frontseats_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2250"  >}}
 
@@ -168,7 +166,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/screens_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 
 ## Infoentretenimiento
@@ -191,7 +188,6 @@ El modelo tiene 4 conexiones USB-C de serie.
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3_performance/headlights_1_st.jpg" title="Tesla Model 3 Performance" width="3000" height="2000"  >}}
 

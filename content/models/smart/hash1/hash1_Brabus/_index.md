@@ -81,7 +81,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [hatchback
 
 There are two different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. It has an electric curtain that occupants can use to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/exterior_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2049"  >}}
 
 
@@ -108,7 +107,6 @@ The following functionalities are available on the **** seat.
 You can choose from 1 different materials/colors for this seat type.
 - White/Blue [leatherette upholstering](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/frontseats_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
 #### Second-row seat
@@ -118,7 +116,6 @@ You can choose from 1 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a  split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/secondrowseats_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
@@ -158,7 +155,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/screens_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -184,7 +180,6 @@ You can choose between two types of headlights for the Smart #1 Brabus.
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/headlights_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 
@@ -231,7 +226,6 @@ With the Pilot Assist  level 2 system, you get the following driving automation 
 The cargo capacity in the trunk is 313 liters. With the rear seat down, it is 976 liters. On the roof, you can load up to 75 kg (165.3 lbs). Under the hood, there is frunk with more storage room. This frunk is 15 liters (0.5 CU FT). The maxium weight of the car is 2325 kg (5126 lbs), and with the base weight of 2000 kg (4409 lbs), you can max load 325 kg (717 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1600, and on unbraked, it is 750 kg (3527/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/smart/hash1/hash1_brabus/trunk_1_st.jpg" title="Smart #1 Brabus" width="3000" height="2250"  >}}
 

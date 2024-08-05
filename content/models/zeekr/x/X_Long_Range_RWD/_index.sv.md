@@ -79,7 +79,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchbac
 
 Det finns två olika takalternativ att välja mellan. Som tillval kan du beställa denna modell med ett stort panoramatak som sträcker sig över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare , vilket kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
-
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/exterior_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="1687"  >}}
 
 
@@ -106,7 +105,6 @@ Följande funktioner är tillgängliga på **** sätet.
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 - White/Blue [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/frontseats_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
@@ -116,7 +114,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-
 
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/secondrowseats_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="2000"  >}}
 
@@ -156,7 +153,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/screens_1_st.jpg" title="Zeekr X Long Range RWD" width="2280" height="1282"  >}}
 
 ## Infotainment
@@ -182,7 +178,6 @@ Du kan välja mellan två typer av strålkastare för Zeekr X Long Range RWD.
 - Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/headlights_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="2000"  >}}
 
@@ -229,7 +224,6 @@ Med Pilot Assist  nivå 2-systemet får du följande körautomatiseringsfunktion
 Lastkapaciteten i bagageutrymmet är 362 liter. Med baksätet nedfällt är det 904 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 7 liter. Bilens maximala vikt är 2520 kg, och med basvikten på 1960 kg kan du lasta maximalt 560 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1600, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/zeekr/x/x_long_range_rwd/trunk_1_st.jpg" title="Zeekr X Long Range RWD" width="3000" height="2000"  >}}
 

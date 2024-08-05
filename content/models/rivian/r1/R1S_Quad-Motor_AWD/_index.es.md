@@ -45,7 +45,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11,5 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 10 horas y 52 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/charging_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="2880" height="1920"  >}}
 
 ### Puerto de carga
@@ -85,7 +84,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y un [por
 Sólo hay un techo para este modelo. Como opción, puedes pedir este modelo con techo panorámico. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila. Este cristal embellece el interior del coche. Siéntete más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Ambos paneles de vidrio tienen una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
 
 Las ventanas del pilar B y la parte trasera están tintadas.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/exterior_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="2880" height="1920"  >}}
 
@@ -170,7 +168,6 @@ Detalles clave de la pantalla:
 
 El modelo no tiene head-up display.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/screens_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="1600" height="1067"  >}}
 
 
@@ -236,7 +233,6 @@ Con el sistema Driver+  nivel 2, obtienes las siguientes funciones de automatiza
 La capacidad de carga en el maletero es de 498 litros. Con el asiento trasero abatido, es de 2965 litros. En el techo, puedes cargar hasta 113 kg (249,1 lbs). Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 314 litros (11,1 CU FT).
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 3500, y sin freno, es de 750 kg (7716/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_quad-motor_awd/trunk_1_st.jpg" title="Rivian R1S Quad-Motor AWD" width="1920" height="1080"  >}}
 

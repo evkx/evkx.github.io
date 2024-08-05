@@ -90,7 +90,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med taklucka. Glaset sträcker sig över endast den främre raden, och passagerarna kan öppna det. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra stämningen och komforten för den åkande. Den har en manuell gardin som de åkande kan använda för att skydda mot solen.
 
-
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/exterior_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="2000"  >}}
 
 
@@ -138,7 +137,6 @@ Följande funktioner är tillgängliga på **multicontour** sätet.
 
 Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/frontseats_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 
 #### Säten på andra raden
@@ -149,7 +147,6 @@ Den andra raden har en standardbänk med tre sittplatser med en 40:20:40-sektion
 
 - höjdjusterbart nackstöd
 - [värme](../../../../technology/seats/adjustment/#uppvärmning) (valfritt)
-
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/secondrowseats_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 
@@ -199,7 +196,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/screens_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="2000"  >}}
 
 
@@ -232,7 +228,6 @@ Modellen har 4 USB-C-anslutningar som standard. Som ett alternativ kan du få yt
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/mercedes/g/g_580_eq/headlights_1_st.jpg" title="Mercedes-EQ G 580 EQ" width="3000" height="1999"  >}}
 

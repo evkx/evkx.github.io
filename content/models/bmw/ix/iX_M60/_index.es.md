@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 9 horas y 33 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/charging_1_st.jpg" title="BMW iX M60" width="3000" height="2002"  >}}
 
 ### Puerto de carga
@@ -88,7 +87,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/exterior_1_st.jpg" title="BMW iX M60" width="3000" height="2000"  >}}
 
 
@@ -117,7 +115,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 - [masaje](../../../../technology/seats/adjustment/#massage) (opcional)
 
 Puedes elegir entre 7 diferentes materiales/colores para este tipo de asiento.
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/frontseats_1_st.jpg" title="BMW iX M60" width="3000" height="1999"  >}}
 
@@ -163,7 +160,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/screens_1_st.jpg" title="BMW iX M60" width="3000" height="2001"  >}}
 
 ## Infoentretenimiento
@@ -194,7 +190,6 @@ Puedes elegir entre dos tipos de faros para el BMW iX M60.
 - Los faros basados en LED Matrix con tecnología láser están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apague individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/headlights_1_st.jpg" title="BMW iX M60" width="3000" height="1999"  >}}
 
@@ -242,7 +237,6 @@ Con el sistema Driving Assistant Professional  nivel 2, obtienes funciones de au
 La capacidad de carga en el maletero es de 500 litros. Con el asiento trasero abatido, es de 1750 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 3135 kg (6911 lbs), y con el peso base de 2510 kg (5534 lbs), puedes cargar como máximo 625 kg (1378 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2500, y sin freno, es de 750 kg (5512/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/trunk_1_st.jpg" title="BMW iX M60" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

@@ -81,7 +81,6 @@ El auto tiene cuatro [puertas normales](../../../../technology/doors/) y una [pu
 
 Hay dos opciones de techo diferentes para elegir Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que Puede mejorar el estado de ánimo y la comodidad del ocupante. El cristal tiene una función electrocrómica que permite difuminar el cristal para protegerlo del sol
 
-
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_dual_motor/exterior_1_st.jpg" title="Polestar 4 Long range Dual motor" width="3000" height="1687"  >}}
 
 
@@ -181,7 +180,6 @@ Puedes elegir entre dos tipos de faros para el Polestar 4 Long range Dual motor.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_dual_motor/headlights_1_st.jpg" title="Polestar 4 Long range Dual motor" width="3000" height="2250"  >}}
 

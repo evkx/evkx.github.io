@@ -82,7 +82,6 @@ Det er bare ett tak for denne modellen. Som ekstrautstyr kan du bestille denne m
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/exterior_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 
 
@@ -113,7 +112,6 @@ Du kan velge mellom 3 forskjellige materialer/farger for denne setetypen.
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Green [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Blue [lærpolstring](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/frontseats_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 
@@ -168,7 +166,6 @@ Viktige skjermdetaljer:
 
 Modellen er ikke tilgjengelig med head-up display.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/screens_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 
 
@@ -194,7 +191,6 @@ Modellen har 6 USB-C-tilkoblinger som standard.
 Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/headlights_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 
@@ -237,7 +233,6 @@ Med Driver+  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 Lastkapasiteten i bagasjerommet er 498 liter. Med baksetet nede er det 2965 liter. På taket kan du laste opptil 113 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 314 liter.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 3500, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1s_dual-motor_awd_sp/trunk_1_st.jpg" title="Rivian R1S Dual-Motor AWD SP" width="2880" height="1920"  >}}
 

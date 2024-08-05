@@ -89,7 +89,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/exterior_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1999"  >}}
 
 
@@ -118,7 +117,6 @@ Følgende funksjoner er tilgjengelige på **standard** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage) (tilvalg)
 
 Du kan velge mellom 7 forskjellige materialer/farger for denne setetypen.
-
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/frontseats_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2001"  >}}
 
@@ -173,7 +171,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/screens_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="1991"  >}}
 
 ## Infotainment
@@ -204,7 +201,6 @@ Du kan velge mellom to typer frontlykter for BMW i7 M70 xDrive.
 - Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/headlights_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2001"  >}}
 

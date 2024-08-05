@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 5 timer og 21 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_60/charging_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2002"  >}}
 
 ### Ladeport
@@ -90,7 +89,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 Det er bare ett tak for denne modellen. Standardtaket inkluderer et stort panoramaglastak som strekker seg fra front til bak, noe som forbedrer interiørets romslige og lyse følelse og dermed forbedrer stemningen og komforten til passasjerene. Dette glasset er tonet for å beskytte mot varme fra solen.
 
 Rutene fra B-stolpen og baksiden er tonet.
-
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_60/exterior_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2001"  >}}
 
@@ -190,7 +188,6 @@ Du kan velge mellom to typer frontlykter for SKODA Elroq 60.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/skoda/elroq/elroq_60/headlights_1_st.jpg" title="SKODA Elroq 60" width="3000" height="2000"  >}}
 

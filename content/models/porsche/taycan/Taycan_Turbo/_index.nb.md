@@ -95,7 +95,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [liftgate](
 
 Det er tre forskjellige takalternativer å velge mellom. Standarden er bare et vanlig tak. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg fra fronten til baksiden. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre humøret og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen. Som ekstrautstyr kan du bestille denne modellen med et stort panoramatak som strekker seg over de fleste områdene fra front til bak. Dette glasset gjør at bilens interiør føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Glasset har en elektrokrom funksjon som lar deg blande glasset for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo/exterior_1_st.jpg" title="Porsche Taycan Turbo" width="3000" height="2000"  >}}
 
 
@@ -200,7 +199,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo/screens_1_st.jpg" title="Porsche Taycan Turbo" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -277,7 +275,6 @@ Med Porsche InnoDrive  nivå 2-systemet får du flere kjøreautomatiseringsfunks
 Lastkapasiteten i bagasjerommet er 366 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2870 kg, og med basisvekten på 2220 kg kan du maksimalt laste 650 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Denne modellen er ikke tilgjengelig med hengerfeste. Så for å trekke tilhenger må du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo/trunk_1_st.jpg" title="Porsche Taycan Turbo" width="3000" height="2250"  >}}
 

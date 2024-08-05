@@ -89,7 +89,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il n'y a qu'un seul toit pour ce modèle. Le toit standard comprend un grand toit panoramique en verre s'étendant de l'avant à l'arrière, améliorant la sensation d'espace et de luminosité de l'intérieur, améliorant ainsi l'humeur et le confort des occupants. Ce verre est teinté pour protéger contre la chaleur du soleil.
 
-
 {{< sitefiguresized thumb="models/nio/et9/et9/exterior_1_st.jpg" title="Nio ET9" width="1680" height="1000"  >}}
 
 
@@ -121,7 +120,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 
 Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/nio/et9/et9/frontseats_1_st.jpg" title="Nio ET9" width="1170" height="759"  >}}
 
 #### Siège de deuxième rangée
@@ -136,7 +134,6 @@ Pour la deuxième rangée, ce modèle est doté de deux [sièges exécutifs](../
 - [massage](../../../../technology/seats/adjustment/#massage)
 - [support de jambe pour passager](../../../../technology/seats/adjustment/#leg-support)
 - [repose-pieds pour passager](../../../../technology/seats/adjustment/#footrest)
-
 
 {{< sitefiguresized thumb="models/nio/et9/et9/secondrowseats_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
 
@@ -195,7 +192,6 @@ Le modèle dispose de 2 connexions USB-C en standard. Le modèle dispose de 2 co
 Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/nio/et9/et9/headlights_1_st.jpg" title="Nio ET9" width="2560" height="1600"  >}}
 

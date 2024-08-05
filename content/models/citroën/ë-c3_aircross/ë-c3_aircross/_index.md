@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 7.4 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 5 hours and 56 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/charging_1_st.jpg" title="Citroën ë-C3 Aircross" width="2893" height="2170"  >}}
 
 ### Charge port
@@ -93,7 +92,6 @@ There is only one roof for this model.
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/exterior_1_st.jpg" title="Citroën ë-C3 Aircross" width="2894" height="2170"  >}}
 
 
@@ -125,7 +123,6 @@ The following functionalities are available on the **Advanced Comfort** seat.
 
 You can choose from 1 different materials/colors for this seat type.
 - Black/Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/frontseats_1_st.jpg" title="Citroën ë-C3 Aircross" width="3000" height="2000"  >}}
 
@@ -183,7 +180,6 @@ Key screen details:
 - The touch screen at the top of the center console is 10.3 inches large
 
 The model does not have a head-up display.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/screens_1_st.jpg" title="Citroën ë-C3 Aircross" width="3000" height="2000"  >}}
 
@@ -248,7 +244,6 @@ Up to one [radar sensors](../../../../technology/sensorsandcameras/radar/), one 
 ## Cargo Capacity and Towing Ability
 
 The cargo capacity in the trunk is 460 liters. With the rear seat down, it is 1600 liters. On the roof, you can load up to 75 kg (165.3 lbs). The maxium weight of the car is 2030 kg (4475 lbs), and with the base weight of 1429 kg (3150 lbs), you can max load 601 kg (1325 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
-
 
 {{< sitefiguresized thumb="models/citroën/ë-c3_aircross/ë-c3_aircross/trunk_1_st.jpg" title="Citroën ë-C3 Aircross" width="2894" height="2170"  >}}
 

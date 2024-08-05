@@ -79,7 +79,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/exterior_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="1999"  >}}
 
 
@@ -114,7 +113,6 @@ Du kan vælge mellem 1 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 40:60 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/secondrowseats_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="1999"  >}}
 
@@ -162,7 +160,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch øverst på midterkonsollen er 12,3 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/screens_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="1999"  >}}
 
@@ -229,7 +226,6 @@ Med standardsystemet tilbyder modellen ingen køreautomatisering.
 Lagekapaciteten i bagagerummet er 452 liter. På taget kan du laste op til 80 kg (176,4 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2195 kg (4839 lbs), og med basisvægten på 1945 kg (4288 lbs), kan du maksimalt laste 250 kg (551 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 250kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/toyota/bz4x/bz4x_fwd/trunk_1_st.jpg" title="Toyota bZ4X FWD" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

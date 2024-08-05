@@ -89,7 +89,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/exterior_1_st.jpg" title="VinFast VF8 Plus" width="2048" height="1365"  >}}
 
 
@@ -133,7 +132,6 @@ The second row has a standard three-seat bench with a 60:40 split where you can 
 - [heating](../../../../technology/seats/adjustment/#heating)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 
-
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/secondrowseats_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
 
 
@@ -167,7 +165,6 @@ Key screen details:
 - The touch screen on the dashboard's center is 15.6 inches large
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/vinfast/vf8/vf8_plus/screens_1_st.jpg" title="VinFast VF8 Plus" width="2960" height="1232"  >}}
 

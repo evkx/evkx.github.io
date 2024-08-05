@@ -96,7 +96,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/exterior_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1740"  >}}
 
 
@@ -125,7 +124,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport**.
 
 Puedes elegir entre 1 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/frontseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2000"  >}}
 
 #### Asiento de segunda fila
@@ -136,7 +134,6 @@ La segunda fila tiene un banco estándar de tres asientos con una división  don
 
 - reposacabezas ajustable en altura
 - [calefacción](../../../../technology/seats/adjustment/#calefacción) (opcional)
-
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/secondrowseats_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2213"  >}}
 
@@ -178,7 +175,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/screens_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="1845"  >}}
 
 ## Infoentretenimiento
@@ -206,7 +202,6 @@ El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 cone
 Los faros estándar utilizan tecnología LED Matrix. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para desactivar Ilumina áreas pequeñas al frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/maserati/grancabrio/grancabrio_folgore/headlights_1_st.jpg" title="Maserati GranCabrio Folgore" width="3000" height="2000"  >}}
 

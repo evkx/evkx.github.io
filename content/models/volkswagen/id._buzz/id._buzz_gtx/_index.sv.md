@@ -88,7 +88,6 @@ Det finns bara ett tak för denna modell. Standardinställningen är bara ett va
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/exterior_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="1999"  >}}
 
 
@@ -137,7 +136,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 - Orange [tygklädsel](../../../../technology/seats/materials/#fabric)
 - Blue [tygklädsel](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/frontseats_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="2010"  >}}
 
 #### Säten på andra raden
@@ -145,7 +143,6 @@ Du kan välja mellan 5 olika material/färger för denna sitstyp.
 
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="2000"  >}}
 
@@ -186,7 +183,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/screens_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -216,7 +212,6 @@ Du kan välja mellan två typer av strålkastare för Volkswagen ID. Buzz GTX.
 - Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/headlights_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="2000"  >}}
 
@@ -267,7 +262,6 @@ Med Assistantpackage plus  nivå 2-systemet får du fler körautomatiseringsfunk
 Lastkapaciteten i bagageutrymmet är 1121 liter. Med baksätet nedfällt är det 2205 liter. På taket kan du lasta upp till 100 kg. Bilens maximala vikt är 3000 kg, och med basvikten på 2425 kg kan du lasta maximalt 575 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1000, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_gtx/trunk_1_st.jpg" title="Volkswagen ID. Buzz GTX" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

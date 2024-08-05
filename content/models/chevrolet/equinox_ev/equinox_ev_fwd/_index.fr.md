@@ -83,7 +83,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre prolonge la majeure partie du toit et les occupants peuvent ouvrir la partie avant. Cette vitre rend la voiture plus belle. l'intérieur semble plus spacieux et lumineux, ce qui peut améliorer l'humeur et le confort de l'occupant. Il dispose d'un rideau électrique que les occupants peuvent utiliser pour se protéger du soleil.
 
-
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/exterior_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2099"  >}}
 
 
@@ -112,7 +111,6 @@ Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siè
 - Black [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 - Gray [revêtement en similicuir](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/frontseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="1999"  >}}
 
 #### Siège de deuxième rangée
@@ -123,7 +121,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/secondrowseats_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
 
@@ -163,7 +160,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/screens_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2000"  >}}
 
 
@@ -194,7 +190,6 @@ Le modèle dispose de 5 connexions USB-C en standard.
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/headlights_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2000"  >}}
 
@@ -236,7 +231,6 @@ Avec le système Super Cruise  niveau 2, vous bénéficiez de fonctionnalités d
 La capacité de chargement dans le coffre est de 748 litres. Avec la banquette arrière rabattue, elle est de 1614 litres.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 680, et sur une remorque non freinée, il est de 680 kg (1499/1499 lbs).
-
 
 {{< sitefiguresized thumb="models/chevrolet/equinox_ev/equinox_ev_fwd/trunk_1_st.jpg" title="Chevrolet Equinox EV FWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

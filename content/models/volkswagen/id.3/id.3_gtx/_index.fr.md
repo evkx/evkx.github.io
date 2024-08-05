@@ -89,7 +89,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 Les vitres du montant B et de l'arrière sont teintées.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/exterior_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
 
@@ -114,7 +113,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **standard**.
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
 Vous pouvez choisir parmi 2 différents matériaux/couleurs pour ce type de siège.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/frontseats_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
@@ -172,7 +170,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/screens_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 
 ## Infodivertissement
@@ -203,7 +200,6 @@ Vous pouvez choisir entre deux types de phares pour le Volkswagen ID.3 GTX.
 - Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id.3/id.3_gtx/headlights_1_st.jpg" title="Volkswagen ID.3 GTX" width="3000" height="2000"  >}}
 

@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 49 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/charging_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
 ### Charge port
@@ -90,7 +89,6 @@ The car has two [regular doors](../../../../technology/doors/) in the first row,
 There is only one roof for this model. The standard is just a regular roof.
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/exterior_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
@@ -139,7 +137,6 @@ You can choose from 5 different materials/colors for this seat type.
 - Orange [fabric upholstering](../../../../technology/seats/materials/#fabric)
 - Blue [fabric upholstering](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/frontseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2197"  >}}
 
 #### Second-row seats
@@ -153,7 +150,6 @@ The second option is two captain chairs. In addition, the following functionalit
 
 - [heating](../../../../technology/seats/adjustment/#heating)
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/secondrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
 #### Third-row seats
@@ -161,7 +157,6 @@ The second option is two captain chairs. In addition, the following functionalit
 
 
 The third row has a two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/thirdrowseats_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
@@ -202,7 +197,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/screens_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="1999"  >}}
 
 ## Infotainment
@@ -232,7 +226,6 @@ You can choose between two types of headlights for the Volkswagen ID. Buzz Pro L
 - **LED Matrix Headlights:** Available as an option, this adaptive system splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually, optimizing lighting by un-lighting specific small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/headlights_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 
@@ -283,7 +276,6 @@ With the Assistantpackage plus  level 2 system, you get additional driving autom
 The cargo capacity in the trunk is 306 liters. With the rear seat down, it is 2469 liters. On the roof, you can load up to 100 kg (220.5 lbs). The maxium weight of the car is 3000 kg (6614 lbs), and with the base weight of 2416 kg (5326 lbs), you can max load 584 kg (1287 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 1000, and on unbraked, it is 750 kg (2205/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/volkswagen/id._buzz/id._buzz_pro_lwb/trunk_1_st.jpg" title="Volkswagen ID. Buzz Pro LWB" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

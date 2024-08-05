@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 6 horas y 24 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/charging_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
 ### Puerto de carga
@@ -87,7 +86,6 @@ Las ruedas más estrechas mejorarán el consumo y darán una mayor autonomía, m
 El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y una [puerta levadiza](../../../../technology/doors/#liftgate).
 
 Hay dos opciones de techo diferentes para elegir El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con techo panorámico. El cristal tiene dos paneles. Uno sobre la primera y la segunda fila, y los ocupantes pueden abrir el frente Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. Ambos paneles de cristal tienen una cortina eléctrica que los ocupantes pueden utilizar para protegerse del sol.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/exterior_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="2000"  >}}
 
@@ -137,7 +135,6 @@ Las siguientes funcionalidades están disponibles en el asiento **multicontour**
 
 Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/frontseats_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
 #### Asiento de segunda fila
@@ -147,7 +144,6 @@ Puedes elegir entre 5 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/secondrowseats_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
@@ -185,7 +181,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/screens_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
 
@@ -218,7 +213,6 @@ El modelo tiene 4 conexiones USB-C de serie. Como opción, puedes obtener 2 cone
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/headlights_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 
@@ -264,7 +258,6 @@ Con el sistema Driver Assistance Package  nivel 1, obtienes las siguientes funci
 La capacidad de carga en el maletero es de 340 litros. Con el asiento trasero abatido, es de 1320 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. El peso máximo del automóvil es 2535 kg (5589 lbs), y con el peso base de 2030 kg (4475 lbs), puedes cargar como máximo 505 kg (1113 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1800, y sin freno, es de 750 kg (3968/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqa/eqa_250plus/trunk_1_st.jpg" title="Mercedes-EQ EQA 250+" width="3000" height="1687"  >}}
 <div class="mt-3 mb-3">

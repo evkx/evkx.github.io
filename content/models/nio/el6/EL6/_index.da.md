@@ -106,7 +106,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er kun ét tag til denne model. Standardtaget har panoramatag. Glasset strækker sig over det meste af taget, og passagererne kan åbne den forreste del. Dette glas får bilens interiør til at føles mere rummeligt og lyst. , som kan forbedre stemningen og komforten for beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/nio/el6/el6/exterior_1_st.jpg" title="Nio EL6" width="2560" height="1280"  >}}
 
 
@@ -139,7 +138,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
-
 
 {{< sitefiguresized thumb="models/nio/el6/el6/frontseats_1_st.jpg" title="Nio EL6" width="2880" height="2316"  >}}
 
@@ -186,7 +184,6 @@ Vigtige skærmdetaljer:
 - Skærmen touch i midten af midterkonsollen er 12,8 tommer stor
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/nio/el6/el6/screens_1_st.jpg" title="Nio EL6" width="2560" height="1280"  >}}
 
@@ -262,7 +259,6 @@ Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere køreautomatis
 Lagekapaciteten i bagagerummet er 668 liter. Med bagsædet nede er det 1430 liter. På taget kan du laste op til 100 kg (220,5 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2850 kg (6283 lbs), og med basisvægten på 2366 kg (5216 lbs), kan du maksimalt laste 484 kg (1067 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 484kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1200, og på ubremset er den 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/nio/el6/el6/trunk_1_st.jpg" title="Nio EL6" width="2560" height="1600"  >}}
 <div class="mt-3 mb-3">

@@ -45,7 +45,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11,5 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 10 heures et 52 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/charging_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2048" height="1280"  >}}
 
 ### Port de recharge
@@ -85,7 +84,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 Il n'y a qu'un seul toit pour ce modèle. En option, vous pouvez commander ce modèle avec un grand toit panoramique s'étendant de l'avant vers l'arrière. Cette vitre donne une impression d'espace et de luminosité à l'intérieur de la voiture, ce qui peut améliorer l'humeur et le confort de l'occupant. Le verre est tonique pour protéger de la chaleur du soleil.
 
 Les vitres du montant B et de l'arrière sont teintées.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/exterior_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2100" height="1400"  >}}
 
@@ -164,7 +162,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/screens_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="1600" height="1067"  >}}
 
 
@@ -190,7 +187,6 @@ Le modèle dispose de 8 connexions USB-C en standard.
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/headlights_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2880" height="1920"  >}}
 
@@ -233,7 +229,6 @@ Avec le système Driver+  niveau 2, vous bénéficiez des fonctionnalités d'aut
 La capacité de chargement dans la caisse du camion est de 1925 litres. La largeur de la caisse est de 1275 mm et la longueur est de 1371 mm. Le poids de charge maximal dans la caisse est de 800 kg. Sur le toit, vous pouvez charger jusqu'à 113 kg (249,1 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 314 litres (11,1 CU FT). Le poids maximum de la voiture est de 3870 kg (8532 lbs), et avec le poids de base de 2858 kg (6301 lbs), vous pouvez charger au maximum 1012 kg (2231 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 5000, et sur une remorque non freinée, il est de 750 kg (11023/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/rivian/r1/r1t_quad-motor_awd/trunk_1_st.jpg" title="Rivian R1T Quad-Motor AWD" width="2880" height="1920"  >}}
 

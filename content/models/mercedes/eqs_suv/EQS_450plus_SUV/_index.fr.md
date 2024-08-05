@@ -90,7 +90,6 @@ La voiture a quatre [portes ordinaires](../../../../technology/doors/) et un [ha
 
 Il existe deux options de toit différentes à choisir. Le standard est juste un toit ordinaire. En option, vous pouvez commander ce modèle avec un toit panoramique. La vitre comporte deux panneaux. Un au-dessus de la première et de la deuxième rangée, et les occupants peuvent ouvrir l'avant
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/exterior_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="1999"  >}}
 
 
@@ -138,7 +137,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **multicontour**.
 
 Vous pouvez choisir parmi 5 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/frontseats_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="1687"  >}}
 
 #### Siège de deuxième rangée
@@ -150,7 +148,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 - appui-tête réglable en hauteur
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="2250"  >}}
 
 #### Sièges de troisième rangée
@@ -158,7 +155,6 @@ La deuxième rangée est dotée d'une banquette standard à trois places avec un
 
 
 La troisième rangée dispose d'une banquette à deux places en option avec une répartition 50:50. Encore une fois, vous pouvez rabattre les sièges lorsqu'ils ne sont pas utilisés pour créer une plus grande capacité de chargement.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/thirdrowseats_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="2001"  >}}
 
@@ -207,7 +203,6 @@ Détails clés de l'écran :
 - L'écran  devant le passager dans le tableau de bord mesure 12,3 pouces
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/screens_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="1687"  >}}
 
@@ -291,7 +286,6 @@ Avec le système DRIVE PILOT  niveau 3, vous bénéficiez de fonctionnalités d'
 La capacité de chargement dans le coffre est de 645 litres. Avec la banquette arrière rabattue, elle est de 2100 litres. Sur le toit, vous pouvez charger jusqu'à 100 kg (220,5 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 3265 kg (7198 lbs), et avec le poids de base de 2620 kg (5776 lbs), vous pouvez charger au maximum 645 kg (1422 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 750, et sur une remorque non freinée, il est de 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs_suv/eqs_450plus_suv/trunk_1_st.jpg" title="Mercedes-EQ EQS 450+ SUV" width="3000" height="1999"  >}}
 <div class="mt-3 mb-3">

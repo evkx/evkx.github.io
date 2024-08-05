@@ -88,7 +88,6 @@ Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset s
 
 Rutene fra B-stolpen og baksiden er tonet.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/exterior_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="2323"  >}}
 
 
@@ -116,7 +115,6 @@ Følgende funksjoner er tilgjengelige på **Sport** setet.
 - [massasje](../../../../technology/seats/adjustment/#massage)
 
 Du kan velge mellom 2 forskjellige materialer/farger for denne setetypen.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/frontseats_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="2001"  >}}
 
@@ -162,7 +160,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/screens_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -189,7 +186,6 @@ Modellen har 4 USB-C-tilkoblinger som standard.
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/headlights_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="2001"  >}}
 
@@ -237,7 +233,6 @@ Med MAX  nivå 2-systemet får du følgende kjøreautomatiseringsfunksjoner.
 Lastkapasiteten i bagasjerommet er 585 liter. Med baksetet nede er det 1710 liter. På taket kan du laste opptil 75 kg. Maksimumsvekten til bilen er 2750 kg, og med basisvekten på 2176 kg kan du maksimalt laste 574 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1200, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/skoda/enyaq_iv/enyaq_rs/trunk_1_st.jpg" title="SKODA ENYAQ RS" width="3000" height="2001"  >}}
 

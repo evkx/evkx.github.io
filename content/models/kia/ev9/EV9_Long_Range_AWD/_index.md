@@ -86,7 +86,6 @@ There are two different roof options to select from. The standard is just a regu
 
 Additionally, you can order the car with tinted windows from the B-pillar backward, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/exterior_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
 
@@ -121,7 +120,6 @@ You can choose from 6 different materials/colors for this seat type.
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 - Gray [microfiber/leatherette upholstering](../../../../technology/seats/materials/#microfiber)
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/frontseats_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
 #### Second-row seats
@@ -144,7 +142,6 @@ The third option is two captain chairs. In addition, the following functionaliti
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [leg support for passenger](../../../../technology/seats/adjustment/#leg-support)
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
 #### Third-row seats
@@ -152,7 +149,6 @@ The third option is two captain chairs. In addition, the following functionaliti
 
 
 The third row has a two-seat bench with a 50:50 split. Again, you can fold down the seats when not used to create a larger cargo capacity.
-
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/thirdrowseats_1_st.jpg" title="Kia EV9 Long Range AWD" width="1350" height="900"  >}}
 
@@ -193,7 +189,6 @@ Key screen details:
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/screens_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -221,7 +216,6 @@ The model has 6 USB-C connections as standard.
 The standard headlights use LED Matrix technology. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/headlights_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
@@ -266,7 +260,6 @@ With the   level 2 system, you get the following driving automation features.
 The cargo capacity in the trunk is 333 liters. With the rear seat down, it is 2393 liters. On the roof, you can load up to 100 kg (220.5 lbs). Roof rails are standard on this model, making it easy to mount the roof box or rack to the car. Under the hood, there is frunk with more storage room. This frunk is 55 liters (1.9 CU FT). The maxium weight of the car is 3190 kg (7033 lbs), and with the base weight of 2637 kg (5814 lbs), you can max load 553 kg (1219 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 You can order the car with a towbar. The maximum total weight on a braked trailer is 2500, and on unbraked, it is 750 kg (5512/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/trunk_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

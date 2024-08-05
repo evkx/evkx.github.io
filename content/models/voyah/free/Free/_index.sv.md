@@ -81,7 +81,6 @@ Det finns bara ett tak för denna modell. Standardtaket har en stor panoramavy s
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/voyah/free/free/exterior_1_st.jpg" title="VOYAH FREE" width="3000" height="1687"  >}}
 
 
@@ -154,7 +153,6 @@ Viktiga skärmdetaljer:
 - Skärmen  framför passageraren i instrumentbrädan är 12,3 tum
 
 Modellen är inte tillgänglig med head-up display.
-
 
 {{< sitefiguresized thumb="models/voyah/free/free/screens_1_st.jpg" title="VOYAH FREE" width="2560" height="1767"  >}}
 

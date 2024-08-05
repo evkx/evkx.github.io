@@ -44,7 +44,6 @@ Dans un défi théorique de 1000 km, en commençant avec une batterie pleine et 
 
 Le chargeur embarqué standard prend en charge jusqu'à 11 kW pour la charge CA de niveau 1 et de niveau 2. Cela vous permet de charger complètement la batterie de 0 à 100% en environ 8 heures et 37 minutes à domicile. our une charge plus rapide, vous pouvez opter pour un chargeur embarqué optionnel prenant en charge jusqu'à 22 kW. Avec cette mise à niveau, vous pouvez atteindre une charge complète de 0 à 100% en seulement environ 4 heures et 18 minutes à domicile.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/charging_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2250"  >}}
 
 ### Port de recharge
@@ -112,7 +111,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/exterior_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 
 
@@ -149,7 +147,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 - [support de cuisse réglable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [massage](../../../../technology/seats/adjustment/#massage)
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/frontseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 
 #### Siège de deuxième rangée
@@ -159,7 +156,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **Sport Plus**.
 La deuxième rangée est dotée d'une banquette standard à trois places avec une division 40:20:40 où vous pouvez plier chaque section séparément pour augmenter l'espace de chargement. De plus, les fonctionnalités suivantes sont disponibles.
 
 - [chauffage](../../../../technology/seats/adjustment/#heating) (facultatif)
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/secondrowseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 
@@ -248,7 +244,6 @@ De plus, vous pouvez choisir entre deux types de feux arrière.
 - De plus, les feux arrière standard utilisent la technologie LED.
 - lights.taillight.technology.option.oledled
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2250"  >}}
 
 ## Systèmes avancés d'aide à la conduite
@@ -306,7 +301,6 @@ Jusqu'à cinq [capteurs radar](../../../../technology/sensorsandcameras/radar/),
 La capacité de chargement dans le coffre est de 514 litres. Avec la banquette arrière rabattue, elle est de 1517 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 27 litres (1,0 CU FT). Le poids maximum de la voiture est de 2750 kg (6063 lbs), et avec le poids de base de 2175 kg (4795 lbs), vous pouvez charger au maximum 575 kg (1268 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Vous pouvez commander la voiture avec une barre d'attelage. Le poids total maximum sur une remorque freinée est de 2400, et sur une remorque non freinée, il est de 750 kg (5291/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/trunk_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
 

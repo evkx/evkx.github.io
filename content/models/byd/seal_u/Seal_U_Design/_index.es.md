@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 7 horas y 54 minutos usando un cargador en casa.
 
-
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/charging_1_st.jpg" title="BYD Seal U Design" width="3000" height="1976"  >}}
 
 ### Puerto de carga
@@ -92,7 +91,6 @@ Sólo hay un techo para este modelo. El techo estándar tiene un techo panorámi
 
 Las ventanas del pilar B y la parte trasera están tintadas.
 
-
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/exterior_1_st.jpg" title="BYD Seal U Design" width="1500" height="872"  >}}
 
 
@@ -119,7 +117,6 @@ Las siguientes funcionalidades están disponibles en el asiento **standard**.
 
 Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/frontseats_1_st.jpg" title="BYD Seal U Design" width="3000" height="1687"  >}}
 
 #### Asiento de segunda fila
@@ -129,7 +126,6 @@ Puedes elegir entre 3 diferentes materiales/colores para este tipo de asiento.
 La segunda fila tiene un banco estándar de tres asientos con una división 60:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
 
 - reposacabezas ajustable en altura
-
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/secondrowseats_1_st.jpg" title="BYD Seal U Design" width="3000" height="2225"  >}}
 
@@ -170,7 +166,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un estándar que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/screens_1_st.jpg" title="BYD Seal U Design" width="3000" height="1986"  >}}
 
 ## Infoentretenimiento
@@ -197,7 +192,6 @@ El modelo tiene 3 conexiones USB-C de serie. El modelo tiene 1 conexiones USB-A 
 Los faros estándar utilizan tecnología LED.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/headlights_1_st.jpg" title="BYD Seal U Design" width="3000" height="1900"  >}}
 
@@ -244,7 +238,6 @@ Con el sistema Smart Pilot  nivel 2, obtienes las siguientes funciones de automa
 La capacidad de carga en el maletero es de 520 litros. Con el asiento trasero abatido, es de 1449 litros. El peso máximo del automóvil es 2501 kg (5514 lbs), y con el peso base de 1900 kg (4189 lbs), puedes cargar como máximo 601 kg (1325 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
-
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/trunk_1_st.jpg" title="BYD Seal U Design" width="3000" height="1960"  >}}
 <div class="mt-3 mb-3">

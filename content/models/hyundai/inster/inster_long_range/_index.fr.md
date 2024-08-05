@@ -84,7 +84,6 @@ Il existe deux options de toit différentes à choisir. Le standard est juste un
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers.
 
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/exterior_2_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 
@@ -116,7 +115,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 - Brown [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Beige [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/frontseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 #### Siège de deuxième rangée
@@ -131,7 +129,6 @@ Vous pouvez choisir parmi 3 différents matériaux/couleurs pour ce type de siè
 - Black [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Brown [revêtement en tissu](../../../../technology/seats/materials/#fabric)
 - Beige [revêtement en tissu](../../../../technology/seats/materials/#fabric)
-
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/secondrowseats_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
@@ -170,7 +167,6 @@ Détails clés de l'écran :
 
 Le modèle n'a pas d'affichage tête haute.
 
-
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/screens_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
 ## Infodivertissement
@@ -197,7 +193,6 @@ Le modèle dispose de 4 connexions USB-C en standard.
 Les phares standards utilisent la technologie LED.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/headlights_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 
@@ -248,7 +243,6 @@ Avec le système   niveau 2, vous bénéficiez des fonctionnalités d'automatisa
 La capacité de chargement dans le coffre est de 280 litres. Avec la banquette arrière rabattue, elle est de 1050 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Les rails de toit sont en option sur ce modèle. Les rails de toit facilitent le montage d'un coffre de toit ou d'une galerie sur la voiture. Le poids maximum de la voiture est de 1700 kg (3748 lbs), et avec le poids de base de 1375 kg (3031 lbs), vous pouvez charger au maximum 325 kg (717 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/hyundai/inster/inster_long_range/trunk_1_st.jpg" title="Hyundai INSTER Long Range" width="3000" height="2000"  >}}
 

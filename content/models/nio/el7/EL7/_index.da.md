@@ -106,7 +106,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er kun ét tag til denne model. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/nio/el7/el7/exterior_1_st.jpeg" title="Nio EL7" width="2880" height="1792"  >}}
 
 
@@ -138,7 +137,6 @@ Følgende funktioner er tilgængelige på **standard** sædet.
 - [fodstøtte til passager](../../../../technology/seats/adjustment/#footrest)
 
 Du kan vælge mellem 3 forskellige materialer/farver til denne sædetype.
-
 
 {{< sitefiguresized thumb="models/nio/el7/el7/frontseats_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
 
@@ -187,7 +185,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/nio/el7/el7/screens_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
 
 
@@ -213,7 +210,6 @@ Modellen har 2 USB-C-forbindelser som standard. Modellen har 2 USB-A-forbindelse
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/nio/el7/el7/headlights_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
 
@@ -265,7 +261,6 @@ Med NIO Pilot Complete Pack  niveau 2-systemet får du yderligere køreautomatis
 Lagekapaciteten i bagagerummet er 570 liter. Med bagsædet nede er det 1545 liter. På taget kan du laste op til 100 kg (220,5 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2850 kg (6283 lbs), og med basisvægten på 2366 kg (5216 lbs), kan du maksimalt laste 484 kg (1067 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt. 484kg anses for lavt for denne type bil og kan begrænse, hvor mange ting du kan medbringe ud over passagererne.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2000, og på ubremset er den 750 kg (4409/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/nio/el7/el7/trunk_1_st.jpg" title="Nio EL7" width="2880" height="1792"  >}}
 <div class="mt-3 mb-3">

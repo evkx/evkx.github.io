@@ -95,7 +95,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/exterior_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2000"  >}}
 
 
@@ -134,7 +133,6 @@ Följande funktioner är tillgängliga på **sport** sätet.
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/frontseats_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2001"  >}}
 
 #### Säten på andra raden
@@ -145,7 +143,6 @@ Alternativet standard är en tresitssbänk med en 60:40-sektion där du kan vika
 
 
 Alternativet second är en tresitssbänk med en 40:20:40-sektion där du kan vika varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2001"  >}}
 
@@ -187,7 +184,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/screens_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -221,7 +217,6 @@ Dessutom kan du välja mellan två typer av bakljus.
 
 - lights.taillight.technology.option.led
 - lights.taillight.technology.option.led
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2000"  >}}
 
@@ -275,7 +270,6 @@ Med Assistantpackage Tour  nivå 2-systemet får du fler körautomatiseringsfunk
 Lastkapaciteten i bagageutrymmet är 535 liter. Med baksätet nedfällt är det 1460 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2715 kg, och med basvikten på 2140 kg kan du lasta maximalt 575 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 1200, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/trunk_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2000"  >}}
 

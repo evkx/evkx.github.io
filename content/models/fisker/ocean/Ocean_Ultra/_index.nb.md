@@ -84,7 +84,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback 
 
 Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør at bilens interiør føles romsligere og lysere , som kan forbedre stemningen og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
-
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/exterior_1_st.jpg" title="Fisker Ocean Ultra" width="3000" height="1635"  >}}
 
 
@@ -114,7 +113,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Blue [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 - Beige [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/frontseats_2_st.jpg" title="Fisker Ocean Ultra" width="3000" height="1687"  >}}
 
@@ -160,7 +158,6 @@ Viktige skjermdetaljer:
 - touch-skjermen i midten av midtkonsollen er 17,1 tommer stor
 
 Modellen er ikke tilgjengelig med head-up display.
-
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_ultra/screens_1_st.jpg" title="Fisker Ocean Ultra" width="1920" height="1080"  >}}
 

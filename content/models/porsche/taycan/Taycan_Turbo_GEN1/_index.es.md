@@ -95,7 +95,6 @@ El automóvil tiene cuatro [puertas normales](../../../../technology/doors/) y u
 
 Hay tres opciones de techo diferentes para elegir. El estándar es simplemente un techo normal. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El vidrio está tonificado para proteger contra el calor del sol. Como opción, puedes pedir este modelo con un gran techo panorámico que se extiende sobre la mayor parte de las zonas desde la parte delantera hasta la trasera. Este cristal hace que el interior del coche parezca más grande Es espacioso y luminoso, lo que puede mejorar el estado de ánimo y la comodidad del ocupante. El cristal tiene una función electrocrómica que permite difuminar el cristal para protegerlo del sol.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gen1/exterior_1_st.jpg" title="Porsche Taycan Turbo (GEN1)" width="3000" height="2000"  >}}
 
 
@@ -200,7 +199,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gen1/screens_1_st.jpg" title="Porsche Taycan Turbo (GEN1)" width="3000" height="2000"  >}}
 
 ## Infoentretenimiento
@@ -277,7 +275,6 @@ Con el sistema Porsche InnoDrive  nivel 2, obtienes funciones de automatización
 La capacidad de carga en el maletero es de 366 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2870 kg (6327 lbs), y con el peso base de 2220 kg (4894 lbs), puedes cargar como máximo 650 kg (1433 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Este modelo no está disponible con barra de remolque. Por lo tanto, para tirar de un remolque, debes mirar otros modelos.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gen1/trunk_1_st.jpg" title="Porsche Taycan Turbo (GEN1)" width="3000" height="2250"  >}}
 

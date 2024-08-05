@@ -44,7 +44,6 @@ I en teoretisk 1000 km utfordring, med fulladet batteri og en konstant hastighet
 
 Den standard ombordladeren støtter opptil 11 kW for Level 1 og Level 2 AC-lading. Dette gjør at du kan lade batteriet fullt fra 0 til 100% på omtrent 9 timer og 40 minutter med en hjemmelader.
 
-
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/charging_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="2250"  >}}
 
 ### Ladeport
@@ -96,7 +95,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback 
 
 Det er bare ett tak for denne modellen. Standardtaket har panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør at bilens interiør føles romsligere og lysere , som kan forbedre stemningen og komforten til beboeren. Glasset er tonet for å beskytte mot varme fra solen.
 
-
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/exterior_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="1635"  >}}
 
 
@@ -127,7 +125,6 @@ Du kan velge mellom 4 forskjellige materialer/farger for denne setetypen.
 - Black [lærpolstring](../../../../technology/seats/materials/#leatherette)
 - Blue [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 - Beige [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/frontseats_1_st.jpg" title="Fisker Ocean Extreme" width="3000" height="1687"  >}}
 
@@ -174,7 +171,6 @@ Viktige skjermdetaljer:
 - touch-skjermen i midten av midtkonsollen er 17,1 tommer stor
 
 Modellen er ikke tilgjengelig med head-up display.
-
 
 {{< sitefiguresized thumb="models/fisker/ocean/ocean_extreme/screens_1_st.jpg" title="Fisker Ocean Extreme" width="1920" height="1080"  >}}
 

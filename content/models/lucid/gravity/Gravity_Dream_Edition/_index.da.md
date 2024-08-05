@@ -90,7 +90,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er kun ét tag til denne model. Forruden er panoramisk tilbage over første række. Derudover er der glaspanel over anden række. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen.
 
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/exterior_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="1687"  >}}
 
 
@@ -127,7 +126,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 - White [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Brown [Nappa-læderpolstring](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/frontseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 #### Sæde på anden række
@@ -137,7 +135,6 @@ Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 Den anden række har en standard tre-sæders bænk med en 60:40 del, hvor du kan folde hver sektion separat for at øge lastrummet. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/secondrowseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
@@ -182,7 +179,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/screens_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -205,7 +201,6 @@ Modellen har 3 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelse
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/headlights_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="1999"  >}}
 
@@ -246,7 +241,6 @@ Med ADAS  niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 700 liter. Med bagsædet nede er det 3170 liter. På taget kan du laste op til 75 kg (165,3 lbs). Under emhætten er der frunk med mere lagerplads. Denne frunk er på 226 liter (8,0 CU FT). Bilens maksimale vægt er 3280 kg (7231 lbs), og med basisvægten på 2500 kg (5512 lbs), kan du maksimalt laste 780 kg (1720 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2700, og på ubremset er den 750 kg (5952/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/trunk_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2000"  >}}
 

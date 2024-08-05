@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 38 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/charging_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2250"  >}}
 
 ### Laddningsport
@@ -83,7 +82,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [hatchbac
 Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramatak som spänner över de flesta ytor framifrån och bakifrån. Detta glas gör att bilens interiör känns rymligare och ljusare, vilket kan förbättra humör och komfort för den boende. Glaset är tonat för att skydda mot värme från solen.
 
 B-stolpen och vyerna bak är tonade.
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/exterior_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2000"  >}}
 
@@ -162,7 +160,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett standard-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/screens_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2000"  >}}
 
 
@@ -192,7 +189,6 @@ Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/headlights_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2250"  >}}
 
@@ -233,7 +229,6 @@ Med Pilot Assist  nivå 2-systemet får du följande körautomatiseringsfunktion
 Lastkapaciteten i bagageutrymmet är 539 liter. Med baksätet nedfällt är det 1411 liter. På taket kan du lasta upp till 100 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 32 liter. Bilens maximala vikt är 3080 kg, och med basvikten på 2335 kg kan du lasta maximalt 745 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2000, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/trunk_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2001"  >}}
 

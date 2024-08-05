@@ -82,7 +82,6 @@ Bilen har fire [vanlige dører](../../../../technology/doors/) og en [hatchback 
 
 Det er to forskjellige takalternativer å velge mellom. Som ekstrautstyr kan du bestille denne modellen med panoramatak. Glasset strekker seg mesteparten av taket, og passasjerer kan åpne frontdelen. Dette glasset gjør bilens interiøret føles mer romslig og lyst, noe som kan forbedre stemningen og komforten til beboeren. Den har en elektrisk gardin som passasjerene kan bruke for å beskytte mot solen.
 
-
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/exterior_1_st.jpg" title="Volvo EX40 Single Motor ER" width="1920" height="1080"  >}}
 
 
@@ -107,7 +106,6 @@ Følgende funksjoner er tilgjengelige på **** setet.
 - [justerbar lårstøtte](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 
 Du kan velge mellom 1 forskjellige materialer/farger for denne setetypen.
-
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/frontseats_1_st.jpg" title="Volvo EX40 Single Motor ER" width="1920" height="1080"  >}}
 
@@ -154,7 +152,6 @@ Viktige skjermdetaljer:
 
 Modellen er ikke tilgjengelig med head-up display.
 
-
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/screens_1_st.jpg" title="Volvo EX40 Single Motor ER" width="3000" height="2249"  >}}
 
 ## Infotainment
@@ -177,7 +174,6 @@ Du kan velge mellom to typer frontlykter for Volvo EX40 Single Motor ER.
 - Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/headlights_1_st.jpg" title="Volvo EX40 Single Motor ER" width="1080" height="1080"  >}}
 
@@ -218,7 +214,6 @@ Med Pilot Assist  nivå 2-systemet får du følgende kjøreautomatiseringsfunksj
 Lastkapasiteten i bagasjerommet er 419 liter. Med baksetet nede er det 1295 liter. På taket kan du laste opptil 75 kg. Under panseret er det frunk med mer lagringsplass. Denne frunk er på 31 liter. Maksimumsvekten til bilen er 2520 kg, og med basisvekten på 2030 kg kan du maksimalt laste 490 kg, inkludert sjåfør og passasjerer. Noen utstyrsalternativer kan øke basisvekten vekt og reduser maksimal lastevekt.
 
 Du kan bestille bilen med hengerfeste. Maksimal totalvekt på en tilhenger med bremser er 1500, og på ubremset er den 750 kg.
-
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/trunk_1_st.jpg" title="Volvo EX40 Single Motor ER" width="3000" height="2250"  >}}
 

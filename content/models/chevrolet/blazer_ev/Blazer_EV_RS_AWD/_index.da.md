@@ -79,7 +79,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er to forskellige tagmuligheder at vælge imellem. Standardtaget har et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten af beboeren. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen. Som ekstraudstyr kan du bestille denne model med panoramatag, der kan åbnes. Glasset har to paneler. Et over første og anden række, og beboerne kan åbne den forreste del. Den har et elektrisk gardin, som beboerne kan bruge til at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/exterior_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="1928"  >}}
 
 
@@ -108,7 +107,6 @@ Følgende funktioner er tilgængelige på **** sædet.
 Du kan vælge mellem 2 forskellige materialer/farver til denne sædetype.
 - Black [læderbetræk](../../../../technology/seats/materials/#leatherette)
 - Gray [læderbetræk](../../../../technology/seats/materials/#leatherette)
-
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/frontseats_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 
@@ -154,7 +152,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/screens_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 
 
@@ -184,7 +181,6 @@ Modellen har 5 USB-C-forbindelser som standard.
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/headlights_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 
@@ -223,7 +219,6 @@ Med   niveau 2-systemet får du følgende køreautomatiseringsfunktioner.
 Lagekapaciteten i bagagerummet er 863 liter. Med bagsædet nede er det 1676 liter.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 1588, og på ubremset er den 750 kg (3501/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/trunk_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 <div class="mt-3 mb-3">

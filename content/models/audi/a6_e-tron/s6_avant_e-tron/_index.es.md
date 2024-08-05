@@ -44,7 +44,6 @@ En un desafío teórico de 1000 km, comenzando con una batería completa y mante
 
 El cargador a bordo estándar soporta hasta 11 kW para carga AC de Nivel 1 y Nivel 2. Esto permite cargar completamente la batería del 0 al 100% en aproximadamente 8 horas y 37 minutos usando un cargador en casa. Para una carga más rápida, puedes optar por un cargador a bordo opcional que soporta hasta 22 kW. Con esta mejora, puedes lograr una carga completa del 0 al 100% en solo unas 4 horas y 18 minutos en casa.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/charging_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2250"  >}}
 
 ### Puerto de carga
@@ -109,7 +108,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/exterior_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="1999"  >}}
 
 
@@ -145,7 +143,6 @@ Las siguientes funcionalidades están disponibles en el asiento **Sport Plus**.
 - [soporte lumbar eléctrico](../../../../technology/seats/adjustment/#soporte-lumbar)
 - [soporte para muslos ajustable](../../../../technology/seats/adjustment/#thigh-support-adjustment)
 - [masaje](../../../../technology/seats/adjustment/#massage)
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/frontseats_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249"  >}}
 
@@ -197,7 +194,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/screens_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249"  >}}
 
 
@@ -241,7 +237,6 @@ Puedes elegir entre dos tipos de faros para el Audi S6 Avant e-tron.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
 Además, las luces traseras estándar utilizan tecnología LED.
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/headlights_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="1999"  >}}
 
@@ -300,7 +295,6 @@ Hasta cinco [sensores de radar](../../../../technology/sensorsandcameras/radar/)
 La capacidad de carga en el maletero es de 502 litros. Con el asiento trasero abatido, es de 1422 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). Los rieles del techo son opcionales en este modelo. Los rieles del techo facilitan el montaje de un cofre o portaequipajes en el automóvil. Debajo del capó, hay un maletero con más espacio de almacenamiento. Este maletero mide 27 litros (1,0 CU FT). El peso máximo del automóvil es 2880 kg (6349 lbs), y con el peso base de 2335 kg (5148 lbs), puedes cargar como máximo 545 kg (1202 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 2100, y sin freno, es de 750 kg (4630/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/s6_avant_e-tron/trunk_1_st.jpg" title="Audi S6 Avant e-tron" width="3000" height="2249"  >}}
 

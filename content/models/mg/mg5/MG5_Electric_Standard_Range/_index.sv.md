@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 4 timmar och 10 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/charging_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="2001"  >}}
 
 ### Laddningsport
@@ -81,7 +80,6 @@ Du kan välja mellan flera hjuldesigner, alla tillgängliga i samma storlek, på
 
 Det finns bara ett tak för denna modell.
 
-
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/exterior_1_st.jpg" title="MG MG5 Electric Standard Range" width="2560" height="1707"  >}}
 
 
@@ -108,7 +106,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 - Gray [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Black [läderklädsel](../../../../technology/seats/materials/#leatherette)
 
-
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/frontseats_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="2005"  >}}
 
 #### Säten på andra raden
@@ -116,7 +113,6 @@ Du kan välja mellan 3 olika material/färger för denna sitstyp.
 
 
 Den andra raden har en standardbänk med tre sittplatser med en -sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/secondrowseats_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="2004"  >}}
 
@@ -154,7 +150,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch översta mittkonsolen är 10,3 tum
 
 Modellen är inte tillgänglig med head-up display.
-
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/screens_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="2002"  >}}
 
@@ -213,7 +208,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten i bagageutrymmet är 479 liter. Med baksätet nedfällt är det 1367 liter. På taket kan du lasta upp till 75 kg. Bilens maximala vikt är 2017 kg, och med basvikten på 1562 kg kan du lasta maximalt 455 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 500, och på en obromsad är den 500 kg.
-
 
 {{< sitefiguresized thumb="models/mg/mg5/mg5_electric_standard_range/trunk_1_st.jpg" title="MG MG5 Electric Standard Range" width="3000" height="1996"  >}}
 <div class="mt-3 mb-3">

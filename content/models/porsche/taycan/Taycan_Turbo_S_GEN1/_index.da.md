@@ -50,7 +50,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 7 timer og 36 minutter ved brug af en hjemmeoplader. For hurtigere opladning kan du vælge en valgfri ombordlader, der understøtter op til 22 kW. Med denne opgradering kan du opnå en fuld opladning fra 0 til 100% på kun cirka 3 timer og 48 minutter derhjemme.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/charging_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2242"  >}}
 
 ### Ladeport
@@ -102,7 +101,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset for at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/exterior_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2000"  >}}
 
 
@@ -146,7 +144,6 @@ Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valgfrit)
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/frontseats_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2250"  >}}
 
@@ -198,7 +195,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/screens_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -225,7 +221,6 @@ Du kan vælge mellem tre lydsystemer på Porsche Taycan Turbo S (GEN1).
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_s_gen1/headlights_1_st.jpg" title="Porsche Taycan Turbo S (GEN1)" width="3000" height="2298"  >}}
 

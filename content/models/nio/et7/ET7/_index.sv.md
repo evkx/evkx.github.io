@@ -106,7 +106,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 
 Det finns bara ett tak för denna modell. tandardtaket inkluderar ett stort panoramaglastak som sträcker sig från fram till bak, vilket förbättrar interiörens rymliga och ljusa känsla och därmed förbättrar stämningen och komforten för passagerarna. Detta glas är tonat för att skydda mot värme från solen.
 
-
 {{< sitefiguresized thumb="models/nio/et7/et7/exterior_1_st.jpg" title="Nio ET7" width="2880" height="1792"  >}}
 
 
@@ -181,7 +180,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/nio/et7/et7/screens_1_st.jpg" title="Nio ET7" width="1390" height="758"  >}}
 
 
@@ -207,7 +205,6 @@ Modellen har 2 USB-C-anslutningar som standard. Modellen har 2 USB-A-anslutninga
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/nio/et7/et7/headlights_1_st.jpg" title="Nio ET7" width="1200" height="676"  >}}
 

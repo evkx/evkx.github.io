@@ -102,7 +102,6 @@ The car has four [regular doors](../../../../technology/doors/) and a [liftgate]
 
 There are three different roof options to select from. The standard is just a regular roof. As an option, you can order this model with a large panoramic roof extending from the front to the rear. This glass makes the car's interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass is toned to protect against heat from the sun. As an option, you can order this model with a large panoramic roof extending over most of the areas from the front to the rear. This glass makes the car’s interior feel more spacious and bright, which can improve the mood and comfort of the occupant. The glass has an electrochromic function that lets you blend the glass to protect against the sun.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt/exterior_1_st.jpg" title="Porsche Taycan Turbo GT" width="3000" height="1687"  >}}
 
 
@@ -142,7 +141,6 @@ The following functionalities are available on the **Sportsseats Plus** seat.
 - [massage](../../../../technology/seats/adjustment/#massage) (optional)
 
 You can choose from 4 different materials/colors for this seat type.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt/frontseats_1_st.jpg" title="Porsche Taycan Turbo GT" width="3000" height="1687"  >}}
 
@@ -193,7 +191,6 @@ Key screen details:
 - The touch screen in front of the passenger in the dashboard is 10.9 inches large
 
 A head-up display is an optional system that projects speed and other important driver information onto the windshield.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_turbo_gt/screens_1_st.jpg" title="Porsche Taycan Turbo GT" width="3000" height="1687"  >}}
 

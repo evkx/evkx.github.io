@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 22 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 4 timer og 55 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/charging_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="1687"  >}}
 
 ### Ladeport
@@ -139,7 +138,6 @@ Følgende funktioner er tilgængelige på **multicontour** sædet.
 
 Du kan vælge mellem 5 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/frontseats_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="4085"  >}}
 
 #### Sæder på anden række
@@ -157,7 +155,6 @@ Muligheden second er en tre-sædet bænk med en 40:20:40 del, hvor du kan folde 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 - [justering af ryglænets sidestøtte](../../../../technology/seats/adjustment/#backrest-side-bolster-adjustment)
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/secondrowseats_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="2250"  >}}
 
@@ -206,7 +203,6 @@ Vigtige skærmdetaljer:
 - Skærmen  foran passageren i instrumentbrættet er 12,3 tommer stor
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/screens_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="1875"  >}}
 
@@ -290,7 +286,6 @@ Med DRIVE PILOT  niveau 3-systemet får du yderligere køreautomatiseringsfunkti
 Lagekapaciteten i bagagerummet er 610 liter. Med bagsædet nede er det 1770 liter. På taget kan du laste op til 100 kg (220,5 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 3060 kg (6746 lbs), og med basisvægten på 2540 kg (5600 lbs), kan du maksimalt laste 520 kg (1146 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 750, og på ubremset er den 750 kg (1653/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/mercedes/eqs/eqs_500_4matic/trunk_1_st.jpg" title="Mercedes-EQ EQS 500 4MATIC" width="3000" height="2000"  >}}
 

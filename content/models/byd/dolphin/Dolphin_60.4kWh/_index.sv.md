@@ -87,7 +87,6 @@ Det finns bara ett tak för denna modell. Standardtaket har ett stort panoramata
 
 B-stolpen och vyerna bak är tonade.
 
-
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/exterior_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2499" height="1621"  >}}
 
 
@@ -119,7 +118,6 @@ Följande funktioner är tillgängliga på **standard** sätet.
 
 Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
-
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/frontseats_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1579"  >}}
 
 #### Säten på andra raden
@@ -127,7 +125,6 @@ Du kan välja mellan 1 olika material/färger för denna sitstyp.
 
 
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
-
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/secondrowseats_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1623"  >}}
 
@@ -179,7 +176,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/screens_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1550"  >}}
 
 ## Infotainment
@@ -202,7 +198,6 @@ Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/headlights_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1448"  >}}
 
@@ -248,7 +243,6 @@ Med   nivå 1-systemet får du följande körautomationsfunktioner.
 Lastkapaciteten i bagageutrymmet är 345 liter. Med baksätet nedfällt är det 1310 liter. På taket kan du lasta upp till 50 kg. Bilens maximala vikt är 2068 kg, och med basvikten på 1658 kg kan du lasta maximalt 410 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 0, och på en obromsad är den 0 kg.
-
 
 {{< sitefiguresized thumb="models/byd/dolphin/dolphin_60.4kwh/trunk_1_st.jpg" title="BYD Dolphin 60.4kWh" width="2500" height="1776"  >}}
 <div class="mt-3 mb-3">

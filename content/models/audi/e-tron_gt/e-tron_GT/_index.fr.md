@@ -97,7 +97,6 @@ Il existe deux options de toit différentes à choisir. Le toit standard compren
 
 De plus, vous pouvez commander la voiture avec des vitres teintées à partir du pilier B vers l'arrière, ce qui améliore l'intimité et réduit l'éblouissement et la chaleur du soleil, rendant l'intérieur plus confortable pour les passagers. En option, des vitres latérales à double vitrage sont disponibles pour réduire le bruit dans l'habitacle, améliorant ainsi l'expérience de conduite globale.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/exterior_1_st.jpg" title="Audi e-tron GT" width="3000" height="1999"  >}}
 
 
@@ -153,7 +152,6 @@ Les fonctionnalités suivantes sont disponibles sur le siège **sport pro**.
 
 Vous pouvez choisir parmi 4 différents matériaux/couleurs pour ce type de siège.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/frontseats_1_st.jpg" title="Audi e-tron GT" width="3000" height="2249"  >}}
 
 
@@ -193,7 +191,6 @@ Détails clés de l'écran :
 
 Un affichage tête haute est un système un facultatif qui présente la vitesse et d'autres informations importantes sur le conducteur devant le conducteur sur le pare-brise.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/screens_1_st.jpg" title="Audi e-tron GT" width="3000" height="2002"  >}}
 
 ## Infodivertissement
@@ -223,7 +220,6 @@ Vous pouvez choisir entre trois types de phares pour le Audi e-tron GT.
 - Des phares basés sur la technologie LED Matrix avec technologie Laser sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer. et éteindre individuellement pour éteindre les petites zones devant.
 
 De plus, les feux arrière standard utilisent la technologie LED.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/headlights_1_st.jpg" title="Audi e-tron GT" width="3000" height="1999"  >}}
 
@@ -276,7 +272,6 @@ Avec le système Assistantpackage Tour  niveau 2, vous bénéficiez de fonctionn
 La capacité de chargement du coffre est de 405 litres. Sur le toit, vous pouvez charger jusqu'à 75 kg (165,3 lbs). Sous le capot, il y a un coffre avec plus d'espace de stockage. Ce coffre fait 85 litres (3,0 CU FT). Le poids maximum de la voiture est de 2860 kg (6305 lbs), et avec le poids de base de 2340 kg (5159 lbs), vous pouvez charger au maximum 520 kg (1146 lbs), y compris le conducteur et les passagers. Certaines options peuvent augmenter le poids de base et réduire le poids de chargement maximum.
 
 Ce modèle n'est pas disponible avec un attelage. Donc, pour tirer une remorque, il faut regarder d'autres modèles.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/e-tron_gt/trunk_1_st.jpg" title="Audi e-tron GT" width="3000" height="2249"  >}}
 

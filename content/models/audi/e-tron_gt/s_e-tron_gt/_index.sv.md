@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 8 timmar och 49 minuter med en hemmaladdare. För snabbare laddning kan du välja en valfri ombordladdare som stöder upp till 22 kW. Med denna uppgradering kan du uppnå en full laddning från 0 till 100% på bara cirka 4 timmar och 24 minuter hemma.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/charging_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
 ### Laddningsport
@@ -106,7 +105,6 @@ Det finns två olika takalternativ att välja mellan. tandardtaket inkluderar et
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna. Som ett alternativ finns dubbelglasade sidofönster tillgängliga för att minska kabinbuller och förbättra den totala körupplevelsen.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/exterior_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
 
@@ -161,7 +159,6 @@ Följande funktioner är tillgängliga på **sport pro** sätet.
 - [massage](../../../../technology/seats/adjustment/#massage) (valfritt)
 
 Du kan välja mellan 4 olika material/färger för denna sitstyp.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/frontseats_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
@@ -230,7 +227,6 @@ Du kan välja mellan tre typer av strålkastare för Audi S e-tron GT.
 
 Dessutom använder standardbakljusen LED-teknik.
 
-
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/headlights_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2250"  >}}
 
 ## Avancerade förarassistanssystem
@@ -282,7 +278,6 @@ Med Assistantpackage Tour  nivå 2-systemet får du fler körautomatiseringsfunk
 Lastutrymmets kapacitet är 405 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 85 liter. Bilens maximala vikt är 2860 kg, och med basvikten på 2340 kg kan du lasta maximalt 520 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Denna modell är inte tillgänglig med dragkrok. Så för att dra en släpvagn måste du titta på andra modeller.
-
 
 {{< sitefiguresized thumb="models/audi/e-tron_gt/s_e-tron_gt/trunk_1_st.jpg" title="Audi S e-tron GT" width="3000" height="2249"  >}}
 

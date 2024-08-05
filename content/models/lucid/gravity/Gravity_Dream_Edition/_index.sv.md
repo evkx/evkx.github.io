@@ -90,7 +90,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 
 Det finns bara ett tak för denna modell. Vindrutan är en panoramavy bakåt över första raden. Dessutom finns det en glaspanel över andra raden. Detta glas gör att bilens interiör känns rymligare och ljus, vilket kan förbättra humöret och komforten för den åkande. Glaset är tonat för att skydda mot värme från solen.
 
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/exterior_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="1687"  >}}
 
 
@@ -127,7 +126,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 - White [läderklädsel](../../../../technology/seats/materials/#leatherette)
 - Brown [Nappa-läderklädsel](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/frontseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 #### Säten på andra raden
@@ -137,7 +135,6 @@ Du kan välja mellan 4 olika material/färger för denna sitstyp.
 Den andra raden har en standardbänk med tre sittplatser med en 60:40-sektion där du kan fälla varje sektion separat för att öka lastutrymmet. Dessutom är följande funktioner tillgängliga.
 
 - [värme](../../../../technology/seats/adjustment/#uppvärmning)
-
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/secondrowseats_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
@@ -182,7 +179,6 @@ Viktiga skärmdetaljer:
 
 Modellen är inte tillgänglig med head-up display.
 
-
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/screens_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2250"  >}}
 
 ## Infotainment
@@ -205,7 +201,6 @@ Modellen har 3 USB-C-anslutningar som standard. Modellen har 1 USB-A-anslutninga
 Standardlamporna använder LED-teknik.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/headlights_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="1999"  >}}
 
@@ -246,7 +241,6 @@ Med ADAS  nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten i bagageutrymmet är 700 liter. Med baksätet nedfällt är det 3170 liter. På taket kan du lasta upp till 75 kg. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 226 liter. Bilens maximala vikt är 3280 kg, och med basvikten på 2500 kg kan du lasta maximalt 780 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2700, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/lucid/gravity/gravity_dream_edition/trunk_1_st.jpeg" title="Lucid Gravity Dream Edition" width="3000" height="2000"  >}}
 

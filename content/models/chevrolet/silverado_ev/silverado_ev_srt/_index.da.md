@@ -44,7 +44,6 @@ I en teoretisk 1000 km udfordring, der starter med et fuldt batteri og oprethold
 
 Den standard ombordlader understøtter op til 11 kW til Level 1 og Level 2 AC-opladning. Dette gør det muligt at fuldt oplade batteriet fra 0 til 100% på cirka 19 timer og 32 minutter ved brug af en hjemmeoplader.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/charging_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1728"  >}}
 
 ### Ladeport
@@ -84,7 +83,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [bagklap
 
 Der er kun ét tag til denne model.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/exterior_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2000"  >}}
 
 
@@ -121,7 +119,6 @@ Den anden række har en standard tre-sæders bænk med en  del, hvor du kan fold
 
 - højdejusterbar nakkestøtte
 - [heating](../../../../technology/seats/adjustment/#heating)
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/secondrowseats_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
 
@@ -162,7 +159,6 @@ Vigtige skærmdetaljer:
 
 Modellen har ikke et head-up display.
 
-
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/screens_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2001"  >}}
 
 ## Infotainment
@@ -189,7 +185,6 @@ Modellen har 4 USB-C-forbindelser som standard.
 Standardlygterne bruger LED-teknologi.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/headlights_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="2000"  >}}
 
@@ -223,7 +218,6 @@ Med Super Cruise  niveau 1-systemet får du følgende køreautomatiseringsfunkti
 Lastkapaciteten i lastbilens lad er 1039 liter. Ladebredden er 1286 mm, og længden er 1803 mm. Den maksimale lastvægt i lad er 614 kg. Under emhætten er der frunk med mere lagerplads. Denne frunk er på 303 liter (10,7 CU FT). Bilens maksimale vægt er 4763 kg (10501 lbs), og med basisvægten på 4061 kg (8953 lbs), kan du maksimalt laste 702 kg (1548 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 4536, og på ubremset er den 750 kg (10000/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/chevrolet/silverado_ev/silverado_ev_srt/trunk_1_st.jpg" title="Chevrolet Silverado EV SRT" width="3000" height="1864"  >}}
 

@@ -93,7 +93,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_4/exterior_1_st.jpg" title="Porsche Macan 4" width="3000" height="2000"  >}}
 
 
@@ -156,7 +155,6 @@ Den anden række har en standard tre-sæders bænk med en 40:20:40 del, hvor du 
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_4/secondrowseats_1_st.jpg" title="Porsche Macan 4" width="3000" height="2250"  >}}
 
 
@@ -196,7 +194,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/porsche/macan/macan_4/screens_1_st.jpg" title="Porsche Macan 4" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -227,7 +224,6 @@ Du kan vælge mellem to typer forlygter til Porsche Macan 4.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4/headlights_1_st.jpg" title="Porsche Macan 4" width="3000" height="2250"  >}}
 
@@ -280,7 +276,6 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 Lagekapaciteten i bagagerummet er 540 liter. Med bagsædet nede er det 1348 liter. På taget kan du laste op til 75 kg (165,3 lbs). Tagræling er ekstraudstyr på denne model. Tagræling gør det nemt at montere en tagboks eller stativ til bilen. Bilens maksimale vægt er 2920 kg (6437 lbs), og med basisvægten på 2255 kg (4971 lbs), kan du maksimalt laste 665 kg (1466 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Du kan bestille bilen med anhængertræk. Den maksimale totalvægt på en bremset anhænger er 2000, og på ubremset er den 750 kg (4409/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/porsche/macan/macan_4/trunk_1_st.jpg" title="Porsche Macan 4" width="3000" height="2250"  >}}
 

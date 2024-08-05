@@ -86,7 +86,6 @@ Det finns två olika takalternativ att välja mellan. Standardinställningen är
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/exterior_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
 
@@ -121,7 +120,6 @@ Du kan välja mellan 6 olika material/färger för denna sitstyp.
 - Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 - Gray [mikrofiber/läderklädsel](../../../../technology/seats/materials/#microfiber)
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/frontseats_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
 #### Säten på andra raden
@@ -144,7 +142,6 @@ Alternativ third är två kaptensstolar. Dessutom är följande funktioner tillg
 - [ventilation](../../../../technology/seats/adjustment/#ventilation)
 - [passagerarbenstöd](../../../../technology/seats/adjustment/#leg-support)
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/secondrowseats_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
 #### Seter på tredje rad
@@ -152,7 +149,6 @@ Alternativ third är två kaptensstolar. Dessutom är följande funktioner tillg
 
 
 Den tredje raden har en tvåsitsig bänk med en 50:50-delning. Återigen kan du fälla ner sätena när de inte används för att skapa en större lastkapacitet.
-
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/thirdrowseats_1_st.jpg" title="Kia EV9 Long Range AWD" width="1350" height="900"  >}}
 
@@ -193,7 +189,6 @@ Viktiga skärmdetaljer:
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
 
-
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/screens_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
 ## Infotainment
@@ -221,7 +216,6 @@ Modellen har 6 USB-C-anslutningar som standard.
 Standardlyktene bruker LED Matrix-teknologi. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å deaktivere lyse små områder foran.
 
 Dessutom använder standardbakljusen LED-teknik.
-
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/headlights_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 
@@ -266,7 +260,6 @@ Med   nivå 2-systemet får du följande körautomatiseringsfunktioner.
 Lastkapaciteten i bagageutrymmet är 333 liter. Med baksätet nedfällt är det 2393 liter. På taket kan du lasta upp till 100 kg. Takräcke är standard på denna modell, vilket gör det enkelt att montera takboxen eller räcket på bilen. Under huven finns en frunk med mer lagringsutrymme. Denna frunk är 55 liter. Bilens maximala vikt är 3190 kg, och med basvikten på 2637 kg kan du lasta maximalt 553 kg, inklusive förare och passagerare. Vissa utrustningsalternativ kan öka basvikten och minska den maximala lastvikten.
 
 Du kan beställa bilen med släpvagnskoppling. Den maximala totalvikten för en släpvagn med bromsar är 2500, och på en obromsad är den 750 kg.
-
 
 {{< sitefiguresized thumb="models/kia/ev9/ev9_long_range_awd/trunk_1_st.jpg" title="Kia EV9 Long Range AWD" width="3000" height="2000"  >}}
 <div class="mt-3 mb-3">

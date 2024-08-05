@@ -109,7 +109,6 @@ Bilen har fire [almindelige døre](../../../../technology/doors/) og en [liftgat
 
 Der er tre forskellige tagmuligheder at vælge imellem. Standarden er bare et almindeligt tag. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre humøret og komforten for beboeren. Glasset er tonet for at beskytte mod varme fra solen. Som ekstraudstyr kan du bestille denne model med et stort panoramatag, der strækker sig over de fleste områder fra front til bagende. Dette glas får bilens interiør til at føles mere rummeligt og lyst, hvilket kan forbedre stemningen og komforten for beboeren. Glasset har en elektrokrom funktion, der lader dig blande glasset for at beskytte mod solen.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/exterior_1_st.jpg" title="Porsche Taycan" width="3000" height="1687"  >}}
 
 
@@ -165,7 +164,6 @@ Følgende funktioner er tilgængelige på **Sportsseats Plus** sædet.
 
 Du kan vælge mellem 4 forskellige materialer/farver til denne sædetype.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/frontseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1686"  >}}
 
 #### Sæder på anden række
@@ -179,7 +177,6 @@ Muligheden standard er to integrerede sæder i anden række. Derudover er følge
 Muligheden second er to integrerede sæder i anden række med et tredje mindre sæde imellem. Derudover er følgende funktionaliteter tilgængelige.
 
 - [heating](../../../../technology/seats/adjustment/#heating) (valgfrit)
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/secondrowseats_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
 
@@ -220,7 +217,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en valgfri-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/screens_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
 
 ## Infotainment
@@ -250,7 +246,6 @@ Du kan vælge mellem to typer forlygter til Porsche Taycan.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/headlights_1_st.jpg" title="Porsche Taycan" width="3000" height="1688"  >}}
 
@@ -303,7 +298,6 @@ Med Porsche InnoDrive  niveau 2-systemet får du yderligere køreautomatiserings
 Lagekapaciteten i bagagerummet er 407 liter. På taget kan du laste op til 75 kg (165,3 lbs). Bilens maksimale vægt er 2795 kg (6162 lbs), og med basisvægten på 2075 kg (4575 lbs), kan du maksimalt laste 720 kg (1587 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan/trunk_1_st.jpg" title="Porsche Taycan" width="3000" height="2250"  >}}
 

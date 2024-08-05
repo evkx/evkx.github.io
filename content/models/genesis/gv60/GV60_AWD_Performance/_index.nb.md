@@ -87,7 +87,6 @@ Det er to forskjellige takalternativer å velge mellom. Standarden er bare et va
 
 I tillegg kan du bestille bilen med tonede vinduer fra B-stolpen og bakover, noe som forbedrer personvernet og reduserer blending og varme fra solen, noe som gjør interiøret mer komfortabelt for passasjerene.
 
-
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd_performance/exterior_1_st.jpg" title="Genesis GV60 AWD Performance" width="3000" height="2121"  >}}
 
 
@@ -121,7 +120,6 @@ Du kan velge mellom 6 forskjellige materialer/farger for denne setetypen.
 - Gray [skinntrekk](../../../../technology/seats/materials/#leather)
 - Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
 - Gray [polstring av mikrofiber/lær](../../../../technology/seats/materials/#microfiber)
-
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd_performance/frontseats_1_st.jpg" title="Genesis GV60 AWD Performance" width="1500" height="1090"  >}}
 
@@ -166,7 +164,6 @@ Viktige skjermdetaljer:
 
 Et head-up display er tilvalg-system som viser hastighet og annen viktig førerinformasjon foran sjåføren på frontruten.
 
-
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd_performance/screens_1_st.jpg" title="Genesis GV60 AWD Performance" width="3000" height="1796"  >}}
 
 ## Infotainment
@@ -193,7 +190,6 @@ Modellen har 4 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 Standardlyktene bruker LED-teknologi.
 
 I tillegg bruker standard baklykter LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_awd_performance/headlights_1_st.jpg" title="Genesis GV60 AWD Performance" width="1387" height="780"  >}}
 

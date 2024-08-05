@@ -101,7 +101,6 @@ Hay dos opciones de techo diferentes para elegir El estándar es simplemente un 
 
 Además, puedes pedir el coche con ventanas tintadas desde el pilar B hacia atrás, lo que mejora la privacidad y reduce el deslumbramiento y el calor del sol, haciendo que el interior sea más cómodo para los pasajeros.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/exterior_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2000"  >}}
 
 
@@ -140,7 +139,6 @@ Las siguientes funcionalidades están disponibles en el asiento **sport**.
 
 Puedes elegir entre 4 diferentes materiales/colores para este tipo de asiento.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/frontseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2001"  >}}
 
 #### Asientos de la segunda fila
@@ -151,7 +149,6 @@ La opción standard es un banco de tres asientos con una división 60:40 donde p
 
 
 La opción second es un banco de tres asientos con una división 40:20:40 donde puedes plegar cada sección por separado para aumentar el espacio de carga. Además, las siguientes funcionalidades están disponibles.
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/secondrowseats_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2001"  >}}
 
@@ -193,7 +190,6 @@ Detalles clave de la pantalla:
 
 Un head-up display es un sistema un opcional que presenta la velocidad y otra información importante frente al conductor en el parabrisas.
 
-
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/screens_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2001"  >}}
 
 ## Infoentretenimiento
@@ -227,7 +223,6 @@ Además, puedes elegir entre dos tipos de luces traseras.
 
 - lights.taillight.technology.option.led
 - lights.taillight.technology.option.led
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/headlights_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2000"  >}}
 
@@ -281,7 +276,6 @@ Con el sistema Assistantpackage Tour  nivel 2, obtienes funciones de automatizac
 La capacidad de carga en el maletero es de 535 litros. Con el asiento trasero abatido, es de 1460 litros. En el techo, puedes cargar hasta 75 kg (165,3 lbs). El peso máximo del automóvil es 2720 kg (5997 lbs), y con el peso base de 2135 kg (4707 lbs), puedes cargar como máximo 585 kg (1290 lbs), incluidos el conductor y los pasajeros. Algunas opciones pueden aumentar el peso base y reducir el peso máximo de carga.
 
 Puedes pedir el automóvil con una barra de remolque. El peso total máximo en un remolque con freno es 1200, y sin freno, es de 750 kg (2646/1653 lbs).
-
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/trunk_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2000"  >}}
 

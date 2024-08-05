@@ -44,7 +44,6 @@ I en teoretisk 1000 km-utmaning, med en fulladdad batteri och en konstant hastig
 
 Den standard ombordladdaren stöder upp till 11 kW för nivå 1 och nivå 2 AC-laddning. Detta gör det möjligt att ladda batteriet fullt från 0 till 100% på cirka 7 timmar och 20 minuter med en hemmaladdare.
 
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/charging_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 
 ### Laddningsport
@@ -93,7 +92,6 @@ Bilen har fyra [vanliga dörrar](../../../../technology/doors/) och en [liftgate
 Det finns två olika takalternativ att välja mellan. Standardinställningen är bara ett vanligt tak. Som tillval kan du beställa denna modell med taklucka. Glaset sträcker sig bara över första raden och passagerarna kan öppna det. Detta glas gör att bilens interiör känns mer rymlig och ljus, vilket kan förbättra humöret och komforten för den åkande. Den har en elektrisk gardin som passagerarna kan använda för att skydda mot solen.
 
 Dessutom kan du beställa bilen med tonade rutor från B-stolpen och bakåt, vilket förbättrar integriteten och minskar bländning och värme från solen, vilket gör interiören mer bekväm för passagerarna.
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/exterior_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 
@@ -179,7 +177,6 @@ Du kan välja mellan 21 olika material/färger för denna sitstyp.
 - Blue [läderklädsel](../../../../technology/seats/materials/#leather)
 - Black [läderklädsel](../../../../technology/seats/materials/#leather)
 
-
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/frontseats_1_st.jpg" title="BMW i4 M50" width="3000" height="2121"  >}}
 
 #### Säten på andra raden
@@ -223,7 +220,6 @@ Viktiga skärmdetaljer:
 - Skärmen touch på höger sida av den delade ramen är 14,9 tum
 
 En head-up display är ett valfritt-system som visar hastighet och annan viktig körinformation framför föraren på vindrutan.
-
 
 {{< sitefiguresized thumb="models/bmw/i4/i4_m50/screens_1_st.jpg" title="BMW i4 M50" width="3000" height="2001"  >}}
 

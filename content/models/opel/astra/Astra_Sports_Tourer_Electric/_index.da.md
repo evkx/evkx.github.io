@@ -81,7 +81,6 @@ Der er to forskellige tagmuligheder at vælge imellem. Standarden er bare et alm
 
 Derudover kan du bestille bilen med tonede ruder fra B-stolpen og bagud, hvilket forbedrer privatlivet og reducerer blænding og varme fra solen, hvilket gør interiøret mere komfortabelt for passagererne.
 
-
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/exterior_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1685"  >}}
 
 
@@ -156,7 +155,6 @@ Vigtige skærmdetaljer:
 
 Et head-up display er en standard-system, der viser hastighed og andre vigtige føreroplysninger foran føreren på forruden.
 
-
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/screens_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1874"  >}}
 
 ## Infotainment
@@ -183,7 +181,6 @@ Modellen har 3 USB-C-forbindelser som standard.
 Standardlygterne bruger LED Matrix-teknologi. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke individuelt for at deaktivere. lyse små områder foran.
 
 Derudover bruger standardbaglygterne LED-teknologi.
-
 
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/headlights_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1874"  >}}
 
@@ -219,7 +216,6 @@ Med DS Drive Assist  niveau 1-systemet får du følgende køreautomatiseringsfun
 Lagekapaciteten i bagagerummet er 516 liter. Med bagsædet nede er det 1533 liter. På taget kan du laste op til 70 kg (154,3 lbs). Tagræling er standard på denne model, hvilket gør det nemt at montere tagboksen eller stativet til bilen. Bilens maksimale vægt er 2175 kg (4795 lbs), og med basisvægten på 1760 kg (3880 lbs), kan du maksimalt laste 415 kg (915 lbs), inklusive fører og passagerer. Nogle muligheder kan øge basisvægten og reducere den maksimale læssevægt.
 
 Denne model fås ikke med anhængertræk. Så for at trække en trailer skal du se på andre modeller.
-
 
 {{< sitefiguresized thumb="models/opel/astra/astra_sports_tourer_electric/trunk_1_st.jpg" title="Opel Astra Sports Tourer Electric" width="3000" height="1838"  >}}
 

@@ -44,7 +44,6 @@ In a theoretical 1000 km challenge, starting with a full battery and maintaining
 
 The  onboard charger supports up to 11 kW for Level 1 and Level 2 AC charging. This allows you to fully charge the battery from 0 to 100% in approximately 7 hours and 54 minutes using a home charging setup.
 
-
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/charging_1_st.jpg" title="BYD Seal U Design" width="3000" height="1976"  >}}
 
 ### Charge port
@@ -92,7 +91,6 @@ There is only one roof for this model. The standard roof has a panoramic roof. T
 
 The windows from B-pillar and back are tinted, which enhances privacy and reduces glare and heat from the sun, making the interior more comfortable for passengers.
 
-
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/exterior_1_st.jpg" title="BYD Seal U Design" width="1500" height="872"  >}}
 
 
@@ -119,7 +117,6 @@ The following functionalities are available on the **standard** seat.
 
 You can choose from 3 different materials/colors for this seat type.
 
-
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/frontseats_1_st.jpg" title="BYD Seal U Design" width="3000" height="1687"  >}}
 
 #### Second-row seat
@@ -129,7 +126,6 @@ You can choose from 3 different materials/colors for this seat type.
 The second row has a standard three-seat bench with a 60:40 split where you can fold each section separately to increase the cargo space. In addition, the following functionalities are available.
 
 - height adjustable headrest
-
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/secondrowseats_1_st.jpg" title="BYD Seal U Design" width="3000" height="2225"  >}}
 
@@ -170,7 +166,6 @@ Key screen details:
 
 A head-up display is a standard system that projects speed and other important driver information onto the windshield.
 
-
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/screens_1_st.jpg" title="BYD Seal U Design" width="3000" height="1986"  >}}
 
 ## Infotainment
@@ -197,7 +192,6 @@ The model has 3 USB-C connections as standard. The model has 1 USB-A connections
 **Standard Headlights:** These use advanced LED technology, providing bright and efficient illumination.
 
 Standard Taillights use LED technology, ensuring visibility and efficiency.
-
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/headlights_1_st.jpg" title="BYD Seal U Design" width="3000" height="1900"  >}}
 
@@ -244,7 +238,6 @@ With the Smart Pilot  level 2 system, you get the following driving automation f
 The cargo capacity in the trunk is 520 liters. With the rear seat down, it is 1449 liters. The maxium weight of the car is 2501 kg (5514 lbs), and with the base weight of 1900 kg (4189 lbs), you can max load 601 kg (1325 lbs), including driver and passengers. Some options can increase the base weight and reduce the maximum loading weight.
 
 This model is not available with a towbar. So, to pull a trailer, you must look at other models.
-
 
 {{< sitefiguresized thumb="models/byd/seal_u/seal_u_design/trunk_1_st.jpg" title="BYD Seal U Design" width="3000" height="1960"  >}}
 <div class="mt-3 mb-3">
