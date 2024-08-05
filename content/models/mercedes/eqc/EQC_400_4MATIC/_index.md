@@ -159,9 +159,18 @@ A head-up display is an optional system that projects speed and other important 
 
 ## Infotainment
 
-You can choose between three sound systems on the Mercedes-EQ EQC 400 4MATIC. With the Standard, you get seven speakers with a max system output of 100 watts. With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get 13 speakers with a max system output of 590 watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Mercedes-EQ EQC 400 4MATIC supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+### Navigation system
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Phone mirroring
+
+Furthermore, the Mercedes-EQ EQC 400 4MATIC supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+
+### Sound system
+
+You can choose between three sound systems on the Mercedes-EQ EQC 400 4MATIC. With the Standard, you get seven speakers with a max system output of 100 watts. With the Advanced Soundsystem, you get nine speakers with a max system output of 225 watts. With the Burmester Surround Soundsystem, you get 13 speakers with a max system output of 590 watts.
 
 
 ## Lights

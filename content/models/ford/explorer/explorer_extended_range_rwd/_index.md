@@ -184,9 +184,18 @@ A head-up display is an optional system that projects speed and other important 
 
 ## Infotainment
 
-You can choose between two sound systems on the Ford Explorer Extended Range RWD. With the Sound system, you get six speakers with a max system output of 140 watts. With the B&O Soundsystem, you get ten speakers with a max system output of 480 watts.
 
-In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Ford Explorer Extended Range RWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+### Navigation system
+
+With the an optional in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Phone mirroring
+
+Furthermore, the Ford Explorer Extended Range RWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+
+### Sound system
+
+You can choose between two sound systems on the Ford Explorer Extended Range RWD. With the Sound system, you get six speakers with a max system output of 140 watts. With the B&O Soundsystem, you get ten speakers with a max system output of 480 watts.
 
 The model has 4 USB-C connections as standard.
 ## Lights

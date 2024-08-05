@@ -173,9 +173,18 @@ A head-up display is a standard system that projects speed and other important d
 
 ## Infotainment
 
-One type of sound system is available for the Fiat 600e. With the , you get NULL speakers with a max system output of  watts.
 
-In addition, with the optional in-car navigation system, you get the help you need to find your destination. Furthermore, the Fiat 600e supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+### Navigation system
+
+With the an optional in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Phone mirroring
+
+Furthermore, the Fiat 600e supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+
+### Sound system
+
+One type of sound system is available for the Fiat 600e. With the , you get NULL speakers with a max system output of  watts.
 
 The model has 3 USB-A connections as standard.
 ## Lights

@@ -202,9 +202,14 @@ This model has an optional voice control system. The voice control lets you cont
 
 ## Infotainment
 
-One type of sound system is available for the Nio EL7. With the Premium sound system, you get 23 speakers with a max system output of  watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination.
+### Navigation system
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Sound system
+
+One type of sound system is available for the Nio EL7. With the Premium sound system, you get 23 speakers with a max system output of  watts.
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 ## Lights

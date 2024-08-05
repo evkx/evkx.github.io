@@ -198,9 +198,14 @@ The model does not have a head-up display.
 
 ## Infotainment
 
-One type of sound system is available for the Lucid Gravity Dream Edition. With the Surreal Sound Pro System, you get 22 speakers with a max system output of  watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination.
+### Navigation system
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Sound system
+
+One type of sound system is available for the Lucid Gravity Dream Edition. With the Surreal Sound Pro System, you get 22 speakers with a max system output of  watts.
 
 The model has 3 USB-C connections as standard. The model has 1 USB-A connections as standard.
 ## Lights

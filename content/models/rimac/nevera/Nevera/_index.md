@@ -177,9 +177,18 @@ The model does not have a head-up display.
 
 ## Infotainment
 
-One type of sound system is available for the Rimac Nevera. With the Rimac Nevera Sound System, you get eight speakers with a max system output of 1200 watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Rimac Nevera supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+### Navigation system
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Phone mirroring
+
+Furthermore, the Rimac Nevera supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+
+### Sound system
+
+One type of sound system is available for the Rimac Nevera. With the Rimac Nevera Sound System, you get eight speakers with a max system output of 1200 watts.
 
 
 ## Lights

@@ -211,9 +211,18 @@ A head-up display is an optional system that projects speed and other important 
 
 ## Infotainment
 
-You can choose between two sound systems on the Kia EV9 GT-Line AWD. With the Standard, you get six speakers with a max system output of  watts. With the Meridian Premium Sound System, you get 14 speakers with a max system output of  watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Kia EV9 GT-Line AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+### Navigation system
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Phone mirroring
+
+Furthermore, the Kia EV9 GT-Line AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+
+### Sound system
+
+You can choose between two sound systems on the Kia EV9 GT-Line AWD. With the Standard, you get six speakers with a max system output of  watts. With the Meridian Premium Sound System, you get 14 speakers with a max system output of  watts.
 
 The model has 6 USB-C connections as standard.
 ## Lights

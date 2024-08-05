@@ -26,7 +26,6 @@ We've divided the article into specific sections for easier navigation. Click th
 - [Advanced driver-assistance systems](#advanced-driver-assistance-systems)
 - [Cargo Capacity and Towing Ability](#cargo-capacity-and-towing-ability)
 
-
 ## Performance
 
 The Audi A6 Sportback e-tron performance delivers a solid performance with a maximum power of 270 kW (367 hp / 362 bhp) and a total torque of 565 Nm (417 lb-ft). It can accelerate from 0 to 100 km/h (0 to 62 mph) in 5.4 seconds and reaches a top speed of 210 km/h (131 mph), making it competitive within its class.
@@ -48,7 +47,6 @@ The standard onboard charger supports up to 11 kW for Level 1 and Level 2 AC cha
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/charging_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2250"  >}}
 
-
 ### Charge port
 
 The location of the charge port is on the [left rear side](../../../../technology/charging/connectors/#rear-side). This location makes it easy to use charge stations where you need to back up into the charger. Connector types vary by market: this model uses [**CCS Combo 1**](../../../../technology/charging/connectors/#ccs) in North America and [**CCS Combo 2**](../../../../technology/charging/connectors/#ccs) in Europe. For complete specifications for all markets, refer to the full specifications. Additionally, a second port on the [right rear side](../../../../technology/charging/connectors/#front-side) offers greater flexibility for AC charging. The connector types vary between the different markets. This model uses [**J1772**](../../../../technology/charging/connectors/#j1772) for North America and for Europe, [**TYPE2**](../../../../technology/charging/connectors/#type-2). For complete specifications for all markets, refer to the full specifications.
@@ -56,11 +54,9 @@ The location of the charge port is on the [left rear side](../../../../technolog
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Drivetrain
 
 Audi A6 Sportback e-tron performance has a rear-wheel drive system supported by one motor on the rear axle. The motor used are [Permanent Magnet Synchronous Motors](../../../../technology/motors/pmsm/).
-
 
 ### Suspension
 
@@ -84,11 +80,9 @@ The Audi A6 Sportback e-tron performance lets the user select different [drive m
 - Balanced: Balanced steering, adaptive suspension height with balanced throttle, and adaptive suspension damping.
 - Individual: Custom-defined steering, suspension, and throttle response.
 
-
 ### Brakes
 
 The rear and front brakes are [cast-iron discs](../../../../technology/brakes/#disc-brakes). The front discs are 350mm, and the rear discs are 350mm.
-
 
 ### Regenerative braking
 
@@ -125,7 +119,6 @@ Additionally, you can order the car with tinted windows from the B-pillar backwa
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## Interior
 
 The Audi A6 Sportback e-tron performance features a driver-focused interior that enhances the cockpit feel, surrounded by premium materials used in all key areas. It also includes a traditional center console that separates the driver and passenger, providing convenient storage and functionality.
@@ -158,7 +151,6 @@ The following functionalities are available on the **Sport Plus** seat.
 
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_sportback_e-tron_performance/frontseats_1_st.jpg" title="Audi A6 Sportback e-tron performance" width="3000" height="2249"  >}}
-
 
 #### Second-row seat
 
@@ -198,7 +190,6 @@ The Audi A6 Sportback e-tron performance includes several features to enhance co
 {{<evkxdisplayaddarticle />}}
 
 
-
 ## User interface and control
 
 The control interface for this EV model includes an intuitive combination of buttons, stalks, and screens, providing a seamless and user-friendly interaction experience.
@@ -217,11 +208,30 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
+The Audi A6 Sportback e-tron performance features an advanced infotainment system built on the Android Automotive OS, a platform by Google specifically designed for vehicle dashboards. Enhancing this robust system, Audi has integrated their own suite of applications, providing seamless navigation, comprehensive car settings, and much more.
+
+### Navigation system
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### App store
+
+In the infotainment systemet there is a App Store where you can download ThirdParty apps to run nativly in the cars screen without any phone connected. There might be differences depending on market but some of the apps are:
+
+- **Spotify**
+- **TIDAL**
+- **YouTube**
+
+### Phone mirroring
+
+Furthermore, the Audi A6 Sportback e-tron performance supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+
+### Sound system
+
 You can choose between two sound systems on the Audi A6 Sportback e-tron performance. With the Audi Sound System, you get five speakers with a max system output of 200 watts. With the Bang & Olufsen Sound System, you get 20 speakers with a max system output of 830 watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Audi A6 Sportback e-tron performance supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
-
 The model has 2 USB-C connections as standard. As an option, you can get additional 2 USB-C connections.
+
 ## Lights
 
 You can choose between two types of headlights for the Audi A6 Sportback e-tron performance. The standard headlights use LED technology. Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front. In addition, the standard taillights use LED technology.
@@ -234,6 +244,7 @@ You can choose between two types of headlights for the Audi A6 Sportback e-tron 
 The Audi A6 Sportback e-tron performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.
 
 [**Efficiency Assist**](../../../../technology/driverassistance/efficencyassist/) is a standard system that helps drivers to drive preemptively and save energy.
+
 ### Safety systems
 
 
@@ -276,7 +287,6 @@ This model uses cameras, radar, and ultrasonic sensors for the driver assist sys
 Up to five [radar sensors](../../../../technology/sensorsandcameras/radar/), five [cameras](../../../../technology/sensorsandcameras/cameras/), and 12 [ultrasonic sensors](../../../../technology/sensorsandcameras/ultrasonic/) register everything that happens in the vehicle's environment.
 
 {{<evkxdisplayaddarticle />}}
-
 
 
 ## Cargo Capacity and Towing Ability

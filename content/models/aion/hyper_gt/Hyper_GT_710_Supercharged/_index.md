@@ -181,6 +181,9 @@ The model does not have a head-up display.
 
 ## Infotainment
 
+
+### Sound system
+
 One type of sound system is available for the Aion Hyper GT 710 Supercharged. With the , you get 23 speakers with a max system output of  watts.
 
 The model has 1 USB-C connections as standard.

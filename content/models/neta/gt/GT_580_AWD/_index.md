@@ -170,6 +170,9 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
+
+### Sound system
+
 One type of sound system is available for the Neta GT 580 AWD. With the Neta Sky sound, you get 12 speakers with a max system output of  watts.
 
 The model has 1 USB-C connections as standard. The model has 1 USB-A connections as standard.

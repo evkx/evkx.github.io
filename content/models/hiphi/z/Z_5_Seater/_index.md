@@ -187,6 +187,9 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
+
+### Sound system
+
 One type of sound system is available for the HiPhi Z 5 Seater. With the SONIC PRO SYSTEM, you get 23 speakers with a max system output of 600 watts.
 
 The model has 1 USB-C connections as standard. As an option, you can get additional 2 USB-C connections. The model has 1 USB-A connections as standard. As an option, you can get additional 2 USB-C connections.

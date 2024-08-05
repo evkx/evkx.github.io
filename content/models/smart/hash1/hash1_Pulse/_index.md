@@ -170,9 +170,14 @@ A head-up display is a standard system that projects speed and other important d
 
 ## Infotainment
 
-One type of sound system is available for the Smart #1 Pulse. With the Yamaha surround sound system, you get 13 speakers with a max system output of 1040 watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination.
+### Navigation system
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Sound system
+
+One type of sound system is available for the Smart #1 Pulse. With the Yamaha surround sound system, you get 13 speakers with a max system output of 1040 watts.
 
 The model has 4 USB-C connections as standard.
 ## Lights

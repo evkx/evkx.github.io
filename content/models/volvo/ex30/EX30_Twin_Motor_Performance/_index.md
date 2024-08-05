@@ -174,9 +174,14 @@ The model does not have a head-up display.
 
 ## Infotainment
 
-You can choose between two sound systems on the Volvo EX30 Twin Motor Performance. With the High Performance, you get eight speakers with a max system output of 200 watts. With the Harman Kardon Premium Sound, you get 13 speakers with a max system output of 1040 watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination.
+### Navigation system
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Sound system
+
+You can choose between two sound systems on the Volvo EX30 Twin Motor Performance. With the High Performance, you get eight speakers with a max system output of 200 watts. With the Harman Kardon Premium Sound, you get 13 speakers with a max system output of 1040 watts.
 
 The model has 4 USB-C connections as standard.
 ## Lights

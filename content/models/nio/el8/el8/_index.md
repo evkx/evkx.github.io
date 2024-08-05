@@ -218,9 +218,14 @@ This model has an optional voice control system. The voice control lets you cont
 
 ## Infotainment
 
-You can choose between two sound systems on the Nio EL8. With the Surroundsystem, you get seven speakers with a max system output of  watts. With the Premium sound system, you get 12 speakers with a max system output of  watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination.
+### Navigation system
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Sound system
+
+You can choose between two sound systems on the Nio EL8. With the Surroundsystem, you get seven speakers with a max system output of  watts. With the Premium sound system, you get 12 speakers with a max system output of  watts.
 
 The model has 3 USB-A connections as standard.
 ## Lights

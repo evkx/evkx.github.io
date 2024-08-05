@@ -204,9 +204,18 @@ A head-up display is an optional system that projects speed and other important 
 
 ## Infotainment
 
-You can choose between three sound systems on the BMW i5 eDrive40. With the Hifi Sound system, you get six speakers with a max system output of 100 watts. With the Harman Kardon Surround Sound system, you get 12 speakers with a max system output of 205 watts. With the Bower & Wilkins Surround System, you get 18 speakers with a max system output of 655 watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the BMW i5 eDrive40 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+### Navigation system
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Phone mirroring
+
+Furthermore, the BMW i5 eDrive40 supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+
+### Sound system
+
+You can choose between three sound systems on the BMW i5 eDrive40. With the Hifi Sound system, you get six speakers with a max system output of 100 watts. With the Harman Kardon Surround Sound system, you get 12 speakers with a max system output of 205 watts. With the Bower & Wilkins Surround System, you get 18 speakers with a max system output of 655 watts.
 
 The model has 6 USB-C connections as standard.
 ## Lights

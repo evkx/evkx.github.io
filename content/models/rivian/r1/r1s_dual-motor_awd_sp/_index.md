@@ -186,9 +186,14 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-One type of sound system is available for the Rivian R1S Dual-Motor AWD SP. With the Rivian Elevation audio system, you get 22 speakers with a max system output of 1100 watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination.
+### Navigation system
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Sound system
+
+One type of sound system is available for the Rivian R1S Dual-Motor AWD SP. With the Rivian Elevation audio system, you get 22 speakers with a max system output of 1100 watts.
 
 The model has 6 USB-C connections as standard.
 ## Lights

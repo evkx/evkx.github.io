@@ -181,6 +181,9 @@ A head-up display is a standard system that projects speed and other important d
 
 ## Infotainment
 
+
+### Sound system
+
 You can choose between two sound systems on the Polestar 3 Long Range Dual Motor Performance. With the High Performance, you get eight speakers with a max system output of 200 watts. With the Bowers & Wilkins, you get 25 speakers with a max system output of 1610 watts.
 
 The model has 4 USB-C connections as standard.

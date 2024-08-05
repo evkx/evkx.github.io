@@ -168,9 +168,18 @@ A head-up display is an optional system that projects speed and other important 
 
 ## Infotainment
 
-One type of sound system is available for the Hyundai Ioniq 5 N. With the Bose Premium Sound System, you get eight speakers with a max system output of  watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Hyundai Ioniq 5 N supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+### Navigation system
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Phone mirroring
+
+Furthermore, the Hyundai Ioniq 5 N supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+
+### Sound system
+
+One type of sound system is available for the Hyundai Ioniq 5 N. With the Bose Premium Sound System, you get eight speakers with a max system output of  watts.
 
 The model has 4 USB-C connections as standard. The model has 1 USB-A connections as standard.
 ## Lights

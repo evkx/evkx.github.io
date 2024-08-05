@@ -178,9 +178,14 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-One type of sound system is available for the XPENG G6 AWD Performance. With the , you get 18 speakers with a max system output of 1200 watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination.
+### Navigation system
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Sound system
+
+One type of sound system is available for the XPENG G6 AWD Performance. With the , you get 18 speakers with a max system output of 1200 watts.
 
 The model has 4 USB-C connections as standard.
 ## Lights

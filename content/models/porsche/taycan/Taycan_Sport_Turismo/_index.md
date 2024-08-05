@@ -243,9 +243,18 @@ A head-up display is an optional system that projects speed and other important 
 
 ## Infotainment
 
-You can choose between three sound systems on the Porsche Taycan Sport Turismo. With the Porsche Sound system, you get ten speakers with a max system output of 150 watts. With the  BOSE® Surround Sound System, you get 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 speakers with a max system output of 1455 watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Porsche Taycan Sport Turismo supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+### Navigation system
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Phone mirroring
+
+Furthermore, the Porsche Taycan Sport Turismo supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+
+### Sound system
+
+You can choose between three sound systems on the Porsche Taycan Sport Turismo. With the Porsche Sound system, you get ten speakers with a max system output of 150 watts. With the  BOSE® Surround Sound System, you get 14 speakers with a max system output of 710 watts. With the  Burmester® 3D High-End Surround Sound System, you get 21 speakers with a max system output of 1455 watts.
 
 
 ## Lights

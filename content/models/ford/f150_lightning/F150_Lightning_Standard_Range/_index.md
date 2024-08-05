@@ -182,9 +182,18 @@ The model does not have a head-up display.
 
 ## Infotainment
 
-You can choose between three sound systems on the Ford F150 Lightning Standard Range. With the Ford, you get four speakers with a max system output of 80 watts. With the B&O Sound System, you get eight speakers with a max system output of 640 watts. With the B&O Unleashed Sound System, you get 18 speakers with a max system output of 1080 watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Ford F150 Lightning Standard Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+### Navigation system
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Phone mirroring
+
+Furthermore, the Ford F150 Lightning Standard Range supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+
+### Sound system
+
+You can choose between three sound systems on the Ford F150 Lightning Standard Range. With the Ford, you get four speakers with a max system output of 80 watts. With the B&O Sound System, you get eight speakers with a max system output of 640 watts. With the B&O Unleashed Sound System, you get 18 speakers with a max system output of 1080 watts.
 
 
 ## Lights

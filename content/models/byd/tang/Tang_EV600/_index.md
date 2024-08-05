@@ -188,9 +188,14 @@ The model does not have a head-up display.
 
 ## Infotainment
 
-You can choose between two sound systems on the BYD Tang EV600. With the Surroundsystem, you get seven speakers with a max system output of  watts. With the Premium sound system, you get 12 speakers with a max system output of  watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination.
+### Navigation system
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Sound system
+
+You can choose between two sound systems on the BYD Tang EV600. With the Surroundsystem, you get seven speakers with a max system output of  watts. With the Premium sound system, you get 12 speakers with a max system output of  watts.
 
 The model has 4 USB-A connections as standard.
 ## Lights

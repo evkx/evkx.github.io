@@ -190,9 +190,14 @@ The model does not have a head-up display.
 
 ## Infotainment
 
-You can choose between two sound systems on the Cadillac ESCALADE IQ. With the AKG Studio audi System, you get 19 speakers with a max system output of 1000 watts. With the AKG Studio Reference System, you get 40 speakers with a max system output of 1000 watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination.
+### Navigation system
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Sound system
+
+You can choose between two sound systems on the Cadillac ESCALADE IQ. With the AKG Studio audi System, you get 19 speakers with a max system output of 1000 watts. With the AKG Studio Reference System, you get 40 speakers with a max system output of 1000 watts.
 
 The model has 2 USB-C connections as standard. The model has 2 USB-A connections as standard.
 ## Lights

@@ -180,9 +180,18 @@ This model comes equipped with voice control as standard, allowing you to manage
 
 ## Infotainment
 
-One type of sound system is available for the Honda Prologue AWD. With the Bose premium audio system, you get 12 speakers with a max system output of  watts.
 
-In addition, with the standard in-car navigation system, you get the help you need to find your destination. Furthermore, the Honda Prologue AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+### Navigation system
+
+With the a standard in-car navigation system, you have all the assistance you need to reach your destination effortlessly.
+
+### Phone mirroring
+
+Furthermore, the Honda Prologue AWD supports Android Auto and Apple CarPlay. This functionality allows you to present your phone's screen in the car's screen so you can run apps like Google Maps or Waze.
+
+### Sound system
+
+One type of sound system is available for the Honda Prologue AWD. With the Bose premium audio system, you get 12 speakers with a max system output of  watts.
 
 The model has 5 USB-C connections as standard.
 ## Lights

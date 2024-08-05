@@ -181,6 +181,9 @@ The model does not have a head-up display.
 
 ## Infotainment
 
+
+### Sound system
+
 You can choose between two sound systems on the Polestar 2 Long Range Single Motor. With the High Performance, you get eight speakers with a max system output of 200 watts. With the Harman Kardon Premium Sound, you get 13 speakers with a max system output of 600 watts.
 
 The model has 4 USB-C connections as standard.
