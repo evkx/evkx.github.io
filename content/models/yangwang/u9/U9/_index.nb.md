@@ -178,9 +178,9 @@ I tillegg støtter YangWang U9 Android Auto og Apple CarPlay. Denne funksjonalit
 
 ## Lys
 
-Standardlyktene bruker LED-teknologi.
+**Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
 
-I tillegg bruker standard baklykter LED-teknologi.
+Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 {{< sitefiguresized thumb="models/yangwang/u9/u9/headlights_1_st.jpg" title="YangWang U9" width="3000" height="2250"  >}}
 

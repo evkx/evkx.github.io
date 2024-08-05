@@ -193,10 +193,10 @@ Modellen har 3 USB-C-tilkoblinger som standard. Modellen har 1 USB-A-tilkoblinge
 
 Du kan velge mellom to typer frontlykter for BMW iX3.
 
-- Standardlyktene bruker LED-teknologi.
-- Hovedlys basert på LED Matrix med Laser-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltlysstrålen i dusinvis av mindre stråler som lyskontrolleren kan slå på og av individuelt for å avlyse små områder foran.
+- **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
+- **LED Matrix frontlykter med laserteknologi:** Også tilgjengelig som et alternativ, disse frontlyktene kombinerer de adaptive egenskapene til LED Matrix-systemet med laserteknologi for forbedret lysstyrke og rekkevidde, noe som gir overlegen belysning og sikkerhet.
 
-I tillegg bruker standard baklykter LED-teknologi.
+Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 ## Avanserte førerassistentsystemer
 

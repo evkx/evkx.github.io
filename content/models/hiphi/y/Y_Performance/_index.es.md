@@ -189,9 +189,9 @@ El modelo tiene 4 conexiones USB-C de serie.
 
 ## Luces
 
-Los faros estándar utilizan tecnología LED.
+**Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
 
-Además, las luces traseras estándar utilizan tecnología LED.
+Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
 
 {{< sitefiguresized thumb="models/hiphi/y/y_performance/headlights_1_st.jpg" title="HiPhi Y Performance" width="3000" height="1882"  >}}
 

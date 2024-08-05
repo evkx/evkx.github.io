@@ -194,9 +194,9 @@ Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 
 ## Lys
 
-Standardlyktene bruker LED-teknologi.
+**Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
 
-I tillegg bruker standard baklykter LED-teknologi.
+Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 {{< sitefiguresized thumb="models/fiat/grande_panda/grande_panda/headlights_1_st.jpg" title="Fiat Grande Panda" width="3000" height="2000"  >}}
 

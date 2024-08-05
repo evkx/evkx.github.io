@@ -163,9 +163,9 @@ Un tipo de sistema de sonido está disponible para el Mini Cooper SE.
 
 ## Luces
 
-Los faros estándar utilizan tecnología LED.
+**Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
 
-Además, las luces traseras estándar utilizan tecnología LED.
+Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
 
 {{< sitefiguresized thumb="models/mini/cooper/cooper_se/headlights_1_st.jpg" title="Mini Cooper SE" width="3000" height="2000"  >}}
 

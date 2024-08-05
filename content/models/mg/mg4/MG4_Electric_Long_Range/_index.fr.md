@@ -175,9 +175,9 @@ Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 1 co
 
 ## Lumières
 
-Les phares standards utilisent la technologie LED.
+**Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
 
-De plus, les feux arrière standard utilisent la technologie LED.
+Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 
 {{< sitefiguresized thumb="models/mg/mg4/mg4_electric_long_range/headlights_1_st.jpg" title="MG MG4 Electric Long Range" width="3000" height="2000"  >}}
 

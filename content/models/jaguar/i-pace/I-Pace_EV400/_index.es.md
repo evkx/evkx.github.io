@@ -214,10 +214,10 @@ Puedes elegir entre dos sistemas de sonido en el Jaguar I-Pace EV400.
 
 Puedes elegir entre dos tipos de faros para el Jaguar I-Pace EV400.
 
-- Los faros estándar utilizan tecnología LED.
-- Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
+- **Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
+- **Faros LED Matrix:** Disponibles como una opción, este sistema adaptativo divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente, optimizando la iluminación al atenuar áreas específicas al frente.
 
-Además, las luces traseras estándar utilizan tecnología LED.
+Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
 
 {{< sitefiguresized thumb="models/jaguar/i-pace/i-pace_ev400/headlights_1_st.jpg" title="Jaguar I-Pace EV400" width="3000" height="2000"  >}}
 

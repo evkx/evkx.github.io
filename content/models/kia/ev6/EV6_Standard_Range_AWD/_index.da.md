@@ -192,9 +192,9 @@ Modellen har 4 USB-C-forbindelser som standard. Modellen har 1 USB-A-forbindelse
 
 ## Lys
 
-Standardlygterne bruger LED-teknologi.
+**Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
 
-Derudover bruger standardbaglygterne LED-teknologi.
+Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 
 {{< sitefiguresized thumb="models/kia/ev6/ev6_standard_range_awd/headlights_1_st.jpg" title="Kia EV6 Standard Range AWD" width="3000" height="2000"  >}}
 

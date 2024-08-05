@@ -178,9 +178,9 @@ Modellen har 5 USB-C-anslutningar som standard.
 
 ## Ljus
 
-Standardlamporna använder LED-teknik.
+**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
 
-Dessutom använder standardbakljusen LED-teknik.
+Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
 {{< sitefiguresized thumb="models/chevrolet/blazer_ev/blazer_ev_rs_awd/headlights_1_st.jpg" title="Chevrolet Blazer EV RS AWD" width="3000" height="2001"  >}}
 

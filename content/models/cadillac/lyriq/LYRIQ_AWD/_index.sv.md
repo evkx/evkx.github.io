@@ -180,9 +180,9 @@ Modellen har 5 USB-C-anslutningar som standard.
 
 ## Ljus
 
-Standardlamporna använder LED-teknik.
+**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
 
-Dessutom använder standardbakljusen LED-teknik.
+Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
 {{< sitefiguresized thumb="models/cadillac/lyriq/lyriq_awd/headlights_1_st.jpg" title="Cadillac LYRIQ AWD" width="3000" height="1973"  >}}
 

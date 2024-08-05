@@ -186,9 +186,9 @@ Du kan välja mellan tre ljudsystem på Ford F150 Lightning Extended Range.
 
 ## Ljus
 
-Standardlamporna använder LED-teknik.
+**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
 
-Dessutom använder standardbakljusen LED-teknik.
+Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
 {{< sitefiguresized thumb="models/ford/f150_lightning/f150_lightning_extended_range/headlights_1_st.jpg" title="Ford F150 Lightning Extended Range" width="3000" height="1687"  >}}
 

@@ -186,9 +186,9 @@ Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 co
 
 ## Lumières
 
-Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre individuellement pour un- éclairer de petites zones devant.
+Les phares standard utilisent la technologie LED Matrix. LED Matrix est un système adaptatif qui divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement pour atténuer les petites zones à l'avant.
 
-De plus, les feux arrière standard utilisent la technologie LED.
+Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 
 {{< sitefiguresized thumb="models/zeekr/001/001_performance_awd/headlights_1_st.jpg" title="Zeekr 001 Performance AWD" width="3000" height="2250"  >}}
 

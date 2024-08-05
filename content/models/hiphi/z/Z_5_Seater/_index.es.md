@@ -182,9 +182,9 @@ El modelo tiene 1 conexiones USB-C de serie. Como opción, puedes obtener 2 cone
 
 ## Luces
 
-Los faros estándar utilizan tecnología LED.
+**Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
 
-Además, las luces traseras estándar utilizan tecnología LED.
+Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
 
 {{< sitefiguresized thumb="models/hiphi/z/z_5_seater/headlights_1_st.jpg" title="HiPhi Z 5 Seater" width="3000" height="1467"  >}}
 

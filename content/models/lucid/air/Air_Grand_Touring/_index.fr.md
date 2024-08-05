@@ -189,9 +189,9 @@ Le modèle dispose de 3 connexions USB-C en standard. Le modèle dispose de 1 co
 
 ## Lumières
 
-Les phares standards utilisent la technologie LED.
+**Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
 
-De plus, les feux arrière standard utilisent la technologie LED.
+Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 
 {{< sitefiguresized thumb="models/lucid/air/air_grand_touring/headlights_1_st.jpg" title="Lucid Air Grand Touring" width="3000" height="2001"  >}}
 

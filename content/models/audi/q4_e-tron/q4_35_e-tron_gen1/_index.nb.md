@@ -213,13 +213,13 @@ Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 
 Du kan velge mellom to typer frontlykter for Audi Q4 35 e-tron (GEN1).
 
-- Standardlyktene bruker LED-teknologi.
-- Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
+- **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
+- **LED Matrix frontlykter:** Tilgjengelig som et alternativ, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt, og optimaliserer belysningen ved å dempe spesifikke små områder foran.
 
-I tillegg kan du velge mellom to typer baklys.
+I tillegg har du to alternativer for baklykter:
 
-- lights.taillight.technology.option.led
-- lights.taillight.technology.option.led
+- De valgfrie baklyktene bruker LED-teknologi.
+- De valgfrie baklyktene bruker LED-teknologi.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_35_e-tron_gen1/headlights_1_st.jpg" title="Audi Q4 35 e-tron (GEN1)" width="3000" height="2003"  >}}
 

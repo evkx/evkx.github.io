@@ -190,9 +190,9 @@ Le modèle dispose de 4 connexions USB-C en standard. Le modèle dispose de 1 co
 
 ## Lumières
 
-Les phares standards utilisent la technologie LED.
+**Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
 
-De plus, les feux arrière standard utilisent la technologie LED.
+Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 
 {{< sitefiguresized thumb="models/genesis/gv60/gv60_2wd/headlights_1_st.jpg" title="Genesis GV60 2WD" width="1387" height="780"  >}}
 

@@ -237,11 +237,11 @@ El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 cone
 
 Puedes elegir entre tres tipos de faros para el Audi SQ8 Sportback e-tron.
 
-- Los faros estándar utilizan tecnología LED.
-- Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
-- Los faros basados en tecnología LED Digital Matrix están disponibles como opción.
+- **Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
+- **Faros LED Matrix:** Disponibles como una opción, este sistema adaptativo divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente, optimizando la iluminación al atenuar áreas específicas al frente.
+- Los faros basados en tecnología LED Digital Matrix están disponibles como una opción.
 
-Además, las luces traseras estándar utilizan tecnología LED.
+Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
 
 {{< sitefiguresized thumb="models/audi/q8_e-tron/sq8_sportback_e-tron/headlights_1_st.jpg" title="Audi SQ8 Sportback e-tron" width="3000" height="1999"  >}}
 

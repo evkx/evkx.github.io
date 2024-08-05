@@ -248,10 +248,10 @@ Du kan velge mellom tre lydsystemer på Porsche Taycan 4S Sport Turismo (GEN1).
 
 Du kan velge mellom to typer frontlykter for Porsche Taycan 4S Sport Turismo (GEN1).
 
-- Standardlyktene bruker LED-teknologi.
-- Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
+- **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
+- **LED Matrix frontlykter:** Tilgjengelig som et alternativ, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt, og optimaliserer belysningen ved å dempe spesifikke små områder foran.
 
-I tillegg bruker standard baklykter LED-teknologi.
+Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 {{< sitefiguresized thumb="models/porsche/taycan/taycan_4s_sport_turismo_gen1/headlights_1_st.jpg" title="Porsche Taycan 4S Sport Turismo (GEN1)" width="3000" height="2000"  >}}
 

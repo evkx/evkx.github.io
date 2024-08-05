@@ -247,10 +247,10 @@ Modellen har 4 USB-C-anslutningar som standard.
 
 Du kan välja mellan två typer av strålkastare för BMW i4 M50.
 
-- Standardlamporna använder LED-teknik.
-- Strålkastare baserade på LED Matrix med laserteknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkla ljusstrålen i dussintals mindre strålar som ljusregulatorn kan slå på och av individuellt för att avbryta små ytor framför.
+- **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+- **LED Matrix strålkastare med laserteknik:** Finns också som ett alternativ, dessa strålkastare kombinerar de adaptiva egenskaperna hos LED Matrix-systemet med laserteknik för förbättrad ljusstyrka och räckvidd, vilket ger överlägsen belysning och säkerhet.
 
-Dessutom använder standardbakljusen LED-teknik.
+Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
 ## Avancerade förarassistanssystem
 

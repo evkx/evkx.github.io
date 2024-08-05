@@ -219,13 +219,13 @@ Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få yt
 
 Du kan välja mellan två typer av strålkastare för Audi Q4 45 e-tron quattro (GEN1).
 
-- Standardlamporna använder LED-teknik.
-- Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
+- **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+- **LED Matrix strålkastare:** Finns som ett alternativ, detta adaptiva system delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
 
-Dessutom kan du välja mellan två typer av bakljus.
+Dessutom har du två alternativ för bakljus:
 
-- lights.taillight.technology.option.led
-- lights.taillight.technology.option.led
+- De valfria bakljusen använder LED-teknik.
+- De valfria bakljusen använder LED-teknik.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/headlights_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2003"  >}}
 

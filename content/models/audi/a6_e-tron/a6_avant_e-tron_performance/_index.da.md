@@ -234,13 +234,13 @@ Modellen har 2 USB-C-forbindelser som standard. Som en mulighed kan du få yderl
 
 Du kan vælge mellem to typer forlygter til Audi A6 Avant e-tron performance.
 
-- Standardlygterne bruger LED-teknologi.
-- Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
+- **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
+- **LED Matrix forlygter:** Tilgængelige som en mulighed, dette adaptive system opdeler den traditionelle enkelt forlygte-stråle i dusinvis af mindre stråler, som lysstyringen kan tænde og slukke individuelt, hvilket optimerer belysningen ved at dæmpe specifikke små områder foran.
 
-Desuden kan du vælge mellem to typer baglygter.
+Derudover har du to muligheder for baglygter:
 
-- Derudover bruger standardbaglygterne LED-teknologi.
-- Derudover bruger standardbaglygterne OLED-teknologi.
+- Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
+- De standard baglygter bruger OLED-teknologi.
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 

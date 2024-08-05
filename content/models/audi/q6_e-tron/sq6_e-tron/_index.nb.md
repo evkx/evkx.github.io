@@ -240,10 +240,10 @@ Modellen har 2 USB-C-tilkoblinger som standard. Som et alternativ kan du få ytt
 
 Du kan velge mellom to typer frontlykter for Audi SQ6 e-tron.
 
-- Standardlyktene bruker LED-teknologi.
-- Hovedlykter basert på LED Matrix-teknologi er tilgjengelig som ekstrautstyr. LED Matrix er et adaptivt system som deler den tradisjonelle enkeltstrålen av frontlys i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt for å avlyse små områder foran.
+- **Standard frontlykter:** Disse bruker avansert LED-teknologi, som gir lys og effektiv belysning.
+- **LED Matrix frontlykter:** Tilgjengelig som et alternativ, dette adaptive systemet deler den tradisjonelle frontlysbjelken i dusinvis av mindre stråler som lyskontrolleren kan slå av og på individuelt, og optimaliserer belysningen ved å dempe spesifikke små områder foran.
 
-I tillegg bruker standard baklykter LED-teknologi.
+Standard baklykter bruker LED-teknologi, som sikrer synlighet og effektivitet.
 
 {{< sitefiguresized thumb="models/audi/q6_e-tron/sq6_e-tron/headlights_1_st.jpg" title="Audi SQ6 e-tron" width="3000" height="2249"  >}}
 

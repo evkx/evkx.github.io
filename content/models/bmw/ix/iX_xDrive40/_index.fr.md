@@ -189,10 +189,10 @@ Le modèle dispose de 6 connexions USB-C en standard.
 
 Vous pouvez choisir entre deux types de phares pour le BMW iX xDrive40.
 
-- Les phares standards utilisent la technologie LED.
-- Des phares basés sur la technologie LED Matrix avec technologie Laser sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer. et éteindre individuellement pour éteindre les petites zones devant.
+- **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
+- **Phares LED Matrix avec technologie laser :** Également disponibles en option, ces phares combinent les caractéristiques adaptatives du système LED Matrix avec la technologie laser pour une luminosité et une portée améliorées, offrant une illumination et une sécurité supérieures.
 
-De plus, les feux arrière standard utilisent la technologie LED.
+Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 
 ## Systèmes avancés d'aide à la conduite
 

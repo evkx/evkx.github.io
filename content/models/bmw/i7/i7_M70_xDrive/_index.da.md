@@ -197,10 +197,10 @@ Modellen har 6 USB-C-forbindelser som standard.
 
 Du kan vælge mellem to typer forlygter til BMW i7 M70 xDrive.
 
-- Standardlygterne bruger LED-teknologi.
-- Forlygter baseret på LED Matrix med laserteknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukkes individuelt for at aflyse små områder foran.
+- **Standard forlygter:** Disse bruger avanceret LED-teknologi, som giver lys og effektiv belysning.
+- **LED Matrix forlygter med laserteknologi:** Også tilgængelige som en mulighed, disse forlygter kombinerer de adaptive egenskaber ved LED Matrix-systemet med laserteknologi for forbedret lysstyrke og rækkevidde, hvilket giver overlegen belysning og sikkerhed.
 
-Derudover bruger standardbaglygterne LED-teknologi.
+Standard baglygter bruger LED-teknologi, hvilket sikrer synlighed og effektivitet.
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_m70_xdrive/headlights_1_st.jpg" title="BMW i7 M70 xDrive" width="3000" height="2001"  >}}
 

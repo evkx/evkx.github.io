@@ -234,13 +234,13 @@ Modellen har 2 USB-C-anslutningar som standard. Som ett alternativ kan du få yt
 
 Du kan välja mellan två typer av strålkastare för Audi A6 Avant e-tron performance.
 
-- Standardlamporna använder LED-teknik.
-- Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
+- **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+- **LED Matrix strålkastare:** Finns som ett alternativ, detta adaptiva system delar den traditionella strålkastarstrålen i dussintals mindre strålar som ljuskontrollen kan tända och släcka individuellt, vilket optimerar belysningen genom att släcka specifika små områden framför.
 
-Dessutom kan du välja mellan två typer av bakljus.
+Dessutom har du två alternativ för bakljus:
 
-- Dessutom använder standardbakljusen LED-teknik.
-- Dessutom använder standardbakljus OLED-teknik.
+- Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
+- Standard bakljus använder OLED-teknik.
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 

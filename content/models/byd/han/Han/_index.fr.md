@@ -193,9 +193,9 @@ Le modèle dispose de 1 connexions USB-C en standard. Le modèle dispose de 5 co
 
 ## Lumières
 
-Les phares standards utilisent la technologie LED.
+**Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
 
-De plus, les feux arrière standard utilisent la technologie LED.
+Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 
 {{< sitefiguresized thumb="models/byd/han/han/headlights_1_st.jpg" title="BYD Han" width="1600" height="1067"  >}}
 

@@ -186,10 +186,10 @@ Modellen har 6 USB-C-anslutningar som standard.
 
 Du kan välja mellan två typer av strålkastare för BMW iX M60.
 
-- Standardlamporna använder LED-teknik.
-- Strålkastare baserade på LED Matrix med laserteknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkla ljusstrålen i dussintals mindre strålar som ljusregulatorn kan slå på och av individuellt för att avbryta små ytor framför.
+- **Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
+- **LED Matrix strålkastare med laserteknik:** Finns också som ett alternativ, dessa strålkastare kombinerar de adaptiva egenskaperna hos LED Matrix-systemet med laserteknik för förbättrad ljusstyrka och räckvidd, vilket ger överlägsen belysning och säkerhet.
 
-Dessutom använder standardbakljusen LED-teknik.
+Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
 {{< sitefiguresized thumb="models/bmw/ix/ix_m60/headlights_1_st.jpg" title="BMW iX M60" width="3000" height="1999"  >}}
 

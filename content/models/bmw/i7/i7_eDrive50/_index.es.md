@@ -215,10 +215,10 @@ El modelo tiene 6 conexiones USB-C de serie.
 
 Puedes elegir entre dos tipos de faros para el BMW i7 eDrive50.
 
-- Los faros estándar utilizan tecnología LED.
-- Los faros basados en LED Matrix con tecnología láser están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apague individualmente para apagar las áreas pequeñas en el frente.
+- **Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
+- **Faros LED Matrix con tecnología láser:** También disponibles como una opción, estos faros combinan las características adaptativas del sistema LED Matrix con la tecnología láser para una mayor iluminación y alcance, ofreciendo una iluminación superior y seguridad.
 
-Además, las luces traseras estándar utilizan tecnología LED.
+Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
 
 {{< sitefiguresized thumb="models/bmw/i7/i7_edrive50/headlights_1_st.jpg" title="BMW i7 eDrive50" width="3000" height="1999"  >}}
 

@@ -171,9 +171,9 @@ Un tipo de sistema de sonido está disponible para el XPENG X9 AWD Performance.
 
 ## Luces
 
-Los faros estándar utilizan tecnología LED.
+**Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
 
-Además, las luces traseras estándar utilizan tecnología LED.
+Las luces traseras estándar usan tecnología LED, asegurando visibilidad y eficiencia.
 
 ## Sistemas avanzados de asistencia al conductor
 

@@ -171,9 +171,9 @@ Un type de système audio est disponible pour le XPENG X9 AWD Performance.
 
 ## Lumières
 
-Les phares standards utilisent la technologie LED.
+**Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
 
-De plus, les feux arrière standard utilisent la technologie LED.
+Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
 
 ## Systèmes avancés d'aide à la conduite
 

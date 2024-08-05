@@ -234,13 +234,13 @@ Le modèle dispose de 2 connexions USB-C en standard. En option, vous pouvez obt
 
 Vous pouvez choisir entre deux types de phares pour le Audi A6 Avant e-tron performance.
 
-- Les phares standards utilisent la technologie LED.
-- Des phares basés sur la technologie LED Matrix sont disponibles en option. LED Matrix est un système adaptatif qui divise le faisceau de phare unique traditionnel en des dizaines de rayons plus petits que le contrôleur d'éclairage peut allumer et éteindre. individuellement pour éteindre les petites zones devant.
+- **Phares standard :** Ceux-ci utilisent la technologie LED avancée, fournissant une illumination lumineuse et efficace.
+- **Phares LED Matrix:** Disponibles en option, ce système adaptatif divise le faisceau de phare traditionnel en dizaines de petits rayons que le contrôleur de lumière peut allumer et éteindre individuellement, optimisant ainsi l'éclairage en atténuant les petites zones spécifiques à l'avant.
 
-De plus, vous pouvez choisir entre deux types de feux arrière.
+De plus, vous avez deux options pour les feux arrière :
 
-- De plus, les feux arrière standard utilisent la technologie LED.
-- De plus, les feux arrière standards utilisent la technologie OLED.
+- Les feux arrière standard utilisent la technologie LED, assurant visibilité et efficacité.
+- Les feux arrière standard utilisent la technologie OLED.
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}
 

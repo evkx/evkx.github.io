@@ -210,13 +210,13 @@ El modelo tiene 2 conexiones USB-C de serie. Como opción, puedes obtener 2 cone
 
 Puedes elegir entre dos tipos de faros para el Audi Q4 Sportback 55 e-tron quattro.
 
-- Los faros estándar utilizan tecnología LED.
-- Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
+- **Faros estándar:** Estos usan tecnología LED avanzada, proporcionando una iluminación brillante y eficiente.
+- **Faros LED Matrix:** Disponibles como una opción, este sistema adaptativo divide el haz de luz tradicional en docenas de pequeños rayos que el controlador de luz puede encender y apagar individualmente, optimizando la iluminación al atenuar áreas específicas al frente.
 
-Además, puedes elegir entre dos tipos de luces traseras.
+Además, tienes dos opciones para las luces traseras:
 
-- lights.taillight.technology.option.led
-- lights.taillight.technology.option.led
+- Las luces traseras opcionales usan tecnología LED.
+- Las luces traseras opcionales usan tecnología LED.
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 Sportback 55 e-tron quattro" width="3000" height="2000"  >}}
 

@@ -185,9 +185,9 @@ Modellen har 3 USB-C-anslutningar som standard.
 
 ## Ljus
 
-Standardlamporna använder LED-teknik.
+**Standard strålkastare:** Dessa använder avancerad LED-teknik, vilket ger ljus och effektiv belysning.
 
-Dessutom använder standardbakljusen LED-teknik.
+Standard bakljus använder LED-teknik, vilket säkerställer synlighet och effektivitet.
 
 {{< sitefiguresized thumb="models/tesla/model_3/model_3/headlights_1_st.jpeg" title="Tesla Model 3" width="3000" height="2250"  >}}
 
