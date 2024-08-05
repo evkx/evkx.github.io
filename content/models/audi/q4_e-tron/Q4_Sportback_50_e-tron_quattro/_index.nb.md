@@ -222,6 +222,10 @@ Du kan velge mellom to typer frontlykter for Audi Q4 Sportback 50 e-tron quattro
 
 I tillegg kan du velge mellom to typer baklys.
 
+- lights.taillight.technology.option.led
+- lights.taillight.technology.option.led
+
+
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_50_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 Sportback 50 e-tron quattro" width="3000" height="2000"  >}}
 

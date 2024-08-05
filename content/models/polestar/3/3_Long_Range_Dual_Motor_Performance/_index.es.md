@@ -190,7 +190,7 @@ Puedes elegir entre dos tipos de faros para el Polestar 3 Long Range Dual Motor 
 - Los faros estándar utilizan tecnología LED.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
-
+Además, las luces traseras estándar utilizan tecnología LED.
 
 
 {{< sitefiguresized thumb="models/polestar/3/3_long_range_dual_motor_performance/headlights_1_st.jpg" title="Polestar 3 Long Range Dual Motor Performance" width="3000" height="2250"  >}}

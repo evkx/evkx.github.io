@@ -196,6 +196,8 @@ Un tipo de sistema de sonido está disponible para el XPENG G9 RWD Long Range.
 
 Los faros estándar utilizan tecnología LED.
 
+Además, las luces traseras estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El XPENG G9 RWD Long Range tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.

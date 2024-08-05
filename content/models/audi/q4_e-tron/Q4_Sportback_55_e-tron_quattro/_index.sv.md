@@ -222,6 +222,10 @@ Du kan välja mellan två typer av strålkastare för Audi Q4 Sportback 55 e-tro
 
 Dessutom kan du välja mellan två typer av bakljus.
 
+- lights.taillight.technology.option.led
+- lights.taillight.technology.option.led
+
+
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_55_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 Sportback 55 e-tron quattro" width="3000" height="2000"  >}}
 

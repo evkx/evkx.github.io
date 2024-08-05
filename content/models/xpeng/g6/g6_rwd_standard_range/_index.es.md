@@ -187,6 +187,8 @@ El modelo tiene 4 conexiones USB-C de serie.
 
 Los faros estándar utilizan tecnología LED.
 
+Además, las luces traseras estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El XPENG G6 RWD Standard Range tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.

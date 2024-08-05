@@ -180,7 +180,7 @@ You can choose between two types of headlights for the Polestar 4 Long range Dua
 - The standard headlights use LED technology.
 - Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
-
+The standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_dual_motor/headlights_1_st.jpg" title="Polestar 4 Long range Dual motor" width="3000" height="2250"  >}}

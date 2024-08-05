@@ -177,6 +177,8 @@ El modelo tiene 1 conexiones USB-C de serie. El modelo tiene 3 conexiones USB-A 
 
 Los faros estándar utilizan tecnología LED.
 
+Además, las luces traseras estándar utilizan tecnología LED.
+
 ## Sistemas avanzados de asistencia al conductor
 
 El VOYAH FREE tiene varios [sistemas avanzados de asistencia al conductor](../../../../technology/driverassistance/) (ADAS) estándar y opcionales para mayor seguridad y comodidad.

@@ -226,6 +226,10 @@ Puedes elegir entre dos tipos de faros para el Audi Q4 50 e-tron quattro.
 
 Además, puedes elegir entre dos tipos de luces traseras.
 
+- lights.taillight.technology.option.led
+- lights.taillight.technology.option.led
+
+
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_50_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 50 e-tron quattro" width="3000" height="2003"  >}}
 

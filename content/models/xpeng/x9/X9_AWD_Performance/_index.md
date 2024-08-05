@@ -179,6 +179,8 @@ One type of sound system is available for the XPENG X9 AWD Performance.
 
 The standard headlights use LED technology.
 
+The standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The XPENG X9 AWD Performance has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

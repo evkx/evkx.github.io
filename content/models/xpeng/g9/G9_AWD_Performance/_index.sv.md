@@ -196,6 +196,8 @@ En typ av ljudsystem är tillgänglig för XPENG G9 AWD Performance.
 
 Standardlamporna använder LED-teknik.
 
+Dessutom använder standardbakljusen LED-teknik.
+
 ## Avancerade förarassistanssystem
 
 XPENG G9 AWD Performance har flera standard- och valfria [avancerade förarassistanssystem](../../../../technology/driverassistance/) (ADAS) för bättre säkerhet och komfort.

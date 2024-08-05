@@ -226,6 +226,10 @@ Du kan vælge mellem to typer forlygter til Audi Q4 55 e-tron quattro.
 
 Desuden kan du vælge mellem to typer baglygter.
 
+- lights.taillight.technology.option.led
+- lights.taillight.technology.option.led
+
+
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_55_e-tron_quattro/headlights_1_st.jpg" title="Audi Q4 55 e-tron quattro" width="3000" height="2003"  >}}
 

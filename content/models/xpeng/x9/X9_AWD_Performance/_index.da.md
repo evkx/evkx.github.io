@@ -179,6 +179,8 @@ Modellen har ikke et head-up display.
 
 Standardlygterne bruger LED-teknologi.
 
+Derudover bruger standardbaglygterne LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 XPENG X9 AWD Performance har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.

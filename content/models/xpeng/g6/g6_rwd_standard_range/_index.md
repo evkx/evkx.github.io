@@ -187,6 +187,8 @@ The model has 4 USB-C connections as standard.
 
 The standard headlights use LED technology.
 
+The standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The XPENG G6 RWD Standard Range has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

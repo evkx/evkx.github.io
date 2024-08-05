@@ -178,7 +178,7 @@ You can choose between two types of headlights for the Volvo EX40 Single Motor E
 - The standard headlights use LED technology.
 - Headlights based on LED Matrix technology are available as an option. LED Matrix is an adaptive system that splits the traditional single headlight beam into dozens of smaller rays that the light controller can turn on and off individually to un-light small areas in front.
 
-
+The standard taillights use LED technology.
 
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_single_motor_er/headlights_1_st.jpg" title="Volvo EX40 Single Motor ER" width="1080" height="1080"  >}}

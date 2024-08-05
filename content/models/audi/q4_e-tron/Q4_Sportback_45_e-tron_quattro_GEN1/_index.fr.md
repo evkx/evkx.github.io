@@ -228,6 +228,10 @@ Vous pouvez choisir entre deux types de phares pour le Audi Q4 Sportback 45 e-tr
 
 De plus, vous pouvez choisir entre deux types de feux arrière.
 
+- lights.taillight.technology.option.led
+- lights.taillight.technology.option.led
+
+
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_sportback_45_e-tron_quattro_gen1/headlights_1_st.jpg" title="Audi Q4 Sportback 45 e-tron quattro (GEN1)" width="3000" height="2000"  >}}
 

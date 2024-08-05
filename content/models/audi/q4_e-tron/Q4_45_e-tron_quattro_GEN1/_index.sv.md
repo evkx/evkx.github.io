@@ -232,6 +232,10 @@ Du kan välja mellan två typer av strålkastare för Audi Q4 45 e-tron quattro 
 
 Dessutom kan du välja mellan två typer av bakljus.
 
+- lights.taillight.technology.option.led
+- lights.taillight.technology.option.led
+
+
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/headlights_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2003"  >}}
 

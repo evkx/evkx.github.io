@@ -177,6 +177,8 @@ The model has 1 USB-C connections as standard. The model has 3 USB-A connections
 
 The standard headlights use LED technology.
 
+The standard taillights use LED technology.
+
 ## Advanced driver assistance systems
 
 The VOYAH FREE has several standard and optional [advanced driver assistance systems](../../../../technology/driverassistance/)  (ADAS) for better safety and comfort.

@@ -177,6 +177,8 @@ Modellen har 1 USB-C-tilkoblinger som standard. Modellen har 3 USB-A-tilkoblinge
 
 Standardlyktene bruker LED-teknologi.
 
+I tillegg bruker standard baklykter LED-teknologi.
+
 ## Avanserte førerassistentsystemer
 
 VOYAH FREE har flere standard og valgfrie [avanserte førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhet og komfort.

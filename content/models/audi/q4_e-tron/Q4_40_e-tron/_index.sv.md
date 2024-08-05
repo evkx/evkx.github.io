@@ -232,6 +232,10 @@ Du kan välja mellan två typer av strålkastare för Audi Q4 40 e-tron.
 
 Dessutom kan du välja mellan två typer av bakljus.
 
+- lights.taillight.technology.option.led
+- lights.taillight.technology.option.led
+
+
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_40_e-tron/headlights_1_st.jpg" title="Audi Q4 40 e-tron" width="3000" height="2003"  >}}
 

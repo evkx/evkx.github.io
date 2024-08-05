@@ -191,7 +191,7 @@ Du kan välja mellan två typer av strålkastare för Volvo C40 Recharge Twin Mo
 - Standardlamporna använder LED-teknik.
 - Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
 
-
+Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_twin_motor/headlights_1_st.jpg" title="Volvo C40 Recharge Twin Motor" width="3000" height="2000"  >}}

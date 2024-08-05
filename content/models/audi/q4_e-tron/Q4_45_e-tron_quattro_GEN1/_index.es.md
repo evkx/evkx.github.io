@@ -232,6 +232,10 @@ Puedes elegir entre dos tipos de faros para el Audi Q4 45 e-tron quattro (GEN1).
 
 Además, puedes elegir entre dos tipos de luces traseras.
 
+- lights.taillight.technology.option.led
+- lights.taillight.technology.option.led
+
+
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_45_e-tron_quattro_gen1/headlights_1_st.jpg" title="Audi Q4 45 e-tron quattro (GEN1)" width="3000" height="2003"  >}}
 

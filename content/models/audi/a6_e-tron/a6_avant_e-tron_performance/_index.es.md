@@ -240,7 +240,11 @@ Puedes elegir entre dos tipos de faros para el Audi A6 Avant e-tron performance.
 - Los faros estándar utilizan tecnología LED.
 - Los faros basados en tecnología LED Matrix están disponibles como opción. LED Matrix es un sistema adaptativo que divide el haz de luz tradicional en docenas de rayos más pequeños que el controlador de luz puede encender y apagar individualmente para apagar las áreas pequeñas en el frente.
 
-Además, puedes elegir entre dos tipos de luces traseras. Además, las luces traseras estándar utilizan tecnología LED. Además, las luces traseras estándar utilizan tecnología OLED.
+Además, puedes elegir entre dos tipos de luces traseras.
+
+- Además, las luces traseras estándar utilizan tecnología LED.
+- Además, las luces traseras estándar utilizan tecnología OLED.
+
 
 
 {{< sitefiguresized thumb="models/audi/a6_e-tron/a6_avant_e-tron_performance/headlights_1_st.jpg" title="Audi A6 Avant e-tron performance" width="3000" height="2249"  >}}

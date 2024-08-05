@@ -178,7 +178,7 @@ Du kan välja mellan två typer av strålkastare för Volvo EX40 Twin Motor.
 - Standardlamporna använder LED-teknik.
 - Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
 
-
+Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/volvo/ex40/ex40_twin_motor/headlights_1_st.jpg" title="Volvo EX40 Twin Motor" width="1080" height="1080"  >}}

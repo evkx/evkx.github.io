@@ -191,7 +191,7 @@ Du kan vælge mellem to typer forlygter til Volvo C40 Recharge Single Motor.
 - Standardlygterne bruger LED-teknologi.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
-
+Derudover bruger standardbaglygterne LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/volvo/c40/C40_recharge_single_motor/headlights_1_st.jpg" title="Volvo C40 Recharge Single Motor" width="3000" height="2000"  >}}

@@ -180,7 +180,7 @@ Du kan vælge mellem to typer forlygter til Polestar 4 Long range Single motor.
 - Standardlygterne bruger LED-teknologi.
 - Forlygter baseret på LED Matrix-teknologi fås som ekstraudstyr. LED Matrix er et adaptivt system, der opdeler den traditionelle enkelt forlygtestråle i snesevis af mindre stråler, som lysregulatoren kan tænde og slukke for individuelt for at aflyse små områder foran.
 
-
+Derudover bruger standardbaglygterne LED-teknologi.
 
 
 {{< sitefiguresized thumb="models/polestar/4/4_long_range_single_motor/headlights_1_st.jpg" title="Polestar 4 Long range Single motor" width="3000" height="2250"  >}}

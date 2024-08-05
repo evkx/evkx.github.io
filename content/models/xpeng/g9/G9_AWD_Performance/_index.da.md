@@ -196,6 +196,8 @@ Derudover får du med en standard navigationssystemet i bilen den hjælp, du har
 
 Standardlygterne bruger LED-teknologi.
 
+Derudover bruger standardbaglygterne LED-teknologi.
+
 ## Avancerede førerassistentsystemer
 
 XPENG G9 AWD Performance har flere standard- og valgfrie [avancerede førerassistentsystemer](../../../../technology/driverassistance/) (ADAS) for bedre sikkerhed og komfort.

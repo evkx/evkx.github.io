@@ -236,7 +236,11 @@ You can choose between two types of headlights for the Audi Q4 40 e-tron.
 - The standard headlights use LED technology.
 - Audi also offers the Matrix LED headlights as an option.  Using the MMI touch operating system, the driver can switch between four digital light signatures at any time. Each generates its theme and lends the daytime running lights an individual expression. The car remembers your selection.
 
-In addition, you can choose between two types of taillights. The standard taillight uses LED technology and offers two distinctive lights, including one reversing light. The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights.
+In addition, you can choose between two types of taillights.
+
+- The standard taillight uses LED technology and offers two distinctive lights, including one reversing light.
+- The optional taillight also uses LED technology but includes the distinctive e-tron led bar and two reversing lights.
+
 
 
 {{< sitefiguresized thumb="models/audi/q4_e-tron/q4_40_e-tron/headlights_1_st.jpg" title="Audi Q4 40 e-tron" width="3000" height="2003"  >}}

@@ -198,7 +198,7 @@ Du kan välja mellan två typer av strålkastare för Volvo EX90 Twin Motor Perf
 - Standardlamporna använder LED-teknik.
 - Strålkastare baserade på LED Matrix-teknik finns som tillval. LED Matrix är ett adaptivt system som delar upp den traditionella enkelstrålen av strålkastare i dussintals mindre strålar som ljusregulatorn kan vända slå på och av individuellt för att avbryta små ytor framför.
 
-
+Dessutom använder standardbakljusen LED-teknik.
 
 
 {{< sitefiguresized thumb="models/volvo/ex90/ex90_twin_motor_performance/headlights_1_st.jpg" title="Volvo EX90 Twin Motor Performance" width="3000" height="2250"  >}}
